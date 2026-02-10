@@ -70,12 +70,12 @@ GitHub Actions 크론 스케줄로 매일 자동 실행되는 AI 기술 뉴스 �
 - `requirements.txt` - 의존성 목록
 
 ### Definition of Done
-- [ ] `python src/main.py --dry-run` 로컬에서 에러 없이 실행됨
-- [ ] GeekNews + HN에서 기사 수집되고 JSON에 저장됨
-- [ ] 중복 실행 시 데이터가 중복되지 않음
-- [ ] 텔레그램으로 포매팅된 다이제스트 메시지 수신됨
-- [ ] GitHub Actions 워크플로우가 유효한 YAML임
-- [ ] GitHub Actions에서 실행 실패 시 텔레그램 알림 발송됨
+- [x] `python src/main.py --dry-run` 로컬에서 에러 없이 실행됨
+- [x] GeekNews + HN에서 기사 수집되고 JSON에 저장됨
+- [x] 중복 실행 시 데이터가 중복되지 않음
+- [x] 텔레그램으로 포매팅된 다이제스트 메시지 수신됨
+- [x] GitHub Actions 워크플로우가 유효한 YAML임
+- [x] GitHub Actions에서 실행 실패 시 텔레그램 알림 발송됨
 
 ### Must Have
 - 매일 오전 8시 KST 자동 실행
@@ -184,7 +184,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ## TODOs
 
-- [ ] 1. 프로젝트 초기 설정 및 설정 모듈
+- [x] 1. 프로젝트 초기 설정 및 설정 모듈
 
   **What to do**:
   - `requirements.txt` 생성 (의존성 목록):
@@ -296,7 +296,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 2. 시스템 아키텍처 설계도 (README.md)
+- [x] 2. 시스템 아키텍처 설계도 (README.md)
 
   **What to do**:
   - `README.md` 작성:
@@ -400,7 +400,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 3. 데이터 수집 모듈 (scraper.py)
+- [x] 3. 데이터 수집 모듈 (scraper.py)
 
   **What to do**:
   - `src/scraper.py` 구현:
@@ -573,7 +573,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 4. AI 처리 모듈 (ai_handler.py)
+- [x] 4. AI 처리 모듈 (ai_handler.py)
 
   **What to do**:
   - `src/ai_handler.py` 구현:
@@ -735,7 +735,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 5. 데이터 저장 모듈 (storage.py)
+- [x] 5. 데이터 저장 모듈 (storage.py)
 
   **What to do**:
   - `src/storage.py` 구현:
@@ -895,7 +895,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 6. 알림 모듈 (notifier.py)
+- [x] 6. 알림 모듈 (notifier.py)
 
   **What to do**:
   - `src/notifier.py` 구현:
@@ -1067,7 +1067,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 7. 메인 오케스트레이터 (main.py)
+- [x] 7. 메인 오케스트레이터 (main.py)
 
   **What to do**:
   - `src/main.py` 구현:
@@ -1221,7 +1221,7 @@ Parallel Speedup: ~35% faster than sequential
 
 ---
 
-- [ ] 8. GitHub Actions 워크플로우 + 최종 통합
+- [x] 8. GitHub Actions 워크플로우 + 최종 통합
 
   **What to do**:
   - `.github/workflows/daily-digest.yml` 생성:
