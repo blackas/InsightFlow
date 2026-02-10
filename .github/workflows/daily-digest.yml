@@ -1,0 +1,60 @@
+name: InsightFlow Daily Digest
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # 매일 KST 08:00 (UTC 23:00)
+  workflow_dispatch:  # 수동 트리거 지원
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false  # 진행 중인 실행 취소하지 않음
+
+permissions:
+  contents: write  # JSON 파일 커밋용
+  issues: write    # GitHub Issues 생성용
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run InsightFlow Pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python src/main.py
+
+      - name: Commit Updated Data
+        run: |
+          git config user.name "InsightFlow Bot"
+          git config user.email "insightflow-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: daily digest $(date +%Y-%m-%d)"
+          git push
+
+      - name: Notify on Failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -c "
+          from src.notifier import send_failure_notification
+          send_failure_notification('GitHub Actions workflow failed. Check: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
+          "
