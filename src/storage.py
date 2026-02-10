@@ -70,7 +70,7 @@ def save_daily_articles(articles: list[Article], date_str: str) -> Path:
 
     file_path = dir_path / f"{day}.json"
 
-    existing: list[dict] = []
+    existing: list[dict[str, object]] = []
     if file_path.exists():
         try:
             with open(file_path, encoding="utf-8") as f:
@@ -91,18 +91,6 @@ def save_daily_articles(articles: list[Article], date_str: str) -> Path:
 
 
 def create_github_issues(articles: list[Article]) -> int:
-    """Create GitHub Issues for high-relevance articles.
-
-    Only articles with relevance_score >= ISSUE_THRESHOLD are posted.
-    Maximum MAX_ISSUES_PER_RUN issues created per run.
-    Skipped in dry-run mode.
-
-    Args:
-        articles: Articles to potentially create issues for.
-
-    Returns:
-        Number of issues created.
-    """
     if config.DRY_RUN:
         logger.info("[DRY RUN] Skipping GitHub Issues creation")
         return 0
@@ -116,13 +104,11 @@ def create_github_issues(articles: list[Article]) -> int:
         )
         return 0
 
-    # Filter by relevance threshold
     notable = [a for a in articles if a.relevance_score >= config.ISSUE_THRESHOLD]
     if not notable:
         logger.info("No articles above issue threshold (%.1f)", config.ISSUE_THRESHOLD)
         return 0
 
-    # Cap at max issues per run
     notable = notable[:MAX_ISSUES_PER_RUN]
 
     api_url = f"https://api.github.com/repos/{github_repo}/issues"
