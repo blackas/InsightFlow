@@ -1453,11 +1453,11 @@ ls -la src/main.py src/scraper.py src/ai_handler.py src/storage.py src/notifier.
 ```
 
 ### Final Checklist
-- [ ] All "Must Have" present (11개 항목)
-- [ ] All "Must NOT Have" absent (12개 가드레일)
-- [ ] 전체 파이프라인 `--dry-run` 성공
-- [ ] GitHub Actions YAML 유효
-- [ ] README에 아키텍처 다이어그램 + 로컬 테스트 가이드 포함
-- [ ] 텔레그램 테스트 메시지 발송 성공
-- [ ] 중복 실행 시 데이터 중복 없음
-- [ ] Gemini API 호출 횟수 < 20 per run (배칭 효과)
+- [x] All "Must Have" present (11개 항목)
+- [x] All "Must NOT Have" absent (12개 가드레일)
+- [x] 전체 파이프라인 `--dry-run` 성공
+- [x] GitHub Actions YAML 유효
+- [x] README에 아키텍처 다이어그램 + 로컬 테스트 가이드 포함
+- [x] 텔레그램 테스트 메시지 발송 성공
+- [x] 중복 실행 시 데이터 중복 없음
+- [x] Gemini API 호출 횟수 < 20 per run (배칭 효과)
