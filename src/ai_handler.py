@@ -56,7 +56,6 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
     for i in range(0, len(articles), batch_size):
         batch = articles[i : i + batch_size]
 
-        # Build prompt
         articles_text = ""
         for idx, article in enumerate(batch, 1):
             articles_text += (
@@ -72,11 +71,10 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
             f'[{{"index": 1, "relevance": 0.85, "summary": "..."}}, ...]'
         )
 
-        # Retry with exponential backoff for 429 errors
         response_data = None
         backoff_times = [5, 15, 45]
 
-        for attempt in range(4):  # initial + 3 retries
+        for attempt in range(4):
             try:
                 response = model.generate_content(prompt)
                 response_text = response.text
@@ -149,36 +147,17 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
 
 
 def filter_and_summarize(articles: list[Article]) -> list[Article]:
-    """Full filtering pipeline: keyword filter -> Gemini summarize -> threshold filter.
-
-    Steps:
-        1. keyword_filter() - first-pass keyword matching
-        2. batch_summarize() - Gemini AI relevance scoring + Korean summaries
-        3. Filter by relevance_score >= config.RELEVANCE_THRESHOLD (0.6)
-        4. Flag articles with relevance_score >= config.ISSUE_THRESHOLD (0.8) as notable
-
-    Args:
-        articles: Raw articles from scraper.
-
-    Returns:
-        Filtered and summarized articles above relevance threshold.
-    """
-    # Step 1: Keyword filtering
+    """Pipeline: keyword_filter -> batch_summarize -> relevance threshold -> notable flag."""
     filtered = keyword_filter(articles)
     if not filtered:
         logger.info("No articles passed keyword filter")
         return []
 
-    # Step 2: Gemini batch summarization
     summarized = batch_summarize(filtered)
 
-    # Step 3: Relevance threshold filtering
     result: list[Article] = []
     for article in summarized:
-        # Articles without Gemini scores (API failure) pass through
-        # if they matched keywords
         if article.relevance_score >= config.RELEVANCE_THRESHOLD:
-            # Step 4: Flag notable articles
             if article.relevance_score >= config.ISSUE_THRESHOLD:
                 article.notable = True
             result.append(article)
