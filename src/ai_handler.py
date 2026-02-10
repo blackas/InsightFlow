@@ -72,6 +72,7 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
         )
 
         response_data = None
+        response_text = ""
         backoff_times = [5, 15, 45]
 
         for attempt in range(4):
@@ -79,7 +80,6 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                 response = model.generate_content(prompt)
                 response_text = response.text
 
-                # Parse JSON response
                 response_data = json.loads(response_text)
                 break
 
@@ -89,11 +89,10 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                     i // batch_size + 1,
                     attempt + 1,
                 )
-                # Try to extract JSON from response text
-                if response_text:  # type: ignore[possibly-undefined]
+                # Gemini sometimes wraps JSON in markdown code blocks
+                if response_text:
                     try:
-                        # Handle cases where JSON is wrapped in markdown
-                        cleaned = response_text.strip()  # type: ignore[possibly-undefined]
+                        cleaned = response_text.strip()
                         if cleaned.startswith("```"):
                             cleaned = cleaned.split("\n", 1)[1]
                             cleaned = cleaned.rsplit("```", 1)[0]
@@ -126,10 +125,9 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                     )
                     break
 
-        # Apply results to articles
         if response_data and isinstance(response_data, list):
             for item in response_data:
-                idx = item.get("index", 0) - 1  # 1-based to 0-based
+                idx = item.get("index", 0) - 1
                 if 0 <= idx < len(batch):
                     batch[idx].ai_summary = item.get("summary", "")
                     batch[idx].relevance_score = float(item.get("relevance", 0.0))
@@ -139,7 +137,6 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                 i // batch_size + 1,
             )
 
-        # Rate limit delay between batches (skip after last batch)
         if i + batch_size < len(articles):
             time.sleep(2)
 

@@ -1,8 +1,13 @@
+from __future__ import annotations
+
 import asyncio
+import calendar
 import logging
 import re
+import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
+from typing import cast
 
 import aiohttp
 import feedparser
@@ -56,14 +61,9 @@ def fetch_geeknews() -> list[Article]:
         for entry in feed.entries:
             published = entry.get("published_parsed") or entry.get("updated_parsed")
             if published:
-                pub_dt = datetime(
-                    year=int(published[0]),
-                    month=int(published[1]),
-                    day=int(published[2]),
-                    hour=int(published[3]),
-                    minute=int(published[4]),
-                    second=int(published[5]),
-                    tzinfo=timezone.utc,
+                pub_dt = datetime.fromtimestamp(
+                    calendar.timegm(cast(time.struct_time, published)),
+                    tz=timezone.utc,
                 )
                 if pub_dt < cutoff:
                     continue
@@ -110,7 +110,6 @@ def fetch_geeknews() -> list[Article]:
 async def _fetch_hn_item(
     session: aiohttp.ClientSession, item_id: int
 ) -> Article | None:
-    """Fetch a single HN item by ID."""
     url = f"{config.HN_API_BASE}item/{item_id}.json"
     try:
         async with session.get(url) as resp:
@@ -138,7 +137,7 @@ async def _fetch_hn_item(
             title=title,
             url=item_url,
             discussion_url=discussion_url,
-            summary="",  # HN API doesn't provide summaries
+            summary="",
             score=data.get("score", 0),
             published_at=published_iso,
         )
@@ -149,18 +148,8 @@ async def _fetch_hn_item(
 
 
 async def fetch_hackernews(count: int = 30) -> list[Article]:
-    """Fetch top stories from Hacker News API using async parallel requests.
-
-    Args:
-        count: Number of top stories to fetch (default: 30).
-
-    Returns:
-        List of Article objects. Failed individual items are skipped.
-        Returns empty list on complete failure.
-    """
     try:
         async with aiohttp.ClientSession(headers={"User-Agent": USER_AGENT}) as session:
-            # Step 1: Get top story IDs
             top_url = f"{config.HN_API_BASE}topstories.json"
             async with session.get(top_url) as resp:
                 if resp.status != 200:
@@ -168,10 +157,7 @@ async def fetch_hackernews(count: int = 30) -> list[Article]:
                     return []
                 story_ids = await resp.json()
 
-            # Take top `count` IDs
             story_ids = story_ids[:count]
-
-            # Step 2: Fetch items in parallel
             tasks = [_fetch_hn_item(session, sid) for sid in story_ids]
             results = await asyncio.gather(*tasks)
 
@@ -185,12 +171,6 @@ async def fetch_hackernews(count: int = 30) -> list[Article]:
 
 
 async def scrape_all() -> list[Article]:
-    """Fetch articles from all sources and combine results.
-
-    Each source fails independently - a failure in one source
-    does not affect the other.
-    """
-    # Run GeekNews (sync) in executor to not block event loop
     loop = asyncio.get_event_loop()
     geeknews_task = loop.run_in_executor(None, fetch_geeknews)
     hackernews_task = fetch_hackernews(count=config.HN_TOP_N)
