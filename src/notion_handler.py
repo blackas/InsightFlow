@@ -13,25 +13,27 @@ logger = logging.getLogger(__name__)
 MAX_NOTION_PER_RUN = 5
 
 _DATABASE_PROPERTIES: dict[str, Any] = {
-    "제목": {"title": {}},
+    "제목": {"type": "title", "title": {}},
     "소스": {
+        "type": "select",
         "select": {
             "options": [
                 {"name": "geeknews", "color": "green"},
                 {"name": "hackernews", "color": "orange"},
             ]
-        }
+        },
     },
-    "관련성": {"number": {"format": "percent"}},
-    "AI 요약": {"rich_text": {}},
-    "원문 URL": {"url": {}},
-    "토론 URL": {"url": {}},
-    "날짜": {"date": {}},
-    "읽음": {"checkbox": {}},
+    "관련성": {"type": "number", "number": {"format": "percent"}},
+    "AI 요약": {"type": "rich_text", "rich_text": {}},
+    "원문 URL": {"type": "url", "url": {}},
+    "토론 URL": {"type": "url", "url": {}},
+    "날짜": {"type": "date", "date": {}},
+    "읽음": {"type": "checkbox", "checkbox": {}},
     "태그": {
+        "type": "multi_select",
         "multi_select": {
             "options": [{"name": tag} for tag in config.NOTION_TAGS],
-        }
+        },
     },
 }
 
@@ -47,24 +49,46 @@ def _resolve_data_source_id(client: notion_client.Client, database_id: str) -> s
 
 
 def ensure_database(client: notion_client.Client) -> str:
+    # Backward-compatible: use explicit DB ID if set
     if config.NOTION_DATABASE_ID:
         logger.info("Using existing Notion database: %s", config.NOTION_DATABASE_ID)
         return _resolve_data_source_id(client, config.NOTION_DATABASE_ID)
 
+    week_id = config.get_week_identifier()  # e.g. "2026-W07"
+    db_title = f"{week_id} Articles"
+
+    # 1. Search for existing weekly DB
+    results = cast(
+        dict[str, Any],
+        client.search(
+            query=db_title,
+            filter={"value": "data_source", "property": "object"},
+        ),
+    )
+    for result in results.get("results", []):
+        title_parts = result.get("title", [])
+        if title_parts and title_parts[0].get("plain_text") == db_title:
+            ds_id = result["id"]  # search result id is the data_source_id
+            logger.info("Reusing weekly database '%s': %s", db_title, ds_id)
+            return ds_id
+
+    # 2. Create new weekly DB (uses initial_data_source to work around SDK pick() bug)
     logger.info(
-        "Creating new Notion database under page %s", config.NOTION_PARENT_PAGE_ID
+        "Creating weekly database '%s' under page %s",
+        db_title,
+        config.NOTION_PARENT_PAGE_ID,
     )
     data = cast(
         dict[str, Any],
         client.databases.create(
             parent={"type": "page_id", "page_id": config.NOTION_PARENT_PAGE_ID},
-            title=[{"type": "text", "text": {"content": "InsightFlow Articles"}}],
-            properties=_DATABASE_PROPERTIES,
+            title=[{"type": "text", "text": {"content": db_title}}],
+            initial_data_source={"properties": _DATABASE_PROPERTIES},
         ),
     )
-    db_id = data["id"]
-    logger.info("Created Notion database: %s", db_id)
-    return data["data_sources"][0]["id"]
+    ds_id = data["data_sources"][0]["id"]
+    logger.info("Created weekly database '%s': %s", db_title, ds_id)
+    return ds_id
 
 
 def _is_duplicate(

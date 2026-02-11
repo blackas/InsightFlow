@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -79,3 +80,14 @@ NOTION_API_KEY = os.getenv("NOTION_API_KEY")
 NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
 NOTION_PARENT_PAGE_ID = os.getenv("NOTION_PARENT_PAGE_ID")
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
+
+
+def get_week_identifier() -> str:
+    """
+    Get the current week identifier in ISO format.
+
+    Returns:
+        str: ISO week identifier in format "YYYY-WNN" (e.g., "2026-W07")
+    """
+    year, week, _ = datetime.now().isocalendar()
+    return f"{year:04d}-W{week:02d}"
