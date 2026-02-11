@@ -62,13 +62,15 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                 f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
             )
 
+        tags_list = ", ".join(config.NOTION_TAGS)
         prompt = (
             f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
             f"1. 개발자 관련성 점수 (0.0~1.0)\n"
-            f"2. 한국어로 3줄 핵심 요약\n\n"
+            f"2. 한국어로 3줄 핵심 요약\n"
+            f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
             f"기사 목록:\n{articles_text}\n"
             f"JSON 형식으로 응답해주세요:\n"
-            f'[{{"index": 1, "relevance": 0.85, "summary": "..."}}, ...]'
+            f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
         )
 
         response_data = None
@@ -126,11 +128,18 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
                     break
 
         if response_data and isinstance(response_data, list):
+            valid_tags = set(config.NOTION_TAGS)
             for item in response_data:
                 idx = item.get("index", 0) - 1
                 if 0 <= idx < len(batch):
                     batch[idx].ai_summary = item.get("summary", "")
                     batch[idx].relevance_score = float(item.get("relevance", 0.0))
+                    raw_tags = item.get("tags", [])
+                    if isinstance(raw_tags, list):
+                        filtered = [t for t in raw_tags if t in valid_tags][:3]
+                        batch[idx].tags = filtered if filtered else ["Other"]
+                    else:
+                        batch[idx].tags = ["Other"]
         else:
             logger.warning(
                 "Batch %d: No valid response, keeping original articles",
