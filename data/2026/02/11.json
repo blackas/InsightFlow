@@ -180,5 +180,56 @@
       "Backend",
       "Tool"
     ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46971516",
+    "title": "Windows Notepad App Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+    "discussion_url": "https://news.ycombinator.com/item?id=46971516",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-02-11T06:15:33+00:00",
+    "ai_summary": "Windows Notepad 앱에서 심각한 원격 코드 실행 취약점이 발견되었습니다.\n이 취약점은 공격자가 사용자 시스템을 제어할 수 있게 하여 큰 보안 위협이 됩니다.\n개발자와 사용자는 즉시 최신 보안 패치를 적용하여 위험에 대비해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46911581",
+    "title": "Signy: Signed URLs for Small Devices",
+    "url": "https://github.com/golioth/signy",
+    "discussion_url": "https://news.ycombinator.com/item?id=46911581",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-02-06T11:25:55+00:00",
+    "ai_summary": "Signy는 소형 장치를 위한 효율적이고 안전한 서명된 URL 솔루션을 제공합니다.\n이를 통해 IoT 기기나 저사양 환경에서도 리소스에 안전하게 접근할 수 있습니다.\n백엔드 개발 및 보안 아키텍처 설계 시 중요한 고려 사항을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46972056",
+    "title": "Communities Are Not Fungible",
+    "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46972056",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-02-11T07:42:57+00:00",
+    "ai_summary": "커뮤니티는 대체할 수 없는 고유한 가치와 특성을 지니고 있습니다.\n성공적인 커뮤니티는 구성원 간의 깊은 참여와 상호 신뢰를 바탕으로 성장합니다.\n개발자들은 커뮤니티의 중요성을 이해하고 건강한 참여를 통해 함께 발전해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
   }
 ]
