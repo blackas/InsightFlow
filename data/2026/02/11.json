@@ -76,5 +76,23 @@
     "ai_summary": "전 GitHub CEO가 만든 AI 에이전트를 위한 새로운 개발자 플랫폼 'Entire'입니다.\n인간과 에이전트가 협업, 학습, 배포할 수 있는 차세대 플랫폼을 목표로 합니다.\nGit 호환 DB, 의미 추론 계층, AI 네이티브 SDLC를 핵심 요소로 포함합니다.",
     "relevance_score": 0.85,
     "notable": true
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26597",
+    "title": "WebMCP (Web Model Context Protocol) 공개",
+    "url": "https://news.hada.io/topic?id=26597",
+    "discussion_url": "https://news.hada.io/topic?id=26597",
+    "summary": "WebMCP는 웹사이트가 브라우저 내 AI 에이전트에게 구조화된 도구를 직접 노출하도록 설계된 제안 표준\n기존의 화면 스크래핑이나 DOM 추론 대신, 웹이 스스로 “이 페이지에서 무엇을 할 수 있는지” 기능과 입력·출력을 명시적 계약 형태로 제공...",
+    "score": 0,
+    "published_at": "2026-02-11T01:31:02+00:00",
+    "ai_summary": "WebMCP는 웹사이트가 브라우저 내 AI 에이전트에 기능을 직접 노출하는 새로운 표준 프로토콜입니다.\n기존 화면 스크래핑 대신 웹이 스스로 제공할 수 있는 기능과 입출력을 명시적으로 정의합니다.\n웹 개발자는 AI 에이전트와의 상호작용을 위한 구조화된 도구 정의를 통해 효율적인 통합이 가능해집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
   }
 ]
