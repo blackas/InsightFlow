@@ -47,21 +47,20 @@ graph TD
 
 ## 🚀 로컬 개발 환경 설정
 
-### 1. 레포지토리 클론
+### 1. uv 설치
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+### 2. 레포지토리 클론
 ```bash
 git clone <your-repo-url>
 cd InsightFlow
 ```
 
-### 2. Python 가상환경 생성
-```bash
-python3.11 -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-```
-
 ### 3. 의존성 설치
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ### 4. 환경변수 설정
@@ -72,7 +71,7 @@ cp .env.example .env
 
 ### 5. 로컬 테스트 실행
 ```bash
-python src/main.py --dry-run
+uv run python -m src.main --dry-run
 ```
 
 ## ⚙️ GitHub Actions 설정
@@ -137,12 +136,12 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 
 ### 로컬에서 Dry Run 실행
 ```bash
-python src/main.py --dry-run
+uv run python -m src.main --dry-run
 ```
 
 ### 환경변수로 Dry Run 설정
 ```bash
-DRY_RUN=true python src/main.py
+DRY_RUN=true uv run python -m src.main
 ```
 
 ### 특정 소스만 테스트

@@ -23,14 +23,16 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          enable-cache: true
+
+      - name: Set up Python 3.11
+        run: uv python install 3.11
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: uv sync
 
       - name: Run InsightFlow Pipeline
         env:
@@ -38,7 +40,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m src.main
+        run: uv run python -m src.main
 
       - name: Commit Updated Data
         run: |
@@ -54,7 +56,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python -c "
+          uv run python -c "
           import sys; sys.path.insert(0, '.')
           from src.notifier import send_failure_notification
           send_failure_notification('GitHub Actions workflow failed. Check: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
