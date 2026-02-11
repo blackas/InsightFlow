@@ -45,7 +45,7 @@ GEEKNEWS_RSS_URL = "https://news.hada.io/rss/news"
 HN_API_BASE = "https://hacker-news.firebaseio.com/v0/"
 
 # Gemini Model
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # Processing parameters
 BATCH_SIZE = 8
