@@ -57,7 +57,7 @@ def ensure_database(client: notion_client.Client) -> str:
     data = cast(
         dict[str, Any],
         client.databases.create(
-            parent={"page_id": config.NOTION_PARENT_PAGE_ID},
+            parent={"type": "page_id", "page_id": config.NOTION_PARENT_PAGE_ID},
             title=[{"type": "text", "text": {"content": "InsightFlow Articles"}}],
             properties=_DATABASE_PROPERTIES,
         ),
@@ -88,7 +88,7 @@ def _build_page_properties(
     data_source_id: str,
 ) -> dict[str, Any]:
     return {
-        "parent": {"data_source_id": data_source_id},
+        "parent": {"type": "data_source_id", "data_source_id": data_source_id},
         "properties": {
             "제목": {
                 "title": [
