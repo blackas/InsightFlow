@@ -94,5 +94,56 @@
       "Frontend",
       "Tool"
     ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26601",
+    "title": "Claude Cowork가 이제 Windows 지원 시작",
+    "url": "https://news.hada.io/topic?id=26601",
+    "discussion_url": "https://news.hada.io/topic?id=26601",
+    "summary": "macOS와 똑같이 파일 접근, 다단계 태스트 실행, 플러그인, MCP 커넥터 지원\nClaude 윈도우용을 업데이트 후 상단 탭에서 Cowork 선택하여 실행\n이제 클로드에게 글로벌 폴더 명령을 지정해 매 세션마다 자동 적용됨\n현재는 리서치 프리뷰 버전. 모든 유료 플랜에서 사용 가능...",
+    "score": 0,
+    "published_at": "2026-02-11T04:02:21+00:00",
+    "ai_summary": "AI 협업 도구 Claude Cowork가 이제 Windows를 지원하며 macOS와 동일한 기능을 제공합니다.\n파일 접근, 다단계 태스크 실행, 플러그인 등 다양한 기능이 윈도우 버전에도 적용됩니다.\n현재 리서치 프리뷰 단계이며, 모든 유료 플랜 사용자가 이용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26599",
+    "title": "AI가 일을 줄여준다는 약속, 실제로는 번아웃만 키웠다 (UC Berkeley 연구)",
+    "url": "https://news.hada.io/topic?id=26599",
+    "discussion_url": "https://news.hada.io/topic?id=26599",
+    "summary": "연구 개요\n\nUC Berkeley 연구진, 2025년 4월~12월 8개월간 기술 기업 200명 관찰\n결과: AI 도입 후 업무 줄지 않고 오히려 강화·증가\n\nHarvard Business Review 2026년 2월 게재\n\nAI가 업무를 강화하는 3가지 주요 패턴</stro",
+    "score": 0,
+    "published_at": "2026-02-11T03:07:31+00:00",
+    "ai_summary": "UC Berkeley 연구에 따르면 AI 도입이 업무를 줄여주지 않고 오히려 강화하고 증가시켜 번아웃을 초래했습니다.\n2025년 4월부터 12월까지 기술 기업 200명을 관찰한 결과, AI가 업무를 증대시키는 3가지 패턴을 발견했습니다.\n이 연구는 AI가 업무 효율을 높일 것이라는 기대와 달리 실제로는 직원들에게 더 큰 부담을 준다는 점을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46932813",
+    "title": "Show HN: Model Training Memory Simulator",
+    "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46932813",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-02-08T09:39:06+00:00",
+    "ai_summary": "머신러닝 모델 훈련 시 필요한 메모리 사용량을 시뮬레이션하는 도구입니다.\n개발자들이 효율적인 모델 개발과 자원 관리를 위해 메모리 사용을 예측할 수 있도록 돕습니다.\nAI/ML 엔지니어와 연구자에게 유용한 최적화 도구로 보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
   }
 ]
