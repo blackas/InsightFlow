@@ -231,5 +231,40 @@
       "Career",
       "Other"
     ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46972179",
+    "title": "The AI Vampire",
+    "url": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
+    "discussion_url": "https://news.ycombinator.com/item?id=46972179",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-02-11T08:01:52+00:00",
+    "ai_summary": "AI의 급속한 발전이 사회와 산업에 미치는 부정적 영향, 즉 '흡혈귀'처럼 자원을 소모하고 기존 구조를 파괴하는 측면을 조명한다.\n이는 일자리 변화, 윤리적 딜레마, 그리고 AI 시스템의 지속 가능성 문제 등 개발자들이 직면할 도전 과제들을 제시한다.\n개발자들이 이러한 그림자를 인식하고 책임감 있는 AI 개발을 통해 긍정적인 방향으로 기술을 이끌어야 함을 강조한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46933135",
+    "title": "Show HN: CodeMic",
+    "url": "https://codemic.io/#hn",
+    "discussion_url": "https://news.ycombinator.com/item?id=46933135",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-02-08T10:42:29+00:00",
+    "ai_summary": "Hacker News에 소개된 CodeMic은 개발자를 위한 혁신적인 음성 기반 코딩 도구이다.\n음성 명령을 통해 코드를 작성하고 수정할 수 있게 하여 개발 생산성을 혁신적으로 향상시킨다.\n이는 기존 입력 방식의 한계를 넘어 개발 워크플로우를 효율화하고 접근성을 개선할 잠재력을 가진다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
   }
 ]
