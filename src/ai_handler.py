@@ -13,11 +13,14 @@ logger = logging.getLogger(__name__)
 
 
 def keyword_filter(articles: list[Article]) -> list[Article]:
-    """Filter articles containing any config.KEYWORDS in title or summary (case-insensitive)."""
+    """Filter articles by keywords. HN articles bypass keyword filter (curated by community votes)."""
     keywords_lower = [kw.lower() for kw in config.KEYWORDS]
     filtered: list[Article] = []
 
     for article in articles:
+        if article.source == "hackernews":
+            filtered.append(article)
+            continue
         text = f"{article.title} {article.summary}".lower()
         if any(kw in text for kw in keywords_lower):
             filtered.append(article)
