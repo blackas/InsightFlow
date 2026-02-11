@@ -145,5 +145,40 @@
       "AI/ML",
       "Tool"
     ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46971287",
+    "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
+    "url": "https://news.ycombinator.com/item?id=46971287",
+    "discussion_url": "https://news.ycombinator.com/item?id=46971287",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-02-11T05:40:20+00:00",
+    "ai_summary": "GPT-OSS-120B 모델에 Google Lens와 OpenCV를 활용하여 '시각' 기능을 부여하는 실험을 다룹니다.\n이는 LLM이 단순 텍스트를 넘어 이미지 이해 및 처리 능력을 갖게 하는 새로운 접근 방식을 제시합니다.\nAI 모델의 멀티모달 능력 확장에 대한 개발자들의 관심과 연구에 기여할 수 있는 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46923009",
+    "title": "Flirt: The Native Backend",
+    "url": "https://blog.buenzli.dev/flirt-native-backend/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46923009",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-02-07T11:31:11+00:00",
+    "ai_summary": "\"Flirt\"라는 이름의 새로운 '네이티브 백엔드' 기술 또는 프레임워크를 소개하는 기사입니다.\n이는 백엔드 개발의 효율성, 성능 또는 특정 플랫폼 통합에 초점을 맞출 것으로 예상됩니다.\n백엔드 개발자들이 새로운 기술 스택을 탐색하고 기존 시스템을 개선하는 데 유용한 정보를 제공할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
   }
 ]
