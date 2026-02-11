@@ -1,0 +1,156 @@
+from __future__ import annotations
+
+import logging
+from typing import Any, cast
+
+import notion_client
+
+from src import config
+from src.scraper import Article
+
+logger = logging.getLogger(__name__)
+
+MAX_NOTION_PER_RUN = 5
+
+_DATABASE_PROPERTIES: dict[str, Any] = {
+    "제목": {"title": {}},
+    "소스": {
+        "select": {
+            "options": [
+                {"name": "geeknews", "color": "green"},
+                {"name": "hackernews", "color": "orange"},
+            ]
+        }
+    },
+    "관련성": {"number": {"format": "percent"}},
+    "AI 요약": {"rich_text": {}},
+    "원문 URL": {"url": {}},
+    "토론 URL": {"url": {}},
+    "날짜": {"date": {}},
+    "읽음": {"checkbox": {}},
+    "태그": {
+        "multi_select": {
+            "options": [{"name": tag} for tag in config.NOTION_TAGS],
+        }
+    },
+}
+
+
+def _get_client() -> notion_client.Client:
+    return notion_client.Client(auth=config.NOTION_API_KEY)
+
+
+def _resolve_data_source_id(client: notion_client.Client, database_id: str) -> str:
+    # Notion API 2025-09-03 requires data_source_id instead of database_id for queries
+    data = cast(dict[str, Any], client.databases.retrieve(database_id=database_id))
+    return data["data_sources"][0]["id"]
+
+
+def ensure_database(client: notion_client.Client) -> str:
+    if config.NOTION_DATABASE_ID:
+        logger.info("Using existing Notion database: %s", config.NOTION_DATABASE_ID)
+        return _resolve_data_source_id(client, config.NOTION_DATABASE_ID)
+
+    logger.info(
+        "Creating new Notion database under page %s", config.NOTION_PARENT_PAGE_ID
+    )
+    data = cast(
+        dict[str, Any],
+        client.databases.create(
+            parent={"page_id": config.NOTION_PARENT_PAGE_ID},
+            title=[{"type": "text", "text": {"content": "InsightFlow Articles"}}],
+            properties=_DATABASE_PROPERTIES,
+        ),
+    )
+    db_id = data["id"]
+    logger.info("Created Notion database: %s", db_id)
+    return data["data_sources"][0]["id"]
+
+
+def _is_duplicate(
+    client: notion_client.Client,
+    data_source_id: str,
+    source: str,
+    source_id: str,
+) -> bool:
+    response = cast(
+        dict[str, Any],
+        client.data_sources.query(
+            data_source_id=data_source_id,
+            filter={"property": "제목", "title": {"contains": f"{source}:{source_id}"}},
+        ),
+    )
+    return len(response.get("results", [])) > 0
+
+
+def _build_page_properties(
+    article: Article,
+    data_source_id: str,
+) -> dict[str, Any]:
+    return {
+        "parent": {"data_source_id": data_source_id},
+        "properties": {
+            "제목": {
+                "title": [
+                    {
+                        "text": {
+                            "content": f"{article.source}:{article.source_id} {article.title}"
+                        }
+                    }
+                ]
+            },
+            "소스": {"select": {"name": article.source}},
+            "관련성": {"number": article.relevance_score},
+            "AI 요약": {
+                "rich_text": [{"text": {"content": (article.ai_summary or "")[:2000]}}]
+            },
+            "원문 URL": {"url": article.url},
+            "토론 URL": {"url": article.discussion_url},
+            "날짜": {"date": {"start": article.published_at}},
+            "읽음": {"checkbox": False},
+            "태그": {"multi_select": [{"name": tag} for tag in article.tags]},
+        },
+    }
+
+
+def send_to_notion(articles: list[Article]) -> int:
+    if not config.NOTION_API_KEY:
+        logger.warning("NOTION_API_KEY not set, skipping Notion sync")
+        return 0
+
+    if config.DRY_RUN:
+        logger.info("[DRY RUN] Skipping Notion sync")
+        return 0
+
+    try:
+        client = _get_client()
+        data_source_id = ensure_database(client)
+
+        notable = [a for a in articles if a.relevance_score >= config.ISSUE_THRESHOLD]
+        if not notable:
+            logger.info(
+                "No articles above issue threshold (%.1f)", config.ISSUE_THRESHOLD
+            )
+            return 0
+
+        notable = notable[:MAX_NOTION_PER_RUN]
+        created_count = 0
+
+        for article in notable:
+            if _is_duplicate(client, data_source_id, article.source, article.source_id):
+                logger.info(
+                    "Skipping duplicate: %s:%s", article.source, article.source_id
+                )
+                continue
+
+            page_payload = _build_page_properties(article, data_source_id)
+            client.pages.create(**page_payload)
+            logger.info("Created Notion page: [%s] %s", article.source, article.title)
+            created_count += 1
+
+        logger.info("Created %d/%d Notion pages", created_count, len(notable))
+        return created_count
+
+    except Exception:
+        logger.exception("Notion sync failed")
+        return 0
