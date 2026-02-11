@@ -5,7 +5,7 @@ import calendar
 import logging
 import re
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from typing import cast
 
@@ -32,6 +32,7 @@ class Article:
     ai_summary: str = ""
     relevance_score: float = 0.0
     notable: bool = False
+    tags: list[str] = field(default_factory=list)
 
 
 def _extract_url_from_content(content_html: str) -> str | None:
