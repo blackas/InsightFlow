@@ -10,6 +10,7 @@ from datetime import datetime
 
 from src import config
 from src.ai_handler import filter_and_summarize
+from src.notion_handler import send_to_notion
 from src.notifier import send_digest, send_failure_notification
 from src.scraper import scrape_all
 from src.storage import (
@@ -72,6 +73,13 @@ def main(dry_run: bool = False) -> None:
             logger.info("GitHub Issues created")
         else:
             logger.info("[DRY RUN] GitHub Issues creation skipped")
+
+        # 7. Notion
+        if not dry_run:
+            send_to_notion(processed)
+            logger.info("Notion database updated")
+        else:
+            logger.info("[DRY RUN] Notion update skipped")
 
         logger.info("Pipeline completed successfully")
 
