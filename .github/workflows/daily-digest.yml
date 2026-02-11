@@ -38,7 +38,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python src/main.py
+        run: python -m src.main
 
       - name: Commit Updated Data
         run: |
@@ -55,6 +55,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python -c "
+          import sys; sys.path.insert(0, '.')
           from src.notifier import send_failure_notification
           send_failure_notification('GitHub Actions workflow failed. Check: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
           "
