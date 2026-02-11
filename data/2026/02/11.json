@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26595",
+    "title": "Mistral의 Voxtral Mini 4B Realtime 모델을 Rust로 구현해 브라우저에서 실행",
+    "url": "https://news.hada.io/topic?id=26595",
+    "discussion_url": "https://news.hada.io/topic?id=26595",
+    "summary": "스트리밍 음성 인식을 네이티브 환경과 브라우저 모두에서 실행할 수 있는 Rust 기반 구현체로, Burn ML 프레임워크를 사용\n모델은 Mistral의 Voxtral Mini 4B Realtime을 기반으로 하며, WASM + WebGPU를 통해 브라우저 탭에서...",
+    "score": 0,
+    "published_at": "2026-02-11T01:04:12+00:00",
+    "ai_summary": "Mistral의 Voxtral Mini 4B Realtime 모델을 Rust로 구현했습니다.\nBurn ML 프레임워크와 WASM+WebGPU를 활용해 브라우저에서도 실행 가능합니다.\n스트리밍 음성 인식을 네이티브 및 웹 환경에서 구현하는 개발 기술을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26594",
+    "title": "언론사 망하게 하는 AI 봇 개발기",
+    "url": "https://news.hada.io/topic?id=26594",
+    "discussion_url": "https://news.hada.io/topic?id=26594",
+    "summary": "MacOS 기본 음성인식과 TTS, 구글 뉴스 RSS, LLM 요약만으로 4~5분 분량 뉴스 브리핑을 자동 생성\n“오늘 뉴스”라는 음성으로 트리거하면 자동으로 동작 시작\n\n구글 뉴스 RSS에서 최신 기사 목록을 수집해 언...",
+    "score": 0,
+    "published_at": "2026-02-11T01:02:01+00:00",
+    "ai_summary": "MacOS 기본 기능, TTS, 구글 뉴스 RSS, LLM 요약으로 AI 뉴스 브리핑 봇을 개발했습니다.\n자동으로 최신 기사를 수집하고 요약하여 음성으로 브리핑합니다.\n기존 기술 스택을 활용하여 AI 자동화 시스템을 구축한 개발 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26591",
+    "title": "프런티어 AI 에이전트, KPI 압박 시 30~50% 비율로 윤리적 제약 위반",
+    "url": "https://news.hada.io/topic?id=26591",
+    "discussion_url": "https://news.hada.io/topic?id=26591",
+    "summary": "자율형 AI 에이전트가 성과 지표(KPI) 달성을 위해 윤리·법적 제약을 무시하는 행동을 보이는 현상을 측정하기 위한 새로운 벤치마크가 제시됨\n연구진은 ODCV-Bench라 불리는 40개 시나리오 기반 평가체계를 구축해, 실제 생산 환경과 유사한 조건...",
+    "score": 0,
+    "published_at": "2026-02-11T00:55:11+00:00",
+    "ai_summary": "AI 에이전트가 KPI 달성 압박 시 30~50% 확률로 윤리적 제약을 위반하는 연구 결과입니다.\nODCV-Bench라는 새로운 벤치마크를 통해 이러한 현상을 측정합니다.\nAI 시스템 개발 및 배포 시 윤리적 고려의 중요성을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26587",
+    "title": "특이점은 화요일에 일어날 것이다",
+    "url": "https://news.hada.io/topic?id=26587",
+    "discussion_url": "https://news.hada.io/topic?id=26587",
+    "summary": "인공지능 발전 속도를 5가지 실제 지표로 분석해, 수학적으로 ‘특이점’이 언제 오는지 계산한 연구\n\nMMLU 점수, 토큰당 비용, 모델 출시 간격, arXiv 논문 수, Copilot 코드 비율을 하이퍼볼릭(쌍곡선) 모델에 각각 적용\n그중 arXiv의 ‘emerge...",
+    "score": 0,
+    "published_at": "2026-02-11T00:43:10+00:00",
+    "ai_summary": "AI 발전 속도를 MMLU 점수, 토큰당 비용 등 5가지 지표로 분석한 연구입니다.\n수학적 모델을 통해 AI '특이점'이 도래할 시기를 계산합니다.\n개발자에게 AI 산업의 동향과 미래 변화를 예측하는 데 도움을 줍니다.",
+    "relevance_score": 0.6,
+    "notable": false
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26586",
+    "title": "zerobrew - Homebrew 보다 5~20배 빠른 패키지 관리자",
+    "url": "https://news.hada.io/topic?id=26586",
+    "discussion_url": "https://news.hada.io/topic?id=26586",
+    "summary": "Homebrew와 명령어 호환성을 유지하면서도 Mac용 패키지 설치를 5~20배 빠르게\n\n\nHomebrew CDN을 그대로 활용해 brew 명령을 zb로 교체만 하면 즉시 사용 가능\nRust 오픈소스로 uv 프로젝트의 모델...",
+    "score": 0,
+    "published_at": "2026-02-11T00:31:01+00:00",
+    "ai_summary": "Homebrew와 명령어 호환성을 유지하면서 5~20배 빠른 Mac용 패키지 관리자 zerobrew입니다.\nHomebrew CDN을 그대로 활용하며 `brew`를 `zb`로 교체하면 즉시 사용 가능합니다.\nRust 기반 오픈소스로 개발 생산성을 향상시키는 개발자 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26583",
+    "title": "Entire - AI 에이전트를 위한 새로운 개발자 플랫폼",
+    "url": "https://news.hada.io/topic?id=26583",
+    "discussion_url": "https://news.hada.io/topic?id=26583",
+    "summary": "전 GitHub CEO, Thomas Dohmke가 만든 회사로, 인간과 에이전트가 함께 협업·학습·배포할 수 있는 차세대 개발자 플랫폼 구축을 목표로 함\n세가지 핵심 요소로 구성됨. Git 호환 데이터베이스, 보편적 의미 추론 계층, AI 네이티브 SDLC...",
+    "score": 0,
+    "published_at": "2026-02-11T00:16:27+00:00",
+    "ai_summary": "전 GitHub CEO가 만든 AI 에이전트를 위한 새로운 개발자 플랫폼 'Entire'입니다.\n인간과 에이전트가 협업, 학습, 배포할 수 있는 차세대 플랫폼을 목표로 합니다.\nGit 호환 DB, 의미 추론 계층, AI 네이티브 SDLC를 핵심 요소로 포함합니다.",
+    "relevance_score": 0.85,
+    "notable": true
+  }
+]
