@@ -79,6 +79,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 NOTION_API_KEY = os.getenv("NOTION_API_KEY")
 NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
 NOTION_PARENT_PAGE_ID = os.getenv("NOTION_PARENT_PAGE_ID")
+NOTION_MODEL_TRACKER_DB_ID = os.getenv("NOTION_MODEL_TRACKER_DB_ID")
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 
 # TLDR AI Configuration

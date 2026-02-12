@@ -12,6 +12,7 @@ from src import config
 from src.ai_handler import filter_and_summarize
 from src.model_tracker import fetch_model_data, get_model_updates, save_model_snapshots
 from src.notion_handler import send_to_notion
+from src.notion_model_handler import send_model_updates_to_notion
 from src.notifier import send_digest, send_failure_notification
 from src.scraper import scrape_all
 from src.storage import (
@@ -91,6 +92,13 @@ def main(dry_run: bool = False) -> None:
             )
         except Exception:
             logger.exception("Model tracker failed (non-fatal)")
+
+        # 7.5 Model Tracker → Notion
+        if model_updates and not dry_run:
+            send_model_updates_to_notion(model_updates)
+            logger.info("Model updates synced to Notion")
+        else:
+            logger.info("[DRY RUN] Model tracker Notion sync skipped")
 
         # 8. Telegram digest
         if not dry_run:
