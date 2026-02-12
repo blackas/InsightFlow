@@ -35,9 +35,6 @@ def setup_logging() -> None:
 
 
 def main(dry_run: bool = False) -> None:
-    if dry_run:
-        config.DRY_RUN = True
-
     try:
         # 1. Data collection
         logger.info("Starting data collection...")
@@ -113,12 +110,12 @@ def main(dry_run: bool = False) -> None:
         logger.info("Pipeline completed successfully")
 
     except Exception as e:
-        logger.error("Pipeline failed: %s", e)
+        logger.exception("Pipeline failed: %s", e)
         if not dry_run:
             try:
                 send_failure_notification(str(e))
             except Exception:
-                logger.error("Failed to send failure notification")
+                logger.exception("Failed to send failure notification")
         raise
 
 
