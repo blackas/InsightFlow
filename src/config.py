@@ -81,6 +81,25 @@ NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
 NOTION_PARENT_PAGE_ID = os.getenv("NOTION_PARENT_PAGE_ID")
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 
+# TLDR AI Configuration
+TLDR_AI_URL = "https://tldr.tech/api/latest/ai"
+TLDR_SECTIONS = [
+    "Headlines & Launches",
+    "Deep Dives & Analysis",
+    "Engineering & Research",
+    "Miscellaneous",
+    "Quick Links",
+]
+
+# Artificial Analysis Configuration
+ARTIFICIAL_ANALYSIS_API_KEY = os.getenv("ARTIFICIAL_ANALYSIS_API_KEY")
+ARTIFICIAL_ANALYSIS_API_URL = "https://artificialanalysis.ai/api/v2/data/llms/models"
+
+# Model Tracker Configuration
+MODEL_TRACKER_DB_PATH = "data/models.db"
+MODEL_RANK_CHANGE_THRESHOLD = 10  # Top N rank changes
+MODEL_PRICE_CHANGE_THRESHOLD = 0.10  # 10% price change threshold
+
 
 def get_week_identifier() -> str:
     """
