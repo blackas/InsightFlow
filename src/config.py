@@ -84,13 +84,13 @@ DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 
 # TLDR AI Configuration
 TLDR_AI_URL = "https://tldr.tech/api/latest/ai"
-TLDR_SECTIONS = [
+TLDR_SECTIONS = frozenset({
     "Headlines & Launches",
     "Deep Dives & Analysis",
     "Engineering & Research",
     "Miscellaneous",
     "Quick Links",
-]
+})
 
 # Artificial Analysis Configuration
 ARTIFICIAL_ANALYSIS_API_KEY = os.getenv("ARTIFICIAL_ANALYSIS_API_KEY")

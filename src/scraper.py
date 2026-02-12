@@ -175,17 +175,6 @@ async def fetch_hackernews(count: int = 30) -> list[Article]:
         return []
 
 
-TLDR_AI_URL = "https://tldr.tech/api/latest/ai"
-
-TLDR_SECTIONS = {
-    "Headlines & Launches",
-    "Deep Dives & Analysis",
-    "Engineering & Research",
-    "Miscellaneous",
-    "Quick Links",
-}
-
-
 def _strip_utm_params(url: str) -> str:
     """Remove all utm_* query parameters from a URL."""
     parsed = urlparse(url)
@@ -199,7 +188,7 @@ def fetch_tldr_ai() -> list[Article]:
     """Fetch and parse articles from the TLDR AI newsletter."""
     try:
         resp = requests.get(
-            TLDR_AI_URL,
+            config.TLDR_AI_URL,
             headers={"User-Agent": USER_AGENT},
             timeout=15,
         )
@@ -219,7 +208,7 @@ def fetch_tldr_ai() -> list[Article]:
                 continue
 
             section_name = h3_header.get_text(strip=True)
-            if section_name not in TLDR_SECTIONS:
+            if section_name not in config.TLDR_SECTIONS:
                 continue
 
             for article_tag in section.find_all("article"):
@@ -267,10 +256,9 @@ def fetch_tldr_ai() -> list[Article]:
 
 
 async def scrape_all() -> list[Article]:
-    loop = asyncio.get_event_loop()
-    geeknews_task = loop.run_in_executor(None, fetch_geeknews)
+    geeknews_task = asyncio.to_thread(fetch_geeknews)
     hackernews_task = fetch_hackernews(count=config.HN_TOP_N)
-    tldrai_task = loop.run_in_executor(None, fetch_tldr_ai)
+    tldrai_task = asyncio.to_thread(fetch_tldr_ai)
 
     geeknews_articles, hackernews_articles, tldrai_articles = await asyncio.gather(
         geeknews_task, hackernews_task, tldrai_task
