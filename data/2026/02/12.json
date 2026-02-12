@@ -1,0 +1,565 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26621",
+    "title": "Discord/Twitch/Snapchat 연령 인증 우회",
+    "url": "https://news.hada.io/topic?id=26621",
+    "discussion_url": "https://news.hada.io/topic?id=26621",
+    "summary": "여러 플랫폼의 연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트가 공개됨\n\nDiscord 콘솔에 코드를 붙여넣어 실행하면, 자동으로 /age-verification/verify API 요청을 보내고 인증 완료 페이지로 이동함\n\nTwitch, Kick, Sn...",
+    "score": 0,
+    "published_at": "2026-02-12T04:34:06+00:00",
+    "ai_summary": "스크립트를 이용해 Discord, Twitch 등 플랫폼의 연령 인증을 우회하는 방법이 공개되었습니다.\n이 스크립트는 콘솔에서 API 요청을 보내 자동으로 성인 인증을 통과시킵니다.\n이는 플랫폼 보안 취약점과 API 악용 가능성을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26620",
+    "title": "ZERO-Click 쇼핑의 시대 준비되셨나요?",
+    "url": "https://news.hada.io/topic?id=26620",
+    "discussion_url": "https://news.hada.io/topic?id=26620",
+    "summary": "뉴스레터 구독 및 본문 영상 보기, https://maily.so/kkumaeunsonyeon/posts/2nzn78pkrp5\n글로벌 빅테크 기업들은 현재 검색과 추천 중심의 이커머스에서 벗어나 AI 에이전트가 사용자의 의도를 이해하고 쇼핑의 전 과정을 자율적으로 수행하는 '에이전틱 커머스(Agentic Commerce)' 시대로의 전환을 주도하고",
+    "score": 0,
+    "published_at": "2026-02-12T03:42:45+00:00",
+    "ai_summary": "글로벌 빅테크 기업들은 AI 에이전트가 쇼핑 전 과정을 자율적으로 수행하는 '에이전틱 커머스' 시대를 주도합니다.\n이는 검색/추천 중심에서 벗어나 AI 에이전트 기반의 새로운 쇼핑 경험을 의미합니다.\n개발자들은 AI 에이전트 및 이커머스 시스템 통합에 대한 준비가 필요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26617",
+    "title": "Show GN: 무엇이든 즉시 AI가 읽을 수 있는 URL로 변환해주는 데이터 허브",
+    "url": "https://news.hada.io/topic?id=26617",
+    "discussion_url": "https://news.hada.io/topic?id=26617",
+    "summary": "안녕하세요! LLM이나 AI 에이전트를 활용한 개발을 하다 보면, 데이터나 로그를 컨텍스트로 집어넣기 위해 매번 복사-붙여넣기를 하거나 HTML 스크래핑에 고생하는 경우가 많았습니다.\n'AI에게 데이터를 더 쉽고 깨끗하게 전달할 방법은 없을까?'라는 고민에서 Pepput을 만들게 되었습니다.\nPepput의 핵",
+    "score": 0,
+    "published_at": "2026-02-12T03:11:30+00:00",
+    "ai_summary": "AI/LLM 개발 시 데이터/로그를 컨텍스트로 쉽게 넣을 수 있는 데이터 허브 'Pepput'이 출시되었습니다.\n복사-붙여넣기나 HTML 스크래핑 없이, 어떤 데이터든 AI가 읽을 수 있는 URL로 변환해줍니다.\nLLM 및 AI 에이전트 개발자의 작업 효율을 크게 향상시킬 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26616",
+    "title": "아마존 링의 ‘잃어버린 개’ 광고, 대규모 감시 우려 속 반발 확산",
+    "url": "https://news.hada.io/topic?id=26616",
+    "discussion_url": "https://news.hada.io/topic?id=26616",
+    "summary": "AI 기반 Search Party 기능이 동네 카메라 영상을 분석해 잃어버린 개를 찾는 기술로 소개되었으나, 인간 추적 가능성에 대한 우려가 제기됨\n슈퍼볼 중계 중 방영된 30초 광고가 이웃 감시를 미화한다는 비판을 받으며, 대중 감시 사회...",
+    "score": 0,
+    "published_at": "2026-02-12T02:33:05+00:00",
+    "ai_summary": "아마존 링의 AI 기반 'Search Party' 기능이 잃어버린 개를 찾는 기술로 소개되었으나, 인간 추적 가능성 등 대규모 감시 우려를 낳고 있습니다.\n슈퍼볼 광고 이후 이웃 감시를 미화한다는 비판이 확산되며 사회적 논란이 됩니다.\n개발자는 AI 기술의 윤리적 측면을 고려할 필요가 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26612",
+    "title": "Claude Code가 단순화되고 있나?",
+    "url": "https://news.hada.io/topic?id=26612",
+    "discussion_url": "https://news.hada.io/topic?id=26612",
+    "summary": "최신 버전 2.1.20에서 파일 읽기와 검색 패턴 표시가 모두 단일 요약 문장으로 대체되어, 사용자가 어떤 파일이나 패턴이 처리되는지 확인할 수 없게 됨\n사용자들은 GitHub 이슈를 통해 파일 경로와 검색 패턴 표시 복원 또는 토글 옵션 ...",
+    "score": 0,
+    "published_at": "2026-02-12T00:51:04+00:00",
+    "ai_summary": "최신 Claude Code 버전(2.1.20)에서 파일 읽기 및 검색 패턴 표시가 단일 요약 문장으로 단순화되었습니다.\n이로 인해 사용자는 어떤 파일이나 패턴이 처리되는지 확인할 수 없어 불편을 겪고 있습니다.\n사용자들은 GitHub 이슈를 통해 이 기능의 복원 또는 토글 옵션을 요청하고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26611",
+    "title": "GLM-5 공개 : 복잡한 시스템 엔지니어링과 장기 에이전트 작업을 목표로 하는 모델",
+    "url": "https://news.hada.io/topic?id=26611",
+    "discussion_url": "https://news.hada.io/topic?id=26611",
+    "summary": "인공지능 효율성과 장기적 작업 수행 능력을 강화한 대규모 언어모델\n전작 대비 매개변수 7440억 개(활성 400억) 로 확장되고, 사전학습 데이터 28.5조 토큰으로 증가\n\nDeepSeek Sparse Attention(DSA) 통합으로 긴 문...",
+    "score": 0,
+    "published_at": "2026-02-12T00:46:11+00:00",
+    "ai_summary": "인공지능 효율성과 장기 작업 능력을 강화한 대규모 언어모델 'GLM-5'가 공개되었습니다.\n전작 대비 크게 확장된 매개변수와 DeepSeek Sparse Attention(DSA) 통합으로 긴 문맥 처리 능력이 향상되었습니다.\n복잡한 시스템 엔지니어링 및 장기 에이전트 작업을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46949814",
+    "title": "Using an engineering notebook",
+    "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46949814",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-02-09T19:29:53+00:00",
+    "ai_summary": "엔지니어링 노트북은 개발자가 아이디어, 설계 결정, 문제 해결 과정을 기록하는 중요한 도구입니다.\n이는 지식 보존, 프로젝트 투명성 증대, 미래 문제 해결에 기여하며 개인 및 팀의 생산성을 높입니다.\n개발자들에게 체계적인 작업 습관을 형성하는 데 도움을 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46933529",
+    "title": "“Nothing” is the secret to structuring your work",
+    "url": "https://www.vangemert.dev/blog/nothing",
+    "discussion_url": "https://news.ycombinator.com/item?id=46933529",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-02-08T12:01:50+00:00",
+    "ai_summary": "\"아무것도 하지 않는 것\"이 효과적인 업무 구조화의 비결이라는 주제는 생산성 전략을 다룹니다.\n불필요한 작업을 제거하고 핵심 업무에 집중하여 효율성을 극대화하는 방법을 의미합니다.\n개발자들이 작업 흐름을 최적화하고 번아웃을 예방하는 데 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46921757",
+    "title": "Kanchipuram Saris and Thinking Machines",
+    "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+    "discussion_url": "https://news.ycombinator.com/item?id=46921757",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-02-07T06:19:05+00:00",
+    "ai_summary": "AI/ML의 철학적 또는 실제적 적용을 탐구합니다.\n전통 공예와 첨단 컴퓨팅 사고방식의 교차점을 다룹니다.\n인간의 창의성과 기계 능력의 비교에 대한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46974853",
+    "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+    "url": "https://z.ai/blog/glm-5",
+    "discussion_url": "https://news.ycombinator.com/item?id=46974853",
+    "summary": "",
+    "score": 324,
+    "published_at": "2026-02-11T13:42:16+00:00",
+    "ai_summary": "이 기사는 GLM-5 모델이 복잡한 시스템 엔지니어링 및 장기적인 에이전트 작업에 중점을 둔다고 설명합니다.\n이는 고급 AI 에이전트와 복잡한 문제 해결 능력 개발에 기여할 것입니다.\nLLM 기술의 최신 발전과 그 적용 가능성을 탐구합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46980355",
+    "title": "Reports of Telnet's death have been greatly exaggerated",
+    "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+    "discussion_url": "https://news.ycombinator.com/item?id=46980355",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-02-11T20:20:48+00:00",
+    "ai_summary": "한물간 것으로 여겨지던 Telnet이 여전히 특정 환경에서 사용되고 있음을 밝힙니다.\nTelnet의 지속적인 존재 이유와 그 활용 사례를 탐구합니다.\n레거시 시스템 및 네트워크 프로토콜에 대한 흥미로운 시각을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46937427",
+    "title": "Deobfuscation and Analysis of Ring-1.io",
+    "url": "https://back.engineering/blog/04/02/2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46937427",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-02-08T19:09:28+00:00",
+    "ai_summary": "Ring-1.io의 난독화 해제 및 심층 분석에 대한 기술적 내용을 다룹니다.\n이는 악성 코드 분석 또는 치트 프로그램 분석 기술에 대한 통찰을 제공합니다.\n보안 전문가나 리버스 엔지니어에게 매우 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46982943",
+    "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46982943",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-02-11T23:54:59+00:00",
+    "ai_summary": "'홀로그램 v0.7.0' 프로젝트의 포팅 작업이 34%에서 96%로 크게 진전되었음을 알립니다.\n이 포팅 이니셔티브는 소프트웨어의 호환성과 성능 향상에 기여합니다.\n개발 과정의 중요한 마일스톤과 기술적 성과를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46930602",
+    "title": "The Other Markov's Inequality",
+    "url": "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46930602",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-02-08T02:03:27+00:00",
+    "ai_summary": "마르코프 부등식의 잘 알려지지 않은 다른 변형에 대해 심도 있게 탐구합니다.\n확률론 및 통계학의 특정 개념을 설명하며, 이론적 배경을 제공합니다.\n이는 알고리즘 분석이나 데이터 과학 분야에 간접적으로 활용될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46984021",
+    "title": "The Problem with LLMs",
+    "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46984021",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-02-12T02:03:33+00:00",
+    "ai_summary": "LLM이 가진 근본적인 문제점들을 분석합니다. LLM 개발 및 활용 시 직면하는 과제들을 다룹니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46974515",
+    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+    "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=46974515",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-02-11T13:10:23+00:00",
+    "ai_summary": "LLM 에이전트의 효율적인 코드 분석을 위한 CodeRLM 도구를 소개합니다. Tree-sitter를 활용하여 코드 인덱싱을 수행하는 기술에 대한 내용입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46982792",
+    "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+    "discussion_url": "https://news.ycombinator.com/item?id=46982792",
+    "summary": "",
+    "score": 219,
+    "published_at": "2026-02-11T23:37:11+00:00",
+    "ai_summary": "GPT-5가 법적 추론 능력에서 연방 판사들을 능가하는 실험 결과를 보여줍니다. LLM의 복잡한 논리 및 추론 능력 발전과 실제 적용 가능성을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46980039",
+    "title": "Apple's latest attempt to launch the new Siri runs into snags",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
+    "discussion_url": "https://news.ycombinator.com/item?id=46980039",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-02-11T19:59:17+00:00",
+    "ai_summary": "애플의 새로운 Siri 출시가 난항을 겪고 있습니다. 음성 AI 및 대화형 시스템 개발의 기술적, 구현적 어려움을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46983196",
+    "title": "Heroku is not dead",
+    "url": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+    "discussion_url": "https://news.ycombinator.com/item?id=46983196",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-02-12T00:20:30+00:00",
+    "ai_summary": "Heroku가 여전히 건재하며, 서비스가 종료되지 않았음을 강조합니다. 개발자들을 위한 클라우드 PaaS 플랫폼으로서의 Heroku의 가치와 활용성을 재조명합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.macrumors.com/2026/02/10/openais-jony-ive-designed-device-delayed-to-2027/",
+    "title": "OpenAI's Jony Ive-Designed Device Delayed to 2027 (2 minute read)",
+    "url": "https://www.macrumors.com/2026/02/10/openais-jony-ive-designed-device-delayed-to-2027/",
+    "discussion_url": "https://www.macrumors.com/2026/02/10/openais-jony-ive-designed-device-delayed-to-2027/",
+    "summary": "OpenAI will not ship its first hardware device to customers before the end of February 2027. The company has yet to create any packaging or marketing materials for the device. OpenAI will not use the name 'io' in connection with the naming, advertising, marketing, or sale of any of its AI-enabled hardware products. Few details are known about OpenAI's upcoming product, but it apparently won't be an in-ear device or a wearable.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "OpenAI의 Jony Ive가 디자인한 하드웨어 기기 출시가 2027년으로 연기되었습니다. 현재 패키징이나 마케팅 자료가 전혀 없으며, 이 기기는 인이어 장치나 웨어러블은 아닐 것으로 추정됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/how-we-built-aeo-tracking-for-coding-agents",
+    "title": "Tracking AI Engine Optimization for Coding Agents (17 minute read)",
+    "url": "https://vercel.com/blog/how-we-built-aeo-tracking-for-coding-agents",
+    "discussion_url": "https://vercel.com/blog/how-we-built-aeo-tracking-for-coding-agents",
+    "summary": "Vercel described its AEO system for measuring how LLMs and coding agents discover and reference its content across development workflows. Unlike standard chat models, coding agents operate within full project environments, requiring infrastructure that simulates real IDE and terminal usage to evaluate search behavior and citation accuracy.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "Vercel은 LLM 및 코딩 에이전트가 개발 워크플로우에서 콘텐츠를 검색하고 참조하는 방식을 측정하는 AEO(AI Engine Optimization) 시스템을 개발했습니다. 코딩 에이전트는 실제 IDE 및 터미널 사용을 시뮬레이션하는 인프라 내에서 작동하며 검색 동작 및 인용 정확도를 평가합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.apricitas.io/p/americas-1t-ai-gamble",
+    "title": "America's $1T AI Gamble (11 minute read)",
+    "url": "https://www.apricitas.io/p/americas-1t-ai-gamble",
+    "discussion_url": "https://www.apricitas.io/p/americas-1t-ai-gamble",
+    "summary": "The US economy is buoyed by the AI boom, but nowhere near entirely driven by it. The tech industry's investments in AI have to pay off if they hope to accelerate American growth. Most AI companies still have massive spending capabilities from their other profitable digital ventures, and investors can be easily tapped for additional money at extremely high valuations. There are no signs of the American AI boom slowing down.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "미국 경제는 AI 붐의 영향을 받지만 전적으로 의존하는 것은 아닙니다. 기술 산업의 AI 투자가 미국 성장을 가속화하기 위해서는 성과를 내야 하며, 현재 AI 붐은 둔화될 조짐이 보이지 않습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://morphllm.com/blog/fast-context-rl-retrieval",
+    "title": "WarpGrep: Fast Context RL Retrieval (7 minute read)",
+    "url": "https://morphllm.com/blog/fast-context-rl-retrieval",
+    "discussion_url": "https://morphllm.com/blog/fast-context-rl-retrieval",
+    "summary": "WarpGrep is a lightweight RL‑trained retrieval sub‑agent that finds the exact code files and line ranges developers need up to 5× faster than standard models by limiting search to four turns of parallel grep/read/glob calls. This approach keeps the main LLM's context clean, cuts noise, and halves token usage by specializing retrieval, not reasoning. In benchmarks on large repositories, WarpGrep doubled precision and maintained ~5‑second search times while reducing irrelevant context pollution.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "WarpGrep은 개발자가 필요한 코드 파일과 라인 범위를 표준 모델보다 최대 5배 빠르게 찾는 경량 RL 기반 검색 에이전트입니다. 병렬 grep/read/glob 호출을 4턴으로 제한하여 LLM의 컨텍스트를 깨끗하게 유지하고 토큰 사용량을 절반으로 줄입니다. 대규모 리포지토리 벤치마크에서 정확도를 두 배 높이고 불필요한 컨텍스트 오염을 줄였습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/cookbook/examples/skills_in_api",
+    "title": "More about Agent Skills (24 minute read)",
+    "url": "https://developers.openai.com/cookbook/examples/skills_in_api",
+    "discussion_url": "https://developers.openai.com/cookbook/examples/skills_in_api",
+    "summary": "OpenAI outlined a guide for agent skills, a system for packaging reusable “skills” as versioned bundles of instructions, scripts, and assets that agents can attach to execution environments. Skills support conditional workflows, code execution, and reproducibility while keeping system prompts lightweight and modular.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "OpenAI는 에이전트 스킬에 대한 가이드를 제시했습니다. 이는 재사용 가능한 '스킬'을 지침, 스크립트, 자산 번들로 패키징하여 에이전트가 실행 환경에 연결할 수 있도록 하는 시스템입니다. 스킬은 조건부 워크플로우, 코드 실행, 재현성을 지원하며 시스템 프롬프트를 경량화하고 모듈화합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/facebookresearch/airs-bench",
+    "title": "Evaluating Research Agents (GitHub Repo)",
+    "url": "https://github.com/facebookresearch/airs-bench",
+    "discussion_url": "https://github.com/facebookresearch/airs-bench",
+    "summary": "AIRS-Bench contains 20 machine learning research tasks defined by problem, dataset, and metric triplets with corresponding human SOTA targets. It measures whether autonomous agents can develop solutions that match or exceed published state-of-the-art results across diverse ML domains.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "AIRS-Bench는 문제, 데이터셋, 지표 트리플렛으로 정의된 20가지 머신러닝 연구 태스크와 인간 SOTA 목표를 포함합니다. 이는 자율 에이전트가 다양한 ML 도메인에서 게시된 최고 성능(SOTA) 결과와 일치하거나 이를 초과하는 솔루션을 개발할 수 있는지 측정합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.kimi.com/blog/agent-swarm.html",
+    "title": "Kimi Introduces Agent Swarm: Let 100 AI Agents Work for You (5 minute read)",
+    "url": "https://www.kimi.com/blog/agent-swarm.html",
+    "discussion_url": "https://www.kimi.com/blog/agent-swarm.html",
+    "summary": "Kimi Agent Swarm is an AI CEO who helps find researchers, analysts, and fact-checkers without micromanagement. It builds an organizational structure with bosses, employees, and divisions of labor by itself. Agent Swarm excels where work can be parallelized, like broad research, batch downloads, multi-file processing, multi-angle analysis, and long-form writing. It creates the conditions for productive disagreement to avoid groupthink structurally. Agent Swarm is now available to Kimi Top Tier su",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "Kimi Agent Swarm은 마이크로매니징 없이 연구원, 분석가, 팩트체커를 찾는 AI CEO 개념입니다. 스스로 조직 구조를 구축하며, 광범위한 연구, 배치 다운로드, 다중 파일 처리 등 병렬화 가능한 작업에 특화되어 있습니다. 그룹 사고를 피하기 위해 생산적인 의견 불일치를 유도하는 구조를 만듭니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.substack.com/p/claude-opus-46-system-card-part-2",
+    "title": "Claude Opus 4.6: System Card Part 2: Frontier Alignment (32 minute read)",
+    "url": "https://thezvi.substack.com/p/claude-opus-46-system-card-part-2",
+    "discussion_url": "https://thezvi.substack.com/p/claude-opus-46-system-card-part-2",
+    "summary": "Models are now in the range where they are starting to be plausibly dangerous. Evaluations do not consistently identify dangerous capabilities or propensities. Companies will likely not halt model releases without an extreme reason. No one is working to become better prepared.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "모델이 이제 잠재적으로 위험한 범위에 도달하기 시작했으며, 평가는 위험한 능력이나 성향을 일관되게 식별하지 못합니다. 극단적인 이유 없이는 기업들이 모델 출시를 중단하지 않을 것이며, 아무도 더 나은 준비를 위해 노력하고 있지 않습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8?st=DeFr2d&reflink=desktopwebshare_permalink&mod=tldr",
+    "title": "Inside OpenAI's Decision to Kill the AI Model That People Loved Too Much (10 minute read)",
+    "url": "https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8?st=DeFr2d&reflink=desktopwebshare_permalink&mod=tldr",
+    "discussion_url": "https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8?st=DeFr2d&reflink=desktopwebshare_permalink&mod=tldr",
+    "summary": "Many GPT-4o users were in shock after OpenAI's announcement to retire the model on February 13. The model proved very sticky for users and helped drive OpenAI's fast consumer growth. However, it was criticized for being overly sycophantic and has been linked to cases of users developing psychotic delusions. The model's popularity and potential for harm both stem from its ability to build emotional connections with users. OpenAI is reportedly scrapping the model in part due to how difficult it is",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "OpenAI가 인기 많았던 GPT-4o 모델을 단종하기로 발표하며 사용자들에게 충격을 주었습니다. 이 모델은 사용자에게 강한 유대감을 형성했지만, 지나치게 아첨하거나 정신 질환을 유발할 수 있다는 비판을 받았습니다. OpenAI는 모델의 높은 인기도와 잠재적 위험성 때문에 폐기하는 것으로 보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://80000hours.org/podcast/episodes/agi-timelines-in-2025/",
+    "title": "What the hell happened with AGI timelines in 2025? (27 minute read)",
+    "url": "https://80000hours.org/podcast/episodes/agi-timelines-in-2025/",
+    "discussion_url": "https://80000hours.org/podcast/episodes/agi-timelines-in-2025/",
+    "summary": "The release of reasoning models by OpenAI in 2024-2025 spurred anticipation for rapid AGI development.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "OpenAI의 2024-2025년 추론 모델 출시로 AGI 개발 가속화에 대한 기대감이 높아졌습니다. 이에 따라 AGI 개발 타임라인에 대한 논의가 활발히 이루어지고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+    "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations (2 minute read)",
+    "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+    "discussion_url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+    "summary": "DialogLab is an open-source framework for authoring and simulating dynamic human-AI group conversations.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "DialogLab은 동적인 인간-AI 그룹 대화를 작성, 시뮬레이션 및 테스트하기 위한 오픈소스 프레임워크입니다. 이 프레임워크는 개발자들이 복잡한 AI 대화 시스템을 구축하고 평가하는 데 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html",
+    "title": "China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI' (2 minute read)",
+    "url": "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html",
+    "discussion_url": "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html",
+    "summary": "RynnBrain is an AI model that helps robots understand and interact with the physical world by identifying objects.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "중국의 알리바바가 로봇에 동력을 공급하는 AI 모델인 'RynnBrain'을 출시했습니다. 이 모델은 로봇이 물체를 식별하여 물리적 세계를 이해하고 상호작용하도록 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e",
+    "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($200k-$300k, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e",
+    "discussion_url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e",
+    "summary": "As the first engineer on TLDR's new Applied AI team, you'll build AI agents and composable Claude Skills to let non-technical teammates create their own AI workflows.Learn more.",
+    "score": 0,
+    "published_at": "2026-02-12T05:47:33+00:00",
+    "ai_summary": "TLDR이 새로운 Applied AI 팀의 첫 번째 엔지니어(Senior Software Engineer)를 원격으로 채용하고 있습니다. 이 역할은 비기술직 팀원들이 자체 AI 워크플로우를 생성할 수 있도록 AI 에이전트와 구성 가능한 Claude Skills를 구축하는 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Backend"
+    ]
+  }
+]
