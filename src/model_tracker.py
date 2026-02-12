@@ -311,6 +311,35 @@ def detect_price_changes(
     return changes
 
 
+def _get_today_snapshot(date_str: str) -> list[dict[str, Any]]:
+    if not DB_PATH.exists():
+        return []
+
+    conn = _init_db()
+    try:
+        cursor = conn.execute(
+            (
+                "SELECT model_id, name, creator, "
+                "intelligence_index, coding_index, math_index, speed_index, "
+                "price_input, price_output, speed_tokens_per_sec, ttft_seconds, "
+                "fetched_at "
+                "FROM model_snapshots WHERE fetched_at = ?"
+            ),
+            (date_str,),
+        )
+        columns: list[str] = [desc[0] for desc in cursor.description]  # type: ignore[misc]
+        results: list[dict[str, Any]] = [
+            dict(zip(columns, r)) for r in cursor.fetchall()
+        ]
+        logger.info("Found %d models in today's snapshot (%s)", len(results), date_str)
+        return results
+    except sqlite3.Error:
+        logger.exception("Database error while querying today's snapshot")
+        return []
+    finally:
+        conn.close()
+
+
 def get_model_updates(date_str: str) -> dict[str, list[dict[str, Any]]]:
     """
     Get all model updates for a given date.
@@ -328,8 +357,17 @@ def get_model_updates(date_str: str) -> dict[str, list[dict[str, Any]]]:
         logger.info("No previous snapshot found, returning empty updates")
         return {"new_models": [], "rank_changes": [], "price_changes": []}
 
-    # For this function to work, we need today's models
-    # This is a placeholder - caller should provide today's models
-    # For now, return empty lists as we don't have today's data in this function
-    logger.warning("get_model_updates requires today's models to be passed separately")
-    return {"new_models": [], "rank_changes": [], "price_changes": []}
+    today_models = _get_today_snapshot(date_str)
+    if not today_models:
+        logger.info("No today snapshot found, returning empty updates")
+        return {"new_models": [], "rank_changes": [], "price_changes": []}
+
+    new_models = detect_new_models(today_models, yesterday_models)
+    rank_changes = detect_rank_changes(today_models, yesterday_models)
+    price_changes = detect_price_changes(today_models, yesterday_models)
+
+    return {
+        "new_models": new_models,
+        "rank_changes": rank_changes,
+        "price_changes": price_changes,
+    }
