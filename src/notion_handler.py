@@ -6,6 +6,7 @@ from typing import Any, cast
 import notion_client
 
 from src import config
+from src.notion_common import get_client, resolve_data_source_id
 from src.scraper import Article
 
 logger = logging.getLogger(__name__)
@@ -39,21 +40,11 @@ _DATABASE_PROPERTIES: dict[str, Any] = {
 }
 
 
-def _get_client() -> notion_client.Client:
-    return notion_client.Client(auth=config.NOTION_API_KEY)
-
-
-def _resolve_data_source_id(client: notion_client.Client, database_id: str) -> str:
-    # Notion API 2025-09-03 requires data_source_id instead of database_id for queries
-    data = cast(dict[str, Any], client.databases.retrieve(database_id=database_id))
-    return data["data_sources"][0]["id"]
-
-
 def ensure_database(client: notion_client.Client) -> str:
     # Backward-compatible: use explicit DB ID if set
     if config.NOTION_DATABASE_ID:
         logger.info("Using existing Notion database: %s", config.NOTION_DATABASE_ID)
-        return _resolve_data_source_id(client, config.NOTION_DATABASE_ID)
+        return resolve_data_source_id(client, config.NOTION_DATABASE_ID)
 
     week_id = config.get_week_identifier()  # e.g. "2026-W07"
     db_title = f"{week_id} Articles"
@@ -148,7 +139,7 @@ def send_to_notion(articles: list[Article]) -> int:
         return 0
 
     try:
-        client = _get_client()
+        client = get_client()
         data_source_id = ensure_database(client)
 
         notable = [a for a in articles if a.relevance_score >= config.ISSUE_THRESHOLD]

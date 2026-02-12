@@ -7,6 +7,7 @@ from typing import Any, cast
 import notion_client
 
 from src import config
+from src.notion_common import get_client, resolve_data_source_id
 
 logger = logging.getLogger(__name__)
 
@@ -28,16 +29,6 @@ _MODEL_TRACKER_PROPERTIES: dict[str, Any] = {
 }
 
 
-def _get_client() -> notion_client.Client:
-    return notion_client.Client(auth=config.NOTION_API_KEY)
-
-
-def _resolve_data_source_id(client: notion_client.Client, database_id: str) -> str:
-    """Retrieve the data_source_id from a database_id (Notion API 2025-09-03)."""
-    data = cast(dict[str, Any], client.databases.retrieve(database_id=database_id))
-    return data["data_sources"][0]["id"]
-
-
 def ensure_model_tracker_db(client: notion_client.Client) -> str:
     """Find or create the persistent 'AI Model Tracker' database.
 
@@ -49,7 +40,7 @@ def ensure_model_tracker_db(client: notion_client.Client) -> str:
             "Using existing Model Tracker database: %s",
             config.NOTION_MODEL_TRACKER_DB_ID,
         )
-        return _resolve_data_source_id(client, config.NOTION_MODEL_TRACKER_DB_ID)
+        return resolve_data_source_id(client, config.NOTION_MODEL_TRACKER_DB_ID)
 
     db_title = "AI Model Tracker"
 
@@ -137,7 +128,7 @@ def send_model_updates_to_notion(
         return 0
 
     try:
-        client = _get_client()
+        client = get_client()
         data_source_id = ensure_model_tracker_db(client)
         created_count = 0
 
