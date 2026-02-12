@@ -29,9 +29,128 @@ def keyword_filter(articles: list[Article]) -> list[Article]:
     return filtered
 
 
+def _process_batch(
+    model: "genai.GenerativeModel",
+    batch: list[Article],
+    batch_num: int,
+    is_tldrai: bool,
+) -> None:
+    """Process a single batch of articles through Gemini.
+
+    Args:
+        model: Configured Gemini model instance.
+        batch: List of articles to process.
+        batch_num: Batch number for logging.
+        is_tldrai: Whether this batch contains TLDR AI articles.
+    """
+    articles_text = ""
+    for idx, article in enumerate(batch, 1):
+        articles_text += (
+            f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
+        )
+
+    tags_list = ", ".join(config.NOTION_TAGS)
+
+    # Adjust prompt for TLDR AI articles (already curated, extract key points from existing summary)
+    if is_tldrai:
+        prompt = (
+            f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
+            f"1. 개발자 관련성 점수 (0.0~1.0)\n"
+            f"2. 한국어로 2-3개 핵심 포인트 추출 (TLDR AI 뉴스레터에서 이미 요약된 내용이므로 기존 요약에서 핵심만 추출)\n"
+            f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
+            f"기사 목록:\n{articles_text}\n"
+            f"JSON 형식으로 응답해주세요:\n"
+            f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
+        )
+    else:
+        prompt = (
+            f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
+            f"1. 개발자 관련성 점수 (0.0~1.0)\n"
+            f"2. 한국어로 3줄 핵심 요약\n"
+            f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
+            f"기사 목록:\n{articles_text}\n"
+            f"JSON 형식으로 응답해주세요:\n"
+            f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
+        )
+
+    response_data = None
+    response_text = ""
+    backoff_times = [5, 15, 45]
+
+    for attempt in range(4):
+        try:
+            response = model.generate_content(prompt)
+            response_text = response.text
+
+            response_data = json.loads(response_text)
+            break
+
+        except json.JSONDecodeError:
+            logger.warning(
+                "Batch %d: Failed to parse JSON response (attempt %d)",
+                batch_num,
+                attempt + 1,
+            )
+            # Gemini sometimes wraps JSON in markdown code blocks
+            if response_text:
+                try:
+                    cleaned = response_text.strip()
+                    if cleaned.startswith("```"):
+                        cleaned = cleaned.split("\n", 1)[1]
+                        cleaned = cleaned.rsplit("```", 1)[0]
+                    response_data = json.loads(cleaned)
+                    break
+                except (json.JSONDecodeError, IndexError):
+                    pass
+            if attempt < 3:
+                time.sleep(backoff_times[min(attempt, 2)])
+
+        except Exception as e:
+            error_str = str(e)
+            is_rate_limit = "429" in error_str or "quota" in error_str.lower()
+
+            if is_rate_limit and attempt < 3:
+                wait = backoff_times[min(attempt, 2)]
+                logger.warning(
+                    "Batch %d: Rate limited, retrying in %ds (attempt %d/3)",
+                    batch_num,
+                    wait,
+                    attempt + 1,
+                )
+                time.sleep(wait)
+            else:
+                logger.error(
+                    "Batch %d: Gemini call failed (attempt %d): %s",
+                    batch_num,
+                    attempt + 1,
+                    e,
+                )
+                break
+
+    if response_data and isinstance(response_data, list):
+        valid_tags = set(config.NOTION_TAGS)
+        for item in response_data:
+            idx = item.get("index", 0) - 1
+            if 0 <= idx < len(batch):
+                batch[idx].ai_summary = item.get("summary", "")
+                batch[idx].relevance_score = float(item.get("relevance", 0.0))
+                raw_tags = item.get("tags", [])
+                if isinstance(raw_tags, list):
+                    filtered = [t for t in raw_tags if t in valid_tags][:3]
+                    batch[idx].tags = filtered if filtered else ["Other"]
+                else:
+                    batch[idx].tags = ["Other"]
+    else:
+        logger.warning(
+            "Batch %d: No valid response, keeping original articles",
+            batch_num,
+        )
+
+
 def batch_summarize(articles: list[Article]) -> list[Article]:
     """Call Gemini in BATCH_SIZE groups for relevance scores + Korean summaries.
 
+    Separates TLDR AI articles from other sources to use source-appropriate prompts.
     Retries 429 errors with exponential backoff (5s, 15s, 45s).
     On failure, returns articles unchanged (graceful degradation).
     """
@@ -56,117 +175,28 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
 
     batch_size = config.BATCH_SIZE
 
-    for i in range(0, len(articles), batch_size):
-        batch = articles[i : i + batch_size]
+    # Separate articles by source to use correct prompts
+    tldrai_articles = [a for a in articles if a.source == "tldrai"]
+    other_articles = [a for a in articles if a.source != "tldrai"]
 
-        articles_text = ""
-        has_tldrai = False
-        for idx, article in enumerate(batch, 1):
-            articles_text += (
-                f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
-            )
-            if article.source == "tldrai":
-                has_tldrai = True
+    batch_num = 0
+    all_groups: list[tuple[list[Article], bool]] = []
+    if tldrai_articles:
+        all_groups.append((tldrai_articles, True))
+    if other_articles:
+        all_groups.append((other_articles, False))
 
-        tags_list = ", ".join(config.NOTION_TAGS)
+    for group_idx, (group_articles, is_tldrai) in enumerate(all_groups):
+        for i in range(0, len(group_articles), batch_size):
+            batch = group_articles[i : i + batch_size]
+            batch_num += 1
+            _process_batch(model, batch, batch_num, is_tldrai)
 
-        # Adjust prompt for TLDR AI articles (already curated, extract key points from existing summary)
-        if has_tldrai:
-            prompt = (
-                f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
-                f"1. 개발자 관련성 점수 (0.0~1.0)\n"
-                f"2. 한국어로 2-3개 핵심 포인트 추출 (TLDR AI 뉴스레터에서 이미 요약된 내용이므로 기존 요약에서 핵심만 추출)\n"
-                f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
-                f"기사 목록:\n{articles_text}\n"
-                f"JSON 형식으로 응답해주세요:\n"
-                f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
-            )
-        else:
-            prompt = (
-                f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
-                f"1. 개발자 관련성 점수 (0.0~1.0)\n"
-                f"2. 한국어로 3줄 핵심 요약\n"
-                f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
-                f"기사 목록:\n{articles_text}\n"
-                f"JSON 형식으로 응답해주세요:\n"
-                f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
-            )
-
-        response_data = None
-        response_text = ""
-        backoff_times = [5, 15, 45]
-
-        for attempt in range(4):
-            try:
-                response = model.generate_content(prompt)
-                response_text = response.text
-
-                response_data = json.loads(response_text)
-                break
-
-            except json.JSONDecodeError:
-                logger.warning(
-                    "Batch %d: Failed to parse JSON response (attempt %d)",
-                    i // batch_size + 1,
-                    attempt + 1,
-                )
-                # Gemini sometimes wraps JSON in markdown code blocks
-                if response_text:
-                    try:
-                        cleaned = response_text.strip()
-                        if cleaned.startswith("```"):
-                            cleaned = cleaned.split("\n", 1)[1]
-                            cleaned = cleaned.rsplit("```", 1)[0]
-                        response_data = json.loads(cleaned)
-                        break
-                    except (json.JSONDecodeError, IndexError):
-                        pass
-                if attempt < 3:
-                    time.sleep(backoff_times[min(attempt, 2)])
-
-            except Exception as e:
-                error_str = str(e)
-                is_rate_limit = "429" in error_str or "quota" in error_str.lower()
-
-                if is_rate_limit and attempt < 3:
-                    wait = backoff_times[min(attempt, 2)]
-                    logger.warning(
-                        "Batch %d: Rate limited, retrying in %ds (attempt %d/3)",
-                        i // batch_size + 1,
-                        wait,
-                        attempt + 1,
-                    )
-                    time.sleep(wait)
-                else:
-                    logger.error(
-                        "Batch %d: Gemini call failed (attempt %d): %s",
-                        i // batch_size + 1,
-                        attempt + 1,
-                        e,
-                    )
-                    break
-
-        if response_data and isinstance(response_data, list):
-            valid_tags = set(config.NOTION_TAGS)
-            for item in response_data:
-                idx = item.get("index", 0) - 1
-                if 0 <= idx < len(batch):
-                    batch[idx].ai_summary = item.get("summary", "")
-                    batch[idx].relevance_score = float(item.get("relevance", 0.0))
-                    raw_tags = item.get("tags", [])
-                    if isinstance(raw_tags, list):
-                        filtered = [t for t in raw_tags if t in valid_tags][:3]
-                        batch[idx].tags = filtered if filtered else ["Other"]
-                    else:
-                        batch[idx].tags = ["Other"]
-        else:
-            logger.warning(
-                "Batch %d: No valid response, keeping original articles",
-                i // batch_size + 1,
-            )
-
-        if i + batch_size < len(articles):
-            time.sleep(2)
+            # Add delay between batches (except after the very last batch)
+            is_last_batch_in_group = (i + batch_size >= len(group_articles))
+            is_last_group = (group_idx == len(all_groups) - 1)
+            if not (is_last_batch_in_group and is_last_group):
+                time.sleep(2)
 
     return articles
 
