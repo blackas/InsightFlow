@@ -80,23 +80,23 @@ def format_digest(
 
             if new_models:
                 for model in new_models:
-                    model_name = _escape_md(model["model_name"])
+                    model_name = _escape_md(model["name"])
                     creator = _escape_md(model["creator"])
-                    score = _escape_md(str(model["intelligence_score"]))
+                    score = _escape_md(str(model["intelligence_index"]))
                     lines.append(
                         f"🆕 {model_name} by {creator} \\(intelligence: {score}\\)\n"
                     )
 
             if rank_changes:
                 for change in rank_changes:
-                    model_name = _escape_md(change["model_name"])
+                    model_name = _escape_md(change["name"])
                     old_rank = _escape_md(str(change["old_rank"]))
                     new_rank = _escape_md(str(change["new_rank"]))
                     lines.append(f"📈 {model_name}: \\#{old_rank} → \\#{new_rank}\n")
 
             if price_changes:
                 for change in price_changes:
-                    model_name = _escape_md(change["model_name"])
+                    model_name = _escape_md(change["name"])
                     old_price = _escape_md(str(change["old_price"]))
                     new_price = _escape_md(str(change["new_price"]))
                     change_pct = _escape_md(str(change["change_percent"]))
