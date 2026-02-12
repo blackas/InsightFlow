@@ -94,9 +94,12 @@ def main(dry_run: bool = False) -> None:
             logger.exception("Model tracker failed (non-fatal)")
 
         # 7.5 Model Tracker → Notion
-        if model_updates and not dry_run:
-            send_model_updates_to_notion(model_updates)
-            logger.info("Model updates synced to Notion")
+        if not dry_run and model_updates:
+            count = send_model_updates_to_notion(model_updates)
+            if count > 0:
+                logger.info("Synced %d model updates to Notion", count)
+            else:
+                logger.info("No model changes to sync to Notion")
         else:
             logger.info("[DRY RUN] Model tracker Notion sync skipped")
 
