@@ -9,8 +9,12 @@ from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from typing import cast
 
+from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
+
 import aiohttp
 import feedparser
+import requests
+from bs4 import BeautifulSoup  # type: ignore[import-untyped]
 
 from src import config
 
@@ -171,20 +175,113 @@ async def fetch_hackernews(count: int = 30) -> list[Article]:
         return []
 
 
+TLDR_AI_URL = "https://tldr.tech/api/latest/ai"
+
+TLDR_SECTIONS = {
+    "Headlines & Launches",
+    "Deep Dives & Analysis",
+    "Engineering & Research",
+    "Miscellaneous",
+    "Quick Links",
+}
+
+
+def _strip_utm_params(url: str) -> str:
+    """Remove all utm_* query parameters from a URL."""
+    parsed = urlparse(url)
+    params = parse_qs(parsed.query)
+    cleaned = {k: v for k, v in params.items() if not k.startswith("utm_")}
+    new_query = urlencode(cleaned, doseq=True)
+    return urlunparse(parsed._replace(query=new_query))
+
+
+def fetch_tldr_ai() -> list[Article]:
+    """Fetch and parse articles from the TLDR AI newsletter."""
+    try:
+        resp = requests.get(
+            TLDR_AI_URL,
+            headers={"User-Agent": USER_AGENT},
+            timeout=15,
+        )
+        resp.raise_for_status()
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+        today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+        articles: list[Article] = []
+
+        for section in soup.find_all("section"):
+            header = section.find("header")
+            if not header:
+                continue
+
+            h3_header = header.find("h3")
+            if not h3_header:
+                continue
+
+            section_name = h3_header.get_text(strip=True)
+            if section_name not in TLDR_SECTIONS:
+                continue
+
+            for article_tag in section.find_all("article"):
+                link_tag = article_tag.find("a", class_="font-bold")
+                if not link_tag:
+                    continue
+
+                title_tag = link_tag.find("h3")
+                if not title_tag:
+                    continue
+
+                title = title_tag.get_text(strip=True)
+
+                if "(Sponsor)" in title:
+                    continue
+
+                raw_url = link_tag.get("href", "")
+                if not raw_url:
+                    continue
+
+                clean_url = _strip_utm_params(raw_url)
+
+                desc_div = article_tag.find("div", class_="newsletter-html")
+                summary = desc_div.get_text(strip=True)[:500] if desc_div else ""
+
+                articles.append(
+                    Article(
+                        source="tldrai",
+                        source_id=clean_url,
+                        title=title,
+                        url=clean_url,
+                        discussion_url=clean_url,
+                        summary=summary,
+                        score=0,
+                        published_at=today_iso,
+                    )
+                )
+
+        logger.info("Fetched %d articles from TLDR AI", len(articles))
+        return articles
+
+    except Exception:
+        logger.exception("Error fetching TLDR AI newsletter")
+        return []
+
+
 async def scrape_all() -> list[Article]:
     loop = asyncio.get_event_loop()
     geeknews_task = loop.run_in_executor(None, fetch_geeknews)
     hackernews_task = fetch_hackernews(count=config.HN_TOP_N)
+    tldrai_task = loop.run_in_executor(None, fetch_tldr_ai)
 
-    geeknews_articles, hackernews_articles = await asyncio.gather(
-        geeknews_task, hackernews_task
+    geeknews_articles, hackernews_articles, tldrai_articles = await asyncio.gather(
+        geeknews_task, hackernews_task, tldrai_task
     )
 
-    all_articles = geeknews_articles + hackernews_articles
+    all_articles = geeknews_articles + hackernews_articles + tldrai_articles
     logger.info(
-        "Total articles collected: %d (GeekNews: %d, HN: %d)",
+        "Total articles collected: %d (GeekNews: %d, HN: %d, TLDR AI: %d)",
         len(all_articles),
         len(geeknews_articles),
         len(hackernews_articles),
+        len(tldrai_articles),
     )
     return all_articles
