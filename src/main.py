@@ -10,6 +10,7 @@ from datetime import datetime
 
 from src import config
 from src.ai_handler import filter_and_summarize
+from src.model_tracker import fetch_model_data, get_model_updates, save_model_snapshots
 from src.notion_handler import send_to_notion
 from src.notifier import send_digest, send_failure_notification
 from src.scraper import scrape_all
@@ -60,26 +61,43 @@ def main(dry_run: bool = False) -> None:
         save_daily_articles(processed, today)
         save_seen_ids(seen_ids)
 
-        # 5. Telegram digest
-        if not dry_run:
-            send_digest(processed)
-            logger.info("Telegram digest sent")
-        else:
-            logger.info("[DRY RUN] Telegram send skipped")
-
-        # 6. GitHub Issues
+        # 5. GitHub Issues
         if not dry_run:
             create_github_issues(processed)
             logger.info("GitHub Issues created")
         else:
             logger.info("[DRY RUN] GitHub Issues creation skipped")
 
-        # 7. Notion
+        # 6. Notion
         if not dry_run:
             send_to_notion(processed)
             logger.info("Notion database updated")
         else:
             logger.info("[DRY RUN] Notion update skipped")
+
+        # 7. Model Tracker
+        model_updates: dict[str, list[dict[str, object]]] | None = None
+        try:
+            logger.info("Starting model tracker...")
+            models = fetch_model_data()
+            save_model_snapshots(models, today)
+            updates = get_model_updates(today)
+            model_updates = updates
+            logger.info(
+                "Model tracker done: %d new, %d rank changes, %d price changes",
+                len(updates.get("new_models", [])),
+                len(updates.get("rank_changes", [])),
+                len(updates.get("price_changes", [])),
+            )
+        except Exception:
+            logger.exception("Model tracker failed (non-fatal)")
+
+        # 8. Telegram digest
+        if not dry_run:
+            send_digest(processed, model_updates=model_updates)
+            logger.info("Telegram digest sent")
+        else:
+            logger.info("[DRY RUN] Telegram send skipped")
 
         logger.info("Pipeline completed successfully")
 
