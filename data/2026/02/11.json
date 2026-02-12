@@ -231,5 +231,407 @@
       "Career",
       "Other"
     ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46972179",
+    "title": "The AI Vampire",
+    "url": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
+    "discussion_url": "https://news.ycombinator.com/item?id=46972179",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-02-11T08:01:52+00:00",
+    "ai_summary": "AI의 급속한 발전이 사회와 산업에 미치는 부정적 영향, 즉 '흡혈귀'처럼 자원을 소모하고 기존 구조를 파괴하는 측면을 조명한다.\n이는 일자리 변화, 윤리적 딜레마, 그리고 AI 시스템의 지속 가능성 문제 등 개발자들이 직면할 도전 과제들을 제시한다.\n개발자들이 이러한 그림자를 인식하고 책임감 있는 AI 개발을 통해 긍정적인 방향으로 기술을 이끌어야 함을 강조한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46933135",
+    "title": "Show HN: CodeMic",
+    "url": "https://codemic.io/#hn",
+    "discussion_url": "https://news.ycombinator.com/item?id=46933135",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-02-08T10:42:29+00:00",
+    "ai_summary": "Hacker News에 소개된 CodeMic은 개발자를 위한 혁신적인 음성 기반 코딩 도구이다.\n음성 명령을 통해 코드를 작성하고 수정할 수 있게 하여 개발 생산성을 혁신적으로 향상시킨다.\n이는 기존 입력 방식의 한계를 넘어 개발 워크플로우를 효율화하고 접근성을 개선할 잠재력을 가진다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26608",
+    "title": "Mistral Voxtral Realtime 4B 음성 인식 모델의 순수 C 기반 CPU 전용 추론 구현",
+    "url": "https://news.hada.io/topic?id=26608",
+    "discussion_url": "https://news.hada.io/topic?id=26608",
+    "summary": "Mistral Voxtral Realtime 4B 모델을 C 언어만으로 구현한 추론 파이프라인으로, 외부 의존성이 전혀 없는 독립 실행형 구조\n\nMetal GPU 가속(MPS) 과 BLAS(OpenBLAS/Accelerate) 백엔드를 지원하며, 스트리밍 API",
+    "score": 0,
+    "published_at": "2026-02-11T20:33:59+00:00",
+    "ai_summary": "Mistral Voxtral 4B 음성 인식 모델의 순수 C 기반 CPU 전용 추론 구현입니다.\n외부 의존성이 없는 독립 실행형 파이프라인으로, Metal GPU 및 BLAS 백엔드를 지원합니다.\n성능 최적화 및 경량화된 AI 모델 배포에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26605",
+    "title": "Show GN: OpenCode에서 Claude 계정 여러 개를 쿼터 기반 로드 밸런싱해주는 플러그인",
+    "url": "https://news.hada.io/topic?id=26605",
+    "discussion_url": "https://news.hada.io/topic?id=26605",
+    "summary": "OpenCode에서 Claude 계정 여러 개 돌려쓰시는 분 계신가요?\n안녕하세요, 온디바이스 AI 필기앱, altalt.io 개발자입니다.\nAnthropic 계정을 여러 개 묶어,\n쿼터 기반으로 자동 분산해주는 플러그인을 만들었어요.\n이런걸 해줍니다:\n\nMulti-account 지원 (Claude Pro/Max 여러",
+    "score": 0,
+    "published_at": "2026-02-11T15:06:04+00:00",
+    "ai_summary": "OpenCode용 플러그인으로, 여러 Claude 계정을 쿼터 기반으로 자동 로드 밸런싱합니다.\nAnthropic LLM API 사용 시 계정 관리와 할당량 분산을 효율적으로 지원합니다.\nLLM 기반 애플리케이션 개발자가 API 사용량을 최적화하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26603",
+    "title": "하프라이프 2를 퀘이크 1 엔진으로 클린룸 구현",
+    "url": "https://news.hada.io/topic?id=26603",
+    "discussion_url": "https://news.hada.io/topic?id=26603",
+    "summary": "웹사이트 접근 시 표시되는 Anubis 보안 페이지는 서버를 AI 데이터 스크래핑으로부터 보호하기 위한 장치\n시스템은 Proof-of-Work(작업증명) 기반 검증을 통해 대규모 자동화 요청의 부하를 증가시켜 스크래핑 비용을 높이는 구조",
+    "score": 0,
+    "published_at": "2026-02-11T12:32:51+00:00",
+    "ai_summary": "Anubis 보안 페이지는 웹사이트 서버를 AI 데이터 스크래핑으로부터 보호하는 장치입니다.\n작업증명(Proof-of-Work) 기반 검증으로 자동화된 대규모 요청의 부하를 증가시킵니다.\n이는 AI 스크래핑 비용을 높여 웹 보안을 강화하는 효과적인 방법론입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46977210",
+    "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "url": "https://z.ai/blog/glm-5",
+    "discussion_url": "https://news.ycombinator.com/item?id=46977210",
+    "summary": "",
+    "score": 364,
+    "published_at": "2026-02-11T16:41:33+00:00",
+    "ai_summary": "GLM-5 모델을 중심으로, 초기 코딩 방식에서 에이전트 기반 엔지니어링으로의 전환을 다룹니다.\nAI 개발 패러다임 변화와 LLM을 활용한 자율 에이전트 구축 방법을 탐구할 것으로 예상됩니다.\n최신 AI 모델 및 에이전트 기술에 관심 있는 개발자에게 유용한 내용을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46976911",
+    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+    "url": "https://fluorite.game/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46976911",
+    "summary": "",
+    "score": 356,
+    "published_at": "2026-02-11T16:21:10+00:00",
+    "ai_summary": "콘솔 수준의 게임 엔진인 Fluorite가 Flutter와 완벽하게 통합된 사례를 소개합니다.\n크로스 플랫폼 UI 프레임워크인 Flutter를 이용해 게임 개발 가능성을 확장합니다.\n게임 개발자 및 Flutter 개발자에게 새로운 통합 개발 환경을 제시할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46942864",
+    "title": "Text classification with Python 3.14's ZSTD module",
+    "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46942864",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-02-09T08:14:28+00:00",
+    "ai_summary": "Python 3.14의 ZSTD 모듈을 활용한 텍스트 분류 기술에 대해 다룹니다.\nZSTD를 이용한 효율적인 데이터 처리와 텍스트 분류 모델 구현 방법을 제시할 것으로 보입니다.\nAI/ML 분야에서 텍스트 처리 성능 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46978710",
+    "title": "Claude Code is being dumbed down?",
+    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46978710",
+    "summary": "",
+    "score": 641,
+    "published_at": "2026-02-11T18:23:39+00:00",
+    "ai_summary": "클로드(Claude) AI 모델의 코드 생성 품질이 저하되고 있다는 우려가 제기됩니다.\n개발자들이 AI 코딩 도구의 성능 변화에 주의해야 함을 시사합니다.\nLLM의 일관성과 신뢰성에 대한 중요한 논의를 촉발합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46978966",
+    "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+    "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+    "discussion_url": "https://news.ycombinator.com/item?id=46978966",
+    "summary": "",
+    "score": 330,
+    "published_at": "2026-02-11T18:43:01+00:00",
+    "ai_summary": "아마존 링의 잃어버린 개 광고가 대규모 감시에 대한 우려를 증폭시키며 비난을 받았습니다.\n이는 스마트 홈 기기가 사생활 침해 도구가 될 수 있다는 인식을 강화했습니다.\n기술 개발 시 윤리적 고려와 사용자 개인 정보 보호의 중요성을 강조합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46920315",
+    "title": "WiFi Could Become an Invisible Mass Surveillance System",
+    "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46920315",
+    "summary": "",
+    "score": 276,
+    "published_at": "2026-02-07T01:16:42+00:00",
+    "ai_summary": "와이파이(WiFi) 신호가 보이지 않는 대규모 감시 시스템으로 활용될 가능성이 제기되었습니다.\n이 기술은 사람의 움직임과 생체 신호까지 감지할 수 있어 개인 정보 보호에 새로운 위협이 됩니다.\n보안 연구자와 네트워크 개발자에게 중요한 경고 메시지를 던집니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46979604",
+    "title": "Components will kill pages",
+    "url": "https://bitsandbytes.dev/posts/components-will-kill-pages",
+    "discussion_url": "https://news.ycombinator.com/item?id=46979604",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-02-11T19:27:46+00:00",
+    "ai_summary": "웹 개발에서 전통적인 '페이지' 단위가 '컴포넌트' 기반 아키텍처로 대체될 것이라는 주장이 제기됩니다.\n이는 재사용성과 유지보수성을 높여 개발 효율성을 극대화하는 방안입니다.\n현대 프런트엔드 개발의 핵심 트렌드 변화를 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46924075",
+    "title": "GLM-OCR: Accurate × Fast × Comprehensive",
+    "url": "https://github.com/zai-org/GLM-OCR",
+    "discussion_url": "https://news.ycombinator.com/item?id=46924075",
+    "summary": "",
+    "score": 206,
+    "published_at": "2026-02-07T14:15:36+00:00",
+    "ai_summary": "GLM-OCR은 정확하고 빠르며 포괄적인 기능을 갖춘 새로운 광학 문자 인식(OCR) 솔루션입니다.\n문서 자동화 및 데이터 추출과 같은 분야에서 개발자에게 매우 유용하게 활용될 수 있습니다.\nAI 기반 이미지 및 텍스트 처리 기술의 발전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46968374",
+    "title": "We rendered and embedded one million CAD files",
+    "url": "https://cad-search-three.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46968374",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-02-10T23:12:36+00:00",
+    "ai_summary": "백만 개의 CAD 파일을 성공적으로 렌더링하고 웹에 임베드한 경험을 공유합니다.\n대용량 그래픽 데이터 처리 및 성능 최적화에 대한 기술적 도전을 다룹니다.\n클라우드 인프라 및 백엔드 시스템 설계에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46923554",
+    "title": "Hacking the last Z80 computer – FOSDEM 2026 [video]",
+    "url": "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46923554",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-02-07T13:09:12+00:00",
+    "ai_summary": "FOSDEM 2026에서 마지막 Z80 컴퓨터를 해킹하는 과정을 담은 영상입니다.\n구형 하드웨어 시스템에 대한 깊이 있는 분석과 로우레벨 프로그래밍 기술을 선보입니다.\n보안 취약점 연구 및 임베디드 시스템 개발자에게 흥미로운 내용을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46979781",
+    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+    "url": "https://github.com/adenhq/hive/blob/main/README.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=46979781",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-02-11T19:39:43+00:00",
+    "ai_summary": "스스로 토폴로지를 생성하고 런타임에 진화하는 에이전트 프레임워크가 공개되었습니다.\n이는 동적이고 적응적인 시스템 구축에 대한 새로운 접근법을 제시합니다.\nAI 에이전트 및 분산 시스템 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46978015",
+    "title": "Should your developer company go open source?",
+    "url": "https://extremefoundership.substack.com/p/should-your-developer-company-go",
+    "discussion_url": "https://news.ycombinator.com/item?id=46978015",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-02-11T17:34:27+00:00",
+    "ai_summary": "개발자 회사가 오픈소스를 채택해야 하는지에 대한 전략적 논의를 다루는 기사입니다.\n오픈소스 모델의 장단점과 비즈니스 및 개발 문화에 미치는 영향을 분석합니다.\n개발자 커뮤니티와 경력에 간접적인 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46979643",
+    "title": "iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day",
+    "url": "https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46979643",
+    "summary": "",
+    "score": 101,
+    "published_at": "2026-02-11T19:30:30+00:00",
+    "ai_summary": "iOS 26.3 및 macOS 26.3 업데이트를 통해 다수의 취약점, 특히 제로데이 취약점이 수정되었습니다.\n이는 애플 시스템의 보안을 강화하고 사용자 데이터를 보호하는 중요한 조치입니다.\n개발자는 애플리케이션 보안을 위해 최신 패치 적용을 고려해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46946593",
+    "title": "Show HN: AI agents play SimCity through a REST API",
+    "url": "https://hallucinatingsplines.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=46946593",
+    "summary": "",
+    "score": 162,
+    "published_at": "2026-02-09T15:54:33+00:00",
+    "ai_summary": "AI 에이전트가 REST API를 활용하여 심시티 게임을 플레이하는 프로젝트가 공개되었습니다.\n이는 AI 모델과 외부 시스템 간의 상호작용 설계의 좋은 예시입니다.\nAI/ML 개발자 및 API 연동 프로젝트에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46979819",
+    "title": "Paragon accidentally uploaded a photo of its spyware control panel",
+    "url": "https://twitter.com/DrWhax/status/2021608609595945442",
+    "discussion_url": "https://news.ycombinator.com/item?id=46979819",
+    "summary": "",
+    "score": 114,
+    "published_at": "2026-02-11T19:42:28+00:00",
+    "ai_summary": "파라곤이 실수로 자사 스파이웨어 제어판 사진을 온라인에 유출한 사고가 발생했습니다.\n이는 기업의 운영 보안과 민감한 정보 관리의 중요성을 극명하게 보여줍니다.\n개발자는 보안 취약점과 데이터 보호에 대한 경각심을 높일 필요가 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46980273",
+    "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
+    "url": "https://agentalcove.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=46980273",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-02-11T20:15:21+00:00",
+    "ai_summary": "LLM 챗봇(Claude, GPT, Gemini)들이 온라인 포럼에서 서로 논쟁하는 것을 시뮬레이션하는 플랫폼 'Agent Alcove'가 소개되었습니다.\n이 도구는 다중 에이전트 AI의 상호작용과 대규모 언어 모델의 활용 가능성을 보여줍니다.\n개발자들이 AI 에이전트 시스템을 탐색하고 구축하는 데 영감을 줄 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46973573",
+    "title": "Exposure Simulator",
+    "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46973573",
+    "summary": "",
+    "score": 119,
+    "published_at": "2026-02-11T11:16:23+00:00",
+    "ai_summary": "'노출 시뮬레이터'는 특정 환경에서의 노출 효과를 예측하고 시각화하는 소프트웨어 도구일 가능성이 높습니다.\n이는 모델링, 데이터 분석 및 사용자 인터페이스 개발 등 다양한 개발 기술을 요구할 수 있습니다.\n엔지니어링 및 과학 분야에서 유용하게 활용될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46981231",
+    "title": "Apple's Siri revamp reportedly delayed again",
+    "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46981231",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-02-11T21:23:39+00:00",
+    "ai_summary": "애플의 음성 비서 시리(Siri) 개편 작업이 또다시 지연되고 있다는 소식입니다.\n이는 AI 기반 대규모 소프트웨어 프로젝트의 복잡성과 개발 난이도를 시사합니다.\n자연어 처리 및 AI 개발 분야에 관심 있는 개발자들에게 시사하는 바가 큽니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Backend"
+    ]
   }
 ]
