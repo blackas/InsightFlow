@@ -20,6 +20,7 @@ _DATABASE_PROPERTIES: dict[str, Any] = {
             "options": [
                 {"name": "geeknews", "color": "green"},
                 {"name": "hackernews", "color": "orange"},
+                {"name": "tldrai", "color": "blue"},
             ]
         },
     },

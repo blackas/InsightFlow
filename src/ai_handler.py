@@ -13,12 +13,12 @@ logger = logging.getLogger(__name__)
 
 
 def keyword_filter(articles: list[Article]) -> list[Article]:
-    """Filter articles by keywords. HN articles bypass keyword filter (curated by community votes)."""
+    """Filter articles by keywords. HN and TLDR AI articles bypass keyword filter (already curated)."""
     keywords_lower = [kw.lower() for kw in config.KEYWORDS]
     filtered: list[Article] = []
 
     for article in articles:
-        if article.source == "hackernews":
+        if article.source in ("hackernews", "tldrai"):
             filtered.append(article)
             continue
         text = f"{article.title} {article.summary}".lower()
@@ -60,21 +60,37 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
         batch = articles[i : i + batch_size]
 
         articles_text = ""
+        has_tldrai = False
         for idx, article in enumerate(batch, 1):
             articles_text += (
                 f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
             )
+            if article.source == "tldrai":
+                has_tldrai = True
 
         tags_list = ", ".join(config.NOTION_TAGS)
-        prompt = (
-            f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
-            f"1. 개발자 관련성 점수 (0.0~1.0)\n"
-            f"2. 한국어로 3줄 핵심 요약\n"
-            f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
-            f"기사 목록:\n{articles_text}\n"
-            f"JSON 형식으로 응답해주세요:\n"
-            f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
-        )
+
+        # Adjust prompt for TLDR AI articles (already curated, extract key points from existing summary)
+        if has_tldrai:
+            prompt = (
+                f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
+                f"1. 개발자 관련성 점수 (0.0~1.0)\n"
+                f"2. 한국어로 2-3개 핵심 포인트 추출 (TLDR AI 뉴스레터에서 이미 요약된 내용이므로 기존 요약에서 핵심만 추출)\n"
+                f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
+                f"기사 목록:\n{articles_text}\n"
+                f"JSON 형식으로 응답해주세요:\n"
+                f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
+            )
+        else:
+            prompt = (
+                f"다음 기술 기사들을 분석해주세요. 각 기사에 대해:\n"
+                f"1. 개발자 관련성 점수 (0.0~1.0)\n"
+                f"2. 한국어로 3줄 핵심 요약\n"
+                f"3. 태그 분류 (다음 목록에서 최대 3개 태그 선택: {tags_list})\n\n"
+                f"기사 목록:\n{articles_text}\n"
+                f"JSON 형식으로 응답해주세요:\n"
+                f'[{{"index": 1, "relevance": 0.85, "summary": "...", "tags": ["AI/ML", "Tool"]}}, ...]'
+            )
 
         response_data = None
         response_text = ""

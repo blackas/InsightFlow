@@ -4,6 +4,7 @@ import logging
 import re
 import time
 from datetime import datetime, timezone
+from typing import Any
 
 import requests
 
@@ -17,7 +18,10 @@ def _escape_md(text: str) -> str:
     return re.sub(r"([_*\[\]()~`>#+\-=|{}.!\\])", r"\\\1", text)
 
 
-def format_digest(articles: list[Article]) -> str:
+def format_digest(
+    articles: list[Article],
+    model_updates: dict[str, list[dict[str, Any]]] | None = None,
+) -> str:
     """Format articles into a Telegram MarkdownV2 daily digest, grouped by source."""
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y\\-%m\\-%d")
@@ -25,6 +29,7 @@ def format_digest(articles: list[Article]) -> str:
 
     geeknews = [a for a in articles if a.source == "geeknews"]
     hackernews = [a for a in articles if a.source == "hackernews"]
+    tldrai = [a for a in articles if a.source == "tldrai"]
 
     if geeknews:
         lines.append("🇰🇷 *GeekNews*\n")
@@ -51,6 +56,53 @@ def format_digest(articles: list[Article]) -> str:
             lines.append(
                 f"{i}\\. *{title}* \\(⬆{score}\\)\n{summary}\n🔗 [원문]({url}) \\| [토론]({discussion_url})\n"
             )
+
+    if tldrai:
+        lines.append("🤖 *TLDR AI*\n")
+        for i, article in enumerate(tldrai, 1):
+            title = _escape_md(article.title)
+            summary = _escape_md(article.ai_summary or article.summary)
+            url = _escape_md(article.url)
+            discussion_url = _escape_md(article.discussion_url)
+            relevance = _escape_md(str(article.relevance_score))
+
+            lines.append(
+                f"{i}\\. *{title}*\n{summary}\n🔗 [원문]({url}) \\| [토론]({discussion_url})\n⭐ 관련성: {relevance}\n"
+            )
+
+    if model_updates:
+        new_models = model_updates.get("new_models", [])
+        rank_changes = model_updates.get("rank_changes", [])
+        price_changes = model_updates.get("price_changes", [])
+
+        if new_models or rank_changes or price_changes:
+            lines.append("📊 *AI Model Updates*\n")
+
+            if new_models:
+                for model in new_models:
+                    model_name = _escape_md(model["model_name"])
+                    creator = _escape_md(model["creator"])
+                    score = _escape_md(str(model["intelligence_score"]))
+                    lines.append(
+                        f"🆕 {model_name} by {creator} \\(intelligence: {score}\\)\n"
+                    )
+
+            if rank_changes:
+                for change in rank_changes:
+                    model_name = _escape_md(change["model_name"])
+                    old_rank = _escape_md(str(change["old_rank"]))
+                    new_rank = _escape_md(str(change["new_rank"]))
+                    lines.append(f"📈 {model_name}: \\#{old_rank} → \\#{new_rank}\n")
+
+            if price_changes:
+                for change in price_changes:
+                    model_name = _escape_md(change["model_name"])
+                    old_price = _escape_md(str(change["old_price"]))
+                    new_price = _escape_md(str(change["new_price"]))
+                    change_pct = _escape_md(str(change["change_percent"]))
+                    lines.append(
+                        f"💰 {model_name}: \\${old_price} → \\${new_price} \\({change_pct}%\\)\n"
+                    )
 
     return "\n".join(lines)
 
@@ -141,13 +193,16 @@ def send_telegram(text: str) -> bool:
     return False
 
 
-def send_digest(articles: list[Article]) -> bool:
+def send_digest(
+    articles: list[Article],
+    model_updates: dict[str, list[dict[str, Any]]] | None = None,
+) -> bool:
     """Format articles into digest, chunk, and send via Telegram (1s between chunks)."""
     if not articles:
         logger.info("No articles to send in digest")
         return True
 
-    text = format_digest(articles)
+    text = format_digest(articles, model_updates)
     chunks = chunk_message(text)
 
     logger.info(
