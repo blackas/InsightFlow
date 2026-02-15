@@ -36,3 +36,35 @@ def test_format_digest_with_all_model_updates(sample_article, sample_model_updat
     assert "GPT" in result
     assert "Claude" in result
     assert "Turbo" in result
+
+def test_format_digest_with_none_creator(sample_article):
+    """format_digest must handle model updates where 'creator' is None (from API)."""
+    updates = {
+        "new_models": [
+            {"name": "MiniMax-M2.5", "creator": None, "intelligence_index": 80.5},
+        ],
+        "rank_changes": [],
+        "price_changes": [],
+    }
+    result = format_digest([sample_article], model_updates=updates)
+    assert "MiniMax" in result
+    # Should not crash — creator=None renders as empty string
+    assert "80" in result  # intelligence_index
+
+
+def test_format_digest_with_none_fields_everywhere(sample_article):
+    """format_digest must handle None in any field without crashing."""
+    updates = {
+        "new_models": [
+            {"name": None, "creator": None, "intelligence_index": None},
+        ],
+        "rank_changes": [
+            {"name": None, "old_rank": None, "new_rank": None},
+        ],
+        "price_changes": [
+            {"name": None, "old_price": None, "new_price": None, "change_percent": None},
+        ],
+    }
+    # Should not crash
+    result = format_digest([sample_article], model_updates=updates)
+    assert "AI Model Updates" in result

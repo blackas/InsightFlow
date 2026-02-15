@@ -14,8 +14,10 @@ from src.scraper import Article
 logger = logging.getLogger(__name__)
 
 
-def _escape_md(text: str) -> str:
-    return re.sub(r"([_*\[\]()~`>#+\-=|{}.!\\])", r"\\\1", text)
+def _escape_md(text: str | None) -> str:
+    if text is None:
+        return ""
+    return re.sub(r"([_*\[\]()~`>#+\-=|{}.!\\])", r"\\\1", str(text))
 
 
 def format_digest(
