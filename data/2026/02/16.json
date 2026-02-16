@@ -205,5 +205,112 @@
       "Tool",
       "Backend"
     ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26736",
+    "title": "인터넷을 더 이상 신뢰할 수 없다",
+    "url": "https://news.hada.io/topic?id=26736",
+    "discussion_url": "https://news.hada.io/topic?id=26736",
+    "summary": "일본 세가 제네시스용 재발매 게임 ‘Phantasy Star Fukkokuban’ 을 검색하던 중, 실제 존재하지 않는 AI 생성 허위 기사를 발견한 사례를 중심으로 인터넷 신뢰 붕괴를 다룸\n검색 결과 상위에 노출된 사이트가 그래픽 향상·날씨 효과 등 사실과...",
+    "score": 0,
+    "published_at": "2026-02-16T11:13:22+00:00",
+    "ai_summary": "AI 생성 허위 기사가 검색 결과 상위에 노출되며 인터넷 정보 신뢰도 붕괴 사례가 나타났습니다.\n존재하지 않는 게임 정보를 실제처럼 다뤄 잘못된 정보의 확산이 심각한 수준임을 보여줍니다.\n개발자들은 이런 AI 생성 콘텐츠 문제와 정보 검증의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26735",
+    "title": "두 가지 다른 방식의 빠른 LLM 추론 기법",
+    "url": "https://news.hada.io/topic?id=26735",
+    "discussion_url": "https://news.hada.io/topic?id=26735",
+    "summary": "Anthropic과 OpenAI가 각각 자사 최고 코딩 모델의 ‘fast mode’ 를 공개하며 추론 속도를 대폭 향상시킴\nAnthropic은 Opus 4.6 모델을 그대로 사용하면서 배치 크기를 줄여 최대 2.5배 빠른 토큰 처리 속도를 제공\n...",
+    "score": 0,
+    "published_at": "2026-02-16T11:12:00+00:00",
+    "ai_summary": "Anthropic과 OpenAI가 LLM 추론 속도를 대폭 향상시키는 '고속 모드'를 공개했습니다.\nAnthropic은 배치 크기 조절로 기존 모델의 토큰 처리 속도를 최대 2.5배 빠르게 만들었습니다.\n이는 LLM을 활용하는 개발자들에게 성능 최적화의 중요성과 실제 기법을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47033328",
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "discussion_url": "https://news.ycombinator.com/item?id=47033328",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-02-16T10:26:22+00:00",
+    "ai_summary": "MessageFormat은 Unicode 표준으로, 소프트웨어의 다국어 메시지를 효율적으로 처리하기 위한 형식입니다.\n복수형, 성별, 날짜/시간 포맷 등 복잡한 지역화 요구사항을 충족시키며 전 세계 사용자 경험을 개선합니다.\n전역 서비스를 개발하는 개발자들에게 필수적인 국제화 기술입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46997356",
+    "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+    "url": "https://github.com/preservim/vim-pencil",
+    "discussion_url": "https://news.ycombinator.com/item?id=46997356",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-02-13T00:35:23+00:00",
+    "ai_summary": "Vim-pencil은 인기 있는 텍스트 편집기 Vim을 일반 글쓰기 도구로 활용하도록 돕는 플러그인입니다.\n글쓰기에 최적화된 서식, 스펠링 체크, 집중 모드 등 다양한 기능을 제공합니다.\n개발자들이 익숙한 환경에서 문서 작업 효율을 높이는 데 기여합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47033622",
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+    "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47033622",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-02-16T11:06:28+00:00",
+    "ai_summary": "Anthropic이 자사 AI 모델 Claude의 내부 작동 방식을 가리려 시도하여 개발자들의 반발을 사고 있습니다.\n개발자들은 AI 시스템의 디버깅, 행동 이해, 신뢰할 수 있는 애플리케이션 구축을 위해 투명성을 요구합니다.\n이는 AI 개발 윤리와 책임감 있는 AI 시스템 구축의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46989879",
+    "title": "Hard problems in social media archiving",
+    "url": "https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46989879",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-02-12T15:19:13+00:00",
+    "ai_summary": "이 기사는 소셜 미디어 데이터를 장기적으로 보존하는 아카이빙 과정의 어려운 문제들을 탐구합니다.\n방대한 데이터 규모, 동적 콘텐츠, 플랫폼 변화, 법적 및 개인 정보 보호 문제가 주요 과제입니다.\n데이터 관리 및 대규모 시스템 개발자에게 중요한 도전 과제를 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Cloud",
+      "Security"
+    ]
   }
 ]
