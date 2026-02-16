@@ -133,3 +133,132 @@ class TestDashboardProperties:
             assert _DASHBOARD_PROPERTIES[field]["type"] == "number", (
                 f"{field} should be number type"
             )
+
+
+# ---------------------------------------------------------------------------
+# Task 3: Upsert logic tests
+# ---------------------------------------------------------------------------
+
+_FULL_MODEL = {
+    "model_id": "gpt-5",
+    "name": "GPT-5",
+    "creator": "OpenAI",
+    "intelligence_index": 95.2,
+    "coding_index": 88.1,
+    "math_index": 91.5,
+    "speed_index": 75.0,
+    "price_input": 2.50,
+    "price_output": 10.00,
+    "speed_tokens_per_sec": 150.0,
+    "ttft_seconds": 0.3,
+}
+
+_SPARSE_MODEL = {
+    "model_id": "sparse-model",
+    "name": "Sparse",
+    "creator": None,
+    "intelligence_index": 80.0,
+    "coding_index": None,
+    "math_index": None,
+    "speed_index": None,
+    "price_input": 1.0,
+    "price_output": None,
+    "speed_tokens_per_sec": None,
+    "ttft_seconds": None,
+}
+
+
+class TestFindModelPage:
+    def test_find_existing_model(self, mock_notion_client):
+        mock_notion_client.data_sources.query.return_value = {
+            "results": [{"id": "page-123"}]
+        }
+        from src.notion_model_dashboard import _find_model_page
+
+        result = _find_model_page(mock_notion_client, "ds-id", "model-abc")
+
+        mock_notion_client.data_sources.query.assert_called_once_with(
+            data_source_id="ds-id",
+            filter={"property": "모델 ID", "rich_text": {"equals": "model-abc"}},
+        )
+        assert result == "page-123"
+
+    def test_find_nonexistent_model(self, mock_notion_client):
+        mock_notion_client.data_sources.query.return_value = {"results": []}
+        from src.notion_model_dashboard import _find_model_page
+
+        assert _find_model_page(mock_notion_client, "ds-id", "model-xyz") is None
+
+
+class TestBuildDashboardProperties:
+    def test_all_fields_mapped(self):
+        from src.notion_model_dashboard import _build_dashboard_properties
+
+        props = _build_dashboard_properties(_FULL_MODEL, rank=1)
+
+        assert props["모델명"]["title"][0]["text"]["content"] == "GPT-5"
+        assert props["모델 ID"]["rich_text"][0]["text"]["content"] == "gpt-5"
+        assert props["제작사"]["select"]["name"] == "OpenAI"
+        assert props["종합 지능"]["number"] == 95.2
+        assert props["코딩 지수"]["number"] == 88.1
+        assert props["수학 지수"]["number"] == 91.5
+        assert props["속도 지수"]["number"] == 75.0
+        assert props["입력 가격"]["number"] == 2.50
+        assert props["출력 가격"]["number"] == 10.00
+        assert props["처리 속도"]["number"] == 150.0
+        assert props["TTFT"]["number"] == 0.3
+        assert props["순위"]["number"] == 1
+        assert "start" in props["마지막 업데이트"]["date"]
+
+    def test_none_values_omitted(self):
+        from src.notion_model_dashboard import _build_dashboard_properties
+
+        props = _build_dashboard_properties(_SPARSE_MODEL, rank=5)
+
+        # Present
+        assert props["모델명"]["title"][0]["text"]["content"] == "Sparse"
+        assert props["종합 지능"]["number"] == 80.0
+        assert props["입력 가격"]["number"] == 1.0
+        assert props["순위"]["number"] == 5
+
+        # Omitted (None values)
+        for absent in (
+            "코딩 지수",
+            "수학 지수",
+            "속도 지수",
+            "출력 가격",
+            "처리 속도",
+            "TTFT",
+            "제작사",
+        ):
+            assert absent not in props, f"{absent} should be omitted when value is None"
+
+
+class TestUpsertModel:
+    def test_upsert_creates_new_model(self, mock_notion_client):
+        mock_notion_client.data_sources.query.return_value = {"results": []}
+        from src.notion_model_dashboard import _upsert_model
+
+        result = _upsert_model(mock_notion_client, "ds-id", _FULL_MODEL, rank=3)
+
+        assert result == "created"
+        mock_notion_client.pages.create.assert_called_once()
+        mock_notion_client.pages.update.assert_not_called()
+        create_kwargs = mock_notion_client.pages.create.call_args
+        assert create_kwargs.kwargs["parent"]["data_source_id"] == "ds-id"
+
+    def test_upsert_updates_existing_model(self, mock_notion_client):
+        mock_notion_client.data_sources.query.return_value = {
+            "results": [{"id": "existing-page-id"}]
+        }
+        from src.notion_model_dashboard import _upsert_model
+
+        result = _upsert_model(mock_notion_client, "ds-id", _FULL_MODEL, rank=2)
+
+        assert result == "updated"
+        mock_notion_client.pages.update.assert_called_once()
+        mock_notion_client.pages.create.assert_not_called()
+        assert (
+            mock_notion_client.pages.update.call_args.kwargs["page_id"]
+            == "existing-page-id"
+        )
