@@ -47,7 +47,11 @@ class TestSeenIdsSaveTiming:
         mock_load_seen.return_value = set()
         mock_filter_new.return_value = sample_articles
         mock_filter_summarize.return_value = sample_articles
-        mock_get_model_updates.return_value = {"new_models": [], "rank_changes": [], "price_changes": []}
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
 
         # Track call order using a shared manager
         manager = MagicMock()
@@ -60,9 +64,18 @@ class TestSeenIdsSaveTiming:
         main(dry_run=False)
 
         # Extract method names in call order
-        call_names = [c[0] for c in manager.mock_calls if c[0] in (
-            "save_daily", "save_seen", "create_issues", "send_notion", "send_digest"
-        )]
+        call_names = [
+            c[0]
+            for c in manager.mock_calls
+            if c[0]
+            in (
+                "save_daily",
+                "save_seen",
+                "create_issues",
+                "send_notion",
+                "send_digest",
+            )
+        ]
 
         # save_seen must come after save_daily but before any notifications
         assert "save_seen" in call_names, "save_seen_ids() was never called"
@@ -124,7 +137,11 @@ class TestSeenIdsSaveTiming:
         mock_load_seen.return_value = set()
         mock_filter_new.return_value = sample_articles
         mock_filter_summarize.return_value = sample_articles
-        mock_get_model_updates.return_value = {"new_models": [], "rank_changes": [], "price_changes": []}
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
 
         # main() will raise because send_digest raises, but seen_ids should be saved
         with pytest.raises(Exception, match="Telegram API error"):
@@ -132,6 +149,7 @@ class TestSeenIdsSaveTiming:
 
         # Verify save_seen_ids was called despite the failure
         mock_save_seen.assert_called_once()
+
 
 class TestErrorLoggingPreservesTraceback:
     """Task 6: Verify error handlers use logger.exception to preserve tracebacks."""
@@ -202,7 +220,11 @@ class TestDryRunNoGlobalMutation:
         mock_load_seen.return_value = set()
         mock_filter_new.return_value = sample_articles
         mock_filter_summarize.return_value = sample_articles
-        mock_get_model_updates.return_value = {"new_models": [], "rank_changes": [], "price_changes": []}
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
 
         main(dry_run=True)
 
@@ -211,3 +233,56 @@ class TestDryRunNoGlobalMutation:
         mock_send_notion.assert_not_called()
         mock_send_digest.assert_not_called()
         mock_send_model_notion.assert_not_called()
+
+
+class TestModelDashboardIntegration:
+    @patch("src.main.send_digest")
+    @patch("src.main.sync_models_to_dashboard", return_value=5)
+    @patch("src.main.get_latest_models", return_value=[{"model_id": "m1"}])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_main_calls_sync_models_to_dashboard(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        sample_articles,
+    ):
+        from src.main import main
+
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = set()
+        mock_filter_new.return_value = sample_articles
+        mock_filter_summarize.return_value = sample_articles
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
+
+        main(dry_run=False)
+
+        mock_get_latest.assert_called_once()
+        mock_sync_dashboard.assert_called_once_with([{"model_id": "m1"}])

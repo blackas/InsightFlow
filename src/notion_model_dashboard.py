@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import time
 from datetime import datetime, timezone
 from typing import Any, cast
 
@@ -163,3 +164,47 @@ def _upsert_model(
         properties=properties,
     )
     return "created"
+
+
+def sync_models_to_dashboard(
+    models: list[dict[str, Any]] | None,
+) -> int:
+    """Sync model snapshots to the living dashboard with rate limiting.
+
+    Returns the number of models synced.
+    """
+    if not config.NOTION_API_KEY:
+        logger.warning("NOTION_API_KEY not set, skipping dashboard sync")
+        return 0
+
+    if config.DRY_RUN:
+        logger.info("[DRY RUN] Skipping model dashboard sync")
+        return 0
+
+    if not models:
+        return 0
+
+    try:
+        client = get_client()
+        data_source_id = ensure_model_dashboard_db(client)
+
+        sorted_models = sorted(
+            models,
+            key=lambda m: m.get("intelligence_index") or 0,
+            reverse=True,
+        )
+
+        synced = 0
+        for rank, model in enumerate(sorted_models, start=1):
+            action = _upsert_model(client, data_source_id, model, rank)
+            logger.debug("Model %s: %s (rank %d)", model.get("name"), action, rank)
+            synced += 1
+            if rank < len(sorted_models):
+                time.sleep(0.35)
+
+        logger.info("Synced %d models to dashboard", synced)
+        return synced
+
+    except Exception:
+        logger.exception("Model dashboard sync failed")
+        return 0

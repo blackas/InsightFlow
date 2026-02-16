@@ -10,8 +10,14 @@ from datetime import datetime
 
 from src import config
 from src.ai_handler import filter_and_summarize
-from src.model_tracker import fetch_model_data, get_model_updates, save_model_snapshots
+from src.model_tracker import (
+    fetch_model_data,
+    get_latest_models,
+    get_model_updates,
+    save_model_snapshots,
+)
 from src.notion_handler import send_to_notion
+from src.notion_model_dashboard import sync_models_to_dashboard
 from src.notion_model_handler import send_model_updates_to_notion
 from src.notifier import send_digest, send_failure_notification
 from src.scraper import scrape_all
@@ -99,6 +105,20 @@ def main(dry_run: bool = False) -> None:
                 logger.info("No model changes to sync to Notion")
         else:
             logger.info("[DRY RUN] Model tracker Notion sync skipped")
+
+        # 7.6 Model Dashboard — living snapshot
+        try:
+            dashboard_models = get_latest_models(today)
+            if not dry_run and dashboard_models:
+                dashboard_count = sync_models_to_dashboard(dashboard_models)
+                if dashboard_count > 0:
+                    logger.info("Synced %d models to dashboard", dashboard_count)
+                else:
+                    logger.info("No models synced to dashboard")
+            else:
+                logger.info("[DRY RUN] Model dashboard sync skipped")
+        except Exception:
+            logger.exception("Model dashboard sync failed (non-fatal)")
 
         # 8. Telegram digest
         if not dry_run:

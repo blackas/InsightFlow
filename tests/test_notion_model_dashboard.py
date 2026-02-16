@@ -262,3 +262,73 @@ class TestUpsertModel:
             mock_notion_client.pages.update.call_args.kwargs["page_id"]
             == "existing-page-id"
         )
+
+
+class TestSyncModelsToDashboard:
+    def test_sync_returns_zero_when_none(self, monkeypatch):
+        monkeypatch.setattr(config, "NOTION_API_KEY", "test-key")
+        monkeypatch.setattr(config, "DRY_RUN", False)
+        from src.notion_model_dashboard import sync_models_to_dashboard
+
+        assert sync_models_to_dashboard(None) == 0
+
+    def test_sync_returns_zero_when_empty(self, monkeypatch):
+        monkeypatch.setattr(config, "NOTION_API_KEY", "test-key")
+        monkeypatch.setattr(config, "DRY_RUN", False)
+        from src.notion_model_dashboard import sync_models_to_dashboard
+
+        assert sync_models_to_dashboard([]) == 0
+
+    def test_sync_skips_when_dry_run(self, monkeypatch):
+        monkeypatch.setattr(config, "NOTION_API_KEY", "test-key")
+        monkeypatch.setattr(config, "DRY_RUN", True)
+        from src.notion_model_dashboard import sync_models_to_dashboard
+
+        assert sync_models_to_dashboard([{"model_id": "test"}]) == 0
+
+    def test_sync_skips_when_no_api_key(self, monkeypatch):
+        monkeypatch.setattr(config, "NOTION_API_KEY", None)
+        monkeypatch.setattr(config, "DRY_RUN", False)
+        from src.notion_model_dashboard import sync_models_to_dashboard
+
+        assert sync_models_to_dashboard([{"model_id": "test"}]) == 0
+
+    @patch("src.notion_model_dashboard.get_client")
+    @patch("src.notion_model_dashboard.ensure_model_dashboard_db", return_value="ds-id")
+    @patch("src.notion_model_dashboard._upsert_model")
+    @patch("src.notion_model_dashboard.time")
+    def test_sync_upserts_models_sorted_by_intelligence(
+        self, mock_time, mock_upsert, mock_ensure_db, mock_get_client, monkeypatch
+    ):
+        monkeypatch.setattr(config, "NOTION_API_KEY", "test-key")
+        monkeypatch.setattr(config, "DRY_RUN", False)
+        mock_upsert.return_value = "created"
+
+        models = [
+            {"model_id": "b", "name": "ModelB", "intelligence_index": 80.0},
+            {"model_id": "a", "name": "ModelA", "intelligence_index": 95.0},
+            {"model_id": "c", "name": "ModelC", "intelligence_index": 70.0},
+        ]
+
+        from src.notion_model_dashboard import sync_models_to_dashboard
+
+        result = sync_models_to_dashboard(models)
+
+        assert result == 3
+        assert mock_upsert.call_count == 3
+
+        # Verify sorted by intelligence_index descending (rank 1 = highest)
+        calls = mock_upsert.call_args_list
+        # First call should be ModelA (95.0, rank 1)
+        assert calls[0].args[2]["model_id"] == "a"
+        assert calls[0].args[3] == 1  # rank
+        # Second: ModelB (80.0, rank 2)
+        assert calls[1].args[2]["model_id"] == "b"
+        assert calls[1].args[3] == 2
+        # Third: ModelC (70.0, rank 3)
+        assert calls[2].args[2]["model_id"] == "c"
+        assert calls[2].args[3] == 3
+
+        # Rate limiting: sleep called between upserts (n-1 times)
+        assert mock_time.sleep.call_count == 2
+        mock_time.sleep.assert_called_with(0.35)
