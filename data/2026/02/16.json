@@ -312,5 +312,712 @@
       "Cloud",
       "Security"
     ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26746",
+    "title": "microgpt - 200줄 순수 파이썬으로 구현한 GPT 학습 및 추론",
+    "url": "https://news.hada.io/topic?id=26746",
+    "discussion_url": "https://news.hada.io/topic?id=26746",
+    "summary": "karpathy가 공개한 아트 프로젝트. 200줄 단일 파일로 외부 의존성없이 GPT 전체 알고리듬을 구현\n\n프로덕션 LLM과의 차이는 규모와 효율성일 뿐 핵심은 동일, 이 코드를 이해하면 GPT의 알고리듬적 본질을 이해한 것임\n데이터셋, 토크나...",
+    "score": 0,
+    "published_at": "2026-02-16T22:25:47+00:00",
+    "ai_summary": "카파시가 200줄 순수 파이썬으로 GPT 핵심 알고리듬을 구현, 외부 의존성 없는 아트 프로젝트입니다.\n이는 프로덕션 LLM과 규모/효율성만 다를 뿐 본질이 같아 GPT의 알고리듬적 이해에 필수적입니다.\n개발자가 GPT의 학습 및 추론 메커니즘을 심도 있게 파악할 좋은 학습 자료입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26745",
+    "title": "자동차를 세차하려고 하는데 세차장이 50미터 떨어져 있다면 걸어갈까 운전할까?",
+    "url": "https://news.hada.io/topic?id=26745",
+    "discussion_url": "https://news.hada.io/topic?id=26745",
+    "summary": "LLM들에 대한 논리적 함정 질문. 많은 모델이 자동차를 세차장에 가져가야 한다는 전제를 놓치고 걸어가라고 함\nChatGPT, Claude, Deepseek, Qwen 등 유명한 여러 모델이 서로 다른 답변과 논리적 오류를 보임\n이 사례...",
+    "score": 0,
+    "published_at": "2026-02-16T21:59:39+00:00",
+    "ai_summary": "LLM들의 논리적 함정 질문으로, 세차할 자동차를 끌고 가야 한다는 전제를 많은 모델이 놓칩니다.\nChatGPT, Claude 등 여러 유명 모델들이 서로 다른 답변과 논리적 오류를 보이는 사례를 제시합니다.\n이는 LLM의 현재 한계와 성능 평가의 중요성을 개발자 관점에서 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26739",
+    "title": "Show GN: 오직 AI와의 대화로만 만들어본 블로그 엔진, zlog를 소개합니다.",
+    "url": "https://news.hada.io/topic?id=26739",
+    "discussion_url": "https://news.hada.io/topic?id=26739",
+    "summary": "안녕하세요. AI의 도움을 받아 예전부터 구상해 왔던 블로그 프로젝트 'zlog'를 개발해 보았습니다.\nzlog의 핵심 기능은 '구독과 통합'입니다.\n다른 zlog 사용자의 특정 카테고리를 구독하여 내 블로그에서 내가 원하는 디자인으로 모아볼 수 있습니다. 관심 분야가 비슷한 친구들이나 동호회원들이 각자",
+    "score": 0,
+    "published_at": "2026-02-16T13:33:34+00:00",
+    "ai_summary": "AI와의 대화만으로 개발된 블로그 엔진 'zlog'가 소개되었으며, 개발 과정 자체가 주목받고 있습니다.\n핵심 기능은 다른 zlog 사용자의 특정 카테고리를 구독하여 자신의 블로그에 통합하는 '구독과 통합'입니다.\nAI를 개발 보조 도구로 활용한 실제 사례를 보여주며, 개발 방식의 변화 가능성을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26737",
+    "title": "Show GN: KanVibe - 브라우저에서 터미널까지, AI 에이전트를 칸반으로 자동 관리하는 오픈소스",
+    "url": "https://news.hada.io/topic?id=26737",
+    "discussion_url": "https://news.hada.io/topic?id=26737",
+    "summary": "Claude Code 에이전트를 브랜치별로 5~10개 동시에 돌리다 보면, 어떤 에이전트가 작업 중이고, 어떤 게 내 답변을 기다리고 있고, 어떤 게 끝났는지 파악이 안 됩니다. tmux 세션을 하나하나 attach 해서 확인하는 건 너무 비효율적이었습니다.\nKanVibe는 이 문제를 해결하기 위해 만든 셀프 호스팅 칸반 보드",
+    "score": 0,
+    "published_at": "2026-02-16T12:21:31+00:00",
+    "ai_summary": "여러 AI 에이전트 관리의 비효율성을 해결하기 위해 오픈소스 칸반 보드 KanVibe가 개발되었습니다.\n이는 Claude Code 에이전트 등 다수 AI 작업 상태를 브라우저에서 터미널까지 시각적으로 관리합니다.\n개발자들이 AI 에이전트 워크플로우를 효율적으로 파악하고 조율할 수 있도록 돕는 실용적인 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47040430",
+    "title": "Study: Self-generated Agent Skills are useless",
+    "url": "https://arxiv.org/abs/2602.12670",
+    "discussion_url": "https://news.ycombinator.com/item?id=47040430",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-02-16T21:15:56+00:00",
+    "ai_summary": "\"자체 생성 에이전트 기술은 쓸모없다\"는 연구 결과에 대한 기사로, AI 에이전트의 실제 효율성을 다룹니다.\n이는 LLM 기반 에이전트의 능력과 한계, 그리고 실제 적용 가능성에 대한 비판적 분석을 제시합니다.\nAI 에이전트를 개발하거나 활용하는 개발자들에게 중요한 시사점을 제공할 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47041456",
+    "title": "Running NanoClaw in a Docker Shell Sandbox",
+    "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47041456",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-02-16T22:53:02+00:00",
+    "ai_summary": "Docker Shell Sandbox 환경에서 'NanoClaw'를 실행하는 방법에 대한 기술 기사로 예상됩니다.\n컨테이너 기반 개발, 샌드박싱을 통한 보안 강화 및 특정 도구의 안전한 활용에 중점을 둡니다.\nDevOps, 보안, 또는 테스트 환경 구축에 관심 있는 개발자에게 실용적인 가이드를 제공할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47040390",
+    "title": "Show HN: Wildex – we built Pokémon Go for real wildlife",
+    "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+    "discussion_url": "https://news.ycombinator.com/item?id=47040390",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-02-16T21:12:07+00:00",
+    "ai_summary": "실제 야생동물을 포켓몬처럼 포획하고 수집하는 모바일 게임 'Wildex'를 소개합니다.\n증강현실(AR) 기술과 위치 기반 서비스를 활용하며, 야생 생물 보호에 기여하는 요소를 포함합니다.\n개발자들이 구현한 클라우드 및 백엔드 기반의 흥미로운 AI/ML 접목 프로젝트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47040375",
+    "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+    "url": "https://github.com/zachlatta/freeflow",
+    "discussion_url": "https://news.ycombinator.com/item?id=47040375",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-02-16T21:10:44+00:00",
+    "ai_summary": "Wispr Flow, Superwhisper, Monologue와 같은 유료 음성-텍스트 변환 도구의 무료 대안을 소개합니다.\n음성 인식 및 전사 기능을 제공하며, 개발자의 생산성 향상을 위한 유용한 AI/ML 기반 툴입니다.\n오픈 소스로 제공되어 비용 효율적인 솔루션을 찾는 개발자에게 큰 가치를 제공할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47039834",
+    "title": "Testing Postgres race conditions with synchronization barriers",
+    "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+    "discussion_url": "https://news.ycombinator.com/item?id=47039834",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-02-16T20:23:36+00:00",
+    "ai_summary": "PostgreSQL 데이터베이스에서 동기화 장벽을 활용하여 경쟁 조건(race condition)을 테스트하는 고급 기법을 다룹니다.\n데이터베이스의 동시성 문제를 안정적으로 재현하고 식별하는 방법을 상세히 설명합니다.\n견고하고 고성능의 백엔드 시스템을 구축하는 개발자 및 DevOps 엔지니어에게 필수적인 지식입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47002231",
+    "title": "Visual Introduction to PyTorch",
+    "url": "https://0byte.io/articles/pytorch_introduction.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47002231",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-02-13T12:59:33+00:00",
+    "ai_summary": "PyTorch의 핵심 개념과 기능을 시각적으로 쉽게 이해할 수 있도록 돕는 입문 가이드입니다.\n복잡한 머신러닝 및 딥러닝 개념을 그림과 예시를 통해 명확하게 설명합니다.\nPyTorch를 배우거나 딥러닝 모델 개발을 시작하려는 AI/ML 개발자에게 매우 유용한 학습 자료입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47040781",
+    "title": "10 years building vertical software: are we cooked?",
+    "url": "https://twitter.com/nicbstme/status/2023501562480644501",
+    "discussion_url": "https://news.ycombinator.com/item?id=47040781",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-02-16T21:48:00+00:00",
+    "ai_summary": "특정 산업을 위한 수직(vertical) 소프트웨어 개발 10년 경험에 대한 회고와 미래 전망을 분석합니다.\n수직 소프트웨어 시장의 도전 과제, 포화 여부 및 새로운 기회를 탐색합니다.\n소프트웨어 창업가 및 장기적인 커리어 전략을 고민하는 시니어 개발자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47035560",
+    "title": "What your Bluetooth devices reveal",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47035560",
+    "summary": "",
+    "score": 265,
+    "published_at": "2026-02-16T14:39:32+00:00",
+    "ai_summary": "블루투스 장치들이 무선 통신을 통해 드러낼 수 있는 개인 정보 및 보안 취약점을 분석합니다.\n장치를 통해 유출될 수 있는 정보 유형과 그 위험성을 설명하여 프라이버시 침해 문제를 강조합니다.\n블루투스 기능을 구현하는 개발자들이 보안 및 사용자 프라이버시를 고려하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47039478",
+    "title": "State of Show HN: 2025",
+    "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47039478",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-02-16T19:55:23+00:00",
+    "ai_summary": "Hacker News의 'Show HN' 섹션에 올라온 프로젝트들의 2025년 현황과 주요 트렌드를 분석합니다.\n새로운 기술, 도구, 아이디어 등 개발 커뮤니티의 동향을 파악하는 데 유용합니다.\n개발자들에게 영감을 주고 다음 프로젝트를 위한 아이디어를 제공할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47031334",
+    "title": "Show HN: Jemini – Gemini for the Epstein Files",
+    "url": "https://jmail.world/jemini",
+    "discussion_url": "https://news.ycombinator.com/item?id=47031334",
+    "summary": "",
+    "score": 210,
+    "published_at": "2026-02-16T05:53:03+00:00",
+    "ai_summary": "Hacker News에 소개된 'Jemini'는 Google Gemini LLM을 활용하여 엡스타인 파일을 분석하는 프로젝트입니다.\n대규모 언어 모델의 실제 적용 사례와 데이터 분석 기술의 융합을 보여줍니다.\nAI/ML 및 LLM 기술을 실제 문제에 적용하는 개발자에게 특히 흥미롭습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47039044",
+    "title": "Show HN: 2D Coulomb Gas Simulator",
+    "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47039044",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-02-16T19:17:46+00:00",
+    "ai_summary": "Hacker News에 공개된 2D 쿨롱 가스 시뮬레이터는 물리학 개념을 시각화하는 소프트웨어 프로젝트입니다.\n과학 컴퓨팅, 그래픽스, 또는 물리 시뮬레이션 개발에 관심 있는 이들에게 유용합니다.\n복잡한 과학적 현상을 탐구하고 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47036063",
+    "title": "Show HN: Maths, CS and AI Compendium",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "discussion_url": "https://news.ycombinator.com/item?id=47036063",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-02-16T15:15:50+00:00",
+    "ai_summary": "수학, 컴퓨터 과학, 인공지능 분야의 핵심 개념들을 집대성한 자료 모음집입니다.\n개발자들이 이 분야들의 이론적 기반과 최신 트렌드를 학습하고 깊이 이해하는 데 도움을 줍니다.\nAI/ML 분야에 관심 있는 개발자들에게 필수적인 학습 자료가 될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47038411",
+    "title": "LCM: Lossless Context Management [pdf]",
+    "url": "http://papers.voltropy.com/LCM",
+    "discussion_url": "https://news.ycombinator.com/item?id=47038411",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-02-16T18:31:19+00:00",
+    "ai_summary": "'무손실 컨텍스트 관리(Lossless Context Management)'에 대한 심도 있는 기술 문서입니다.\n효율적인 자원 활용과 상태 유지가 중요한 시스템 설계 및 프로그래밍 분야에서 활용될 수 있습니다.\n특히 LLM의 컨텍스트 창 관리 문제 해결에 영감을 줄 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47016024",
+    "title": "PascalABC.net",
+    "url": "https://pascalabc.net:443/en",
+    "discussion_url": "https://news.ycombinator.com/item?id=47016024",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-02-14T16:52:11+00:00",
+    "ai_summary": "PascalABC.net은 .NET 플랫폼 기반의 파스칼 프로그래밍 언어 및 통합 개발 환경입니다.\n언어 설계, 컴파일러 개발, 또는 교육용 프로그래밍 도구에 관심 있는 개발자에게 유용합니다.\n기존 파스칼 사용자나 .NET 환경 개발자들에게 새로운 대안을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47032876",
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "url": "https://qwen.ai/blog?id=qwen3.5",
+    "discussion_url": "https://news.ycombinator.com/item?id=47032876",
+    "summary": "",
+    "score": 358,
+    "published_at": "2026-02-16T09:32:21+00:00",
+    "ai_summary": "Qwen3.5는 다양한 양식의 데이터를 처리하고 상호작용할 수 있는 멀티모달 에이전트를 목표로 합니다.\n최신 LLM 기술을 활용하여 텍스트뿐만 아니라 이미지, 오디오 등 여러 형태의 정보를 이해하고 생성합니다.\n이는 차세대 AI 애플리케이션 개발에 중요한 진전을 나타냅니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47038270",
+    "title": "The long tail of LLM-assisted decompilation",
+    "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47038270",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-02-16T18:19:16+00:00",
+    "ai_summary": "이 기사는 LLM이 코드 역컴파일(decompilation) 작업에 어떻게 도움을 줄 수 있는지 탐구합니다.\n특히 복잡하거나 흔치 않은 코드 패턴을 해석하는 데 LLM의 강점을 분석합니다.\nLLM 기반 도구가 리버스 엔지니어링 프로세스의 효율성을 크게 향상시킬 수 있음을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47037568",
+    "title": "Building a model that visualizes strategic golf",
+    "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+    "discussion_url": "https://news.ycombinator.com/item?id=47037568",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-02-16T17:15:27+00:00",
+    "ai_summary": "이 기사는 골프 전략을 시각화하는 모델을 구축하는 과정을 설명합니다.\n데이터 분석과 모델링을 통해 골프 코스에서 최적의 플레이를 예측하고 시각화합니다.\n특정 분야에 AI/ML 기술을 적용하는 사례를 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47011548",
+    "title": "Ghidra by NSA",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "discussion_url": "https://news.ycombinator.com/item?id=47011548",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-02-14T04:24:18+00:00",
+    "ai_summary": "Ghidra는 미국 국가안보국(NSA)이 개발한 오픈소스 역컴파일러 및 리버스 엔지니어링 프레임워크입니다.\n다양한 플랫폼의 바이너리 코드를 분석하고 취약점을 식별하는 데 사용됩니다.\n보안 연구원과 개발자에게 필수적인 강력한 도구로 자리매김했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47037501",
+    "title": "WebMCP Proposal",
+    "url": "https://webmachinelearning.github.io/webmcp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47037501",
+    "summary": "",
+    "score": 124,
+    "published_at": "2026-02-16T17:08:20+00:00",
+    "ai_summary": "WebMCP는 웹 통신 효율성과 보안을 개선하기 위한 새로운 프로토콜 제안입니다. 이 제안은 웹 애플리케이션 개발 방식에 중요한 변화를 가져올 수 있습니다. 개발자들은 웹 표준의 미래를 이해하기 위해 주목해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47038588",
+    "title": "Use protocols, not services",
+    "url": "https://notnotp.com/notes/use-protocols-not-services/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47038588",
+    "summary": "",
+    "score": 251,
+    "published_at": "2026-02-16T18:44:58+00:00",
+    "ai_summary": "이 기사는 시스템 설계 시 특정 서비스 의존성을 줄이고 개방형 프로토콜 사용을 강조합니다. 프로토콜 기반 접근 방식은 시스템의 유연성, 상호 운용성 및 확장성을 향상시킵니다. 아키텍트와 개발자는 견고한 분산 시스템 구축을 위해 이 원칙을 고려해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://steipete.me/posts/2026/openclaw",
+    "title": "OpenClaw creator joins OpenAI (3 minute read)",
+    "url": "https://steipete.me/posts/2026/openclaw",
+    "discussion_url": "https://steipete.me/posts/2026/openclaw",
+    "summary": "OpenClaw's creator will join OpenAI to develop accessible agents and ensure OpenClaw remains open and independent within a new foundation. OpenAI's support will provide access to cutting-edge models and resources, aligning with the creator's vision of making these tools widely usable. OpenClaw's community will benefit from a supportive structure that encourages innovation and data ownership.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "OpenClaw 개발자가 OpenAI에 합류하여 접근성 높은 에이전트 개발에 참여합니다. OpenClaw는 새로운 재단 아래 독립성을 유지하며, OpenAI의 최첨단 모델 및 리소스 지원을 받게 됩니다. 이로써 OpenClaw 커뮤니티는 혁신과 데이터 소유권을 장려하는 구조의 혜택을 얻을 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+    "title": "ChatGPT's Lockdown Mode (3 minute read)",
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+    "discussion_url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+    "summary": "OpenAI introduced an optional Lockdown Mode for higher-risk workflows and added “Elevated Risk” labels for capabilities in ChatGPT, ChatGPT Atlas, and Codex that can increase exposure to prompt-injection attacks.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "OpenAI는 고위험 워크플로우를 위한 선택적 잠금 모드(Lockdown Mode)를 도입했습니다. ChatGPT, ChatGPT Atlas, Codex의 기능 중 프롬프트 주입 공격 노출을 증가시킬 수 있는 기능에 '높은 위험(Elevated Risk)' 레이블을 추가했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/xai-tests-parralel-agents-and-arena-mode-for-grok-build/",
+    "title": "xAI tests Arena Mode with Parallel Agents for Grok Build (2 minute read)",
+    "url": "https://www.testingcatalog.com/xai-tests-parralel-agents-and-arena-mode-for-grok-build/",
+    "discussion_url": "https://www.testingcatalog.com/xai-tests-parralel-agents-and-arena-mode-for-grok-build/",
+    "summary": "xAI's Grok Build plans to introduce Parallel Agents and Arena Mode, enhancing its capabilities from a coding assistant to a full IDE. Parallel Agents allows up to eight coding agents to work simultaneously, while Arena Mode facilitates competition among agents to determine the best output. The update also includes a new UI resembling a browser-based IDE, dictation support, and nonfunctional GitHub integration, with Grok 4.20 expected soon.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "xAI의 Grok Build는 병렬 에이전트(Parallel Agents)와 아레나 모드(Arena Mode)를 도입하여 코딩 비서에서 완전한 IDE로 기능을 확장할 계획입니다. 병렬 에이전트는 최대 8개의 코딩 에이전트가 동시에 작업하게 하고, 아레나 모드는 에이전트 간 경쟁을 통해 최적의 결과물을 결정합니다. 새로운 UI, 음성 받아쓰기 지원, 비기능성 GitHub 통합도 포함될 예정입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://archive.md/D4EYW",
+    "title": "Why I don't think AGI is imminent (12 minute read)",
+    "url": "https://archive.md/D4EYW",
+    "discussion_url": "https://archive.md/D4EYW",
+    "summary": "Both CEOs of OpenAI and Anthropic claim that human-level AI is just around the corner. However, Transformers have their fundamental limitations. While they are very powerful and have taught us a lot about what general intelligence is, overcoming these problems will require research that could take decades. The advances that made modern GPTs possible were discovered gradually over several decades, and each discovery came with new and more nuanced issues.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "OpenAI와 Anthropic CEO는 인간 수준 AI(AGI)가 임박했다고 주장하지만, 트랜스포머(Transformers)는 근본적인 한계를 가지고 있습니다. 이러한 문제를 극복하기 위한 연구는 수십 년이 걸릴 수 있으며, 현대 GPT를 가능하게 한 발전도 점진적으로 이루어졌고 각 발견마다 새로운 문제가 발생했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.seangoedecke.com/fast-llm-inference/",
+    "title": "Two different tricks for fast LLM inference (7 minute read)",
+    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "discussion_url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "summary": "Anthropic and OpenAI have unveiled new \"fast modes\" for LLM inference, offering differing performance enhancements. OpenAI's model speeds exceed 1,000 tokens per second using Cerebras chips, but rely on a less capable model, while Anthropic's fast mode supports real models with up to 2.5x speed through low-batch-size inference. Despite OpenAI's technical achievement, the utility of faster but less capable inference remains debatable, focusing more on OpenAI's exploration of Cerebras' potential.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "Anthropic과 OpenAI는 LLM 추론(inference) 속도 향상을 위한 새로운 '고속 모드'를 공개했습니다. OpenAI는 Cerebras 칩을 사용하여 1,000토큰/초 이상의 속도를 달성했지만 덜 강력한 모델에 의존하며, Anthropic은 저배치(low-batch) 추론을 통해 실제 모델에서 최대 2.5배 속도를 향상시켰습니다. 더 빠르지만 덜 유능한 추론의 효용성은 여전히 논쟁의 여지가 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/",
+    "title": "Reverse-Engineering the OpenAI's GPT-5 Tokenizer: What 200,000 Tokens Reveal About AEO/GEO (52 minute read)",
+    "url": "https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/",
+    "discussion_url": "https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/",
+    "summary": "Text has to pass through a tokenizer before GPT-5.x is able to understand any input. A tokenizer is a compression layer that converts raw text into a sequence of integer IDs. Every design decision baked into the tokenizer has downstream consequences for cost, accuracy, multilingual performance, and hallucination rates. This article looks at OpenAI's open-source tokenizer library, tiktoken, and explains how it works.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "GPT-5.x는 입력 텍스트를 이해하기 전에 토크나이저(tokenizer)를 거쳐 정수 ID 시퀀스로 변환합니다. 토크나이저 설계는 비용, 정확성, 다국어 성능 및 환각율에 중요한 영향을 미칩니다. 이 기사는 OpenAI의 오픈소스 토크나이저 라이브러리인 tiktoken의 작동 방식을 설명합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture",
+    "title": "The problem isn't OpenClaw. It's the architecture. (6 minute read)",
+    "url": "https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture",
+    "discussion_url": "https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture",
+    "summary": "OpenClaw's recent security issues highlight a larger problem with agent ecosystems as new attack surfaces, where malicious skills can exploit agent + tools + marketplace combinations. Current safeguards like prompts are inadequate. Agents need sandboxing, scoped credentials, restricted tools, and proper logging to manage risks.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "OpenClaw의 최근 보안 문제는 에이전트 생태계가 악성 스킬을 통해 에이전트 + 도구 + 마켓플레이스 조합을 악용할 수 있는 새로운 공격 표면이 되고 있음을 보여줍니다. 현재의 프롬프트 같은 보호 장치는 불충분하며, 에이전트에는 샌드박싱, 권한 제한, 도구 제한, 적절한 로깅이 필요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/nvidia/personaplex-7b-v1",
+    "title": "PersonaPlex: Voice and role control for full duplex conversational speech models (9 minute read)",
+    "url": "https://huggingface.co/nvidia/personaplex-7b-v1",
+    "discussion_url": "https://huggingface.co/nvidia/personaplex-7b-v1",
+    "summary": "Personaplex is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and speech generation. It operates on continuous audio and can predict both text tokens and audio tokens auto-regressively to produce its spoken responses. Personaplex's design allows the model to update its internal state based on users' ongoing speech while still producing fluent output audio, so it can support highly interactive conversations. The model is ready for commercial",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "Personaplex는 실시간 음성-음성 대화 모델로, 스트리밍 음성 이해와 음성 생성을 동시에 수행합니다. 연속 오디오에서 작동하며 텍스트 토큰과 오디오 토큰을 예측하여 유창한 음성 응답을 생성합니다. 사용자의 말에 따라 내부 상태를 업데이트하면서 고도로 상호작용적인 대화를 지원하며, 상업적 사용 준비가 완료되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/neural_avb/status/2022715561390776524",
+    "title": "The RL Architecture Behind Minimax M2.5, Explained Clearly (11 minute read)",
+    "url": "https://x.com/neural_avb/status/2022715561390776524",
+    "discussion_url": "https://x.com/neural_avb/status/2022715561390776524",
+    "summary": "Minimax M2.5 is fast, cheap, and great at coding. While the team behind the model has released a technical article on how the model works, it is quite dense. This post aims to make the content of that article more accessible for readers. The core problem the team is solving is how to make RL work at massive scale for being good at Agentic AI. Training LLMs to be good at agentic tasks imposes many challenges: huge volumes of training data need to be processed quickly, training needs to be stable,",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "Minimax M2.5는 빠르고 저렴하며 코딩 능력이 뛰어난 모델입니다. 이 글은 대규모 에이전트 AI에 RL을 적용하는 핵심 문제를 다루며, 기술 문서를 쉽게 설명합니다. LLM을 에이전트 작업에 훈련시키는 것은 대규모 데이터 처리 및 안정적인 훈련 등 많은 어려움이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2602.11865",
+    "title": "Intelligent AI Delegation (1 minute read)",
+    "url": "https://arxiv.org/abs/2602.11865",
+    "discussion_url": "https://arxiv.org/abs/2602.11865",
+    "summary": "AI agents can tackle increasingly complex tasks, but to achieve more ambitious goals, they need to be able to meaningfully decompose problems into manageable sub-components and safely delegate their completion across to other AI agents and humans. This study proposes an adaptive framework for intelligent AI delegation. The proposed framework is applicable to both human and AI delegators and delegatees in complex delegation networks.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "AI 에이전트가 복잡한 작업을 처리하려면 문제를 하위 구성 요소로 분해하고 다른 AI 에이전트나 사람에게 안전하게 위임할 수 있어야 합니다. 이 연구는 지능적인 AI 위임을 위한 적응형 프레임워크를 제안합니다. 제안된 프레임워크는 복잡한 위임 네트워크에서 인간 및 AI 위임자/수임자 모두에게 적용 가능합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2602.12036",
+    "title": "Composed Prompts with RLVR (16 minute read)",
+    "url": "https://arxiv.org/abs/2602.12036",
+    "discussion_url": "https://arxiv.org/abs/2602.12036",
+    "summary": "Composition-RL reused “too-easy” pass-rate-1 prompts by automatically combining multiple problems into new verifiable questions for RLVR training. Across 4B–30B models, the approach improved reasoning over training on the original dataset.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "Composition-RL은 '너무 쉬운' 프롬프트를 재사용하여 여러 문제를 결합한 새로운 검증 가능한 질문을 생성합니다. 이를 RLVR(Reinforcement Learning from Verifiable Responses) 훈련에 사용합니다. 이 접근 방식은 4B~30B 모델에서 기존 데이터셋으로 훈련하는 것보다 추론 능력을 향상시켰습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://danielmiessler.com/blog/nobody-is-talking-about-generalized-hill-climbing",
+    "title": "Nobody is Talking About Generalized Hill-Climbing (at Runtime) (11 minute read)",
+    "url": "https://danielmiessler.com/blog/nobody-is-talking-about-generalized-hill-climbing",
+    "discussion_url": "https://danielmiessler.com/blog/nobody-is-talking-about-generalized-hill-climbing",
+    "summary": "You have to know where you're going before you take that first step. The first thing to do is always to define your goal. Reverse engineer requests and combine that with context to create discrete, boolean, testable Ideal State Criteria. This criterion can carry through to become the verification criteria as well.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "어떤 일을 시작하기 전에 목표를 명확하게 정의하는 것이 중요합니다. 요청을 역설계하고 컨텍스트를 결합하여 이산적이고 부울(boolean)하며 테스트 가능한 이상 상태 기준(Ideal State Criteria)을 생성해야 합니다. 이 기준은 검증 기준으로도 활용될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://winbuzzer.com/2026/02/13/microsoft-mustafa-suleyman-ai-self-sufficiency-openai-mai-models-xcxwbn/",
+    "title": "Microsoft's AI Chief Targets AI Self-Sufficiency and OpenAI Independence (5 minute read)",
+    "url": "https://winbuzzer.com/2026/02/13/microsoft-mustafa-suleyman-ai-self-sufficiency-openai-mai-models-xcxwbn/",
+    "discussion_url": "https://winbuzzer.com/2026/02/13/microsoft-mustafa-suleyman-ai-self-sufficiency-openai-mai-models-xcxwbn/",
+    "summary": "Microsoft plans to reduce its reliance on OpenAI by developing its own AI models, spearheaded by AI chief Mustafa Suleyman.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "마이크로소프트는 AI 최고 책임자 무스타파 술레이만을 중심으로 자체 AI 모델을 개발하여 OpenAI에 대한 의존도를 줄일 계획입니다. 이는 AI 분야에서 마이크로소프트의 자립도를 높이고자 하는 전략적 목표를 반영합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.exe.dev/software-as-wiki",
+    "title": "Software as Wiki, Mutable Software (1 minute read)",
+    "url": "https://blog.exe.dev/software-as-wiki",
+    "discussion_url": "https://blog.exe.dev/software-as-wiki",
+    "summary": "An example of how an agent can be used to edit parts of software like a wiki.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "이 글은 에이전트가 소프트웨어의 특정 부분을 위키처럼 편집하는 방식의 예시를 다룹니다. 이는 소프트웨어의 변경 가능성(mutable software)에 대한 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openrouter.ai/openrouter/free",
+    "title": "Free Models Router (2 minute read)",
+    "url": "https://openrouter.ai/openrouter/free",
+    "discussion_url": "https://openrouter.ai/openrouter/free",
+    "summary": "openrouter/free is a router that selects free models at random from the models available on OpenRouter.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "openrouter/free는 OpenRouter에서 사용 가능한 무료 모델을 무작위로 선택하는 라우터입니다. 개발자들이 무료 AI 모델을 쉽게 활용할 수 있도록 돕는 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or",
+    "title": "Nvidia, Groq, and the limestone race to real-time AI: Why enterprises win or lose here (5 minute read)",
+    "url": "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or",
+    "discussion_url": "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or",
+    "summary": "The exponential growth of AI is due to a series of bottlenecks being smashed, and Groq's LPU is the next step.",
+    "score": 0,
+    "published_at": "2026-02-16T23:31:07+00:00",
+    "ai_summary": "AI의 폭발적인 성장은 병목 현상 해결 덕분이며, Groq의 LPU는 실시간 AI 구현을 위한 핵심 기술입니다. 이는 AI 인프라 및 성능에 중요한 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
   }
 ]
