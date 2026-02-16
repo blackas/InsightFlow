@@ -10,6 +10,8 @@ class TestSeenIdsSaveTiming:
     before notifications (GitHub Issues, Notion, Telegram)."""
 
     @patch("src.main.send_digest")
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
     @patch("src.main.send_model_updates_to_notion", return_value=0)
     @patch("src.main.send_to_notion")
     @patch("src.main.create_github_issues")
@@ -36,6 +38,8 @@ class TestSeenIdsSaveTiming:
         mock_create_issues,
         mock_send_notion,
         mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
         mock_send_digest,
         sample_articles,
     ):
@@ -100,6 +104,8 @@ class TestSeenIdsSaveTiming:
 
     @patch("src.main.send_digest", side_effect=Exception("Telegram API error"))
     @patch("src.main.send_failure_notification")
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
     @patch("src.main.send_model_updates_to_notion", return_value=0)
     @patch("src.main.send_to_notion")
     @patch("src.main.create_github_issues")
@@ -126,6 +132,8 @@ class TestSeenIdsSaveTiming:
         mock_create_issues,
         mock_send_notion,
         mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
         mock_send_failure,
         mock_send_digest,
         sample_articles,
@@ -184,6 +192,8 @@ class TestDryRunNoGlobalMutation:
         )
 
     @patch("src.main.send_digest")
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
     @patch("src.main.send_model_updates_to_notion", return_value=0)
     @patch("src.main.send_to_notion")
     @patch("src.main.create_github_issues")
@@ -210,6 +220,8 @@ class TestDryRunNoGlobalMutation:
         mock_create_issues,
         mock_send_notion,
         mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
         mock_send_digest,
         sample_articles,
     ):
