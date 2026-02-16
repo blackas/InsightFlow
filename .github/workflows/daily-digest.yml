@@ -16,7 +16,7 @@ permissions:
 jobs:
   run-digest:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -42,6 +42,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_PARENT_PAGE_ID: ${{ secrets.NOTION_PARENT_PAGE_ID }}
+          NOTION_MODEL_TRACKER_PAGE_ID: ${{ secrets.NOTION_MODEL_TRACKER_PAGE_ID }}
+          NOTION_MODEL_DASHBOARD_DB_ID: ${{ secrets.NOTION_MODEL_DASHBOARD_DB_ID }}
           ARTIFICIAL_ANALYSIS_API_KEY: ${{ secrets.ARTIFICIAL_ANALYSIS_API_KEY }}
         run: uv run python -m src.main
 

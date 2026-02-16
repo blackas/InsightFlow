@@ -31,6 +31,7 @@ main.py (orchestrator)
 ├── notion_common.py    → Shared Notion utilities (get_client, resolve_data_source_id)
 ├── notion_handler.py   → Articles → Notion weekly DB
 ├── notion_model_handler.py → Model changes → Notion Model Tracker DB
+├── notion_model_dashboard.py → All models → Notion AI 모델 현황 DB (upsert)
 ├── notifier.py         → Telegram digest formatting + chunking + sending
 └── config.py           → All configuration, env vars, constants
 ```
@@ -97,6 +98,7 @@ uv run pytest tests/test_notifier.py -v
 - **Never modify** Gemini prompt text content (only routing logic)
 - `config.DRY_RUN` env var reading must stay in `config.py` (for GitHub Actions)
 - `TLDR_SECTIONS` is a `frozenset` in config (membership test optimization)
+- **Environment variables**: `NOTION_MODEL_TRACKER_PAGE_ID`, `NOTION_MODEL_DASHBOARD_DB_ID` (optional, auto-create if not set)
 
 ## Common Pitfalls
 

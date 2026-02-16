@@ -33,6 +33,8 @@ graph TD
     P --> F
     P --> Q[notion_model_handler.py]
     Q --> R[Notion Model Tracker DB]
+    P --> S[notion_model_dashboard.py]
+    S --> T[Notion AI 모델 현황 DB]
 ```
 
 ## 🔄 데이터 흐름
@@ -46,7 +48,8 @@ graph TD
 7. **주목할 기사**는 Notion 주간 데이터베이스에 자동 저장
 8. **AI 모델 트래킹**: Artificial Analysis API → SQLite 스냅샷 → 변동 감지
 9. **모델 변동 사항**은 별도 Notion "AI Model Tracker" DB에 기록
-10. **텔레그램**으로 뉴스 다이제스트 + 모델 업데이트 발송
+10. **AI 모델 현황 대시보드**: 모든 모델 스냅샷 → Notion "AI 모델 현황" DB에 upsert (매일 업데이트)
+11. **텔레그램**으로 뉴스 다이제스트 + 모델 업데이트 발송
 
 ## 📦 모듈 구성
 
@@ -60,6 +63,7 @@ graph TD
 | `notifier.py` | 텔레그램 메시지 포매팅 + 청킹 + 발송 |
 | `notion_handler.py` | Notion 주간 Articles DB 자동 생성 + 기사 동기화 |
 | `notion_model_handler.py` | Notion AI Model Tracker DB 자동 생성 + 변동 기록 |
+| `notion_model_dashboard.py` | Notion AI 모델 현황 리빙 대시보드 자동 생성 + 모델 upsert 동기화 |
 | `main.py` | 메인 오케스트레이터 (`--dry-run` 지원) |
 
 ## 🚀 로컬 개발 환경 설정
@@ -104,6 +108,8 @@ uv run python -m src.main --dry-run
 - `NOTION_DATABASE_ID` - Notion 데이터베이스 ID (선택, 미설정 시 주간 DB 자동 생성)
 - `NOTION_PARENT_PAGE_ID` - Notion 부모 페이지 ID
 - `NOTION_MODEL_TRACKER_DB_ID` - AI Model Tracker Notion DB ID (선택, 미설정 시 자동 생성)
+- `NOTION_MODEL_TRACKER_PAGE_ID` - AI Model Tracker 전용 Notion 페이지 ID (선택, 미설정 시 NOTION_PARENT_PAGE_ID 사용)
+- `NOTION_MODEL_DASHBOARD_DB_ID` - AI 모델 현황 대시보드 DB ID (선택, 미설정 시 자동 생성)
 - `ARTIFICIAL_ANALYSIS_API_KEY` - Artificial Analysis API 키
 
 ### 2. Actions 활성화
@@ -165,6 +171,13 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 - `NOTION_PARENT_PAGE_ID` 설정만으로 "AI Model Tracker" DB가 자동 생성됨
 - 수동 지정 시 `NOTION_MODEL_TRACKER_DB_ID`에 데이터베이스 ID 설정
 
+**AI 모델 현황 Living Dashboard (자동 생성 — 권장):**
+- `NOTION_MODEL_TRACKER_PAGE_ID` 설정 시 해당 페이지 아래에 "AI 모델 현황" DB가 자동 생성됨
+- 미설정 시 `NOTION_PARENT_PAGE_ID` 아래에 생성
+- 수동 지정 시 `NOTION_MODEL_DASHBOARD_DB_ID`에 데이터베이스 ID 설정
+- 모델당 1행으로 현재 AI 모델 현황을 한 눈에 파악 가능
+- Intelligence Index 기준 내림차순 정렬 권장 (Notion UI에서 수동 설정)
+
 ### 3. 페이지/데이터베이스 ID 확인
 
 Notion 페이지 URL에서 ID를 추출합니다:
@@ -196,6 +209,24 @@ https://www.notion.so/workspace/페이지이름-{PAGE_ID}
 | 모델명 | Rich Text | 모델 이름 |
 | 세부 내용 | Rich Text | 상세 변동 내용 |
 | 날짜 | Date | 감지 날짜 |
+
+### 6. AI 모델 현황 (Living Dashboard) DB 속성 (자동 생성)
+
+| 속성 | 타입 | 설명 |
+|------|------|------|
+| 모델명 | Title | 모델 이름 |
+| 모델 ID | Rich Text | API 모델 식별자 (upsert 키) |
+| 제작사 | Select | 모델 제작사/프로바이더 |
+| 종합 지능 | Number | Intelligence Index (0-100) |
+| 코딩 지수 | Number | Coding Index |
+| 수학 지수 | Number | Math Index |
+| 속도 지수 | Number | Speed Index |
+| 입력 가격 | Number | 입력 토큰 가격 ($/1M tokens) |
+| 출력 가격 | Number | 출력 토큰 가격 ($/1M tokens) |
+| 처리 속도 | Number | 처리 속도 (tokens/sec) |
+| TTFT | Number | 첫 토큰 지연 시간 (초) |
+| 순위 | Number | Intelligence Index 기준 순위 |
+| 마지막 업데이트 | Date | 최종 동기화 날짜 |
 
 ## 🔔 실패 알림 메커니즘
 
