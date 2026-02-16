@@ -1,0 +1,209 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26729",
+    "title": "Show GN: Jsiphon - 델타 추적과 중의성 감지를 지원하는 LLM 스트리밍용 JSON 파서",
+    "url": "https://news.hada.io/topic?id=26729",
+    "discussion_url": "https://news.hada.io/topic?id=26729",
+    "summary": "안녕하세요, Jsiphon을 소개합니다. LLM 스트리밍에 구조화된 응답을 사용할 때 흔히 발생하는 문제를 해결합니다.\nLLM에 구조화된 응답(JSON모드)을 스트리밍과 같이 사용할 때 흔히 부분 응답 파싱하는 문제에 부딪히는데요. 이런 경우에 그냥 JSON.parse()할 수는 없고 반복적으로 불완전",
+    "score": 0,
+    "published_at": "2026-02-16T05:19:00+00:00",
+    "ai_summary": "LLM 스트리밍 시 불완전한 JSON 응답 파싱 문제를 해결하는 Jsiphon 파서입니다.\n델타 추적, 중의성 감지를 지원하여 구조화된 LLM 응답 처리를 용이하게 합니다.\n개발자들이 LLM 기반 서비스 구축 시 겪는 어려움을 줄여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26724",
+    "title": "GoScript - Go 코드를 TypeScript로 변환하는 트랜스파일러",
+    "url": "https://news.hada.io/topic?id=26724",
+    "discussion_url": "https://news.hada.io/topic?id=26724",
+    "summary": "Go와 TS간 비즈니스 로직 공유를 목표로 개발된 AST 기반 트랜스파일러\n\nGo 언어의 알고리듬, 데이터 구조, 동시성 로직을 TypeScript로 변환해 백엔드와 프론트엔드 간 코드 재사용 지원\n\nStruct, Interface...",
+    "score": 0,
+    "published_at": "2026-02-16T00:51:01+00:00",
+    "ai_summary": "Go 코드를 TypeScript로 변환하는 AST 기반 트랜스파일러 GoScript가 개발되었습니다.\nGo의 비즈니스 로직, 데이터 구조 등을 TS로 변환하여 백엔드와 프론트엔드 간 코드 재사용을 지원합니다.\n모던 웹 애플리케이션 개발 시 Go-TS 통합에 매우 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26718",
+    "title": "OpenClaw 개발자 Peter Steinberger, OpenAI 합류",
+    "url": "https://news.hada.io/topic?id=26718",
+    "discussion_url": "https://news.hada.io/topic?id=26718",
+    "summary": "피터 스타인버거가 차세대 개인 에이전트 개발을 주도하기 위해 OpenAI에 합류했습니다. 그는 미래에 매우 똑똑한 에이전트들이 서로 상호작용하며 사람들에게 매우 유용한 일들을 해낼 것이라는 놀라운 아이디어를 많이 가진 천재입니다. 우리는 이러한 아이디어가 곧 우리 제품의 핵심이 될 것으로 기대합니다.",
+    "score": 0,
+    "published_at": "2026-02-16T00:24:24+00:00",
+    "ai_summary": "OpenClaw 개발자 Peter Steinberger가 OpenAI에 합류하여 차세대 개인 AI 에이전트 개발을 이끌게 됩니다.\n그는 에이전트들이 상호작용하며 사람들에게 유용한 일을 해낼 것이라는 비전을 가지고 있습니다.\n이는 AI 기술의 미래 방향성과 개발자의 커리어 경로에 대한 중요한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26716",
+    "title": "OpenAI가 Slack을 만들어야 하는 이유",
+    "url": "https://news.hada.io/topic?id=26716",
+    "discussion_url": "https://news.hada.io/topic?id=26716",
+    "summary": "Sam Altman이 &quot;사람들이 어렵다고 생각하지만 실현되면 큰 영향을 줄 프로젝트&quot;를 선택한다고 밝힌 가운데, OpenAI가 Slack 대체 서비스를 구축해야 한다는 @swyx의 제안\nSlack은 2019년 개발자 커뮤니티를 버리고 기업 시장으로 이동했으며, 2021년 Sal...",
+    "score": 0,
+    "published_at": "2026-02-15T23:33:52+00:00",
+    "ai_summary": "Sam Altman의 \"큰 영향\" 프로젝트 언급 속에 OpenAI가 Slack 대체 서비스를 개발해야 한다는 제안이 나왔습니다.\nSlack이 개발자 커뮤니티를 외면한 공백을 지적하며, OpenAI가 AI 기반 협업 도구로 새로운 시장을 개척할 수 있다고 주장합니다.\n개발자 커뮤니티를 위한 도구 혁신 가능성을 제시합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26714",
+    "title": "OpenClaw 제작자, OpenAI에 합류",
+    "url": "https://news.hada.io/topic?id=26714",
+    "discussion_url": "https://news.hada.io/topic?id=26714",
+    "summary": "OpenClaw (이전 ClawdBot,MoltBot) 제작자 Peter Steinberger가 OpenAI에 합류해, 누구나 사용할 수 있는 AI 에이전트 개발에 집중할 것이라 밝힘\nOpenClaw는 상업 회사로 전환되지 않고 재단(foundation) 형태로 독립 운영되어 오픈소스 및 독립...",
+    "score": 0,
+    "published_at": "2026-02-15T22:24:29+00:00",
+    "ai_summary": "OpenClaw 제작자 Peter Steinberger가 OpenAI에 합류하여 누구나 사용할 수 있는 AI 에이전트 개발에 집중합니다.\n그의 기존 프로젝트 OpenClaw는 상업화 대신 재단 형태로 독립 운영되어 오픈소스를 유지할 예정입니다.\nAI 에이전트 기술의 대중화와 오픈소스 커뮤니티에 대한 기대를 높입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47030271",
+    "title": "Arm wants a bigger slice of the chip business",
+    "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+    "discussion_url": "https://news.ycombinator.com/item?id=47030271",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-02-16T02:36:14+00:00",
+    "ai_summary": "Arm은 데이터센터, 자동차, 엣지 AI 시장 등에서 더 큰 시장 점유율을 목표로 합니다.\n현재 모바일 기기 강세에서 벗어나 다양한 영역으로 아키텍처를 확장하려 합니다.\n이는 개발자들이 Arm 기반 환경에서의 소프트웨어 개발 중요성을 높이는 계기가 될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47019102",
+    "title": "How long do job postings stay open?",
+    "url": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47019102",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-02-14T22:35:07+00:00",
+    "ai_summary": "구인 공고의 게시 기간은 회사 규모, 산업, 직무 유형에 따라 큰 차이를 보입니다.\n특히 특정 기술 스택을 요구하는 고숙련 개발자 직무는 공고가 더 오래 유지될 수 있습니다.\n개발자들은 채용 시장의 동향과 자신에게 맞는 공고 탐색 전략을 세우는 데 활용할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47029339",
+    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+    "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47029339",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-02-16T00:26:23+00:00",
+    "ai_summary": "자바스크립트에 과도하게 의존하는 프론트엔드 개발 방식은 장기적인 웹 성능 목표 달성에 방해가 됩니다.\n초기 로딩 시간 지연과 사용자 경험 저하 등의 문제점을 야기할 수 있습니다.\n개발자들은 서버 사이드 렌더링이나 정적 사이트 생성 등 대안적 접근 방식을 고려할 필요가 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46976256",
+    "title": "Databases should contain their own Metadata – Use SQL Everywhere",
+    "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
+    "discussion_url": "https://news.ycombinator.com/item?id=46976256",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-02-11T15:36:10+00:00",
+    "ai_summary": "데이터베이스는 자체 메타데이터를 포함하도록 설계되어야 하며, 데이터 관련 모든 작업에 SQL을 적극적으로 활용해야 합니다.\n이는 데이터의 일관성과 관리 효율성을 크게 높일 수 있는 핵심 원칙입니다.\n개발자는 데이터 정의부터 쿼리까지 SQL의 중요성을 이해해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46980930",
+    "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
+    "url": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46980930",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-02-11T21:03:58+00:00",
+    "ai_summary": "Clojure로 구현된 데이터베이스를 GraalVM Native Image와 FFI를 활용하여 경량 라이브러리로 변환하는 방법을 다룹니다.\n이를 통해 JVM 없이도 Clojure 데이터베이스 코드를 네이티브 성능으로 실행할 수 있습니다.\n다양한 프로그래밍 언어 환경에서 Clojure 데이터베이스 기능을 효율적으로 활용하는 길을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47028923",
+    "title": "Why I don't think AGI is imminent",
+    "url": "https://dlants.me/agi-not-imminent.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47028923",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-02-15T23:34:18+00:00",
+    "ai_summary": "인공 일반 지능(AGI)의 출현이 가까워지지 않았다고 주장하며, 그 이유를 심층적으로 분석합니다.\n현재 AI 기술의 근본적인 한계와 AGI 달성을 위한 난제들을 현실적으로 조명합니다.\nAI 개발자와 연구자들이 미래 AI 방향성을 설정하는 데 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "46971547",
+    "title": "Benchmarking Automatic Typesetting Systems",
+    "url": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
+    "discussion_url": "https://news.ycombinator.com/item?id=46971547",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-02-11T06:20:08+00:00",
+    "ai_summary": "이 기사는 다양한 자동 조판 시스템들의 성능을 벤치마킹하는 방법을 다룹니다.\n이를 통해 시스템들의 효율성, 정확성 및 처리 속도를 비교하고 평가합니다.\n개발자들이 최적의 조판 도구를 선택하고 문서 처리 시스템을 개선하는 데 실질적인 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  }
+]
