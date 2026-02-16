@@ -2,12 +2,14 @@ from __future__ import annotations
 
 import logging
 import sqlite3
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
 import requests
 
 from src import config
+from src.config import KST
 
 logger = logging.getLogger(__name__)
 
@@ -338,6 +340,23 @@ def _get_today_snapshot(date_str: str) -> list[dict[str, Any]]:
         return []
     finally:
         conn.close()
+
+
+def get_latest_models(date_str: str | None = None) -> list[dict[str, Any]]:
+    """Get all model snapshots for the given date (or today in KST).
+
+    This is the public API for retrieving current model data,
+    suitable for populating the living dashboard.
+
+    Args:
+        date_str: Date in YYYY-MM-DD format. Defaults to today (KST).
+
+    Returns:
+        List of model snapshot dicts with all SQLite fields.
+    """
+    if date_str is None:
+        date_str = datetime.now(KST).strftime("%Y-%m-%d")
+    return _get_today_snapshot(date_str)
 
 
 def get_model_updates(date_str: str) -> dict[str, list[dict[str, Any]]]:

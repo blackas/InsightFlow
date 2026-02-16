@@ -80,17 +80,21 @@ NOTION_API_KEY = os.getenv("NOTION_API_KEY")
 NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
 NOTION_PARENT_PAGE_ID = os.getenv("NOTION_PARENT_PAGE_ID")
 NOTION_MODEL_TRACKER_DB_ID = os.getenv("NOTION_MODEL_TRACKER_DB_ID")
+NOTION_MODEL_TRACKER_PAGE_ID = os.getenv("NOTION_MODEL_TRACKER_PAGE_ID")
+NOTION_MODEL_DASHBOARD_DB_ID = os.getenv("NOTION_MODEL_DASHBOARD_DB_ID")
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 
 # TLDR AI Configuration
 TLDR_AI_URL = "https://tldr.tech/api/latest/ai"
-TLDR_SECTIONS = frozenset({
-    "Headlines & Launches",
-    "Deep Dives & Analysis",
-    "Engineering & Research",
-    "Miscellaneous",
-    "Quick Links",
-})
+TLDR_SECTIONS = frozenset(
+    {
+        "Headlines & Launches",
+        "Deep Dives & Analysis",
+        "Engineering & Research",
+        "Miscellaneous",
+        "Quick Links",
+    }
+)
 
 # Artificial Analysis Configuration
 ARTIFICIAL_ANALYSIS_API_KEY = os.getenv("ARTIFICIAL_ANALYSIS_API_KEY")
