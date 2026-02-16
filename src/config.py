@@ -1,5 +1,5 @@
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -102,12 +102,19 @@ MODEL_RANK_CHANGE_THRESHOLD = 10  # Top N rank changes
 MODEL_PRICE_CHANGE_THRESHOLD = 0.10  # 10% price change threshold
 
 
+# KST timezone (UTC+9) — GitHub Actions runs in UTC, but we need KST for weekly boundaries
+KST = timezone(timedelta(hours=9))
+
+
 def get_week_identifier() -> str:
     """
-    Get the current week identifier in ISO format.
+    Get the current week identifier in ISO format based on KST.
+
+    Uses KST (UTC+9) so that the weekly boundary aligns with the
+    GitHub Actions cron schedule (UTC 23:00 = KST 08:00 Monday).
 
     Returns:
         str: ISO week identifier in format "YYYY-WNN" (e.g., "2026-W07")
     """
-    year, week, _ = datetime.now().isocalendar()
+    year, week, _ = datetime.now(KST).isocalendar()
     return f"{year:04d}-W{week:02d}"
