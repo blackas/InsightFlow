@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 from typing import Any, cast
 
 import notion_client
+import requests
 
 from src import config
 from src.notion_common import get_client, resolve_data_source_id
@@ -205,6 +206,6 @@ def sync_models_to_dashboard(
         logger.info("Synced %d models to dashboard", synced)
         return synced
 
-    except Exception:
+    except (notion_client.APIResponseError, requests.RequestException):
         logger.exception("Model dashboard sync failed")
         return 0
