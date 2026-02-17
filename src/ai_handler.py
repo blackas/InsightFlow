@@ -4,7 +4,8 @@ import json
 import logging
 import time
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 from src import config
 from src.scraper import Article
@@ -30,7 +31,7 @@ def keyword_filter(articles: list[Article]) -> list[Article]:
 
 
 def _process_batch(
-    model: "genai.GenerativeModel",
+    client: "genai.Client",
     batch: list[Article],
     batch_num: int,
     is_tldrai: bool,
@@ -38,16 +39,14 @@ def _process_batch(
     """Process a single batch of articles through Gemini.
 
     Args:
-        model: Configured Gemini model instance.
+        client: Configured Gemini client instance.
         batch: List of articles to process.
         batch_num: Batch number for logging.
         is_tldrai: Whether this batch contains TLDR AI articles.
     """
     articles_text = ""
     for idx, article in enumerate(batch, 1):
-        articles_text += (
-            f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
-        )
+        articles_text += f"[{idx}] 제목: {article.title}\n    요약: {article.summary}\n"
 
     tags_list = ", ".join(config.NOTION_TAGS)
 
@@ -79,7 +78,13 @@ def _process_batch(
 
     for attempt in range(4):
         try:
-            response = model.generate_content(prompt)
+            response = client.models.generate_content(
+                model=config.GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                ),
+            )
             response_text = response.text
 
             response_data = json.loads(response_text)
@@ -162,13 +167,7 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
         return articles
 
     try:
-        genai.configure(api_key=config.GEMINI_API_KEY)
-        model = genai.GenerativeModel(
-            config.GEMINI_MODEL,
-            generation_config=genai.GenerationConfig(
-                response_mime_type="application/json",
-            ),
-        )
+        client = genai.Client(api_key=config.GEMINI_API_KEY)
     except Exception:
         logger.exception("Failed to initialize Gemini model")
         return articles
@@ -190,11 +189,11 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
         for i in range(0, len(group_articles), batch_size):
             batch = group_articles[i : i + batch_size]
             batch_num += 1
-            _process_batch(model, batch, batch_num, is_tldrai)
+            _process_batch(client, batch, batch_num, is_tldrai)
 
             # Add delay between batches (except after the very last batch)
-            is_last_batch_in_group = (i + batch_size >= len(group_articles))
-            is_last_group = (group_idx == len(all_groups) - 1)
+            is_last_batch_in_group = i + batch_size >= len(group_articles)
+            is_last_group = group_idx == len(all_groups) - 1
             if not (is_last_batch_in_group and is_last_group):
                 time.sleep(2)
 

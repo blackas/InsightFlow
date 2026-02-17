@@ -42,36 +42,34 @@ class TestBatchSeparatesBySource:
             _make_article("hackernews", "HN Article 3"),
         ]
 
-        # Mock Gemini to track prompts
-        mock_model = MagicMock()
-        mock_genai.GenerativeModel.return_value = mock_model
-
-        # Return valid JSON responses for each batch call
-        def make_response(articles_in_batch):
-            data = [{"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
-                    for i in range(len(articles_in_batch))]
-            mock_resp = MagicMock()
-            mock_resp.text = json.dumps(data)
-            return mock_resp
+        # Mock Gemini Client and models.generate_content
+        mock_client = MagicMock()
+        mock_genai.Client.return_value = mock_client
 
         # We'll capture calls and return appropriate responses
         prompts_captured = []
 
-        def capture_prompt(prompt):
+        def capture_prompt(**kwargs):
+            prompt = kwargs.get("contents", "")
             prompts_captured.append(prompt)
             # Count articles in this prompt by counting [N] patterns
             import re
-            count = len(re.findall(r'\[\d+\]', prompt))
-            data = [{"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
-                    for i in range(count)]
+
+            count = len(re.findall(r"\[\d+\]", prompt))
+            data = [
+                {"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
+                for i in range(count)
+            ]
             mock_resp = MagicMock()
             mock_resp.text = json.dumps(data)
             return mock_resp
 
-        mock_model.generate_content.side_effect = capture_prompt
+        mock_client.models.generate_content.side_effect = capture_prompt
 
         with patch.object(config, "GEMINI_API_KEY", "fake-key"):
-            with patch.object(config, "BATCH_SIZE", 8):  # Large enough to hold all in one batch
+            with patch.object(
+                config, "BATCH_SIZE", 8
+            ):  # Large enough to hold all in one batch
                 batch_summarize(articles)
 
         # With 6 articles and BATCH_SIZE=8, if no separation:
@@ -86,8 +84,12 @@ class TestBatchSeparatesBySource:
         tldr_prompts = [p for p in prompts_captured if "핵심 포인트 추출" in p]
         other_prompts = [p for p in prompts_captured if "3줄 핵심 요약" in p]
 
-        assert len(tldr_prompts) >= 1, "No TLDR-specific prompt found (should contain '핵심 포인트 추출')"
-        assert len(other_prompts) >= 1, "No standard prompt found (should contain '3줄 핵심 요약')"
+        assert len(tldr_prompts) >= 1, (
+            "No TLDR-specific prompt found (should contain '핵심 포인트 추출')"
+        )
+        assert len(other_prompts) >= 1, (
+            "No standard prompt found (should contain '3줄 핵심 요약')"
+        )
 
     @patch("src.ai_handler.genai")
     def test_all_tldrai_batch_uses_tldrai_prompt(self, mock_genai):
@@ -97,20 +99,23 @@ class TestBatchSeparatesBySource:
 
         articles = [_make_article("tldrai", f"TLDR {i}") for i in range(3)]
 
-        mock_model = MagicMock()
-        mock_genai.GenerativeModel.return_value = mock_model
+        mock_client = MagicMock()
+        mock_genai.Client.return_value = mock_client
 
         prompts_captured = []
 
-        def capture_prompt(prompt):
+        def capture_prompt(**kwargs):
+            prompt = kwargs.get("contents", "")
             prompts_captured.append(prompt)
-            data = [{"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
-                    for i in range(3)]
+            data = [
+                {"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
+                for i in range(3)
+            ]
             mock_resp = MagicMock()
             mock_resp.text = json.dumps(data)
             return mock_resp
 
-        mock_model.generate_content.side_effect = capture_prompt
+        mock_client.models.generate_content.side_effect = capture_prompt
 
         with patch.object(config, "GEMINI_API_KEY", "fake-key"):
             batch_summarize(articles)
@@ -128,20 +133,23 @@ class TestBatchSeparatesBySource:
 
         articles = [_make_article("hackernews", f"HN {i}") for i in range(3)]
 
-        mock_model = MagicMock()
-        mock_genai.GenerativeModel.return_value = mock_model
+        mock_client = MagicMock()
+        mock_genai.Client.return_value = mock_client
 
         prompts_captured = []
 
-        def capture_prompt(prompt):
+        def capture_prompt(**kwargs):
+            prompt = kwargs.get("contents", "")
             prompts_captured.append(prompt)
-            data = [{"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
-                    for i in range(3)]
+            data = [
+                {"index": i + 1, "relevance": 0.8, "summary": "요약", "tags": ["AI/ML"]}
+                for i in range(3)
+            ]
             mock_resp = MagicMock()
             mock_resp.text = json.dumps(data)
             return mock_resp
 
-        mock_model.generate_content.side_effect = capture_prompt
+        mock_client.models.generate_content.side_effect = capture_prompt
 
         with patch.object(config, "GEMINI_API_KEY", "fake-key"):
             batch_summarize(articles)
