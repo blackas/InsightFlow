@@ -122,3 +122,24 @@ def get_week_identifier() -> str:
     """
     year, week, _ = datetime.now(KST).isocalendar()
     return f"{year:04d}-W{week:02d}"
+
+
+def validate_env() -> None:
+    """Validate that required environment variables are set.
+
+    Raises:
+        SystemExit: If any required variable is missing.
+    """
+    required = {
+        "GEMINI_API_KEY": GEMINI_API_KEY,
+        "TELEGRAM_BOT_TOKEN": TELEGRAM_BOT_TOKEN,
+        "TELEGRAM_CHAT_ID": TELEGRAM_CHAT_ID,
+        "NOTION_API_KEY": NOTION_API_KEY,
+        "NOTION_PARENT_PAGE_ID": NOTION_PARENT_PAGE_ID,
+    }
+    missing = [name for name, value in required.items() if not value]
+    if missing:
+        raise SystemExit(
+            f"Missing required environment variables: {', '.join(missing)}\n"
+            "Set them in .env or as environment variables."
+        )

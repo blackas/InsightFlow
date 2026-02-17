@@ -9,6 +9,7 @@ import sys
 from datetime import datetime
 
 from src import config
+from src.config import validate_env
 from src.ai_handler import filter_and_summarize
 from src.model_tracker import (
     fetch_model_data,
@@ -154,6 +155,7 @@ def cli() -> argparse.Namespace:
 
 if __name__ == "__main__":
     setup_logging()
+    validate_env()
     args = cli()
     dry_run = args.dry_run or config.DRY_RUN
     main(dry_run=dry_run)
