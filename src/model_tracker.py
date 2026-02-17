@@ -173,20 +173,37 @@ def get_previous_snapshot(date: str) -> list[dict[str, Any]]:
 
 
 def detect_new_models(
-    today_models: list[dict[str, Any]], yesterday_models: list[dict[str, Any]]
+    today_models: list[dict[str, Any]],
+    yesterday_models: list[dict[str, Any]],
+    initial_top_n: int = 20,
 ) -> list[dict[str, Any]]:
     """
     Detect models that exist in today's snapshot but not in yesterday's.
 
+    On first run (when yesterday_models is empty), records the top N models
+    by intelligence_index as the initial baseline.
+
     Args:
         today_models: List of model dicts from today
         yesterday_models: List of model dicts from yesterday
+        initial_top_n: Number of top models to record on first run (default: 20)
 
     Returns:
-        List of new models (models in today but not in yesterday)
+        List of new models (models in today but not in yesterday).
+        On first run, returns top N models by intelligence_index.
     """
     if not yesterday_models:
-        return []
+        # First run — record top N models as initial baseline
+        sorted_models = sorted(
+            [m for m in today_models if m.get("intelligence_index") is not None],
+            key=lambda x: x.get("intelligence_index", 0),
+            reverse=True,
+        )[:initial_top_n]
+        logger.info(
+            "First run detected: recording top %d models as initial baseline",
+            len(sorted_models),
+        )
+        return sorted_models
 
     yesterday_ids = {m.get("model_id") for m in yesterday_models}
     new_models = [m for m in today_models if m.get("model_id") not in yesterday_ids]
@@ -369,17 +386,12 @@ def get_model_updates(date_str: str) -> dict[str, list[dict[str, Any]]]:
     Returns:
         Dict with keys: new_models, rank_changes, price_changes
     """
-    yesterday_models = get_previous_snapshot(date_str)
-
-    # If no previous snapshot, return empty results
-    if not yesterday_models:
-        logger.info("No previous snapshot found, returning empty updates")
-        return {"new_models": [], "rank_changes": [], "price_changes": []}
-
     today_models = _get_today_snapshot(date_str)
     if not today_models:
         logger.info("No today snapshot found, returning empty updates")
         return {"new_models": [], "rank_changes": [], "price_changes": []}
+
+    yesterday_models = get_previous_snapshot(date_str)
 
     new_models = detect_new_models(today_models, yesterday_models)
     rank_changes = detect_rank_changes(today_models, yesterday_models)
