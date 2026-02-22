@@ -168,7 +168,7 @@ def batch_summarize(articles: list[Article]) -> list[Article]:
 
     try:
         client = genai.Client(api_key=config.GEMINI_API_KEY)
-    except Exception:
+    except (ValueError, TypeError):
         logger.exception("Failed to initialize Gemini model")
         return articles
 

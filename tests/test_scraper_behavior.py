@@ -104,7 +104,7 @@ class TestFetchGeeknews:
     @patch("src.scraper.feedparser.parse")
     def test_returns_empty_on_network_error(self, mock_parse: MagicMock) -> None:
         """Mock feedparser.parse to raise exception -> verify empty list."""
-        mock_parse.side_effect = Exception("Network timeout")
+        mock_parse.side_effect = ValueError("Network timeout")
 
         articles = fetch_geeknews()
 

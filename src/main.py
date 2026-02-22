@@ -5,8 +5,12 @@ from __future__ import annotations
 import argparse
 import asyncio
 import logging
+import sqlite3
 import sys
 from datetime import datetime
+
+import notion_client
+import requests
 
 from src import config
 from src.config import validate_env
@@ -94,7 +98,7 @@ def main(dry_run: bool = False) -> None:
                 len(updates.get("rank_changes", [])),
                 len(updates.get("price_changes", [])),
             )
-        except Exception:
+        except (requests.RequestException, sqlite3.Error, ValueError):
             logger.exception("Model tracker failed (non-fatal)")
 
         # 7.5 Model Tracker → Notion
@@ -118,7 +122,11 @@ def main(dry_run: bool = False) -> None:
                     logger.info("No models synced to dashboard")
             else:
                 logger.info("[DRY RUN] Model dashboard sync skipped")
-        except Exception:
+        except (
+            notion_client.APIResponseError,
+            requests.RequestException,
+            sqlite3.Error,
+        ):
             logger.exception("Model dashboard sync failed (non-fatal)")
 
         # 8. Telegram digest

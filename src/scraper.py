@@ -107,7 +107,7 @@ def fetch_geeknews() -> list[Article]:
         logger.info("Fetched %d articles from GeekNews", len(articles))
         return articles
 
-    except Exception:
+    except (requests.RequestException, ValueError):
         logger.exception("Error fetching GeekNews feed")
         return []
 
@@ -147,7 +147,7 @@ async def _fetch_hn_item(
             published_at=published_iso,
         )
 
-    except Exception:
+    except (aiohttp.ClientError, asyncio.TimeoutError, ValueError):
         logger.warning("Failed to fetch HN item %d", item_id)
         return None
 
@@ -170,7 +170,7 @@ async def fetch_hackernews(count: int = 30) -> list[Article]:
         logger.info("Fetched %d articles from Hacker News", len(articles))
         return articles
 
-    except Exception:
+    except (aiohttp.ClientError, asyncio.TimeoutError):
         logger.exception("Error fetching Hacker News")
         return []
 
@@ -250,7 +250,7 @@ def fetch_tldr_ai() -> list[Article]:
         logger.info("Fetched %d articles from TLDR AI", len(articles))
         return articles
 
-    except Exception:
+    except (requests.RequestException, ValueError):
         logger.exception("Error fetching TLDR AI newsletter")
         return []
 

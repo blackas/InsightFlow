@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from typing import Any, cast
 
 import notion_client
+import requests
 
 from src import config
 from src.notion_common import get_client, resolve_data_source_id
@@ -182,6 +183,6 @@ def send_model_updates_to_notion(
         logger.info("Created %d Model Tracker pages total", created_count)
         return created_count
 
-    except Exception:
+    except (notion_client.APIResponseError, requests.RequestException):
         logger.exception("Model tracker Notion sync failed")
         return 0

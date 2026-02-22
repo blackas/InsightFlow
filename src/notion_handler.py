@@ -4,6 +4,7 @@ import logging
 from typing import Any, cast
 
 import notion_client
+import requests
 
 from src import config
 from src.notion_common import get_client, resolve_data_source_id
@@ -167,6 +168,6 @@ def send_to_notion(articles: list[Article]) -> int:
         logger.info("Created %d/%d Notion pages", created_count, len(notable))
         return created_count
 
-    except Exception:
+    except (notion_client.APIResponseError, requests.RequestException):
         logger.exception("Notion sync failed")
         return 0

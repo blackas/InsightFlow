@@ -58,7 +58,7 @@ def fetch_model_data() -> list[dict[str, Any]]:
         logger.warning("ARTIFICIAL_ANALYSIS_API_KEY not set, skipping model fetch")
         return []
 
-    url = "https://artificialanalysis.ai/api/v2/data/llms/models"
+    url = config.ARTIFICIAL_ANALYSIS_API_URL
     headers = {"x-api-key": api_key}
 
     try:
@@ -84,6 +84,74 @@ def fetch_model_data() -> list[dict[str, Any]]:
     return models
 
 
+def _first_not_none(*values: Any) -> Any:
+    """Return the first value that is not ``None``."""
+    for v in values:
+        if v is not None:
+            return v
+    return None
+
+
+def _normalize_model(raw: dict[str, Any]) -> dict[str, Any]:
+    """Normalize a raw API model dict to flat field names for SQLite storage.
+
+    The Artificial Analysis API returns a nested structure::
+
+        {
+          "id": "...",
+          "model_creator": {"name": "OpenAI", ...},
+          "evaluations": {"artificial_analysis_intelligence_index": 62.9, ...},
+          "pricing": {"price_1m_input_tokens": 1.1, ...},
+          "median_output_tokens_per_second": 153.8,
+          ...
+        }
+
+    This helper maps those nested paths to the flat column names used by SQLite
+    while remaining backwards-compatible with data already stored in flat format.
+    """
+    evaluations = raw.get("evaluations") or {}
+    pricing = raw.get("pricing") or {}
+    model_creator = raw.get("model_creator")
+
+    return {
+        "model_id": raw.get("model_id") or raw.get("id"),
+        "name": raw.get("name") or raw.get("model_name"),
+        "creator": _first_not_none(
+            raw.get("creator"),
+            model_creator.get("name") if isinstance(model_creator, dict) else None,
+        ),
+        "intelligence_index": _first_not_none(
+            raw.get("intelligence_index"),
+            evaluations.get("artificial_analysis_intelligence_index"),
+        ),
+        "coding_index": _first_not_none(
+            raw.get("coding_index"),
+            evaluations.get("artificial_analysis_coding_index"),
+        ),
+        "math_index": _first_not_none(
+            raw.get("math_index"),
+            evaluations.get("artificial_analysis_math_index"),
+        ),
+        "speed_index": raw.get("speed_index"),
+        "price_input": _first_not_none(
+            raw.get("price_input"),
+            pricing.get("price_1m_input_tokens"),
+        ),
+        "price_output": _first_not_none(
+            raw.get("price_output"),
+            pricing.get("price_1m_output_tokens"),
+        ),
+        "speed_tokens_per_sec": _first_not_none(
+            raw.get("speed_tokens_per_sec"),
+            raw.get("median_output_tokens_per_second"),
+        ),
+        "ttft_seconds": _first_not_none(
+            raw.get("ttft_seconds"),
+            raw.get("median_time_to_first_token_seconds"),
+        ),
+    }
+
+
 def save_model_snapshots(models: list[dict[str, Any]], date: str) -> int:
     conn = _init_db()
 
@@ -94,24 +162,24 @@ def save_model_snapshots(models: list[dict[str, Any]], date: str) -> int:
     count = 0
 
     try:
-        for model in models:
-            model_id = model.get("model_id") or model.get("id")
-            name = model.get("name") or model.get("model_name")
+        for raw_model in models:
+            model = _normalize_model(raw_model)
+            model_id = model["model_id"]
+            name = model["name"]
             if not model_id or not name:
                 continue
-
             row = (
                 str(model_id),
                 str(name),
-                model.get("creator"),
-                model.get("intelligence_index"),
-                model.get("coding_index"),
-                model.get("math_index"),
-                model.get("speed_index"),
-                model.get("price_input"),
-                model.get("price_output"),
-                model.get("speed_tokens_per_sec"),
-                model.get("ttft_seconds"),
+                model["creator"],
+                model["intelligence_index"],
+                model["coding_index"],
+                model["math_index"],
+                model["speed_index"],
+                model["price_input"],
+                model["price_output"],
+                model["speed_tokens_per_sec"],
+                model["ttft_seconds"],
                 date,
             )
             _ = conn.execute(_INSERT_SQL, row)

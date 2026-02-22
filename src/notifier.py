@@ -19,6 +19,16 @@ def _escape_md(text: str | None) -> str:
         return ""
     return re.sub(r"([_*\[\]()~`>#+\-=|{}.!\\])", r"\\\1", str(text))
 
+def _escape_url(url: str | None) -> str:
+    """Escape a URL for use inside MarkdownV2 inline links.
+
+    Inside ``[text](url)``, only ``)`` and ``\\`` need escaping.
+    Applying full ``_escape_md`` to URLs breaks them by escaping
+    characters like ``.``, ``=``, ``-``, etc.
+    """
+    if url is None:
+        return ""
+    return str(url).replace("\\", "\\\\").replace(")", "\\)")
 
 def format_digest(
     articles: list[Article],
@@ -38,8 +48,8 @@ def format_digest(
         for i, article in enumerate(geeknews, 1):
             title = _escape_md(article.title)
             summary = _escape_md(article.ai_summary or article.summary)
-            url = _escape_md(article.url)
-            discussion_url = _escape_md(article.discussion_url)
+            url = _escape_url(article.url)
+            discussion_url = _escape_url(article.discussion_url)
             relevance = _escape_md(str(article.relevance_score))
 
             lines.append(
@@ -52,8 +62,8 @@ def format_digest(
             title = _escape_md(article.title)
             score = _escape_md(str(article.score))
             summary = _escape_md(article.ai_summary)
-            url = _escape_md(article.url)
-            discussion_url = _escape_md(article.discussion_url)
+            url = _escape_url(article.url)
+            discussion_url = _escape_url(article.discussion_url)
 
             lines.append(
                 f"{i}\\. *{title}* \\(⬆{score}\\)\n{summary}\n🔗 [원문]({url}) \\| [토론]({discussion_url})\n"
@@ -64,8 +74,8 @@ def format_digest(
         for i, article in enumerate(tldrai, 1):
             title = _escape_md(article.title)
             summary = _escape_md(article.ai_summary or article.summary)
-            url = _escape_md(article.url)
-            discussion_url = _escape_md(article.discussion_url)
+            url = _escape_url(article.url)
+            discussion_url = _escape_url(article.discussion_url)
             relevance = _escape_md(str(article.relevance_score))
 
             lines.append(
