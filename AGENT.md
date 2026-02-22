@@ -1,5 +1,7 @@
 # AGENT.md — InsightFlow Project Guide
 
+> **Before writing any code, read [`CODE.md`](./CODE.md)** for the mandatory development workflow (branching, TDD, review, PR).
+
 ## Project Overview
 
 InsightFlow is a serverless AI tech news tracker powered by GitHub Actions. It runs daily at 08:00 KST, collecting articles from GeekNews, Hacker News, and TLDR AI, summarizing them with Gemini AI, tracking AI model performance/pricing changes, and delivering results via Telegram and Notion.
