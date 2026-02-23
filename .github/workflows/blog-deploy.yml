@@ -1,0 +1,60 @@
+name: InsightFlow Blog Deploy
+
+on:
+  issues:
+    types: [opened, closed, labeled]
+  workflow_dispatch:
+
+concurrency:
+  group: blog-deploy
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python 3.11
+        run: uv python install 3.11
+
+      - name: Install Dependencies
+        run: uv sync
+
+      - name: Build Blog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKER_URL: ${{ vars.BLOG_WORKER_URL }}
+        run: |
+          uv run python -c "
+          from src.blog_builder import build_blog
+          import os
+          worker_url = os.environ.get('WORKER_URL', '')
+          build_blog('_site', worker_url)
+          "
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
