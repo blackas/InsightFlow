@@ -1,0 +1,755 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26934",
+    "title": "macOS용 로컬 우선 Linux MicroVM 샌드박스",
+    "url": "https://news.hada.io/topic?id=26934",
+    "discussion_url": "https://news.hada.io/topic?id=26934",
+    "summary": "AI 에이전트 실행을 위한 경량 Linux 가상머신 환경으로, macOS의 Virtualization.framework를 기반으로 동작\n모든 실행이 기본적으로 일회성(Ephemeral) 으로 시작되어, 설치나 변경이 종료 시 자동 초기화됨\n\nCheckpoint 기능을 통해...",
+    "score": 0,
+    "published_at": "2026-02-23T22:36:35+00:00",
+    "ai_summary": "macOS에서 AI 에이전트 실행을 위한 경량 Linux MicroVM 샌드박스입니다.\nmacOS의 Virtualization.framework 기반으로 동작하며 모든 실행이 일회성입니다.\n설치 및 변경이 종료 시 초기화되며 체크포인트 기능을 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26931",
+    "title": "약 40MB 크기의 바이너리에 백도어를 숨기고 AI와 Ghidra로 탐지할 수 있는지 실험",
+    "url": "https://news.hada.io/topic?id=26931",
+    "discussion_url": "https://news.hada.io/topic?id=26931",
+    "summary": "AI 기반 악성코드 탐지 가능성을 검증하기 위해, 여러 오픈소스 서버 바이너리에 인위적으로 백도어를 삽입하고 AI 에이전트와 Ghidra로 탐지 실험을 수행\nClaude Opus 4.6 등 최신 모델이 일부 단순한 백도어를 찾아냈지만, 탐지율은 49%,",
+    "score": 0,
+    "published_at": "2026-02-23T20:33:08+00:00",
+    "ai_summary": "40MB 바이너리에 백도어를 숨기고 AI와 Ghidra로 탐지하는 실험을 수행했습니다.\nAI 에이전트가 일부 단순 백도어를 탐지했으나, 탐지율은 49%에 그쳤습니다.\nAI 기반 악성코드 탐지 가능성과 한계를 검증하는 연구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26925",
+    "title": "Show GN: 버튼 하나 딸깍으로 전사/요약/저장/공유 다 해주는 AI 노트테이커",
+    "url": "https://news.hada.io/topic?id=26925",
+    "discussion_url": "https://news.hada.io/topic?id=26925",
+    "summary": "원클릭 자동 문서화 AI 노트테이커 ’Archy’\n오늘 베타 서비스 런칭했습니다.\n이제 정말 버튼 하나만 누르면 모든 게 끝납니다.\n아키는, 미팅이 많은 국내 모든 실무자들을 위한 서비스입니다.\n여타 다른 AI 노트테이커들과는 다르게, DB에 저장하고 팀 채널에 공유하는 번거로운 과정을 자",
+    "score": 0,
+    "published_at": "2026-02-23T10:00:29+00:00",
+    "ai_summary": "원클릭으로 전사/요약/저장/공유를 해주는 AI 노트테이커 'Archy'가 베타 서비스를 런칭했습니다.\n미팅이 많은 실무자를 위한 서비스로, DB 저장 및 팀 채널 공유 과정을 자동화합니다.\nAI 기술을 활용한 업무 효율성 향상에 초점을 맞춥니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26924",
+    "title": "Ask GN: 'Claude Code에 Gemini 연결하는 법'에 대해 궁금한 분 계실까요?",
+    "url": "https://news.hada.io/topic?id=26924",
+    "discussion_url": "https://news.hada.io/topic?id=26924",
+    "summary": "저는 Gemini token을 매우 저렴하게 쓸 수 있는 상황이어서 제목처럼 클로드 코드에 제미니가 연결된 프록시 백엔드를 연결해서 쓰고 있습니다. 제미니 CLI는 너무 전투적이어서(코드만 읽으라고 해도 자꾸 뭔가 고치려고 함) 영 안맞고, 클로드 코드의 에이전트 설계가 가장 잘 작동하는 것 같아서, 백엔드를 교체하...",
+    "score": 0,
+    "published_at": "2026-02-23T08:51:29+00:00",
+    "ai_summary": "Gemini 토큰을 저렴하게 활용하고자 Claude Code에 Gemini 연결 프록시 백엔드를 사용 중입니다.\nGemini CLI의 코드 수정 경향 때문에 Claude Code 에이전트 설계를 선호하여 백엔드를 교체했습니다.\n이 AI 에이전트 워크플로우 및 통합 방법을 공유하고자 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26923",
+    "title": "7천 대의 로봇청소기를 우연히 제어하게 된 남성",
+    "url": "https://news.hada.io/topic?id=26923",
+    "discussion_url": "https://news.hada.io/topic?id=26923",
+    "summary": "한 소프트웨어 엔지니어가 DJI 로봇청소기를 게임 컨트롤러로 조종하려다, 7천 대의 기기 접근 권한을 얻게 됨\n자체 앱 개발 중 AI 코딩 도우미를 활용해 클라우드 통신 방식을 역공학하는 과정에서, 동일한 인증 정보가 다른 기기에도 적용되는 ...",
+    "score": 0,
+    "published_at": "2026-02-23T08:32:51+00:00",
+    "ai_summary": "한 엔지니어가 로봇청소기 제어 앱 개발 중 7천 대의 기기 접근 권한을 우연히 얻었습니다.\nAI 코딩 도우미를 이용한 클라우드 통신 역공학 과정에서 동일한 인증 정보가 원인이었습니다.\n이는 AI 도구 활용, 클라우드 보안, 그리고 IoT 기기 인증의 중요성을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26921",
+    "title": "Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents",
+    "url": "https://news.hada.io/topic?id=26921",
+    "discussion_url": "https://news.hada.io/topic?id=26921",
+    "summary": "Claude Code 터미널을 열 때마다 가상 오피스에 픽셀 아트 캐릭터가 소환되어 에이전트의 실시간 활동을 시각적으로 보여주는 VS Code 확장입니다.\n에이전트가 코드를 작성 중이면 타이핑 애니메이션, 파일을 검색 중이면 읽기 애니메이션, 사용자 입력을 기다리는 중이면 말풍선으로 표시됩니다. Claude Code의...",
+    "score": 0,
+    "published_at": "2026-02-23T06:41:44+00:00",
+    "ai_summary": "Claude Code 에이전트의 활동을 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 'Pixel Agents'가 출시되었습니다.\n터미널에서 에이전트의 코딩, 검색, 대기 등 실시간 작업을 애니메이션으로 보여줍니다.\nAI 코딩 환경의 사용자 경험을 향상시키는 개발자 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26920",
+    "title": "2026년 2월 기준, 코딩 에이전트 활용 현황과 워크플로우 비교",
+    "url": "https://news.hada.io/topic?id=26920",
+    "discussion_url": "https://news.hada.io/topic?id=26920",
+    "summary": "코딩 에이전트 선택의 핵심 기준이 모델 성능 자체가 아닌 사용자의 가용 시간과 자율 실행 시간으로 전환되고 있으며, Claude Code와 Codex를 상황에 따라 병행 사용\nOpus는 컨텍스트 윈도우 관리와 도구 사용에 강점을 보이며...",
+    "score": 0,
+    "published_at": "2026-02-23T05:21:02+00:00",
+    "ai_summary": "코딩 에이전트 선택 기준이 모델 성능보다 사용자의 가용 시간과 자율 실행 시간으로 변화하고 있습니다.\nClaude Code와 Codex를 병행 사용하며, Opus는 컨텍스트 관리와 도구 사용에 강점을 보입니다.\n개발자의 AI 워크플로우 최적화 및 활용 현황을 분석합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26919",
+    "title": "LLM이 만든 비밀번호가 위험한 이유, 100비트처럼 보이지만 실제론 27비트",
+    "url": "https://news.hada.io/topic?id=26919",
+    "discussion_url": "https://news.hada.io/topic?id=26919",
+    "summary": "보안 회사 Irregular의 연구를 기반으로, Claude, ChatGPT, Gemini 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.\n핵심 실험 결과\n\n각 모델에 “비밀번호를 생성해줘” 요청을",
+    "score": 0,
+    "published_at": "2026-02-23T03:15:59+00:00",
+    "ai_summary": "최신 LLM이 생성하는 비밀번호는 겉보기와 달리 실제로는 매우 취약하다는 연구 결과가 나왔습니다.\n이는 모델들이 예측 가능한 패턴을 사용하기 때문이며, 무작위성이 부족해 쉽게 해독될 수 있습니다.\nLLM을 활용한 보안 시스템 설계 시 이러한 취약점을 반드시 고려해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26915",
+    "title": "AI 에이전트 시장의 절반은 한 분야가 차지, 나머지는 아직 미개척 영역임",
+    "url": "https://news.hada.io/topic?id=26915",
+    "discussion_url": "https://news.hada.io/topic?id=26915",
+    "summary": "소프트웨어 엔지니어링이 전체 AI 에이전트 도구 호출의 약 50%를 차지하는 반면, 헬스케어·법률·금융 등 16개 버티컬은 각각 5% 미만에 불과\nAI 모델의 실제 역량은 인간이 5시간 걸릴 작업을 수행할 수 있는 수준이지만, 실제 사용에서 99.9번째 백분위 세션은 약 42분...",
+    "score": 0,
+    "published_at": "2026-02-23T02:09:54+00:00",
+    "ai_summary": "AI 에이전트 시장의 약 절반이 소프트웨어 엔지니어링 분야에 집중되어 있습니다.\n헬스케어, 법률 등 다른 산업군은 아직 AI 에이전트 활용이 미미한 수준입니다.\nAI 에이전트의 잠재력은 크지만 실제 활용 효율은 아직 개선 여지가 많습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26913",
+    "title": "이제 남은 유일한 해자는 돈뿐인가?",
+    "url": "https://news.hada.io/topic?id=26913",
+    "discussion_url": "https://news.hada.io/topic?id=26913",
+    "summary": "AI가 대량 생산하는 시대에 인간의 창의적 사고 가치는 하락하고, 인간의 관심(Attention) 은 희소 자원으로 부상\n새로운 제품을 만드는 것은 쉬워졌지만, 관심을 얻는 것은 극도로 어려워진 환경으로 전환됨\n\n기존 채널(검색,...",
+    "score": 0,
+    "published_at": "2026-02-23T00:59:31+00:00",
+    "ai_summary": "AI의 대량 생산 시대에는 인간의 창의적 사고 가치가 하락하고 사람들의 관심이 희소 자원이 됩니다.\n새로운 제품을 만드는 것은 쉬워졌지만, 사용자들의 관심을 얻기는 극도로 어려워지는 환경으로 전환됩니다.\n결국 자본이 시장을 지배하는 유일한 해자로 남을 수 있다는 관점입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26912",
+    "title": "코드 공장 시대와 미래 SRE",
+    "url": "https://news.hada.io/topic?id=26912",
+    "discussion_url": "https://news.hada.io/topic?id=26912",
+    "summary": "원래는 제 주변에만 공유한 졸문이나, 반응이 괜찮아서 Geeknews에도 공유하여 다른 분들의 생각과 관점을 듣고 싶어서 공유합니다. 홍보성 글로 생각되면 지적해 주십시오!\n\n요약\n\n소프트웨어 엔지니어링의 근간이 AI와 자동화의 급격한 부상으로 재구조화되고 있음. 이러한 변혁은 되돌",
+    "score": 0,
+    "published_at": "2026-02-23T00:53:29+00:00",
+    "ai_summary": "AI와 자동화의 급격한 발전으로 소프트웨어 엔지니어링의 근간이 재구조화되고 있습니다.\n이로 인해 SRE(Site Reliability Engineering)의 역할과 중요성이 변화하며, 단순 반복 업무는 자동화될 것입니다.\n미래 SRE는 시스템 설계와 복잡성 관리, 그리고 새로운 기술 적용에 더 집중하게 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26907",
+    "title": "Claude Code 활용 방식: 계획과 실행의 분리",
+    "url": "https://news.hada.io/topic?id=26907",
+    "discussion_url": "https://news.hada.io/topic?id=26907",
+    "summary": "AI 코딩 도구 사용 방식을 근본적으로 재구성해, 코드 작성 전 반드시 명시적 계획 검토 단계를 거치는 워크플로우를 제시\n핵심 원칙은 “계획 승인 전에는 Claude에게 코드를 쓰게 하지 않는다” 로, 이를 통해 구조적 통제와 효율적 토큰 사용...",
+    "score": 0,
+    "published_at": "2026-02-23T00:37:01+00:00",
+    "ai_summary": "AI 코딩 도구를 효과적으로 활용하기 위해 코드 작성 전에 명시적인 계획 검토 단계를 거치는 워크플로우를 제시합니다.\n\"계획 승인 전에는 Claude에게 코드를 쓰게 하지 않는다\"는 핵심 원칙을 통해 구조적 통제와 효율적인 토큰 사용을 목표로 합니다.\n이는 AI 코드 생성의 신뢰성과 효율성을 높이는 방법론입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=26906",
+    "title": "사전 경고 없는 계정 제한 — Google AI Ultra / OpenClaw OAuth 연동 문제",
+    "url": "https://news.hada.io/topic?id=26906",
+    "discussion_url": "https://news.hada.io/topic?id=26906",
+    "summary": "Google AI Ultra($249/월) 또는 Pro 유료 구독자들이 OpenClaw OAuth 연동 후 사전 경고 없이 계정이 일괄 정지되는 사태가 발생함. Google은 내부 조사 후 OpenClaw를 통한 인증 정보 사용이 Antigravity 서버를 비-Antigravity 제품에 활용한 것으로 보아",
+    "score": 0,
+    "published_at": "2026-02-23T00:25:25+00:00",
+    "ai_summary": "Google AI Ultra 유료 구독자들이 OpenClaw OAuth 연동 후 사전 경고 없이 계정이 정지되는 사태가 발생했습니다.\nGoogle은 OpenClaw를 통한 인증 정보 사용이 서비스 약관 위반이라 판단했습니다.\n이는 개발자들이 타사 서비스를 연동할 때 주의해야 할 사례이자 클라우드 서비스 약관 준수의 중요성을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47129361",
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+    "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47129361",
+    "summary": "",
+    "score": 146,
+    "published_at": "2026-02-23T21:44:28+00:00",
+    "ai_summary": "FreeBSD에 오래된 MacBook용 Wi-Fi 드라이버가 없어 AI의 도움을 받아 개발하려는 시도입니다.\nAI가 복잡한 하드웨어 드라이버 코드를 생성하고 디버깅하는 과정을 보여줍니다.\n이는 AI가 실제적인 개발 문제 해결에 어떻게 기여할 수 있는지 보여주는 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47122715",
+    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+    "url": "https://spectrum.ieee.org/age-verification",
+    "discussion_url": "https://news.ycombinator.com/item?id=47122715",
+    "summary": "",
+    "score": 1108,
+    "published_at": "2026-02-23T14:22:39+00:00",
+    "ai_summary": "연령 확인 시스템은 데이터 보호에 심각한 위협이 될 수 있음을 지적합니다.\n민감한 개인 정보의 수집 및 보관이 불가피하여 해킹 및 오용 위험이 커집니다.\n개발자는 이러한 시스템 설계 시 데이터 최소화 및 보안 강화에 특히 주의해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47088076",
+    "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
+    "url": "https://jamesoswald.dev/posts/bigoinequality/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47088076",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-02-20T13:55:08+00:00",
+    "ai_summary": "점근 표기법에서 `f(x) ≤ g(x) + O(1)`와 같은 부등식의 의미를 설명합니다.\n이는 함수 `f(x)`가 `g(x)`와 상수 차이 내에서 상한을 갖는다는 것을 나타냅니다.\n알고리즘 분석 및 복잡도 이론에서 성능을 비교하고 이해하는 데 필수적인 개념입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47123631",
+    "title": "Show HN: PgDog – Scale Postgres without changing the app",
+    "url": "https://github.com/pgdogdev/pgdog",
+    "discussion_url": "https://news.ycombinator.com/item?id=47123631",
+    "summary": "",
+    "score": 158,
+    "published_at": "2026-02-23T15:33:24+00:00",
+    "ai_summary": "PgDog는 애플리케이션 코드를 변경하지 않고도 PostgreSQL 데이터베이스를 확장할 수 있는 솔루션입니다.\n기존 시스템에 미치는 영향을 최소화하면서 성능 병목 현상을 해결하는 데 중점을 둡니다.\n데이터베이스 아키텍처 및 성능 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47120899",
+    "title": "Ladybird adopts Rust",
+    "url": "https://ladybird.org/posts/adopting-rust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47120899",
+    "summary": "",
+    "score": 1012,
+    "published_at": "2026-02-23T11:29:22+00:00",
+    "ai_summary": "Ladybird 웹 브라우저 엔진이 개발 언어로 Rust를 채택하기로 결정했습니다.\n이는 메모리 안전성, 성능 및 동시성 이점을 활용하여 브라우저의 안정성과 효율성을 높이려는 목적입니다.\n시스템 프로그래밍 및 웹 기술 스택 변화에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47128535",
+    "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+    "url": "https://github.com/vignesh07/babyshark",
+    "discussion_url": "https://news.ycombinator.com/item?id=47128535",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-02-23T20:45:34+00:00",
+    "ai_summary": "Babyshark는 Wireshark의 기능을 터미널 UI로 구현하여 네트워크 패킷 분석을 쉽게 해주는 도구입니다.\nPCAP 파일을 시각적으로 분석하고 디버깅하는 데 유용하며, CLI 환경을 선호하는 개발자에게 적합합니다.\n네트워크 트러블슈팅, 보안 감사 및 프로토콜 이해에 큰 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47128631",
+    "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
+    "url": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47128631",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-02-23T20:53:36+00:00",
+    "ai_summary": "고전 게임 'Shufflepuck Cafe'를 8비트 Apple II로 포팅하는 과정에서 겪은 어려움을 다룹니다.\n제한된 하드웨어 자원에서 성능을 최적화하고 특정 아키텍처에 맞게 코드를 조정하는 복잡한 기술적 과제를 설명합니다.\n저수준 프로그래밍, 레거시 시스템 작업 및 게임 개발에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47123894",
+    "title": "Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)",
+    "url": "https://sowbot.co.uk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47123894",
+    "summary": "",
+    "score": 101,
+    "published_at": "2026-02-23T15:48:33+00:00",
+    "ai_summary": "오픈 하드웨어 농업 로봇 'Sowbot'이 공개되었습니다. 이 로봇은 ROS2와 RTK GPS 기술을 활용하여 정밀 농업 작업을 수행합니다.\n개발자들은 로봇 제어, 임베디드 시스템 및 자율 주행 기술에 관심을 가질 수 있습니다.\n이는 실제 환경에서 소프트웨어와 하드웨어를 통합하는 좋은 예시입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47124149",
+    "title": "A simple web we own",
+    "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47124149",
+    "summary": "",
+    "score": 160,
+    "published_at": "2026-02-23T16:01:18+00:00",
+    "ai_summary": "이 기사는 우리가 소유하는 간단한 웹의 개념에 대해 탐구합니다.\n중앙 집중식 플랫폼에서 벗어나 개인의 데이터 주권과 통제를 강조하는 웹의 미래를 제안합니다.\n개발자들은 분산 웹 기술이나 새로운 웹 아키텍처에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47075295",
+    "title": "Scent, in Silico",
+    "url": "https://www.asimov.press/p/scent",
+    "discussion_url": "https://news.ycombinator.com/item?id=47075295",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-02-19T16:12:21+00:00",
+    "ai_summary": "'Scent, in Silico'는 냄새를 디지털 방식으로 모델링하고 시뮬레이션하는 기술을 다룹니다.\n인공지능과 머신러닝을 활용하여 냄새를 분석하고 합성하는 새로운 접근 방식을 제시합니다.\n이는 AI, 데이터 과학 및 후각 기술 개발에 종사하는 개발자들에게 흥미로운 분야입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47127396",
+    "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
+    "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47127396",
+    "summary": "",
+    "score": 333,
+    "published_at": "2026-02-23T19:23:30+00:00",
+    "ai_summary": "바이낸스가 17억 달러 상당의 암호화폐가 이란으로 송금된 사실을 발견한 직원들을 해고했습니다.\n이는 암호화폐 거래소의 규제 준수 및 내부 고발자 보호에 대한 심각한 문제를 제기합니다.\n블록체인 및 금융 시스템 보안 개발자들에게 시사하는 바가 큽니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47113401",
+    "title": "Benchmarks for concurrent hash map implementations in Go",
+    "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
+    "discussion_url": "https://news.ycombinator.com/item?id=47113401",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-02-22T18:28:58+00:00",
+    "ai_summary": "이 기사는 Go 언어의 동시성 해시 맵 구현에 대한 벤치마크 결과를 제시합니다.\n다양한 동시성 해시 맵 구현체들의 성능을 비교 분석합니다.\nGo 개발자나 고성능 백엔드 시스템을 구축하는 개발자에게 유용한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47085061",
+    "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
+    "url": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47085061",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-02-20T07:59:21+00:00",
+    "ai_summary": "통계적 가설 검정 방법 중 하나인 일반화된 순차 확률 비율 검정(GSPRT)에 대한 학술 논문입니다. 여러 가설군에 대한 효율적인 통계적 의사결정 과정을 다룹니다. 고급 데이터 과학 및 기계 학습 모델 평가 연구에 활용될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47121539",
+    "title": "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
+    "url": "https://github.com/JeffBezanson/femtolisp",
+    "discussion_url": "https://news.ycombinator.com/item?id=47121539",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-02-23T12:38:54+00:00",
+    "ai_summary": "가볍고 견고한 Scheme 계열의 Lisp 언어 구현체인 femtolisp를 소개합니다. 임베디드 시스템이나 스크립팅 등 다양한 환경에서 활용 가능한 특징을 가집니다. 언어 설계 및 구현에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47076789",
+    "title": "Emulating Goto in Scheme with Continuations",
+    "url": "https://terezi.pyrope.net/ccgoto/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47076789",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-02-19T17:58:27+00:00",
+    "ai_summary": "Scheme 언어에서 Continuation을 사용하여 `goto`와 유사한 제어 흐름을 구현하는 방법을 설명합니다. 함수형 프로그래밍의 고급 기능인 Continuation의 활용법을 깊이 있게 다룹니다. 언어의 내부 동작 및 고급 제어 구조에 관심 있는 개발자에게 적합합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47119871",
+    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+    "url": "https://llm-timeline.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47119871",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-02-23T09:07:44+00:00",
+    "ai_summary": "트랜스포머부터 최신 GPT 모델까지 171개 LLM의 발전 과정을 정리한 AI 타임라인 프로젝트입니다. LLM의 역사와 주요 기술 발전을 한눈에 파악할 수 있는 유용한 자료를 제공합니다. AI/ML 및 LLM 개발자들에게 필수적인 정보입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47122789",
+    "title": "The peculiar case of Japanese web design (2022)",
+    "url": "https://sabrinas.space",
+    "discussion_url": "https://news.ycombinator.com/item?id=47122789",
+    "summary": "",
+    "score": 208,
+    "published_at": "2026-02-23T14:28:39+00:00",
+    "ai_summary": "이 기사는 일본 웹 디자인의 독특한 특징과 문화적 배경을 분석합니다.\n서양 웹 디자인과 비교하여 시각적 복잡성, 정보 밀도, 사용자 경험의 차이를 설명합니다.\n이러한 디자인 패턴이 일본 사용자들의 선호도와 기술 환경에 어떻게 부합하는지 탐구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/microsoft-develops-copilot-advisors-to-debate-on-any-topic/",
+    "title": "Microsoft develops Copilot Advisors to debate on any topic (2 minute read)",
+    "url": "https://www.testingcatalog.com/microsoft-develops-copilot-advisors-to-debate-on-any-topic/",
+    "discussion_url": "https://www.testingcatalog.com/microsoft-develops-copilot-advisors-to-debate-on-any-topic/",
+    "summary": "Microsoft is developing Copilot Advisors for debating any topic using AI personas like legal or finance experts. Users choose two agents who argue with distinct voices, possibly with animated portraits. This feature aims to enhance individual analysis and decision-making by presenting strong cases from both sides.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "Microsoft Copilot Advisors는 AI 페르소나를 활용해 어떤 주제든 토론할 수 있게 개발 중입니다. 두 AI 에이전트가 각자의 관점에서 논쟁하며 사용자 분석 및 의사결정을 돕는 것이 목표입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/anthropicai/status/2024210053369385192",
+    "title": "Anthropic Research: Measuring AI Agent Autonomy in Practice (1 minute read)",
+    "url": "https://x.com/anthropicai/status/2024210053369385192",
+    "discussion_url": "https://x.com/anthropicai/status/2024210053369385192",
+    "summary": "Anthropic announced the release of its improved Claude LLM, focusing on enhanced safety and performance. The update includes better handling of complex queries and increased integration capabilities for businesses. This aims to provide improved utility in various professional applications.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "Anthropic은 안전성 및 성능이 향상된 Claude LLM을 출시했습니다. 복잡한 쿼리 처리 능력과 비즈니스 통합 기능이 강화되어 다양한 전문 분야에서 활용도가 높아질 것으로 기대됩니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/claude-code-security",
+    "title": "Claude Code Security Research Preview (8 minute read)",
+    "url": "https://www.anthropic.com/news/claude-code-security",
+    "discussion_url": "https://www.anthropic.com/news/claude-code-security",
+    "summary": "Anthropic introduced Claude Code Security in a limited research preview, enabling automated scans of codebases to surface context-dependent vulnerabilities and propose targeted patches for human review.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "Anthropic은 코드베이스 취약점을 자동 스캔하고 패치를 제안하는 Claude Code Security 연구 프리뷰를 공개했습니다. 개발자의 코드 보안 작업을 지원하는 데 초점을 맞추고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/koylanai/status/2025286163641118915?s=12",
+    "title": "The File System Is the New Database: How I Built a Personal OS for AI Agents (21 minute read)",
+    "url": "https://x.com/koylanai/status/2025286163641118915?s=12",
+    "discussion_url": "https://x.com/koylanai/status/2025286163641118915?s=12",
+    "summary": "Personal Brain OS is a file-based personal operating system that lives inside a Git repository designed to stop agents from forgetting important context information. It contains everything the AI assistant needs to recreate users' voice, brand, goals, content pipeline, research, and more. This article discusses how Personal Brain OS was built, why the architectural decisions matter, and the lessons the developer learned the hard way. The full architecture is available for anyone to clone and mak",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "이 기사는 Git 기반 파일 시스템을 활용하여 AI 에이전트의 컨텍스트 손실을 방지하는 개인 OS를 구축한 개발 경험을 다룹니다. AI 에이전트 아키텍처 및 개발 과정에서 배운 점들이 공유됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
+    "title": "Why Developers Keep Choosing Claude Over Every Other AI (6 minute read)",
+    "url": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
+    "discussion_url": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
+    "summary": "Developers keep choosing Claude Code because the alternatives keep failing them in the same way. Generating correct code is a major part of the job, but it isn't everything. Agents still need to edit files without corrupting the surrounding code, read the right files before making changes, complete multistep tasks without losing threads halfway through, know when to ask questions, and more, something no other coding agent does consistently. Claude Code stays on track more than other tools, makin",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "개발자들이 Claude Code를 선호하는 이유는 다른 AI들이 코드 편집, 다단계 작업 처리, 컨텍스트 관리 등에서 실패하기 때문입니다. Claude는 이러한 작업들을 일관되게 처리하여 개발자들에게 더 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ampcode.com/news/the-coding-agent-is-dead",
+    "title": "The Coding Agent Is Dead (3 minute read)",
+    "url": "https://ampcode.com/news/the-coding-agent-is-dead",
+    "discussion_url": "https://ampcode.com/news/the-coding-agent-is-dead",
+    "summary": "The current generation of coding agents isn't the future. The newest models can be powerful with nearly any tool thrown at them, with bash often being enough. Codebase organization is now the bottleneck. Amp plans to kill the Amp editor extensions for VS Code and Cursor on March 5. It will continue to work on the Amp CLI, which is flexible, light, easy to change, and can be run anywhere at anytime.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "현 세대 코딩 에이전트는 한계에 부딪혔으며, 코드베이스 구성이 병목 지점입니다. Amp는 VS Code 확장 기능을 중단하고 유연한 CLI 도구에 집중하여 개발자 워크플로우를 개선할 예정입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/first-proof-submissions/",
+    "title": "OpenAI First Proof Submissions (4 minute read)",
+    "url": "https://openai.com/index/first-proof-submissions/",
+    "discussion_url": "https://openai.com/index/first-proof-submissions/",
+    "summary": "OpenAI detailed its end-to-end proof attempts on all ten First Proof research problems, a domain-specific challenge designed to test whether AI systems can produce fully checkable mathematical arguments. The post outlined evaluation feedback from field experts, revisions to earlier correctness claims, and included a preprint with all proofs plus an appendix documenting prompt patterns used to simulate iterative human–model collaboration.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "OpenAI는 AI 시스템의 수학적 추론 능력을 테스트하는 First Proof 문제 해결 시도를 상세히 공개했습니다. 전문가 피드백과 프롬프트 패턴 기록 등 AI 모델의 증명 생성 과정과 결과를 공유합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2602.16928",
+    "title": "AlphaEvolve Discovers New Multi-Agent Learning Algorithms (26 minute read)",
+    "url": "https://arxiv.org/abs/2602.16928",
+    "discussion_url": "https://arxiv.org/abs/2602.16928",
+    "summary": "Using an evolutionary coding agent powered by large language models, the work automatically generated new algorithms for imperfect-information games across CFR and PSRO paradigms. The discovered VAD-CFR and SHOR-PSRO variants introduced adaptive discounting and hybrid optimistic meta-solvers, showing improved empirical convergence over strong baselines.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "AlphaEvolve는 LLM 기반 진화 코딩 에이전트를 사용하여 새로운 다중 에이전트 학습 알고리즘을 발견했습니다. 이는 기존 베이스라인보다 향상된 수렴을 보이는 새로운 알고리즘들을 자동 생성했습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://winbuzzer.com/2026/02/21/chatgpt-ads-now-appearing-first-prompt-free-users-openai-xcxwbn/",
+    "title": "ChatGPT Ads Now Hit on Your Very First Message (7 minute read)",
+    "url": "https://winbuzzer.com/2026/02/21/chatgpt-ads-now-appearing-first-prompt-free-users-openai-xcxwbn/",
+    "discussion_url": "https://winbuzzer.com/2026/02/21/chatgpt-ads-now-appearing-first-prompt-free-users-openai-xcxwbn/",
+    "summary": "OpenAI is now testing ads in ChatGPT for Free and Go users in the US, with companies like Expedia and Qualcomm appearing after a user's first message. The beta charges $60 CPM with a $200,000 minimum investment, only including large-budget brands, and excludes paid subscribers.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "OpenAI는 ChatGPT 무료 및 Go 사용자에게 광고를 테스트 중이며, 첫 메시지 이후 Expedia 등 대형 브랜드 광고가 노출됩니다. 이는 유료 구독자를 제외한 대규모 예산 브랜드만 대상으로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://greenido.wordpress.com/2026/02/21/leveraging-openclaw-as-a-web-developer/",
+    "title": "Leveraging OpenClaw as a Web Developer (7 minute read)",
+    "url": "https://greenido.wordpress.com/2026/02/21/leveraging-openclaw-as-a-web-developer/",
+    "discussion_url": "https://greenido.wordpress.com/2026/02/21/leveraging-openclaw-as-a-web-developer/",
+    "summary": "Web developers can integrate OpenClaw to automate repetitive tasks like scaffolding routes, generating tests, and updating documentation directly from natural‑language prompts. Developers with domain context can teach OpenClaw project‑specific patterns that improve code quality and consistency without manual intervention.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "OpenClaw는 웹 개발자가 자연어 프롬프트로 라우트 스캐폴딩, 테스트 생성, 문서 업데이트 등 반복 작업을 자동화할 수 있게 합니다. 개발자는 프로젝트별 패턴을 가르쳐 코드 품질과 일관성을 높일 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mesuvash.github.io/blog/2026/rl_for_llm/",
+    "title": "Reinforcement Learning for LLMs (25 minute read)",
+    "url": "https://mesuvash.github.io/blog/2026/rl_for_llm/",
+    "discussion_url": "https://mesuvash.github.io/blog/2026/rl_for_llm/",
+    "summary": "A look at the surprisingly simple underlying principles of reinforcement learning.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "이 기사는 LLM의 핵심 원리 중 하나인 강화 학습의 놀랍도록 단순한 기본 원칙들을 설명합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "title": "Why is Claude an Electron App? (5 minute read)",
+    "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "discussion_url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "summary": "Claude is an Electron app because developer familiarity and simpler maintainability across multiple platforms are worth the tradeoffs.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "Claude가 Electron 앱인 이유는 개발자 친숙도와 여러 플랫폼에서의 유지보수 용이성 때문입니다. 이는 기술적 트레이드오프를 감수할 가치가 있다고 판단되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/",
+    "title": "Which web frameworks are most token-efficient for AI agents? (7 minute read)",
+    "url": "https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/",
+    "discussion_url": "https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/",
+    "summary": "Minimal API web frameworks are far quicker and more cost-effective for agents to work with.",
+    "score": 0,
+    "published_at": "2026-02-23T23:35:08+00:00",
+    "ai_summary": "AI 에이전트의 작업 효율성을 위해 최소 API 웹 프레임워크가 훨씬 빠르고 비용 효율적입니다. 이는 토큰 사용량에 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  }
+]
