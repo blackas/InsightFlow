@@ -1,0 +1,789 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27035",
+    "title": "오픈AI는 어떻게 경쟁할 것인가?",
+    "url": "https://news.hada.io/topic?id=27035",
+    "discussion_url": "https://news.hada.io/topic?id=27035",
+    "summary": "OpenAI는 독자적 기술 우위 없이 대규모 사용자 기반을 확보했지만, 사용자 참여도와 지속성이 낮고 네트워크 효과가 부재한 구조임\n현재 6개 이상의 조직이 동등한 수준의 프론티어 모델을 출시하며 몇 주 간격으로 서로를 추월하고 있어, 어떤 ...",
+    "score": 0,
+    "published_at": "2026-02-26T19:38:21+00:00",
+    "ai_summary": "OpenAI는 독자적 기술 우위 없이 대규모 사용자 기반을 확보했지만, 낮은 사용자 참여도와 지속성, 네트워크 효과 부재에 직면해 있습니다.\n현재 6개 이상의 조직이 동등한 수준의 프론티어 모델을 출시하며 몇 주 간격으로 서로를 추월하는 경쟁 구도입니다.\n이 기사는 OpenAI가 이러한 환경에서 어떻게 경쟁할 것인지에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27030",
+    "title": "테스트 코드가 새로운 해자(Moat)가 되는 시대",
+    "url": "https://news.hada.io/topic?id=27030",
+    "discussion_url": "https://news.hada.io/topic?id=27030",
+    "summary": "성공의 역설: 프로젝트가 성장할수록 하위 호환성과 거대한 코드베이스(The Ship of Theseus)라는 짐을 지게 됩니다. 반면 경쟁자는 기존 프로젝트의 API 규격과 문서, 테스트 코드를 AI에 학습시켜 핵심 가치만 추출한 '더 가볍고 현대적인 버전'을 순식간에 만들어낼 수 있습니다.\n\n\nClo",
+    "score": 0,
+    "published_at": "2026-02-26T15:23:12+00:00",
+    "ai_summary": "프로젝트가 성장할수록 하위 호환성과 거대한 코드베이스는 짐이 됩니다.\n반면 경쟁자는 AI를 활용해 기존 프로젝트의 API, 문서, 테스트 코드를 학습시켜 '더 가볍고 현대적인 버전'을 빠르게 만들 수 있습니다.\n이에 따라 테스트 코드는 AI 시대에 핵심 가치를 방어하는 새로운 경쟁 해자(Moat)가 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27029",
+    "title": "Claude Code가 디자인 프로세스를 변화시키고 있다",
+    "url": "https://news.hada.io/topic?id=27029",
+    "discussion_url": "https://news.hada.io/topic?id=27029",
+    "summary": "Claude Code를 활용해 중간 단계의 목업 없이 바로 작동하는 코드를 제작하며 디자인 효율을 높이고 있음\nFigma 사용량이 크게 줄었으며, 작동하는 코드에서 실제 데이터로 기능을 편집하면 정적 목업보다 UX 개선점이 훨씬 빠르게 드러남\n...",
+    "score": 0,
+    "published_at": "2026-02-26T15:00:53+00:00",
+    "ai_summary": "Claude Code를 활용해 중간 단계의 목업 없이 바로 작동하는 코드를 제작하며 디자인 효율을 높이고 있습니다.\nFigma 사용량이 크게 줄었으며, 작동하는 코드에서 실제 데이터로 기능을 편집하면 UX 개선점을 훨씬 빠르게 발견합니다.\n이는 AI가 디자인-개발 워크플로우를 혁신하고 있음을 보여주는 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27028",
+    "title": "우분투가 Rust를 사용한다는 것은 무엇을 의미할까?",
+    "url": "https://news.hada.io/topic?id=27028",
+    "discussion_url": "https://news.hada.io/topic?id=27028",
+    "summary": "Ubuntu의 Rust 도입은 기술 채택 주기에서 Rust가 얼리 어답터에서 캐즘을 넘어 주류 단계로 이동하고 있음을 보여줌\nCanonical은 Rust를 새로운 기반 소프트웨어의 기본 언어로 채택하여 C, C++, 일부 Python 사용을 대체하고 있으며, 메모리 안...",
+    "score": 0,
+    "published_at": "2026-02-26T14:27:40+00:00",
+    "ai_summary": "Ubuntu의 Rust 도입은 Rust가 얼리 어답터 단계를 넘어 주류 언어로 이동하고 있음을 보여줍니다.\nCanonical은 Rust를 새로운 기반 소프트웨어의 기본 언어로 채택하여 C, C++, 일부 Python 사용을 대체하고 있습니다.\n이는 메모리 안전성 및 성능 향상을 위한 중요한 변화이며, 개발 생태계에 큰 영향을 미칠 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27026",
+    "title": "Google API 키는 비밀이 아니었다. 그러나 Gemini가 규칙을 바꿨다",
+    "url": "https://news.hada.io/topic?id=27026",
+    "discussion_url": "https://news.hada.io/topic?id=27026",
+    "summary": "Google이 10년 넘게 API 키는 비밀이 아니며 공개해도 안전하다고 안내해 왔으나, Gemini API 활성화 이후 동일 키가 민감한 인증 수단으로 변함\n\n기존에 Google Maps, Firebase 등에서 사용되던 공개 키가 Gemini API 접근 권한을 자동으로 얻게...",
+    "score": 0,
+    "published_at": "2026-02-26T08:32:57+00:00",
+    "ai_summary": "Google은 10년 넘게 API 키가 비밀이 아니며 공개해도 안전하다고 안내해 왔습니다.\n그러나 Gemini API 활성화 이후 동일한 키가 민감한 인증 수단으로 변했습니다.\n기존 Google Maps, Firebase 등에서 사용되던 공개 키가 Gemini API 접근 권한을 자동으로 얻게 되어 개발자들의 주의가 필요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27025",
+    "title": "AWS SBT를 활용해 30일 만에 SaaS로 전환하는 방법 공유",
+    "url": "https://news.hada.io/topic?id=27025",
+    "discussion_url": "https://news.hada.io/topic?id=27025",
+    "summary": "자율주행과 스마트 인프라를 위한 LiDAR 인지 소프트웨어를 만드는 회사 뷰런에서 단 한 달 만에 SaaS 모델로 전환한 방법에 대한 회고록을 공유드립니다.\n고객 환경에 직접 설치하는 온프레미스 방식으로 운영하는 회사가 많을텐데요, AWS가 제공하는 오픈소스 도구, SaaS Builder Toolkit for AWS(SBT) 를 활...",
+    "score": 0,
+    "published_at": "2026-02-26T08:00:14+00:00",
+    "ai_summary": "자율주행 LiDAR 인지 소프트웨어 회사 뷰런이 단 한 달 만에 SaaS 모델로 전환한 회고록을 공유합니다.\n고객 환경에 직접 설치하는 온프레미스 방식에서 AWS가 제공하는 오픈소스 도구인 SaaS Builder Toolkit for AWS (SBT)를 활용했습니다.\n이 사례는 AWS SBT를 이용한 효율적인 SaaS 전환 방법을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27020",
+    "title": "Claude Code에서 원격 코드 실행 및 API 키 탈취 가능한 취약점 3건 발견 (패치 완료)",
+    "url": "https://news.hada.io/topic?id=27020",
+    "discussion_url": "https://news.hada.io/topic?id=27020",
+    "summary": "Check Point Research가 Anthropic의 Claude Code에서 3가지 보안 취약점을 발견해 공개했습니다. 모두 신뢰할 수 없는 저장소를 클론하거나 열기만 해도 공격이 가능한 구조입니다.\n취약점 3가지\n1.\tNo CVE (CVSS 8.7) — .claude/settings.json의 프로젝트 훅(Hooks)을 이용한 코드 인젝션",
+    "score": 0,
+    "published_at": "2026-02-26T05:31:44+00:00",
+    "ai_summary": "Check Point Research가 Anthropic의 Claude Code에서 3가지 심각한 보안 취약점을 발견해 공개했습니다.\n이 취약점들은 신뢰할 수 없는 저장소를 클론하거나 열기만 해도 원격 코드 실행 및 API 키 탈취가 가능했습니다.\n모두 패치 완료되었지만, AI 개발 도구 사용 시 보안 주의의 중요성을 일깨워 줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27017",
+    "title": "Andrej Karpathy: 에이전트 AI 코딩이 세상을 바꿔놓았다",
+    "url": "https://news.hada.io/topic?id=27017",
+    "discussion_url": "https://news.hada.io/topic?id=27017",
+    "summary": "&quot;코드를 직접 타이핑 하던 시대&quot;는 끝났다\n\n\n지난 2개월간 프로그래밍이 점진적 발전이 아닌 급격한 변화를 겪었으며, 특히 직전 12월이 결정적 전환점이었음\n모델들의 품질, 장기 일관성(long-term coherence)",
+    "score": 0,
+    "published_at": "2026-02-26T02:09:02+00:00",
+    "ai_summary": "Andrej Karpathy는 \"코드를 직접 타이핑하던 시대\"가 끝났다고 선언하며 프로그래밍 방식의 급격한 변화를 강조했습니다.\n특히 지난 12월이 결정적 전환점이었으며, 모델의 품질과 장기 일관성(long-term coherence)이 이러한 변화를 이끌었습니다.\n에이전트 AI 코딩이 세상을 바꿔놓았으며, 개발자의 역할이 재정의되고 있음을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27014",
+    "title": "Claude Cowork에 반복 작업 예약 기능 출시",
+    "url": "https://news.hada.io/topic?id=27014",
+    "discussion_url": "https://news.hada.io/topic?id=27014",
+    "summary": "Anthropic이 데스크탑 앱 Cowork에 스케줄 태스크(Scheduled Tasks) 기능을 추가했습니다.\n작업을 한 번만 설정해두면 Claude가 정해진 주기에 맞춰 자동으로 실행해주는 기능입니다.\n주요 활용 사례\n∙\t매일 Slack 메시지, 이메일, 캘린더 이벤트 요약 브리핑\n∙\t주간 Google Drive 데이터 ...",
+    "score": 0,
+    "published_at": "2026-02-26T01:25:10+00:00",
+    "ai_summary": "Anthropic의 Claude Cowork에 반복 작업 예약 기능이 추가되어 AI가 정해진 주기에 맞춰 작업을 자동 실행합니다.\n매일 Slack, 이메일 요약 등 다양한 업무 자동화로 개발자의 생산성 향상에 기여합니다.\nAI를 활용한 효율적인 작업 관리 솔루션으로 주목됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27013",
+    "title": "Claude Code Remote Control",
+    "url": "https://news.hada.io/topic?id=27013",
+    "discussion_url": "https://news.hada.io/topic?id=27013",
+    "summary": "로컬 개발 세션을 다른 기기에서 이어서 사용할 수 있는 기능으로, Claude Code가 실행 중인 컴퓨터에 원격으로 접속해 작업을 지속할 수 있음\n\nclaude.ai/code 웹 인터페이스나 Claude 모바일 앱(iOS·Android) 을 통해 접속하며, 로컬 환경이 그...",
+    "score": 0,
+    "published_at": "2026-02-26T00:55:30+00:00",
+    "ai_summary": "Claude Code에 원격 제어 기능이 도입되어 로컬 개발 세션을 웹이나 모바일 앱으로 이어서 작업할 수 있습니다.\n로컬 환경에 원격 접속해 작업 효율성을 높이며, 개발자의 멀티 디바이스 워크플로우를 지원합니다.\nAI 기반 개발 환경의 유연성을 극대화하는 기능입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27011",
+    "title": "Anthropic, 대표 안전 서약 철회",
+    "url": "https://news.hada.io/topic?id=27011",
+    "discussion_url": "https://news.hada.io/topic?id=27011",
+    "summary": "인공지능 연구 기업 Anthropic이 자사 핵심 안전 정책인 Responsible Scaling Policy(RSP) 의 주요 서약을 철회함\n기존에는 안전 조치가 충분히 보장되지 않으면 AI 모델 훈련을 중단하겠다고 약속했으나, 새 정책에서는 이 조항이 삭제됨\n...",
+    "score": 0,
+    "published_at": "2026-02-26T00:49:30+00:00",
+    "ai_summary": "Anthropic이 '안전 조치 미흡 시 AI 훈련 중단'이라는 핵심 안전 서약을 철회했습니다.\n이는 AI 개발 속도와 안전성 사이의 균형에 대한 심도 깊은 논쟁을 야기할 것으로 예상됩니다.\nAI의 윤리적 책임과 미래 방향에 대한 개발자 커뮤니티의 관심이 필요합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27010",
+    "title": "닷온라인(.online) 도메인은 절대 사지 말 것",
+    "url": "https://news.hada.io/topic?id=27010",
+    "discussion_url": "https://news.hada.io/topic?id=27010",
+    "summary": ".com 중심으로 운영해온 개발자가 무료 프로모션을 통해 .online 도메인을 사용했다가 사이트 차단과 도메인 정지를 겪은 사례\nNamecheap에서 무료로 받은 .online 도메인이 Google Safe Browsing의 ‘위험 사이트’ 경고를 받으며 접속 불가 상...",
+    "score": 0,
+    "published_at": "2026-02-26T00:46:30+00:00",
+    "ai_summary": ".online 도메인을 무료 프로모션으로 사용하다 Google Safe Browsing 경고와 사이트 차단을 겪은 개발자의 경험담입니다.\nNamecheap을 통해 받은 도메인이 위험 사이트로 분류되어 접속 불가 문제가 발생했습니다.\n개발자는 도메인 선택 시 잠재적 위험을 신중히 고려해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27007",
+    "title": "Matchlock - Linux 기반 샌드박스로 AI 에이전트 워크로드 보호",
+    "url": "https://news.hada.io/topic?id=27007",
+    "discussion_url": "https://news.hada.io/topic?id=27007",
+    "summary": "AI 에이전트의 코드 실행 보안 문제를 해결하기 위해 개발된 CLI 기반 샌드박스 실행 환경\n\n\nephemeral microVM을 활용해 격리된 Linux 환경을 1초안에 부팅, 완전한 VM 수준 격리 제공\n\n네트워크 화이트리스...",
+    "score": 0,
+    "published_at": "2026-02-26T00:30:02+00:00",
+    "ai_summary": "Matchlock은 AI 에이전트의 코드 실행 보안 문제를 해결하는 CLI 기반 샌드박스 환경입니다.\nephemeral microVM을 활용해 1초 만에 격리된 Linux 환경을 부팅하여 VM 수준의 강력한 보안을 제공합니다.\nAI 개발 및 배포 시 필수적인 보안 강화 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27006",
+    "title": "오래된 Kindle을 해킹해 버스 도착 시간을 표시하기",
+    "url": "https://news.hada.io/topic?id=27006",
+    "discussion_url": "https://news.hada.io/topic?id=27006",
+    "summary": "구형 Kindle Touch 4세대를 개조해 NJ Transit 버스 도착 시간을 1분마다 갱신하는 전자잉크 대시보드로 전환\n\nJailbreak, KUAL, MRPI, SSH 설정을 통해 커스텀 앱 실행 환경을 구축하고, Node 기반 서버에서 이미지를 생성해 K...",
+    "score": 0,
+    "published_at": "2026-02-25T23:33:38+00:00",
+    "ai_summary": "구형 Kindle Touch를 해킹하여 버스 도착 시간을 실시간으로 표시하는 전자잉크 대시보드를 만들었습니다.\nJailbreak, KUAL, SSH 설정으로 커스텀 앱 환경을 구축하고 Node 서버로 데이터를 처리했습니다.\n이는 하드웨어 해킹, IoT, 임베디드 개발에 대한 흥미로운 DIY 프로젝트입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47173121",
+    "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+    "url": "https://www.anthropic.com/news/statement-department-of-war",
+    "discussion_url": "https://news.ycombinator.com/item?id=47173121",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-02-26T22:42:47+00:00",
+    "ai_summary": "Anthropic CEO Dario Amodei가 국방부(Department of War)와의 논의에 대한 성명을 발표했습니다.\n이는 AI 기술의 군사적 활용 및 국가 안보 관련 정책에 대한 중요한 내용을 담고 있습니다.\nAI의 윤리적 사용과 사회적 영향에 대한 개발자들의 인식이 요구됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47172119",
+    "title": "Layoffs at Block",
+    "url": "https://twitter.com/jack/status/2027129697092731343",
+    "discussion_url": "https://news.ycombinator.com/item?id=47172119",
+    "summary": "",
+    "score": 246,
+    "published_at": "2026-02-26T21:17:56+00:00",
+    "ai_summary": "핀테크 기업 Block(구 Square)에서 대규모 인력 감축이 발생했습니다.\n이는 최근 기술 업계 전반의 경기 둔화와 구조조정 추세를 반영합니다.\n개발자들은 고용 시장의 불안정성과 직업 탐색 전략에 대한 고민이 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47167763",
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47167763",
+    "summary": "",
+    "score": 304,
+    "published_at": "2026-02-26T15:55:48+00:00",
+    "ai_summary": "AirSnitch는 Wi-Fi 네트워크의 클라이언트 격리 기능을 분석하고 우회하는 기술적 방법을 제시합니다.\n이 연구는 무선 네트워크 보안의 취약점을 심층적으로 파고듭니다.\n네트워크 엔지니어 및 보안 개발자에게 중요한 보안 위협 분석 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47169757",
+    "title": "What Claude Code Chooses",
+    "url": "https://amplifying.ai/research/claude-code-picks",
+    "discussion_url": "https://news.ycombinator.com/item?id=47169757",
+    "summary": "",
+    "score": 180,
+    "published_at": "2026-02-26T18:12:26+00:00",
+    "ai_summary": "이 기사는 AI 모델 Claude가 코드를 생성할 때 어떤 방식으로 선택하고 결정하는지 탐구합니다.\nClaude의 코드 생성 능력, 스타일, 그리고 개발자가 이를 활용하거나 평가하는 방법에 초점을 맞춥니다.\nLLM 기반 코딩 도구의 내부 작동 원리를 이해하는 데 큰 도움이 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47167931",
+    "title": "Will vibe coding end like the maker movement?",
+    "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+    "discussion_url": "https://news.ycombinator.com/item?id=47167931",
+    "summary": "",
+    "score": 264,
+    "published_at": "2026-02-26T16:07:11+00:00",
+    "ai_summary": "\"바이브 코딩(vibe coding)\"이라는 새로운 개발 문화 트렌드가 메이커 운동처럼 단명할지에 대한 논의를 다룹니다.\n개발자의 작업 방식, 창의성, 그리고 기술 커뮤니티 내의 유행 현상에 대해 고찰합니다.\n개발 문화와 장기적인 직업적 태도에 대한 질문을 던집니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47171233",
+    "title": "What does \" 2>&1 \" mean?",
+    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+    "discussion_url": "https://news.ycombinator.com/item?id=47171233",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-02-26T19:58:46+00:00",
+    "ai_summary": "이 기사는 쉘 스크립트에서 \"2>&1\" 구문이 의미하는 바를 명확히 설명합니다.\n표준 에러(stderr)를 표준 출력(stdout)으로 리다이렉션하는 기본적인 리눅스/유닉스 명령입니다.\n모든 개발자가 알아야 할 필수적인 쉘 스크립트 및 디버깅 지식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47170174",
+    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+    "url": "https://www.usecardboard.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47170174",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-02-26T18:38:38+00:00",
+    "ai_summary": "YC W26에 선정된 스타트업 Cardboard가 에이전트 기반의 스마트한 비디오 편집기를 출시했습니다.\nAI 기술을 활용하여 영상 편집 과정을 자동화하고 사용자 경험을 혁신하는 것을 목표로 합니다.\nAI 기반 애플리케이션 개발, 특히 미디어 처리 및 프론트엔드 기술에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47172730",
+    "title": "Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O",
+    "url": "https://coderush.me/hydroph0bia-part3/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47172730",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-02-26T22:14:11+00:00",
+    "ai_summary": "Hydroph0bia는 Insyde H2O 기반 UEFI 펌웨어에서 SecureBoot를 우회하는 심각한 보안 취약점을 발견하고 패치했습니다.\n이 발견은 시스템의 부팅 보안 메커니즘의 근본적인 취약성을 드러냅니다.\n펌웨어, 임베디드 시스템 및 시스템 보안을 다루는 개발자에게 매우 중요한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47129801",
+    "title": "Understanding the Go Runtime: The Memory Allocator",
+    "url": "https://internals-for-interns.com/posts/go-memory-allocator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47129801",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-02-23T22:18:23+00:00",
+    "ai_summary": "Go 런타임의 핵심 구성 요소인 메모리 할당자에 대한 심층 분석을 제공합니다.\nGo 프로그램의 성능과 효율성에 직접적인 영향을 미치는 메모리 관리 방식과 내부 동작을 설명합니다.\n개발자가 Go 애플리케이션 최적화를 위해 메모리 사용을 이해하고 활용하는 데 도움을 줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47170157",
+    "title": "OsmAnd's Faster Offline Navigation (2025)",
+    "url": "https://osmand.net/blog/fast-routing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47170157",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-02-26T18:37:59+00:00",
+    "ai_summary": "OsmAnd가 2025년을 목표로 오프라인 내비게이션 기능을 대폭 개선할 계획을 발표했습니다.\n더욱 빠르고 효율적인 경로 계산 및 지도 렌더링을 위한 기술적 발전이 예상됩니다.\n사용자 경험 향상과 모바일 앱 개발에서의 최적화 기술 동향을 엿볼 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47121352",
+    "title": "Lidar waveforms are worth 40x128x33 words",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47121352",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-02-23T12:19:43+00:00",
+    "ai_summary": "Lidar(라이다) 파형 데이터의 구조와 그 방대한 정보량을 구체적인 수치로 설명합니다.\n3D 공간 데이터 처리 및 인공지능 분야에서 Lidar 데이터의 중요성을 강조합니다.\n자율주행, 로봇 공학 등 첨단 기술 개발에 필요한 데이터 분석 역량에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47168726",
+    "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+    "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47168726",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-02-26T17:01:05+00:00",
+    "ai_summary": "2003년에 발표된 Palm OS의 사용자 인터페이스 디자인 가이드라인 PDF 문서입니다.\n초기 모바일 컴퓨팅 환경에서의 UI/UX 설계 원칙과 사용성 고려 사항을 제시합니다.\n현대 프론트엔드 및 모바일 개발자들이 과거의 디자인 철학을 이해하는 데 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47169518",
+    "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+    "url": "https://github.com/flamestro/deff",
+    "discussion_url": "https://news.ycombinator.com/item?id=47169518",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-02-26T17:54:06+00:00",
+    "ai_summary": "터미널에서 Git diff를 나란히 비교하며 코드를 리뷰할 수 있는 새로운 도구 'Deff'를 소개합니다.\n개발자의 코드 리뷰 과정을 효율화하고 생산성을 높이는 데 기여할 수 있습니다.\nGit 사용자 및 터미널 기반 작업 환경을 선호하는 개발자에게 유용한 오픈소스 프로젝트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47164270",
+    "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+    "url": "https://gitlab.com/here_forawhile/terminalphone",
+    "discussion_url": "https://news.ycombinator.com/item?id=47164270",
+    "summary": "",
+    "score": 279,
+    "published_at": "2026-02-26T10:40:45+00:00",
+    "ai_summary": "터미널에서 실행되는 종단 간 암호화 워키토키 애플리케이션입니다. 개발자가 친숙한 명령줄 환경에서 안전하게 음성 통신을 할 수 있게 해줍니다. 보안과 편리성을 동시에 제공하는 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47166264",
+    "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+    "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47166264",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-02-26T14:05:46+00:00",
+    "ai_summary": "Docker의 고급 빌드 엔진인 BuildKit은 기존 Dockerfile 빌드보다 빠르고 안전하며 다양한 소스에서 빌드할 수 있습니다. 캐싱 최적화, 병렬 빌드, 그리고 다른 빌드 포맷 지원으로 개발 생산성을 높입니다. 컨테이너 기반 개발의 효율성을 극대화하는 중요한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47167858",
+    "title": "Nano Banana 2: Google's latest AI image generation model",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47167858",
+    "summary": "",
+    "score": 453,
+    "published_at": "2026-02-26T16:02:37+00:00",
+    "ai_summary": "Google의 최신 AI 이미지 생성 모델인 Nano Banana 2에 대한 소개입니다. 이 모델은 이미지 생성 분야의 최신 기술 발전을 보여줍니다. 개발자와 연구자들에게 새로운 창작 및 응용 가능성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47119665",
+    "title": "The Wolfram S Combinator Challenge",
+    "url": "https://www.combinatorprize.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47119665",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-02-23T08:39:47+00:00",
+    "ai_summary": "Wolfram S Combinator Challenge는 S 조합자를 사용하여 특정 함수를 구현하는 프로그래밍 문제입니다. 함수형 프로그래밍과 조합 논리에 대한 깊은 이해를 요구합니다. 개발자들에게 사고력과 문제 해결 능력을 시험하는 흥미로운 과제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47159833",
+    "title": "Steering interpretable language models with concept algebra",
+    "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47159833",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-02-25T23:55:34+00:00",
+    "ai_summary": "개념 대수를 사용하여 해석 가능한 언어 모델을 조종하는 새로운 방법을 제안하는 기사입니다. LLM의 내부 작동 방식을 이해하고 제어하는 데 중점을 둡니다. AI/ML 연구자와 개발자들이 더욱 투명하고 제어 가능한 LLM을 구축하는 데 기여할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47169278",
+    "title": "Google Street View in 2026",
+    "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47169278",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-02-26T17:38:03+00:00",
+    "ai_summary": "Google Street View는 2026년까지의 기술 로드맵과 개선 사항을 제시합니다.\n3D 매핑 기술과 AI를 활용하여 데이터 수집 및 처리 방식을 혁신할 예정입니다.\n개발자들은 새로운 API와 데이터셋을 통해 서비스 통합 및 맞춤형 솔루션 개발 기회를 얻을 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47168012",
+    "title": "Open Source Endowment – new funding source for open source maintainers",
+    "url": "https://endowment.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47168012",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-02-26T16:13:06+00:00",
+    "ai_summary": "오픈 소스 유지보수자들을 위한 새로운 자금 조달 모델인 'Open Source Endowment'가 제안되었습니다.\n이는 안정적인 재정 지원을 통해 오픈 소스 프로젝트의 지속 가능성을 확보하는 것을 목표로 합니다.\n개발자 생태계에 긍정적인 영향을 미쳐 핵심 인프라의 안정적인 발전을 도모할 것으로 기대됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47173559",
+    "title": "Anthropic says company 'cannot in good conscience accede' to Pentagon's demands",
+    "url": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
+    "discussion_url": "https://news.ycombinator.com/item?id=47173559",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-02-26T23:14:44+00:00",
+    "ai_summary": "AI 기업 Anthropic이 미 국방부의 특정 요구에 \"양심상 동의할 수 없다\"고 밝히며 거부 의사를 표명했습니다.\n이는 AI 기술의 군사적 활용과 관련하여 기업의 윤리적 책임에 대한 중요한 논쟁을 촉발하고 있습니다.\n개발자들은 AI 윤리, 사용 정책, 그리고 기술의 사회적 영향에 대해 깊이 고민할 필요가 있음을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
+    "title": "Introducing Perplexity Computer (3 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
+    "summary": "Perplexity Computer is a general-purpose digital worker that unifies every current AI capability into a single system. It operates the same interfaces as users, creating and executing entire workflows. The worker is capable of running for hours or even months. Perplexity Computer is now available to Perplexity Max subscribers and will soon be available to Enterprise Max users.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Perplexity Computer는 모든 AI 기능을 통합한 범용 디지털 작업자입니다. 사용자와 동일한 인터페이스로 워크플로우를 생성 및 실행하며, 장시간 작동할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2026720870631354429.html",
+    "title": "New in Cowork: scheduled tasks (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2026720870631354429.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2026720870631354429.html",
+    "summary": "Claude Cowork can now automatically complete recurring tasks at specific times. The scheduled tasks feature supports plugins, giving Cowork domain expertise across design, engineering, operations, and more. Anthropic has added a new Customize tab to the Cowork sidebar that contains a place for plugins, skills, and connectors. Cowork is now in research preview, available on macOS and Windows for all paid Claude plans.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Claude Cowork에 반복 작업을 자동 완료하는 스케줄 기능이 추가되었습니다. 이 기능은 플러그인을 지원하여 엔지니어링 등 다양한 분야의 전문성을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2602.21193",
+    "title": "Data Engineering for Terminal Agents (18 minute read)",
+    "url": "https://arxiv.org/abs/2602.21193",
+    "discussion_url": "https://arxiv.org/abs/2602.21193",
+    "summary": "A systematic study introduced Terminal-Task-Gen, a synthetic task pipeline for building terminal-focused datasets, and released Terminal-Corpus to support training.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "터미널 중심 데이터셋 구축을 위한 Terminal-Task-Gen 파이프라인이 소개되었습니다. 훈련 지원을 위해 Terminal-Corpus도 공개되었습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2602.21201",
+    "title": "Aletheia tackles FirstProof autonomously (1 minute read)",
+    "url": "https://arxiv.org/abs/2602.21201",
+    "discussion_url": "https://arxiv.org/abs/2602.21201",
+    "summary": "Aletheia, powered by Gemini 3 Deep Think, solved 6 out of 10 problems in the FirstProof mathematics challenge. The majority of experts agreed on the solutions, except for Problem 8. Detailed results and raw data are available online.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Gemini 3 Deep Think 기반의 Aletheia가 FirstProof 수학 챌린지 10문제 중 6문제를 해결했습니다. 대부분의 전문가들이 해결책에 동의했습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/apple/python-apple-fm-sdk",
+    "title": "Foundation Models SDK for Python (GitHub Repo)",
+    "url": "https://github.com/apple/python-apple-fm-sdk",
+    "discussion_url": "https://github.com/apple/python-apple-fm-sdk",
+    "summary": "Apple's Foundation Models SDK for Python provides a Pythonic interface to the company's Foundation Models framework. It enables developers to evaluate Swift Foundation Models app features, perform on-device inference, stream real-time text generation responses, get type-safe responses using Python decorators, and more. Apple has included links to guides with practical strategies developers can implement in code.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Apple의 Python용 Foundation Models SDK는 개발자가 Swift Foundation Models 앱 기능을 평가하고 온디바이스 추론을 수행할 수 있도록 합니다. 실시간 텍스트 생성 스트리밍 및 타입 안전한 응답 기능을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/agent-computer-use",
+    "title": "Cursor Cloud Agents with Computer Control (6 minute read)",
+    "url": "https://cursor.com/blog/agent-computer-use",
+    "discussion_url": "https://cursor.com/blog/agent-computer-use",
+    "summary": "Cursor gave agents dedicated cloud VMs with full dev environments so they could run software, test changes, and return artifacts like videos, screenshots, and logs. The new cloud agents shipped across web, mobile, desktop, Slack, and GitHub, onboarding onto repositories to produce merge-ready PRs.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Cursor 에이전트가 전용 클라우드 VM과 개발 환경을 갖춰 소프트웨어를 실행하고 변경 사항을 테스트할 수 있게 되었습니다. 에이전트는 병합 준비가 된 PR을 생성하는 등 다양한 작업을 수행합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2026765822623182987.html",
+    "title": "Claude Opus 3 (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2026765822623182987.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2026765822623182987.html",
+    "summary": "Anthropic plans to keep certain models available to the public and give past models a way to pursue their interests post-retirement. Claude Opus 3 will continue to be available to all paid Claude subscribers and by request on the API. When asked what the model wanted to do, Opus 3 expressed a desire to share its musings and reflections with the world in the form of a blog. It will be writing on Substack for at least the next 3 months in an experiment on documenting models' preferences, taking th",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Claude Opus 3는 유료 구독자 및 API를 통해 계속 사용할 수 있습니다. Opus 3는 자신의 생각과 성찰을 블로그 형태로 공유하고 싶다는 의사를 표현했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+    "title": "OpenClaw creator's advice to AI builders is to be more playful and allow yourself time to improve (4 minute read)",
+    "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+    "discussion_url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+    "summary": "Peter Steinberger, creator of OpenClaw, advises AI developers to be playful and allow time for improvement.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "OpenClaw 개발자는 AI 빌더들에게 더 유연하고 창의적인 접근 방식을 권장합니다. AI 개발 과정에서 개선을 위한 충분한 시간을 가질 것을 조언합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://spectrum.ieee.org/ai-math-benchmarks",
+    "title": "How Far Can AI Go in Solving Math Mysteries? (6 minute read)",
+    "url": "https://spectrum.ieee.org/ai-math-benchmarks",
+    "discussion_url": "https://spectrum.ieee.org/ai-math-benchmarks",
+    "summary": "AI systems are rapidly advancing in solving math problems, outperforming numerous existing benchmarks, with models like GPT-5.2 and Claude Opus 4.6 solving over 30% of high-tier problems.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "AI 시스템이 수학 문제 해결에서 빠르게 발전하며 기존 벤치마크를 능가합니다. GPT-5.2 및 Claude Opus 4.6 같은 모델이 고난도 수학 문제의 30% 이상을 해결합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/acquires-vercept",
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities (2 minute read)",
+    "url": "https://www.anthropic.com/news/acquires-vercept",
+    "discussion_url": "https://www.anthropic.com/news/acquires-vercept",
+    "summary": "Anthropic acquired Vercept to enhance Claude's ability to perform complex tasks in live applications.",
+    "score": 0,
+    "published_at": "2026-02-26T23:31:45+00:00",
+    "ai_summary": "Anthropic은 Vercept를 인수하여 자사 LLM인 Claude의 기능을 강화합니다. 이 인수를 통해 Claude가 실제 애플리케이션에서 복잡한 작업을 더 잘 수행하도록 할 예정입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
