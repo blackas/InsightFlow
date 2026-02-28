@@ -1,0 +1,585 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27087",
+    "title": "Google 직원들, 군사용 인공지능에 ‘레드라인’ 설정 요구…Anthropic의 움직임과 유사",
+    "url": "https://news.hada.io/topic?id=27087",
+    "discussion_url": "https://news.hada.io/topic?id=27087",
+    "summary": "Google 내부 직원들이 군사용 인공지능(AI) 프로젝트에 대한 명확한 윤리적 한계(레드라인) 설정을 요구함\n이들은 Pentagon(미 국방부) 과의 협력 확대에 우려를 표하며, AI의 군사적 활용 범위를 제한할 필요성을 제기함\n...",
+    "score": 0,
+    "published_at": "2026-02-28T19:32:58+00:00",
+    "ai_summary": "Google 직원들이 군사용 AI 프로젝트에 대한 윤리적 한계 설정을 요구하며 미 국방부와의 협력 확대에 우려를 표했습니다.\nAI의 군사적 활용 범위 제한 필요성을 제기하며, 개발자들이 직면할 수 있는 윤리적 딜레마를 시사합니다.\n이는 AI 개발 방향과 정책에 중요한 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27085",
+    "title": "트럼프 대통령, Anthropic 정부 사용 금지 후 OpenAI와 국방부 계약 체결",
+    "url": "https://news.hada.io/topic?id=27085",
+    "discussion_url": "https://news.hada.io/topic?id=27085",
+    "summary": "미국 정부가 Anthropic의 AI 기술 사용을 전면 중단하고, 국방부가 이를 국가안보 위험 기업으로 지정함\n발표 직후 OpenAI가 국방부와 기밀 네트워크용 AI 공급 계약을 체결하며 대체 공급자로 부상\nAnthropic은 자율무기와 국내...",
+    "score": 0,
+    "published_at": "2026-02-28T17:33:50+00:00",
+    "ai_summary": "미 정부는 Anthropic의 AI 기술 사용을 금지하고 국방부가 이를 국가안보 위험 기업으로 지정했습니다.\n이어서 OpenAI가 국방부와 기밀 네트워크용 AI 공급 계약을 체결하며 주요 대체 공급자로 부상했습니다.\n이는 AI 기업 간 경쟁과 정책 결정이 개발 생태계에 미치는 영향을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27084",
+    "title": "Show GN: ManiSurve – 10,000개 노드 NP 문제를 0.09초 만에 해결하는 다항 시간 엔진",
+    "url": "https://news.hada.io/topic?id=27084",
+    "discussion_url": "https://news.hada.io/topic?id=27084",
+    "summary": "직접 개발한 NP-Complete 문제 해결 엔진 ManiSurve v1.5를 공개합니다.\n본인은 아직 수학이랑 개발 분야에 숙련되지 않았기 때문에 틀린 부분이 있수도 있습니다. (글을 쓰는건 용어를 잘 몰라서 ai의 도움을 좀 받았습니다.)\n​기존의 이산적 충돌(Discrete conflicts)을 리만 다양체 위의 연속적인",
+    "score": 0,
+    "published_at": "2026-02-28T17:14:55+00:00",
+    "ai_summary": "개발자가 직접 만든 NP-Complete 문제 해결 엔진 'ManiSurve v1.5'가 공개되었습니다.\n10,000개 노드 문제를 0.09초 만에 해결하는 다항 시간 엔진으로, 기존의 이산적 충돌을 리만 다양체 위의 연속적인 방식으로 접근합니다.\n이는 고성능 알고리즘 개발에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27081",
+    "title": "TREX - Rust로 만든 PDF 테이블 추출 엔진 (딥러닝으로 정확도 개선)",
+    "url": "https://news.hada.io/topic?id=27081",
+    "discussion_url": "https://news.hada.io/topic?id=27081",
+    "summary": "PDF 테이블 추출을 위한 Rust 기반 오픈소스 엔진\n기존 파이썬 도구(Camelot, Tabula, pdfplumber)는 OpenCV, Ghostscript, Java 등 무거운 런타임 의존성이 필요하여 서버리스 환경에서 메모리 제약이 큼\nTREX는 단일 바이너리로 외부 의존성 없이 동작하며, 메모리 ~30MB로 Cloud Run/Lamb...",
+    "score": 0,
+    "published_at": "2026-02-28T14:52:42+00:00",
+    "ai_summary": "Rust로 개발된 오픈소스 PDF 테이블 추출 엔진 'TREX'가 공개되었습니다.\n기존 파이썬 도구들의 무거운 런타임 의존성을 해결하고, 단일 바이너리로 외부 의존성 없이 30MB 수준의 메모리로 서버리스 환경에 최적화되었습니다.\n딥러닝을 활용하여 정확도를 개선한 것이 특징입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27080",
+    "title": "JavaScript를 위한 더 나은 Streams API가 필요합니다",
+    "url": "https://news.hada.io/topic?id=27080",
+    "discussion_url": "https://news.hada.io/topic?id=27080",
+    "summary": "Web Streams 표준은 브라우저와 서버 간 일관된 데이터 스트리밍을 위해 설계되었지만, 현재는 복잡성과 성능 한계로 인해 개발자 경험이 저하되고 있음\n기존 API는 락(lock) 관리, BYOB, 백프레셔(backpressure) 등 설계적 제약으로 인해 사용성...",
+    "score": 0,
+    "published_at": "2026-02-28T11:32:56+00:00",
+    "ai_summary": "Web Streams API는 브라우저와 서버 간 데이터 스트리밍을 위해 설계되었으나, 현재 복잡성과 성능 한계로 개발자 경험이 저하되고 있습니다.\n락 관리, BYOB, 백프레셔 등 기존 API의 설계적 제약이 사용성을 떨어뜨려 개선이 필요합니다.\n이는 JavaScript 개발자들이 겪는 실제 문제와 개선 방향을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27079",
+    "title": "OpenAI, 미 국방부와 비공개 네트워크 내 모델 배포에 합의",
+    "url": "https://news.hada.io/topic?id=27079",
+    "discussion_url": "https://news.hada.io/topic?id=27079",
+    "summary": "OpenAI CEO Sam Altman이 미 국방부(DoW)와 기밀 네트워크에 모델을 배포하는 합의에 도달했다고 발표\n합의에는 대규모 국내 감시 금지와 자율 무기 시스템 포함 무력 사용에 대한 인간 책임 원칙이 포함되어 있으며, 국방부도 이 원칙에 동의",
+    "score": 0,
+    "published_at": "2026-02-28T05:36:13+00:00",
+    "ai_summary": "OpenAI가 미 국방부와 기밀 네트워크 내 모델 배포에 합의했으며, Sam Altman CEO가 이를 발표했습니다.\n이 합의에는 대규모 국내 감시 금지와 자율 무기 시스템의 인간 책임 원칙이 포함되어 있습니다.\n이는 LLM 기술의 민감한 적용 분야와 윤리적 거버넌스의 중요성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27078",
+    "title": "OpenAI, 사상 최대 규모 중 하나인 1,100억 달러 민간 자금 조달 완료",
+    "url": "https://news.hada.io/topic?id=27078",
+    "discussion_url": "https://news.hada.io/topic?id=27078",
+    "summary": "총 1,100억 달러 규모의 민간 투자 유치가 확정되며, 사전 평가액 7,300억 달러 기준으로 진행된 대형 라운드\n\nAmazon 500억 달러, Nvidia와 SoftBank 각각 300억 달러를 투자했으며, 일부 금액은 현금이 아닌 서비스 형...",
+    "score": 0,
+    "published_at": "2026-02-28T03:37:38+00:00",
+    "ai_summary": "OpenAI가 1,100억 달러 규모의 민간 자금 조달을 완료하며 사상 최대 규모 투자 유치에 성공했습니다.\n이 대형 라운드는 사전 평가액 7,300억 달러를 기반으로 진행되었으며, Amazon, Nvidia, SoftBank 등 주요 기업들이 투자에 참여했습니다.\n이는 AI 산업의 성장과 주요 기업들의 전략적 움직임을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27073",
+    "title": "보조 에이전트 최적화(AAO): SEO의 다음 진화 단계",
+    "url": "https://news.hada.io/topic?id=27073",
+    "discussion_url": "https://news.hada.io/topic?id=27073",
+    "summary": "검색엔진 최적화(SEO) 에서 보조 에이전트 최적화(AAO) 로의 전환은, 인간 개입 없이 에이전트가 선택하는 시대를 대비한 전략임\nAAO는 대형언어모델(LLM), 지식 그래프, 전통 검색으로 구성된 ‘알고...",
+    "score": 0,
+    "published_at": "2026-02-28T01:25:24+00:00",
+    "ai_summary": "검색엔진 최적화(SEO) 에서 보조 에이전트 최적화(AAO) 로의 전환은, 인간 개입 없이 에이전트가 선택하는 시대를 대비한 전략입니다.\nAAO는 LLM, 지식 그래프, 전통 검색을 활용하여 에이전트가 스스로 최적의 선택을 하도록 돕는 기술입니다.\n이는 개발자들이 LLM 기반 에이전트와 검색 기술을 이해하고 구현하는 데 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27071",
+    "title": "Anthropic, 오픈소스 유지관리자에게 무료 Claude Max 20x 제공",
+    "url": "https://news.hada.io/topic?id=27071",
+    "discussion_url": "https://news.hada.io/topic?id=27071",
+    "summary": "오픈소스 생태계 기여자에게 6개월간 무료 Claude Max 20x 구독을 제공 시작\n\nGitHub 스타 5,000개 이상 또는 월간 NPM 다운로드 100만 회 이상의 공개 저장소 핵심 유지관리자나 팀원이 주요 대상\n최근 3개월 내 커밋, 릴리스,...",
+    "score": 0,
+    "published_at": "2026-02-28T00:50:56+00:00",
+    "ai_summary": "Anthropic이 오픈소스 생태계 기여자들에게 6개월간 무료 Claude Max 20x 구독을 제공하기 시작했습니다.\n대상은 GitHub 스타 5,000개 이상 또는 월간 NPM 다운로드 100만 회 이상의 공개 저장소 핵심 유지관리자나 팀원입니다.\n최근 3개월 내 커밋, 릴리스 활동이 있는 프로젝트에 지원 가능하며, 개발자 커뮤니티 지원의 일환입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27066",
+    "title": "prek - Rust로 재개발한 더 나은 pre-commit",
+    "url": "https://news.hada.io/topic?id=27066",
+    "discussion_url": "https://news.hada.io/topic?id=27066",
+    "summary": "Git hook 관리의 속도와 효율성을 높이기 위해 만들어진 pre-commit 대체 도구로 기존 설정 및 훅 호환성 유지\n\nRust 기반 단일 실행 파일로 제공되며, 병렬 처리 구조를 통해 훅 설치 및 실행 시간을 단축\n...",
+    "score": 0,
+    "published_at": "2026-02-28T00:31:01+00:00",
+    "ai_summary": "Rust로 재개발된 'prek'는 Git hook 관리의 속도와 효율성을 높이기 위한 pre-commit 대체 도구입니다.\n기존 설정 및 훅 호환성을 유지하며, Rust 기반의 단일 실행 파일로 제공됩니다.\n병렬 처리 구조를 통해 훅 설치 및 실행 시간을 단축하여 개발 워크플로우를 개선합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47200342",
+    "title": "MinIO Is Dead, Long Live MinIO",
+    "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47200342",
+    "summary": "",
+    "score": 127,
+    "published_at": "2026-02-28T21:16:53+00:00",
+    "ai_summary": "MinIO는 S3 호환 오브젝트 스토리지 서버로, 이 제목은 프로젝트의 큰 변화나 새로운 방향성을 암시합니다.\n기존 MinIO의 접근 방식, 라이선싱 또는 주요 기능에 대한 중대한 업데이트를 나타낼 수 있습니다.\n개발자들은 클라우드 스토리지 솔루션의 진화와 그 영향을 주시해야 할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47200904",
+    "title": "The Windows 95 User Interface: A Case Study in Usability Engineering",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+    "discussion_url": "https://news.ycombinator.com/item?id=47200904",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-02-28T22:19:36+00:00",
+    "ai_summary": "Windows 95 사용자 인터페이스는 유용성 공학의 고전적인 사례 연구로 제시됩니다.\n당시의 디자인 결정과 사용자 경험 분석을 통해 현대 UI/UX 개발자들에게 시사하는 바가 큽니다.\n기술 스택보다는 근본적인 사용자 중심 디자인 원칙과 접근 방식을 다루는 기사로 보입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47197267",
+    "title": "Obsidian Sync now has a headless client",
+    "url": "https://help.obsidian.md/sync/headless",
+    "discussion_url": "https://news.ycombinator.com/item?id=47197267",
+    "summary": "",
+    "score": 347,
+    "published_at": "2026-02-28T16:31:53+00:00",
+    "ai_summary": "Obsidian Sync가 헤드리스 클라이언트를 지원하게 되어 GUI 없이 동기화가 가능해졌습니다.\n이는 개발자들이 Obsidian 노트를 서버, 스크립트 또는 자동화된 워크플로우에 통합할 수 있게 합니다.\n개발 환경 및 개인 지식 관리 시스템을 유연하게 구축하는 데 큰 도움이 될 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47200828",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "discussion_url": "https://news.ycombinator.com/item?id=47200828",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-02-28T22:10:21+00:00",
+    "ai_summary": "이 기사는 10자리 숫자 덧셈을 위한 최소한의 트랜스포머 모델 구축 과정을 다룹니다.\n트랜스포머 아키텍처의 핵심 원리와 구현 방법을 실질적인 예시를 통해 설명할 것으로 보입니다.\nAI/ML 개발자들이 모델 학습, 구조 설계, 성능 최적화를 이해하는 데 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47198977",
+    "title": "Block the \"Upgrade to Tahoe\" Alerts",
+    "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47198977",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-02-28T19:04:01+00:00",
+    "ai_summary": "이 기사는 'Tahoe'라는 시스템의 업그레이드 알림을 차단하는 방법을 다룹니다.\n시스템 관리 및 사용자 경험 개선에 필요한 기술적 해결책을 제시합니다.\n불필요한 알림으로 인한 방해를 줄이는 데 유용한 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47197595",
+    "title": "Verified Spec-Driven Development (VSDD)",
+    "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+    "discussion_url": "https://news.ycombinator.com/item?id=47197595",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-02-28T16:58:54+00:00",
+    "ai_summary": "VSDD(Verified Spec-Driven Development)는 검증된 사양 기반 개발 방법론을 소개합니다.\n소프트웨어의 신뢰성과 정확성을 높이기 위해 명세서를 엄격히 따르고 이를 검증하는 접근 방식입니다.\n고품질 소프트웨어 개발에 관심 있는 개발자들에게 중요한 개념을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47199781",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "discussion_url": "https://news.ycombinator.com/item?id=47199781",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-02-28T20:20:00+00:00",
+    "ai_summary": "Qwen3.5의 122B 및 35B 모델이 로컬 컴퓨터에서 Sonnet 4.5 수준의 성능을 제공합니다.\n이는 고성능 대규모 언어 모델(LLM)을 개인 장치에서 효율적으로 실행할 수 있음을 의미합니다.\nAI/ML 및 LLM 개발자들에게 온프레미스 LLM 활용 가능성을 보여주는 중요한 진전입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47155526",
+    "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+    "url": "https://github.com/ad-si/Woxi",
+    "discussion_url": "https://news.ycombinator.com/item?id=47155526",
+    "summary": "",
+    "score": 220,
+    "published_at": "2026-02-25T18:24:46+00:00",
+    "ai_summary": "Woxi는 Wolfram Mathematica를 Rust 프로그래밍 언어로 재구현한 프로젝트를 소개합니다.\nRust의 성능과 안정성을 활용하여 과학 컴퓨팅 도구를 개발하는 사례를 보여줍니다.\nRust 개발자와 과학 컴퓨팅 분야에 관심 있는 이들에게 흥미로운 오픈소스 프로젝트입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47195123",
+    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+    "url": "https://nowigetit.us",
+    "discussion_url": "https://news.ycombinator.com/item?id=47195123",
+    "summary": "",
+    "score": 166,
+    "published_at": "2026-02-28T13:29:36+00:00",
+    "ai_summary": "이 'Show HN' 프로젝트는 과학 논문을 대화형 웹페이지로 번역해주는 'Now I Get It' 도구를 소개합니다.\n복잡한 과학 내용을 더 쉽게 이해할 수 있도록 돕는 혁신적인 기술 프로젝트입니다.\n프론트엔드, 백엔드 개발 및 잠재적으로 AI/ML 기술이 활용된 웹 기반 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47197505",
+    "title": "The whole thing was a scam",
+    "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+    "discussion_url": "https://news.ycombinator.com/item?id=47197505",
+    "summary": "",
+    "score": 483,
+    "published_at": "2026-02-28T16:51:49+00:00",
+    "ai_summary": "프로젝트 실패, 사기, 또는 기술 트렌드에 대한 비판적 회고일 가능성이 큽니다.\n개발자가 경계해야 할 함정이나 윤리적 문제에 대한 통찰을 제공할 것입니다.\n비즈니스 모델이나 기술 선택의 신중함을 강조할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47199948",
+    "title": "Our Agreement with the Department of War",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "discussion_url": "https://news.ycombinator.com/item?id=47199948",
+    "summary": "",
+    "score": 167,
+    "published_at": "2026-02-28T20:35:29+00:00",
+    "ai_summary": "국방부와의 협력 또는 군사 프로젝트 참여에 대한 내용을 다룰 것으로 보입니다.\n기술과 전쟁의 윤리적 딜레마, 정부 계약의 복잡성을 탐구할 수 있습니다.\n기술 전문가로서의 사회적 책임에 대한 논의가 포함될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47182986",
+    "title": "747s and Coding Agents",
+    "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47182986",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-02-27T17:22:00+00:00",
+    "ai_summary": "747 항공기와 코딩 에이전트의 조합으로, 항공우주 분야의 AI 활용을 시사합니다.\n대규모 시스템 자동화, 스마트 에이전트 개발 또는 시뮬레이션 기술을 다룰 것입니다.\nAI 기반 솔루션으로 복잡한 산업 문제를 해결하는 데 중점을 둘 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47152835",
+    "title": "The archivist preserving decaying floppy disks",
+    "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47152835",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-02-25T15:28:52+00:00",
+    "ai_summary": "낡아가는 플로피 디스크를 보존하는 아키비스트의 역할을 조명하는 기사입니다.\n오래된 데이터와 레거시 기술 보존의 중요성, 그리고 디지털 아카이빙 방법을 다룰 것입니다.\n과거 기술 유산과 데이터의 가치를 보존하는 데 필요한 노력과 기술을 제시할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47155235",
+    "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+    "url": "https://superchartisland.com/ghostsn-goblins/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47155235",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-02-25T18:07:09+00:00",
+    "ai_summary": "고전 게임 '마계촌'에 대한 심층 분석 또는 회고록으로 예상됩니다.\n게임 디자인 철학, 개발 과정의 기술적 도전, 또는 특정 장르의 역사적 의미를 탐구할 수 있습니다.\n레트로 게임의 매력과 과거 게임 개발의 독특한 환경을 조명할 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47163167",
+    "title": "From Noise to Image – interactive guide to diffusion",
+    "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47163167",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-02-26T07:52:29+00:00",
+    "ai_summary": "노이즈에서 이미지를 생성하는 확산 모델에 대한 상호작용형 학습 가이드입니다.\n생성형 AI 기술의 핵심 원리, 특히 이미지 생성 과정의 심층적인 이해를 돕습니다.\nAI/ML 개발자가 최신 모델을 실습하고 개념을 익히는 데 유용한 자료가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47150352",
+    "title": "What I learned while trying to build a production-ready nearest neighbor system",
+    "url": "https://github.com/thatipamula-jashwanth/smart-knn",
+    "discussion_url": "https://news.ycombinator.com/item?id=47150352",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-02-25T11:55:06+00:00",
+    "ai_summary": "프로덕션 환경에 적합한 최근접 이웃 시스템 구축 경험에서 얻은 교훈을 공유합니다.\n대규모 데이터 처리, 성능 최적화, 시스템 아키텍처 설계에 대한 실질적인 지식을 제공합니다.\nML 모델의 성공적인 배포와 운영을 위한 필수적인 고려사항을 다룰 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47193064",
+    "title": "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
+    "url": "https://mksg.lu/blog/context-mode",
+    "discussion_url": "https://news.ycombinator.com/item?id=47193064",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-02-28T10:01:20+00:00",
+    "ai_summary": "이 기사는 Claude 코드에서 컨텍스트 창 사용을 98% 줄이는 방법을 다룹니다.\nLLM의 입출력 최적화를 통해 비용과 효율성을 개선하는 기술적 접근을 설명합니다.\n개발자들이 대규모 언어 모델을 보다 효율적으로 활용할 수 있는 방안을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47147597",
+    "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+    "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47147597",
+    "summary": "",
+    "score": 212,
+    "published_at": "2026-02-25T05:14:09+00:00",
+    "ai_summary": "이 글은 프로그래머를 없애려는 시도의 역사와 그 약속을 탐구합니다.\n자동화와 인공지능이 개발자의 역할에 미치는 영향을 논의합니다.\n개발자 직업의 지속적인 가치와 미래 방향에 대해 성찰하게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47192505",
+    "title": "Unsloth Dynamic 2.0 GGUFs",
+    "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+    "discussion_url": "https://news.ycombinator.com/item?id=47192505",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-02-28T08:56:33+00:00",
+    "ai_summary": "Unsloth Dynamic 2.0 GGUF 모델에 대한 기술적인 내용을 다룹니다.\nLLM의 효율적인 미세 조정 및 배포를 위한 새로운 기술 발전을 소개합니다.\nAI/ML 개발자들이 더 작고 빠른 언어 모델을 사용할 수 있도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47193476",
+    "title": "The Future of AI",
+    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47193476",
+    "summary": "",
+    "score": 106,
+    "published_at": "2026-02-28T10:41:53+00:00",
+    "ai_summary": "인공지능의 미래 동향과 잠재적 영향에 대한 포괄적인 분석입니다.\n기술 발전, 사회적 변화, 그리고 AI의 윤리적 고려사항을 다룹니다.\n개발자 및 기술 산업 종사자들이 AI의 다음 단계를 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47163554",
+    "title": "Laravel Inertia Toast",
+    "url": "https://github.com/veekthoven/laravel-inertia-toast",
+    "discussion_url": "https://news.ycombinator.com/item?id=47163554",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-02-26T08:46:31+00:00",
+    "ai_summary": "Laravel과 Inertia.js 스택에서 토스트 알림을 구현하는 방법을 설명합니다.\n백엔드(PHP)와 프론트엔드(JS) 기술 스택을 통합하는 실용적인 팁을 제공합니다.\n웹 애플리케이션 개발자가 사용자 경험을 개선하는 데 유용한 정보를 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47200420",
+    "title": "\"We do not think Anthropic should be designated as a supply chain risk\"",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "discussion_url": "https://news.ycombinator.com/item?id=47200420",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-02-28T21:24:16+00:00",
+    "ai_summary": "Anthropic이 공급망 위험으로 분류되어서는 안 된다는 주장을 다룹니다.\nAI 모델 공급업체의 신뢰성, 보안 및 규제 관련 논의를 포함합니다.\n기업이 AI 기술을 도입할 때 고려해야 할 위험 관리 및 정책 문제를 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47189650",
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+    "url": "https://twitter.com/sama/status/2027578652477821175",
+    "discussion_url": "https://news.ycombinator.com/item?id=47189650",
+    "summary": "",
+    "score": 1318,
+    "published_at": "2026-02-28T02:59:02+00:00",
+    "ai_summary": "OpenAI가 미 국방부와의 계약을 통해 자사 AI 모델을 국방부의 기밀 네트워크에 배포하기로 합의했습니다.\n이는 고도로 민감한 환경에서 AI 기술의 활용을 확대하는 중요한 진전입니다.\n군사 및 보안 분야에서의 AI 도입과 관련 규제 및 윤리적 논의에 영향을 미칠 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  }
+]
