@@ -1,0 +1,859 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27172",
+    "title": "Show GN: korbus-mcp: 버스 도착시간 계속 쳐다보지 말고 알림으로 받아봐요.",
+    "url": "https://news.hada.io/topic?id=27172",
+    "discussion_url": "https://news.hada.io/topic?id=27172",
+    "summary": "openclaw 와 같은 도구덕분에 생활 밀착형? MCP가 등장하는 재미있는 시대입니다.\nLLM 을 통해 버스 시간을 물어보니 잘 대답하는걸 보고 아이디어를 얻어 출근 시간대에 버스 도착 시간이 몇분인지 지도 앱을 켜고 확인하던게 떠올라서\n&quot;평일에만 몇시에서 몇시 사이에 버스 도착하기 몇분 전에",
+    "score": 0,
+    "published_at": "2026-03-03T16:08:35+00:00",
+    "ai_summary": "LLM에서 아이디어를 얻어 개발된 'korbus-mcp'는 버스 도착 시간을 알림으로 받아보는 생활 밀착형 도구입니다. 출근 시간대에 지도 앱을 켜지 않고도 버스 도착 정보를 편리하게 확인할 수 있도록 돕습니다. LLM을 실제 생활 문제 해결에 적용한 개발 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27171",
+    "title": "Show GN: ClaudeTuner - &quot;내가 정말 이 플랜만큼 쓰고 있나?&quot; 궁금해서 만든 사용량 추적 도구 (+ 우리 팀 관리까지)",
+    "url": "https://news.hada.io/topic?id=27171",
+    "discussion_url": "https://news.hada.io/topic?id=27171",
+    "summary": "최근 Claude Opus 4.6의 품질이 크게 올라오면서, 업무에 Claude를 훨씬 더 많이 쓰게 되었습니다. 그러다 보니 자연스럽게 &quot;내가 지금 이 플랜을 결제하는 게 맞나?&quot;, &quot;오늘 리밋까지 얼마나 남았지?&quot;, &quot;팀원들에게 어떤 플랜을 구독해줘야 하나?&quot; 같은 고민이 생기더라고요. 그래서 ...",
+    "score": 0,
+    "published_at": "2026-03-03T15:05:55+00:00",
+    "ai_summary": "Claude Opus 사용량 증가로 개발자가 LLM 구독 플랜 관리 및 사용량 추적 도구 'ClaudeTuner'를 만들었습니다. 이 도구는 개인 및 팀의 LLM 사용량을 모니터링하고, 적절한 플랜 선택을 돕는 기능을 제공합니다. 개발자들이 LLM 서비스 비용 효율성을 관리하는 데 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27170",
+    "title": "Show GN: Vocova - AI로 100개 이상의 언어로 오디오/비디오를 텍스트로 변환",
+    "url": "https://news.hada.io/topic?id=27170",
+    "discussion_url": "https://news.hada.io/topic?id=27170",
+    "summary": "안녕하세요, Vocova를 만든 개발자입니다.\nVocova는 간단한 문제를 해결하기 위해 만들었습니다 — 사람들은 매일 다양한 언어와 플랫폼에서 콘텐츠를 소비하지만, 그것을 정확하고 읽기 좋은 텍스트로 만드는 과정은 여전히 번거롭습니다. 다운로드 도구 따로, 전사 도구 따로, 번역 도구 따로. 한 번에 되어",
+    "score": 0,
+    "published_at": "2026-03-03T14:20:00+00:00",
+    "ai_summary": "개발자가 100개 이상 언어의 오디오/비디오를 텍스트로 변환하는 AI 기반 도구 'Vocova'를 출시했습니다. 다운로드, 전사, 번역 과정을 한 번에 처리하여 콘텐츠 변환의 번거로움을 해결합니다. AI 기술을 활용한 실용적인 문제 해결 및 언어 처리 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27169",
+    "title": "Anthropic Cowork 기능이 macOS에서 경고 없이 10GB VM 번들을 생성",
+    "url": "https://news.hada.io/topic?id=27169",
+    "discussion_url": "https://news.hada.io/topic?id=27169",
+    "summary": "macOS용 Claude Desktop의 Cowork 기능이 활성화되면, 시스템에 약 10GB 크기의 가상머신(VM) 번들이 자동 생성되어 성능이 급격히 저하됨\n이 파일은 ~/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img 경로에 저장되며, ...",
+    "score": 0,
+    "published_at": "2026-03-03T13:33:28+00:00",
+    "ai_summary": "macOS용 Claude Desktop의 Cowork 기능 활성화 시, 사용자 모르게 10GB 크기의 VM 번들이 생성되어 시스템 성능 저하를 일으킵니다. 이 파일은 특정 경로에 저장되며, LLM 클라이언트가 macOS 시스템 자원에 미치는 예상치 못한 영향을 보여줍니다. 개발자들이 시스템 관리 및 디버깅 시 유의해야 할 문제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27168",
+    "title": "Show GN: 모두의AI – 기초수학부터 역전파까지, 연산 흐름으로 이해하는 AI 학습 플랫폼",
+    "url": "https://news.hada.io/topic?id=27168",
+    "discussion_url": "https://news.hada.io/topic?id=27168",
+    "summary": "안녕하세요. 개발자로 일하면서 AI에 관심이 생겨 작년부터 야간 인공지능 대학원에 다니며 공부하고 있는 직장인입니다.\n인공지능 경시대회에 참가해 수상도 해보고 다양한 모델을 직접 만들고 튜닝해보면서 느낀 점이 있습니다.\n테크닉도 중요하지만 결국 성능의 차이를 만드는 것은 기초에 대한 이해",
+    "score": 0,
+    "published_at": "2026-03-03T13:21:52+00:00",
+    "ai_summary": "개발자가 AI 기초 수학부터 역전파까지 연산 흐름을 이해하는 '모두의AI' 학습 플랫폼을 만들었습니다. AI 기술의 핵심은 기초 이해라는 신념 아래, 실질적인 학습 경험을 제공합니다. AI 분야에 입문하거나 깊이 있게 공부하려는 개발자들에게 유용한 교육 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27167",
+    "title": "Show GN: 스톡월드컵 - 나만의 AI 펀드매니저",
+    "url": "https://news.hada.io/topic?id=27167",
+    "discussion_url": "https://news.hada.io/topic?id=27167",
+    "summary": "서비스 소개\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...",
+    "score": 0,
+    "published_at": "2026-03-03T12:56:56+00:00",
+    "ai_summary": "'스톡월드컵'은 사용자의 관심 종목을 AI 매니저가 실시간으로 분석하여 매매 포지션을 결정하는 서비스입니다. 주가, 수급, 뉴스 등 다양한 데이터를 기반으로 자동 투자 판단 및 모의투자 기능을 제공합니다. AI/ML 기술을 금융 데이터 분석 및 자동화된 투자 결정에 적용한 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27164",
+    "title": "500ms 이하 지연시간의 음성 에이전트를 직접 구축한 과정",
+    "url": "https://news.hada.io/topic?id=27164",
+    "discussion_url": "https://news.hada.io/topic?id=27164",
+    "summary": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례를 다룸\n\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\n\nDeepgram Flux로 발화 감...",
+    "score": 0,
+    "published_at": "2026-03-03T10:33:15+00:00",
+    "ai_summary": "STT, LLM, TTS를 실시간으로 연결하여 400ms 수준의 초저지연 음성 에이전트를 자체 구축한 과정이 공유되었습니다. Deepgram Flux 등을 활용해 상용 플랫폼보다 2배 빠른 응답 속도를 달성했습니다. 실시간 AI 시스템 개발 및 성능 최적화에 대한 심도 있는 기술 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27163",
+    "title": "Telegram, 챗봇들이 스트리밍 응답 가능하게 업데이트",
+    "url": "https://news.hada.io/topic?id=27163",
+    "discussion_url": "https://news.hada.io/topic?id=27163",
+    "summary": "이제 모든 텔레그램 챗봇들은 사용자에게 실시간 스트리밍 업데이트로 답변 가능\n메시지 단위가 아닌 글자 단위로 스트리밍하게 되어 AI 어시스턴트들에게 유용\n봇들이 Bot API 9.3+에서 sendMessageDraft 를 호출했다면 자동으로 적용 됨\n텔레그램은 최신 버전으로 업데이트 필요...",
+    "score": 0,
+    "published_at": "2026-03-03T08:29:02+00:00",
+    "ai_summary": "텔레그램 챗봇은 이제 사용자에게 실시간 스트리밍 방식으로 응답할 수 있습니다.\n메시지 단위가 아닌 글자 단위 스트리밍은 AI 어시스턴트에게 매우 유용합니다.\nBot API 9.3+의 sendMessageDraft 호출 시 자동으로 적용됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27162",
+    "title": "AI가 주니어 개발자를 쓸모없게 만들고 있다",
+    "url": "https://news.hada.io/topic?id=27162",
+    "discussion_url": "https://news.hada.io/topic?id=27162",
+    "summary": "AI 도구가 주니어 개발자에게 얕은 역량만 만들어주고 있으며, 코드를 빠르게 출력하지만 왜 그런 접근을 택했는지 설명하지 못하는 상황이 빈번해짐\n시니어 개발자의 진정한 가치는 코드 작성 속도가 아니라, 수년간 실패를 통해 축적한 실패 패턴 인식...",
+    "score": 0,
+    "published_at": "2026-03-03T08:16:49+00:00",
+    "ai_summary": "AI 도구는 주니어 개발자에게 얕은 역량만 주고 코드 작성 속도에만 집중하게 합니다.\n시니어 개발자는 실패를 통해 축적된 패턴 인식 능력으로 진정한 가치를 발휘합니다.\n주니어 개발자는 단순 코딩 외 문제 해결 능력 함양이 중요해지고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27161",
+    "title": "Apple, M4를 탑재한 신규 iPad Air 공개",
+    "url": "https://news.hada.io/topic?id=27161",
+    "discussion_url": "https://news.hada.io/topic?id=27161",
+    "summary": "M4 칩을 탑재한 신형 iPad Air는 전 세대 대비 최대 2.3배 향상된 성능과 AI 처리 능력을 강화\n\n\n8코어 CPU와 9코어 GPU, 16코어 Neural Engine을 갖추어 영상 편집, 3D 렌더링, 게임 등에서 고성능 그래픽 처리 지원",
+    "score": 0,
+    "published_at": "2026-03-03T07:16:16+00:00",
+    "ai_summary": "Apple은 M4 칩을 탑재한 신형 iPad Air를 공개하며 성능과 AI 처리 능력을 강화했습니다.\n전 세대 대비 최대 2.3배 향상된 성능을 제공합니다.\n8코어 CPU, 9코어 GPU, 16코어 Neural Engine으로 고성능 작업을 지원합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27159",
+    "title": "Redis patterns for coding",
+    "url": "https://news.hada.io/topic?id=27159",
+    "discussion_url": "https://news.hada.io/topic?id=27159",
+    "summary": "Redis 창시자 antirez가 LLM·코딩 에이전트 및 개발자를 위해 Redis 명령어·자료구조·패턴·알고리즘을 망라한 공식 문서 사이트(redis.antirez.com)를 공개했음을 알리는 짧은 포스트.",
+    "score": 0,
+    "published_at": "2026-03-03T03:29:03+00:00",
+    "ai_summary": "Redis 창시자 antirez가 LLM, 코딩 에이전트 및 개발자를 위한 공식 문서 사이트를 공개했습니다.\nRedis 명령어, 자료구조, 패턴, 알고리즘을 망라한 내용을 담고 있습니다.\n개발자들이 Redis를 더욱 효과적으로 활용할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27156",
+    "title": "Show GN: 이제 공부도 클로드 코드로 해보세요!",
+    "url": "https://news.hada.io/topic?id=27156",
+    "discussion_url": "https://news.hada.io/topic?id=27156",
+    "summary": "Claude Code Skills로 2주 만에 AWS 자격증을 취득했습니다.\n조금 더 똑똑하게 벼락치기 하기 위해, 시스템을 만들어보았습니다.\n\ntutor-skills: AI가 만드는 나만의 메타인지 학습 시스템\n자격증, 학교 공부, 코드에 대한 이해 등 가장 답답했던 부분은\n'내가 무엇을 모르는지 모",
+    "score": 0,
+    "published_at": "2026-03-03T01:11:56+00:00",
+    "ai_summary": "Claude Code Skills를 활용하여 2주 만에 AWS 자격증을 취득한 경험을 공유합니다.\n'tutor-skills'라는 나만의 메타인지 학습 시스템을 구축했습니다.\nAI를 통해 자격증, 학교 공부, 코드 이해 등 학습 효율을 높일 수 있음을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27153",
+    "title": "AI가 코드를 작성한다면 세션도 커밋의 일부가 되어야 할까?",
+    "url": "https://news.hada.io/topic?id=27153",
+    "discussion_url": "https://news.hada.io/topic?id=27153",
+    "summary": "git-memento는 AI가 생성한 코드 세션을 Git 커밋에 자동으로 기록하는 확장 도구로, 각 커밋에 대응하는 AI 대화 내역을 git notes로 저장함\n커밋 시 AI 세션 ID를 지정하면, 요약본은 refs/notes/commits, 전체...",
+    "score": 0,
+    "published_at": "2026-03-03T00:54:41+00:00",
+    "ai_summary": "AI가 생성한 코드의 세션 기록을 Git 커밋에 포함해야 하는지에 대한 논의가 있습니다.\n`git-memento`는 AI 생성 코드 세션을 Git 커밋에 자동으로 기록하는 확장 도구입니다.\n각 커밋에 대응하는 AI 대화 내역을 `git notes`로 저장하여 추적성을 높입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27151",
+    "title": "/e/OS - 완전한 ‘deGoogled’ 모바일 생태계",
+    "url": "https://news.hada.io/topic?id=27151",
+    "discussion_url": "https://news.hada.io/topic?id=27151",
+    "summary": "오픈소스 기반의 /e/OS는 구글 서비스에 의존하지 않는 프라이버시 중심 모바일 운영체제로, 자체 앱과 온라인 서비스를 통합 제공\n\nGoogle 앱과 서버 연결을 완전히 제거하고, microG·BeaconDB·Murena Find 등으로 대체해 데이터 추적을 차단",
+    "score": 0,
+    "published_at": "2026-03-03T00:48:40+00:00",
+    "ai_summary": "/e/OS는 구글 서비스 의존성을 제거한 오픈소스 모바일 운영체제입니다.\n사용자 프라이버시를 최우선으로, 자체 앱과 온라인 서비스를 통합 제공합니다.\nGoogle 앱과 서버 연결을 microG 등으로 대체하여 데이터 추적을 효과적으로 차단합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27148",
+    "title": "Show GN: Notion Cv Helper - Notion에 작성한 이력서를 Claude Code로 관리",
+    "url": "https://news.hada.io/topic?id=27148",
+    "discussion_url": "https://news.hada.io/topic?id=27148",
+    "summary": "안녕하세요, 노션으로 이력서나 포트폴리오를 관리하시는 분들의 업데이트 귀찮음을 해결하고자 개발한 오픈소스 클로드 플러그인 notion-cv-helper를 소개합니다.\n클로드 노션 MCP, 노션 API 토큰을 기반으로 동작하며 사용자의 노션 이력서 페이지를 읽어들인 후 필요한 요청에 따라 이력서를 작성 및 수정해",
+    "score": 0,
+    "published_at": "2026-03-03T00:31:55+00:00",
+    "ai_summary": "노션 이력서 관리의 번거로움을 해결해주는 오픈소스 클로드 플러그인, notion-cv-helper가 소개되었습니다.\n이 도구는 클로드 노션 MCP와 노션 API 토큰을 활용하여 동작합니다.\n사용자의 노션 이력서 페이지를 읽고 필요에 따라 이력서 작성을 지원하고 수정합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27146",
+    "title": "M4 Apple Neural Engine 내부 탐구, Part 1: 리버스 엔지니어링",
+    "url": "https://news.hada.io/topic?id=27146",
+    "discussion_url": "https://news.hada.io/topic?id=27146",
+    "summary": "Apple Neural Engine(ANE) 의 내부 구조를 직접 분석해 CoreML을 우회하고 하드웨어에 직접 접근하는 방법을 구현\nCoreML의 추상화 계층을 제거하고 _ANEClient API를 통해 모델 컴파일·로드·실행을 직접 수행\n\n\n...",
+    "score": 0,
+    "published_at": "2026-03-02T23:36:55+00:00",
+    "ai_summary": "Apple Neural Engine(ANE)의 내부 구조를 리버스 엔지니어링하여 분석했습니다.\nCoreML의 추상화 계층을 우회하고 하드웨어에 직접 접근하는 방법을 구현했습니다.\n_ANEClient API를 통해 모델 컴파일, 로드, 실행을 직접 제어할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47239943",
+    "title": "Don't Make Me Talk to Your Chatbot",
+    "url": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47239943",
+    "summary": "",
+    "score": 94,
+    "published_at": "2026-03-03T22:24:06+00:00",
+    "ai_summary": "이 기사는 챗봇과의 상호작용에 대한 사용자들의 불만을 다룹니다.\n챗봇의 비효율성과 비인간적인 응대에 대한 비판적인 시각을 제시합니다.\n사용자 경험을 개선하기 위한 챗봇 개발의 중요성을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232453",
+    "title": "MacBook Pro with new M5 Pro and M5 Max",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232453",
+    "summary": "",
+    "score": 607,
+    "published_at": "2026-03-03T14:02:06+00:00",
+    "ai_summary": "새로운 M5 Pro 및 M5 Max 칩을 탑재한 MacBook Pro 모델 출시 소식을 다룹니다.\n향상된 성능과 새로운 기능, 그리고 개발자를 포함한 타겟 사용자층에 대해 설명합니다.\n하드웨어 성능 향상이 소프트웨어 개발에 미칠 영향에 대한 기대를 불러일으킵니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47236958",
+    "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+    "discussion_url": "https://news.ycombinator.com/item?id=47236958",
+    "summary": "",
+    "score": 215,
+    "published_at": "2026-03-03T18:54:06+00:00",
+    "ai_summary": "인텔의 차세대 18A 공정 노드가 288코어 Xeon 프로세서와 함께 데이터센터 시장에 데뷔합니다.\n이는 인텔에게 중요한 전환점이 될 기술이며, 성능 향상에 대한 기대를 모으고 있습니다.\n데이터센터 환경의 백엔드 및 클라우드 개발에 큰 영향을 미칠 하드웨어 발전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47236169",
+    "title": "GPT‑5.3 Instant",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47236169",
+    "summary": "",
+    "score": 250,
+    "published_at": "2026-03-03T17:57:33+00:00",
+    "ai_summary": "OpenAI의 새로운 GPT 모델 버전인 'GPT-5.3 Instant'에 대한 기사입니다.\n이 모델의 속도, 효율성 또는 특정 기능 개선 사항을 다룰 것입니다.\nLLM 기반 애플리케이션 개발자들에게 매우 중요한 정보가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47204027",
+    "title": "Textadept",
+    "url": "https://orbitalquark.github.io/textadept/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47204027",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-03-01T05:36:58+00:00",
+    "ai_summary": "'Textadept'는 개발자를 위한 텍스트 편집기 또는 개발 환경 도구입니다.\n가볍고, 높은 사용자 정의 기능을 제공하며, 효율적인 코딩을 지원하는 것이 특징입니다.\n다른 에디터들과의 비교를 통해 그 장점과 활용법을 소개할 것으로 예상됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47239042",
+    "title": "Voxile: A ray-traced game made in its own engine and programming language",
+    "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+    "discussion_url": "https://news.ycombinator.com/item?id=47239042",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-03-03T21:10:27+00:00",
+    "ai_summary": "개발자가 직접 만든 엔진과 프로그래밍 언어를 사용하여 레이 트레이싱 게임 'Voxile'을 제작한 사례입니다.\n게임 개발, 그래픽스, 시스템 프로그래밍, 언어 설계 등 깊이 있는 기술적 도전을 보여줍니다.\n로우레벨 개발과 혁신적인 프로젝트에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47230710",
+    "title": "Claude's Cycles [pdf]",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47230710",
+    "summary": "",
+    "score": 403,
+    "published_at": "2026-03-03T10:57:42+00:00",
+    "ai_summary": "(LLM Claude 관련 가정) 이 PDF 문서는 LLM 'Claude'의 내부 작동 방식 또는 개발 주기에 대한 심층 연구 자료로 예상됩니다.\nClaude의 아키텍처, 훈련 데이터 처리, 성능 개선 등에 대한 기술적인 내용을 다룰 것입니다.\nAI 및 LLM 연구자, 개발자에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47237460",
+    "title": "An Interactive Intro to CRDTs (2023)",
+    "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47237460",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-03-03T19:22:32+00:00",
+    "ai_summary": "CRDT(Conflict-free Replicated Data Types)의 기본 개념을 인터랙티브하게 소개하는 자료입니다.\n분산 환경에서 데이터 동기화와 충돌 없는 복제를 위한 CRDT의 원리와 활용법을 설명합니다.\n분산 시스템 및 협업 애플리케이션 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47240441",
+    "title": "Talos: Hardware accelerator for deep convolutional neural networks",
+    "url": "https://talos.wtf/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47240441",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-03-03T23:11:11+00:00",
+    "ai_summary": "딥 컨볼루션 신경망(DCNN)을 위한 하드웨어 가속기 'Talos'에 대한 기사입니다.\nAI 모델의 효율적인 연산 처리를 위해 설계된 하드웨어 아키텍처와 성능 개선 방법을 다룹니다.\nAI 인프라, 엣지 AI, 고성능 컴퓨팅 분야 개발자들에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47230704",
+    "title": "The Xkcd thing, now interactive",
+    "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+    "discussion_url": "https://news.ycombinator.com/item?id=47230704",
+    "summary": "",
+    "score": 1084,
+    "published_at": "2026-03-03T10:56:52+00:00",
+    "ai_summary": "인기 웹툰 Xkcd의 특정 아이디어를 인터랙티브하게 구현한 프로젝트를 소개하는 기사입니다.\n재미있는 구현 기술이나 웹 기술 활용 사례를 통해 개발자들에게 영감을 줄 수 있습니다.\n프론트엔드 또는 개인 프로젝트에 관심 있는 개발자에게 가볍게 볼 만한 내용입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47234917",
+    "title": "When AI writes the software, who verifies it?",
+    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47234917",
+    "summary": "",
+    "score": 98,
+    "published_at": "2026-03-03T16:34:53+00:00",
+    "ai_summary": "AI가 소프트웨어를 작성할 때 발생하는 검증 및 품질 보증 문제에 대한 중요한 논의를 다룹니다.\nAI 생성 코드의 신뢰성, 보안 취약점, 책임 소재 등 소프트웨어 개발 전반에 걸친 과제를 탐구합니다.\n모든 개발자에게 필수적인 고려 사항입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232727",
+    "title": "Don't become an engineering manager",
+    "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232727",
+    "summary": "",
+    "score": 277,
+    "published_at": "2026-03-03T14:19:14+00:00",
+    "ai_summary": "엔지니어링 관리자(EM) 역할의 장단점과 EM이 되지 않는 것이 더 나을 수 있는 이유를 분석하는 기사입니다.\n리더십 전환을 고민하는 개발자들에게 깊이 있는 자기 성찰과 커리어 방향 설정에 도움을 줍니다.\n개발자의 커리어 패스에 대한 중요한 인사이트를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232903",
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "url": "https://news.ycombinator.com/item?id=47232903",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232903",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-03-03T14:30:58+00:00",
+    "ai_summary": "YC F24 스타트업 Cekura가 음성 및 채팅 AI 에이전트를 위한 테스트 및 모니터링 솔루션을 출시했습니다.\nAI 에이전트의 개발, 배포, 운영 단계에서 품질과 성능을 보장하는 데 필수적인 도구를 제공합니다.\nAI/LLM 개발자 및 관련 팀에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47237692",
+    "title": "Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands",
+    "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47237692",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-03-03T19:34:37+00:00",
+    "ai_summary": "미국 정부의 아이폰 해킹 툴킷이 해외 스파이 및 범죄 조직에 유출되었을 가능성이 제기되어 심각한 보안 위협이 우려됩니다.\n이는 국가 안보와 개인 정보 보호에 중대한 영향을 미치며, 모바일 보안 개발의 중요성을 부각시킵니다.\n개발자들은 이러한 위협에 대응하기 위한 보안 강화에 주목해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47203219",
+    "title": "TorchLean: Formalizing Neural Networks in Lean",
+    "url": "https://leandojo.org/torchlean.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47203219",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-01T03:03:46+00:00",
+    "ai_summary": "TorchLean은 Lean 증명 보조기를 활용하여 신경망을 형식화함으로써 AI 모델의 수학적 정확성과 신뢰성을 검증하는 프로젝트입니다.\n이는 AI/ML 분야에서 견고하고 오류 없는 시스템 구축에 중요한 진전을 제공합니다.\n개발자들은 AI 시스템의 신뢰성을 높이는 데 기여할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47239768",
+    "title": "OpenAI CEO Sam Altman Defends Pentagon Work to Staff",
+    "url": "https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec",
+    "discussion_url": "https://news.ycombinator.com/item?id=47239768",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-03-03T22:09:18+00:00",
+    "ai_summary": "샘 알트만 OpenAI CEO가 직원들에게 국방부와의 협력을 옹호하며 AI 기술의 윤리적 사용과 회사 미션 부합을 강조했습니다.\n이는 AI 개발의 윤리적, 사회적 영향과 개발자 커뮤니티 내의 논의 중요성을 부각합니다.\nAI/ML 개발자들은 기술의 사회적 영향과 기업의 방향성에 대해 고민할 필요가 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232768",
+    "title": "I'm reluctant to verify my identity or age for any online services",
+    "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232768",
+    "summary": "",
+    "score": 852,
+    "published_at": "2026-03-03T14:22:25+00:00",
+    "ai_summary": "이 기사는 온라인 서비스에서 신원 또는 연령 확인을 꺼리는 개인적인 심리와 그 이유를 다룹니다.\n이는 개인 정보 보호, 사용자 경험, 그리고 서비스 제공자의 의무 사이의 복잡한 균형을 보여줍니다.\n개발자들은 보안 및 개인 정보 보호 기능을 설계할 때 사용자 관점을 고려하는 데 중요한 통찰력을 얻을 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47229344",
+    "title": "Arm's Cortex X925: Reaching Desktop Performance",
+    "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+    "discussion_url": "https://news.ycombinator.com/item?id=47229344",
+    "summary": "",
+    "score": 254,
+    "published_at": "2026-03-03T07:34:47+00:00",
+    "ai_summary": "Arm의 새로운 Cortex X925 프로세서 코어가 데스크톱 수준의 성능에 도달하고 있음을 시사합니다.\n이는 모바일 및 저전력 기기에서 고성능 컴퓨팅 가능성을 넓히며, 개발자들은 Arm 기반 시스템의 최적화 및 애플리케이션 개발에 주목해야 합니다.\n하드웨어 발전이 소프트웨어 성능에 미치는 영향이 큽니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232502",
+    "title": "MacBook Air with M5",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232502",
+    "summary": "",
+    "score": 340,
+    "published_at": "2026-03-03T14:04:56+00:00",
+    "ai_summary": "새로운 M5 칩을 탑재한 맥북 에어에 대한 소식으로, 이는 애플 생태계 개발자들에게 성능 향상과 새로운 개발 환경 가능성을 제시합니다.\nM 시리즈 칩의 발전은 소프트웨어 개발 및 컴파일 속도에 직접적인 영향을 미칩니다.\n개발자들은 향상된 하드웨어 성능을 활용하여 더 효율적인 작업을 기대할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47190782",
+    "title": "Disable Your SSH access accidentally with scp",
+    "url": "https://sny.sh/hypha/blog/scp",
+    "discussion_url": "https://news.ycombinator.com/item?id=47190782",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-02-28T05:18:22+00:00",
+    "ai_summary": "scp 사용 중 잘못된 구문으로 SSH 설정 파일을 덮어쓸 수 있습니다.\n특히 scp source .ssh/authorized_keys와 같은 명령은 위험합니다.\nSSH 접근을 실수로 비활성화하는 흔한 실수를 방지하기 위해 주의가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232158",
+    "title": "I'm losing the SEO battle for my own open source project",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232158",
+    "summary": "",
+    "score": 419,
+    "published_at": "2026-03-03T13:39:38+00:00",
+    "ai_summary": "오픈 소스 프로젝트 개발자가 자신의 프로젝트의 SEO 순위가 경쟁 프로젝트에 밀리는 것에 대한 고민을 공유합니다.\n프로젝트의 인지도를 높이고 더 많은 사용자를 유치하기 위한 SEO 전략의 중요성을 강조합니다.\n개발자 커뮤니티 내에서 프로젝트 홍보와 검색 엔진 최적화의 어려움을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47211955",
+    "title": "The Two Kinds of Error",
+    "url": "https://evanhahn.com/the-two-kinds-of-error/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47211955",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-03-01T23:29:40+00:00",
+    "ai_summary": "오류를 개념적으로 두 가지 주요 유형으로 분류하여 설명합니다.\n소프트웨어 개발 과정에서 발생할 수 있는 다양한 문제들을 이해하고 효과적으로 디버깅하는 데 도움을 줍니다.\n견고하고 안정적인 시스템을 구축하기 위한 오류 처리의 중요성을 강조합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47237088",
+    "title": "GitHub Is Having Issues",
+    "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+    "discussion_url": "https://news.ycombinator.com/item?id=47237088",
+    "summary": "",
+    "score": 188,
+    "published_at": "2026-03-03T19:02:14+00:00",
+    "ai_summary": "개발자들에게 필수적인 협업 플랫폼인 GitHub에서 현재 문제가 발생하고 있습니다.\n이는 코드 저장소 접근, 프로젝트 관리 등 개발 워크플로우 전반에 영향을 미칠 수 있습니다.\n서비스 중단은 전 세계 개발자들의 생산성에 큰 지장을 초래합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47236582",
+    "title": "Payment fees matter more than you think",
+    "url": "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47236582",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-03-03T18:27:26+00:00",
+    "ai_summary": "결제 수수료가 비즈니스 수익성에 생각보다 큰 영향을 미친다는 점을 강조합니다.\n개발자들이 결제 시스템을 통합하거나 비즈니스 모델을 설계할 때 수수료 구조를 신중하게 고려해야 함을 시사합니다.\n효율적인 결제 처리와 비용 절감이 개발 프로젝트의 성공에 중요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "title": "Anthropic Claude Experienced Widespread Outage (1 minute read)",
+    "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "discussion_url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "summary": "Anthropic faced broad service disruptions affecting Claude.ai and Claude Code, with many users unable to log in, while the company reported that the Claude API continued operating normally.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "Anthropic의 Claude.ai 및 Claude Code 서비스에 광범위한 장애가 발생했습니다. 많은 사용자가 로그인에 어려움을 겪었으나, Claude API는 정상 작동했다고 보고되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjUxNTk2MywiZXhwIjoxNzczMTIwNzYzLCJhcnRpY2xlSWQiOiJUQkFJNUdLSkg2VjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.-KNJymAWowgZiyF92qZnZ3sxGno-ss74uAOs1OIDJCs",
+    "title": "AI Coding Startup Cursor Hits $2 Billion Annual Sales Rate (2 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjUxNTk2MywiZXhwIjoxNzczMTIwNzYzLCJhcnRpY2xlSWQiOiJUQkFJNUdLSkg2VjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.-KNJymAWowgZiyF92qZnZ3sxGno-ss74uAOs1OIDJCs",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjUxNTk2MywiZXhwIjoxNzczMTIwNzYzLCJhcnRpY2xlSWQiOiJUQkFJNUdLSkg2VjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.-KNJymAWowgZiyF92qZnZ3sxGno-ss74uAOs1OIDJCs",
+    "summary": "Cursor is one of the fastest-growing startups of all time. It is less than five years old, yet its product is already ingrained in many software programmers' daily routine. The company's annualized revenue topped $2 billion in February. About 60% of the revenue is coming from corporate customers. The startup was valued at $29.3 billion in November, making it one of the most valuable AI startups in the US.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "AI 코딩 스타트업 Cursor는 가장 빠르게 성장하는 스타트업 중 하나로, 5년도 채 되지 않아 많은 소프트웨어 개발자들의 일상에 자리 잡았습니다. 이 회사의 연간 매출은 20억 달러를 넘어섰으며, 매출의 약 60%는 기업 고객으로부터 발생합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/keeping-community-human-while-scaling-with-agents",
+    "title": "Keeping community human while scaling with agents (6 minute read)",
+    "url": "https://vercel.com/blog/keeping-community-human-while-scaling-with-agents",
+    "discussion_url": "https://vercel.com/blog/keeping-community-human-while-scaling-with-agents",
+    "summary": "Vercel developed the Community Guardian to handle routine tasks like routing, triage, and follow-ups, allowing team members to focus on meaningful interactions. The Guardian uses tools like AI Gateway and Vercel Workflows to efficiently manage community posts. Meanwhile, c0, a research assistant in Slack, gathers context from various sources, improving response times and accuracy for the team.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "Vercel은 Community Guardian을 개발하여 라우팅, 분류, 후속 조치와 같은 일상적인 작업을 처리함으로써 팀원들이 의미 있는 상호작용에 집중할 수 있도록 했습니다. 또한, Slack의 연구 보조 에이전트인 c0는 다양한 소스에서 컨텍스트를 수집하여 팀의 응답 시간과 정확성을 향상시킵니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage",
+    "title": "The State of Consumer AI. Part 1 - Usage (10 minute read)",
+    "url": "https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage",
+    "discussion_url": "https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage",
+    "summary": "AI apps have now crossed 1 billion weekly active users, with ChatGPT accounting for 900 million. ChatGPT is the only AI app with both the installed base and new user momentum to become the core utility. Its lead is even more pronounced across DAU:MAU ratios, retention, and time spent. The challenge now is to see whether the usage is deepening into genuine habit or still behaving like a utility people visit briefly and leave.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "AI 앱의 주간 활성 사용자 수가 10억 명을 넘어섰으며, ChatGPT가 9억 명을 차지하며 핵심 유틸리티로 자리 잡았습니다. ChatGPT는 설치 기반과 신규 사용자 모멘텀 모두에서 선두이며, 현재는 사용이 실제 습관으로 심화되는지 아니면 여전히 잠시 방문하고 떠나는 유틸리티로 남아있는지 확인하는 것이 과제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2511.18423",
+    "title": "Just-in-Time Agentic Memory Framework (18 minute read)",
+    "url": "https://arxiv.org/abs/2511.18423",
+    "discussion_url": "https://arxiv.org/abs/2511.18423",
+    "summary": "GAM is a new memory system that generates optimized runtime contexts for LLM agents using a two-part design: a lightweight Memorizer and a dynamic Researcher.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "GAM은 LLM 에이전트를 위한 새로운 메모리 시스템으로, 경량 Memorizer와 동적 Researcher의 두 부분으로 구성되어 최적화된 런타임 컨텍스트를 생성합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/ZHZisZZ/dllm",
+    "title": "Diffusion Language Model (GitHub Repo)",
+    "url": "https://github.com/ZHZisZZ/dllm",
+    "discussion_url": "https://github.com/ZHZisZZ/dllm",
+    "summary": "dLLM consolidates training and evaluation workflows for diffusion-based language models into a single library, aiming to improve transparency and reproducibility across the development pipeline.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "dLLM은 확산 기반 언어 모델의 학습 및 평가 워크플로우를 단일 라이브러리로 통합합니다. 이는 개발 파이프라인 전반의 투명성과 재현성을 향상시키는 것을 목표로 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+    "title": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops (11 minute read)",
+    "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+    "discussion_url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+    "summary": "Alibaba recently unveiled its Qwen3.5 Small Model Series. Qwen3.5-0.8B and 2B are intended for prototyping and deployment on edge devices where battery life is paramount. Qwen3.5-4B is a strong multimodal base for lightweight agents with a 262,144 token context window. Qwen3.5-9B is a compact reasoning model that outperforms OpenAI's open source gpt-oss-120B on key third-party benchmarks. The weights for the models are available now under Apache 2.0 licenses on Hugging Face and ModelScope.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "알리바바가 오픈소스 Qwen3.5 스몰 모델 시리즈를 공개했습니다. 특히 Qwen3.5-9B는 OpenAI의 gpt-oss-120B를 능가하며 일반 노트북에서도 실행 가능합니다. 모델 가중치는 Apache 2.0 라이선스로 Hugging Face와 ModelScope에서 사용 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/AlexsJones/llmfit",
+    "title": "llmfit (GitHub Repo)",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "discussion_url": "https://github.com/AlexsJones/llmfit",
+    "summary": "llmfit is a terminal tool that right-sizes large language models to fit a system's RAM, CPU, and GPU.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "llmfit은 시스템의 RAM, CPU, GPU에 맞게 대규모 언어 모델(LLM)의 크기를 조절하는 터미널 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cuda-agent.github.io/",
+    "title": "Reinforcement Learning for CUDA Kernel Optimization (4 minute read)",
+    "url": "https://cuda-agent.github.io/",
+    "discussion_url": "https://cuda-agent.github.io/",
+    "summary": "CUDA Agent introduced a large-scale agentic reinforcement learning system that synthesizes data, augments execution with specialized skills, and trains over long horizons to generate high-performance CUDA kernels.",
+    "score": 0,
+    "published_at": "2026-03-03T23:28:59+00:00",
+    "ai_summary": "CUDA Agent는 고성능 CUDA 커널을 생성하기 위한 대규모 에이전트 기반 강화 학습 시스템을 도입했습니다. 이 시스템은 데이터를 합성하고, 전문 기술로 실행을 강화하며, 장기 학습을 통해 최적화를 진행합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Language"
+    ]
+  }
+]
