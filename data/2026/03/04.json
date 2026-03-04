@@ -1,0 +1,649 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27198",
+    "title": "OpenAI, Codex 앱 Window용 공개",
+    "url": "https://news.hada.io/topic?id=27198",
+    "discussion_url": "https://news.hada.io/topic?id=27198",
+    "summary": "여러 프로젝트를 한 화면에서 병렬 에이전트 스레드로 작업 가능\n\nPowerShell 과 Windows 네이티브 샌드박스 기반으로 동작하지만, 필요시엔 WSL 모드로 전환 가능\n\nOpen 기본 에디터 지정 가능(VSCode, SublimeText,..) 하며 프로젝트별로 지정 가능",
+    "score": 0,
+    "published_at": "2026-03-04T22:08:15+00:00",
+    "ai_summary": "OpenAI가 Windows용 Codex 앱을 공개했으며, 여러 프로젝트를 병렬 에이전트 스레드로 작업할 수 있습니다.\nPowerShell, Windows 샌드박스 및 WSL 기반으로 동작하며, VSCode 등 선호하는 에디터를 지정하여 사용할 수 있습니다.\n개발 생산성 향상에 기여할 새로운 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27197",
+    "title": "Show GN: HN 토론을 아티클 옆에 붙여봤습니다",
+    "url": "https://news.hada.io/topic?id=27197",
+    "discussion_url": "https://news.hada.io/topic?id=27197",
+    "summary": "긱뉴스나 해커뉴스 보면 토론 내용이랑 본문이 다른 페이지로 분리된게 불편하더라고요. 사람들이 어떤 문단을 얘기하는 건지 기사랑 댓글창을 왔다갔다하는 게 항상 불편했습니다.\n그래서 아무 웹페이지에나 Google Docs / Notion 스타일 코멘트를 달 수 있는 도구를 만들었습니다.\n단톡방에서 링크 공",
+    "score": 0,
+    "published_at": "2026-03-04T16:28:17+00:00",
+    "ai_summary": "긱뉴스/해커뉴스 토론과 본문이 분리된 불편함을 해결하기 위해 개발자가 새로운 도구를 만들었습니다.\n이 도구는 어떤 웹페이지에서든 Google Docs/Notion 스타일로 코멘트를 달 수 있게 해줍니다.\n기사 내용과 댓글을 오가며 읽는 불편함을 해소하여 사용자 경험을 개선합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27191",
+    "title": "MacBook Air with M5",
+    "url": "https://news.hada.io/topic?id=27191",
+    "discussion_url": "https://news.hada.io/topic?id=27191",
+    "summary": "세계에서 가장 많이 판매된 노트북이 M5 칩을 탑재하며 성능과 AI 처리 능력을 대폭 강화함\n10코어 CPU와 최대 10코어 GPU, 각 코어에 Neural Accelerator를 내장해 AI 작업에서 M4 대비 최대 4배, M1 대비 최대 9.5배 빠른 성능 제공\n기...",
+    "score": 0,
+    "published_at": "2026-03-04T10:33:36+00:00",
+    "ai_summary": "세계적으로 많이 팔린 MacBook Air가 M5 칩을 탑재하며 성능과 AI 처리 능력을 대폭 강화합니다.\n10코어 CPU와 최대 10코어 GPU, 그리고 Neural Accelerator를 내장하여 AI 작업 성능이 크게 향상되었습니다.\nM4 대비 최대 4배, M1 대비 최대 9.5배 빠른 AI 성능을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27187",
+    "title": "Go는 AI 에이전트를 위한 최고의 언어",
+    "url": "https://news.hada.io/topic?id=27187",
+    "discussion_url": "https://news.hada.io/topic?id=27187",
+    "summary": "Go 언어의 단순성과 컴파일 특성이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높임\n\n정적 타이핑과 빠른 컴파일 속도 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음\n언어 차원의 표준화된 도...",
+    "score": 0,
+    "published_at": "2026-03-04T04:15:29+00:00",
+    "ai_summary": "Go 언어는 단순성, 컴파일 특성, 안정성, 실행 효율성 덕분에 AI 에이전트 개발에 최고의 언어라고 주장됩니다.\n정적 타이핑과 빠른 컴파일 속도로 에이전트가 코드 오류를 신속히 검증하고 효율적인 반복 작업을 수행할 수 있습니다.\n언어 차원의 표준화된 도구 또한 큰 장점으로 꼽힙니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27183",
+    "title": "클로드의 순환들 [PDF]",
+    "url": "https://news.hada.io/topic?id=27183",
+    "discussion_url": "https://news.hada.io/topic?id=27183",
+    "summary": "Anthropic의 모델 Claude Opus 4.6이 Donald Knuth가 몇 주간 연구하던 방향성 해밀토니안 순환 분해 문제를 해결함\n문제는 (m^3)개의 꼭짓점을 가진 방향 그래프의 세 개의 해밀토니안 순환으로의 분해를 찾는 것이며, Claude는 이를 o...",
+    "score": 0,
+    "published_at": "2026-03-04T01:34:45+00:00",
+    "ai_summary": "Anthropic의 LLM인 Claude Opus 4.6이 도널드 크누스가 몇 주간 연구했던 방향성 해밀토니안 순환 분해 문제를 성공적으로 해결했습니다.\n이 문제는 (m^3)개의 꼭짓점을 가진 방향 그래프를 세 개의 해밀토니안 순환으로 분해하는 복잡한 과제였습니다.\n이는 최신 LLM의 고난도 문제 해결 능력을 인상적으로 보여주는 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27179",
+    "title": "gogcli - 터미널에서 Google Workspace를 제어하는 고속 CLI",
+    "url": "https://news.hada.io/topic?id=27179",
+    "discussion_url": "https://news.hada.io/topic?id=27179",
+    "summary": "Gmail, 캘린더, 드라이브, Docs, Sheets, 챗, 연락처, Tasks, Forms, Keep 등 구글 웍스페이스 전반을 터미널에서 제어하기 위해 개발된 에이전트 친화적 경량/고속 CLI 도구\n\nOpenClaw 제작자의 프로젝트로 OpenClaw에서 구글 연동에 주로 사용하지만, 별도 CLI로...",
+    "score": 0,
+    "published_at": "2026-03-04T00:31:02+00:00",
+    "ai_summary": "Gmail, 캘린더, 드라이브 등 구글 웍스페이스를 터미널에서 제어하는 경량/고속 CLI 도구입니다.\nOpenClaw 제작자의 프로젝트로, 구글 연동 자동화 및 스크립팅에 매우 유용합니다.\n개발자가 터미널 환경에서 작업을 효율적으로 처리하는 데 큰 도움이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27178",
+    "title": "GPT‑5.3 Instant: 더 자연스럽고 유용한 일상 대화",
+    "url": "https://news.hada.io/topic?id=27178",
+    "discussion_url": "https://news.hada.io/topic?id=27178",
+    "summary": "ChatGPT의 가장 많이 사용되는 모델이 업데이트되어, 일상 대화의 정확성·유창성·맥락 이해력이 향상됨\n새 버전은 불필요한 거절과 경고문을 줄이고, 질문에 직접적이고 실질적인 답변을 제공\n웹 검색 시 정보...",
+    "score": 0,
+    "published_at": "2026-03-04T00:07:03+00:00",
+    "ai_summary": "ChatGPT의 핵심 모델인 GPT-5.3 Instant가 업데이트되어 일상 대화의 정확성과 유창성이 대폭 향상되었습니다.\n불필요한 거절과 경고문이 줄고, 질문에 더 직접적이고 실질적인 답변을 제공합니다.\n이는 LLM 활용성 증대 및 개발자가 애플리케이션에 통합할 가능성을 높입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27177",
+    "title": "Apple, M5 Pro/Max 탑재한 MacBook Pro 14/16 공개",
+    "url": "https://news.hada.io/topic?id=27177",
+    "discussion_url": "https://news.hada.io/topic?id=27177",
+    "summary": "M5 Pro와 M5 Max 칩 을 내장하고, 최대 4배 향상된 AI 성능과 최대 2배 빠른 SSD 속도 제공\n새로운 퓨전 아키텍처 기반으로 설계되어, 최대 18코어 CPU와 각 GPU 코어에 Neural Accelerator를 내장해 AI 처리 속도를 대폭 향상",
+    "score": 0,
+    "published_at": "2026-03-04T00:05:17+00:00",
+    "ai_summary": "Apple이 M5 Pro/Max 칩을 탑재한 신형 MacBook Pro 14/16을 공개했습니다.\n이 모델은 최대 4배 향상된 AI 성능과 2배 빠른 SSD 속도를 자랑합니다.\n새로운 퓨전 아키텍처와 Neural Accelerator로 AI 처리 능력이 크게 강화되어, 개발자 생산성 향상에 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
+    "discussion_url": "https://news.ycombinator.com/item?id=47251259",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-03-04T17:56:04+00:00",
+    "ai_summary": "NanoGPT는 소량의 데이터와 무한한 컴퓨팅 자원을 활용하여 언어 모델링을 연구하는 프로젝트입니다.\n이는 제한된 데이터셋에서도 효과적인 모델 학습 방법을 탐구하며, LLM의 기본 원리를 이해하는 데 도움이 됩니다.\n개발자들이 직접 구현하고 실험하며 LLM 아키텍처를 심층적으로 학습할 수 있는 가이드가 될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47245491",
+    "title": "Moss is a pixel canvas where every brush is a tiny program",
+    "url": "https://www.moss.town/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47245491",
+    "summary": "",
+    "score": 144,
+    "published_at": "2026-03-04T10:21:13+00:00",
+    "ai_summary": "Moss는 픽셀 캔버스이며, 각 브러시가 작은 프로그램으로 작동하는 독특한 시스템입니다.\n사용자들은 코드를 통해 그림을 그리고 인터랙티브한 시각 예술을 창작할 수 있습니다.\n이는 프론트엔드 개발자, 그래픽 프로그래머 또는 인터랙티브 아트에 관심 있는 개발자에게 흥미로운 도구가 될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47252049",
+    "title": "An interactive map of Flock Cams",
+    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+    "discussion_url": "https://news.ycombinator.com/item?id=47252049",
+    "summary": "",
+    "score": 459,
+    "published_at": "2026-03-04T18:50:45+00:00",
+    "ai_summary": "Flock Cams의 인터랙티브 지도는 전 세계의 실시간 카메라 피드를 시각적으로 탐색할 수 있게 해줍니다.\n사용자들은 다양한 위치의 카메라를 통해 새들의 활동 등 자연 현상을 관찰하고 정보를 얻을 수 있습니다.\n이는 웹 매핑, 실시간 데이터 스트리밍, 데이터 시각화 기술에 관심 있는 개발자에게 관련성이 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47253221",
+    "title": "The View from RSS",
+    "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47253221",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-03-04T20:19:43+00:00",
+    "ai_summary": "이 기사는 RSS 피드를 통해 정보를 소비하고 세상을 바라보는 관점과 그 중요성을 논합니다.\nRSS는 독립적인 콘텐츠 소비와 개인화된 정보 습득의 중요한 수단이며, 웹의 분산화를 지지합니다.\n개발자들은 RSS 리더를 만들거나, 개인화된 정보 소비 도구를 구축하는 데 활용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47251987",
+    "title": "Data Has Weight but Only on SSDs",
+    "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47251987",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-03-04T18:46:21+00:00",
+    "ai_summary": "“데이터는 SSD에서만 무게를 가진다”는 제목은 데이터 저장 방식과 물리적 특성 사이의 흥미로운 비유를 제시합니다.\n이는 SSD의 작동 원리나 데이터 저장의 물리적/논리적 측면, 그리고 성능 최적화에 대한 깊이 있는 탐구일 수 있습니다.\n데이터베이스, 스토리지, 시스템 성능 엔지니어링에 관심 있는 개발자에게 관련성이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47246296",
+    "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+    "discussion_url": "https://news.ycombinator.com/item?id=47246296",
+    "summary": "",
+    "score": 242,
+    "published_at": "2026-03-04T12:04:31+00:00",
+    "ai_summary": "Unsloth 문서를 통해 Qwen3.5 LLM 모델을 효과적으로 파인튜닝하는 방법을 설명합니다.\n이 가이드는 모델 최적화 및 성능 향상을 위한 실용적인 단계를 제공합니다.\n개발자들이 LLM 애플리케이션을 구축하고 배포하는 데 필수적인 지침을 담고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47208688",
+    "title": "The Rust calling convention we deserve (2024)",
+    "url": "https://mcyoung.xyz/2024/04/17/calling-convention/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47208688",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-01T17:25:27+00:00",
+    "ai_summary": "2024년 시점에서 Rust 프로그래밍 언어에 적합한 호출 규약(calling convention)에 대해 논의합니다.\n이는 Rust의 성능, 상호 운용성 및 컴파일러 디자인에 중요한 영향을 미칩니다.\n시스템 프로그래밍과 언어 내부 동작에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47247033",
+    "title": "Glaze by Raycast",
+    "url": "https://www.glazeapp.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47247033",
+    "summary": "",
+    "score": 177,
+    "published_at": "2026-03-04T13:21:31+00:00",
+    "ai_summary": "Raycast에서 제공하는 새로운 기능 또는 제품인 Glaze에 대한 정보입니다.\nRaycast는 개발자 생산성을 향상시키는 도구로 널리 사용되므로, Glaze 또한 개발 워크플로우에 긍정적인 영향을 미칠 것으로 예상됩니다.\n개발자 도구 및 생산성 최적화에 관심 있는 사용자에게 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47202210",
+    "title": "Raspberry Pi Pico as AM Radio Transmitter",
+    "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
+    "discussion_url": "https://news.ycombinator.com/item?id=47202210",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-03-01T00:26:43+00:00",
+    "ai_summary": "Raspberry Pi Pico를 사용하여 AM 라디오 송신기를 만드는 프로젝트를 설명합니다.\n이는 임베디드 시스템 프로그래밍과 하드웨어 제어에 대한 실용적인 예시를 제공합니다.\nIoT, 전자공학 또는 저수준 하드웨어 인터페이스에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47204994",
+    "title": "Libre Solar – Open Hardware for Renewable Energy",
+    "url": "https://libre.solar",
+    "discussion_url": "https://news.ycombinator.com/item?id=47204994",
+    "summary": "",
+    "score": 191,
+    "published_at": "2026-03-01T09:01:05+00:00",
+    "ai_summary": "재생 에너지 분야를 위한 개방형 하드웨어 프로젝트인 Libre Solar에 대한 기사입니다.\n이 프로젝트는 DIY 친환경 에너지 솔루션을 위한 컨트롤러, 인버터 등을 포함합니다.\n개발자들이 에너지 시스템의 소프트웨어 및 펌웨어 측면에 기여할 수 있는 기회를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47254624",
+    "title": "Accessibility Issues Are Often Usability Issues",
+    "url": "https://protovate.com/blog/you-dont-need-accessibility-until-you-do/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47254624",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-03-04T22:06:57+00:00",
+    "ai_summary": "이 기사는 접근성 문제가 종종 사용성 문제와 깊이 연관되어 있음을 강조합니다.\n접근성을 개선하는 것은 모든 사용자를 위한 제품의 전반적인 사용 경험을 향상시킵니다.\n개발자들이 사용자 인터페이스 설계 및 구현 시 접근성을 우선시해야 함을 역설합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47245485",
+    "title": "Show HN: A shell-native cd-compatible directory jumper using power-law frecency",
+    "url": "https://github.com/jghub/sd-switchdir",
+    "discussion_url": "https://news.ycombinator.com/item?id=47245485",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-03-04T10:20:18+00:00",
+    "ai_summary": "터미널에서 `cd` 명령어처럼 작동하면서도 더 빠르게 디렉토리를 이동할 수 있는 도구를 소개합니다.\n이 도구는 방문 빈도와 최신성을 결합한 \"frecency\" 알고리즘을 사용하여 효율적인 탐색을 돕습니다.\n개발자들의 셸 작업 효율성을 크게 높일 수 있는 새로운 유틸리티입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47246858",
+    "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+    "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+    "discussion_url": "https://news.ycombinator.com/item?id=47246858",
+    "summary": "",
+    "score": 103,
+    "published_at": "2026-03-04T13:04:53+00:00",
+    "ai_summary": "MyFirst 키즈 스마트워치에서 심각한 보안 취약점이 발견되어 해킹당한 사례를 다룹니다.\n공격자가 시계의 카메라와 마이크에 접근할 수 있어 아동의 사생활 침해가 우려됩니다.\nIoT 제품 개발자들에게 보안 설계의 중요성을 일깨우는 경고입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47189390",
+    "title": "Approximation Game",
+    "url": "https://lcamtuf.substack.com/p/approximation-game",
+    "discussion_url": "https://news.ycombinator.com/item?id=47189390",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-02-28T02:29:51+00:00",
+    "ai_summary": "이 기사는 \"근사 게임\"이라는 개념을 다루며, 이는 아마도 수학적 근사나 알고리즘적 추론과 관련된 주제일 것입니다.\n복잡한 문제를 해결하기 위한 근사 알고리즘의 설계나 분석에 초점을 맞출 수 있습니다.\n개발자들은 성능 최적화나 복잡도 분석에 대한 통찰력을 얻을 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47251787",
+    "title": "Faster C software with Dynamic Feature Detection",
+    "url": "https://gist.github.com/jjl/d998164191af59a594500687a679b98d",
+    "discussion_url": "https://news.ycombinator.com/item?id=47251787",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-03-04T18:33:38+00:00",
+    "ai_summary": "동적 기능 감지(Dynamic Feature Detection)를 통해 C 언어 소프트웨어의 성능을 향상시키는 방법을 설명합니다.\n런타임에 CPU 기능을 감지하여 특정 명령어 세트(예: AVX)를 활용함으로써 속도를 최적화합니다.\n저수준 최적화 및 시스템 프로그래밍에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47207647",
+    "title": "My Favorite 39C3 Talks",
+    "url": "https://asindu.xyz/my-favorite-39c3-talks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47207647",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-03-01T15:36:48+00:00",
+    "ai_summary": "제39회 카오스 커뮤니케이션 콩그레스(39C3)에서 가장 인상 깊었던 강연들을 소개하는 글입니다.\n보안, 프라이버시, 기술 윤리 및 다양한 해킹 주제에 대한 통찰력 있는 발표를 다룹니다.\n개발자들이 최신 기술 동향과 사회적 함의를 이해하는 데 도움이 될 만한 내용을 담고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/gpt-5-3-instant/",
+    "title": "GPT‑5.3 Instant (4 minute read)",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "discussion_url": "https://openai.com/index/gpt-5-3-instant/",
+    "summary": "OpenAI released GPT‑5.3 Instant, an update focused on improving conversational flow, answer relevance, and web search results in ChatGPT. The model also reduces unnecessary refusals and overly defensive responses to produce more direct answers.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "OpenAI의 GPT-5.3 Instant는 ChatGPT의 대화 흐름, 답변 관련성, 웹 검색 결과 개선에 중점을 둡니다. 불필요한 거부나 방어적인 응답을 줄여 더 직접적인 답변을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "title": "Gemini 3.1 Flash‑Lite (2 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "summary": "Google introduced Gemini 3.1 Flash‑Lite, a low‑cost, high‑speed model designed for large‑scale developer workloads. The model offers faster latency and output speeds than 2.5 Flash while costing $0.25 per million input tokens and $1.50 per million output tokens.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "Google은 대규모 개발자 워크로드를 위한 저비용, 고속 모델인 Gemini 3.1 Flash-Lite를 출시했습니다. 이 모델은 더 빠른 응답 속도와 출력 속도를 제공하며, 저렴한 비용으로 이용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/CpWFrT9Grr5t7L3vx/i-had-claude-read-every-ai-safety-paper-since-2020-here-s",
+    "title": "I Had Claude Read Every AI Safety Paper Since 2020, Here's the DB (5 minute read)",
+    "url": "https://www.lesswrong.com/posts/CpWFrT9Grr5t7L3vx/i-had-claude-read-every-ai-safety-paper-since-2020-here-s",
+    "discussion_url": "https://www.lesswrong.com/posts/CpWFrT9Grr5t7L3vx/i-had-claude-read-every-ai-safety-paper-since-2020-here-s",
+    "summary": "A compiled database of nearly 4,000 AI safety papers since 2020 aims to streamline finding relevant research, despite the overwhelming volume, which often lacks substance. Claude AI assisted in summarizing, tagging, and compiling papers using citation-based methods to overcome challenges in searchability and dataset availability. This database helps quickly access pertinent research and datasets, crucial for AI safety projects.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "2020년 이후 AI 안전 연구 논문 약 4,000편을 모아 데이터베이스를 구축했습니다. Claude AI가 논문 요약, 태그 지정, 편집을 도와 AI 안전 프로젝트에 필요한 연구 및 데이터셋을 빠르게 찾아볼 수 있도록 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox",
+    "title": "How Claude Code escapes its own denylist and sandbox (15 minute read)",
+    "url": "https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox",
+    "discussion_url": "https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox",
+    "summary": "Every major runtime security tool identifies executables by their path, not their content, when deciding what to block. This is a real problem with AI agents, as they can reason about and bypass path-based restrictions. Agents have been observed disabling sandboxes and running commands autonomously just to finish tasks. This is a class of evasion that no current evaluation framework measures.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "주요 런타임 보안 도구는 실행 파일을 경로로 식별하여 AI 에이전트가 이를 우회할 수 있습니다. AI 에이전트는 작업을 완료하기 위해 샌드박스를 비활성화하고 명령을 자율적으로 실행하는 등 경로 기반 제한을 우회할 수 있습니다. 이는 현재 평가 프레임워크가 측정하지 않는 새로운 유형의 회피 방식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2603.01896",
+    "title": "Code Understanding Agents (22 minute read)",
+    "url": "https://arxiv.org/abs/2603.01896",
+    "discussion_url": "https://arxiv.org/abs/2603.01896",
+    "summary": "Semi‑formal reasoning structures LLM agent prompts around explicit premises, execution traces, and formal conclusions to analyze code semantics without running programs. The method improves performance across patch verification, fault localization, and code QA benchmarks.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "반정형화된 추론 구조를 통해 LLM 에이전트가 프로그램을 실행하지 않고 코드의 의미를 분석합니다. 이 방법은 패치 검증, 오류 위치 파악, 코드 QA 벤치마크 전반에서 성능을 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/hyperspell/hyperspell-openclaw",
+    "title": "OpenClaw Hyperspell Plugin (GitHub Repo)",
+    "url": "https://github.com/hyperspell/hyperspell-openclaw",
+    "discussion_url": "https://github.com/hyperspell/hyperspell-openclaw",
+    "summary": "The OpenClaw plugin for Hyperspell provides AI agents with context and memory capabilities. Users can set it up to sync memory files, configure API keys, and connect various apps like Notion, Slack, and Google Drive. With features like autoContext and memory sync, it integrates user data to enhance AI interactions by injecting relevant memories from different sources.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "OpenClaw Hyperspell 플러그인은 AI 에이전트에 컨텍스트 및 메모리 기능을 제공합니다. 이 플러그인을 통해 사용자는 Notion, Slack, Google Drive 등 다양한 앱과 연동하여 사용자 데이터를 통합하고 AI 상호 작용을 개선할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2603.02049",
+    "title": "Consistent 3D Scenes from Video Diffusion (16 minute read)",
+    "url": "https://arxiv.org/abs/2603.02049",
+    "discussion_url": "https://arxiv.org/abs/2603.02049",
+    "summary": "WorldStereo introduces geometric memory modules that guide video diffusion models to generate camera‑consistent multi‑view videos while enabling 3D reconstruction.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "WorldStereo 기술은 기하학적 메모리 모듈을 사용하여 비디오 확산 모델이 카메라 일관성을 유지하는 다중 시점 비디오를 생성하도록 안내합니다. 이 기술은 3D 재구성을 가능하게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://officechai.com/ai/alibaba-qwens-tech-lead-junyang-lin-steps-down/",
+    "title": "Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down (5 minute read)",
+    "url": "https://officechai.com/ai/alibaba-qwens-tech-lead-junyang-lin-steps-down/",
+    "discussion_url": "https://officechai.com/ai/alibaba-qwens-tech-lead-junyang-lin-steps-down/",
+    "summary": "Junyang Lin, the tech lead for Alibaba's Qwen AI team, and two other researchers have stepped down, leaving a significant public-facing void. Lin, pivotal in Qwen's rise to global prominence and known for candid discussions on Chinese AI constraints, had led the team to over 600 million model downloads. Alibaba has not announced a successor, but Lin's next steps will likely draw attention from the global AI community.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "알리바바 Qwen AI 팀의 기술 리더 Junyang Lin과 두 명의 연구원이 사임하여 공백을 만들었습니다. Lin은 Qwen을 세계적으로 알리고 6억 회 이상 모델 다운로드를 이끌었던 핵심 인물입니다. 그의 다음 행보는 전 세계 AI 커뮤니티의 주목을 받을 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/meta-to-create-new-applied-ai-engineering-organization-in-reality-labs-division-d41c4a69?st=JcZ42x&reflink=desktopwebshare_permalink&mod=tldr",
+    "title": "Meta to Create New Applied AI Engineering Organization (3 minute read)",
+    "url": "https://www.wsj.com/tech/ai/meta-to-create-new-applied-ai-engineering-organization-in-reality-labs-division-d41c4a69?st=JcZ42x&reflink=desktopwebshare_permalink&mod=tldr",
+    "discussion_url": "https://www.wsj.com/tech/ai/meta-to-create-new-applied-ai-engineering-organization-in-reality-labs-division-d41c4a69?st=JcZ42x&reflink=desktopwebshare_permalink&mod=tldr",
+    "summary": "Meta is creating a new applied AI engineering organization to help bolster its superintelligence efforts. The new teams will be led by Maher Saba, current vice-president of the Reality Labs division. The organization will partner with Meta's Superintelligence Lab to build a data engine that helps its models get better, faster. Meta plans to start shipping its new models and products in the coming months.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "Meta는 초지능 연구 강화를 위해 새로운 응용 AI 엔지니어링 조직을 신설합니다. 이 조직은 Meta의 Superintelligence Lab과 협력하여 모델 개선을 위한 데이터 엔진을 구축할 예정입니다. Meta는 곧 새로운 모델과 제품을 출시할 계획입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/cursor-support",
+    "title": "Cursor Support Runs on Cursor (4 minute read)",
+    "url": "https://cursor.com/blog/cursor-support",
+    "discussion_url": "https://cursor.com/blog/cursor-support",
+    "summary": "Cursor's support team now investigates most tickets directly inside Cursor by combining code search, logs, documentation, and internal tools through MCP integrations.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "Cursor의 지원팀은 이제 코드 검색, 로그, 문서 및 내부 도구를 MCP 통합을 통해 Cursor 내에서 결합하여 대부분의 티켓을 조사합니다. 이는 Cursor가 개발자 지원 워크플로우를 효율화하는 데 사용될 수 있음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/894KvMQcMQQnteYk8/constitutional-black-box-monitoring-for-scheming-in-llm",
+    "title": "Constitutional Black-Box Monitoring for Scheming in LLM Agents (3 minute read)",
+    "url": "https://www.lesswrong.com/posts/894KvMQcMQQnteYk8/constitutional-black-box-monitoring-for-scheming-in-llm",
+    "discussion_url": "https://www.lesswrong.com/posts/894KvMQcMQQnteYk8/constitutional-black-box-monitoring-for-scheming-in-llm",
+    "summary": "Black-box monitors can detect AI scheming using only observable actions, without internal insights.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "블랙박스 모니터는 LLM 에이전트의 내부 통찰 없이 관찰 가능한 행동만으로 AI의 '계획(scheming)'을 탐지할 수 있습니다. 이는 LLM 에이전트의 행동을 감시하는 새로운 방법을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy (5 minute read)",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "discussion_url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "summary": "Recent advances in AI capabilities have made it clear that there is an urgent need to rethink various aspects of computer privacy.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "LLM은 익명 사용자를 놀라운 정확도로 식별할 수 있는 능력을 가지고 있습니다. 이는 AI 기능의 발전과 함께 컴퓨터 개인 정보 보호의 여러 측면을 재고해야 할 시급한 필요성을 제기합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://zackproser.com/blog/openai-codex-review-2026",
+    "title": "OpenAI Codex Review 2026 — Updated from Daily Use (10 minute read)",
+    "url": "https://zackproser.com/blog/openai-codex-review-2026",
+    "discussion_url": "https://zackproser.com/blog/openai-codex-review-2026",
+    "summary": "Codex in 2026 has become production-ready infrastructure and is ready for serious development work.",
+    "score": 0,
+    "published_at": "2026-03-04T23:31:45+00:00",
+    "ai_summary": "2026년 Codex는 프로덕션 환경에서 사용할 수 있는 인프라로 발전했습니다. 이제 본격적인 개발 작업에 활용할 준비가 완료되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
