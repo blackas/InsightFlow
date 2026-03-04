@@ -1,6 +1,6 @@
 # AGENTS.md — Code Review Guide for InsightFlow
 
-> Quick-reference for reviewers. For development workflow, see [`CODE.md`](./CODE.md). For project context, see [`AGENT.md`](./AGENT.md).
+> Quick-reference for reviewers. For development workflow, see [`CODE.md`](./CODE.md).
 
 ---
 
@@ -50,8 +50,7 @@ tests/
 ├── test_normalize_model.py          # API response normalization
 ├── test_notion_common.py            # Shared Notion utilities
 ├── test_notion_model_dashboard.py   # Dashboard upsert + schema + None handling
-├── test_blog_builder.py             # Blog generation
-└── test_main.py                     # Full pipeline mock tests
+└── test_blog_builder.py             # Blog generation
 ```
 
 ### Pipeline Flow (main.py)

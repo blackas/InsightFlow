@@ -206,6 +206,50 @@ class TestRenderArticleHtml:
         html = render_article_html(sample_issue, WORKER_URL)
         assert "https://news.hada.io/topic?id=67890" in html
 
+    def test_escapes_xss_in_title(self) -> None:
+        malicious_issue: dict[str, Any] = {
+            "number": 99,
+            "title": '[geeknews] <script>alert("xss")</script>',
+            "body": SAMPLE_ISSUE_BODY,
+            "labels": [{"name": "auto-collected"}],
+            "state": "OPEN",
+            "createdAt": "2026-02-21T00:00:00Z",
+        }
+        result = render_article_html(malicious_issue, WORKER_URL)
+        assert "<script>" not in result
+        assert "&lt;script&gt;" in result
+
+    def test_rejects_javascript_url_scheme(self) -> None:
+        malicious_issue: dict[str, Any] = {
+            "number": 99,
+            "title": "[geeknews] Test",
+            "body": (
+                "## 기사 정보\n"
+                "- **원본 URL**: javascript:alert(1)\n"
+                "- **토론**: https://safe.example.com\n"
+                "- **소스**: geeknews\n"
+                "- **관련성 점수**: 0.5\n"
+                "\n"
+                "## AI 요약\nTest summary.\n"
+            ),
+            "labels": [{"name": "auto-collected"}],
+            "state": "OPEN",
+            "createdAt": "2026-02-21T00:00:00Z",
+        }
+        result = render_article_html(malicious_issue, WORKER_URL)
+        assert "javascript:alert" not in result
+
+    def test_hides_read_button_when_no_worker_url(
+        self, sample_issue: dict[str, Any]
+    ) -> None:
+        result = render_article_html(sample_issue, "")
+        assert "읽음" not in result
+        assert "/close/" not in result
+
+    def test_read_button_is_post_form(self, sample_issue: dict[str, Any]) -> None:
+        result = render_article_html(sample_issue, WORKER_URL)
+        assert 'method="POST"' in result
+
 
 # ---------------------------------------------------------------------------
 # render_index_html

@@ -24,6 +24,10 @@ export default {
       return new Response("Not Found", { status: 404 });
     }
 
+    if (request.method !== "POST") {
+      return new Response("Method Not Allowed", { status: 405 });
+    }
+
     const issueNumber = match[1];
     const repo = env.GITHUB_REPO;
     const token = env.GITHUB_TOKEN;
@@ -53,8 +57,9 @@ export default {
     }
 
     const body = await res.text();
-    return new Response(`GitHub API error: ${res.status} ${body}`, {
-      status: res.status,
+    console.error(`GitHub API error: ${res.status} ${body}`);
+    return new Response("Failed to close issue. Please try again later.", {
+      status: 502,
     });
   },
 };

@@ -6,6 +6,7 @@ static HTML pages deployable to GitHub Pages.
 
 from __future__ import annotations
 
+import html
 import json
 import logging
 import re
@@ -141,12 +142,10 @@ def render_article_html(issue: dict[str, Any], worker_url: str) -> str:
     <h1>{_esc(title)}</h1>
     <div class="summary">{summary_html}</div>
     <div class="links">
-      <a href="{_esc(parsed["url"])}" target="_blank" rel="noopener">원문 보기 ↗</a>
-      <a href="{_esc(parsed["discussion_url"])}" target="_blank" rel="noopener">토론 보기 ↗</a>
+      <a href="{_safe_url(parsed["url"])}" target="_blank" rel="noopener">원문 보기 ↗</a>
+      <a href="{_safe_url(parsed["discussion_url"])}" target="_blank" rel="noopener">토론 보기 ↗</a>
     </div>
-    <div class="actions">
-      <a class="btn-read" href="{_esc(worker_url)}/close/{number}" target="_blank" rel="noopener">✓ 읽음</a>
-    </div>
+    {_read_button_html(worker_url, number)}
   </article>
 </main>
 </body>
@@ -226,12 +225,26 @@ def build_blog(output_dir: str, worker_url: str) -> None:
 
 
 def _esc(text: str) -> str:
-    """Minimal HTML escaping."""
+    """HTML escaping using stdlib."""
+    return html.escape(text)
+
+
+def _safe_url(url: str) -> str:
+    """Escape URL for use in href, allowing only http(s) schemes."""
+    if url and not url.startswith(("http://", "https://")):
+        return ""
+    return _esc(url)
+
+
+def _read_button_html(worker_url: str, number: int) -> str:
+    """Render '읽음' button as a POST form, or empty string if no worker_url."""
+    if not worker_url:
+        return ""
     return (
-        text.replace("&", "&amp;")
-        .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
+        '<div class="actions">'
+        f'<form method="POST" action="{_safe_url(worker_url)}/close/{number}">'
+        '<button class="btn-read" type="submit">✓ 읽음</button>'
+        "</form></div>"
     )
 
 
