@@ -1,0 +1,769 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27227",
+    "title": "Firefox의 우클릭 메뉴를 about:config로 개선하기",
+    "url": "https://news.hada.io/topic?id=27227",
+    "discussion_url": "https://news.hada.io/topic?id=27227",
+    "summary": "macOS의 기본 Firefox 설치 환경에서 우클릭 메뉴가 지나치게 복잡하고 불필요한 항목이 많다는 문제 제기\n\nabout:config 설정을 통해 AI 관련 버튼, 스크린샷, 번역, 링크 미리보기, 시각 검색 등 여러 기능을 비활성화 가능\n총 13개의 설정...",
+    "score": 0,
+    "published_at": "2026-03-05T16:34:42+00:00",
+    "ai_summary": "Firefox의 기본 우클릭 메뉴가 macOS에서 지나치게 복잡하여 불필요한 항목이 많다는 문제가 제기되었습니다.\n`about:config` 설정을 통해 AI 관련 버튼, 스크린샷, 번역 등 여러 기능을 비활성화할 수 있습니다.\n이를 통해 개발자나 고급 사용자는 메뉴를 간소화하고 개인화할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27222",
+    "title": "AI를 활용한 코드 재작성과 라이선스 변경의 법적 정당성 논란",
+    "url": "https://news.hada.io/topic?id=27222",
+    "discussion_url": "https://news.hada.io/topic?id=27222",
+    "summary": "핵심 요약 (Top)\n오픈소스 라이브러리 chardet이 AI(Claude)를 이용해 전체 코드를 재작성한 후 라이선스를 변경하려 시도했으나, 이에 대한 법적·윤리적 타당성 논란이 Hacker News에서 뜨겁게 달궈지고 있습니다. 주요 쟁점은 AI가 학습한 원본 코드의 영향력, '클린룸(Clean Room)' 설계의 ...",
+    "score": 0,
+    "published_at": "2026-03-05T14:34:26+00:00",
+    "ai_summary": "오픈소스 라이브러리 `chardet`이 AI(Claude)로 코드를 재작성하고 라이선스를 변경하려다 논란이 되었습니다.\nAI가 학습한 원본 코드의 영향력과 '클린룸' 설계의 유효성이 주요 쟁점입니다.\n이는 AI 코드 재작성의 법적, 윤리적 타당성에 대한 개발자 커뮤니티의 뜨거운 논의를 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27219",
+    "title": "Claude Code, HTTP Hook 기능 추가",
+    "url": "https://news.hada.io/topic?id=27219",
+    "discussion_url": "https://news.hada.io/topic?id=27219",
+    "summary": "기존의 코맨드 훅보다 더 사용하기 쉽고 안전함\n클로드 코드가 훅 이벤트를 URL에 전송하고 답변을 기다리는 방식\nCC의 상태를 보거나, 퍼미션등을 관리하는 웹앱을 구축 가능(로컬호스트도 됨)\n이렇게 훅이 연결되면 웹 서버에서 변경을 배포하거나 DB등으로 관리...",
+    "score": 0,
+    "published_at": "2026-03-05T08:11:48+00:00",
+    "ai_summary": "Claude Code에 HTTP Hook 기능이 추가되어 기존 코맨드 훅보다 사용이 쉽고 안전해졌습니다.\n훅 이벤트를 URL로 전송하고 응답을 받아 CC의 상태를 보거나 웹앱을 구축할 수 있습니다.\n이를 통해 웹 서버 배포나 DB 관리 등 AI 자동화 워크플로우를 효율적으로 통합할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27218",
+    "title": "Vercel agent-browser, --native 기능 도입",
+    "url": "https://news.hada.io/topic?id=27218",
+    "discussion_url": "https://news.hada.io/topic?id=27218",
+    "summary": "AI 에이전트를 위한 헤드리스 브라우저 자동화 CLI\n\n기존 node.js + playwright + CDP 구조에서 Rust 바이너리가 CDP를 직접 호출하게 변경\n독립실행형 데몬으로 런타임에 Node.js 프로세스가 없어서 메모리 사용량 감소 및 풋프린트도 작아짐\n\nAI 친화적...",
+    "score": 0,
+    "published_at": "2026-03-05T07:54:16+00:00",
+    "ai_summary": "Vercel의 `agent-browser` CLI에 AI 에이전트를 위한 `--native` 기능이 도입되었습니다.\n기존 Node.js/Playwright/CDP 구조에서 Rust 바이너리가 CDP를 직접 호출하도록 변경되었습니다.\n이로 인해 Node.js 프로세스 없이 독립 실행형 데몬으로 작동하여 메모리 사용량과 풋프린트가 크게 줄었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27217",
+    "title": "Show GN: 언더로그 - 밑줄 친 문장을 촬영하면 AI가 서재로 옮겨주는 iOS 앱",
+    "url": "https://news.hada.io/topic?id=27217",
+    "discussion_url": "https://news.hada.io/topic?id=27217",
+    "summary": "안녕하세요, 언더로그 만들고 있는 개발자입니다.\n책을 읽다 밑줄 친 문장을 나중에 다시 보고 싶어서 사진을 찍어두는 분들\n많으시죠? 저도 그랬는데, 결국 사진첩에 묻혀서 한 번도 다시 보지\n않더라고요.\n그래서 만들었습니다.\n언더로그는 밑줄 친 문장을 촬영하면 AI(Gemini)가",
+    "score": 0,
+    "published_at": "2026-03-05T07:35:10+00:00",
+    "ai_summary": "개발자가 만든 iOS 앱 '언더로그'를 소개합니다. 책을 읽다 밑줄 친 문장을 나중에 다시 보고 싶을 때 유용합니다.\n밑줄 친 문장을 촬영하면 AI(Gemini)가 이를 인식하여 사용자의 개인 서재로 옮겨줍니다.\n사진첩에 묻혀 다시 보지 않던 문제를 해결하여, 독서 기록을 효율적으로 관리할 수 있도록 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27213",
+    "title": "코딩없이 Claude Code로 자율 AI 마케팅 팀을 만들어 1주일간 운영한 이야기",
+    "url": "https://news.hada.io/topic?id=27213",
+    "discussion_url": "https://news.hada.io/topic?id=27213",
+    "summary": "7명 규모 AI SaaS 스타트업의 CEO가 Claude Code의 실험적 Agent Teams 기능을 활용해, CMO, 콘텐츠 작가, 소셜미디어 담당, HN 매니저, 성과 분석가로 구성된 5인 AI 마케팅 팀을 구축한 실전 경험기\n코드를 한 줄도 직접 작성하지 않았으며, 에이전트 전체가",
+    "score": 0,
+    "published_at": "2026-03-05T04:56:33+00:00",
+    "ai_summary": "AI SaaS 스타트업 CEO가 Claude Code의 실험적 Agent Teams 기능을 활용하여 AI 마케팅 팀을 구축했습니다.\nCMO, 콘텐츠 작가 등 5인으로 구성된 팀을 코딩 없이 만들고 1주일간 운영한 경험담입니다.\nAI 에이전트들이 자율적으로 마케팅 업무를 수행하여 LLM을 활용한 무코드 자동화의 가능성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27209",
+    "title": "gws - 구글 워크스페이스 CLI",
+    "url": "https://news.hada.io/topic?id=27209",
+    "discussion_url": "https://news.hada.io/topic?id=27209",
+    "summary": "Google Workspace API 전체를 단일 CLI로 제어할 수 있는 도구로, Drive·Gmail·Calendar·Sheets·Docs·Chat·Admin 등을 지원\n\nGoogle Discovery Service를 기반으로 런타임 시 명령 구성을 동적으로 생성해, 새로운 API가 추가되면 자동 반영\n\nAI...",
+    "score": 0,
+    "published_at": "2026-03-05T02:20:33+00:00",
+    "ai_summary": "`gws`는 Google Workspace API 전체를 단일 CLI로 제어할 수 있는 강력한 도구입니다.\nDrive, Gmail, Calendar 등 다양한 서비스를 지원하며, Google Discovery Service 기반으로 명령을 동적 생성하여 API 업데이트 시 자동 반영됩니다.\n개발자나 IT 관리자가 구글 워크스페이스를 효율적으로 관리하고 자동화하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27206",
+    "title": "에이전틱 엔지니어링 패턴",
+    "url": "https://news.hada.io/topic?id=27206",
+    "discussion_url": "https://news.hada.io/topic?id=27206",
+    "summary": "Claude Code·Codex 같은 코딩 에이전트 시대의 개발 방식을 정리한 가이드로, 에이전트와 협업하는 새로운 엔지니어링 패턴 제시\n코드 작성 비용이 급격히 낮아진 환경에서 개발 습관과 워크플로를 어떻게 바꿔야 하는지 다양한 패턴으로 설명...",
+    "score": 0,
+    "published_at": "2026-03-05T00:51:35+00:00",
+    "ai_summary": "코딩 에이전트 시대에 개발자가 에이전트와 협업하는 새로운 엔지니어링 패턴을 제시합니다.\n코드 작성 비용이 급격히 낮아진 환경에서 개발 습관과 워크플로 변화를 다룹니다.\n개발 효율성 향상과 AI 도구 활용에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27201",
+    "title": "OpenAI Symphony - 에이전트 기반 프로젝트 관리 자동화 도구",
+    "url": "https://news.hada.io/topic?id=27201",
+    "discussion_url": "https://news.hada.io/topic?id=27201",
+    "summary": "개발팀이 코드 작성 대신 작업 단위 관리에 집중할 수 있도록 지원\n각 프로젝트 작업을 격리된 자율 실행(run) 형태로 전환해,\n팀이 코딩 에이전트를 감독하지 않고 업무를 관리하고\n에이전트는 독립적으로 구현을 수행하는 구조",
+    "score": 0,
+    "published_at": "2026-03-05T00:32:23+00:00",
+    "ai_summary": "OpenAI Symphony는 개발팀이 코드 작성 대신 작업 단위 관리에 집중하도록 돕는 도구입니다.\n각 프로젝트 작업을 자율 실행 형태로 전환하여, 팀은 에이전트 감독 없이 업무를 관리합니다.\n에이전트가 독립적으로 구현을 수행하며 프로젝트 관리 자동화를 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47265045",
+    "summary": "",
+    "score": 557,
+    "published_at": "2026-03-05T18:08:10+00:00",
+    "ai_summary": "GPT-5.4는 OpenAI의 차세대 대규모 언어 모델에 대한 정보를 다룰 것으로 예상됩니다.\n성능 향상, 새로운 기능 및 적용 가능한 개발 영역에 대한 소식을 포함할 수 있습니다.\nAI 및 LLM 개발자들에게 매우 중요한 기술적 진보가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47268391",
+    "title": "Labor market impacts of AI: A new measure and early evidence",
+    "url": "https://www.anthropic.com/research/labor-market-impacts",
+    "discussion_url": "https://news.ycombinator.com/item?id=47268391",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-03-05T22:55:01+00:00",
+    "ai_summary": "이 기사는 인공지능이 노동 시장에 미치는 영향에 대한 새로운 측정 방법과 초기 증거를 분석합니다.\nAI 기술 도입으로 인한 직업 변화, 일자리 대체 및 생성 효과 등을 다룹니다.\n개발자에게는 AI 시대의 커리어 전망과 산업 변화를 이해하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47267947",
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "url": "https://406.fail/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47267947",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-03-05T22:04:59+00:00",
+    "ai_summary": "AI가 생성한 '저품질' 풀 리퀘스트를 처리하고 폐기하기 위한 표준 프로토콜을 제안하는 기사입니다.\nAI 코드 생성 도구의 확산에 따라 발생하는 코드 품질 및 유지보수 문제를 다룹니다.\n개발팀의 워크플로우와 코드 리뷰 프로세스에 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47263323",
+    "title": "Wikipedia was in read-only mode following mass admin account compromise",
+    "url": "https://www.wikimediastatus.net",
+    "discussion_url": "https://news.ycombinator.com/item?id=47263323",
+    "summary": "",
+    "score": 854,
+    "published_at": "2026-03-05T16:04:54+00:00",
+    "ai_summary": "Wikipedia가 대규모 관리자 계정 해킹으로 인해 읽기 전용 모드로 전환되었습니다.\n해커들은 2024년 5월경부터 관리자 권한을 획득하여 다수의 계정을 탈취했습니다.\n이 사건은 서비스 운영 및 사용자 데이터 보호에 대한 심각한 보안 문제를 드러냈습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47215602",
+    "title": "Hardware hotplug events on Linux, the gory details",
+    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47215602",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-03-02T09:26:04+00:00",
+    "ai_summary": "이 기사는 Linux에서 하드웨어 핫플러그 이벤트가 어떻게 처리되는지에 대한 깊이 있는 기술적 세부사항을 다룹니다.\n커널의 udev 및 sysfs 메커니즘을 통해 장치 추가/제거가 감지되고 관리되는 과정을 설명합니다.\n시스템 프로그래머 및 임베디드 개발자에게 유용한 낮은 수준의 시스템 동작 이해를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47261561",
+    "title": "Good software knows when to stop",
+    "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+    "discussion_url": "https://news.ycombinator.com/item?id=47261561",
+    "summary": "",
+    "score": 316,
+    "published_at": "2026-03-05T13:52:43+00:00",
+    "ai_summary": "좋은 소프트웨어는 불필요한 기능 확장이나 복잡성 추가를 멈출 시점을 안다는 철학을 제시합니다.\n이는 소프트웨어의 유지보수성, 유용성 및 사용자 경험에 긍정적인 영향을 미칩니다.\n개발자는 제품의 핵심 가치에 집중하고 과도한 기능을 피하는 지혜가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47252971",
+    "title": "10% of Firefox crashes are caused by bitflips",
+    "url": "https://mas.to/@gabrielesvelto/116171750653898304",
+    "discussion_url": "https://news.ycombinator.com/item?id=47252971",
+    "summary": "",
+    "score": 180,
+    "published_at": "2026-03-04T19:58:24+00:00",
+    "ai_summary": "Firefox 충돌의 10%가 메모리 비트플립 현상으로 인해 발생한다는 사실이 밝혀졌습니다.\n이는 하드웨어 결함이나 우주선(cosmic rays) 등으로 인한 메모리 데이터 손상으로, 소프트웨어 안정성에 예상치 못한 영향을 줍니다.\n개발자들은 이러한 희귀한 하드웨어 오류까지 고려한 견고한 시스템 설계의 중요성을 깨닫게 됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47263595",
+    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+    "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "discussion_url": "https://news.ycombinator.com/item?id=47263595",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-03-05T16:22:01+00:00",
+    "ai_summary": "GitHub 이슈 제목을 악용하여 약 4천 대의 개발자 PC가 해킹당하는 심각한 보안 사고가 발생했습니다.\n공격자는 악성 코드를 삽입한 이슈 제목을 통해 개발자들이 이를 열람하도록 유도했습니다.\n이 사건은 소프트웨어 공급망 보안의 취약점과 소셜 엔지니어링 공격의 위험성을 경고합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47215180",
+    "title": "Converting dash cam videos into Panoramax images",
+    "url": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
+    "discussion_url": "https://news.ycombinator.com/item?id=47215180",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-03-02T08:16:55+00:00",
+    "ai_summary": "대시캠 영상을 파노라마 이미지로 변환하는 기술과 과정을 설명하는 기사입니다.\n컴퓨터 비전 및 이미지 처리 기술을 활용하여 여러 프레임의 영상을 하나의 넓은 시야를 가진 이미지로 합성합니다.\n이는 영상 데이터 활용도를 높이고 새로운 시각화 방법을 제공하는 애플리케이션 개발 사례입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47265619",
+    "title": "OpenTitan Shipping in Production",
+    "url": "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47265619",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-03-05T18:50:33+00:00",
+    "ai_summary": "오픈소스 실리콘 보안 프로젝트인 OpenTitan이 실제 제품에 탑재되어 생산 단계에 진입했습니다.\nOpenTitan은 하드웨어 수준에서 신뢰의 뿌리(root of trust)를 제공하여 시스템 보안을 강화합니다.\n이는 임베디드 시스템, 서버 및 클라우드 인프라의 보안을 근본적으로 개선하는 중요한 이정표입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47263036",
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "url": "https://jido.run/blog/jido-2-0-is-here",
+    "discussion_url": "https://news.ycombinator.com/item?id=47263036",
+    "summary": "",
+    "score": 226,
+    "published_at": "2026-03-05T15:48:52+00:00",
+    "ai_summary": "Elixir 언어를 위한 에이전트 프레임워크인 Jido 2.0이 출시되었습니다.\n이 프레임워크는 Elixir의 강점인 동시성 및 분산 시스템 개발을 보다 쉽게 할 수 있도록 돕습니다.\n개발자들은 Jido 2.0을 통해 안정적이고 확장 가능한 백엔드 애플리케이션을 효율적으로 구축할 수 있을 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47267628",
+    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47267628",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-03-05T21:35:40+00:00",
+    "ai_summary": "Proton Mail이 FBI에 익명 시위자 정보를 제공하여 신원 노출에 도움을 주었습니다.\n이는 암호화된 서비스의 사용자 프라이버시 보호 한계와 법적 협조 의무에 대한 논쟁을 불러일으킵니다.\n개발자들은 보안 및 프라이버시 기능을 설계할 때 이러한 법적 요구사항을 고려해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47265521",
+    "title": "Remotely unlocking an encrypted hard disk",
+    "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47265521",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-03-05T18:43:59+00:00",
+    "ai_summary": "이 기사는 암호화된 하드 디스크를 원격으로 잠금 해제하는 기술적 방법을 탐구합니다.\nPXE 부팅 및 SSH 연결을 활용하여 원격 시스템에서 암호화된 볼륨을 안전하게 관리하는 방법을 설명합니다.\n시스템 관리자나 보안 엔지니어에게 매우 유용한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47266736",
+    "title": "GLiNER2: Unified Schema-Based Information Extraction",
+    "url": "https://github.com/fastino-ai/GLiNER2",
+    "discussion_url": "https://news.ycombinator.com/item?id=47266736",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-03-05T20:18:37+00:00",
+    "ai_summary": "GLiNER2는 스키마 기반 정보 추출을 위한 통합 모델을 제안하며, 사용자 정의 스키마로 텍스트에서 효율적으로 정보를 추출합니다.\n이는 다양한 산업의 데이터 처리 및 분석 자동화에 기여할 AI/ML 기술입니다.\nLLM 관련 개발자에게도 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47264741",
+    "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+    "url": "https://news.ycombinator.com/item?id=47264741",
+    "discussion_url": "https://news.ycombinator.com/item?id=47264741",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-03-05T17:43:31+00:00",
+    "ai_summary": "Vela (YC W26)는 복잡한 스케줄링 문제를 해결하기 위한 AI 솔루션을 출시했습니다.\n기업의 자원 관리 및 작업 할당을 최적화하는 AI 기반 도구로, 실제 비즈니스 문제에 AI를 적용하는 사례를 보여줍니다.\nAI/ML 및 제품 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47267694",
+    "title": "Ethiopia gets $350M World Bank financing for its digital ID project (2024)",
+    "url": "https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project",
+    "discussion_url": "https://news.ycombinator.com/item?id=47267694",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-05T21:41:31+00:00",
+    "ai_summary": "에티오피아가 세계은행으로부터 3억 5천만 달러를 지원받아 국가 디지털 ID 프로젝트를 추진합니다.\n이는 대규모 디지털 인프라 구축 및 시민 서비스 현대화를 목표로 하며, 보안 및 데이터 관리 측면에서 개발자들의 관심을 끌 수 있습니다.\n정책 및 대규모 프로젝트에 대한 이해를 돕습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47266030",
+    "title": "Let's Get Physical",
+    "url": "https://m4iler.cloud/posts/lets-get-physical/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47266030",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-03-05T19:21:03+00:00",
+    "ai_summary": "이 기사는 컴퓨팅의 물리적 측면, 즉 하드웨어와의 직접적인 상호작용에 대해 다룹니다.\n임베디드 시스템, IoT 기기 또는 로봇공학 개발에 관심 있는 개발자에게 유용한 통찰을 제공합니다.\n소프트웨어와 하드웨어의 경계를 넘나드는 개발 접근법을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47228091",
+    "title": "Optimizing Recommendation Systems with JDK's Vector API",
+    "url": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
+    "discussion_url": "https://news.ycombinator.com/item?id=47228091",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-03T04:33:50+00:00",
+    "ai_summary": "이 기사는 JDK의 Vector API를 활용하여 추천 시스템의 성능을 최적화하는 방법을 설명합니다.\n벡터 연산을 효율적으로 사용하여 데이터 처리 속도를 향상시키는 기술적 접근을 제시합니다.\n자바 개발자 및 고성능 컴퓨팅 엔지니어에게 매우 유용한 내용입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47263661",
+    "title": "Datasets for Reconstructing Visual Perception from Brain Data",
+    "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
+    "discussion_url": "https://news.ycombinator.com/item?id=47263661",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-03-05T16:26:29+00:00",
+    "ai_summary": "이 기사는 뇌 데이터로부터 시각적 인식을 재구성하는 데 사용되는 데이터셋들을 소개합니다.\n뇌과학과 AI/ML 분야의 융합 연구에 필수적인 데이터 자원과 그 활용 방안을 탐구합니다.\n인공지능 및 신경과학 연구 개발자들에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47218397",
+    "title": "Greg Kroah-Hartman Stretches Support Periods for Key Linux LTS Kernels",
+    "url": "https://fossforce.com/2026/03/greg-kroah-hartman-stretches-support-periods-for-key-linux-lts-kernels/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47218397",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-03-02T14:30:51+00:00",
+    "ai_summary": "리눅스 커널의 주요 관리자 Greg Kroah-Hartman이 일부 LTS(장기 지원) 커널의 지원 기간을 연장했습니다.\n이는 안정적인 시스템 구축과 유지보수를 담당하는 개발자 및 DevOps 엔지니어에게 매우 중요합니다.\n장기 프로젝트의 안정성과 비용 효율성에 긍정적 영향을 미칠 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47264138",
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+    "url": "https://alibaba.github.io/page-agent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47264138",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-03-05T17:01:47+00:00",
+    "ai_summary": "웹 애플리케이션 내부에 상주하며 GUI 상호작용을 돕는 'PageAgent'라는 새로운 도구가 소개되었습니다.\n웹 앱의 테스트 자동화, 사용자 행동 분석 또는 인터랙티브 도움말 기능 구현에 활용될 수 있습니다.\n프론트엔드 개발자에게 유용한 도구로 보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47267923",
+    "title": "Show HN: SitDeck – Customizable live dashboard of news, markets, threats",
+    "url": "https://sitdeck.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47267923",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-03-05T22:03:00+00:00",
+    "ai_summary": "뉴스, 시장 동향, 보안 위협 등을 실시간으로 맞춤 설정하여 보여주는 라이브 대시보드 'SitDeck'이 공개되었습니다.\n다양한 정보를 한눈에 파악할 수 있도록 돕는 도구로, 개발자가 직접 사용할 수도 있습니다.\n특정 기술 개발보다는 정보 시각화 및 개인 생산성 도구에 가깝습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47220739",
+    "title": "A rabbit hole in 5 commits",
+    "url": "https://www.codingwithjesse.com/blog/a-rabbit-hole-in-5-commits/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47220739",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-03-02T17:05:18+00:00",
+    "ai_summary": "몇 개의 커밋을 거치며 발견된 복잡한 문제 해결 과정을 추적하는 내용입니다.\n개발자들이 실제 프로젝트에서 마주하는 깊은 버그나 예기치 않은 동작을 파헤치는 과정을 보여줍니다.\n코드 분석, 디버깅, 버전 관리 시스템(Git) 활용에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47258809",
+    "title": "Poor Man's Polaroid",
+    "url": "https://boxart.lt/blog/poor_mans_polaroid?locale=en",
+    "discussion_url": "https://news.ycombinator.com/item?id=47258809",
+    "summary": "",
+    "score": 199,
+    "published_at": "2026-03-05T07:44:33+00:00",
+    "ai_summary": "저렴한 방식으로 폴라로이드 사진과 유사한 결과물을 만드는 방법에 대한 프로젝트나 아이디어를 다룹니다.\n이미지 처리 기술, 임베디드 시스템, 혹은 창의적인 소프트웨어 개발 접근 방식이 포함될 수 있습니다.\n개발자의 창작 욕구를 자극하고 DIY 정신을 보여주는 주제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/",
+    "title": "GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode (1 minute read)",
+    "url": "https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/",
+    "discussion_url": "https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/",
+    "summary": "OpenAI's upcoming GPT-5.4 model will have a one-million-token context window, putting it on par with Google and Anthropic's offerings. The model will feature an 'extreme' thinking mode that lets it burn significantly more compute on tough questions. It is expected to be more reliable and make fewer mistakes on longer tasks that can run for several hours. OpenAI's more frequent model release cadence is designed to keep expectations in check. The hype around GPT-5's launch set a high bar that was ",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "OpenAI의 GPT-5.4는 100만 토큰 컨텍스트 윈도우와 '극단적' 사고 모드를 도입하여 어려운 질문에 더 많은 연산 자원을 사용합니다. 이 모델은 더 긴 작업에서 안정성과 정확도가 크게 향상될 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "title": "Something is afoot in the land of Qwen (3 minute read)",
+    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "discussion_url": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "summary": "The Qwen team has just seen some very high-profile departures. Junyang Lin, the lead researcher building Qwen, recently announced his departure on X. Following this, several other Qwen member also announced their departures, including Binyuan Hui, who was responsible for the entire agent training process from pre-training to post-training; Bowen Yu, who led the development of the Qwen-Instruct series models; and Kaixin Li, a core contributor to Qwen 3.5/VL/Coder. The new Qwen 3.5 models appear t",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "Qwen 팀에서 리드 연구원 Junyang Lin을 포함해 Qwen-Instruct 모델 개발, 에이전트 학습 과정 등을 담당했던 여러 핵심 멤버가 대거 이탈했습니다. 이로 인해 Qwen 모델의 향후 개발 및 안정성에 대한 우려가 제기될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/perplexity-rolling-out-skills-support-for-perplexity-computer/",
+    "title": "Perplexity rolling out Skills support for Computer (2 minute read)",
+    "url": "https://www.testingcatalog.com/perplexity-rolling-out-skills-support-for-perplexity-computer/",
+    "discussion_url": "https://www.testingcatalog.com/perplexity-rolling-out-skills-support-for-perplexity-computer/",
+    "summary": "Perplexity is expanding its Computer platform with \"Skills,\" enabling users to integrate custom and generic markdown-based reusable workflow instructions. The new feature automates complex tasks and aims at professionals needing consistent outputs. Additionally, a \"Final Pass\" mode for document reviews is in development, enhancing document handling capabilities.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "Perplexity는 'Skills' 기능을 도입하여 사용자가 커스텀 및 일반 마크다운 기반의 재사용 가능한 워크플로우를 통합할 수 있게 합니다. 이 기능은 복잡한 작업을 자동화하고 전문가에게 일관된 결과물을 제공하는 것을 목표로 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://tomtunguz.com/filling-the-queue-for-ai/",
+    "title": "Not Prompts, Blueprints (1 minute read)",
+    "url": "https://tomtunguz.com/filling-the-queue-for-ai/",
+    "discussion_url": "https://tomtunguz.com/filling-the-queue-for-ai/",
+    "summary": "AI models now handle complex tasks without micromanagement, but require pre-planned workflows. Sketching workflows with decision branches and using images for AI setup streamline processes. This approach allows agents to work independently, producing ready-to-use outputs.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "AI 모델이 복잡한 작업을 처리함에 따라 단순 프롬프트 대신 사전 계획된 워크플로우인 '블루프린트' 접근 방식이 중요해지고 있습니다. 의사결정 분기가 있는 워크플로우를 스케치하고 이미지를 사용하여 AI 설정을 간소화하면 에이전트가 독립적으로 작동하여 즉시 사용 가능한 결과물을 생성할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/",
+    "title": "From logistic regression to AI (4 minute read)",
+    "url": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/",
+    "discussion_url": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/",
+    "summary": "People sometimes say that neural networks are just logistic regression. In some sense, neural networks are logistic regressions with more parameters. However, using more parameters makes it different. New phenomena emerge at scale that could not have been anticipated at a smaller scale.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "신경망은 파라미터가 더 많은 로지스틱 회귀로 볼 수도 있지만, 규모가 커지면서 더 작은 규모에서는 예상할 수 없었던 새로운 현상들이 나타납니다. 이는 양적 증가를 넘어 질적인 차이를 만들어냅니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mhdempsey.substack.com/p/ai-safety-has-12-months-left",
+    "title": "AI Safety Has 12 Months Left (13 minute read)",
+    "url": "https://mhdempsey.substack.com/p/ai-safety-has-12-months-left",
+    "discussion_url": "https://mhdempsey.substack.com/p/ai-safety-has-12-months-left",
+    "summary": "The upper bound of power and influence for AI labs appears to be infinite. This has led investors to focus everything on the technology. The tech industry has become incredibly politically engaged as productivity shifts from labor to capital. When AGI or similar is achieved, lab incentives will permanently transition to appease the shareholders who own the capital. AI safety is the last line of defense in the shift. It must be embedded into the tech industry's technical and social infrastructure",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "AI 연구소의 영향력이 무한대로 확장될 가능성이 있어 투자자들이 AI 기술에 집중하고 있으며, 생산성 패러다임이 노동에서 자본으로 이동하고 있습니다. AI 안전은 이러한 전환 속에서 마지막 방어선이며, 기술 및 사회 인프라에 필수적으로 통합되어야 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2603.03276",
+    "title": "Scaling Laws for Native Multimodal Foundation Models (29 minute read)",
+    "url": "https://arxiv.org/abs/2603.03276",
+    "discussion_url": "https://arxiv.org/abs/2603.03276",
+    "summary": "Controlled pretraining experiments that explore how text, images, and video should be combined when building multimodal models from scratch.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "멀티모달 모델을 처음부터 구축할 때 텍스트, 이미지, 비디오와 같은 다양한 모달리티를 어떻게 효과적으로 결합해야 하는지 탐색하는 사전 학습 실험에 대한 내용입니다. 이 연구는 멀티모달 파운데이션 모델의 스케일링 법칙을 이해하는 데 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/open-pencil/open-pencil",
+    "title": "OpenPencil (GitHub Repo)",
+    "url": "https://github.com/open-pencil/open-pencil",
+    "discussion_url": "https://github.com/open-pencil/open-pencil",
+    "summary": "OpenPencil is an open-source, AI-native design editor compatible with Figma that enables design file manipulation without vendor restrictions. It features real-time collaboration, AI integration, and a headless CLI for versatile design operations.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "OpenPencil은 Figma와 호환되는 오픈소스 AI 기반 디자인 에디터로, 벤더 제한 없이 디자인 파일을 조작할 수 있습니다. 실시간 협업, AI 통합, 그리고 다용도 디자인 작업을 위한 헤드리스 CLI 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
+    "title": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time (16 minute read)",
+    "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
+    "discussion_url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
+    "summary": "Phi-4-reasoning-vision-15B is a compact open-weight multimodal AI model that matches or exceeds the performance of systems many times its size. The 15-billion-parameter model can process both images and text and can reason through complex math and science problems, interpret charts and documents, and navigate graphical user interfaces. It is available now through Microsoft Foundry, Hugging Face, and GitHub under a permissive license. The model was trained on only approximately 200 billion tokens",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "Phi-4-reasoning-vision-15B는 작지만 강력한 개방형 멀티모달 AI 모델입니다. 이미지와 텍스트를 처리하고 복잡한 추론이 가능하며, Hugging Face, GitHub에서 사용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://creatoreconomy.so/p/your-new-job-is-to-onboard-ai-agents",
+    "title": "Your New Job Is to Onboard AI Agents: How AI Native Companies Actually Operate (9 minute read)",
+    "url": "https://creatoreconomy.so/p/your-new-job-is-to-onboard-ai-agents",
+    "discussion_url": "https://creatoreconomy.so/p/your-new-job-is-to-onboard-ai-agents",
+    "summary": "AI-native companies like Linear, Ramp, and Factory integrate AI agents deeply into their operations, treating them as essential team members across all functions.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "AI 네이티브 기업들은 AI 에이전트를 핵심 팀원으로 깊이 통합하여 모든 기능에 활용합니다. 이는 AI 에이전트 온보딩이 새로운 역할이 될 수 있음을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://newsroom.arm.com/blog/democratizing-ai-on-mobile",
+    "title": "Arm Expands On-Device AI Globally (5 minute read)",
+    "url": "https://newsroom.arm.com/blog/democratizing-ai-on-mobile",
+    "discussion_url": "https://newsroom.arm.com/blog/democratizing-ai-on-mobile",
+    "summary": "Arm's technology powers 99% of smartphones, enabling on-device AI for billions of users globally.",
+    "score": 0,
+    "published_at": "2026-03-05T23:52:00+00:00",
+    "ai_summary": "Arm 기술은 전 세계 스마트폰의 99%에 탑재되어 온디바이스 AI를 수십억 사용자에게 제공합니다. 이는 온디바이스 AI의 광범위한 확장을 의미합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  }
+]
