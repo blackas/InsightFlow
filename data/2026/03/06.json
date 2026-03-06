@@ -1,0 +1,846 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27262",
+    "title": "Proton Mail이 FBI의 ‘Stop Cop City’ 시위자 신원 확인을 도운 사건",
+    "url": "https://news.hada.io/topic?id=27262",
+    "discussion_url": "https://news.hada.io/topic?id=27262",
+    "summary": "개인정보 보호 중심 이메일 서비스 Proton Mail이 미국 FBI의 요청과 관련해 스위스 정부에 결제 데이터를 제공, 이를 통해 익명 시위자의 신원이 확인됨\n법원 기록에 따르면 Proton Mail은 ‘Stop Cop City’ 운동 관련 계정의 결제 정보를 스위...",
+    "score": 0,
+    "published_at": "2026-03-06T18:32:57+00:00",
+    "ai_summary": "Proton Mail은 FBI 요청에 따라 스위스 정부에 결제 데이터를 제공하여 시위자 신원이 확인되었습니다.\n이는 개인정보 보호를 내세운 서비스의 법적 준수와 사용자 프라이버시 침해 논란을 일으키고 있습니다.\n개발자들은 이러한 사례를 통해 서비스 설계 시 개인정보 보호 및 법적 리스크를 고려해야 함을 배울 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27261",
+    "title": "AI 보조 재작성으로 인한 재라이선스 문제",
+    "url": "https://news.hada.io/topic?id=27261",
+    "discussion_url": "https://news.hada.io/topic?id=27261",
+    "summary": "오픈소스 프로젝트 chardet v7.0.0이 AI 도구를 이용해 전체 코드를 다시 작성하고 LGPL에서 MIT로 라이선스를 변경함\n원 저자는 이 과정이 GPL 위반 가능성이 있다고 주장하며, AI가 원본 코드를 학습한 상태에서 생성한 결과물은 ‘클린...",
+    "score": 0,
+    "published_at": "2026-03-06T17:37:58+00:00",
+    "ai_summary": "오픈소스 프로젝트 chardet v7.0.0이 AI로 코드를 재작성하며 LGPL에서 MIT로 라이선스를 변경했습니다.\n원 저자는 AI가 원본 코드를 학습했다면 GPL 위반 가능성이 있다고 주장하며 클린룸 구현이 아니라고 지적합니다.\n이 사건은 AI를 사용한 코드 생성 시 라이선스 준수 및 저작권 문제에 대한 심각한 논의를 불러일으키고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27259",
+    "title": "Anthropic, 미 국방부로부터 공식적으로 공급망 위험으로 지정",
+    "url": "https://news.hada.io/topic?id=27259",
+    "discussion_url": "https://news.hada.io/topic?id=27259",
+    "summary": "미 국방부가 Anthropic을 공급망 위험으로 공식 분류하며, 인공지능 분야에서의 긴장 고조\n이번 조치는 국가 안보와 기술 의존성에 대한 우려 속에서 이루어진 결정\n\nAnthropic의 AI 기술과 관련된 공급망 관리가 정부의 감시 대상에 포...",
+    "score": 0,
+    "published_at": "2026-03-06T15:33:07+00:00",
+    "ai_summary": "미 국방부가 Anthropic을 공급망 위험으로 공식 지정하며 AI 분야의 국가 안보 우려가 고조되고 있습니다.\n이는 Anthropic의 AI 기술과 관련된 공급망 관리가 정부의 감시 대상이 되었음을 의미합니다.\nAI/LLM 개발자들에게는 향후 AI 기술 채택 및 협력 관계 설정에 있어 중요한 고려사항이 될 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27257",
+    "title": "GitHub 이슈 제목으로 4,000대 개발자 머신이 감염된 사건",
+    "url": "https://news.hada.io/topic?id=27257",
+    "discussion_url": "https://news.hada.io/topic?id=27257",
+    "summary": "GitHub 이슈 제목에 삽입된 프롬프트 인젝션이 AI 봇을 통해 실행되며, 약 4,000대의 개발자 시스템이 감염됨\n공격자는 Cline의 AI 기반 이슈 분류 봇을 이용해 명령을 주입하고, 이를 통해 npm 토큰을 탈취함\n탈취된 자격 증명으로",
+    "score": 0,
+    "published_at": "2026-03-06T09:33:02+00:00",
+    "ai_summary": "GitHub 이슈 제목에 삽입된 프롬프트 인젝션 공격으로 4,000대 이상의 개발자 머신이 감염되었습니다.\n공격자는 AI 기반 이슈 분류 봇을 통해 명령을 주입하여 npm 토큰을 탈취했습니다.\n이 사건은 개발 환경과 AI 봇의 보안 취약성, 특히 프롬프트 인젝션의 위험성을 경고합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27256",
+    "title": "좋은 소프트웨어는 멈출 때를 안다",
+    "url": "https://news.hada.io/topic?id=27256",
+    "discussion_url": "https://news.hada.io/topic?id=27256",
+    "summary": "소프트웨어의 본질적 역할은 자신이 해결해야 할 문제를 명확히 알고, 그 한계를 인식하는 데 있음\n글은 기존 도구가 불필요하게 확장되는 현상을 풍자하며, ls 명령어가 AI 기능으로 대체되는 가상의 사례를 제시\n\n좋은 소프트웨어...",
+    "score": 0,
+    "published_at": "2026-03-06T08:33:09+00:00",
+    "ai_summary": "이 글은 소프트웨어가 자신의 핵심 문제 해결에 집중하고 불필요한 기능 확장을 경계해야 한다고 주장합니다.\nls 명령어에 AI 기능이 추가되는 가상의 사례를 통해 과도한 기능 추가의 문제점을 풍자합니다.\n개발자들에게는 좋은 소프트웨어란 자신의 본질적 역할과 한계를 명확히 아는 것임을 일깨워줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27254",
+    "title": "Python 'requests' API 설계 철학에서 배우는 인간관계와 결혼 생활의 원칙 (Kenneth Reitz)",
+    "url": "https://news.hada.io/topic?id=27254",
+    "discussion_url": "https://news.hada.io/topic?id=27254",
+    "summary": "핵심 요약\nPython의 대표적인 HTTP 라이브러리 requests의 창시자 Kenneth Reitz가 API 설계 철학과 오픈소스 프로젝트 유지보수 경험을 결혼 생활에 빗대어 통찰한 에세이입니다. '개발자를 위한 직관적인 인터페이스(API for Humans)', '합리적인 기본값(Sensible Defaults)', '하위 호환성 ...",
+    "score": 0,
+    "published_at": "2026-03-06T08:05:47+00:00",
+    "ai_summary": "Python requests 라이브러리 창시자 Kenneth Reitz가 API 설계 철학과 오픈소스 유지보수 경험을 결혼 생활에 빗대어 통찰합니다.\n'개발자를 위한 직관적인 인터페이스', '합리적인 기본값', '하위 호환성' 등을 강조하며 좋은 API 설계 원칙을 제시합니다.\n이 에세이는 개발자들에게 실용적인 설계 가이드와 함께 개발 커리어의 중요한 가치를 전달합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27249",
+    "title": "엔비디아 CEO 젠슨 황, OpenAI와 Anthropic 투자 축소 발표",
+    "url": "https://news.hada.io/topic?id=27249",
+    "discussion_url": "https://news.hada.io/topic?id=27249",
+    "summary": "엔비디아는 OpenAI와 Anthropic에 대한 최근 투자가 마지막이 될 것이라고 밝혔으며, 두 회사의 상장 이후 추가 투자 계획은 없다고 명시\n\n황은 투자 축소 이유로 상장 이후 투자 기회가 닫히기 때문이라고 설명했지만, 이 설명이 충분하...",
+    "score": 0,
+    "published_at": "2026-03-06T04:47:40+00:00",
+    "ai_summary": "엔비디아 CEO 젠슨 황이 OpenAI와 Anthropic에 대한 추가 투자는 없을 것이며, 최근 투자가 마지막이라고 밝혔습니다.\n황은 상장 이후 투자 기회가 제한되기 때문이라고 설명했으나, 시장에서는 전략적 변화에 대한 다양한 해석이 나오고 있습니다.\n이는 AI/LLM 시장의 경쟁 구도와 주요 플레이어들의 향후 방향성에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27248",
+    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Swift 기반 실시간 양방향 음성 대화 모델",
+    "url": "https://news.hada.io/topic?id=27248",
+    "discussion_url": "https://news.hada.io/topic?id=27248",
+    "summary": "Apple Silicon에서 Swift/MLX로 구현된 PersonaPlex 7B 모델이 실시간 양방향 음성 대화를 지원함\n기존의 ASR→LLM→TTS 3단계 음성 파이프라인을 하나의 모델로 통합해, 텍스트 변환 없이 오디오 입...",
+    "score": 0,
+    "published_at": "2026-03-06T04:46:31+00:00",
+    "ai_summary": "Apple Silicon에서 Swift/MLX로 구현된 PersonaPlex 7B 모델이 실시간 양방향 음성 대화를 지원합니다.\n기존의 ASR→LLM→TTS 3단계 파이프라인을 하나의 모델로 통합하여 텍스트 변환 없이 오디오 입출력을 처리합니다.\n이는 온디바이스 AI 및 음성 인터페이스 개발자들에게 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27247",
+    "title": "Cluely CEO Roy Lee, 작년 매출 수치를 공개적으로 거짓 발표했음을 인정",
+    "url": "https://news.hada.io/topic?id=27247",
+    "discussion_url": "https://news.hada.io/topic?id=27247",
+    "summary": "AI 치팅 도구로 화제를 모은 스타트업 Cluely의 CEO Roy Lee가 2025년 여름 TechCrunch에 공유한 연간 반복 매출(ARR) 700만 달러가 거짓이었음을 X를 통해 공식 인정\n실제 당시 매출은 소비자 ARR 270만 달러, 기업 ARR 250만 달러로 총 ARR 520만 달러, ...",
+    "score": 0,
+    "published_at": "2026-03-06T04:27:17+00:00",
+    "ai_summary": "AI 치팅 도구 스타트업 Cluely의 CEO가 과거 TechCrunch에 공유한 매출 수치가 거짓이었음을 인정했습니다.\n실제 매출은 700만 달러가 아닌 520만 달러였으며, 이는 스타트업 업계의 투명성 논란을 다시 불러일으켰습니다.\n개발자들에게는 AI 기술을 활용한 스타트업의 비즈니스 측면과 윤리적 문제에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27246",
+    "title": "AI 에이전트를 위해선 CLI를 다시 작성해야 합니다",
+    "url": "https://news.hada.io/topic?id=27246",
+    "discussion_url": "https://news.hada.io/topic?id=27246",
+    "summary": "사람 중심 CLI와 AI 에이전트 중심 CLI는 설계 목표가 근본적으로 다르며, 기존 CLI를 에이전트용으로 개조하는 것은 비효율적\n에이전트는 GUI가 아닌 결정론적이고 기계 판독 가능한 출력, 런타임에서 조회 가능한 자기 기술 스키마, 할루시네이션 방어 장치가 필...",
+    "score": 0,
+    "published_at": "2026-03-06T04:03:11+00:00",
+    "ai_summary": "AI 에이전트와 사람을 위한 CLI는 설계 목표가 근본적으로 달라 에이전트용으로 재작성해야 합니다.\n에이전트는 기계 판독 가능한 출력, 자기 기술 스키마, 할루시네이션 방어 장치를 요구합니다.\n기존 CLI를 개조하는 방식은 비효율적이며, 에이전트 중심의 새로운 CLI 설계 접근이 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27242",
+    "title": "Paperclip - 인간 개입 없는 회사 만들기",
+    "url": "https://news.hada.io/topic?id=27242",
+    "discussion_url": "https://news.hada.io/topic?id=27242",
+    "summary": "AI 에이전트 팀이 자율적으로 회사를 운영하도록 설계된 오픈소스 오케스트레이션 도구\n여러 AI 에이전트를 조직도, 예산, 목표, 거버넌스 체계로 통합 관리\n\nOpenClaw, Claude Code, Codex 등 다양한 에이전트를 직원으로 운용",
+    "score": 0,
+    "published_at": "2026-03-06T03:07:50+00:00",
+    "ai_summary": "Paperclip은 AI 에이전트 팀이 자율적으로 회사를 운영하도록 설계된 오픈소스 오케스트레이션 도구입니다.\n이 도구는 여러 AI 에이전트를 조직도, 예산, 목표, 거버넌스 체계로 통합 관리합니다.\nOpenClaw, Claude Code 등 다양한 에이전트를 직원으로 활용하여 인간 개입 없는 회사 운영을 목표합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27241",
+    "title": "인재에 돈을 가장 많이 쓰는 나라가 인재 전쟁에서 지고 있다",
+    "url": "https://news.hada.io/topic?id=27241",
+    "discussion_url": "https://news.hada.io/topic?id=27241",
+    "summary": "글로벌 AI·과학 인재 전쟁은 돈보다 ‘어떤 환경과 기회를 제공하느냐’가 승패를 좌우하고 있음.\n미국의 H-1B 비자 정치화와 연구비 삭감이 글로벌 과학자 이동을 촉발함.\n프랑스는 “Choose France for Science” 등으로 학문의 자유·�...",
+    "score": 0,
+    "published_at": "2026-03-06T03:05:55+00:00",
+    "ai_summary": "글로벌 AI·과학 인재 전쟁의 승패는 돈이 아닌 제공되는 환경과 기회에 달려있습니다.\n미국의 H-1B 비자 문제와 연구비 삭감이 인재 이동을 촉발하고 있으며, 프랑스 등은 학문의 자유와 연구 기회를 강조합니다.\n이는 개발자들의 해외 취업 및 연구 환경 선택에 중요한 영향을 미치고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27239",
+    "title": "Grep은 죽었다: Claude Code가 기억하게 만드는 방법",
+    "url": "https://news.hada.io/topic?id=27239",
+    "discussion_url": "https://news.hada.io/topic?id=27239",
+    "summary": "클로드 코드의 세션 간 컨텍스트 유실 문제를 해결하기 위해 로컬 검색 엔진 QMD와 /recall 스킬을 결합한 메모리 시스템 구축\nQMD는 Obsidian 볼트를 인덱싱하는 로컬 검색 엔진으로, BM25·시맨틱·하이브리드 세 가지 검색 모드 지원\n/recall 스킬은 시간...",
+    "score": 0,
+    "published_at": "2026-03-06T01:45:01+00:00",
+    "ai_summary": "Claude Code의 세션 간 컨텍스트 유실 문제를 해결하기 위해 로컬 검색 엔진 QMD와 /recall 스킬이 결합된 메모리 시스템이 구축되었습니다.\nQMD는 Obsidian 볼트를 인덱싱하는 로컬 검색 엔진으로, BM25, 시맨틱, 하이브리드 세 가지 검색 모드를 지원합니다.\n이 시스템은 LLM 기반 코딩 도구의 효율성과 유용성을 향상시켜 개발 생산성을 높입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27235",
+    "title": "LLM의 L은 &quot;거짓말(Lying)&quot;을 의미한다",
+    "url": "https://news.hada.io/topic?id=27235",
+    "discussion_url": "https://news.hada.io/topic?id=27235",
+    "summary": "LLM 기반 코딩 도구들의 과대 광고에도 불구하고, 실제 소프트웨어 개발 결과물의 품질은 크게 나아지지 않았으며 오히려 위조(forgery) 에 가까운 산출물이 범람하고 있음\nLLM이 하는 일의 본질은 개인이 자신 또는 타인의 잠재적 산출물을 모방하여 더 빠르게 만...",
+    "score": 0,
+    "published_at": "2026-03-06T00:43:37+00:00",
+    "ai_summary": "LLM 기반 코딩 도구들의 과대 광고에도 불구하고 실제 소프트웨어 개발 결과물의 품질은 크게 개선되지 않았다는 비판이 제기됩니다.\nLLM이 생성하는 산출물은 '위조'에 가깝다는 주장이 있으며, 이는 LLM의 본질이 모방에 기반하기 때문입니다.\n개발자들은 LLM 활용에 있어 과장된 기대보다는 현실적인 접근이 필요하며, 생성된 코드의 품질 검증에 더욱 주의해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27232",
+    "title": "mogcli - Microsoft 365용 에이전트 친화적 CLI",
+    "url": "https://news.hada.io/topic?id=27232",
+    "discussion_url": "https://news.hada.io/topic?id=27232",
+    "summary": "Microsoft Graph API 기반으로 개인/기업용 계정을 지원하는 비공식 CLI 도구\n\n\nMail, Calendar, Contacts, Groups, Tasks, OneDrive 등 주요 워크로드 제어 명령 제공\n\n스크립트 자동화와 대화형 인증 마법사...",
+    "score": 0,
+    "published_at": "2026-03-06T00:31:02+00:00",
+    "ai_summary": "mogcli는 Microsoft Graph API 기반으로 개인/기업용 계정을 지원하는 비공식 CLI 도구입니다.\nMail, Calendar, Contacts, Groups, Tasks, OneDrive 등 Microsoft 365의 주요 워크로드를 제어하는 명령을 제공합니다.\n스크립트 자동화와 대화형 인증 마법사를 통해 개발 및 관리 효율성을 높여 DevOps와 Backend 업무에 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27230",
+    "title": "GPT‑5.4 공개",
+    "url": "https://news.hada.io/topic?id=27230",
+    "discussion_url": "https://news.hada.io/topic?id=27230",
+    "summary": "ChatGPT, API, Codex 전반에 적용되는 최신 프런티어 모델로, 추론·코딩·에이전트 워크플로우 성능을 통합\n네이티브 컴퓨터 사용(computer-use) 기능을 내장하여, 에이전트가 웹사이트와 소프트웨어를 직접 조작하며 복잡한 워크플로우를 수행 가능\n최대 1M 토큰 컨...",
+    "score": 0,
+    "published_at": "2026-03-05T23:48:50+00:00",
+    "ai_summary": "GPT-5.4는 ChatGPT, API, Codex에 적용되는 최신 프런티어 모델로, 추론, 코딩, 에이전트 워크플로우 성능을 통합했습니다.\n이 모델은 네이티브 컴퓨터 사용 기능을 내장하여, 에이전트가 웹사이트와 소프트웨어를 직접 조작하며 복잡한 워크플로우를 수행할 수 있습니다.\n최대 1M 토큰 컨텍스트를 지원하여 AI 에이전트 개발 및 활용에 있어 혁신적인 변화를 가져올 것으로 예상됩니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47281593",
+    "title": "this css proves me human",
+    "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47281593",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-03-06T21:52:44+00:00",
+    "ai_summary": "CSS를 활용하여 인간임을 증명하는 흥미로운 방법을 다룹니다.\n프론트엔드 개발자들이 창의적인 CSS 기술과 사용자 인터랙션을 탐구하는 데 도움이 됩니다.\nCSS의 예상치 못한 잠재력을 보여주며 개발자에게 영감을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47282230",
+    "title": "C# Strings Silently Kill Your SQL Server Indexes in Dapper",
+    "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+    "discussion_url": "https://news.ycombinator.com/item?id=47282230",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-03-06T22:55:37+00:00",
+    "ai_summary": "C# 문자열 사용 시 Dapper와 함께 SQL Server 인덱스가 조용히 비활성화될 수 있는 문제점을 지적합니다.\n이는 데이터베이스 성능 저하로 이어질 수 있는 중요한 백엔드 개발 함정입니다.\n.NET 개발자들이 주의해야 할 성능 최적화 및 데이터베이스 상호작용 관련 심층 기술 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47278426",
+    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+    "discussion_url": "https://news.ycombinator.com/item?id=47278426",
+    "summary": "",
+    "score": 636,
+    "published_at": "2026-03-06T17:46:45+00:00",
+    "ai_summary": "현재 기술 업계 고용 상황이 2008년 또는 2020년 경기 침체기보다 훨씬 심각함을 분석합니다.\n이는 기술 전문가들의 커리어 전망과 고용 시장 전반에 큰 영향을 미치는 중요한 정보입니다.\n개발자들이 현재와 미래의 직업 환경 변화를 이해하는 데 필수적인 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47273854",
+    "title": "Hardening Firefox with Anthropic's Red Team",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "discussion_url": "https://news.ycombinator.com/item?id=47273854",
+    "summary": "",
+    "score": 428,
+    "published_at": "2026-03-06T11:53:18+00:00",
+    "ai_summary": "Anthropic의 레드 팀과 협력하여 Firefox 브라우저의 보안을 강화하는 과정을 다룹니다.\n최신 보안 취약점 분석 및 방어 전략에 대한 실제 사례를 제시합니다.\n이는 웹 보안, 침투 테스트, 그리고 AI 기업의 보안 기여에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47275236",
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "url": "https://github.com/moongate-community/moongatev2",
+    "discussion_url": "https://news.ycombinator.com/item?id=47275236",
+    "summary": "",
+    "score": 213,
+    "published_at": "2026-03-06T14:22:59+00:00",
+    "ai_summary": ".NET 10과 Lua 스크립팅을 사용하여 개발된 Ultima Online 서버 에뮬레이터 \"Moongate\"를 소개합니다.\n이 프로젝트는 게임 서버 개발, .NET 프레임워크 활용, 그리고 Lua 스크립팅 통합에 대한 실용적인 예시를 제공합니다.\n.NET 개발자와 게임 서버 기술에 관심 있는 이들에게 특히 흥미로운 오픈소스 프로젝트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47206990",
+    "title": "Apache Otava",
+    "url": "https://otava.apache.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47206990",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-03-01T14:27:12+00:00",
+    "ai_summary": "Apache Otava는 새로 등장했거나 개발 중인 Apache 프로젝트로 추정됩니다.\n일반적으로 Apache 프로젝트들은 빅데이터, 클라우드, 서버 인프라 등 다양한 분야의 오픈소스 기술을 다룹니다.\n새로운 기술 스택이나 오픈소스 생태계에 관심 있는 개발자들에게 잠재적으로 중요한 정보가 될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47219462",
+    "title": "Open Camera is a FOSS camera app for Android",
+    "url": "https://opencamera.org.uk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47219462",
+    "summary": "",
+    "score": 191,
+    "published_at": "2026-03-02T15:46:51+00:00",
+    "ai_summary": "Open Camera는 안드로이드용 무료 오픈소스(FOSS) 카메라 애플리케이션입니다.\n사용자에게 고급 기능과 뛰어난 제어권을 제공하며, 소스 코드를 통해 내부 작동 방식을 탐색할 수 있습니다.\n안드로이드 개발자, 모바일 앱 개발, 그리고 오픈소스 소프트웨어에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47214708",
+    "title": "Math Notepad",
+    "url": "https://mathnotepad.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47214708",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-03-02T07:01:19+00:00",
+    "ai_summary": "수학적 계산, 공식 작성 및 노트 필기에 특화된 도구입니다. 개발자들이 알고리즘 설계나 데이터 분석 과정에서 활용하기 유용합니다. 복잡한 수식을 효율적으로 관리하고 시각화하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47281485",
+    "title": "Art Bits from HyperCard",
+    "url": "https://archives.somnolescent.net/web/mari_v2/junk/hypercard/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47281485",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-03-06T21:43:39+00:00",
+    "ai_summary": "HyperCard로 만들어진 예술 작품이나 시각적 요소를 탐구하는 기사입니다. 초기 멀티미디어 개발 도구의 역사적 가치와 창의적 활용 사례를 보여줍니다. 과거의 기술이 현재 개발자들에게 영감을 줄 수 있음을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47278980",
+    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+    "url": "https://news.ycombinator.com/item?id=47278980",
+    "discussion_url": "https://news.ycombinator.com/item?id=47278980",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-03-06T18:26:21+00:00",
+    "ai_summary": "스타트업과 중소기업의 유휴 자금에 대한 더 나은 수익률을 제공하는 핀테크 서비스 'Palus Finance'의 출시 소식입니다. Y Combinator W26 배치 출신으로, 기업 자금 관리에 혁신을 가져올 것으로 기대됩니다. 개발자들은 핀테크 동향과 비즈니스 모델을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47280352",
+    "title": "Ada 2022",
+    "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47280352",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-03-06T20:03:48+00:00",
+    "ai_summary": "안전 및 보안에 특화된 프로그래밍 언어 Ada의 2022년 최신 표준에 대한 내용입니다. Ada는 항공우주, 국방 등 미션 크리티컬 시스템 개발에 주로 사용됩니다. 이번 업데이트를 통해 언어의 기능 개선 및 현대적인 개발 환경 지원이 강화되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47220411",
+    "title": "Payphone Go",
+    "url": "https://walzr.com/payphone-go/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47220411",
+    "summary": "",
+    "score": 284,
+    "published_at": "2026-03-02T16:45:43+00:00",
+    "ai_summary": "'Payphone Go'는 현대적인 관점에서 공중전화 기능을 재해석한 서비스 또는 장치를 의미할 수 있습니다. 모바일 앱, IoT 기술, 또는 새로운 통신 인프라와 관련될 가능성이 있습니다. 개발자들은 이러한 서비스의 기술 스택이나 구현 방식에 관심을 가질 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47276865",
+    "title": "Astra: An open-source observatory control software",
+    "url": "https://github.com/ppp-one/astra",
+    "discussion_url": "https://news.ycombinator.com/item?id=47276865",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-03-06T16:14:30+00:00",
+    "ai_summary": "'Astra'는 천문대 장비 제어를 위한 오픈소스 소프트웨어 프로젝트입니다. 과학 연구 분야에서 사용되는 복잡한 제어 시스템 개발 사례를 보여줍니다. 오픈소스 커뮤니티에 기여하거나 과학 장비 소프트웨어에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47275152",
+    "title": "CT Scans of Health Wearables",
+    "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+    "discussion_url": "https://news.ycombinator.com/item?id=47275152",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-03-06T14:16:06+00:00",
+    "ai_summary": "건강 웨어러블 기기를 CT 스캔하여 내부 구조와 부품을 분석하는 기사입니다. 웨어러블 기기의 하드웨어 설계, 센서 기술 및 제조 방식에 대한 통찰을 제공합니다. IoT 및 임베디드 시스템 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47275291",
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "discussion_url": "https://news.ycombinator.com/item?id=47275291",
+    "summary": "",
+    "score": 94,
+    "published_at": "2026-03-06T14:27:55+00:00",
+    "ai_summary": "오픈 가중치 LLM의 검열을 제거하는 새로운 도구가 개발되었습니다.\n이 도구는 모델의 안전 및 윤리적 제약을 우회하는 데 사용될 수 있어 논란이 예상됩니다.\nLLM 개발자 및 연구자에게 중요한 기술적, 윤리적 논의를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47272799",
+    "title": "LibreSprite – open-source pixel art editor",
+    "url": "https://libresprite.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47272799",
+    "summary": "",
+    "score": 242,
+    "published_at": "2026-03-06T09:22:00+00:00",
+    "ai_summary": "LibreSprite는 오픈소스 픽셀 아트 편집기로, 개발자와 예술가 모두에게 유용합니다.\n이 프로그램은 스프라이트 애니메이션 및 레트로 스타일 아트워크 제작에 최적화되어 있습니다.\n커뮤니티 기반 개발로 지속적으로 기능이 개선되며 게임 개발 등에 활용됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47280200",
+    "title": "Anthropic, please make a new Slack",
+    "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+    "discussion_url": "https://news.ycombinator.com/item?id=47280200",
+    "summary": "",
+    "score": 145,
+    "published_at": "2026-03-06T19:52:08+00:00",
+    "ai_summary": "Anthropic에 기존 Slack의 한계를 넘어선 새로운 협업 도구 개발을 요청하는 내용입니다.\nAI 기술을 활용하여 팀 커뮤니케이션과 생산성을 혁신할 잠재력을 탐구합니다.\n개발팀의 협업 방식과 효율성에 대한 논의를 촉발할 수 있는 시사점을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47274676",
+    "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+    "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+    "discussion_url": "https://news.ycombinator.com/item?id=47274676",
+    "summary": "",
+    "score": 477,
+    "published_at": "2026-03-06T13:30:54+00:00",
+    "ai_summary": "'패러다임 시너지'와 같은 추상적인 전문 용어를 남용하는 직원들이 업무 효율성이 낮을 수 있다는 주장입니다.\n이는 불필요한 전문 용어가 실제 문제 해결을 방해하고 모호한 의사소통을 초래할 수 있음을 시사합니다.\n명확하고 간결한 의사소통이 생산적인 업무 환경에 필수적임을 강조하며 개발자에게도 적용됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47263441",
+    "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
+    "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47263441",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-03-05T16:12:44+00:00",
+    "ai_summary": "볼륨 메트릭 프리미티브를 활용한 분석적 안개 렌더링 기술을 다룹니다.\n이 기술은 컴퓨터 그래픽스 분야에서 사실적인 안개 효과를 효율적으로 구현하는 데 중점을 둡니다.\n게임, 시뮬레이션, VR/AR 개발자들에게 유용한 최신 렌더링 기법을 소개할 잠재력이 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47280567",
+    "title": "TypeScript 6.0 RC",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47280567",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-03-06T20:21:01+00:00",
+    "ai_summary": "TypeScript 6.0 릴리스 후보 버전이 발표되었습니다. 새로운 문법과 타입 시스템 개선을 통해 개발 생산성을 향상시킵니다. 웹 및 서버 개발에 널리 사용되는 TypeScript의 최신 동향을 파악할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47232339",
+    "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
+    "url": "https://github.com/taiseiue/primitive-playground",
+    "discussion_url": "https://news.ycombinator.com/item?id=47232339",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-03-03T13:55:11+00:00",
+    "ai_summary": "원시 도형을 이용해 어떤 이미지든 재구성하는 웹 기반 프로젝트가 공개되었습니다. WebAssembly(WASM)를 통해 브라우저에서 고성능으로 실행됩니다. 이는 웹에서의 이미지 처리 및 그래픽 구현 가능성을 보여주는 흥미로운 시연입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47276604",
+    "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+    "url": "https://github.com/es617/claude-replay",
+    "discussion_url": "https://news.ycombinator.com/item?id=47276604",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-06T15:57:27+00:00",
+    "ai_summary": "Claude AI의 코드 세션을 비디오처럼 재생할 수 있는 'Claude-replay' 도구가 출시되었습니다. 개발자들이 AI와의 상호작용 기록을 시각적으로 검토하고 디버깅하는 데 유용합니다. LLM 기반 개발 워크플로우를 효율화할 수 있는 혁신적인 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-gpt-5-4/",
+    "title": "GPT‑5.4 (15 minute read)",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "discussion_url": "https://openai.com/index/introducing-gpt-5-4/",
+    "summary": "OpenAI released GPT‑5.4 and GPT‑5.4 Pro across ChatGPT, the API, and Codex. The model combines advances in reasoning, coding, and tool use to improve performance on professional workflows involving documents, spreadsheets, and software environments.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "OpenAI가 ChatGPT, API, Codex에 GPT-5.4 및 GPT-5.4 Pro를 출시했습니다. 이 모델은 추론, 코딩, 도구 사용 기능이 향상되어 전문 워크플로우 성능이 개선되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.datagravity.dev/p/anthropics-compute-advantage-why",
+    "title": "Anthropic's Compute Advantage: Why Silicon Strategy is Becoming an AI Moat (18 minute read)",
+    "url": "https://www.datagravity.dev/p/anthropics-compute-advantage-why",
+    "discussion_url": "https://www.datagravity.dev/p/anthropics-compute-advantage-why",
+    "summary": "Anthropic has built the most diversified and cost-efficient compute architecture among frontier labs. OpenAI remains almost entirely dependent on Nvidia, and Microsoft's internal chip program is years behind schedule. Compute advantage amplifies model advantage. Anthropic's ability to deliver equivalent model quality at 30% to 60% lower cost per token is a compounding advantage on margin, training budget, and the pace of iteration.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "Anthropic은 AI 연구소 중 가장 다양하고 비용 효율적인 컴퓨팅 아키텍처를 구축했습니다. Anthropic은 토큰당 비용을 30~60% 절감하며 모델 품질을 유지하여 경쟁 우위를 확보했습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "title": "How Google AI Understands Visual Search (6 minute read)",
+    "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "discussion_url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "summary": "Google detailed how advances in AI allow Lens and Circle to Search to identify and search multiple objects within a single image simultaneously. The update improves visual discovery by breaking down complex scenes like outfits or rooms into searchable components.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "Google은 AI 발전을 통해 Lens 및 Circle to Search가 단일 이미지 내 여러 객체를 동시에 식별하고 검색하는 방법을 설명했습니다. 이 업데이트는 복잡한 장면을 검색 가능한 구성 요소로 분해하여 시각적 발견을 개선합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/automations",
+    "title": "Build agents that run automatically (6 minute read)",
+    "url": "https://cursor.com/blog/automations",
+    "discussion_url": "https://cursor.com/blog/automations",
+    "summary": "Cursor Automations is a tool for building always-on agents that run on schedules or are triggered by events. Users can configure custom events with webhooks. Automated agents spin up their own cloud sandboxes and verify their own output. They have access to a memory tool that lets them learn from past runs and improve with repetition. Users can now build the factory that creates their software by configuring agents to continuously monitor and improve their codebase.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "Cursor Automations는 스케줄 또는 이벤트에 따라 자동으로 실행되는 에이전트를 구축하는 도구입니다. 이 에이전트는 클라우드 샌드박스를 사용하고 자체 출력을 검증하며, 코드베이스를 지속적으로 모니터링하고 개선합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/",
+    "title": "Monitoring Reasoning Through Chain‑of‑Thought Signals (7 minute read)",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/",
+    "discussion_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/",
+    "summary": "OpenAI studied whether reasoning models can deliberately manipulate their chain‑of‑thought to evade monitoring. Results showed current models struggle to control their reasoning traces, suggesting chain‑of‑thought monitoring remains a viable safety signal.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "OpenAI는 추론 모델이 모니터링을 회피하기 위해 사고의 사슬(chain-of-thought)을 의도적으로 조작할 수 있는지 연구했습니다. 현재 모델은 추론 과정을 제어하는 데 어려움을 겪으며, 사고의 사슬 모니터링이 여전히 유효한 안전 신호임을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2603.04390",
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development (1 minute read)",
+    "url": "https://arxiv.org/abs/2603.04390",
+    "discussion_url": "https://arxiv.org/abs/2603.04390",
+    "summary": "This study presents a dual-helix governance framework that addresses LLM limitations in WebGIS development by treating issues as structural governance challenges rather than reliance on model capacity alone. Implemented in the FutureShorelines WebGIS tool, this approach reduced cyclomatic complexity by 51% and improved maintainability. The open-source AgentLoom toolkit supports this framework, highlighting the importance of externalized governance in reliable geospatial engineering.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "LLM의 한계를 보완하기 위해 듀얼-헬릭스 거버넌스 프레임워크를 제시합니다. FutureShorelines WebGIS 툴에 적용하여 복잡성을 51% 감소시키고 유지보수성을 향상시켰습니다. 오픈 소스 AgentLoom 툴킷이 이 프레임워크를 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/chatgpt-for-excel/",
+    "title": "ChatGPT Comes to Excel (4 minute read)",
+    "url": "https://openai.com/index/chatgpt-for-excel/",
+    "discussion_url": "https://openai.com/index/chatgpt-for-excel/",
+    "summary": "OpenAI introduced a ChatGPT Excel add‑in powered by GPT‑5.4 that helps users build models, run scenarios, and analyze spreadsheet data directly inside workbooks.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "OpenAI는 GPT-5.4 기반의 ChatGPT Excel 추가 기능을 출시했습니다. 이를 통해 사용자는 Excel 내에서 모델을 구축하고 시나리오를 실행하며 스프레드시트 데이터를 분석할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Mar/5/chardet/",
+    "title": "Can coding agents relicense open source through a “clean room” implementation of code? (4 minute read)",
+    "url": "https://simonwillison.net/2026/Mar/5/chardet/",
+    "discussion_url": "https://simonwillison.net/2026/Mar/5/chardet/",
+    "summary": "Coding agents rapidly create clean room code implementations, raising legal and ethical questions.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "코딩 에이전트가 '클린 룸' 방식으로 코드를 빠르게 구현할 수 있습니다. 이는 오픈 소스 재라이선싱과 관련된 중요한 법적 및 윤리적 문제를 제기합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/modular-diffusers",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines (7 minute read)",
+    "url": "https://huggingface.co/blog/modular-diffusers",
+    "discussion_url": "https://huggingface.co/blog/modular-diffusers",
+    "summary": "Modular Diffusers enables diffusion pipeline creation through composable blocks, allowing users to design tailored workflows without starting from scratch.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "모듈러 디퓨저(Modular Diffusers)는 확산 파이프라인 생성을 위한 조합 가능한 빌딩 블록을 제공합니다. 이를 통해 사용자는 처음부터 시작하지 않고도 맞춤형 워크플로우를 설계할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/nasqret/status/2029628846518010099",
+    "title": "We ran GPT-5.4 (xhigh) an additional ten times on Tier 4 to get a pass@10 score (1 minute read)",
+    "url": "https://x.com/nasqret/status/2029628846518010099",
+    "discussion_url": "https://x.com/nasqret/status/2029628846518010099",
+    "summary": "In one of these runs, it solved another problem no model had solved before.",
+    "score": 0,
+    "published_at": "2026-03-06T23:28:40+00:00",
+    "ai_summary": "GPT-5.4 (xhigh) 모델을 추가로 실행하여 pass@10 점수를 측정했습니다. 이 실행 중 한 번은 이전 어떤 모델도 해결하지 못했던 문제를 해결했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
