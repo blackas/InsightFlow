@@ -1,0 +1,734 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27347",
+    "title": "TypeScript에서의 Rust 스타일 에러 처리",
+    "url": "https://news.hada.io/topic?id=27347",
+    "discussion_url": "https://news.hada.io/topic?id=27347",
+    "summary": "TypeScript에서의 Rust 스타일 에러 처리",
+    "score": 0,
+    "published_at": "2026-03-09T22:15:17+00:00",
+    "ai_summary": "TypeScript에서 Rust의 `Result` 및 `Option` 타입과 유사한 에러 처리 패턴을 소개합니다.\n이는 함수가 성공/실패 여부를 명시적으로 반환하게 하여 견고한 코드 작성을 돕습니다.\n타입스크립트 개발자에게 유용한 에러 관리 기법입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27345",
+    "title": "Show GN: Claude Code 대화 내용 자동으로 GitHub에 저장하는 도구 만들었습니다",
+    "url": "https://news.hada.io/topic?id=27345",
+    "discussion_url": "https://news.hada.io/topic?id=27345",
+    "summary": "Claude Code 쓰다가 세션 날아간 적 있으신 분?\n어제 Claude랑 뭘 논의했는지..\n어떤 결정을 내렸는지 기억이 안 나서 또 처음부터 설명하고...\n프롬프팅 하다보면 &quot;아 그 프롬프팅 또 써먹을 수 있는데.. 세션 뭐였더라&quot; 하는게 부지기수 였습니다.\n이게 너무 불편해서 하나 만",
+    "score": 0,
+    "published_at": "2026-03-09T17:25:22+00:00",
+    "ai_summary": "Claude Code 대화 내용을 GitHub에 자동 저장하여 세션 유실을 방지하는 개발자 도구입니다.\n프롬프팅 이력을 효과적으로 관리하고 재활용하여 AI 코딩 생산성을 높입니다.\nAI 협업 작업 흐름을 개선하는 실용적인 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27338",
+    "title": "30억 개 벡터 쿼리하기",
+    "url": "https://x.com/JeffDean/status/1997854093239595503",
+    "discussion_url": "https://news.hada.io/topic?id=27338",
+    "summary": "Jeff Dean의 30억 개 벡터 쿼리 문제 때문에, 최적의 map-reduce 솔루션을 직접 구현해 보는 과정을 다룬 기술 실험 기록\n768차원 float32 벡터 30억 개와 1,000개 쿼리 벡터의 dot product를 계산하는 naive 구현...",
+    "score": 0,
+    "published_at": "2026-03-09T04:51:01+00:00",
+    "ai_summary": "30억 개의 고차원 벡터에 대한 효율적인 쿼리 방법을 탐구하는 기술 실험 기록입니다.\nJeff Dean의 문제에서 영감을 받아 map-reduce 기반 최적 솔루션 구현 과정을 다룹니다.\n대규모 벡터 연산 및 분산 처리 시스템 설계에 대한 심층적 분석을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27336",
+    "title": "Minimum Lovable Product의 시대",
+    "url": "https://news.hada.io/topic?id=27336",
+    "discussion_url": "https://news.hada.io/topic?id=27336",
+    "summary": "AI로 소프트웨어 개발 비용이 급격히 하락하면서 기능만 갖춘 제품은 더 이상 시장에서 통하지 않으며, 새로운 기준선은 MLP(사용자가 감정적으로 사랑할 수 있는 최소 제품)\n\nMVP는 원래 Eric Ries의 build-measure-learn 루프를 통한 빠른 학습 도구였지만, 현실...",
+    "score": 0,
+    "published_at": "2026-03-09T04:31:01+00:00",
+    "ai_summary": "AI로 개발 비용이 낮아지면서 MVP 대신 MLP(Minimum Lovable Product)가 중요해졌음을 주장합니다.\n기능만으로는 부족하며 사용자가 감정적으로 사랑할 수 있는 제품을 만들어야 합니다.\nAI 시대의 새로운 제품 개발 패러다임을 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27331",
+    "title": "노코드 라이브러리에서 얻은 교훈: 스펙 주도 개발, 방정식이 아닌 삼각형이다",
+    "url": "https://news.hada.io/topic?id=27331",
+    "discussion_url": "https://news.hada.io/topic?id=27331",
+    "summary": "AI 코딩 에이전트 시대에서 스펙 주도 개발(Spec-Driven Development) 을 단순히 “스펙 → 코드”라는 직선 방정식으로 보는 건 잘못된 관점이라는 내용.\n핵심 주장\n스펙 주도 개발은 정적인 방정식이 아니라 동적인 삼각형.\n세 축이 끊임없이 서로 영향을",
+    "score": 0,
+    "published_at": "2026-03-09T03:28:00+00:00",
+    "ai_summary": "AI 코딩 에이전트 시대에 스펙 주도 개발(SDD)은 단순한 선형 과정이 아님을 강조합니다.\nSDD는 스펙, 코드, 테스트의 세 축이 상호작용하는 동적인 삼각형으로 이해해야 합니다.\n변화하는 개발 환경에서 효과적인 SDD 접근 방식을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27329",
+    "title": "Agent Safehouse – macOS용 로컬 에이전트 샌드박싱 도구",
+    "url": "https://news.hada.io/topic?id=27329",
+    "discussion_url": "https://news.hada.io/topic?id=27329",
+    "summary": "macOS 네이티브 샌드박스를 통해 로컬 AI 에이전트가 시스템 외부를 변경하지 못하도록 격리하는 도구\n모든 에이전트가 독립된 샌드박스 환경에서 실행되어, 사용자 홈 디렉터리나 다른 프로젝트에 접근 불가\n\nDeny-first 접근 모델을 ...",
+    "score": 0,
+    "published_at": "2026-03-09T02:33:10+00:00",
+    "ai_summary": "macOS용 Agent Safehouse는 로컬 AI 에이전트가 시스템을 변경하지 못하도록 샌드박스에서 격리합니다.\n에이전트가 사용자 홈 디렉터리 등 중요 자산에 접근하는 것을 방지합니다.\n안전한 AI 에이전트 개발 및 사용을 위한 보안 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27327",
+    "title": "PM Skills - AI 에이전트를 PM으로 활용하기",
+    "url": "https://news.hada.io/topic?id=27327",
+    "discussion_url": "https://news.hada.io/topic?id=27327",
+    "summary": "검증된 PM 프레임워크를 AI 워크플로우에 내장하여, 단순 문서 생성이 아닌 구조화된 제품 의사결정을 지원\n\nClaude Code/Cowork 용 플러그인 8개와 65개 PM 스킬, 36개 체인 워크플로우를 오픈소스로 제공\n디스커버리, 전략, 실행, 시...",
+    "score": 0,
+    "published_at": "2026-03-09T01:11:01+00:00",
+    "ai_summary": "AI 에이전트를 PM 역할에 활용하여 구조화된 제품 의사결정을 지원하는 방법을 제시합니다.\n검증된 PM 프레임워크를 AI 워크플로우에 통합하여 실질적인 가치를 창출합니다.\nClaude용 플러그인과 PM 스킬을 오픈소스로 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27326",
+    "title": "Superset - AI 에이전트 시대를 위한 IDE",
+    "url": "https://news.hada.io/topic?id=27326",
+    "discussion_url": "https://news.hada.io/topic?id=27326",
+    "summary": "Claude Code, Codex 등 여러 AI 코딩 에이전트를 병렬로 실행해 개발 효율을 극대화하는 확장 터미널\n\n각 작업을 독립된 Git worktree로 분리해 에이전트 간 충돌을 방지하는 격리형 워크스페이스 구조\n\n\n중앙...",
+    "score": 0,
+    "published_at": "2026-03-09T00:51:02+00:00",
+    "ai_summary": "Superset은 Claude Code, Codex 등 AI 코딩 에이전트들을 병렬로 실행하는 확장 터미널입니다.\n독립된 Git worktree 기반의 격리형 워크스페이스로 에이전트 간 충돌을 방지합니다.\nAI 시대의 개발 효율성 극대화를 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27325",
+    "title": "AGI의 목표 시점이 바뀌는 가운데, OpenAI는 자사 헌장에 따라 경쟁을 중단해야 함",
+    "url": "https://news.hada.io/topic?id=27325",
+    "discussion_url": "https://news.hada.io/topic?id=27325",
+    "summary": "OpenAI는 2018년 헌장(Charter) 에서 “다른 안전 중심 프로젝트가 AGI에 근접하면 경쟁을 멈추고 협력하겠다”는 ‘자기희생 조항’ 을 명시함\nSam Altman의 발언을 정리한 표에 따르면 AGI 도달 예상 시점이 2033년에서 2025년으로 급격히 단축...",
+    "score": 0,
+    "published_at": "2026-03-09T00:45:46+00:00",
+    "ai_summary": "OpenAI는 AGI에 대한 2018년 헌장 '자기희생 조항'에 따라 경쟁을 중단하고 협력해야 할 시점입니다.\nSam Altman의 AGI 도달 예상 시점이 2033년에서 2025년으로 급격히 단축되었기 때문입니다.\n이는 AGI 개발 윤리 및 정책에 대한 중요한 논의를 촉발합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27323",
+    "title": "애플 512GB Mac Studio가 사라짐, 램 부족 사태의 간접 인정",
+    "url": "https://news.hada.io/topic?id=27323",
+    "discussion_url": "https://news.hada.io/topic?id=27323",
+    "summary": "AI 수요 급증으로 인한 글로벌 메모리 공급 부족 속에서, Apple이 최상위 Mac Studio의 512GB RAM 구성을 조용히 제거함\n256GB 구성의 가격도 $1,600에서 $2,000으로 인상되었으며, Apple은 이에 대해 공식 코멘트를 내놓지 않음\n512GB Mac Studio는 $9,4...",
+    "score": 0,
+    "published_at": "2026-03-09T00:39:45+00:00",
+    "ai_summary": "AI 수요 급증으로 인한 글로벌 메모리 부족 사태 속에, 애플이 Mac Studio의 512GB RAM 구성을 삭제했습니다.\n256GB 모델 가격도 인상되었지만, 애플은 이에 대한 공식 입장을 내놓지 않고 있습니다.\n이는 AI 개발 환경 구축 비용 상승 및 하드웨어 공급 문제를 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311815",
+    "title": "Building a Procedural Hex Map with Wave Function Collapse",
+    "url": "https://felixturner.github.io/hex-map-wfc/article/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311815",
+    "summary": "",
+    "score": 344,
+    "published_at": "2026-03-09T17:02:22+00:00",
+    "ai_summary": "이 기사는 Wave Function Collapse(WFC) 알고리즘을 사용하여 절차적 육각형 지도(Hex Map)를 구축하는 방법을 설명합니다.\nWFC는 패턴 기반 생성을 통해 복잡하고 유기적인 결과물을 만들어내는 기술입니다.\n게임 개발, 시뮬레이션 등 다양한 분야에서 활용될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311484",
+    "title": "JSLinux Now Supports x86_64",
+    "url": "https://bellard.org/jslinux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311484",
+    "summary": "",
+    "score": 210,
+    "published_at": "2026-03-09T16:43:39+00:00",
+    "ai_summary": "JSLinux 프로젝트가 이제 x86_64 아키텍처를 지원하게 되었습니다.\n이는 웹 브라우저 내에서 64비트 리눅스 시스템을 에뮬레이션할 수 있음을 의미합니다.\n개발자와 시스템 엔지니어들에게 웹 기반 컴퓨팅 환경에 대한 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47310160",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47310160",
+    "summary": "",
+    "score": 277,
+    "published_at": "2026-03-09T15:12:53+00:00",
+    "ai_summary": "이 기사는 AI 기반 재구현이 법적으로 허용될지라도 정당한지에 대한 의문을 제기합니다.\n특히 AI가 기존 코드를 학습하여 유사한 기능을 재구현할 때, 카피레프트 라이선스의 침식 가능성을 탐구합니다.\nAI 시대의 지적 재산권 및 오픈소스 커뮤니티의 미래에 대한 중요한 논의입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47312728",
+    "title": "Show HN: The Mog Programming Language",
+    "url": "https://moglang.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=47312728",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-03-09T17:57:00+00:00",
+    "ai_summary": "새로운 프로그래밍 언어 \"Mog\"가 공개되었습니다. 이 언어는 특정 패러다임이나 목적에 초점을 맞춰 설계되었으며, 개발자들이 새로운 언어의 특징과 디자인 철학을 탐구할 기회를 제공합니다. 언어 설계 및 사용에 관심 있는 개발자들에게 특히 흥미로울 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47315128",
+    "title": "Oracle is building yesterday's data centers with tomorrow's debt",
+    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47315128",
+    "summary": "",
+    "score": 140,
+    "published_at": "2026-03-09T20:36:43+00:00",
+    "ai_summary": "오라클이 미래의 부채를 지고 과거 방식의 데이터센터를 구축하고 있다는 비판을 받고 있습니다. 이는 오라클의 클라우드 및 데이터베이스 전략에 대한 우려를 제기하며, 장기적인 시장 경쟁력에 영향을 미칠 수 있습니다. 오라클 기술을 사용하는 개발자나 클라우드 업계 관계자들이 주목할 만합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Database",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311657",
+    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+    "url": "https://news.ycombinator.com/item?id=47311657",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311657",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-03-09T16:53:52+00:00",
+    "ai_summary": "YC W26 스타트업 Terminal Use가 '파일시스템 기반 에이전트를 위한 Vercel'이라는 플랫폼을 론칭했습니다. 이는 AI 에이전트와 같은 파일 시스템을 활용하는 애플리케이션의 배포 및 관리를 간소화하는 도구입니다. AI, 자동화, 그리고 배포 시스템 개발자들에게 매우 유용할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47315341",
+    "title": "So you want to write an “app” (2025)",
+    "url": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47315341",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-03-09T20:50:59+00:00",
+    "ai_summary": "2025년 시점에서 \"앱\"을 개발하고자 하는 사람들을 위한 조언과 가이드를 제공하는 글입니다. 앱 개발의 트렌드, 필요한 기술 스택, 접근 방식 등을 다루며, 초보 개발자나 커리어 전환을 고민하는 이들에게 유용한 통찰을 줄 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47313613",
+    "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+    "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47313613",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-03-09T18:51:34+00:00",
+    "ai_summary": "메타의 스마트 안경을 통해 촬영된 사생활 침해 영상에 대한 보고가 나왔습니다. 이 보고서는 기술 제품의 사생활 보호 및 윤리적 문제의 중요성을 강조하며, 사회적 영향과 데이터 윤리 문제를 제기합니다. 개발자는 제품 설계 시 이러한 윤리적 고려 사항을 반드시 염두에 두어야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47309953",
+    "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+    "url": "https://github.com/DenchHQ/DenchClaw",
+    "discussion_url": "https://news.ycombinator.com/item?id=47309953",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-03-09T14:55:42+00:00",
+    "ai_summary": "DenchClaw는 OpenClaw 위에 구축된 로컬 CRM(고객 관계 관리) 시스템을 선보이는 프로젝트입니다. 이는 소프트웨어 개발자가 기존 플랫폼을 활용하여 비즈니스 애플리케이션을 구축하는 사례를 보여줍니다. 프론트엔드, 백엔드, 데이터베이스 기술이 복합적으로 사용될 것으로 예상됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311179",
+    "title": "An opinionated take on how to do important research that matters",
+    "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311179",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-03-09T16:24:22+00:00",
+    "ai_summary": "이 글은 중요한 연구를 효과적으로 수행하는 방법에 대한 저자의 견해를 제시합니다. 개발자가 의미 있는 기여를 하거나 혁신적인 솔루션을 찾는 데 필요한 사고방식과 전략을 다룹니다. 특히 R&D 분야나 경력 성장을 고민하는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47294572",
+    "title": "Rethinking Syntax: Binding by Adjacency",
+    "url": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=47294572",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-03-08T05:03:03+00:00",
+    "ai_summary": "이 글은 프로그래밍 언어의 문법(syntax)을 재고하며, \"인접성에 의한 바인딩\"이라는 새로운 접근 방식을 제안합니다. 컴파일러, 인터프리터, 또는 언어 설계에 관심 있는 개발자에게 매우 유용하며, 언어의 내부 작동 원리에 대한 깊은 통찰을 제공합니다. 이는 언어 구조와 해석 방식에 대한 근본적인 질문을 던집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47298553",
+    "title": "Flash media longevity testing – 6 years later",
+    "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47298553",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-03-08T16:22:24+00:00",
+    "ai_summary": "플래시 미디어의 수명과 내구성에 대한 6년간의 장기 테스트 결과를 다룹니다. 데이터 저장, 시스템 안정성, 임베디드 시스템 개발 등 스토리지 특성이 중요한 분야의 개발자에게 유용한 정보를 제공합니다. 하드웨어의 물리적 특성이 소프트웨어 설계에 미치는 영향을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47313721",
+    "title": "Durdraw – ANSI art editor for Unix-like systems",
+    "url": "https://durdraw.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47313721",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-03-09T18:59:32+00:00",
+    "ai_summary": "Durdraw는 유닉스 계열 시스템을 위한 ANSI 아트 편집기입니다.\n터미널 기반의 그래픽 작업을 가능하게 하는 소프트웨어 도구입니다.\n개발자들이 시스템 유틸리티나 창작 활동에 관심을 가질 만한 주제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47308059",
+    "title": "No leap second will be introduced at the end of June 2026",
+    "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47308059",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-03-09T12:15:07+00:00",
+    "ai_summary": "2026년 6월 말에는 윤초가 도입되지 않을 것이라고 발표되었습니다.\n이는 정밀한 시간 동기화에 의존하는 시스템을 개발하는 사람들에게 중요한 소식입니다.\n윤초 처리와 관련된 복잡성을 피할 수 있어 시스템 안정성 계획에 영향을 미칩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47308278",
+    "title": "Reverse-engineering the UniFi inform protocol",
+    "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
+    "discussion_url": "https://news.ycombinator.com/item?id=47308278",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-03-09T12:38:46+00:00",
+    "ai_summary": "UniFi inform 프로토콜을 역설계하는 과정에 대한 기사입니다.\n이는 네트워크 장치 통신 방식과 내부 작동 원리를 깊이 있게 파고드는 작업입니다.\n시스템 통합, 보안 연구 및 네트워크 개발자에게 매우 유용한 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47294568",
+    "title": "Velxio, Arduino Emulator",
+    "url": "https://velxio.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47294568",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-03-08T05:02:38+00:00",
+    "ai_summary": "Velxio는 Arduino 개발을 위한 에뮬레이터 도구입니다.\n실제 하드웨어 없이 Arduino 코드를 테스트하고 디버깅할 수 있게 해줍니다.\n임베디드 시스템 및 IoT 개발자들에게 매우 유용한 개발 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311456",
+    "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+    "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311456",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-03-09T16:41:54+00:00",
+    "ai_summary": "Jolla가 Sailfish OS를 탑재하고 사용자 교체 가능한 배터리를 갖춘 새 스마트폰을 출시합니다.\n이는 대안적인 모바일 운영체제와 하드웨어 설계에 대한 소식입니다.\n모바일 플랫폼 및 OS 개발에 관심 있는 개발자들에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47311585",
+    "title": "What I Always Wanted to Know about Second Class Values",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3759427.3760373",
+    "discussion_url": "https://news.ycombinator.com/item?id=47311585",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-03-09T16:49:55+00:00",
+    "ai_summary": "\"Second Class Values\"에 대한 심층적인 탐구를 다루는 기사입니다.\n프로그래밍 언어의 타입 시스템, 의미론 및 설계와 관련된 고급 개념입니다.\n언어 설계자, 컴파일러 개발자, 또는 언어 이론에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/early-look-meta-silently-launches-vibes-ai-editor-to-challenge-rivals/",
+    "title": "Meta silently launches Vibes AI editor (2 minute read)",
+    "url": "https://www.testingcatalog.com/early-look-meta-silently-launches-vibes-ai-editor-to-challenge-rivals/",
+    "discussion_url": "https://www.testingcatalog.com/early-look-meta-silently-launches-vibes-ai-editor-to-challenge-rivals/",
+    "summary": "Meta silently launched the Vibes AI editor, transforming it from a feature in Meta AI to a standalone creation studio similar to Google Flow. The editor supports project creation, image and video generation, timeline editing, and other production tools. While the tooling is robust, output quality needs improvement.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Meta가 Vibes AI 에디터를 독립형 창작 스튜디오로 출시했습니다. 이미지/비디오 생성 및 타임라인 편집 등 다양한 제작 도구를 지원하지만, 출력 품질은 개선이 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?st=2yAv2i&reflink=desktopwebshare_permalink",
+    "title": "Anthropic's AI Hacked the Firefox Browser. It Found a Lot of Bugs (3 minute read)",
+    "url": "https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?st=2yAv2i&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?st=2yAv2i&reflink=desktopwebshare_permalink",
+    "summary": "Claude Opus 4.6 found more high-severity bugs in Firefox over a two-week period than the rest of the world typically reports in two months. The model discovered more than 100 bugs in total, 14 that were tagged as high severity. The model was asked to write code to exploit the bugs, but it turns out the model is much better at finding bugs than exploiting them. The exploits that Claude wrote would have been stopped in the real world by Firefox's other security mechanisms.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Claude Opus 4.6이 Firefox에서 2주 만에 두 달치 이상의 고심각도 버그를 100개 이상 발견했습니다. AI는 버그 탐지에는 뛰어나지만, 실제 익스플로잇 코드를 작성하는 능력은 아직 부족합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/claudeai/status/2029966517497122886?s=12",
+    "title": "Claude Marketplace (1 minute read)",
+    "url": "https://x.com/claudeai/status/2029966517497122886?s=12",
+    "discussion_url": "https://x.com/claudeai/status/2029966517497122886?s=12",
+    "summary": "The Claude Marketplace allows organizations to use some of their existing Anthropic commitment to purchase Claude-powered tools. Partner purchases will count against a portion of an organization's existing Anthropic commitment. Anthropic will manage all invoicing for partner spend. The marketplace is launching with GitLab, Harvey, Lovable, Replit, Rogo, and Snowflake, and Anthropic is looking for more companies to work with.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Claude Marketplace는 기업이 기존 Anthropic 계약으로 Claude 기반 도구를 구매할 수 있는 플랫폼입니다. GitLab, Snowflake 등 파트너사들이 참여하며, Anthropic이 관련 청구를 관리합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://softwaredoug.com/blog/2025/10/06/how-much-does-reasoning-improve-search-quality",
+    "title": "Reasoning boosts search relevance 15-30% (9 minute read)",
+    "url": "https://softwaredoug.com/blog/2025/10/06/how-much-does-reasoning-improve-search-quality",
+    "discussion_url": "https://softwaredoug.com/blog/2025/10/06/how-much-does-reasoning-improve-search-quality",
+    "summary": "Reasoning agents work best with simple search tools. Developers should use simple, easy-to-understand, and transparent search systems like grep or basic keyword search. Agents can sift through results, learn, and retry with what they've learned. Asking an agent to explain the intent behind a query helps the agent reason about how to best satisfy the request by forcing it to think about what the user wants.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "추론 에이전트는 단순한 검색 도구와 결합될 때 검색 관련성을 15-30% 향상시킵니다. 개발자는 에이전트에게 쿼리의 의도를 설명하도록 요구함으로써 사용자의 요청을 더 잘 만족시킬 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://gimletlabs.ai/blog/sram-centric-chips",
+    "title": "The emerging role of SRAM-centric chips in AI inference (4 minute read)",
+    "url": "https://gimletlabs.ai/blog/sram-centric-chips",
+    "discussion_url": "https://gimletlabs.ai/blog/sram-centric-chips",
+    "summary": "SRAM-centric chips, like those from Cerebras and Groq, are gaining traction due to their advantages in AI inference workloads, particularly in minimizing latency and increasing throughput compared to traditional GPUs. This shift is driven by the demand for near-compute memory architectures, which offer faster data access than far-compute approaches like DRAM. The trade-off lies in balancing memory bandwidth and compute capacity, leading to new disaggregated hardware strategies that optimize both",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "SRAM 중심 칩은 AI 추론 워크로드에서 낮은 지연 시간과 높은 처리량으로 GPU 대비 강점을 보입니다. 이는 근접 컴퓨팅 메모리 아키텍처에 대한 수요를 반영하며, 메모리 대역폭과 컴퓨팅 용량의 균형이 중요합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/KatanaLarp/status/2029928471632224486",
+    "title": "Your LLM Doesn't Write Correct Code. It Writes Plausible Code. (8 minute read)",
+    "url": "https://x.com/KatanaLarp/status/2029928471632224486",
+    "discussion_url": "https://x.com/KatanaLarp/status/2029928471632224486",
+    "summary": "A benchmarked LLM-generated Rust rewrite of SQLite ran 20,171x slower on primary key lookups because the query planner never checked the is_ipk flag, sending every WHERE clause through a full table scan instead of a B-tree search. The same author's disk cleanup daemon came in at 82,000 lines with a Bayesian scoring engine and PID controller to solve a problem that a one-line cron job already handles. The root failure is structural: LLMs optimize for plausible output matching the user's intent, a",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "LLM이 생성한 코드는 그럴듯해 보이지만, 실제로는 SQLite 예시처럼 비효율적이거나 잘못된 로직을 포함할 수 있습니다. LLM은 '그럴듯한' 출력을 생성하는 데 최적화되어 있어, 정확하고 효율적인 코드 작성을 보장하지 않습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/codex-security-now-in-research-preview/",
+    "title": "Codex Security Research Preview (8 minute read)",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+    "discussion_url": "https://openai.com/index/codex-security-now-in-research-preview/",
+    "summary": "OpenAI Codex Security is an application security agent designed to analyze repositories, identify high‑impact vulnerabilities, and suggest fixes.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "OpenAI Codex Security는 애플리케이션 보안 에이전트로, 코드 저장소를 분석하여 주요 취약점을 식별하고 수정 사항을 제안합니다. 이는 개발자가 보안 문제를 효율적으로 관리하는 데 도움을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/karpathy/autoresearch",
+    "title": "Karpathy's AutoResearch (GitHub Repo)",
+    "url": "https://github.com/karpathy/autoresearch",
+    "discussion_url": "https://github.com/karpathy/autoresearch",
+    "summary": "Andrej Karpathy open-sourced autoresearch, a project for running AI-driven research loops on a small single-GPU LLM training setup. It lets agents modify code and guidance files, run short training experiments, evaluate results, and iteratively keep improvements overnight.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Andrej Karpathy가 AI 기반 연구 루프를 실행하는 'autoresearch' 오픈소스 프로젝트를 공개했습니다. 이 프로젝트는 에이전트가 코드와 가이드 파일을 수정하고, 훈련 실험을 실행하며, 결과를 평가하여 반복적으로 개선하도록 지원합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for",
+    "title": "Google PM open-sources Always On Memory Agent, ditching vector databases for LLM-driven persistent memory (8 minute read)",
+    "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for",
+    "discussion_url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for",
+    "summary": "The Always On Memory Agent is an agent system that ingests information continuously, consolidates it in the background, and then retrieves it later without relying on a conventional vector database. It is available on the official Google Cloud Platform GitHub page under a permissive MIT License that allows for commercial usage. Enterprise AI teams are moving beyond single-turn assistants into systems expected to remember preferences, preserve project context, and operate across longer horizons. ",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Always On Memory Agent는 기존 벡터 데이터베이스 없이 정보를 지속적으로 수집, 통합, 검색하는 에이전트 시스템입니다. 이 시스템은 Google Cloud Platform GitHub에서 MIT 라이선스로 오픈소스로 공개되어 상업적 사용이 가능하며, LLM 시스템에 지속적인 기억력과 문맥 유지가 중요해짐에 따라 주목받고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "title": "Claude Finds 22 Firefox Security Vulnerabilities (5 minute read)",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "discussion_url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "summary": "Claude Opus 4.6 discovered 22 Firefox vulnerabilities in two weeks, including 14 classified as high severity. The results demonstrated how AI systems can accelerate the discovery of complex security flaws in large codebases.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "Claude Opus 4.6이 2주 만에 Firefox에서 22개의 보안 취약점(14개는 심각도 높음)을 발견했습니다. 이는 AI 시스템이 대규모 코드베이스에서 복잡한 보안 결함을 신속하게 발견할 수 있음을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://martinalderson.com/posts/is-the-ai-compute-crunch-here/",
+    "title": "Is the AI Compute Crunch Here? (7 minute read)",
+    "url": "https://martinalderson.com/posts/is-the-ai-compute-crunch-here/",
+    "discussion_url": "https://martinalderson.com/posts/is-the-ai-compute-crunch-here/",
+    "summary": "AI providers are struggling to meet soaring demand, with Anthropic degrading services due to unprecedented growth.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "AI 공급업체들이 급증하는 수요를 충족시키지 못하며, Anthropic은 전례 없는 성장으로 인해 서비스 품질이 저하되고 있습니다. 이는 AI 컴퓨팅 자원 부족 현상이 심화되고 있음을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/rhFXyfFSRKp3cX4Y9/shaping-the-exploration-of-the-motivation-space-matters-for",
+    "title": "Shaping the exploration of the motivation-space matters for AI safety (17 minute read)",
+    "url": "https://www.lesswrong.com/posts/rhFXyfFSRKp3cX4Y9/shaping-the-exploration-of-the-motivation-space-matters-for",
+    "discussion_url": "https://www.lesswrong.com/posts/rhFXyfFSRKp3cX4Y9/shaping-the-exploration-of-the-motivation-space-matters-for",
+    "summary": "Shaping motivation-space exploration in RL could enhance AI safety by preventing harmful misalignment.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "강화 학습(RL)에서 동기-공간 탐색 방식을 형성하는 것은 AI 안전성 향상에 중요합니다. 이는 유해한 정렬 불량(misalignment)을 방지하여 AI 시스템의 안전성을 높일 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
+    "title": "Do AI-enabled companies need fewer people? (4 minute read)",
+    "url": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
+    "discussion_url": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
+    "summary": "AI startups operate with 40% smaller teams and are raising larger seed and series A rounds, indicating AI leads to more headcount efficiency.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "AI 스타트업은 기존 회사보다 40% 더 적은 인원으로 운영되며, 더 큰 시드 및 시리즈 A 투자를 유치하고 있습니다. 이는 AI 기술이 인력 효율성을 크게 높인다는 것을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://the-prompt-i-cannot-read-ee16d7.gitlab.io/",
+    "title": "The Prompt I Cannot Read (9 minute read)",
+    "url": "https://the-prompt-i-cannot-read-ee16d7.gitlab.io/",
+    "discussion_url": "https://the-prompt-i-cannot-read-ee16d7.gitlab.io/",
+    "summary": "An LLM's output is shaped by an all-encompassing prompt, which includes system instructions, conversation history, and context files, forming the model's entire environment.",
+    "score": 0,
+    "published_at": "2026-03-09T23:29:45+00:00",
+    "ai_summary": "LLM의 출력은 시스템 지침, 대화 기록, 컨텍스트 파일을 포함하는 포괄적인 '프롬프트'에 의해 형성됩니다. 이러한 프롬프트는 모델의 전체 환경을 구성하며 LLM의 동작을 결정하는 핵심 요소입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
