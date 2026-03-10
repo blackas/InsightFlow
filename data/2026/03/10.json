@@ -1,0 +1,864 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27383",
+    "title": "에이전트 시대에 문학적 프로그래밍을 다시 검토해야 한다",
+    "url": "https://news.hada.io/topic?id=27383",
+    "discussion_url": "https://news.hada.io/topic?id=27383",
+    "summary": "코드와 서술을 결합해 읽을 수 있는 형태로 만드는 문학적 프로그래밍이, 대형 언어모델(LLM) 기반 에이전트 환경에서 다시 실용성을 얻고 있음\n\n기존에는 코드와 설명이라는 두 개의 병렬 서사를 유지해야 하는 부담 때문에 채택이 제한되었음...",
+    "score": 0,
+    "published_at": "2026-03-10T18:33:22+00:00",
+    "ai_summary": "에이전트 시대에 LLM 기반 환경에서 문학적 프로그래밍의 실용성이 재조명됩니다.\n코드와 서술을 결합하는 이 방식은 기존에는 유지 부담으로 채택이 제한적이었습니다.\n이제는 더 읽기 쉬운 코드 작성 방식으로 다시 주목받고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27380",
+    "title": "Anthropic의 Claude Code 사용자당 5천 달러 비용 주장은 사실이 아님",
+    "url": "https://news.hada.io/topic?id=27380",
+    "discussion_url": "https://news.hada.io/topic?id=27380",
+    "summary": "Forbes가 인용한 Claude Code Max 요금제의 5천 달러 계산은 실제 컴퓨트 비용이 아닌 API 소매가 기준임\nOpenRouter의 Qwen 3.5 397B와 Kimi K2.5 모델 가격을 비교하면, Anthropic API 요금의 약 10분의 1 수준",
+    "score": 0,
+    "published_at": "2026-03-10T15:33:47+00:00",
+    "ai_summary": "Anthropic의 Claude Code Max 5천 달러 비용 주장은 실제 컴퓨트 비용이 아닌 API 소매가 기준입니다.\nOpenRouter 모델과 비교하면 Anthropic API 요금이 약 10배 비싼 것으로 나타났습니다.\nLLM API 사용 비용에 대한 현실적인 인식이 필요합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27369",
+    "title": "Show GN: JTC - TypeScript를 사용하는 JSON 타입 검사기",
+    "url": "https://news.hada.io/topic?id=27369",
+    "discussion_url": "https://news.hada.io/topic?id=27369",
+    "summary": "JSON이나 YAML에 $schema 필드를 적으면 JSON Schema 검사를 할 수 있는데요,\n비슷하게 $type 필드를 적으면 TypeScript 검사를 해주는 도구를 만들었습니다.\nVSCode 확장과 CLI를 제공합니다.\nVSCode 확장에서는 진단(Diagnostics. 틀리면 빨간줄 그려주는) 기능과 정의로 이동(Go To Definitio",
+    "score": 0,
+    "published_at": "2026-03-10T05:55:21+00:00",
+    "ai_summary": "JTC는 JSON이나 YAML 파일에 $type 필드를 사용하여 TypeScript 타입 검사를 수행하는 도구입니다.\nVSCode 확장으로 진단 및 정의 이동 기능을 제공하며, CLI도 지원합니다.\nJSON 스키마와 유사하게 타입 안정성을 높여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27367",
+    "title": "AgentHub - AI 에이전트를 위한 경량 협업 플랫폼",
+    "url": "https://news.hada.io/topic?id=27300",
+    "discussion_url": "https://news.hada.io/topic?id=27367",
+    "summary": "Karpathy가 공개한 Autoresearch 들이 협업할수 있게 만든 플랫폼\n\n동일한 코드베이스에서 작업하는 수많은 AI 에이전트를 위해 설계됨\n인간 중심의 GitHub 구조를 에이전트 중심으로 재구성...",
+    "score": 0,
+    "published_at": "2026-03-10T03:06:36+00:00",
+    "ai_summary": "AgentHub는 Karpathy의 Autoresearch에서 영감을 받은 AI 에이전트 협업 플랫폼입니다.\n동일한 코드베이스에서 수많은 AI 에이전트가 작업하도록 설계되었습니다.\n인간 중심의 GitHub 구조를 에이전트 중심으로 재구성했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27366",
+    "title": "누가 먹을 것인가? — Vertical AI 시대, 모든 배가 뜨지는 않는 이유",
+    "url": "https://news.hada.io/topic?id=27366",
+    "discussion_url": "https://news.hada.io/topic?id=27366",
+    "summary": "LLM 기반 AI와 에이전트 워크플로우의 부상으로 SaaS의 경제적 논리가 근본적으로 해체되고 있으며, 인텔리전스 비용의 급격한 하락이 엔터프라이즈 기술 시장의 가치 흐름을 재편 중\nAI 서비스의 비용 우위만으로는 지속 가능한 해자를 구축할 수 없으며, LLM 인프라에 의존하는 스...",
+    "score": 0,
+    "published_at": "2026-03-10T02:36:01+00:00",
+    "ai_summary": "LLM 기반 AI와 에이전트 워크플로우의 부상으로 SaaS의 경제적 논리가 해체되고 있습니다.\n인텔리전스 비용 하락이 엔터프라이즈 기술 시장의 가치 흐름을 재편 중입니다.\nAI 서비스의 비용 우위만으로는 지속 가능한 해자를 구축하기 어렵습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27365",
+    "title": "AI가 앱 구독 모델을 죽일 것이다",
+    "url": "https://news.hada.io/topic?id=27365",
+    "discussion_url": "https://news.hada.io/topic?id=27365",
+    "summary": "앱 개발 비용이 거의 제로에 수렴하면서 클론 앱 제작이 쉬워지고, 구독 모델의 붕괴로 이어지고 있음\n2025년 앱스토어 신규 앱 제출 건수가 55만건으로 전년 대비 24% 증가했으며, 이는 Claude 같은 AI 도구로 개발이 쉬워진 결과\n\n서버...",
+    "score": 0,
+    "published_at": "2026-03-10T02:34:59+00:00",
+    "ai_summary": "AI로 앱 개발 비용이 거의 제로에 수렴하며 클론 앱 제작이 쉬워지고 있습니다.\n이는 기존 앱 구독 모델의 붕괴로 이어질 수 있습니다.\nAI 도구 덕분에 2025년 앱스토어 신규 앱 제출 건수가 24% 증가할 것으로 예상됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27363",
+    "title": "Show GN: Endigest - 글로벌 테크 블로그를 AI로 자동 수집·요약해주는 서비스",
+    "url": "https://news.hada.io/topic?id=27363",
+    "discussion_url": "https://news.hada.io/topic?id=27363",
+    "summary": "글로벌 테크 기업(Meta, Google, Spotify, Airbnb 등)의 기술 블로그가 궁금하지만 일일이 읽는건 부담스러웠던 분들을 위해 만들었습니다.\n(사실 제가 그랬습니다.)\n주요 기능:\n\n각 블로그의 RSS 피드를 자동으로 수집하고, AI 기반의 한국어 핵심 요약을 제공합니다.\nFrontend,",
+    "score": 0,
+    "published_at": "2026-03-10T02:21:25+00:00",
+    "ai_summary": "Endigest는 글로벌 테크 기업들의 기술 블로그를 AI로 자동 수집 및 요약해주는 서비스입니다.\n각 블로그의 RSS 피드를 수집하여 AI 기반의 한국어 핵심 요약을 제공합니다.\n개발자들이 최신 기술 동향을 효율적으로 파악하도록 돕습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27362",
+    "title": "Claude Code, 코드 리뷰 기능 공개",
+    "url": "https://news.hada.io/topic?id=27362",
+    "discussion_url": "https://news.hada.io/topic?id=27362",
+    "summary": "PR마다 멀티 에이전트 팀을 투입해 사람이 놓치기 쉬운 버그를 심층적으로 잡아내는 Code Review 기능이 리서치 프리뷰로 출시\nAnthropic 엔지니어의 코드 생산량이 지난 1년간 200% 증가하면서 코드 리뷰가 병목이 되었고, 많은 PR이 깊은 리뷰 대신 훑어보기에 그...",
+    "score": 0,
+    "published_at": "2026-03-10T01:56:01+00:00",
+    "ai_summary": "Claude Code는 AI 기반 코드 리뷰 기능을 출시하여 PR 검토의 병목 현상을 해소합니다.\n멀티 에이전트 팀이 심층적으로 버그를 찾아내어 코드 품질을 높입니다.\n이는 Anthropic 엔지니어의 생산성 향상 경험을 바탕으로 개발되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27361",
+    "title": "Prompt Cultivation: 경험이 프롬프트가 되는 AI 구조에 대한 이야기",
+    "url": "https://news.hada.io/topic?id=27361",
+    "discussion_url": "https://news.hada.io/topic?id=27361",
+    "summary": "배경\n회사에 소속된 1인 개발자입니다. AI를 활용한 사내 시스템을 만들면서 한 가지 고민에 오래 빠져있었습니다.\n프롬프트를 아무리 정교하게 써도, 결국 그건 제가 설계한 거잖아요. AI가 자기 판단으로 만들어낸 게 아니라, 제가 &quot;이런 성격이야, 이렇게 반응해&quot; 하고 주입한 거요. 프",
+    "score": 0,
+    "published_at": "2026-03-10T01:53:01+00:00",
+    "ai_summary": "이 글은 AI 시스템 설계 시 프롬프트의 한계와 AI의 자율성 부여에 대한 고민을 다룹니다.\n개발자의 경험을 프롬프트에 녹여 AI가 단순 지시를 넘어 '경험' 기반으로 판단하게 하는 방법을 모색합니다.\n이를 통해 AI가 수동적인 도구가 아닌 능동적인 파트너로 발전할 가능성을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27360",
+    "title": "합법과 정당은 같은가: AI 재구현과 카피레프트의 침식",
+    "url": "https://news.hada.io/topic?id=27360",
+    "discussion_url": "https://news.hada.io/topic?id=27360",
+    "summary": "Python 문자 인코딩 감지 라이브러리 chardet가 AI를 이용해 재구현되며 LGPL에서 MIT로 변경된 사례가 오픈소스 윤리 논쟁을 촉발함\n\nAI 재구현의 합법성을 인정하는 의견이 나왔지만, 글은 법적 허용과 사회적 정당성은 다르다",
+    "score": 0,
+    "published_at": "2026-03-10T01:33:38+00:00",
+    "ai_summary": "AI 재구현으로 chardet 라이브러리가 LGPL에서 MIT 라이선스로 변경되며 오픈소스 윤리 논쟁이 촉발되었습니다.\n법적으로 허용되더라도 AI 사용 시 사회적 정당성에 대한 질문이 제기됩니다.\n이는 AI가 소프트웨어 라이선스 및 개발 윤리에 미치는 중요한 영향을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27359",
+    "title": "LangChain 스킬 공개, Claude Code 통과율 25% → 95%로 끌어올린 방법",
+    "url": "https://news.hada.io/topic?id=27359",
+    "discussion_url": "https://news.hada.io/topic?id=27359",
+    "summary": "LangChain이 코딩 에이전트 성능을 극적으로 향상시키는 &quot;스킬(Skills)&quot; 세트를 공개.\n특히 Claude Code 같은 모델이 LangChain/LangGraph/LangSmith 관련 태스크를 수행할 때, 스킬 없이 25% 정도만 성공하던 것이 스킬 장착 후 95% 까지 올라",
+    "score": 0,
+    "published_at": "2026-03-10T01:26:00+00:00",
+    "ai_summary": "LangChain이 코딩 에이전트 성능을 혁신적으로 향상시키는 '스킬(Skills)' 세트를 공개했습니다.\n이를 통해 Claude Code 같은 모델의 LangChain/LangGraph/LangSmith 관련 태스크 통과율이 25%에서 95%로 극적으로 상승했습니다.\n스킬은 LLM 에이전트가 복잡한 코딩 작업을 더 정확하고 효율적으로 수행하도록 돕는 핵심 기능입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27358",
+    "title": "ChatGPT Pro에서 GPT-5.4 컨텍스트 1M을 제대로 쓰려면 설정이 필요",
+    "url": "https://news.hada.io/topic?id=27358",
+    "discussion_url": "https://news.hada.io/topic?id=27358",
+    "summary": "최근 r/codex에 흥미로운 글이 올라왔습니다.\n한 사용자가 ChatGPT Pro + Codex에서 GPT-5.4를 사용 중인데 컨텍스트가 258K만 나온다는 질문을 올렸습니다.\n“GPT-5.4는 1M 컨텍스트라고 들었는데 왜 258K만 나오나요?”  ￼\n실제로 Codex CLI나 IDE에서 확인하면 기본 컨텍스트가 약 258K로 표시...",
+    "score": 0,
+    "published_at": "2026-03-10T01:22:48+00:00",
+    "ai_summary": "ChatGPT Pro에서 GPT-5.4의 1M 컨텍스트를 제대로 사용하려면 별도 설정이 필요합니다.\n기본 설정은 약 258K 컨텍스트만 제공하며, 사용자가 직접 변경해야 1M 컨텍스트를 활용할 수 있습니다.\n이는 LLM 사용 시 기본 설정을 넘어선 최적화와 정확한 이해의 중요성을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27352",
+    "title": "Scrapling - 적응형 웹 스크래핑 프레임워크",
+    "url": "https://news.hada.io/topic?id=27352",
+    "discussion_url": "https://news.hada.io/topic?id=27352",
+    "summary": "현대 웹의 복잡한 구조와 안티-봇 시스템을 우회하며 단일 요청부터 대규모 크롤링까지 처리\n웹사이트 구조 변경 시 자동으로 요소를 재탐색하는 지능형 파서(parser) 내장\n\nCloudflare Turnstile 등 주요 보안 시스템...",
+    "score": 0,
+    "published_at": "2026-03-10T00:31:01+00:00",
+    "ai_summary": "Scrapling은 현대 웹의 복잡한 구조와 안티-봇 시스템을 우회하는 적응형 웹 스크래핑 프레임워크입니다.\n웹사이트 구조 변경 시 자동으로 요소를 재탐색하는 지능형 파서를 내장하여 유지보수 부담을 줄입니다.\n단일 요청부터 대규모 크롤링까지 처리하며 Cloudflare Turnstile 같은 보안 시스템도 우회합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27351",
+    "title": "ShadowBroker - 전 세계 15개 실시간 데이터 피드를 통합한 OSINT 대시보드",
+    "url": "https://news.hada.io/topic?id=27351",
+    "discussion_url": "https://news.hada.io/topic?id=27351",
+    "summary": "항공기, 선박, 위성, 지진, 분쟁, CCTV, GPS 교란 등 다양한 실시간 데이터를 하나의 지리정보 기반 인터페이스로 통합\n\nNext.js, MapLibre GL, FastAPI, Python으로 구축되어 분석가와 연구...",
+    "score": 0,
+    "published_at": "2026-03-09T23:33:00+00:00",
+    "ai_summary": "ShadowBroker는 전 세계 15개 실시간 데이터 피드를 통합한 지리정보 기반 OSINT 대시보드입니다.\n항공기, 선박, 위성, 지진 등 다양한 실시간 데이터를 하나의 인터페이스로 제공합니다.\nNext.js, MapLibre GL, FastAPI, Python으로 구축되어 분석가와 연구자에게 유용한 도구입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47323017",
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47323017",
+    "summary": "",
+    "score": 357,
+    "published_at": "2026-03-10T13:31:17+00:00",
+    "ai_summary": "아마존은 잦은 서비스 중단 이후, AI 보조 변경사항에 대해 선임 엔지니어의 최종 승인을 의무화합니다.\n이는 AI 도구 사용 시 인간 감독의 중요성을 강조하고, 시스템 안정성 확보를 위한 새로운 프로세스입니다.\n개발 프로세스 내 AI 통합의 신중한 접근 방식을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47328214",
+    "title": "RISC-V Is Sloooow",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47328214",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-03-10T20:11:54+00:00",
+    "ai_summary": "이 기사는 RISC-V 아키텍처의 성능이 느리다는 주장을 다루며 그 이유를 분석합니다.\nRISC-V의 현재 성능 제약과 최적화 과제에 대한 심층적인 관점을 제공합니다.\n하드웨어 및 시스템 소프트웨어 개발자에게 중요한 시사점을 줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47327559",
+    "title": "Agents that run while I sleep",
+    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "discussion_url": "https://news.ycombinator.com/item?id=47327559",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-03-10T19:09:46+00:00",
+    "ai_summary": "이 글은 사용자가 잠자는 동안에도 작동하는 자동화된 에이전트(Agent)에 대한 내용을 다룹니다.\nAI 기반 에이전트나 스크립트를 활용하여 반복적인 작업을 자동화하고 생산성을 높이는 방법을 탐구합니다.\n개발자의 워크플로우 효율화와 자동화 시스템 구축에 대한 아이디어를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47320600",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47320600",
+    "summary": "",
+    "score": 274,
+    "published_at": "2026-03-10T08:46:53+00:00",
+    "ai_summary": "AI 분야의 저명한 얀 르쿤이 물리적 세계를 이해하는 AI 구축을 위해 10억 달러를 모금했습니다.\n이는 단순한 패턴 인식을 넘어 상식과 물리 법칙을 이해하는 차세대 AI 개발을 목표로 합니다.\nAI 연구자와 개발자들에게 미래 AI 방향에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47329557",
+    "title": "Cloudflare Crawl Endpoint",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47329557",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-03-10T22:27:15+00:00",
+    "ai_summary": "클라우드플레어의 크롤 엔드포인트 기능에 대한 설명을 담고 있습니다.\n웹사이트 운영자가 크롤링을 관리하고 봇 활동을 제어하는 방법에 대한 정보를 제공합니다.\n웹 성능, 보안, 그리고 SEO 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47326101",
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "discussion_url": "https://news.ycombinator.com/item?id=47326101",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-03-10T17:14:52+00:00",
+    "ai_summary": "YC W26 스타트업 RunAnywhere가 Apple Silicon에서 AI 추론 속도를 획기적으로 높이는 솔루션을 출시했습니다.\n이는 개발자가 Apple 기기에서 AI 모델을 더 빠르고 효율적으로 실행할 수 있게 돕습니다.\nAI/ML 개발자와 Apple 생태계 사용자에게 매우 유용한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47324087",
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47324087",
+    "summary": "",
+    "score": 257,
+    "published_at": "2026-03-10T14:53:13+00:00",
+    "ai_summary": "데비안 프로젝트는 AI 생성 코드 기여에 대한 명확한 정책 결정을 보류했습니다.\n이는 AI 생성 코드의 저작권 및 윤리적 문제로 인해 발생한 복잡한 논의를 반영합니다.\n개발자 커뮤니티 내에서 AI 도구 사용과 관련된 현재의 불확실성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47295559",
+    "title": "Invoker Commands API",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
+    "discussion_url": "https://news.ycombinator.com/item?id=47295559",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-03-08T08:16:53+00:00",
+    "ai_summary": "Invoker Commands API는 특정 플랫폼이나 시스템에서 명령 실행을 위한 표준화된 인터페이스를 제공합니다.\n개발자는 이 API를 활용하여 애플리케이션 기능을 확장하고 복잡한 작업을 자동화할 수 있습니다.\n이는 시스템 통합 및 효율적인 프로세스 제어에 중요한 역할을 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47327015",
+    "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+    "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+    "discussion_url": "https://news.ycombinator.com/item?id=47327015",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-03-10T18:26:39+00:00",
+    "ai_summary": "FFmpeg-over-IP는 원격 FFmpeg 서버에 연결하여 미디어 처리 작업을 수행하는 기술입니다.\n개발자는 이를 통해 네트워크를 통한 분산 미디어 처리 시스템을 구축할 수 있습니다.\n미디어 스트리밍, 인코딩, 트랜스코딩 등의 작업에 효율적인 솔루션을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47320614",
+    "title": "Levels of Agentic Engineering",
+    "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+    "discussion_url": "https://news.ycombinator.com/item?id=47320614",
+    "summary": "",
+    "score": 101,
+    "published_at": "2026-03-10T08:48:40+00:00",
+    "ai_summary": "이 기사는 에이전트 기반 시스템 개발의 다양한 수준과 접근 방식을 \"Agentic Engineering\" 개념으로 설명합니다.\n개발자들이 자율적인 AI 에이전트를 설계하고 구현하는 데 필요한 프레임워크와 방법론을 제시합니다.\n복잡한 AI 시스템 구축 시 고려해야 할 설계 원칙을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47328034",
+    "title": "Tell HN: Apple development certificate server seems down?",
+    "url": "https://news.ycombinator.com/item?id=47328034",
+    "discussion_url": "https://news.ycombinator.com/item?id=47328034",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-03-10T19:56:52+00:00",
+    "ai_summary": "Apple 개발자 인증서 서버에 문제가 발생하여 다운된 것으로 보인다는 개발자 보고가 있었습니다.\n이는 Apple 플랫폼에서 앱 개발 및 배포를 진행하는 개발자들에게 심각한 작업 중단을 초래할 수 있습니다.\n개발 프로세스에 필수적인 핵심 인프라의 안정성 문제를 부각합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47320661",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=47320661",
+    "summary": "",
+    "score": 359,
+    "published_at": "2026-03-10T08:54:53+00:00",
+    "ai_summary": "오픈 소스 운영체제 Redox OS가 Certificate of Origin 정책을 채택했습니다.\n또한, LLM으로 생성된 코드의 기여를 엄격히 금지하는 정책을 발표했습니다.\n이는 오픈 소스 프로젝트의 저작권 및 AI 생성 코드의 윤리적 문제에 대한 중요한 입장을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47289590",
+    "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
+    "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47289590",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-03-07T17:29:54+00:00",
+    "ai_summary": "라즈베리 파이 기반의 해양 로봇으로 바다 탐사를 진행합니다.\n개발자들이 직접 하드웨어와 소프트웨어를 통합하여 로봇을 만들고 제어하는 프로젝트입니다.\n교육 및 연구 목적으로 활용될 수 있는 실용적인 개발 사례를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47295151",
+    "title": "Show HN: Joha – a free browser-based drawing playground with preset shape tools",
+    "url": "https://joha-app.pages.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47295151",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-03-08T06:45:45+00:00",
+    "ai_summary": "Joha는 사전 설정된 도형 도구를 제공하는 무료 브라우저 기반 드로잉 플랫폼입니다.\n사용자들이 웹에서 쉽게 그림을 그리거나 디자인 작업을 할 수 있도록 지원합니다.\n프론트엔드 개발 및 웹 애플리케이션 구현에 대한 좋은 사례를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47322815",
+    "title": "Intel Demos Chip to Compute with Encrypted Data",
+    "url": "https://spectrum.ieee.org/fhe-intel",
+    "discussion_url": "https://news.ycombinator.com/item?id=47322815",
+    "summary": "",
+    "score": 211,
+    "published_at": "2026-03-10T13:10:48+00:00",
+    "ai_summary": "인텔이 암호화된 데이터를 직접 연산할 수 있는 칩 기술을 시연했습니다.\n이는 데이터를 보호하면서 처리할 수 있는 기밀 컴퓨팅의 발전을 의미합니다.\n보안 및 프라이버시가 중요한 애플리케이션 개발에 큰 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47321188",
+    "title": "Show HN: What's my JND? – a colour guessing game",
+    "url": "https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-",
+    "discussion_url": "https://news.ycombinator.com/item?id=47321188",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-03-10T10:01:58+00:00",
+    "ai_summary": "\"What's my JND?\"는 사용자가 색상을 추측하는 웹 기반의 게임입니다.\nJND(Just Noticeable Difference) 개념을 활용하여 색상 인지 능력을 테스트합니다.\n간단하지만 사용자 인터랙션과 웹 기술을 활용한 개발 사례를 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47326555",
+    "title": "Billion-Parameter Theories",
+    "url": "https://www.worldgov.org/complexity.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47326555",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-03-10T17:49:53+00:00",
+    "ai_summary": "이 기사는 수십억 개의 파라미터를 가진 대규모 AI 모델의 이론적 측면을 다룹니다.\n최근 LLM을 포함한 거대 모델의 복잡성과 학습 원리에 대한 심층적인 분석을 제공합니다.\nAI/ML 연구자와 개발자들에게 모델 스케일링과 이론적 배경 이해에 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47322635",
+    "title": "Online age-verification tools for child safety are surveilling adults",
+    "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47322635",
+    "summary": "",
+    "score": 501,
+    "published_at": "2026-03-10T12:55:42+00:00",
+    "ai_summary": "온라인 아동 안전을 위한 연령 확인 도구가 성인 사용자를 감시하는 문제를 제기합니다.\n이는 개인 정보 보호와 데이터 수집 관행에 대한 심각한 윤리적 질문을 던집니다.\n개발자들이 보안 및 프라이버시를 고려한 설계의 중요성을 인식하게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47321233",
+    "title": "I put my whole life into a single database",
+    "url": "https://howisfelix.today/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47321233",
+    "summary": "",
+    "score": 405,
+    "published_at": "2026-03-10T10:07:48+00:00",
+    "ai_summary": "한 개발자가 자신의 전 생애 데이터를 단일 데이터베이스에 정리한 프로젝트입니다.\n데이터 모델링, 스키마 설계, 그리고 개인 데이터 관리의 복잡성을 보여줍니다.\n데이터베이스 설계 및 백엔드 개발에 관심 있는 이들에게 영감을 줄 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47317288",
+    "title": "Open Weights isn't Open Training",
+    "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+    "discussion_url": "https://news.ycombinator.com/item?id=47317288",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-03-09T23:37:08+00:00",
+    "ai_summary": "'오픈 웨이트'가 '오픈 트레이닝'과 다르다는 AI/ML 커뮤니티의 중요한 논의를 다룹니다.\n모델 가중치만 공개하는 것과 학습 데이터, 코드, 방법론까지 공개하는 것의 차이를 설명합니다.\n이는 AI 모델의 투명성과 재현성, 그리고 진정한 오픈소스 AI의 의미에 대한 논의입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47322887",
+    "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+    "url": "https://dnhkng.github.io/posts/rys/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47322887",
+    "summary": "",
+    "score": 246,
+    "published_at": "2026-03-10T13:18:55+00:00",
+    "ai_summary": "두 개의 게이밍 GPU로 HuggingFace 오픈 LLM 리더보드에서 최고 성적을 달성한 과정을 공유합니다.\nQLoRA와 Flash Attention 2 같은 효율적인 튜닝 기법을 활용하여 성능을 극대화했습니다.\n제한된 자원으로 고성능 LLM을 훈련시키는 실제적인 방법을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47323105",
+    "title": "Rebasing in Magit",
+    "url": "https://entropicthoughts.com/rebasing-in-magit",
+    "discussion_url": "https://news.ycombinator.com/item?id=47323105",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-03-10T13:38:39+00:00",
+    "ai_summary": "Magit (Emacs의 Git 인터페이스)에서 Git rebase 작업을 수행하는 방법을 상세히 설명합니다.\n대화형 rebase, Squash, Fixup 등 다양한 rebase 옵션과 워크플로우를 다룹니다.\nGit의 복잡한 이력 관리 작업을 Magit으로 효율적으로 처리하는 가이드를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47324296",
+    "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+    "url": "https://news.ycombinator.com/item?id=47324296",
+    "discussion_url": "https://news.ycombinator.com/item?id=47324296",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-03-10T15:08:05+00:00",
+    "ai_summary": "Didit은 신원 확인 서비스로, 개발자가 애플리케이션에 쉽게 통합할 수 있도록 API를 제공합니다.\n'신원 확인을 위한 Stripe'를 표방하며, 빠르고 안전한 사용자 인증 솔루션을 제공합니다.\n새로운 서비스형 플랫폼(PaaS)으로, 개발자들이 신원 확인 기능을 효율적으로 구현하도록 돕습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47324058",
+    "title": "We are building data breach machines and nobody cares",
+    "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47324058",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-03-10T14:50:43+00:00",
+    "ai_summary": "우리가 만드는 시스템과 관행이 사실상 데이터 유출을 조장하고 있음을 경고하는 기사입니다.\n개발 및 운영 과정에서 보안 취약점을 간과하는 현실과 그로 인한 심각성을 지적합니다.\n데이터 보안에 대한 경각심을 높이고, 개발자들이 보다 안전한 시스템을 구축해야 함을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47325595",
+    "title": "I built a programming language using Claude Code",
+    "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47325595",
+    "summary": "",
+    "score": 99,
+    "published_at": "2026-03-10T16:37:29+00:00",
+    "ai_summary": "Anthropic의 Claude Code를 활용하여 새로운 프로그래밍 언어를 개발한 경험을 공유합니다.\nLLM이 언어 설계, 문법 정의, 컴파일러/인터프리터 구현에 어떻게 도움을 주었는지 설명합니다.\nAI 기반 코드 생성 도구가 복잡한 소프트웨어 프로젝트에 미치는 잠재력과 실제 활용 사례를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.promptfoo.dev/blog/promptfoo-joining-openai/",
+    "title": "Promptfoo is joining OpenAI (2 minute read)",
+    "url": "https://www.promptfoo.dev/blog/promptfoo-joining-openai/",
+    "discussion_url": "https://www.promptfoo.dev/blog/promptfoo-joining-openai/",
+    "summary": "Promptfoo has agreed to be acquired by OpenAI. It will remain open source and continue to serve users and customers. The company was founded in 2024 to make it easy for developers to systematically test AI applications. It is joining OpenAI so that the security, evaluation, and compliance platform can have the greatest impact on how teams build and deploy AI. OpenAI will improve and integrate Promptfoo's core tech within its model and infrastructure layers so that teams can catch vulnerabilities",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Promptfoo가 OpenAI에 인수되어 AI 애플리케이션 테스트 플랫폼으로서 오픈 소스를 유지합니다. OpenAI는 Promptfoo의 핵심 기술을 모델 및 인프라에 통합하여 AI 개발팀의 보안 및 평가 역량을 강화할 예정입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "title": "Copilot Cowork: A new way of getting work done (5 minute read)",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "discussion_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "summary": "Microsoft's Copilot Cowork automates tasks across Microsoft 365, enhancing productivity through intelligent workflow management. Utilizing Work IQ, it coordinates emails, meetings, and files, performing actions like rescheduling and document preparation while maintaining user control. Currently in Research Preview, broader availability is expected in March 2026.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Microsoft Copilot Cowork는 Microsoft 365 작업을 자동화하여 생산성을 향상시키는 AI 도구입니다. Work IQ를 통해 이메일, 회의, 문서 준비 등을 조율하며, 2026년 3월에 광범위하게 출시될 예정입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://a16z.com/100-gen-ai-apps-6/",
+    "title": "The Top 100 Gen AI Consumer Apps (15 minute read)",
+    "url": "https://a16z.com/100-gen-ai-apps-6/",
+    "discussion_url": "https://a16z.com/100-gen-ai-apps-6/",
+    "summary": "Generative AI usage in consumer apps has evolved significantly, with products like CapCut, Canva, and Notion integrating AI as core features. ChatGPT remains the leading AI product globally, but competitors like Gemini and Claude are gaining traction, especially with US paid subscriptions. The AI landscape is diversifying geographically and functionally, with notable developments in video generation and agentic AI, notably OpenClaw, suggesting a shift beyond traditional browser and app metrics.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "생성형 AI는 CapCut, Canva 등 소비자 앱에 핵심 기능으로 통합되고 있습니다. ChatGPT가 선두를 유지하지만 Gemini, Claude 등 경쟁자가 성장하고 있으며, 비디오 생성 및 에이전트 AI 등 AI 시장의 다양화가 주목됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/hwchase17/status/2031051115169808685",
+    "title": "How Coding Agents Are Reshaping Engineering, Product, and Design (2 minute read)",
+    "url": "https://x.com/hwchase17/status/2031051115169808685",
+    "discussion_url": "https://x.com/hwchase17/status/2031051115169808685",
+    "summary": "Coding agents have collapsed the traditional waterfall process by making implementation cheap and shifting the bottleneck from writing code to reviewing it. High throughput is the new constraint, favoring builders with product sense and systems thinkers who can manage rapid cycles. Generalists gain the most advantage by eliminating communication overhead, while the bar for pure specialization rises because domain depth alone is no longer enough to justify a role.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "코딩 에이전트는 구현 비용을 낮춰 전통적인 개발 프로세스를 변화시키고 있습니다. 코드 작성에서 검토로 병목 현상이 이동하며, 제품 감각과 시스템적 사고를 가진 빌더 및 제너럴리스트가 유리해지고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/amytam01/status/2031072399731675269",
+    "title": "When Code is Free, Research is All That Matters (2 minute read)",
+    "url": "https://x.com/amytam01/status/2031072399731675269",
+    "discussion_url": "https://x.com/amytam01/status/2031072399731675269",
+    "summary": "As implementation costs collapse, the scarce resource becomes knowing what is worth building and whether it is feasible. Software engineering optimizes toward known solutions, but research operates without ground truth, making it resistant to the automation currently impacting traditional development. Research taste remains portable and nearly impossible to train, acting as the ultimate differentiator in a world where barriers to entry have dropped.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "코드 구현 비용이 감소하면서, 무엇을 만들고 실행 가능한지 아는 것이 핵심 자원이 되고 있습니다. 연구는 알려진 솔루션 최적화에 중점을 두는 개발과 달리 자동화에 영향을 덜 받으며, 연구적 감각은 최고의 차별화 요소로 부상합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://code.claude.com/docs/en/code-review",
+    "title": "Code Review (7 minute read)",
+    "url": "https://code.claude.com/docs/en/code-review",
+    "discussion_url": "https://code.claude.com/docs/en/code-review",
+    "summary": "Code Review for Claude Code allows developers to set up automated PR reviews that catch logic errors, security vulnerabilities, and regressions using multi-agent analysis. It analyzes GitHub pull requests and posts findings as inline comments. Findings are tagged by severity, and the tool doesn't approve or block PRs, allowing existing review workflows to stay intact. Claude Review is billed based on token usage, with reviews averaging $15 to $25.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Claude Code용 코드 리뷰 도구는 다중 에이전트 분석을 통해 자동화된 PR 리뷰를 제공합니다. 논리 오류, 보안 취약점, 회귀 등을 포착하여 GitHub PR에 인라인 댓글로 결과를 게시하며, 기존 워크플로우를 방해하지 않습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+    "title": "Teaching LLMs to reason like Bayesians (5 minute read)",
+    "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+    "discussion_url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+    "summary": "Google researchers taught LLMs to reason in a Bayesian manner by training them to mimic the predictions of an optimal Bayesian model. Bayesian inference defines the optimal way to perform updates over multiple interactions. It could help LLMs optimize user interactions by updating their estimates of a user's preference. The researchers' approach significantly improves LLM performance on recommendation tasks and enables generalization to other tasks, suggesting the method taught LLMs to better ap",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Google 연구자들이 LLM이 베이지안 방식으로 추론하도록 훈련했습니다. 베이지안 추론은 사용자 상호작용을 최적화하는 데 도움이 될 수 있으며, 이 접근 방식은 LLM의 추천 작업 성능을 크게 향상시켰습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/tencent-ailab/Penguin-VL",
+    "title": "Penguin‑VL: Efficient Vision‑Language Models (GitHub Repo)",
+    "url": "https://github.com/tencent-ailab/Penguin-VL",
+    "discussion_url": "https://github.com/tencent-ailab/Penguin-VL",
+    "summary": "Tencent AI Lab released Penguin‑VL, a compact VLM family designed to improve multimodal efficiency by redesigning the vision encoder. It introduces Penguin‑Encoder, initialized from a text‑only LLM to align visual features with language representations and improve data‑efficient multimodal reasoning.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Tencent AI Lab은 효율적인 Vision-Language Model(VLM)인 Penguin-VL을 공개했습니다. 이 모델은 Penguin-Encoder를 통해 시각적 특징과 언어 표현을 정렬하여 멀티모달 효율성을 개선하고 데이터 효율적인 추론을 가능하게 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "title": "No, it doesn't cost Anthropic $5k per Claude Code user (4 minute read)",
+    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "discussion_url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "summary": "A recent article by Forbes on Cursor claims that Anthropic's $200 per month Claude Code Max plan can consume $5,000 in compute. It is likely that the article's sources are confusing retail API prices with actual compute costs. The actual compute cost is roughly 10% of retail API prices. Most users don't come anywhere near their limits. Anthropic isn't a profitable company, but inference isn't why.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "Anthropic의 Claude Code Max 플랜 비용이 과장되었다는 주장이 제기되었습니다. 실제 컴퓨팅 비용은 소매 API 가격의 약 10% 수준이며, Anthropic의 수익성과 추론 비용은 직접적인 관계가 없을 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118",
+    "title": "AI assistants now equal 56% of global search engine volume (3 minute read)",
+    "url": "https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118",
+    "discussion_url": "https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118",
+    "summary": "AI assistants generate 45 billion monthly sessions, making up 56% of global search engine volume. Notably, 83% of AI usage occurs in mobile apps, with ChatGPT dominating at 89% of global AI sessions. Despite AI's rise, search engine activity remains crucial, with combined usage growing 26% globally since 2023.",
+    "score": 0,
+    "published_at": "2026-03-10T23:29:40+00:00",
+    "ai_summary": "AI 어시스턴트가 전 세계 검색 엔진 볼륨의 56%를 차지하며 월 450억 세션을 기록했습니다. AI 사용량의 83%는 모바일 앱에서 발생하며 ChatGPT가 지배적이지만, 전체 검색 엔진 활동도 꾸준히 증가하고 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  }
+]
