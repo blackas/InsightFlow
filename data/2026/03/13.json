@@ -1,0 +1,885 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27479",
+    "title": "트랜스포머 내부에서 프로그램을 실행해 지수적으로 빠른 추론 달성",
+    "url": "https://news.hada.io/topic?id=27479",
+    "discussion_url": "https://news.hada.io/topic?id=27479",
+    "summary": "최신 언어 모델(LLM) 은 복잡한 수학 문제를 풀 수 있지만, 단순한 계산 작업에서는 긴 추론 단계와 문맥 길이 때문에 실패율이 높음\n연구팀은 트랜스포머 내부에 실제 컴퓨터를 구현, 외부 도구 없이 C 코드나 WebAssembly 프로그램을 모델이 직...",
+    "score": 0,
+    "published_at": "2026-03-13T22:33:36+00:00",
+    "ai_summary": "LLM은 복잡한 문제에 강하지만 단순 계산에선 비효율적이다.\n연구팀은 트랜스포머 내부에 컴퓨터를 구현, C/WebAssembly 프로그램 직접 실행으로\n외부 도구 없이도 지수적으로 빠른 추론을 가능하게 했다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27477",
+    "title": "Show GN: My Oshi Canvas - 프롬프트 없이 선택만으로, 나만의 캐릭터를 만드는 서비스",
+    "url": "https://news.hada.io/topic?id=27477",
+    "discussion_url": "https://news.hada.io/topic?id=27477",
+    "summary": "안녕하세요!\n애니메이션 캐릭터 디자인을 프롬프트 없이, 4개의 선택만으로 매력적인 캐릭터를 만들 수 있는 서비스를 만들어 보았습니다.\n원래는 혼자서 게임을 만드려고 했더니, 캐릭터 디자인을 할 일이 생겼고, 그림 실력이 부족하여 AI로 캐릭터를 디자인 했는데 프롬프트 배우느라 지쳐버렸던 기",
+    "score": 0,
+    "published_at": "2026-03-13T21:17:11+00:00",
+    "ai_summary": "프롬프트 입력 없이 4가지 선택만으로 나만의 애니메이션 캐릭터를 디자인하는 서비스이다.\n개발자가 게임 캐릭터 디자인 중 프롬프트 학습에 지쳐 직접 만들었다.\nAI를 활용하여 사용자 친화적인 캐릭터 생성 경험을 제공한다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27476",
+    "title": "코틀린 창시자의 새 언어: 영어 대신 명세(spec)로 LLM과 대화하기",
+    "url": "https://news.hada.io/topic?id=27476",
+    "discussion_url": "https://news.hada.io/topic?id=27476",
+    "summary": "CodeSpeak은 대규모 언어 모델(LLM)을 기반으로 한 차세대 프로그래밍 언어로, 코드베이스를 5~10배 축소할 수 있음\n개발자는 코드 대신 간결한 명세(spec) 를 작성하고, codespeak build 명령으...",
+    "score": 0,
+    "published_at": "2026-03-13T20:33:40+00:00",
+    "ai_summary": "코틀린 창시자가 LLM 기반의 차세대 언어 CodeSpeak을 발표했다.\n이 언어는 개발자가 코드 대신 간결한 명세(spec)를 작성하여,\n코드베이스를 5~10배 축소할 수 있게 돕는다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27473",
+    "title": "Show GN: TUI, GUI를 함께 제공하는 철수 프록시",
+    "url": "https://news.hada.io/topic?id=27473",
+    "discussion_url": "https://news.hada.io/topic?id=27473",
+    "summary": "제작 동기\n지금은 뿔뿔이 흩어졌지만, 함께 재직하던 프론트엔드 개발자 3명이서 API 모킹을 좀 더 편하게 하기 위한 목적으로,\nhttps://github.com/emanuele-em/proxelar 를 포크하여 만든 프록시입니다.\n사내에서만 사용할 생각이었기 때문에 프로그램 이름도 정말 대충 지어졌습니다.",
+    "score": 0,
+    "published_at": "2026-03-13T17:16:33+00:00",
+    "ai_summary": "프론트엔드 개발자들이 API 모킹을 편리하게 하기 위해 만든 프록시 도구이다.\n기존 프로젝트를 포크하여 TUI와 GUI를 동시에 제공하는 형태로 개선되었다.\n사내용으로 시작되었으며, 개발자들의 효율적인 작업을 돕는다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27470",
+    "title": "2026년에 다시 Rails로 돌아오다",
+    "url": "https://news.hada.io/topic?id=27470",
+    "discussion_url": "https://news.hada.io/topic?id=27470",
+    "summary": "밴드의 세트리스트 관리 앱(setlist.rocks) 을 만들며 오랜만에 Ruby on Rails 개발의 즐거움을 재발견함\n최신 Rails 8은 전통적인 MVC 구조를 유지하면서도 Hotwire(Stimulus·Turbo) 기반의 “no-build” 프런트엔드, ...",
+    "score": 0,
+    "published_at": "2026-03-13T13:37:48+00:00",
+    "ai_summary": "오랜만에 Ruby on Rails로 밴드 세트리스트 앱을 만들며 개발의 즐거움을 재발견했다.\n최신 Rails 8은 전통적인 MVC 구조와 Hotwire 기반의 \"no-build\" 프런트엔드를 제공한다.\n이는 개발 효율성과 현대적인 웹 개발 경험을 동시에 제공한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27461",
+    "title": "AI 에이전트 워크플로우 3가지 패턴, 언제 어떤 걸 써야 할까",
+    "url": "https://news.hada.io/topic?id=27461",
+    "discussion_url": "https://news.hada.io/topic?id=27461",
+    "summary": "Anthropic이 실제 프로덕션 경험을 바탕으로 정리한 AI 에이전트 워크플로우의 가장 실무적으로 많이 쓰이는 3가지 패턴과 언제 어떤 걸 선택해야 하는지 핵심만 정리.\n핵심 메시지\n\n에이전트가 많아질수록 구조(워크플로우)가 더 중요해짐\n잘못된 패턴 → 레이턴시↑",
+    "score": 0,
+    "published_at": "2026-03-13T05:53:12+00:00",
+    "ai_summary": "Anthropic이 프로덕션 경험 기반으로 AI 에이전트 워크플로우의 3가지 패턴을 정리했다.\n에이전트 수가 많아질수록 워크플로우 구조 설계가 중요하며,\n잘못된 패턴은 레이턴시 증가로 이어진다고 강조한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27459",
+    "title": "OpenAI의 에이전트 구축을 위한 실용 가이드",
+    "url": "https://news.hada.io/topic?id=27459",
+    "discussion_url": "https://news.hada.io/topic?id=27459",
+    "summary": "LLM의 추론, 멀티모달, 도구 사용 능력이 향상되면서 사용자를 대신해 독립적으로 워크플로를 수행하는 새로운 시스템 범주인 에이전트가 등장\n에이전트는 모델(LLM), 도구(API/외부 함수), 지침(가이드라인)의 세 가지 핵심 구성요소로 이루어지...",
+    "score": 0,
+    "published_at": "2026-03-13T05:02:02+00:00",
+    "ai_summary": "LLM 능력 향상으로 사용자 워크플로우를 독립적으로 수행하는 AI 에이전트가 등장했다.\nOpenAI는 에이전트 구축을 위한 실용 가이드를 제공하며,\nLLM, 도구(API), 지침을 핵심 구성요소로 설명한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27458",
+    "title": "Claude, 대화내에서 인터랙티브 시각 자료 생성 기능 추가",
+    "url": "https://news.hada.io/topic?id=27458",
+    "discussion_url": "https://news.hada.io/topic?id=27458",
+    "summary": "코드 작성 없이 대화 중 차트, 다이어그램, 시각화를 실시간으로 생성하는 기능을 베타로 출시, 대화 흐름 속에서 인라인으로 표시됨\n기존 Artifacts가 공유·다운로드용 독립 결과물이라면, 이번 시각 자료는 대화 맥락에서 이해를 돕기 위한 임시 인라인 ...",
+    "score": 0,
+    "published_at": "2026-03-13T02:40:02+00:00",
+    "ai_summary": "Claude가 대화 중 코드 작성 없이 차트, 다이어그램 등 인터랙티브 시각 자료를 실시간 생성하는 기능을 베타 출시했습니다.\n이 기능은 대화 흐름 내에 인라인으로 표시되어 맥락 이해를 돕습니다.\n기존 Artifacts와 달리 임시 인라인 시각화에 중점을 둡니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27457",
+    "title": "하네스 엔지니어링: 에이전트 우선 세계에서 Codex 활용하기",
+    "url": "https://news.hada.io/topic?id=27457",
+    "discussion_url": "https://news.hada.io/topic?id=27457",
+    "summary": "OpenAI 내부 팀이 5개월간 수동 코드 작성 없이 소프트웨어 제품의 내부 베타를 구축·출시한 실험 사례로, 모든 코드를 Codex 에이전트가 생성\n3명의 엔지니어로 시작해 약 100만 라인의 코드와 1,500개의 pull request를 처리했으며, 엔지니어 1인당 하루 평균 3....",
+    "score": 0,
+    "published_at": "2026-03-13T02:11:02+00:00",
+    "ai_summary": "OpenAI 팀은 5개월간 수동 코딩 없이 Codex 에이전트가 생성한 코드로 소프트웨어 제품을 개발했습니다.\n3명의 엔지니어가 100만 라인 코드와 1,500개 PR을 처리하며 AI 활용 생산성을 입증했습니다.\n이는 AI 에이전트 중심의 미래 엔지니어링 가능성을 보여주는 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27455",
+    "title": "AI 얼굴인식 오류로 무고한 여성이 수개월간 구금됨",
+    "url": "https://news.hada.io/topic?id=27455",
+    "discussion_url": "https://news.hada.io/topic?id=27455",
+    "summary": "AI 얼굴인식 시스템의 오작동으로 인해 한 여성이 범죄와 무관함에도 불구하고 체포되어 수개월간 구금된 사건\n사건은 노스다코타주에서 발생한 사기 사건 수사 과정에서 AI가 잘못된 인물 식별을 한 것이 원인\n피해 여성은 무고한 할머니",
+    "score": 0,
+    "published_at": "2026-03-13T01:50:50+00:00",
+    "ai_summary": "AI 얼굴인식 시스템 오작동으로 한 무고한 여성이 체포되어 수개월간 구금되는 사건이 발생했습니다.\n노스다코타주 사기 수사 중 AI가 잘못된 인물을 식별한 것이 원인입니다.\nAI 시스템의 윤리적 문제와 신뢰성, 오용 가능성에 대한 경각심을 일깨웁니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27451",
+    "title": "구현할까요? 아니요 (feat. claude-opus-4-6)",
+    "url": "https://news.hada.io/topic?id=27451",
+    "discussion_url": "https://news.hada.io/topic?id=27451",
+    "summary": "Korean Translation\n\n구현할까요?\n아니요 ...\n\n- 새로운 코드만: 새로운 함수 하나(print_itinerary), 새로운 인자 하나, main()의 분기 하나  \n- 기존 모델, 옵티마이저 또는 출력에 대한 변경 없음  \n- 새로운 의존성 없음  \n  \n이것이 전체 계...",
+    "score": 0,
+    "published_at": "2026-03-13T00:40:45+00:00",
+    "ai_summary": "이 글은 Claude-opus-4-6과 함께 코드 구현에 대한 논의를 다룹니다.\n새로운 함수 하나, 인자 하나, main()의 분기 하나 등 최소한의 코드 변경만 제시됩니다.\n기존 모델, 옵티마이저, 출력 변경이나 새로운 의존성 추가는 없습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27449",
+    "title": "MALUS - 오픈소스 저작권 표기에서 해방되는 Clean Room as a Service",
+    "url": "https://news.hada.io/topic?id=27449",
+    "discussion_url": "https://news.hada.io/topic?id=27449",
+    "summary": "AI 로봇이 오픈소스 프로젝트를 독립적으로 재구성해, 법적으로 구별되는 코드와 기업 친화적 라이선스를 제공\n원본 코드를 보지 않고 문서·API·타입 정의만 분석해 기능적으로 동일한 소프트웨어를 새로 작성\n결과물은 MalusCorp-0 라이선스",
+    "score": 0,
+    "published_at": "2026-03-13T00:37:43+00:00",
+    "ai_summary": "MALUS는 AI 로봇이 오픈소스 프로젝트를 독립적으로 재구성하여 저작권 문제 없는 코드를 제공하는 서비스입니다.\n원본 코드를 직접 보지 않고 문서, API, 타입 정의만 분석해 기능적으로 동일한 소프트웨어를 새로 작성합니다.\n이를 통해 기업은 오픈소스 라이선스 문제에서 벗어날 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27448",
+    "title": "klaw.sh - AI 에이전트를 위한 kubectl",
+    "url": "https://news.hada.io/topic?id=27448",
+    "discussion_url": "https://news.hada.io/topic?id=27448",
+    "summary": "Kubernetes 운영 방식을 AI 워크로드 관리에 적용해 AI 에이전트들을 오케스트레이션하는 도구\n\nklaw get agents, klaw logs, klaw describe agent 등 kubectl과 유사한 명령 체계 구성\n\nCLI, Slack, Sc...",
+    "score": 0,
+    "published_at": "2026-03-13T00:31:02+00:00",
+    "ai_summary": "klaw.sh는 AI 워크로드 관리를 위해 Kubernetes 운영 방식을 적용한 AI 에이전트 오케스트레이션 도구입니다.\nkubectl과 유사한 `klaw get agents`, `klaw logs` 등 명령 체계를 갖추고 있습니다.\nCLI, Slack 등 다양한 인터페이스를 통해 AI 에이전트 관리를 간소화합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27446",
+    "title": "구글, 클라우드 보안 기업 Wiz 인수 완료",
+    "url": "https://news.hada.io/topic?id=27446",
+    "discussion_url": "https://news.hada.io/topic?id=27446",
+    "summary": "클라우드 보안 기업 Wiz가 구글에 공식 합류, 양사는 클라우드와 AI 시대의 보안 혁신 가속화를 목표로 함\nWiz는 “조직이 구축하고 운영하는 모든 것을 보호한다” 는 기존 사명을 유지하며, AI 속도에 맞춘 보안 강화에 집중\n지난 1년간 Wiz는 ...",
+    "score": 0,
+    "published_at": "2026-03-12T23:33:07+00:00",
+    "ai_summary": "클라우드 보안 기업 Wiz가 구글에 공식 합류하며 인수가 완료되었습니다.\n양사는 클라우드와 AI 시대의 보안 혁신 가속화를 목표로 합니다.\nWiz는 기존 사명을 유지하며 AI 속도에 맞춘 보안 강화에 집중할 예정입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47371064",
+    "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+    "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "discussion_url": "https://news.ycombinator.com/item?id=47371064",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-03-13T22:52:05+00:00",
+    "ai_summary": "오픈 소스 문서 사이트에서 39개의 Algolia 관리 키가 노출된 사례가 발견되었습니다. 이는 민감한 정보의 노출이 개발 프로세스에서 얼마나 쉽게 발생할 수 있는지 보여줍니다. 개발자는 API 키와 같은 중요한 자격 증명을 안전하게 관리하는 방법을 항상 숙지해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47363754",
+    "summary": "",
+    "score": 809,
+    "published_at": "2026-03-13T12:46:10+00:00",
+    "ai_summary": "최신 AI 모델, 특히 LLM을 로컬 환경에서 실행할 수 있는지에 대한 질문에 답합니다. 하드웨어 요구사항과 다양한 로컬 실행 옵션(예: llama.cpp, Ollama)을 다룹니다. 로컬 AI 실행은 프라이버시, 비용 절감, 맞춤형 개발에 이점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47336100",
+    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+    "url": "https://channelsurfer.tv",
+    "discussion_url": "https://news.ycombinator.com/item?id=47336100",
+    "summary": "",
+    "score": 374,
+    "published_at": "2026-03-11T14:34:57+00:00",
+    "ai_summary": "YouTube를 케이블 TV처럼 시청할 수 있게 해주는 \"Channel Surfer\"라는 새로운 프로젝트를 소개합니다. 사용자가 정의한 채널 목록을 기반으로 무작위 또는 순차적으로 비디오를 재생합니다. 이는 사용자 경험을 개선하는 프론트엔드/툴 개발 사례를 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47368033",
+    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+    "url": "https://github.com/TomBadash/MouseControl",
+    "discussion_url": "https://news.ycombinator.com/item?id=47368033",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-03-13T18:42:54+00:00",
+    "ai_summary": "Logi-Plus 마우스 소프트웨어의 오픈 소스 대안인 \"Mouser\" 프로젝트를 소개합니다. 이 프로젝트는 로지텍 마우스의 기능을 리눅스 환경에서 더 유연하게 제어하는 것을 목표로 합니다. 하드웨어 인터페이스와 운영체제 유틸리티 개발의 좋은 예시입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47367932",
+    "title": "Hammerspoon",
+    "url": "https://github.com/Hammerspoon/hammerspoon",
+    "discussion_url": "https://news.ycombinator.com/item?id=47367932",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-03-13T18:34:12+00:00",
+    "ai_summary": "macOS를 위한 강력한 자동화 및 스크립팅 도구인 \"Hammerspoon\"에 대한 설명입니다. Lua 스크립트를 사용하여 시스템 이벤트를 제어하고 앱 동작을 사용자 정의할 수 있습니다. 개발자의 생산성 향상과 워크플로우 자동화에 매우 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47364729",
+    "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+    "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47364729",
+    "summary": "",
+    "score": 156,
+    "published_at": "2026-03-13T14:11:36+00:00",
+    "ai_summary": "Parallels가 가상의 \"MacBook Neo\"에서 Windows 운영체제를 가상 머신으로 실행할 수 있음을 확인했습니다. 이는 애플의 새로운 칩 아키텍처에서도 가상화 기술이 잘 작동함을 의미합니다. 개발자들에게는 다양한 OS 환경 테스트 및 활용에 중요한 정보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47371275",
+    "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+    "url": "https://lr0.org/blog/p/crocker/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47371275",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-03-13T23:14:37+00:00",
+    "ai_summary": "크로커의 규칙은 온라인 소통에서 비판적 피드백을 직접적으로 받아들여 달라는 요청입니다. 발언자가 피드백에 대해 책임지지 않고 수신자가 감정적으로 대응하지 않도록 합니다. 개발 팀의 생산적이고 직접적인 의사소통 문화에 기여할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47362613",
+    "title": "TUI Studio – visual terminal UI design tool",
+    "url": "https://tui.studio/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47362613",
+    "summary": "",
+    "score": 530,
+    "published_at": "2026-03-13T10:32:45+00:00",
+    "ai_summary": "TUI Studio는 터미널 기반 사용자 인터페이스를 시각적으로 디자인할 수 있는 도구입니다. 개발자들이 콘솔 애플리케이션의 UI를 직관적으로 설계하고 미리 볼 수 있게 돕습니다. CLI 도구 및 백엔드 유틸리티 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47341432",
+    "title": "New 'negative light' technology hides data transfers in plain sight",
+    "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+    "discussion_url": "https://news.ycombinator.com/item?id=47341432",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-03-11T20:46:24+00:00",
+    "ai_summary": "새로운 '음의 빛' 기술은 데이터 전송을 육안으로 감지하기 어렵게 만듭니다. 이 기술은 광학 신호를 조작하여 데이터 흐름을 숨기는 방식으로 작동합니다. 향후 보안 통신 및 데이터 프라이버시 분야에 혁신을 가져올 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47366666",
+    "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+    "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+    "discussion_url": "https://news.ycombinator.com/item?id=47366666",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-03-13T16:40:42+00:00",
+    "ai_summary": "일론 머스크가 xAI의 AI 코딩 프로젝트 난항으로 추가 창립자들을 해고했습니다. 이는 xAI의 내부 갈등과 AI 개발 프로젝트의 어려움을 시사합니다. AI 산업의 인력 관리 및 프로젝트 수행에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47335416",
+    "title": "MetaGenesis Core – offline verification for computational claims",
+    "url": "https://www.metagenesis-core.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47335416",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-03-11T13:37:24+00:00",
+    "ai_summary": "MetaGenesis Core는 계산 주장을 오프라인에서 검증하는 시스템입니다. 이를 통해 분산 시스템이나 블록체인 환경에서 연산 결과의 신뢰성을 보장할 수 있습니다. 데이터 무결성 및 계산의 정확성이 중요한 분야의 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47367526",
+    "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+    "url": "https://github.com/Compresr-ai/Context-Gateway",
+    "discussion_url": "https://news.ycombinator.com/item?id=47367526",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-03-13T17:58:22+00:00",
+    "ai_summary": "Context Gateway는 LLM에 전달되는 에이전트 컨텍스트를 압축하는 도구입니다. 이를 통해 LLM의 컨텍스트 창 제한을 효율적으로 관리하고 비용 및 지연 시간을 줄일 수 있습니다. LLM 기반 애플리케이션을 개발하는 엔지니어에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47332883",
+    "title": "Exploring JEPA for real-time speech translation",
+    "url": "https://www.startpinch.com/research/en/jepa-encoder-translation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47332883",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-11T08:14:19+00:00",
+    "ai_summary": "JEPA(Joint Embedding Predictive Architecture)를 실시간 음성 번역에 적용하는 탐구를 다룹니다.\n이는 모델이 부족한 정보로부터 미래를 예측하는 방법을 학습하는 데 중점을 둡니다.\n개발자들은 AI/ML 분야에서 이 기술을 활용하여 혁신적인 번역 시스템을 구축할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47367568",
+    "title": "Your phone is an entire computer",
+    "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+    "discussion_url": "https://news.ycombinator.com/item?id=47367568",
+    "summary": "",
+    "score": 209,
+    "published_at": "2026-03-13T18:02:32+00:00",
+    "ai_summary": "스마트폰이 단순한 통신 장치를 넘어 완벽한 컴퓨터 시스템임을 강조합니다.\n이는 현대 스마트폰의 강력한 컴퓨팅 능력과 다양한 기능을 설명하며, 임베디드 시스템 및 모바일 개발자에게 특히 관련성이 있습니다.\n기술의 발전이 사용자 경험을 어떻게 변화시켰는지 조명합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47361913",
+    "title": "Bucketsquatting is finally dead",
+    "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+    "discussion_url": "https://news.ycombinator.com/item?id=47361913",
+    "summary": "",
+    "score": 298,
+    "published_at": "2026-03-13T08:31:33+00:00",
+    "ai_summary": "클라우드 스토리지의 보안 취약점인 '버킷스쿼팅' 문제가 마침내 해결되었음을 알립니다.\n이는 공격자가 잘못 구성된 클라우드 버킷을 가로채는 행위를 의미하며, 클라우드 보안에 대한 경각심을 높입니다.\n개발자와 DevOps 엔지니어는 이제 더 안전하게 클라우드 리소스를 관리할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47364116",
+    "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+    "url": "https://www.getspine.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47364116",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-03-13T13:22:40+00:00",
+    "ai_summary": "YC S23 스타트업 Spine Swarm이 시각 캔버스에서 협업하는 AI 에이전트를 출시했습니다.\n이는 복잡한 작업을 자율적으로 수행하고 사용자에게 시각적으로 피드백을 제공하는 새로운 방식의 AI 도구입니다.\n개발자들은 AI 시스템 설계 및 에이전트 협업 모델에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47367463",
+    "title": "John Carmack about open source and anti-AI activists",
+    "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+    "discussion_url": "https://news.ycombinator.com/item?id=47367463",
+    "summary": "",
+    "score": 201,
+    "published_at": "2026-03-13T17:51:34+00:00",
+    "ai_summary": "존 카맥이 오픈 소스 운동과 반(反) AI 활동가들에 대한 자신의 견해를 밝힙니다.\n그는 AI 개발의 자유와 오픈 소스 정신의 중요성을 강조하며, 기술 발전의 방향에 대한 윤리적 논쟁을 다룹니다.\n개발자 커뮤니티의 중요한 가치와 논점에 대해 생각해볼 기회를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47321579",
+    "title": "OpenTelemetry for Rust Developers",
+    "url": "https://signoz.io/blog/opentelemetry-rust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47321579",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-03-10T10:57:57+00:00",
+    "ai_summary": "Rust 개발자를 위한 OpenTelemetry 사용법과 이점을 상세히 설명합니다.\nOpenTelemetry는 애플리케이션의 성능 모니터링 및 로깅을 위한 표준화된 도구로, 분산 시스템에서 가시성을 확보하는 데 필수적입니다.\nRust 프로젝트에 효율적인 관측 가능성(observability)을 통합하는 데 도움을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47366011",
+    "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+    "url": "https://www.runcaptain.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47366011",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-03-13T15:45:33+00:00",
+    "ai_summary": "YC W26 스타트업 Captain이 파일 기반의 자동화된 RAG(Retrieval-Augmented Generation) 시스템을 출시했습니다.\n이 기술은 문서에서 정확한 정보를 검색하여 LLM의 응답 품질을 향상시키는 데 중점을 둡니다.\nLLM 개발자와 데이터 엔지니어에게 데이터 처리 및 LLM 활용에 대한 새로운 솔루션을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47362350",
+    "title": "Source code of Swedish e-government services has been leaked",
+    "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47362350",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-03-13T09:45:30+00:00",
+    "ai_summary": "스웨덴 전자 정부 서비스의 소스 코드가 유출되는 심각한 보안 사고가 발생했습니다. 이 유출은 해커 포럼에서 발견되었으며, 잠재적으로 민감한 정보와 시스템 취약점을 노출할 수 있습니다. 정부 시스템의 보안 강화 및 코드 관리의 중요성이 다시 한번 강조되고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47360383",
+    "title": "Hyperlinks in terminal emulators",
+    "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+    "discussion_url": "https://news.ycombinator.com/item?id=47360383",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-03-13T03:32:18+00:00",
+    "ai_summary": "터미널 에뮬레이터에서 하이퍼링크 기능을 지원하는 기술적 진보에 대해 설명합니다. 이 기능은 개발자가 터미널 내에서 문서나 웹 리소스로 직접 이동할 수 있게 하여 생산성을 크게 향상시킵니다. 이는 명령줄 인터페이스 사용 환경을 더욱 편리하고 효율적으로 만들 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47309397",
+    "title": "Okmain: How to pick an OK main colour of an image",
+    "url": "https://dgroshev.com/blog/okmain/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47309397",
+    "summary": "",
+    "score": 233,
+    "published_at": "2026-03-09T14:16:53+00:00",
+    "ai_summary": "'Okmain'은 이미지에서 주된 색상을 효과적으로 추출하는 방법에 대해 설명하는 기술입니다. 이 기술은 UI/UX 디자인, 이미지 처리 애플리케이션 등 다양한 분야에서 활용될 수 있습니다. 개발자가 이미지의 시각적 핵심 요소를 파악하고 활용하는 데 도움을 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47348275",
+    "title": "Executing programs inside transformers with exponentially faster inference",
+    "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+    "discussion_url": "https://news.ycombinator.com/item?id=47348275",
+    "summary": "",
+    "score": 289,
+    "published_at": "2026-03-12T09:17:56+00:00",
+    "ai_summary": "이 기사는 트랜스포머 모델 내에서 프로그램을 실행할 때 추론 속도를 기하급수적으로 가속화하는 새로운 방법을 제시합니다. 이는 대규모 언어 모델(LLM) 및 AI 애플리케이션의 성능을 획기적으로 향상시킬 수 있는 잠재력을 가집니다. AI/ML 연구 및 개발 분야에 매우 중요한 진전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/aakashgupta/status/2032191595110641664",
+    "title": "Cursor is raising at a $50 billion valuation (3 minute read)",
+    "url": "https://x.com/aakashgupta/status/2032191595110641664",
+    "discussion_url": "https://x.com/aakashgupta/status/2032191595110641664",
+    "summary": "Elon Musk just pulled two of Cursor's product leaders into a $1.25 trillion company and told them to build xAI's coding product. AI coding is now a $5 billion+ market. xAI is the only frontier lab without a coding product printing money. AI labs have figured out that developers are the highest-willingness-to-pay users on the planet.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "AI 코딩 시장은 50억 달러 이상 규모로 성장했으며, 개발자들이 AI 제품에 가장 높은 지불 의사를 가진 사용자다. xAI는 Cursor의 제품 리더들을 영입하여 코딩 제품 개발에 뛰어들었으며, 이는 AI 코딩 시장의 중요성을 보여준다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/blog/claude-builds-visuals",
+    "title": "Claude now creates interactive charts, diagrams, and visualizations (5 minute read)",
+    "url": "https://claude.com/blog/claude-builds-visuals",
+    "discussion_url": "https://claude.com/blog/claude-builds-visuals",
+    "summary": "A beta version of Imagine with Claude is coming to Claude Chat. The feature can create custom charts, diagrams, and other visualizations, and then tweak and modify its creations as the conversation develops. The feature will be on by default, with Claude deciding when to build a visual for something. Users can directly request a visual. Videos showing example visualizations are available in the article.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Claude Chat의 베타 버전 'Imagine with Claude'는 대화형 차트, 다이어그램 및 시각화를 생성하고 수정할 수 있는 기능을 제공한다. 이 기능은 기본으로 활성화되며, Claude가 시각화 필요성을 판단하거나 사용자가 직접 요청할 수 있다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html?unlocked_article_code=1.S1A.tFj7.GPbxMSA1XSnm&smid=url-share",
+    "title": "AI Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It (4 minute read)",
+    "url": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html?unlocked_article_code=1.S1A.tFj7.GPbxMSA1XSnm&smid=url-share",
+    "discussion_url": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html?unlocked_article_code=1.S1A.tFj7.GPbxMSA1XSnm&smid=url-share",
+    "summary": "Axiom raised a $200M Series A at a $1.6B valuation led by Menlo Ventures, one year after founding and with roughly 20 employees, to build what it calls Verified AI: systems that produce formally verified outputs in the programming language Lean, where every reasoning step is machine-checkable, and errors are caught deterministically rather than statistically. The company originally trained on math proofs and then transferred that skill to code verification, a technique that lets it prove not onl",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Axiom은 AI가 생성하는 버그 있는 코드를 해결하기 위해 'Verified AI' 개발로 2억 달러를 투자 유치했다. 이들은 기계적으로 검증 가능한 출력을 생성하여 오류를 통계가 아닌 확정적으로 포착하는 시스템을 구축한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://michaellivs.com/blog/reverse-engineering-claude-generative-ui",
+    "title": "Reverse-engineering Claude's generative UI - then building it for the terminal (27 minute read)",
+    "url": "https://michaellivs.com/blog/reverse-engineering-claude-generative-ui",
+    "discussion_url": "https://michaellivs.com/blog/reverse-engineering-claude-generative-ui",
+    "summary": "Claude's generative UI is a tool call that returns HTML injected into the DOM with incremental parsing as tokens stream. It enables interactive widgets to be rendered inline in Claude conversations. It uses lazy-loading documentation to insert context on demand. The terminal spawns Glimpse windows with bidirectional JSON communication, allowing the terminal to stay as a terminal while the visual content gets a real browser engine.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Claude의 생성형 UI는 HTML 주입, 점진적 파싱을 통해 대화 내에 상호작용 가능한 위젯을 렌더링한다. 터미널 환경에서 시각적 콘텐츠를 브라우저 엔진으로 처리하며 양방향 JSON 통신을 통해 이 기능을 구현할 수 있다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/cursorbench",
+    "title": "How we compare model quality in Cursor (7 minute read)",
+    "url": "https://cursor.com/blog/cursorbench",
+    "discussion_url": "https://cursor.com/blog/cursorbench",
+    "summary": "Cursor uses a hybrid online-offline eval process to keep its understanding of model quality aligned with what developers actually do. The offline part uses CursorBench, an internal eval suite based on real Cursor sessions from Cursor's engineering team. It measures multiple dimensions of agent performance, including collusion correctness, code quality, efficiency, and interaction behavior. The online part involves a controlled analysis on live traffic, which catches regressions that offline suit",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Cursor는 AI 모델 품질을 개발자의 실제 행동과 일치시키기 위해 하이브리드 온라인-오프라인 평가 프로세스를 사용한다. 이 프로세스는 CursorBench와 라이브 트래픽 분석을 통해 에이전트 성능의 여러 차원을 측정하고 회귀를 감지한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/realmcore_/status/2032146316730778004",
+    "title": "We built RLM for coding. And it F*cking rocks. Swarm native agents are here to stay (13 minute read)",
+    "url": "https://x.com/realmcore_/status/2032146316730778004",
+    "discussion_url": "https://x.com/realmcore_/status/2032146316730778004",
+    "summary": "Slate is a frontier agent that uses a code environment for swarm orchestration. It can programmatically orchestrate and solve tasks by running a massive number of subagents. Slate supports a range of models and automatically selects the right model for the job. It uses novel context engineering and maximizes caching to lower costs.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Slate는 코딩 환경을 위한 프론티어 에이전트로, 대규모 하위 에이전트를 통해 프로그래밍 방식으로 작업을 오케스트레이션하고 해결합니다. 다양한 모델을 지원하며, 비용 절감을 위해 컨텍스트 엔지니어링과 캐싱을 최대화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "title": "OpenClaw Reinforcement Learning Framework (GitHub Repo)",
+    "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "discussion_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "summary": "OpenClaw-RL is an asynchronous reinforcement learning framework for training personalized AI agents from everyday conversations. It supports large-scale environment parallelization for developing more general agents.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "OpenClaw-RL은 일상 대화에서 개인화된 AI 에이전트를 훈련하기 위한 비동기 강화 학습 프레임워크입니다. 대규모 환경 병렬화를 지원하여 더 일반적인 에이전트 개발을 가능하게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+    "title": "I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead (14 minute read)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+    "summary": "A single run(command=\"...\") tool with Unix-style commands outperforms a catalog of typed function calls. Unix made the design decision 50 years ago to make everything a text stream. Large language models made an almost identical decision by making everything tokens. The text-based system that Unix uses is a natural fit for large language models. They can act as terminal operators faster than any human. Developers just need to take what Unix has proven over the last half-century and hand it direc",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "LLM 에이전트에서 기존 함수 호출 대신 Unix 스타일 명령을 사용하는 단일 `run(command=\"...\")` 도구가 더 효과적입니다. Unix의 텍스트 기반 시스템이 LLM의 토큰 기반 시스템과 자연스럽게 맞아떨어지며, LLM이 터미널 운영자처럼 빠르게 작동할 수 있게 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "title": "The Shape of the Thing (10 minute read)",
+    "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "discussion_url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "summary": "AI transitioned from co-intelligence to an era of AI management, with systems like Claude Code completing complex tasks autonomously. Exponential improvements in AI capabilities have sparked radical work methods, such as StrongDM's AI-driven Software Factory, and prompted significant market and employment shifts.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "AI가 공동 지능에서 AI 관리 시대로 전환되며, Claude Code와 같은 시스템이 복잡한 작업을 자율적으로 완료합니다. AI 역량의 기하급수적 향상은 급진적인 작업 방식과 함께 시장 및 고용 변화를 가져왔습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/tobi/status/2032212531846971413",
+    "title": "OK, well. I ran /autoresearch on the the Liquid codebase (1 minute read)",
+    "url": "https://x.com/tobi/status/2032212531846971413",
+    "discussion_url": "https://x.com/tobi/status/2032212531846971413",
+    "summary": "Running Autoresearch on the Liquid codebase resulted in 53% faster combined parse and render time, and 61% fewer object allocations.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Liquid 코드베이스에 Autoresearch 도구를 적용한 결과, 구문 분석 및 렌더링 시간이 53% 단축되었고, 객체 할당은 61% 감소했습니다. 이는 AI 기반 도구를 통한 코드 최적화의 효과를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/claude-partner-network",
+    "title": "Anthropic invests $100 million into the Claude Partner Network (4 minute read)",
+    "url": "https://www.anthropic.com/news/claude-partner-network",
+    "discussion_url": "https://www.anthropic.com/news/claude-partner-network",
+    "summary": "Anthropic has launched the Claude Partner Network, investing $100 million to support enterprise adoption of its AI model, Claude.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Anthropic은 Claude Partner Network를 출범하고, 자사의 AI 모델인 Claude의 기업 채택을 촉진하기 위해 1억 달러를 투자했습니다. 이는 LLM의 시장 확장 및 파트너십 강화를 목표로 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+    "title": "How we're reimagining Maps with Gemini (6 minute read)",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+    "discussion_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+    "summary": "Google Maps' new Ask Maps feature allows users to get real-time, personalized answers and recommendations for destinations, using conversational capabilities.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "Google Maps의 새로운 'Ask Maps' 기능은 Gemini AI를 활용하여 실시간 개인 맞춤형 장소 추천 및 답변을 대화형으로 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/NVIDIAAI/status/2032154109009387798",
+    "title": "Understanding the Five-Layer AI Stack (3 minute read)",
+    "url": "https://x.com/NVIDIAAI/status/2032154109009387798",
+    "discussion_url": "https://x.com/NVIDIAAI/status/2032154109009387798",
+    "summary": "NVIDIA's latest AI advancements utilize GPUs to enhance computational efficiency for LLMs.",
+    "score": 0,
+    "published_at": "2026-03-13T23:30:05+00:00",
+    "ai_summary": "NVIDIA는 최신 AI 기술에서 GPU를 활용하여 LLM(대규모 언어 모델)의 연산 효율성을 대폭 향상시키고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
