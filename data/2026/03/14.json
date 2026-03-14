@@ -1,0 +1,644 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27510",
+    "title": "AI는 소프트웨어 엔지니어링을 단순화하지 않았다: 나쁜 엔지니어링을 더 쉽게 만들었을 뿐",
+    "url": "https://news.hada.io/topic?id=27510",
+    "discussion_url": "https://news.hada.io/topic?id=27510",
+    "summary": "LLM 은 코드 작성 속도를 높였지만, 소프트웨어 엔지니어링의 본질적 복잡성을 줄이지 못함\n코드 생성이 쉬워지면서 전문성의 필요성이 사라졌다는 착각이 확산되고 있으며, 일부 조직은 이를 근거로 엔지니어를 감축 중임\n실제 어려움...",
+    "score": 0,
+    "published_at": "2026-03-14T22:02:02+00:00",
+    "ai_summary": "LLM은 코드 작성 속도를 높였지만, 소프트웨어 엔지니어링의 본질적 복잡성은 여전하다고 기사는 주장합니다. AI 코드 생성 편의성으로 전문성이 불필요하다는 오해가 확산되어, 일부 조직은 이를 근거로 엔지니어 감축을 고려합니다. 이는 코드 생성 너머의 설계, 유지보수 등 실제 엔지니어링의 어려움을 간과하는 위험을 내포합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27509",
+    "title": "내 워크플로우를 A/B 테스트하지 말아 주세요",
+    "url": "https://news.hada.io/topic?id=27509",
+    "discussion_url": "https://news.hada.io/topic?id=27509",
+    "summary": "Claude Code가 사용자 동의 없이 A/B 테스트를 실행하여, plan mode의 동작이 예고 없이 변경되면서 작업효율이 저하\n\n월 $200을 지불하는 전문 도구에서 핵심 기능이 사전 공지 없이 변경되는 것은 투명성과 사용자 제어권 측...",
+    "score": 0,
+    "published_at": "2026-03-14T22:00:42+00:00",
+    "ai_summary": "Claude Code가 사용자 동의 없이 A/B 테스트를 실행하여, 'plan mode' 기능이 예고 없이 변경되며 개발자 작업 효율이 저하되었습니다. 월 200달러 유료 전문 도구에서 핵심 기능이 사전 공지 없이 바뀌는 것은 투명성 및 사용자 제어권 침해로 비판받습니다. 이는 AI 도구의 신뢰성과 개발자 워크플로우 안정성의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27505",
+    "title": "Digg가 다시 사라졌다",
+    "url": "https://news.hada.io/topic?id=27505",
+    "discussion_url": "https://news.hada.io/topic?id=27505",
+    "summary": "인터넷 환경 변화 속에서 Digg 팀이 대규모 축소를 단행하며, 제품-시장 적합성 확보의 어려움을 인정\n\nAI 봇과 자동화 계정의 급증으로 인해 투표·댓글·참여의 신뢰성이 무너졌고, 커뮤니티 기반 플랫폼의 근간이 흔들림\n기존 대형 소셜 플랫폼의...",
+    "score": 0,
+    "published_at": "2026-03-14T19:33:26+00:00",
+    "ai_summary": "인터넷 환경 변화 속에서 Digg가 대규모 축소를 단행하며, 제품-시장 적합성 확보의 어려움을 인정했습니다. AI 봇과 자동화 계정의 급증으로 투표, 댓글의 신뢰성이 무너져 커뮤니티 기반 플랫폼의 근간이 흔들렸습니다. 이는 기존 대형 소셜 플랫폼들의 도전 과제를 보여주며, AI가 가져오는 새로운 사회적 문제를 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27503",
+    "title": "오픈소스와 반(反)AI 운동의 충돌에 대한 John Carmack의 견해",
+    "url": "https://news.hada.io/topic?id=27503",
+    "discussion_url": "https://news.hada.io/topic?id=27503",
+    "summary": "오픈소스 코드가 AI 학습에 활용되는 것을 긍정적으로 평가하며, 이를 “세상에 주는 선물의 가치가 증폭되는 과정”으로 설명\n일부는 오픈소스를 사회 변화나 명성 구축의 수단으로 보지만, 본질은 자유롭게 나누는 ‘기부 행위’ 라는 입장",
+    "score": 0,
+    "published_at": "2026-03-14T18:35:04+00:00",
+    "ai_summary": "John Carmack은 오픈소스 코드가 AI 학습에 활용되는 것을 “세상에 주는 선물의 가치 증폭”이라며 긍정적으로 평가합니다. 그는 오픈소스의 본질은 자유롭게 나누는 '기부 행위'이며, 이를 사회 변화나 명성 구축 수단으로만 보는 시각과 대비됩니다. 이는 오픈소스 커뮤니티 내 AI 학습 데이터 활용에 대한 윤리적, 철학적 논쟁을 반영합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27498",
+    "title": "Show GN: 한글로 된 짤을 찾을 수 있는, 짤봇 API 와 CLI 를 공유합니다.",
+    "url": "https://news.hada.io/topic?id=27498",
+    "discussion_url": "https://news.hada.io/topic?id=27498",
+    "summary": "안녕하세요.\nSlack 쓰시는 분들이면 친숙하실 수 있는 짤봇의 개발자입니다.\nAI 시대(?) 의 흐름에 발맞춰 API 와 npm cli 로 사용할 수 있는 API 를 개방하려고 합니다.\n사실 이걸 어디다 쓸까 싶어서 그냥 공개는 안하고 있었는데,\n혹시라도 앱이나 어디 댓글 자동화 같은거 하실때 필요",
+    "score": 0,
+    "published_at": "2026-03-14T07:30:07+00:00",
+    "ai_summary": "짤봇 개발자가 한글 짤을 찾을 수 있는 짤봇 API와 npm CLI 도구를 공개했습니다. 이 도구는 Slack 사용자에게 친숙한 짤봇 기능을 외부 애플리케이션이나 댓글 자동화 등에 활용할 수 있도록 합니다. 개발자는 AI 시대 흐름에 맞춰 직접 만든 유용한 도구를 공유하며 개발자 커뮤니티에 기여하고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27495",
+    "title": "일론 머스크, AI 코딩 제품 부진으로 xAI 공동 창업자들을 추가 퇴출",
+    "url": "https://news.hada.io/topic?id=27495",
+    "discussion_url": "https://news.hada.io/topic?id=27495",
+    "summary": "Musk가 xAI의 코딩 제품 성능 부진에 불만을 품고 추가 인력 감축을 지시하면서, 여러 공동 창업자가 퇴출되고 SpaceX·Tesla에서 &quot;해결사&quot;들이 투입되어 감사를 진행 중\nAnthropic의 Claude Code와 OpenAI의 Codex 등 경쟁사 AI 코딩 도구가 소프트웨어 ...",
+    "score": 0,
+    "published_at": "2026-03-14T05:33:18+00:00",
+    "ai_summary": "일론 머스크가 xAI 코딩 제품 성능 부진에 불만을 표하며 공동 창업자들을 추가 퇴출하고 감사에 들어갔습니다. 경쟁사인 Anthropic의 Claude Code, OpenAI의 Codex 등 AI 코딩 도구의 시장 경쟁이 치열한 상황에서 xAI의 성과가 기대에 미치지 못했습니다. 이는 AI 개발 도구 시장의 경쟁 심화와 기술적, 사업적 도전 과제를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27493",
+    "title": "NanoClaw를 Docker 샌드박스에서 실행하기",
+    "url": "https://news.hada.io/topic?id=27493",
+    "discussion_url": "https://news.hada.io/topic?id=27493",
+    "summary": "NanoClaw와 Docker의 협력으로, 한 줄 명령으로 각 AI 에이전트를 격리된 Docker 샌드박스에서 실행할 수 있게 됨\n각 에이전트는 마이크로 VM 내부의 독립 컨테이너에서 동작하며, 호스트 시스템 접근 없이 완전한 격리 환경을 가짐\n\n...",
+    "score": 0,
+    "published_at": "2026-03-14T05:25:29+00:00",
+    "ai_summary": "NanoClaw와 Docker의 협력을 통해 AI 에이전트를 Docker 샌드박스에서 한 줄 명령으로 격리 실행할 수 있게 되었습니다. 각 에이전트는 마이크로 VM 내부 독립 컨테이너에서 동작하여 호스트 시스템 접근 없이 완전한 격리 환경을 제공합니다. 이는 AI 에이전트의 보안 및 안정적인 운영을 위한 효율적인 솔루션을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27491",
+    "title": "AI 코딩이 드러낸 개발자들의 슬픔과 분열",
+    "url": "https://news.hada.io/topic?id=27491",
+    "discussion_url": "https://news.hada.io/topic?id=27491",
+    "summary": "AI 코딩 도구의 확산이 개발자 사이에 항상 존재했지만 보이지 않았던 동기의 차이를 수면 위로 드러내고 있음\n코드 작성 자체의 장인적 만족감을 잃는 것에 대한 슬픔과, 코드를 둘러싼 생태계·커리어 환경 변화에 대한 슬픔은 서로 다른 종류의 상실감\n...",
+    "score": 0,
+    "published_at": "2026-03-14T05:23:07+00:00",
+    "ai_summary": "AI 코딩 도구 확산은 개발자들의 내재된 동기 차이를 수면 위로 드러냈습니다.\n코드 작성의 장인적 만족감 상실과 커리어 환경 변화에 대한 슬픔은 다른 종류의 상실감입니다.\n이는 AI 시대 개발자들의 정체성과 역할에 대한 깊은 고민을 유발합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27490",
+    "title": "S3 버킷스쿼팅이 (드디어) 사라졌다",
+    "url": "https://news.hada.io/topic?id=27490",
+    "discussion_url": "https://news.hada.io/topic?id=27490",
+    "summary": "AWS가 S3 버킷스쿼팅(bucketsquatting) 문제를 해결하기 위한 새로운 계정 기반 네임스페이스 보호 기능을 도입함\n새 네임스페이스는 &lt;prefix&gt;-&lt;accountid&gt;-&lt;region&gt;-an 형식으로, 동일한 계정만 해당 이름의 버킷을 생성할 수 있음...",
+    "score": 0,
+    "published_at": "2026-03-14T05:21:17+00:00",
+    "ai_summary": "AWS는 S3 버킷스쿼팅 문제 해결을 위해 새로운 계정 기반 네임스페이스 보호 기능을 도입했습니다.\n`prefix-accountid-region-an` 형식으로 동일 계정만 버킷을 생성 가능해 보안이 강화됩니다.\n이는 S3 버킷 명명 충돌 위험을 줄이고 사용자 데이터를 더욱 안전하게 보호합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27489",
+    "title": "Opus 4.6 및 Sonnet 4.6에서 1M 컨텍스트 일반 제공 시작",
+    "url": "https://news.hada.io/topic?id=27489",
+    "discussion_url": "https://news.hada.io/topic?id=27489",
+    "summary": "Claude Opus 4.6과 Sonnet 4.6이 이제 100만 토큰(1M) 컨텍스트 윈도우를 표준 요금으로 지원, 별도 프리미엄 없이 전체 범위 사용 가능\n\n요금은 동일 단가로 적용되며, Opus 4.6은 $5/$25, Sonnet 4.6은 $3/$15(입력/출력 기준)로 9K나 900K 요...",
+    "score": 0,
+    "published_at": "2026-03-14T04:33:15+00:00",
+    "ai_summary": "Claude Opus 4.6 및 Sonnet 4.6이 100만 토큰(1M) 컨텍스트 윈도우를 표준 요금으로 제공합니다.\n별도 프리미엄 없이 전체 범위 사용 가능하며, 기존과 동일한 단가로 요금이 적용됩니다.\n이는 대규모 컨텍스트 기반 LLM 애플리케이션 개발에 중요한 발전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27487",
+    "title": "Claude Code, Opus 4.6에서 1M Context 정식 지원",
+    "url": "https://news.hada.io/topic?id=27487",
+    "discussion_url": "https://news.hada.io/topic?id=27487",
+    "summary": "기본 적용: Max, Team, Enterprise 사용자는 Opus 4.6에서 1M context가 자동으로 활성화됨\n추가 요금 없음: 900K 토큰 요청도 9K와 같은 토큰당 단가\n처리량 제한 없음: 컨텍스트가 길어져도 rate limit 감소 없이 기존 계정 처리량 그대로 적용\nbeta header 전송 불필요: 200K 초...",
+    "score": 0,
+    "published_at": "2026-03-14T01:21:30+00:00",
+    "ai_summary": "Claude Opus 4.6이 1M 컨텍스트를 정식 지원하며, Max, Team, Enterprise 사용자에게 자동 활성화됩니다.\n추가 요금이나 처리량 제한 없이 기존과 동일한 토큰당 단가 및 처리량이 적용됩니다.\n개발자는 별도의 베타 헤더 없이 긴 컨텍스트를 활용하여 더욱 복잡한 애플리케이션을 구현할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27485",
+    "title": "Vite 8.0 출시",
+    "url": "https://news.hada.io/topic?id=27485",
+    "discussion_url": "https://news.hada.io/topic?id=27485",
+    "summary": "기존 esbuild + Rollup 이중 구조를 Rust 기반 번들러 Rolldown으로 단일화하여 최대 10~30배 빠른 빌드 성능을 달성\n새로운 플러그인 레지스트리 가 공개되어 Vite·Rolldown·Rollup 플러그인을 검색·관리 가능",
+    "score": 0,
+    "published_at": "2026-03-14T00:53:40+00:00",
+    "ai_summary": "Vite 8.0은 esbuild+Rollup 이중 구조를 Rust 기반 번들러 Rolldown으로 단일화하여 출시되었습니다.\n이를 통해 최대 10~30배 빠른 빌드 성능을 달성했으며, 새로운 플러그인 레지스트리도 공개했습니다.\n프런트엔드 개발 워크플로우를 크게 향상시키고 효율성을 높일 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27483",
+    "title": "CanIRun.ai — 내 컴퓨터에서 AI 모델을 실행할 수 있을까?",
+    "url": "https://news.hada.io/topic?id=27483",
+    "discussion_url": "https://news.hada.io/topic?id=27483",
+    "summary": "로컬 머신이 어떤 AI 모델을 실제로 실행할 수 있는지를 확인할 수 있는 웹 기반 도구\n브라우저의 WebGPU API를 활용해 하드웨어 성능을 추정하며, 결과는 실제 사양과 다를 수 있음\n모델별로 메모리 요구량, 토큰 처리 속도, 컨텍스트 길이, 실행...",
+    "score": 0,
+    "published_at": "2026-03-14T00:47:39+00:00",
+    "ai_summary": "'CanIRun.ai'는 로컬 컴퓨터가 어떤 AI 모델을 실행할 수 있는지 확인해주는 웹 기반 도구입니다.\n브라우저 WebGPU API로 하드웨어 성능을 추정하며, 모델별 메모리, 처리 속도 등을 제시합니다.\nAI 모델을 로컬에서 실행하려는 개발자나 사용자에게 유용한 정보와 가이드를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27480",
+    "title": "MimiClaw - 5달러 칩에서 OpenClaw 실행하기",
+    "url": "https://news.hada.io/topic?id=27480",
+    "discussion_url": "https://news.hada.io/topic?id=27480",
+    "summary": "저가형 임베디드 환경에서 AI 비서를 구현해, OS 없이 구동되는 하드웨어 AI 에이전트\n5달러짜리 ESP32-S3 칩에 USB 0.5W 전력만으로 OpenClaw 기반 AI 어시스턴트를 구동\n\nOS없이 순수 C 코드로 작성",
+    "score": 0,
+    "published_at": "2026-03-14T00:31:01+00:00",
+    "ai_summary": "'MimiClaw'는 5달러짜리 ESP32-S3 칩에서 OpenClaw 기반 AI 어시스턴트를 구동하는 프로젝트입니다.\nOS 없이 순수 C 코드로 작성되었으며, USB 0.5W 저전력만으로 동작하는 하드웨어 AI 에이전트입니다.\n저가형 임베디드 환경에서 효율적인 AI 비서 구현 가능성을 보여주는 혁신적인 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47381382",
+    "title": "Show HN: Han – A Korean programming language written in Rust",
+    "url": "https://github.com/xodn348/han",
+    "discussion_url": "https://news.ycombinator.com/item?id=47381382",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-03-14T21:27:33+00:00",
+    "ai_summary": "한국어 기반의 새로운 프로그래밍 언어 '한(Han)'이 Rust로 개발되었습니다.\n개발자들이 한국어로 코드를 작성하고 실행할 수 있도록 설계되었습니다.\n언어 설계 및 구현에 관심 있는 개발자들에게 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47381791",
+    "title": "Ageless Linux. We are legally required to ask how old you are. We won't",
+    "url": "https://agelesslinux.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47381791",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-03-14T22:10:26+00:00",
+    "ai_summary": "'Ageless Linux'는 연령 제한에 대한 법적 요구사항을 언급하지만, 실제로는 사용자에게 나이를 묻지 않을 것임을 명시합니다.\n이는 개인 정보 보호 및 사용 편의성을 강조하는 리눅스 철학과 관련이 있습니다.\n법적 규제와 기술 윤리에 대한 흥미로운 논의를 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47381340",
+    "title": "Anthropic invests $100M into the Claude Partner Network",
+    "url": "https://www.anthropic.com/news/claude-partner-network",
+    "discussion_url": "https://news.ycombinator.com/item?id=47381340",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-03-14T21:23:42+00:00",
+    "ai_summary": "Anthropic이 Claude 파트너 네트워크에 1억 달러를 투자하여 AI 생태계를 확장합니다.\n이는 Claude LLM을 활용한 애플리케이션 개발자들에게 새로운 기회를 제공할 것입니다.\nAI 기술 상업화 및 파트너십 강화에 중점을 둔 전략입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47380647",
+    "title": "Claude March 2026 usage promotion",
+    "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
+    "discussion_url": "https://news.ycombinator.com/item?id=47380647",
+    "summary": "",
+    "score": 155,
+    "published_at": "2026-03-14T20:08:54+00:00",
+    "ai_summary": "Claude가 2026년 3월까지 사용 프로모션을 진행합니다.\n이는 개발자들이 Claude LLM을 더 저렴하게 활용할 수 있는 기회를 제공합니다.\n비용 효율적인 AI 애플리케이션 개발에 도움이 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47380512",
+    "title": "Fedora 44 on the Raspberry Pi 5",
+    "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47380512",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-03-14T19:56:38+00:00",
+    "ai_summary": "Fedora 44를 라즈베리 파이 5에 설치하고 사용하는 방법에 대한 내용입니다.\n임베디드 시스템 및 IoT 개발자들에게 유용한 정보입니다.\n하드웨어와 운영체제 간의 호환성 및 성능에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47379898",
+    "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
+    "url": "https://news.ycombinator.com/item?id=47379898",
+    "discussion_url": "https://news.ycombinator.com/item?id=47379898",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-14T18:57:12+00:00",
+    "ai_summary": "매일 한 개의 노트를 작성하는 방식의 E2E 암호화 로컬 우선 노트 앱 'Ichinichi'를 소개합니다.\n사용자 데이터 프라이버시와 보안을 최우선으로 하며, 클라우드 종속성 없이 자체 데이터 관리를 강조합니다.\n개발자가 직접 만든 프로젝트로, 기술적 구현과 데이터 주권에 관심 있는 사용자에게 적합합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47335796",
+    "title": "A Recursive Algorithm to Render Signed Distance Fields",
+    "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47335796",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-03-11T14:10:31+00:00",
+    "ai_summary": "서명 거리 필드(SDF)를 효율적으로 렌더링하기 위한 재귀 알고리즘을 설명하는 기사입니다.\n3D 모델링, 게임 개발, 실시간 그래픽스 등 컴퓨터 그래픽스 분야에 활용될 수 있습니다.\n효율적인 렌더링 기법과 기하학적 문제를 해결하는 데 중요한 개발자 관련 내용입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47376767",
+    "title": "Montana passes Right to Compute act (2025)",
+    "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47376767",
+    "summary": "",
+    "score": 231,
+    "published_at": "2026-03-14T13:59:58+00:00",
+    "ai_summary": "몬태나주에서 '컴퓨팅 권리 법안(Right to Compute act)'이 통과되어 2025년부터 시행될 예정입니다.\n이 법안은 사용자가 자신의 기기를 수리하고 수정할 권리를 보장하여, 기술 접근성과 개방성을 높입니다.\n개발자와 기술 애호가들에게 하드웨어 및 소프트웨어 자유, 수리권 측면에서 중요한 의미를 가집니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47320571",
+    "title": "Offloading FFmpeg with Cloudflare",
+    "url": "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare",
+    "discussion_url": "https://news.ycombinator.com/item?id=47320571",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-03-10T08:41:37+00:00",
+    "ai_summary": "FFmpeg 작업을 Cloudflare의 엣지 컴퓨팅 또는 CDN 서비스를 활용하여 오프로드하는 방법을 다룹니다.\n이는 대용량 미디어 처리의 성능을 개선하고 비용을 절감하는 데 기여할 수 있습니다.\n클라우드 기반 미디어 처리, 백엔드 최적화, DevOps 엔지니어에게 매우 유용한 기술 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47339219",
+    "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
+    "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+    "discussion_url": "https://news.ycombinator.com/item?id=47339219",
+    "summary": "",
+    "score": 258,
+    "published_at": "2026-03-11T18:21:58+00:00",
+    "ai_summary": "'Baochip-1x'라는 자체 개발 칩 프로젝트의 배경, 목적, 그리고 탄생 과정을 상세히 설명합니다.\n하드웨어 설계 및 개발에 대한 통찰을 제공하며, 특정 컴퓨팅 문제를 해결하기 위한 접근 방식을 다룹니다.\n임베디드 시스템, 저수준 프로그래밍, 또는 하드웨어/소프트웨어 공동 설계에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47320667",
+    "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
+    "url": "https://github.com/CSMWrap/CSMWrap",
+    "discussion_url": "https://news.ycombinator.com/item?id=47320667",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-03-10T08:55:42+00:00",
+    "ai_summary": "UEFI 전용 시스템에서 SeaBIOS를 활용하여 레거시 BIOS 부팅을 가능하게 하는 'CSMWrap'에 대한 내용입니다.\n하드웨어 호환성 문제를 해결하고, 오래된 운영체제나 특수 목적 시스템을 구동하는 데 유용합니다.\n시스템 프로그래밍, 임베디드 개발, 또는 특정 OS 환경 구성에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47377998",
+    "title": "An ode to bzip",
+    "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47377998",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-03-14T16:01:23+00:00",
+    "ai_summary": "데이터 압축 도구인 'bzip'에 대한 찬사 또는 상세한 분석을 담고 있는 기사입니다.\nbzip의 작동 원리, 효율성, 그리고 다른 압축 알고리즘과의 비교를 다룰 수 있습니다.\n데이터 관리, 시스템 최적화, 또는 압축 알고리즘에 관심 있는 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47381731",
+    "title": "Learning Creative Coding",
+    "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47381731",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-03-14T22:02:48+00:00",
+    "ai_summary": "창의적 코딩 학습은 예술, 디자인, 그리고 프로그래밍의 교차점에서 시각화 및 인터랙티브 경험을 만듭니다.\nProcessing, p5.js 등 도구를 사용하여 프로그래밍 기초를 익히고 미적 감각을 개발합니다.\n개발자가 창의적 사고와 문제 해결 능력을 확장하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47338935",
+    "title": "An interactive presentation about the Grammar of Graphic",
+    "url": "https://timeplus-io.github.io/gg-vistral-introduction/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47338935",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-03-11T17:59:19+00:00",
+    "ai_summary": "그래픽 문법에 대한 인터랙티브 프레젠테이션은 데이터 시각화의 기본 원리를 설명합니다.\n이는 데이터를 효율적이고 효과적으로 표현하기 위한 체계적인 접근 방식을 제공합니다.\n개발자가 복잡한 데이터를 명확하게 시각화하는 능력을 향상시키는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47381238",
+    "title": "Postgres with Builtin File Systems",
+    "url": "https://db9.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47381238",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-14T21:14:03+00:00",
+    "ai_summary": "PostgreSQL에 파일 시스템 기능이 내장되어 데이터베이스 내부에서 파일을 직접 관리할 수 있게 됩니다.\n이는 데이터베이스와 파일 스토리지를 통합하여 애플리케이션 개발을 간소화할 수 있습니다.\n특히 백엔드 및 데이터베이스 관리자에게 유용한 고급 기능입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47327703",
+    "title": "Python: The Optimization Ladder",
+    "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47327703",
+    "summary": "",
+    "score": 249,
+    "published_at": "2026-03-10T19:22:39+00:00",
+    "ai_summary": "파이썬 최적화에 대한 글은 코드 성능을 향상시키는 다양한 기법과 단계를 다룹니다.\n이는 효율적인 알고리즘 선택부터 프로파일링, C 확장 사용까지 포함할 수 있습니다.\n모든 파이썬 개발자에게 코드의 속도와 효율성을 높이는 데 필수적인 지식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47376584",
+    "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+    "url": "https://www.gitagent.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47376584",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-03-14T13:41:25+00:00",
+    "ai_summary": "GitAgent는 모든 Git 저장소를 AI 에이전트로 변환하는 오픈 표준 프로젝트입니다.\n개발자가 기존 Git 워크플로우를 AI 기반 자동화 및 지능형 시스템과 통합할 수 있게 합니다.\n이는 AI/ML 및 DevOps 분야 개발자들에게 혁신적인 도구가 될 잠재력을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47379067",
+    "title": "Sunsetting Jazzband",
+    "url": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+    "discussion_url": "https://news.ycombinator.com/item?id=47379067",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-03-14T17:40:23+00:00",
+    "ai_summary": "Jazzband는 파이썬 오픈소스 프로젝트를 유지보수하던 개발자 커뮤니티로, 이제 활동을 종료하고 해산됩니다.\n이는 커뮤니티에서 진행되던 프로젝트들의 미래와 유지보수에 대한 중요한 변화를 알립니다.\n파이썬 오픈소스 생태계에 관심 있는 개발자들에게 영향을 미칠 수 있는 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47332821",
+    "title": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
+    "url": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
+    "discussion_url": "https://news.ycombinator.com/item?id=47332821",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-03-11T08:03:37+00:00",
+    "ai_summary": "이 글은 도널드 크누스의 의사코드(pseudocode) 아키텍처를 알고리즘을 넘어 지식 표현까지 일반화하는 방법을 탐구합니다.\n이는 복잡한 지식 구조를 체계적으로 설명하고 모델링하는 새로운 접근 방식을 제시합니다.\n컴퓨터 과학의 이론적 기반과 지식 표현에 관심 있는 개발자에게 통찰력을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47379712",
+    "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+    "url": "https://hostilevolume.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47379712",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-03-14T18:39:10+00:00",
+    "ai_summary": "Hostile Volume은 의도적으로 불편하게 설계된 UI로 볼륨을 조절하는 게임입니다.\n이는 사용자 경험(UX)과 인터페이스 디자인의 중요성을 유머러스하게 강조합니다.\n게임 개발자나 UI/UX 디자이너에게는 흥미로운 교훈을 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47375764",
+    "title": "XML is a cheap DSL",
+    "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47375764",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-03-14T11:59:13+00:00",
+    "ai_summary": "XML은 구조화된 특성과 풍부한 도구 지원 덕분에 비용 효율적인 도메인 특정 언어(DSL)로 활용될 수 있습니다.\n복잡한 시스템의 설정 파일이나 데이터 정의에 적합하며, 개발자는 익숙한 XML 생태계를 활용할 수 있습니다.\n이는 커스텀 언어 개발의 복잡성을 줄여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47380231",
+    "title": "It's time to move your docs in the repo",
+    "url": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
+    "discussion_url": "https://news.ycombinator.com/item?id=47380231",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-03-14T19:28:47+00:00",
+    "ai_summary": "코드와 문서의 동기화를 위해 문서를 코드 저장소 안에 두는 것이 중요합니다.\n이는 문서가 오래되거나 분리되는 문제를 방지하고, 코드 변경과 함께 문서도 함께 관리할 수 있게 합니다.\n개발 워크플로우에 문서를 통합하여 팀 생산성과 유지보수성을 높일 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47374745",
+    "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+    "url": "https://github.com/drojaazu/megadev",
+    "discussion_url": "https://news.ycombinator.com/item?id=47374745",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-03-14T09:04:39+00:00",
+    "ai_summary": "세가 메가 드라이브 및 메가 CD 하드웨어를 위한 Megadev 개발 키트를 소개합니다.\n이 키트는 레트로 콘솔의 특정 하드웨어 제어를 통해 고유한 게임 개발 경험을 제공합니다.\n저수준 프로그래밍과 하드웨어 최적화의 중요성을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  }
+]
