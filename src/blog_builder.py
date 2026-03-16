@@ -109,11 +109,10 @@ def fetch_open_issues() -> list[dict[str, Any]]:
         raise RuntimeError("Failed to parse GitHub issues JSON") from None
 
 
-def render_article_html(issue: dict[str, Any], worker_url: str) -> str:
+def render_article_html(issue: dict[str, Any]) -> str:
     """Render a single article page as HTML."""
     title, source = extract_title_and_source(issue["title"])
     parsed = parse_issue_body(issue.get("body", ""))
-    number = issue["number"]
     created = issue.get("createdAt", "")[:10]
     color = _SOURCE_COLORS.get(source, _SOURCE_COLORS["unknown"])
 
@@ -145,14 +144,13 @@ def render_article_html(issue: dict[str, Any], worker_url: str) -> str:
       <a href="{_safe_url(parsed["url"])}" target="_blank" rel="noopener">원문 보기 ↗</a>
       <a href="{_safe_url(parsed["discussion_url"])}" target="_blank" rel="noopener">토론 보기 ↗</a>
     </div>
-    {_read_button_html(worker_url, number)}
   </article>
 </main>
 </body>
 </html>"""
 
 
-def render_index_html(issues: list[dict[str, Any]], worker_url: str) -> str:
+def render_index_html(issues: list[dict[str, Any]]) -> str:
     """Render index page listing all articles, sorted newest-first."""
     sorted_issues = sorted(
         issues,
@@ -206,7 +204,7 @@ def render_index_html(issues: list[dict[str, Any]], worker_url: str) -> str:
 </html>"""
 
 
-def build_blog(output_dir: str, worker_url: str) -> None:
+def build_blog(output_dir: str) -> None:
     """Fetch open issues, generate HTML, write to output_dir."""
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
@@ -214,11 +212,11 @@ def build_blog(output_dir: str, worker_url: str) -> None:
     issues = fetch_open_issues()
     logger.info("Building blog from %d open issues", len(issues))
 
-    index_html = render_index_html(issues, worker_url)
+    index_html = render_index_html(issues)
     (out / "index.html").write_text(index_html, encoding="utf-8")
 
     for issue in issues:
-        article_html = render_article_html(issue, worker_url)
+        article_html = render_article_html(issue)
         (out / f"{issue['number']}.html").write_text(article_html, encoding="utf-8")
 
     logger.info("Blog built: %d article pages + index → %s", len(issues), out)
@@ -234,12 +232,6 @@ def _safe_url(url: str) -> str:
     if url and not url.startswith(("http://", "https://")):
         return ""
     return _esc(url)
-
-
-def _read_button_html(worker_url: str, number: int) -> str:
-    """Issue-closing is disabled on the public blog until an auth model exists."""
-    _ = worker_url, number
-    return ""
 
 
 def _css() -> str:
@@ -261,10 +253,6 @@ time{font-size:.8rem;color:#636e72}
 .summary p{margin:.5rem 0;color:#2d3436}
 .links{display:flex;gap:1rem;margin:1rem 0}
 .links a{color:#6c5ce7;text-decoration:none;font-weight:500}
-.actions{margin-top:1.5rem}
-.btn-read{display:inline-block;padding:.5rem 1.5rem;background:#00b894;color:#fff;
-  border-radius:6px;text-decoration:none;font-weight:600}
-.btn-read:hover{background:#00a381}
 .cards{display:flex;flex-direction:column;gap:.75rem}
 .card{display:block;padding:1rem;background:#fff;border-radius:8px;
   text-decoration:none;color:inherit;border:1px solid #dfe6e9;transition:box-shadow .15s}

@@ -2,7 +2,7 @@ name: InsightFlow Blog Deploy
 
 on:
   issues:
-    types: [opened, closed, labeled]
+    types: [opened, closed]
   workflow_dispatch:
 
 concurrency:
@@ -42,13 +42,10 @@ jobs:
       - name: Build Blog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WORKER_URL: ${{ vars.BLOG_WORKER_URL }}
         run: |
           uv run python -c "
           from src.blog_builder import build_blog
-          import os
-          worker_url = os.environ.get('WORKER_URL', '')
-          build_blog('_site', worker_url)
+          build_blog('_site')
           "
 
       - name: Upload Pages Artifact

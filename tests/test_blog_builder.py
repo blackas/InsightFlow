@@ -46,9 +46,6 @@ SAMPLE_ISSUE: dict[str, Any] = {
     "createdAt": "2026-02-21T23:28:00Z",
 }
 
-WORKER_URL = "https://blog-worker.example.workers.dev"
-
-
 @pytest.fixture
 def sample_issue() -> dict[str, Any]:
     return SAMPLE_ISSUE.copy()
@@ -175,37 +172,37 @@ class TestFetchOpenIssues:
 
 class TestRenderArticleHtml:
     def test_contains_title(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "WebMCP 공개" in html
 
     def test_contains_article_url(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "https://example.com/article" in html
 
     def test_contains_ai_summary(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "첫 번째 요약 문장입니다." in html
 
     def test_does_not_render_mark_as_read_button(
         self, sample_issue: dict[str, Any]
     ) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "읽음" not in html
-        assert f"{WORKER_URL}/close/42" not in html
+        assert "/close/42" not in html
 
     def test_contains_source_badge(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "geeknews" in html
 
     def test_is_valid_html(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert html.strip().startswith("<!DOCTYPE html>") or html.strip().startswith(
             "<!"
         )
         assert "</html>" in html
 
     def test_contains_discussion_url(self, sample_issue: dict[str, Any]) -> None:
-        html = render_article_html(sample_issue, WORKER_URL)
+        html = render_article_html(sample_issue)
         assert "https://news.hada.io/topic?id=67890" in html
 
     def test_escapes_xss_in_title(self) -> None:
@@ -217,7 +214,7 @@ class TestRenderArticleHtml:
             "state": "OPEN",
             "createdAt": "2026-02-21T00:00:00Z",
         }
-        result = render_article_html(malicious_issue, WORKER_URL)
+        result = render_article_html(malicious_issue)
         assert "<script>" not in result
         assert "&lt;script&gt;" in result
 
@@ -238,18 +235,11 @@ class TestRenderArticleHtml:
             "state": "OPEN",
             "createdAt": "2026-02-21T00:00:00Z",
         }
-        result = render_article_html(malicious_issue, WORKER_URL)
+        result = render_article_html(malicious_issue)
         assert "javascript:alert" not in result
 
-    def test_hides_read_button_when_no_worker_url(
-        self, sample_issue: dict[str, Any]
-    ) -> None:
-        result = render_article_html(sample_issue, "")
-        assert "읽음" not in result
-        assert "/close/" not in result
-
     def test_never_renders_close_form(self, sample_issue: dict[str, Any]) -> None:
-        result = render_article_html(sample_issue, WORKER_URL)
+        result = render_article_html(sample_issue)
         assert 'method="POST"' not in result
         assert "<form" not in result
 
@@ -263,35 +253,35 @@ class TestRenderIndexHtml:
     def test_contains_all_article_titles(
         self, sample_issues: list[dict[str, Any]]
     ) -> None:
-        html = render_index_html(sample_issues, WORKER_URL)
+        html = render_index_html(sample_issues)
         assert "WebMCP 공개" in html
         assert "Rust 2.0 발표" in html
 
     def test_links_to_article_pages(self, sample_issues: list[dict[str, Any]]) -> None:
-        html = render_index_html(sample_issues, WORKER_URL)
+        html = render_index_html(sample_issues)
         assert "42.html" in html
         assert "43.html" in html
 
     def test_empty_issues_shows_message(self) -> None:
-        html = render_index_html([], WORKER_URL)
+        html = render_index_html([])
         assert "html" in html.lower()
         # Should still produce valid HTML even with no issues
 
     def test_is_valid_html(self, sample_issues: list[dict[str, Any]]) -> None:
-        html = render_index_html(sample_issues, WORKER_URL)
+        html = render_index_html(sample_issues)
         assert "</html>" in html
 
     def test_sorted_by_date_newest_first(
         self, sample_issues: list[dict[str, Any]]
     ) -> None:
-        html = render_index_html(sample_issues, WORKER_URL)
+        html = render_index_html(sample_issues)
         # Issue 43 (2026-02-22) should appear before Issue 42 (2026-02-21)
         pos_rust = html.index("Rust 2.0 발표")
         pos_webmcp = html.index("WebMCP 공개")
         assert pos_rust < pos_webmcp
 
     def test_contains_source_badges(self, sample_issues: list[dict[str, Any]]) -> None:
-        html = render_index_html(sample_issues, WORKER_URL)
+        html = render_index_html(sample_issues)
         assert "geeknews" in html
         assert "hackernews" in html
 
@@ -310,7 +300,7 @@ class TestBuildBlog:
         tmp_path: Path,
     ) -> None:
         mock_fetch.return_value = sample_issues
-        build_blog(str(tmp_path), WORKER_URL)
+        build_blog(str(tmp_path))
 
         assert (tmp_path / "index.html").exists()
         assert (tmp_path / "42.html").exists()
@@ -325,7 +315,7 @@ class TestBuildBlog:
     ) -> None:
         output = tmp_path / "blog_output"
         mock_fetch.return_value = sample_issues
-        build_blog(str(output), WORKER_URL)
+        build_blog(str(output))
         assert output.exists()
         assert (output / "index.html").exists()
 
@@ -336,7 +326,7 @@ class TestBuildBlog:
         tmp_path: Path,
     ) -> None:
         mock_fetch.return_value = []
-        build_blog(str(tmp_path), WORKER_URL)
+        build_blog(str(tmp_path))
         assert (tmp_path / "index.html").exists()
 
     @patch("src.blog_builder.fetch_open_issues")
@@ -347,11 +337,11 @@ class TestBuildBlog:
         tmp_path: Path,
     ) -> None:
         mock_fetch.return_value = sample_issues
-        build_blog(str(tmp_path), WORKER_URL)
+        build_blog(str(tmp_path))
 
         article_html = (tmp_path / "42.html").read_text(encoding="utf-8")
         assert "WebMCP 공개" in article_html
-        assert f"{WORKER_URL}/close/42" not in article_html
+        assert "/close/42" not in article_html
 
     @patch("src.blog_builder.fetch_open_issues")
     def test_propagates_fetch_failures(
@@ -361,4 +351,4 @@ class TestBuildBlog:
     ) -> None:
         mock_fetch.side_effect = RuntimeError("Failed to fetch GitHub issues")
         with pytest.raises(RuntimeError, match="Failed to fetch GitHub issues"):
-            build_blog(str(tmp_path), WORKER_URL)
+            build_blog(str(tmp_path))
