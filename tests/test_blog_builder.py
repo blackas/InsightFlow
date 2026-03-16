@@ -156,16 +156,16 @@ class TestFetchOpenIssues:
         assert "list" in call_args
 
     @patch("src.blog_builder.subprocess.run")
-    def test_returns_empty_on_cli_failure(self, mock_run: MagicMock) -> None:
+    def test_raises_on_cli_failure(self, mock_run: MagicMock) -> None:
         mock_run.side_effect = subprocess.CalledProcessError(1, "gh")
-        result = fetch_open_issues()
-        assert result == []
+        with pytest.raises(RuntimeError, match="Failed to fetch GitHub issues"):
+            fetch_open_issues()
 
     @patch("src.blog_builder.subprocess.run")
-    def test_returns_empty_on_invalid_json(self, mock_run: MagicMock) -> None:
+    def test_raises_on_invalid_json(self, mock_run: MagicMock) -> None:
         mock_run.return_value = MagicMock(stdout="not json", returncode=0)
-        result = fetch_open_issues()
-        assert result == []
+        with pytest.raises(RuntimeError, match="Failed to parse GitHub issues JSON"):
+            fetch_open_issues()
 
 
 # ---------------------------------------------------------------------------
@@ -186,10 +186,12 @@ class TestRenderArticleHtml:
         html = render_article_html(sample_issue, WORKER_URL)
         assert "첫 번째 요약 문장입니다." in html
 
-    def test_contains_mark_as_read_button(self, sample_issue: dict[str, Any]) -> None:
+    def test_does_not_render_mark_as_read_button(
+        self, sample_issue: dict[str, Any]
+    ) -> None:
         html = render_article_html(sample_issue, WORKER_URL)
-        assert "읽음" in html
-        assert f"{WORKER_URL}/close/42" in html
+        assert "읽음" not in html
+        assert f"{WORKER_URL}/close/42" not in html
 
     def test_contains_source_badge(self, sample_issue: dict[str, Any]) -> None:
         html = render_article_html(sample_issue, WORKER_URL)
@@ -246,9 +248,10 @@ class TestRenderArticleHtml:
         assert "읽음" not in result
         assert "/close/" not in result
 
-    def test_read_button_is_post_form(self, sample_issue: dict[str, Any]) -> None:
+    def test_never_renders_close_form(self, sample_issue: dict[str, Any]) -> None:
         result = render_article_html(sample_issue, WORKER_URL)
-        assert 'method="POST"' in result
+        assert 'method="POST"' not in result
+        assert "<form" not in result
 
 
 # ---------------------------------------------------------------------------
@@ -348,4 +351,14 @@ class TestBuildBlog:
 
         article_html = (tmp_path / "42.html").read_text(encoding="utf-8")
         assert "WebMCP 공개" in article_html
-        assert f"{WORKER_URL}/close/42" in article_html
+        assert f"{WORKER_URL}/close/42" not in article_html
+
+    @patch("src.blog_builder.fetch_open_issues")
+    def test_propagates_fetch_failures(
+        self,
+        mock_fetch: MagicMock,
+        tmp_path: Path,
+    ) -> None:
+        mock_fetch.side_effect = RuntimeError("Failed to fetch GitHub issues")
+        with pytest.raises(RuntimeError, match="Failed to fetch GitHub issues"):
+            build_blog(str(tmp_path), WORKER_URL)

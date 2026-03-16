@@ -103,10 +103,10 @@ def fetch_open_issues() -> list[dict[str, Any]]:
         return json.loads(result.stdout)
     except subprocess.CalledProcessError:
         logger.exception("Failed to fetch GitHub issues")
-        return []
+        raise RuntimeError("Failed to fetch GitHub issues") from None
     except json.JSONDecodeError:
         logger.exception("Failed to parse GitHub issues JSON")
-        return []
+        raise RuntimeError("Failed to parse GitHub issues JSON") from None
 
 
 def render_article_html(issue: dict[str, Any], worker_url: str) -> str:
@@ -237,15 +237,9 @@ def _safe_url(url: str) -> str:
 
 
 def _read_button_html(worker_url: str, number: int) -> str:
-    """Render '읽음' button as a POST form, or empty string if no worker_url."""
-    if not worker_url:
-        return ""
-    return (
-        '<div class="actions">'
-        f'<form method="POST" action="{_safe_url(worker_url)}/close/{number}">'
-        '<button class="btn-read" type="submit">✓ 읽음</button>'
-        "</form></div>"
-    )
+    """Issue-closing is disabled on the public blog until an auth model exists."""
+    _ = worker_url, number
+    return ""
 
 
 def _css() -> str:
