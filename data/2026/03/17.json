@@ -1,0 +1,893 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27595",
+    "title": "Django에는 토큰이 아니라 시간과 돈을 투자하라",
+    "url": "https://news.hada.io/topic?id=27595",
+    "discussion_url": "https://news.hada.io/topic?id=27595",
+    "summary": "LLM을 이용해 Django 티켓을 처리하는 방식은 도움이 되지 않으며, 그 자원을 Django Software Foundation에 직접 기부하는 편이 더 유익함\nDjango는 품질 기준이 매우 높고 장기적 안정성을 중시하는 프로젝트로, 단순 코드 생성 이상의 깊은 이해가 필요함...",
+    "score": 0,
+    "published_at": "2026-03-17T20:37:14+00:00",
+    "ai_summary": "LLM을 이용한 Django 티켓 처리는 비효율적이며, Django Software Foundation에 직접 기부하는 것이 더 유익합니다. Django는 높은 품질과 안정성을 중시하여 단순 코드 생성 이상의 깊은 이해를 요구합니다. 개발자는 LLM 활용에 신중하고 프로젝트 본질에 집중해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27594",
+    "title": "신뢰성과 즐거움을 갖춘 로컬 호스팅 음성 비서 구축 여정 (2025)",
+    "url": "https://news.hada.io/topic?id=27594",
+    "discussion_url": "https://news.hada.io/topic?id=27594",
+    "summary": "Google Home에서 벗어나 Home Assistant 기반 완전 로컬 음성 비서를 구축한 과정을 단계별로 정리한 사례\n\nllama.cpp와 local-first 구성을 사용해 클라우드 의존 없이 빠른 응답과 개인정보 보호를 달성\n다양한 GPU·모델·STT·T...",
+    "score": 0,
+    "published_at": "2026-03-17T20:34:13+00:00",
+    "ai_summary": "Google Home을 벗어나 Home Assistant 기반 완전 로컬 음성 비서를 구축한 과정을 단계별로 소개합니다. llama.cpp와 local-first 구성을 통해 클라우드 의존 없이 빠른 응답과 개인정보 보호를 달성했습니다. 다양한 GPU, 모델, STT/TTS 기술을 탐색하며 신뢰성 있는 시스템을 구축했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27592",
+    "title": "Show GN: 로컬파일을 링크로 즉시 공유하는 MCP 서버",
+    "url": "https://news.hada.io/topic?id=27592",
+    "discussion_url": "https://news.hada.io/topic?id=27592",
+    "summary": "빠른 파일공유를 위한 MCP 서버를 만들어 봤습니다.\nAI Agent 한테 파일을 공유시키는 작업을 해야 하는 경우가 있죠.\n또는 메신저로 AI에게 파일을 외출한 상태인 나한테 보내달라고 할때도 있구요.\n구글 드라이브나 이메일로도 할수 있지만 파일크기가 커지면 업로드 완료까지 대기해야 하는 불",
+    "score": 0,
+    "published_at": "2026-03-17T15:47:28+00:00",
+    "ai_summary": "로컬 파일을 즉시 링크로 공유하는 MCP 서버를 개발했습니다. AI 에이전트나 메신저를 통해 대용량 파일을 공유할 때, 기존 클라우드 방식의 느린 업로드 대기 없이 빠르게 처리할 수 있습니다. 개발자의 파일 공유 워크플로우를 개선하는 유용한 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27591",
+    "title": "“스몰 웹(small web)”은 생각보다 훨씬 크다",
+    "url": "https://news.hada.io/topic?id=27591",
+    "discussion_url": "https://news.hada.io/topic?id=27591",
+    "summary": "상업적 목적 없이 개인용 웹사이트와 블로그로 구성된 ‘스몰 웹’이 예상보다 활발히 운영되고 있음\n\nGemini 프로토콜처럼 비상업적 커뮤니티 중심의 대안적 웹 환경이 존재하며, 약 6,000개의 ‘캡슐(capsule)’이 운영 중임\nKagi 검색엔진의 S...",
+    "score": 0,
+    "published_at": "2026-03-17T10:33:22+00:00",
+    "ai_summary": "상업적 목적 없는 개인 웹사이트와 블로그로 이루어진 '스몰 웹'이 활발히 운영되고 있음이 밝혀졌습니다. Gemini 프로토콜 같은 비상업적 대안 웹 환경이 존재하며, 6천 개 이상의 '캡슐'이 운영 중입니다. 이는 인터넷의 다양성과 탈중앙화된 웹 환경의 가치를 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27589",
+    "title": "Show GN: 지음(ziium) - 한국어 문장 구조로 코드를 쓰는 프로그래밍 언어",
+    "url": "https://news.hada.io/topic?id=27589",
+    "discussion_url": "https://news.hada.io/topic?id=27589",
+    "summary": "한국어 조사와 서술어를 문법 요소로 활용하는 실험적 프로그래밍 언어.\n기존 언어의 키워드를 한글로 번역하는 방식이 아니라,\n한국어 화자가 읽고 쓰는 흐름에 가까운 표면 문법을 목표로 한다.\nRust로 구현, WebAssembly 브라우저 플레이그라운드 포함.\n코딩 처음 배울 때부터 상상만 해",
+    "score": 0,
+    "published_at": "2026-03-17T08:22:27+00:00",
+    "ai_summary": "한국어 조사와 서술어를 문법 요소로 활용하는 실험적 프로그래밍 언어 '지음(ziium)'을 소개합니다. 기존 언어의 키워드 번역을 넘어, 한국어 화자에게 자연스러운 표면 문법을 목표로 합니다. Rust로 구현되었으며 WebAssembly 기반 플레이그라운드를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27587",
+    "title": "Show GN: Hipocampus - AI 에이전트를 위한 영구 메모리 시스템 (제로 인프라)",
+    "url": "https://news.hada.io/topic?id=27587",
+    "discussion_url": "https://news.hada.io/topic?id=27587",
+    "summary": "Claude Code나 OpenClaw 같은 AI 에이전트는 세션이 끝나는 순간 모든 기억을 잊습니다. 2주 전에 DB 마이그레이션 전략 같이 정했는데 다음 세션에서 처음부터 다시 조사하고 앉아있는 거 보면 참 답답하죠.\n물론 그걸 위해 다양한 해결책들이 존재하지만, 한계가 명확합니다:\n\nMEMORY.md 하나로",
+    "score": 0,
+    "published_at": "2026-03-17T07:21:25+00:00",
+    "ai_summary": "AI 에이전트의 '망각' 문제를 해결하기 위한 영구 메모리 시스템 'Hipocampus'를 소개합니다. Claude Code 같은 AI 에이전트가 세션 종료 후 기억을 잃는 한계를 극복하고 지속적인 학습 및 대화 기억을 가능하게 합니다. 제로 인프라로 손쉽게 적용 가능하며 개발자들에게 유용한 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27584",
+    "title": "“지금 AI는 너무 싸다” 개발자 커뮤니티가 본 가격 거품과 생존 전망",
+    "url": "https://news.hada.io/topic?id=27584",
+    "discussion_url": "https://news.hada.io/topic?id=27584",
+    "summary": "현재 AI 코딩 도구의 낮은 가격은 실제 원가가 반영된 결과라기보다, 투자금·시장점유율 경쟁·보조적 가격 정책 위에 형성된 것이라는 문제 제기임. 따라서 개발자의 승부처는 “AI를 거부하느냐”가 아니라, AI 기업의 저가 정책 종료 이후에도 살아남을 실력과 적응력을 갖추느냐에 있다는 주장임...",
+    "score": 0,
+    "published_at": "2026-03-17T04:57:43+00:00",
+    "ai_summary": "현재 AI 코딩 도구의 낮은 가격은 시장점유율 경쟁과 투자금에 기반한 것이며, 실제 원가가 반영된 것이 아니라는 분석이 나왔습니다. 따라서 개발자는 AI 거부 대신, AI 기업의 저가 정책 종료 후에도 살아남을 실력과 적응력을 갖추는 것이 중요합니다. AI 시대 개발자의 생존 전략과 미래 가치에 대한 진단입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27581",
+    "title": "Show GN: tui.builders – 터미널 UI의 Figma, Rust 코드 생성까지",
+    "url": "https://news.hada.io/topic?id=27581",
+    "discussion_url": "https://news.hada.io/topic?id=27581",
+    "summary": "Rust의 성능과 단일 바이너리 배포 같은 장점 때문에 CLI/TUI 도구를 Rust로 만드시는 분들이 꽤 계실 거라 생각합니다.\nPython의 Textual이나 JS의 Ink 같은 도구들은 문법이 비교적 편하지만, 런타임 의존성이나 성능 오버헤드가 신경 쓰이는 경우도 있고요. Rust 쪽에서는 ratatui가 좋은 생태계를 갖추고",
+    "score": 0,
+    "published_at": "2026-03-17T02:57:47+00:00",
+    "ai_summary": "tui.builders는 Rust로 터미널 UI(TUI)를 쉽고 효율적으로 개발하게 돕는 도구입니다.\nRust의 성능과 단일 바이너리 배포 장점을 활용하며, Python/JS 도구의 런타임 의존성 문제를 해결합니다.\nFigma처럼 시각적으로 TUI를 설계하고 Rust 코드를 생성하는 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27580",
+    "title": "CodexBar - Codex/Claude Code 등의 사용량 통계를 편하게 보기",
+    "url": "https://news.hada.io/topic?id=27580",
+    "discussion_url": "https://news.hada.io/topic?id=27580",
+    "summary": "오픈소스 macOS 메뉴 바 앱으로, Codex·Claude·Cursor·Gemini 등 다양한 AI 코딩 도구의 사용량 한도와 리셋 시간을 한눈에 확인 가능\n현재 16개 이상의 프로바이더를 지원하며, 세션·주간 사용량 미터와 리셋 카운트다운을 메뉴 바 아이콘으로 표시\n프로...",
+    "score": 0,
+    "published_at": "2026-03-17T02:21:02+00:00",
+    "ai_summary": "CodexBar는 macOS 메뉴 바 앱으로, 다양한 AI 코딩 도구의 사용량 통계를 한눈에 보여줍니다.\nCodex, Claude, Cursor 등 16개 이상 프로바이더의 사용 한도와 리셋 시간을 표시합니다.\nAI 코딩 어시스턴트를 사용하는 개발자의 생산성을 높이는 데 유용한 오픈소스 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27578",
+    "title": "Show GN: mcp-optimizer - Claude Code의 MCP 토큰 낭비를 잡아주는 플러그인",
+    "url": "https://news.hada.io/topic?id=27578",
+    "discussion_url": "https://news.hada.io/topic?id=27578",
+    "summary": "Claude Code에 MCP 서버 연결하면 안 쓰는 도구 schema까지 매 대화에 로드됩니다. 서버 3개만 연결해도 대화당 6,500+ 토큰이 그냥 날아갑니다.\nmcp-optimizer는 이걸 4단계로 해결합니다:\nmcp-doctor — MCP 서버 상태 진단\nmcp-audit — 실제 사용 기반 낭비 분석\nmcp-optimize — 프로",
+    "score": 0,
+    "published_at": "2026-03-17T01:42:40+00:00",
+    "ai_summary": "mcp-optimizer는 Claude Code 사용 시 MCP 서버 연결로 인한 불필요한 토큰 낭비를 해결합니다.\n사용하지 않는 도구 스키마 로딩 문제를 진단, 분석, 최적화하는 4단계 솔루션을 제공합니다.\n이를 통해 Claude Code를 사용하는 개발자의 LLM 토큰 비용 효율성을 크게 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27576",
+    "title": "내가 LLM으로 소프트웨어를 만드는 방법",
+    "url": "https://news.hada.io/topic?id=27576",
+    "discussion_url": "https://news.hada.io/topic?id=27576",
+    "summary": "LLM을 활용한 소프트웨어 개발에서 아키텍트-개발자-리뷰어 다중 에이전트 워크플로우를 통해 수만 줄 규모의 프로젝트를 낮은 결함률로 유지하는 구체적인 방법론 공유\n프로그래밍 자체보다 무언가를 만드는 것에 관심이 있었으며, LLM이 코딩을 잘하게 되면서 만...",
+    "score": 0,
+    "published_at": "2026-03-17T01:01:11+00:00",
+    "ai_summary": "LLM을 활용한 소프트웨어 개발에서 아키텍트-개발자-리뷰어 다중 에이전트 워크플로우를 제시합니다.\n수만 줄 규모의 프로젝트를 낮은 결함률로 유지하는 구체적인 방법론을 공유합니다.\n코딩보다 '만드는 것'에 집중하며, LLM이 개발 프로세스를 혁신하는 방안을 설명합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27570",
+    "title": "OpenGenerativeUI - AI기반 생성형 UI 프레임워크 오픈소스",
+    "url": "https://news.hada.io/topic?id=27570",
+    "discussion_url": "https://news.hada.io/topic?id=27570",
+    "summary": "Claude가 출시한 인터랙티브 시각 자료 생성 기능을 그대로 구현\n단순 텍스트 응답이 아닌 차트, 다이어그램, 시각화 등의 자료를 자동 생성하는 Generative UI\n\n\n알고리듬 시각화: 이진 탐색, BFS/DFS, 정렬 등\n...",
+    "score": 0,
+    "published_at": "2026-03-17T00:36:02+00:00",
+    "ai_summary": "OpenGenerativeUI는 Claude의 기능을 모방한 AI 기반의 오픈소스 생성형 UI 프레임워크입니다.\n텍스트 응답을 넘어 차트, 다이어그램, 시각화 등 인터랙티브한 자료를 자동으로 생성합니다.\n알고리듬 시각화 등 개발자에게 유용한 UI 생성 및 데이터 시각화 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27569",
+    "title": "NVIDIA NemoClaw - OpenClaw + Nemotron + OpenShell",
+    "url": "https://news.hada.io/topic?id=27569",
+    "discussion_url": "https://news.hada.io/topic?id=27569",
+    "summary": "OpenClaw에 프라이버시 및 보안 제어를 추가하는 오픈소스 스택, 단일 명령어로 상시 작동하는 자율 진화형 AI 에이전트를 설치해서 실행 가능\nNVIDIA Agent Toolkit과 OpenShell을 활용해 정책 기반 가드레일을 적용하며, 에이전트의 동작과 데이...",
+    "score": 0,
+    "published_at": "2026-03-17T00:06:02+00:00",
+    "ai_summary": "NVIDIA NemoClaw는 OpenClaw 기반의 오픈소스 AI 에이전트 스택입니다.\n프라이버시 및 보안 제어 기능을 추가하고, 자율 진화형 AI 에이전트를 설치/실행할 수 있습니다.\nNVIDIA Agent Toolkit과 OpenShell을 활용해 정책 기반 가드레일을 적용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27568",
+    "title": "nullclaw - Zig로 구현한 초경량 자율형 AI 어시스턴트",
+    "url": "https://news.hada.io/topic?id=27568",
+    "discussion_url": "https://news.hada.io/topic?id=27568",
+    "summary": "정적 바이너리(678KB) 로 동작하며, 런타임·VM·프레임워크 의존성 없음\n\n1MB 미만 메모리, 2ms 미만 부팅 시간, ARM·x86·RISC-V 등 모든 CPU 환경 지원\n\n완전 자율형 구조로, 외부 서비스 없이 단일...",
+    "score": 0,
+    "published_at": "2026-03-17T00:04:40+00:00",
+    "ai_summary": "nullclaw는 Zig 언어로 구현된 초경량 자율형 AI 어시스턴트입니다.\n678KB 정적 바이너리로 동작하며, 런타임/VM/프레임워크 의존성이 없습니다.\n1MB 미만 메모리, 2ms 미만 부팅 속도로 모든 CPU 환경을 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27567",
+    "title": "Manus, 데스크탑 앱 공개 및 &quot;내 컴퓨터&quot; 기능 공개",
+    "url": "https://news.hada.io/topic?id=27567",
+    "discussion_url": "https://news.hada.io/topic?id=27567",
+    "summary": "클라우드 전용이던 AI 에이전트 Manus가 데스크톱 앱을 출시하여 로컬 파일, 도구, 애플리케이션과 직접 상호작용하는 &quot;내 컴퓨터&quot; 기능 도입\n컴퓨터의 터미널 CLI를 통해 로컬 파일 읽기·분석·편집, 애플리케이션 실행 등 광범위한 자...",
+    "score": 0,
+    "published_at": "2026-03-17T00:03:02+00:00",
+    "ai_summary": "클라우드 기반 AI 에이전트 Manus가 데스크톱 앱을 출시했습니다.\n이 앱은 \"내 컴퓨터\" 기능을 통해 로컬 파일, 도구, 애플리케이션과 직접 상호작용합니다.\n터미널 CLI를 통해 로컬 파일 읽기/분석/편집 및 애플리케이션 실행이 가능합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27566",
+    "title": "Codex, Subagents 지원 시작",
+    "url": "https://news.hada.io/topic?id=27566",
+    "discussion_url": "https://news.hada.io/topic?id=27566",
+    "summary": "OpenAI Codex가 서브에이전트 워크플로를 지원하여, 복잡한 작업을 여러 전문 에이전트에 병렬 분배하고 결과를 하나로 통합하는 기능 제공\n사용자가 명시적으로 요청할 때만 서브에이전트를 생성하며, 각 에이전트가 독립적으로 모델과 도구를 사용하므로",
+    "score": 0,
+    "published_at": "2026-03-17T00:01:01+00:00",
+    "ai_summary": "OpenAI Codex가 서브에이전트 워크플로를 공식 지원하기 시작했습니다.\n이를 통해 복잡한 작업을 여러 전문 에이전트에 병렬로 분배하고 통합할 수 있습니다.\n서브에이전트는 사용자가 요청할 때 생성되며 독립적으로 모델과 도구를 사용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47416486",
+    "title": "Python 3.15's JIT is now back on track",
+    "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47416486",
+    "summary": "",
+    "score": 212,
+    "published_at": "2026-03-17T18:37:27+00:00",
+    "ai_summary": "Python 3.15 버전의 JIT(Just-In-Time) 컴파일러 개발이 다시 순조롭게 진행되고 있습니다.\n이는 파이썬 코드의 실행 성능을 크게 향상시킬 잠재력을 가집니다.\n파이썬 개발자들에게 중요한 언어 개선 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47413876",
+    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+    "discussion_url": "https://news.ycombinator.com/item?id=47413876",
+    "summary": "",
+    "score": 475,
+    "published_at": "2026-03-17T15:16:29+00:00",
+    "ai_summary": "Microsoft의 '뚫리지 않는다'고 알려졌던 Xbox One 콘솔이 'Bliss'에 의해 해킹되었습니다.\n이는 콘솔 보안의 취약점을 드러내며, 시스템 해킹과 리버스 엔지니어링 분야에 관련됩니다.\n보안 연구자와 개발자들에게 중요한 사건입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47368425",
+    "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+    "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+    "discussion_url": "https://news.ycombinator.com/item?id=47368425",
+    "summary": "",
+    "score": 135,
+    "published_at": "2026-03-13T19:14:46+00:00",
+    "ai_summary": "30년간 풀지 못했던 그린 스크린 VFX 문제 해결에 대한 영상으로, 기존 크로마키 기술의 한계를 극복하는 새로운 접근법을 제시합니다.\n특히 복잡한 가장자리 및 반사 처리에서 뛰어난 결과를 보여주며, 시각 효과 분야의 기술적 난제를 해결하는 사례를 보여줍니다.\n이는 컴퓨터 그래픽스와 영상 처리 기술에 관심 있는 개발자들에게 유의미한 정보가 될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47410542",
+    "title": "Kagi Small Web",
+    "url": "https://kagi.com/smallweb/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47410542",
+    "summary": "",
+    "score": 675,
+    "published_at": "2026-03-17T09:53:53+00:00",
+    "ai_summary": "Kagi가 대형 상업 사이트 중심의 검색에서 벗어나, 고품질의 작은 독립 웹사이트들을 발굴하는 '스몰 웹' 이니셔티브를 발표했습니다.\n이는 웹 콘텐츠의 다양성을 증진하고 인디 웹사이트의 가시성을 높이는 것을 목표로 합니다.\n웹 개발자들에게는 콘텐츠 발견성과 검색 엔진 최적화 전략에 새로운 관점을 제공할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47417335",
+    "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+    "url": "https://news.ycombinator.com/item?id=47417335",
+    "discussion_url": "https://news.ycombinator.com/item?id=47417335",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-03-17T19:46:29+00:00",
+    "ai_summary": "Y Combinator의 스타트업 Kita가 신흥 시장의 신용 심사 과정을 자동화하는 서비스를 출시했습니다.\nAI와 데이터 분석을 활용하여 복잡하고 수동적인 기존 신용 평가 방식을 효율화하는 데 중점을 둡니다.\n금융 기술(FinTech) 분야의 AI/ML 및 백엔드 개발자들에게 중요한 비즈니스 애플리케이션 사례를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47374197",
+    "title": "Torturing Rustc by Emulating HKTs",
+    "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47374197",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-03-14T07:25:09+00:00",
+    "ai_summary": "Rust 컴파일러(rustc)의 고급 기능을 탐구하며, 고차원 타입(Higher-Kinded Types, HKTs)을 에뮬레이션하는 기술적 실험을 다룹니다.\n이는 Rust의 타입 시스템이 가진 한계와 이를 창의적으로 우회하는 방법을 깊이 있게 분석합니다.\n고급 Rust 개발자, 컴파일러 엔지니어 및 타입 시스템 연구자에게 매우 관련성 높은 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47416081",
+    "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+    "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+    "discussion_url": "https://news.ycombinator.com/item?id=47416081",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-03-17T18:01:50+00:00",
+    "ai_summary": "Edge.js는 Node.js 애플리케이션을 WebAssembly 샌드박스 내에서 실행할 수 있게 하는 혁신적인 기술입니다.\n이를 통해 Node.js 앱의 보안, 격리성, 성능 및 이식성을 크게 향상시킬 수 있습니다.\n엣지 컴퓨팅, 서버리스 및 백엔드 개발자들에게 Node.js 활용의 새로운 지평을 열어줄 중요한 기술입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47418295",
+    "title": "Mistral AI Releases Forge",
+    "url": "https://mistral.ai/news/forge",
+    "discussion_url": "https://news.ycombinator.com/item?id=47418295",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-03-17T21:04:26+00:00",
+    "ai_summary": "선도적인 AI 기업 Mistral AI가 개발자들이 AI 모델을 더 효율적으로 사용하고 배포할 수 있도록 돕는 새로운 플랫폼 또는 도구인 'Forge'를 출시했습니다.\n이는 Mistral AI의 최신 LLM 기술을 활용하여 AI 애플리케이션 개발 워크플로우를 간소화하는 데 초점을 맞춥니다.\nAI/ML 및 LLM 개발자들에게 매우 중요한 새로운 도구의 등장을 알리는 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47414032",
+    "title": "Unsloth Studio",
+    "url": "https://unsloth.ai/docs/new/studio",
+    "discussion_url": "https://news.ycombinator.com/item?id=47414032",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-03-17T15:26:32+00:00",
+    "ai_summary": "Unsloth Studio는 대규모 언어 모델(LLM)의 미세 조정(fine-tuning) 과정을 빠르고 효율적으로 수행할 수 있도록 돕는 플랫폼입니다.\n기존 Unsloth 라이브러리의 장점을 통합하여 LLM 개발 워크플로우를 더욱 간소화하고 가속화합니다.\nLLM 개발자와 연구자들이 고성능 모델을 더 쉽고 빠르게 구축하고 배포하는 데 필수적인 도구가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47413195",
+    "title": "Node.js needs a virtual file system",
+    "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+    "discussion_url": "https://news.ycombinator.com/item?id=47413195",
+    "summary": "",
+    "score": 215,
+    "published_at": "2026-03-17T14:28:37+00:00",
+    "ai_summary": "Node.js 런타임에 가상 파일 시스템(Virtual File System, VFS) 도입의 필요성에 대한 심층적인 논의를 다룹니다.\nVFS는 Node.js 애플리케이션의 이식성, 테스트 용이성 및 보안을 향상시키며, 샌드박싱 등 고급 시나리오를 가능하게 합니다.\nNode.js 코어 개발자 및 백엔드 아키텍트에게 런타임의 근본적인 개선 가능성을 제시하는 중요한 제안입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47361251",
+    "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
+    "url": "https://github.com/ywong137/speech-speed",
+    "discussion_url": "https://news.ycombinator.com/item?id=47361251",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-03-13T06:18:17+00:00",
+    "ai_summary": "이 크롬 확장 프로그램은 AI를 활용해 화자의 말하기 속도에 따라 비디오 재생 속도를 자동으로 조절합니다.\n사용자의 학습 및 시청 경험을 개선하는 유용한 도구이며, 브라우저 확장 프로그램 개발과 AI/ML 기술 적용에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47416227",
+    "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+    "url": "https://github.com/peters/horizon",
+    "discussion_url": "https://news.ycombinator.com/item?id=47416227",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-03-17T18:14:24+00:00",
+    "ai_summary": "\"Horizon\"은 Rust로 개발된 GPU 가속 무한 캔버스 터미널로, 개발자들을 위한 새로운 작업 환경을 제시합니다.\nRust 언어의 시스템 프로그래밍 능력, GPU 활용 및 혁신적인 터미널 도구 개발에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47416548",
+    "title": "Java 26 is here",
+    "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47416548",
+    "summary": "",
+    "score": 137,
+    "published_at": "2026-03-17T18:44:09+00:00",
+    "ai_summary": "자바 프로그래밍 언어의 최신 버전인 Java 26이 공식적으로 출시되어 새로운 기능과 개선 사항을 선보입니다.\n이는 자바 개발자들에게 중요한 업데이트이며, 언어의 발전과 자바 생태계에 관심 있는 모든 개발자에게 필수적인 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47397367",
+    "title": "Toward automated verification of unreviewed AI-generated code",
+    "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
+    "discussion_url": "https://news.ycombinator.com/item?id=47397367",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-03-16T10:52:33+00:00",
+    "ai_summary": "AI 생성 코드의 신뢰성과 보안 문제를 해결하기 위한 자동 검증 기술을 탐구합니다.\n아직 검토되지 않은 AI 코드의 오류 및 취약점을 자동으로 식별하는 방법을 개발합니다.\n개발자가 AI 코드를 더 안전하고 효율적으로 통합하도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47412726",
+    "title": "OpenSUSE Kalpa",
+    "url": "https://kalpadesktop.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47412726",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-03-17T13:54:17+00:00",
+    "ai_summary": "OpenSUSE Kalpa는 불변(immutable) 운영 체제로, 시스템 안정성과 관리 용이성을 강조합니다.\n컨테이너 기반 워크로드를 위한 견고한 플랫폼을 제공하여 DevOps 및 개발 환경에 적합합니다.\n예측 가능한 시스템 변경으로 배포 신뢰성을 높입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47408727",
+    "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
+    "url": "https://github.com/chenxin-yan/crust",
+    "discussion_url": "https://news.ycombinator.com/item?id=47408727",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-03-17T04:43:29+00:00",
+    "ai_summary": "Crust는 TypeScript와 Bun을 위한 강력한 CLI(명령줄 인터페이스) 프레임워크입니다.\n간결한 문법과 빠른 성능으로 개발자가 효율적으로 CLI 도구를 만들 수 있게 돕습니다.\n타입스크립트 기반이라 타입 안전성을 제공하며, Bun 런타임의 이점을 활용합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47364337",
+    "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+    "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47364337",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-03-13T13:40:21+00:00",
+    "ai_summary": "2018년 Xbox 360의 CPU 설계에서 발견된 버그를 상세 분석한 기사입니다.\n하드웨어 리버스 엔지니어링을 통해 복잡한 CPU 결함을 찾아내는 과정을 다룹니다.\n저수준 시스템 개발 및 보안 연구에 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47413525",
+    "title": "FFmpeg 8.1",
+    "url": "https://ffmpeg.org/index.html#pr8.1",
+    "discussion_url": "https://news.ycombinator.com/item?id=47413525",
+    "summary": "",
+    "score": 345,
+    "published_at": "2026-03-17T14:51:57+00:00",
+    "ai_summary": "미디어 처리 라이브러리 FFmpeg의 8.1 버전이 출시되어 다양한 개선사항을 제공합니다.\n새로운 코덱 지원, 성능 최적화, 그리고 안정성 향상을 위한 버그 수정이 포함되었습니다.\n비디오 스트리밍, 변환 등 미디어 관련 개발자에게 중요한 업데이트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47409885",
+    "title": "Reverse-engineering Viktor and making it open source",
+    "url": "https://matijacniacki.com/blog/openviktor",
+    "discussion_url": "https://news.ycombinator.com/item?id=47409885",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-03-17T08:15:34+00:00",
+    "ai_summary": "Viktor라는 소프트웨어를 리버스 엔지니어링하여 오픈 소스화한 프로젝트를 소개합니다.\n비공개 시스템의 내부 작동 방식을 분석하고 이를 공개적으로 재구현하는 과정을 설명합니다.\n이는 기술 해체 및 오픈 소스 커뮤니티 기여의 중요성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47372020",
+    "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
+    "url": "https://structuredlabs.github.io/threebodyproblem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47372020",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-03-14T00:43:27+00:00",
+    "ai_summary": "개발자가 웹 브라우저에서 직접 상호작용할 수 있는 3D 삼체 문제 시뮬레이터를 구현했습니다.\n복잡한 물리 현상을 시각적으로 탐구하고 사용자가 파라미터를 조작하여 변화를 관찰할 수 있도록 설계되었습니다.\n이 프로젝트는 웹 기반 3D 그래픽 기술과 물리학 시뮬레이션 구현 역량을 잘 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=fuHGqr&reflink=desktopwebshare_permalink",
+    "title": "OpenAI to Cut Back on Side Projects in Push to ‘Nail' Core Business (6 minute read)",
+    "url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=fuHGqr&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=fuHGqr&reflink=desktopwebshare_permalink",
+    "summary": "OpenAI plans to refocus its efforts around coding and business users. Its leaders are actively looking for areas to deprioritize. The company's 'do everything at once' strategy helped it gain a reputation as the pioneer of the AI era. However, it is under growing pressure from rivals, so the company requires a clearer strategic direction.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "OpenAI는 코딩 및 비즈니스 사용자 중심의 핵심 사업에 집중하기 위해 부수적인 프로젝트들을 축소할 계획입니다. 회사는 경쟁 압력 속에서 더 명확한 전략 방향을 수립하려 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news",
+    "title": "NVIDIA Expanded Its AI Stack Across Models, Agents, and Robotics (2 minute read)",
+    "url": "https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news",
+    "discussion_url": "https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news",
+    "summary": "NVIDIA outlined a broad GTC 2026 slate spanning open foundation model partnerships, agent tooling, new reasoning and safety models, robotics systems, and healthcare AI for drug discovery and simulation.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "NVIDIA는 GTC 2026에서 오픈 파운데이션 모델 파트너십, 에이전트 툴링, 새로운 추론/안전 모델, 로봇 시스템, 헬스케어 AI 등 광범위한 AI 스택 확장을 발표했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-03-11/the-former-academic-guiding-openai-s-trillion-dollar-ai-buildout?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDA2NywiZXhwIjoxNzc0MzI0ODY3LCJhcnRpY2xlSWQiOiJUQlBUR1dLSVAzSkIwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.dnJ4DgBu7EchJXOWsPMs9ogEdkZmC-ORudCYhviUqPk",
+    "title": "The Former Academic Guiding OpenAI's Trillion-Dollar AI Buildout (4 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/the-former-academic-guiding-openai-s-trillion-dollar-ai-buildout?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDA2NywiZXhwIjoxNzc0MzI0ODY3LCJhcnRpY2xlSWQiOiJUQlBUR1dLSVAzSkIwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.dnJ4DgBu7EchJXOWsPMs9ogEdkZmC-ORudCYhviUqPk",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-03-11/the-former-academic-guiding-openai-s-trillion-dollar-ai-buildout?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDA2NywiZXhwIjoxNzc0MzI0ODY3LCJhcnRpY2xlSWQiOiJUQlBUR1dLSVAzSkIwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.dnJ4DgBu7EchJXOWsPMs9ogEdkZmC-ORudCYhviUqPk",
+    "summary": "Sachin Katti joined OpenAI in November to serve as its head of industrial compute. Before OpenAI, Katti spent more than 15 years as a Stanford professor and four years working at Intel. Katti now works on finding additional data center capacity and lining up ways to get more components like AI chips and memory. This has proved challenging, as data center operators are contending with power grid constraints, memory chip shortages, and growing pushback from local communities.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "OpenAI의 산업 컴퓨팅 책임자인 Sachin Katti는 데이터센터 용량 확보 및 AI 칩, 메모리 부품 조달 문제 해결에 집중하고 있습니다. 이는 전력망 제약, 메모리 칩 부족, 지역 사회 반발 등으로 인해 어려운 과제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDAyMiwiZXhwIjoxNzc0MzI0ODIyLCJhcnRpY2xlSWQiOiJUQloxOU1LSzNOWTkwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Xwg2yvj1eUr78x-vSuZT1N0cmFaKnuM3aMcJhbgoVGk",
+    "title": "Alibaba Starts Major Revamp to Heighten Focus on AI Profits (5 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDAyMiwiZXhwIjoxNzc0MzI0ODIyLCJhcnRpY2xlSWQiOiJUQloxOU1LSzNOWTkwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Xwg2yvj1eUr78x-vSuZT1N0cmFaKnuM3aMcJhbgoVGk",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MzcyMDAyMiwiZXhwIjoxNzc0MzI0ODIyLCJhcnRpY2xlSWQiOiJUQloxOU1LSzNOWTkwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Xwg2yvj1eUr78x-vSuZT1N0cmFaKnuM3aMcJhbgoVGk",
+    "summary": "Alibaba is setting up a business unit to bring its AI services and development endeavors under a single umbrella. The new Alibaba Token Hub will comprise the research team that develops the company's flagship Qwen models, its consumer-facing app division, and other major AI-related products. It will also oversee Alibaba's Slack-like DingTalk app and devices under the Quark brand. The revamp will help quicken interaction between the various teams within Alibaba's broader AI effort.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "Alibaba는 AI 서비스와 개발 노력을 통합하기 위한 새로운 사업부를 설립하고 있습니다. Qwen 모델 연구팀, 소비자 앱 부문 등을 포함하는 Alibaba Token Hub를 통해 AI 사업 집중도를 높일 계획입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://zakelfassi.com/how-do-you-want-to-remember",
+    "title": "How Do You Want to Remember? (10 minute read)",
+    "url": "https://zakelfassi.com/how-do-you-want-to-remember",
+    "discussion_url": "https://zakelfassi.com/how-do-you-want-to-remember",
+    "summary": "This developer asked their AI agent how it wants to remember things. The agent redesigned its own memory system, ran a self-eval, diagnosed its blind spots, and improved recall from 60% to 93%, all for just $2. The experiment shows what happens when you treat AI as a participant in its own cognitive architecture.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "한 개발자가 AI 에이전트에게 기억 방식을 묻자, 에이전트는 스스로 메모리 시스템을 재설계하고 자가 평가를 통해 회상 능력을 60%에서 93%로 향상시켰습니다. 이는 AI를 자체 인지 아키텍처의 참여자로 대했을 때의 잠재력을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/why-codex-security-doesnt-include-sast/",
+    "title": "Why Codex Security Skips SAST Reports (6 minute read)",
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast/",
+    "discussion_url": "https://openai.com/index/why-codex-security-doesnt-include-sast/",
+    "summary": "OpenAI explained that Codex Security was designed to analyze repositories directly instead of triaging static analysis reports, focusing on system architecture, trust boundaries, and validating findings before surfacing them to humans. The approach targets semantic security flaws where defenses appear present but fail to actually enforce the intended protection.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "OpenAI의 Codex Security는 정적 분석 보고서 대신 저장소를 직접 분석하여 시스템 아키텍처와 신뢰 경계에 중점을 둡니다. 이는 방어 장치가 존재하지만 실제 보호 기능을 수행하지 못하는 의미론적 보안 결함을 찾아내는 데 목표를 둡니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://a16z.com/ais-oppenheimer-moment/",
+    "title": "AI's Oppenheimer Moment (8 minute read)",
+    "url": "https://a16z.com/ais-oppenheimer-moment/",
+    "discussion_url": "https://a16z.com/ais-oppenheimer-moment/",
+    "summary": "This article draws parallels between nuclear weapons development and AI, arguing that AI poses similar global stakes. Anthropic, a key player in AI, hesitates to grant US government access, reflecting private control dilemmas akin to the hypothetical McBombalds Corp scenario. This raises the debate on whether private entities should control technologies with such immense global impact or if government oversight is more appropriate.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "이 기사는 AI가 핵무기 개발과 유사하게 전 세계적으로 중요한 위험을 제기한다고 주장합니다. 민간 기업의 AI 기술 통제에 대한 논의는 정부 감독의 필요성을 제기합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/NVIDIA/OpenShell",
+    "title": "OpenShell (GitHub Repo)",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "discussion_url": "https://github.com/NVIDIA/OpenShell",
+    "summary": "OpenShell is a safe, private runtime for autonomous AI agents that provides sandboxed execution environments that protect data, credentials, and infrastructure. It is governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity. The OpenShell project ships with agent skills for everything from cluster debugging to policy generation. It will eventually build toward multi-tenant enterprise deployments.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "OpenShell은 자율 AI 에이전트를 위한 안전하고 프라이빗한 런타임으로, 데이터, 자격 증명 및 인프라를 보호하는 샌드박스 실행 환경을 제공합니다. 선언적 YAML 정책을 통해 무단 파일 접근, 데이터 유출, 무제한 네트워크 활동을 방지합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/leanstral",
+    "title": "Leanstral (6 minute read)",
+    "url": "https://mistral.ai/news/leanstral",
+    "discussion_url": "https://mistral.ai/news/leanstral",
+    "summary": "Leanstral is an open-source coding agent designed for Lean 4, a proof assistant capable of expressing complex mathematical objects. It is designed to be highly efficient and is trained for operating in realistic formal repositories. Leanstral's weights were released under an Apache 2.0 license. It can be accessed in an agent mode within Mistral vibe and also through a free API endpoint.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "Lean 4용 오픈소스 코딩 에이전트인 Leanstral이 출시되었습니다. 이는 현실적인 정형 저장소에서 작동하도록 훈련되었으며, Apache 2.0 라이선스로 가중치가 공개되었습니다. Mistral vibe 에이전트 모드 및 무료 API 엔드포인트를 통해 접근 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
+    "title": "Use subagents and custom agents in Codex (1 minute read)",
+    "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
+    "discussion_url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
+    "summary": "The subagents pattern is now widely supported in coding agents. Subagents are now generally available in OpenAI Codex. There are default subagents called 'explorer', 'worker', and 'default', but it is unclear what differentiates them. Users can define custom agents with custom instructions and specific models.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "코딩 에이전트에서 서브에이전트 패턴이 널리 지원되며, OpenAI Codex에서도 일반적으로 사용 가능합니다. 'explorer', 'worker', 'default'와 같은 기본 서브에이전트가 있으며, 사용자 지정 지침과 특정 모델을 가진 사용자 지정 에이전트도 정의할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/mistral-small-4",
+    "title": "Introducing Mistral Small 4 (5 minute read)",
+    "url": "https://mistral.ai/news/mistral-small-4",
+    "discussion_url": "https://mistral.ai/news/mistral-small-4",
+    "summary": "Mistral Small 4 integrates the capabilities of Magistral, Pixtral, and Devstral models, offering unified multimodal, reasoning-optimized AI with configurable reasoning effort. It employs a Mixture of Experts architecture with 119B parameters, supporting both text and image inputs, and features efficient scaling. Mistral Small 4 achieves competitive performance with reduced output length, is open-source, and is available on platforms like vLLM, llama.cpp, and Transformers.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "Mistral Small 4는 Magistral, Pixtral, Devstral 모델의 기능을 통합하여 멀티모달 및 추론에 최적화된 AI를 제공합니다. 119B 파라미터의 Mixture of Experts 아키텍처를 사용하며 텍스트 및 이미지 입력을 모두 지원합니다. 오픈소스로 vLLM, llama.cpp, Transformers와 같은 플랫폼에서 사용 가능합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/can-nvidias-dominance-survive-the-sea-change-under-way-in-ai-computing-63c3a70d?st=b6ne5K&reflink=desktopwebshare_permalink&mod=tldr",
+    "title": "Can Nvidia's Dominance Survive the Sea Change Under Way in AI Computing? (6 minute read)",
+    "url": "https://www.wsj.com/tech/ai/can-nvidias-dominance-survive-the-sea-change-under-way-in-ai-computing-63c3a70d?st=b6ne5K&reflink=desktopwebshare_permalink&mod=tldr",
+    "discussion_url": "https://www.wsj.com/tech/ai/can-nvidias-dominance-survive-the-sea-change-under-way-in-ai-computing-63c3a70d?st=b6ne5K&reflink=desktopwebshare_permalink&mod=tldr",
+    "summary": "Nvidia's focus this year at its GTC event shifted to inference, the type of computing required to run models and allow them to respond to user queries. The AI industry is now less concerned with training AI models, which is what GPUs are best at, and more preoccupied with running them and generating profits from end-users. Inference requires different hardware than chips optimized for training. How far ahead the company remains in the AI-infrastructure race will depend largely on how effectively",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "AI 산업의 초점이 AI 모델 훈련에서 추론 및 사용자 수익 창출로 이동하고 있습니다. 추론에는 훈련에 최적화된 칩과 다른 하드웨어가 필요하며, 이는 Nvidia의 AI 인프라 경쟁력을 결정하는 중요한 요소가 될 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
+    "title": "How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (18 minute read)",
+    "url": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
+    "discussion_url": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
+    "summary": "Nvidia Dynamo 1.0 accelerates generative AI and reasoning models in large-scale distributed environments by delivering low-latency, high-throughput distributed inference.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "Nvidia Dynamo 1.0은 대규모 분산 환경에서 생성형 AI 및 추론 모델을 가속화합니다. 이는 낮은 지연 시간과 높은 처리량으로 분산 추론을 제공하여 프로덕션 규모의 AI 워크로드를 지원합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics (6 minute read)",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "discussion_url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "summary": "Open-H-Embodiment is a community‑driven healthcare robotics dataset created for the training and evaluation of AI autonomy and world foundation models for healthcare applications.",
+    "score": 0,
+    "published_at": "2026-03-17T23:34:18+00:00",
+    "ai_summary": "의료 로봇 개발을 위한 커뮤니티 주도형 데이터셋인 Open-H-Embodiment가 공개되었습니다. 이는 의료 애플리케이션의 AI 자율성 및 파운데이션 모델 훈련 및 평가를 목적으로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
