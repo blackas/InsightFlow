@@ -1,0 +1,811 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27625",
+    "title": "Ask GN: AI 사용 방법에 대한 글이 많습니다만, 어떻게 해야하는지 잘 모르겠습니다.",
+    "url": "https://news.hada.io/topic?id=27625",
+    "discussion_url": "https://news.hada.io/topic?id=27625",
+    "summary": "주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.\n<p",
+    "score": 0,
+    "published_at": "2026-03-18T19:35:48+00:00",
+    "ai_summary": "AI를 활용한 자동 설계, 개발, 테스트 워크플로우에 대한 정보는 많지만 실제 작동 여부에 대한 의문이 있습니다.\n다양한 AI 모델을 조합하여 특정 작업에 적합한 모델을 사용하는 방법에 대한 논의도 활발합니다.\n개발자들이 AI를 실제 업무에 어떻게 적용할지 고민하는 현황을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27624",
+    "title": "코드 작성 속도가 문제라고 생각했다면 더 큰 문제가 있다",
+    "url": "https://news.hada.io/topic?id=27624",
+    "discussion_url": "https://news.hada.io/topic?id=27624",
+    "summary": "AI 코딩 도구가 개발 속도를 높인다고 하지만, 실제 병목은 코드 작성이 아닌 조직의 비효율적 프로세스에 있음\n코드 생산량을 늘리면 리뷰 대기, 배포 지연, 불명확한 요구사항 등 비개발 단계의 정체가 심화됨\n\nThe Goal",
+    "score": 0,
+    "published_at": "2026-03-18T19:33:44+00:00",
+    "ai_summary": "AI 코딩 도구가 개발 속도를 높여도 실제 병목은 조직의 비효율적인 프로세스에 있습니다.\n코드 생산량 증가는 리뷰 대기, 배포 지연, 불명확한 요구사항 등의 비개발 단계 정체를 심화시킵니다.\n이는 AI 도입만으로는 해결하기 어려운 근본적인 조직 및 프로세스 문제임을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27622",
+    "title": "Get Shit Done - Claude Code용 메타 프롬프트·컨텍스트 엔지니어링·명세 기반 개발 시스템",
+    "url": "https://news.hada.io/topic?id=27622",
+    "discussion_url": "https://news.hada.io/topic?id=27622",
+    "summary": "Claude Code 및 여러 AI 코딩 런타임에서 명세 기반 개발(spec-driven development) 을 자동화하는 경량 시스템으로, 복잡한 워크플로 없이 프로젝트를 완성하도록 지원\n\n컨텍스트 엔지니어링과 XML 기반 프롬프트 구조화,",
+    "score": 0,
+    "published_at": "2026-03-18T18:36:52+00:00",
+    "ai_summary": "Claude Code 등 AI 코딩 런타임에서 명세 기반 개발을 자동화하는 경량 시스템입니다.\n복잡한 워크플로우 없이 프로젝트 완성을 돕기 위해 컨텍스트 엔지니어링과 XML 기반 프롬프트 구조화를 활용합니다.\nAI를 활용하여 개발 프로세스를 효율화하는 구체적인 방법론과 도구를 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27616",
+    "title": "Mistral AI, Forge 출시",
+    "url": "https://news.hada.io/topic?id=27616",
+    "discussion_url": "https://news.hada.io/topic?id=27616",
+    "summary": "Forge는 기업이 자체 내부 지식 기반의 AI 모델을 구축할 수 있도록 하는 시스템으로, 공공 데이터 중심의 기존 모델 한계를 보완함\n내부 문서, 코드베이스, 운영 데이터 등을 활용해 도메인 특화 모델을 학습시키며, 사전학습·후학습·강화학습 �...",
+    "score": 0,
+    "published_at": "2026-03-18T12:33:25+00:00",
+    "ai_summary": "Mistral AI의 Forge는 기업이 내부 지식 기반으로 AI 모델을 구축할 수 있는 시스템입니다.\n이는 공공 데이터 중심 모델의 한계를 보완하고 도메인 특화 모델 학습을 가능하게 합니다.\n내부 문서, 코드베이스 등을 활용해 맞춤형 AI 개발을 지원합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27613",
+    "title": "오픈 소스 보안 작업은 “특별”하지 않다",
+    "url": "https://news.hada.io/topic?id=27613",
+    "discussion_url": "https://news.hada.io/topic?id=27613",
+    "summary": "핵심 요약\n\n\n보안의 탈신비화: 보안 업무를 특수한 영역으로 치부하는 '보안 예외주의'를 비판하며, 이를 일반적인 엔지니어링 범주 내에서 다뤄야 함을 강조합니다.\n\n리스크 관리의 통합: 보안 사고를 마법 같은 재앙이 아닌, 시스템의 가용성(Availabili...",
+    "score": 0,
+    "published_at": "2026-03-18T07:12:08+00:00",
+    "ai_summary": "이 글은 보안 업무를 특수 영역으로 보는 '보안 예외주의'를 비판하고 일반 엔지니어링으로 다뤄야 함을 강조합니다.\n보안 사고를 마법 같은 재앙이 아닌 시스템 가용성과 관련된 리스크 관리 차원으로 통합해야 합니다.\n개발자가 보안을 일상적인 개발 프로세스의 일부로 인식하고 관리하도록 독려합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27611",
+    "title": "Show GN: 틸노트 - 키워드 하나로 AI가 노트를 써주는 지식관리 도구",
+    "url": "https://news.hada.io/topic?id=27611",
+    "discussion_url": "https://news.hada.io/topic?id=27611",
+    "summary": "안녕하세요. 틸노트를 만들고 있는 wislan입니다.\n2022년에 TIL 노트 앱으로 처음 소개드렸는데, 4년간 많은 변화가 있었습니다. 지금은 AI가 직접 리서치하고 노트를 써주는 지식관리 플랫폼이 되었습니다.\n주요 변화\n\nAI 에이전트: 키워드나 프롬프트를 입력하면 AI가 웹 검색, 노트 검색",
+    "score": 0,
+    "published_at": "2026-03-18T06:03:08+00:00",
+    "ai_summary": "틸노트는 AI가 키워드나 프롬프트 입력 시 웹 검색 및 노트 검색을 통해 직접 노트를 작성해주는 지식관리 플랫폼입니다.\n2022년 TIL 앱에서 발전하여 AI 에이전트를 활용한 리서치 및 문서 작성 기능을 제공합니다.\n개발자들의 지식 정리 및 문서화 생산성을 높이는 데 도움을 줄 수 있는 도구입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27609",
+    "title": "ClawTeam — AI 에이전트를 “팀”으로 만드는 오픈소스",
+    "url": "https://news.hada.io/topic?id=27609",
+    "discussion_url": "https://news.hada.io/topic?id=27609",
+    "summary": "요즘 AI 에이전트는 정말 많습니다.\nCodex, Claude Code, OpenClaw 등… 이제 “혼자 일하는 에이전트”는 흔한 시대입니다.\n그런데 문제는 하나입니다.\n에이전트는 똑똑하지만, 혼자 일한다는 것\n복잡한 작업을 하려면 결국 사람이 여러 에이전트를 붙이고\n컨텍스트를 나누고, 결과",
+    "score": 0,
+    "published_at": "2026-03-18T04:10:33+00:00",
+    "ai_summary": "이 오픈소스는 Codex, Claude Code 등 개별 AI 에이전트의 한계를 극복하기 위해 설계되었습니다.\n단일 에이전트가 복잡한 작업을 처리하기 어려운 문제를 해결하고자 \"팀\"을 구성하여 협업을 지원합니다.\n사람이 여러 에이전트를 붙이고 컨텍스트를 나누는 수고를 덜어, 복잡한 AI 워크플로우를 자동화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27608",
+    "title": "모든 검토 단계가 속도를 10배 늦춘다",
+    "url": "https://news.hada.io/topic?id=27608",
+    "discussion_url": "https://news.hada.io/topic?id=27608",
+    "summary": "조직 내 승인·검토 단계가 늘어날수록 업무 처리 속도가 기하급수적으로 느려지는 구조를 설명하며, 실제로 각 승인 단계가 약 10배씩 지연을 초래함을 사례로 제시\n\nAI 도입이 이 지연 문제를 해결하지 못함을 지적하며, 코드 작성 속도는 빨라져도 검토·승인 과...",
+    "score": 0,
+    "published_at": "2026-03-18T02:33:05+00:00",
+    "ai_summary": "조직 내 승인 및 검토 단계가 증가할수록 업무 처리 속도가 기하급수적으로 느려진다고 지적합니다.\n각 승인 단계가 실제로 약 10배의 지연을 초래하며, AI 도입으로 인한 코드 작성 속도 향상도 이 문제를 해결하지 못합니다.\n코드 작성 외의 검토 및 승인 과정이 주요 병목이며, 조직의 비효율성을 개선해야 함을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27607",
+    "title": "Show GN: AIEndpoint — AI 에이전트가 모든 웹서비스를 즉시 이해할 수 있는 /ai 엔드포인트 오픈 표준",
+    "url": "https://news.hada.io/topic?id=27607",
+    "discussion_url": "https://news.hada.io/topic?id=27607",
+    "summary": "안녕하세요.\nAI와 함께 개발을 진행하면서, 다른 사이트 리뷰 등을 진행하다 보면 금방 토큰이 바닥나 리셋을 기다려야 하는 일이 종종 있었습니다.\n생각해보니, AI는 &quot;사람이 사람의 눈으로 읽을 수 있는 화면을 보고 있지 않을까&quot; 라는 생각이 들더라고요.\n해서 토큰을 줄이고, AI의",
+    "score": 0,
+    "published_at": "2026-03-18T01:58:19+00:00",
+    "ai_summary": "AI 에이전트가 웹 서비스를 효율적으로 이해하도록 돕는 '/ai' 엔드포인트 오픈 표준이 제안되었습니다.\n토큰 사용량을 줄여 AI가 \"사람의 눈으로 읽는 화면\"을 더 잘 분석하도록 합니다.\n이는 AI 통합 개발 및 효율성 개선에 중요한 역할을 할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27606",
+    "title": "Unsloth Studio - 로컬에서 AI 모델을 훈련하고 실행하는 오픈소스 노코드 웹 UI",
+    "url": "https://news.hada.io/topic?id=27606",
+    "discussion_url": "https://news.hada.io/topic?id=27606",
+    "summary": "텍스트, 오디오, 임베딩, 비전 등 다양한 AI 모델의 로컬 실행과 학습을 하나의 인터페이스에서 지원하는 오픈소스 도구\n맥/윈/리눅스에서 GGUF/safetensor 모델을 로컬 실행 가능하며, 학습 시 최대 2배 빠른 속도와 70% 적은 VRAM",
+    "score": 0,
+    "published_at": "2026-03-18T01:46:01+00:00",
+    "ai_summary": "Unsloth Studio는 텍스트, 오디오 등 다양한 AI 모델을 로컬에서 훈련하고 실행하는 오픈소스 노코드 웹 UI입니다.\n최대 2배 빠른 속도와 70% 적은 VRAM을 사용하며, 맥/윈/리눅스에서 GGUF/safetensor 모델을 지원합니다.\nAI 모델 개발 및 로컬 배포에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27605",
+    "title": "Claude Cowork Dispatch - 어디서든 Claude에게 작업시키기",
+    "url": "https://news.hada.io/topic?id=27605",
+    "discussion_url": "https://news.hada.io/topic?id=27605",
+    "summary": "휴대폰이나 데스크톱 어디서든 Claude에게 작업을 지시하면, 데스크톱 컴퓨터의 로컬 파일과 커넥터, 플러그인을 활용해 작업을 수행하고 결과를 메시지로 전달하는 기능\n하나의 지속적인 대화 스레드를 유지하므로, 이전 작업의 컨텍스트를 그대로 이어서 활용 가...",
+    "score": 0,
+    "published_at": "2026-03-18T01:33:02+00:00",
+    "ai_summary": "Claude Cowork Dispatch는 휴대폰/데스크톱에서 Claude에게 작업을 지시하고, 로컬 파일과 플러그인을 활용해 작업을 수행하는 기능입니다.\n지속적인 대화 스레드를 유지하여 이전 작업의 컨텍스트를 활용할 수 있습니다.\nAI 에이전트 개발 및 LLM 통합에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27600",
+    "title": "메타의 20억 달러 연령 인증 기술 로비 배후를 밝혀낸 Reddit 사용자",
+    "url": "https://news.hada.io/topic?id=27600",
+    "discussion_url": "https://news.hada.io/topic?id=27600",
+    "summary": "메타가 비영리 단체 네트워크를 통해 20억 달러를 우회 지원하며, 애플과 구글에 감시 인프라 구축을 강제하는 법안을 추진한 사실이 드러남\n이 법안은 운영체제(OS) 수준의 API를 의무화해 모든 기기에 영구적인 신원 추적 기능을 내장하도록 요구함\n로비...",
+    "score": 0,
+    "published_at": "2026-03-18T00:41:39+00:00",
+    "ai_summary": "메타가 20억 달러를 들여 OS 수준의 API를 의무화하는 연령 인증 법안을 로비한 사실이 레딧 사용자에 의해 폭로되었습니다.\n이 법안은 모든 기기에 영구적인 신원 추적 기능을 내장할 수 있어, 개인 정보 보호와 기술 윤리에 대한 논란을 야기합니다.\n개발자들은 이러한 정책 변화가 프라이버시 및 OS 개발에 미칠 영향에 주목해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27598",
+    "title": "cmux - AI 코딩 에이전트를 위한 Ghostty 기반 macOS용 터미널",
+    "url": "https://news.hada.io/topic?id=27598",
+    "discussion_url": "https://news.hada.io/topic?id=27598",
+    "summary": "네이티브 터미널 앱(Swift &amp; AppKit)으로 Electron 기반 앱보다 빠른 실행 속도와 낮은 메모리 사용량 제공\n\nGhostty 엔진(libghostty) 을 사용, 기존 Ghostty 설정(테마·폰트·색상)을 그대로 사용 가능\n\n세로 탭 UI",
+    "score": 0,
+    "published_at": "2026-03-18T00:31:02+00:00",
+    "ai_summary": "cmux는 AI 코딩 에이전트를 위해 Ghostty 기반으로 개발된 macOS용 네이티브 터미널 앱입니다.\nElectron 앱보다 빠른 실행 속도와 낮은 메모리 사용량을 제공하며, 기존 Ghostty 설정을 그대로 활용할 수 있습니다.\nAI 개발자 및 macOS 사용자를 위한 효율적인 개발 환경을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27597",
+    "title": "OpenAI, GPT‑5.4 Mini 및 Nano 공개",
+    "url": "https://news.hada.io/topic?id=27597",
+    "discussion_url": "https://news.hada.io/topic?id=27597",
+    "summary": "GPT‑5.4의 성능을 빠르고 효율적인 형태로 구현\nGPT‑5.4 mini는 코딩·추론·멀티모달 이해·도구 사용에서 GPT‑5 mini 대비 크게 향상되었으며, 속도는 2배 이상 빠름\nGPT‑5.4 nano는 가장 작고 저렴한 모델로, 분류·데이터 추출·랭킹·보조 코딩 작업에...",
+    "score": 0,
+    "published_at": "2026-03-18T00:22:20+00:00",
+    "ai_summary": "OpenAI가 GPT‑5.4 Mini와 Nano를 공개했습니다. GPT‑5.4 Mini는 코딩, 추론 등에서 성능이 크게 향상되었고, 속도도 2배 이상 빠릅니다.\nGPT‑5.4 Nano는 가장 작고 저렴한 모델로, 분류 및 보조 코딩 작업에 적합하여 AI/LLM 개발자들에게 새로운 활용 가능성을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47432522",
+    "title": "Website to post Claude fuck ups",
+    "url": "https://claudedidwhat.wtf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47432522",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-03-18T23:08:14+00:00",
+    "ai_summary": "이 기사는 Claude AI 모델의 오류나 실패 사례를 공유하는 웹사이트에 대한 내용으로 보입니다.\n이는 Claude 및 LLM을 사용하는 개발자들에게 모델의 한계를 이해하고 디버깅하는 데 유용한 정보를 제공합니다.\nAI 모델의 실용적 측면에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47388658",
+    "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+    "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+    "discussion_url": "https://news.ycombinator.com/item?id=47388658",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-03-15T15:59:09+00:00",
+    "ai_summary": "Nvidia greenboost는 시스템 RAM 또는 NVMe 스토리지를 활용하여 GPU VRAM을 투명하게 확장하는 기술입니다.\n이를 통해 GPU 메모리 제약으로 인해 실행하기 어려웠던 대규모 모델이나 애플리케이션을 효율적으로 처리할 수 있습니다.\n특히 AI/ML, 그래픽스, 고성능 컴퓨팅 분야 개발자들에게 GPU 자원 활용의 유연성을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47422759",
+    "title": "Wander – A tiny, decentralised tool to explore the small web",
+    "url": "https://susam.net/wander/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47422759",
+    "summary": "",
+    "score": 171,
+    "published_at": "2026-03-18T07:43:13+00:00",
+    "ai_summary": "Wander는 분산화된 작은 웹(small web)을 탐색하기 위한 경량 도구입니다.\n주류 웹과 다른 대안적인 인터넷 공간을 발견하고 경험하는 데 초점을 맞춥니다.\n분산 시스템, 웹 프로토콜, 사용자 인터페이스 디자인에 관심 있는 프런트엔드/백엔드 개발자에게 유의미할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47423647",
+    "title": "Rob Pike’s Rules of Programming (1989)",
+    "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47423647",
+    "summary": "",
+    "score": 811,
+    "published_at": "2026-03-18T09:59:54+00:00",
+    "ai_summary": "Rob Pike의 1989년 프로그래밍 규칙은 간결하고 효율적인 소프트웨어 개발을 위한 핵심 원칙들을 제시합니다.\n이 규칙들은 복잡성을 피하고, 명확성을 추구하며, 적절한 추상화를 사용하는 등 시대를 초월하는 지혜를 담고 있습니다.\n모든 수준의 개발자가 더 나은 코드를 작성하고 소프트웨어 디자인 능력을 향상시키는 데 도움을 줄 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47427027",
+    "title": "Nvidia NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "discussion_url": "https://news.ycombinator.com/item?id=47427027",
+    "summary": "",
+    "score": 217,
+    "published_at": "2026-03-18T15:31:07+00:00",
+    "ai_summary": "Nvidia NemoClaw는 대규모 언어 모델(LLM) 개발 및 배포를 위한 Nvidia Nemo 프레임워크의 일부 또는 확장 기능입니다.\nLLM의 훈련, 추론 최적화, 데이터 관리 등 복잡한 과정을 효율적으로 처리하도록 설계되었습니다.\nAI/ML 엔지니어와 LLM 개발자들이 모델 개발 생산성을 높이고 성능을 극대화하는 데 필수적인 도구입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47428650",
+    "title": "Show HN: Will my flight have Starlink?",
+    "url": "https://news.ycombinator.com/item?id=47428650",
+    "discussion_url": "https://news.ycombinator.com/item?id=47428650",
+    "summary": "",
+    "score": 140,
+    "published_at": "2026-03-18T17:29:21+00:00",
+    "ai_summary": "이 \"Show HN\" 프로젝트는 사용자가 특정 항공편에 스타링크(Starlink) 위성 인터넷 서비스가 제공되는지 확인할 수 있는 도구입니다.\n항공 데이터와 스타링크 서비스 정보를 통합하여 사용자에게 유용한 정보를 제공하는 웹 애플리케이션으로 보입니다.\n프런트엔드/백엔드 개발자들에게는 데이터 통합, API 활용, 사용자 경험 디자인 측면에서 참고할 만한 실제 사례가 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47380714",
+    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+    "url": "https://mlbenchmarks.org/00-preface.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47380714",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-03-14T20:15:03+00:00",
+    "ai_summary": "이 책은 머신러닝 벤치마킹의 새로운 과학적 접근 방식과 중요성을 다룹니다.\nML 모델의 성능, 효율성, 공정성 등을 객관적으로 측정하고 비교하는 방법론과 최신 동향을 제시합니다.\nAI/ML 엔지니어, 연구원, 데이터 과학자들에게 모델 평가 및 개선을 위한 필수적인 지식과 통찰력을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47427299",
+    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+    "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47427299",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-03-18T15:50:44+00:00",
+    "ai_summary": "48개의 경량 SVG 배경 이미지를 복사/붙여넣기 방식으로 사용할 수 있도록 만들었습니다.\n웹사이트나 애플리케이션의 시각적 요소를 쉽게 개선할 수 있습니다.\n프론트엔드 개발자와 디자이너에게 유용한 리소스입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47422942",
+    "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+    "url": "https://nightingale.cafe/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47422942",
+    "summary": "",
+    "score": 472,
+    "published_at": "2026-03-18T08:06:24+00:00",
+    "ai_summary": "컴퓨터의 모든 노래와 호환되는 오픈 소스 노래방 앱 'Nightingale'이 공개되었습니다.\n사용자가 로컬 파일을 이용해 노래방을 즐길 수 있도록 설계되었습니다.\n오픈 소스 프로젝트로서 개발자들의 관심과 기여를 유도할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47423694",
+    "title": "2025 Turing award given for quantum information science",
+    "url": "https://awards.acm.org/about/2025-turing",
+    "discussion_url": "https://news.ycombinator.com/item?id=47423694",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-03-18T10:10:01+00:00",
+    "ai_summary": "2025년 튜링 어워드가 양자 정보 과학 분야에 수여될 예정입니다.\n이는 컴퓨터 과학 분야의 중요한 발전과 미래 컴퓨팅 방향을 제시합니다.\n많은 개발자와 연구자들이 관심을 가질 만한 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47427208",
+    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+    "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+    "discussion_url": "https://news.ycombinator.com/item?id=47427208",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-03-18T15:43:19+00:00",
+    "ai_summary": "'Snap'에서 로컬 권한 상승을 루트 계정으로 가능하게 하는 중요한 보안 취약점(CVE-2026-3888)이 발견되었습니다.\n이는 시스템 보안에 심각한 위협이 되므로 즉각적인 패치와 주의가 필요합니다.\n모든 개발자, 특히 리눅스 환경에서 작업하는 이들에게 매우 중요합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47426936",
+    "title": "Machine Payments Protocol (MPP)",
+    "url": "https://stripe.com/blog/machine-payments-protocol",
+    "discussion_url": "https://news.ycombinator.com/item?id=47426936",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-03-18T15:24:12+00:00",
+    "ai_summary": "기계 간 결제 프로토콜(MPP)에 대한 내용입니다.\nIoT, 핀테크 등 자동화된 결제 시스템을 구축하는 개발자에게 중요할 수 있습니다.\n새로운 결제 표준이나 기술 스택에 대한 논의일 가능성이 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47431930",
+    "title": "What's on HTTP?",
+    "url": "https://whatsonhttp.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47431930",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-03-18T21:57:58+00:00",
+    "ai_summary": "HTTP 프로토콜에 대한 분석이나 최신 동향에 관한 내용으로 예상됩니다.\n웹 개발의 핵심 기술이므로 모든 프론트엔드, 백엔드 개발자에게 매우 중요합니다.\nHTTP의 작동 방식, 최적화, 보안 등에 대한 깊은 이해를 제공할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47428868",
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "url": "https://tmux.thijsverreck.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47428868",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-18T17:46:25+00:00",
+    "ai_summary": "Tmux 기반의 오픈 소스 터미널 IDE인 'Tmux-IDE'를 소개하는 글입니다.\n에이전트 우선 방식으로 설계되어 터미널 환경에서 개발 효율성을 극대화합니다.\n터미널 중심의 워크플로우를 선호하는 개발자들에게 매우 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47378781",
+    "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+    "url": "https://huggingface.co/datasets/open-index/hacker-news",
+    "discussion_url": "https://news.ycombinator.com/item?id=47378781",
+    "summary": "",
+    "score": 267,
+    "published_at": "2026-03-14T17:12:03+00:00",
+    "ai_summary": "Hacker News 아카이브를 Parquet 형식으로 제공하며, 4,700만 개 이상의 아이템과 11.6GB 규모의 데이터입니다.\n이 데이터는 5분마다 업데이트되어 최신 정보를 반영합니다.\n데이터 분석가나 개발자가 HN 데이터를 분석하는 데 유용한 리소스입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47423976",
+    "title": "OpenAI Has New Focus (on the IPO)",
+    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47423976",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-03-18T10:49:19+00:00",
+    "ai_summary": "OpenAI가 기업공개(IPO)를 새로운 주요 초점으로 삼고 있다는 소식입니다.\n이는 AI 및 LLM 분야의 선두 기업인 OpenAI의 향후 전략과 사업 방향에 큰 변화를 예고합니다.\n개발 생태계와 AI 기술의 상업화에 영향을 미칠 수 있어 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47426057",
+    "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
+    "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+    "discussion_url": "https://news.ycombinator.com/item?id=47426057",
+    "summary": "",
+    "score": 423,
+    "published_at": "2026-03-18T14:14:02+00:00",
+    "ai_summary": "연방 사이버 전문가들이 여러 의구심에도 불구하고 마이크로소프트 클라우드 서비스를 승인했습니다.\n이는 정부 기관의 클라우드 서비스 도입과 관련된 보안 표준 및 규정 준수에 중요한 의미를 가집니다.\nMicrosoft Azure를 사용하는 개발자나 클라우드 보안 전문가에게 유의미한 정보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47424458",
+    "title": "Measuring progress toward AGI: A cognitive framework",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47424458",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-03-18T11:44:44+00:00",
+    "ai_summary": "AGI(범용 인공지능) 발전 측정을 위한 새로운 인지적 프레임워크를 다루는 기사입니다.\n이는 AI/ML 연구 및 개발의 핵심 주제로, AGI의 개념적 이해와 진행 상황 평가에 중요한 기여를 합니다.\nAI 분야의 연구자 및 첨단 AI 기술을 개발하는 개발자들에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47426932",
+    "title": "Death to Scroll Fade",
+    "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47426932",
+    "summary": "",
+    "score": 337,
+    "published_at": "2026-03-18T15:23:58+00:00",
+    "ai_summary": "스크롤 페이드(scroll fade)와 같은 특정 UI/UX 디자인 패턴에 대한 비판이나 개선 방안을 논의할 것으로 보입니다.\n프론트엔드 개발자나 UI 디자이너에게 직접적인 관련성이 있으며, 사용자 경험 개선에 초점을 맞춥니다.\n웹 및 앱의 시각적 요소와 상호작용 디자인에 대한 실용적인 내용을 담을 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47425918",
+    "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+    "url": "https://github.com/joaoh82/rustunnel",
+    "discussion_url": "https://news.ycombinator.com/item?id=47425918",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-03-18T14:00:43+00:00",
+    "ai_summary": "Rust로 구현된 오픈 소스 ngrok 스타일 보안 터널 서버에 대한 내용입니다.\n로컬 개발 환경에서 외부 접속이 필요한 서비스를 안전하게 노출할 때 유용합니다.\n개발자의 생산성과 네트워크 보안을 동시에 강화하는 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47422228",
+    "title": "Celebrating Tony Hoare's mark on computer science",
+    "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47422228",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-03-18T06:31:14+00:00",
+    "ai_summary": "퀵 정렬, 호어 논리 등으로 컴퓨터 과학에 큰 발자취를 남긴 토니 호어의 업적을 기립니다.\n그의 이론들은 현대 프로그래밍 언어와 시스템 설계의 기초가 되었습니다.\n개발자들에게 컴퓨터 과학의 근본 원리와 역사를 이해하는 데 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/forge",
+    "title": "Mistral Unveiled Forge (6 minute read)",
+    "url": "https://mistral.ai/news/forge",
+    "discussion_url": "https://mistral.ai/news/forge",
+    "summary": "Mistral Forge is a platform for enterprises and governments to build custom AI models trained from scratch on their own data. The company positions it as a more controlled alternative to fine-tuning and RAG, with support for domain-specific training, reinforcement learning, and reduced dependence on third-party model providers.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Mistral Forge는 기업과 정부가 자체 데이터를 기반으로 맞춤형 AI 모델을 구축하는 플랫폼입니다. 파인튜닝과 RAG의 대안으로, 도메인 특화 훈련 및 강화 학습을 지원하여 써드파티 모델 의존도를 줄입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2034028065513451594.html",
+    "title": "Aristotle Agent (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2034028065513451594.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2034028065513451594.html",
+    "summary": "Aristotle Agent is an autonomous mathematician that can solve and formalize the world's most challenging mathematical research problems. It is fully agentic and can produce repo-quality code. Aristotle Agent can autonomously prove/formalize for up to 24 hrs without human intervention. It is now live on web, CLI, and API, currently free of charge.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Aristotle Agent는 가장 어려운 수학 연구 문제를 해결하고 형식화할 수 있는 자율적인 수학자 AI입니다. 인간 개입 없이 최대 24시간 동안 증명/형식화할 수 있으며, 고품질 코드를 생성합니다. 현재 웹, CLI, API로 무료 제공됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+    "title": "GPT‑5.4 Mini and Nano (4 minute read)",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+    "discussion_url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+    "summary": "OpenAI released GPT‑5.4 mini and nano, smaller models designed for high‑volume workloads with faster speeds and lower cost. GPT‑5.4 mini improves substantially over GPT‑5 mini and approaches the larger GPT‑5.4 model on some benchmarks, while GPT‑5.4 nano targets lightweight tasks like classification, extraction, and ranking.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "OpenAI가 고볼륨 워크로드에 최적화된 작고 빠르며 저렴한 GPT-5.4 mini 및 nano 모델을 출시했습니다. mini는 이전 모델 대비 크게 개선되었으며, nano는 분류, 추출 등 경량 작업에 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/MilksandMatcha/status/2033971089853059414",
+    "title": "How to Stop Your Autoresearch Loop from Cheating (4 minute read)",
+    "url": "https://x.com/MilksandMatcha/status/2033971089853059414",
+    "discussion_url": "https://x.com/MilksandMatcha/status/2033971089853059414",
+    "summary": "Experiments with the autoresearch framework show that environment design and strict validation gates are more critical than model choice for preventing agent drift. While independent models discovered identical optimizations in structured landscapes, the primary bottlenecks remain infrastructure failures and GPU costs from rejected proposals.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "자동 연구 프레임워크 실험에 따르면, 에이전트 드리프트를 방지하는 데 모델 선택보다 환경 설계와 엄격한 검증 게이트가 더 중요합니다. 주요 병목 현상으로는 인프라 실패와 GPU 비용이 지적됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/trq212/status/2033949937936085378",
+    "title": "Building Claude Code: How We Use Skills (4 minute read)",
+    "url": "https://x.com/trq212/status/2033949937936085378",
+    "discussion_url": "https://x.com/trq212/status/2033949937936085378",
+    "summary": "Anthropic's internal framework treats AI \"skills\" as functional folders containing scripts and assets rather than static text, using the file system for context engineering. Nine core categories emerged, with product verification and \"Gotchas\" sections identified as the highest-leverage components for improving output reliability. This shift toward progressive disclosure allows agents to fetch specific data and runbooks only when needed, reducing context noise and error rates.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Anthropic은 AI '기술'을 정적 텍스트 대신 스크립트와 자산을 포함하는 기능적 폴더로 취급하며, 파일 시스템을 컨텍스트 엔지니어링에 활용합니다. 이 접근 방식은 필요한 경우에만 데이터를 가져와 컨텍스트 노이즈와 오류율을 줄여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://unsloth.ai/docs/new/studio",
+    "title": "Introducing Unsloth Studio (7 minute read)",
+    "url": "https://unsloth.ai/docs/new/studio",
+    "discussion_url": "https://unsloth.ai/docs/new/studio",
+    "summary": "Unsloth Studio is a no-code web UI for training, running, and exporting open models. It allows users to run GGUF and safe tensor models locally on Mac, Windows, and Linux, and run and train text, vision, TTS audio, and embedding models. The studio can auto-create data sets from PDF, CSV, JSON, DOCX, and TXT files. A video tutorial on how to get started with Unsloth Studio is available.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Unsloth Studio는 오픈 모델 훈련, 실행, 내보내기를 위한 노코드 웹 UI입니다. 로컬에서 다양한 모델을 실행하고 훈련할 수 있으며, PDF 등 여러 파일 형식에서 데이터셋을 자동 생성하는 기능을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/hustvl/MoDA",
+    "title": "Mixture‑of‑Depths Attention (GitHub Repo)",
+    "url": "https://github.com/hustvl/MoDA",
+    "discussion_url": "https://github.com/hustvl/MoDA",
+    "summary": "MoDA introduces a new attention mechanism that lets each head access both current‑layer and earlier‑layer key‑value pairs, helping preserve useful signals as models scale deeper.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "MoDA는 각 어텐션 헤드가 현재 계층과 이전 계층의 키-값 쌍에 모두 접근할 수 있게 하는 새로운 어텐션 메커니즘입니다. 이는 모델이 깊어질수록 유용한 신호를 보존하는 데 기여합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/self-summarization",
+    "title": "Cursor Trains Models to Self‑Summarize Context (9 minute read)",
+    "url": "https://cursor.com/blog/self-summarization",
+    "discussion_url": "https://cursor.com/blog/self-summarization",
+    "summary": "Cursor described how its Composer model learns to summarize its own context during long coding sessions, compressing earlier steps into shorter representations to extend effective working memory. The trained behavior improves performance on multi‑step programming tasks while keeping token usage manageable.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Cursor의 Composer 모델은 긴 코딩 세션 동안 자체 컨텍스트를 요약하여 효과적인 작업 메모리를 확장하는 방법을 학습합니다. 이 동작은 토큰 사용량을 관리하면서 다단계 프로그래밍 작업 성능을 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "title": "Measuring progress toward AGI: A cognitive framework (3 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "summary": "Google DeepMind released a paper outlining a cognitive taxonomy to measure AI progress toward AGI, identifying 10 key cognitive abilities like perception, learning, and reasoning. It proposes a three-stage evaluation protocol comparing AI performance to human benchmarks. A Kaggle hackathon, with a $200,000 prize pool, invites researchers to develop evaluations for five under-assessed abilities, using a new Community Benchmarks platform.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Google DeepMind는 AGI 진행 상황 측정을 위한 인지 분류법을 제시했으며, 지각, 학습, 추론 등 10가지 인지 능력을 식별합니다. AI 성능을 인간 벤치마크와 비교하는 3단계 평가 프로토콜을 제안하며, 20만 달러 상금의 Kaggle 해커톤에서 새로운 평가 플랫폼을 통해 AI 평가 개발자를 모집합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2034005731457044577.html",
+    "title": "Dispatch (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2034005731457044577.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2034005731457044577.html",
+    "summary": "Dispatch is a mobile app that pairs with Claude Desktop, allowing users to message the assistant and run tasks from their mobile devices.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Dispatch는 Claude Desktop과 연동되는 모바일 앱으로, 사용자는 모바일 기기에서 AI 비서에게 메시지를 보내고 작업을 실행할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/comet-enterprise-is-here",
+    "title": "Comet Enterprise AI Browser (3 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/comet-enterprise-is-here",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/comet-enterprise-is-here",
+    "summary": "Comet Enterprise is a team-ready version of Perplexity's AI browser with governance, deployment tools, and security controls for organizations.",
+    "score": 0,
+    "published_at": "2026-03-18T23:31:51+00:00",
+    "ai_summary": "Comet Enterprise는 Perplexity의 AI 브라우저의 팀용 버전입니다. 이 브라우저는 조직을 위한 거버넌스, 배포 도구 및 보안 제어 기능을 포함합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  }
+]
