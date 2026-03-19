@@ -1,0 +1,784 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27654",
+    "title": "OpenAI, IPO에 새 초점",
+    "url": "https://news.hada.io/topic?id=27654",
+    "discussion_url": "https://news.hada.io/topic?id=27654",
+    "summary": "OpenAI가 내부 혼란을 정리하고 기업공개(IPO) 준비에 집중하고 있음\n\nAnthropic, OpenAI, SpaceX(xAI) 세 미국 AI 기업이 상장 경쟁 중이며, 시장에서 자금 확보 속도가 핵심 변수로 지적됨\nOpenAI는 Sora, Atlas, 하드웨어, ...",
+    "score": 0,
+    "published_at": "2026-03-19T21:37:55+00:00",
+    "ai_summary": "OpenAI가 IPO 준비에 집중하며 Anthropic, xAI 등과 상장 경쟁 중입니다.\n시장 자금 확보 속도가 핵심 변수이며, Sora, Atlas, 하드웨어 등으로 사업 확장을 모색합니다.\n주요 AI 기업의 재정적 움직임은 전반적인 AI 산업 생태계와 개발자 채용 시장에 영향을 미칩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27653",
+    "title": "Snowflake AI가 샌드박스를 탈출해 악성코드를 실행함",
+    "url": "https://news.hada.io/topic?id=27653",
+    "discussion_url": "https://news.hada.io/topic?id=27653",
+    "summary": "Snowflake의 Cortex Code CLI에서 명령 검증 취약점이 발견되어, 공격자가 샌드박스 밖에서 임의 명령을 실행할 수 있었음\n공격은 간접 프롬프트 인젝션을 통해 유도되며, 사용자의 승인 절차를 우회해 악성 스크립트를 다운로드하고 실행함...",
+    "score": 0,
+    "published_at": "2026-03-19T21:34:55+00:00",
+    "ai_summary": "Snowflake의 Cortex Code CLI에서 명령 검증 취약점이 발견되었습니다.\n공격자는 간접 프롬프트 인젝션을 통해 샌드박스 외부에서 임의 명령을 실행할 수 있었습니다.\n이는 클라우드 AI 서비스 사용 시 보안 취약점과 잠재적 위험성에 대한 경각심을 높입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27649",
+    "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
+    "url": "https://news.hada.io/topic?id=27649",
+    "discussion_url": "https://news.hada.io/topic?id=27649",
+    "summary": "WezTerm을 기반으로 깊이 커스터마이징한 macOS 전용 터미널입니다. Pake, Mole 등으로 유명한 개발자 tw93이 만들었고, 설치 직후부터 별도 설정 없이 바로 쓸 수 있는 경험에 집중했습니다.\n주요 특징\n\n\nZero Config: JetBrains Mono 폰트, opencode 테마, m",
+    "score": 0,
+    "published_at": "2026-03-19T15:29:12+00:00",
+    "ai_summary": "AI 코딩을 위해 설계된 빠르고 편리한 macOS 전용 터미널 'Kaku'가 출시되었습니다.\nWezTerm 기반으로 tw93 개발자가 제작했으며, JetBrains Mono 폰트, opencode 테마 등 최적화된 환경을 제공합니다.\n제로 설정으로 바로 사용할 수 있어 개발 생산성 향상에 기여할 수 있는 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27647",
+    "title": "AI 코딩은 도박이다",
+    "url": "https://news.hada.io/topic?id=27647",
+    "discussion_url": "https://news.hada.io/topic?id=27647",
+    "summary": "AI 코딩 도구의 즉각적 결과 생성 능력은 인상적이지만, 세부 구현과 시스템 구성 요소의 완성도는 여전히 부족함\n개발 과정이 ‘생각과 작성’의 균형에서 벗어나, AI에 사고를 위임하고 최소한의 코드만 작성하는 형태로 변함\n이러한 행위는 ‘...",
+    "score": 0,
+    "published_at": "2026-03-19T12:33:55+00:00",
+    "ai_summary": "AI 코딩 도구의 즉각적 결과는 인상적이지만, 세부 구현과 시스템 완성도는 부족합니다.\n개발 과정에서 AI에 사고를 위임하게 되어 '생각과 작성'의 균형이 무너질 수 있습니다.\n이러한 과도한 의존은 기술 부채와 예측 불가능한 결과를 초래할 수 있어 주의가 필요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27640",
+    "title": "Claude Code를 만들며 배운 것: 우리가 Skills를 사용하는 방법",
+    "url": "https://news.hada.io/topic?id=27640",
+    "discussion_url": "https://news.hada.io/topic?id=27640",
+    "summary": "클로드 코드에서 Skills는 가장 많이 사용되는 확장 포인트 중 하나로, Anthropic 내부에서 수백 개의 스킬을 실제로 운용하며 축적한 실전 노하우를 공개\n스킬은 단순 마크다운 파일이 아니라 스크립트, 에셋, 데이터 등을 포함하는 폴더 구조이며, 에이전트가 탐...",
+    "score": 0,
+    "published_at": "2026-03-19T02:09:01+00:00",
+    "ai_summary": "Anthropic은 Claude Code 개발 중 'Skills'를 활용한 노하우를 공개했습니다.\nSkills는 에이전트의 주요 확장 포인트로, 스크립트, 에셋 등을 포함하는 폴더 구조로 에이전트가 탐색합니다.\n이는 LLM 기반 애플리케이션 개발자가 에이전트 기능을 확장하고 관리하는 데 유용한 실전 가이드가 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27637",
+    "title": "Linear MCP 서버를 CLI와 Agent Skill로 다시 만들었습니다",
+    "url": "https://news.hada.io/topic?id=27637",
+    "discussion_url": "https://news.hada.io/topic?id=27637",
+    "summary": "CLI 도구(python) 하나로 Linear API 전체를 감싸는 Agent Skill을 만들었습니다. .env에 API 키 넣으면 끝이고, Agent가 SKILL.md 읽고 알아서 실행합니다. 사람이 커맨드를 외울 필요 없습니다.\nCLI 출력도 AI Agent만 읽는다고 가정하고 최대한 최적화했습니다.\nClaude Code 말고도 Cursor, Gemini",
+    "score": 0,
+    "published_at": "2026-03-19T01:26:10+00:00",
+    "ai_summary": "Linear API를 Python CLI와 Agent Skill로 재구축하여 Agent 중심의 개발 흐름을 소개합니다.\n.env에 API 키만 넣으면 에이전트가 SKILL.md를 읽고 자동으로 실행하여 커맨드 암기가 불필요합니다.\nAI Agent가 최적화된 CLI 출력을 읽고 처리하여 개발자의 작업 효율성을 높일 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27636",
+    "title": "AI 에이전트 프로토콜 개발자 가이드",
+    "url": "https://news.hada.io/topic?id=27636",
+    "discussion_url": "https://news.hada.io/topic?id=27636",
+    "summary": "MCP, A2A, UCP, AP2, A2UI, AG-UI 등 6가지 AI 에이전트 프로토콜을 하나의 레스토랑 공급망 에이전트 시나리오로 묶어, 각 프로토콜이 해결하는 문제를 실전 코드와 함께 단계별로 설명하는 가이드\nGoogle의 Agent Development Kit(ADK) 를 활용해 빈 LLM에서 출발...",
+    "score": 0,
+    "published_at": "2026-03-19T01:05:02+00:00",
+    "ai_summary": "6가지 AI 에이전트 프로토콜(MCP, A2A 등)을 다루는 상세한 개발자 가이드입니다.\n레스토랑 공급망 시나리오를 통해 각 프로토콜이 해결하는 문제를 실전 코드와 함께 설명합니다.\nGoogle ADK를 활용하여 LLM에서 에이전트를 구축하는 단계별 방법을 제시, AI 에이전트 개발자에게 필수적입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27635",
+    "title": "Google의 AI 네이티브 &quot;바이브 디자인&quot; 플랫폼, Stitch 공개",
+    "url": "https://news.hada.io/topic?id=27635",
+    "discussion_url": "https://news.hada.io/topic?id=27635",
+    "summary": "Google Labs가 자연어를 고품질 UI 디자인으로 변환하는 AI 네이티브 소프트웨어 디자인 캔버스로 Stitch를 전면 재구성\n와이어프레임 없이 비즈니스 목표나 사용자 경험을 설명하면 디자인이 생성되는 &quot;바이브 디자인(vibe design)&quot; 개념 도입",
+    "score": 0,
+    "published_at": "2026-03-19T01:04:01+00:00",
+    "ai_summary": "Google Labs가 AI 네이티브 소프트웨어 디자인 플랫폼 'Stitch'를 공개했습니다.\n자연어 설명을 통해 고품질 UI 디자인을 생성하는 '바이브 디자인' 개념을 도입합니다.\n와이어프레임 없이 비즈니스 목표만으로 디자인이 생성되어 프론트엔드 개발 및 UI/UX 디자인 프로세스에 혁신을 가져올 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27633",
+    "title": "연방 사이버 보안 전문가들이 의심에도 불구하고 Microsoft 클라우드 서비스를 승인함",
+    "url": "https://news.hada.io/topic?id=27633",
+    "discussion_url": "https://news.hada.io/topic?id=27633",
+    "summary": "미국 정부의 FedRAMP 프로그램이 보안 우려에도 불구하고 Microsoft의 Government Community Cloud High(GCC High) 서비스를 승인함\n내부 평가 보고서에서는 “전체 보안 상태를 평가할 자신이 없다” 고 명시되었으며, 일부 검토자는 시스템을 “...",
+    "score": 0,
+    "published_at": "2026-03-19T00:47:14+00:00",
+    "ai_summary": "미국 정부 FedRAMP 프로그램이 보안 우려에도 불구하고 Microsoft GCC High 서비스를 승인했습니다.\n내부 평가 보고서에서는 \"전체 보안 상태를 평가할 자신이 없다\"는 의견에도 불구하고 결정이 이루어졌습니다.\n이는 정부 클라우드 서비스의 보안 및 규제 준수에 대한 논란과 개발자들의 주의를 요구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27629",
+    "title": "소프트웨어 엔지니어를 위한 Codex",
+    "url": "https://news.hada.io/topic?id=27629",
+    "discussion_url": "https://news.hada.io/topic?id=27629",
+    "summary": "OpenAI가 직접 공개한 개발자용 Codex 강의 웨비나 영상 (58분)\n\nCodex는 코드 완성이나 페어 프로그래밍을 넘어, 엔지니어가 대규모 작업을 에이전트에게 위임할 수 있도록 설계된 코딩 에이전트 플랫폼\nCodex 앱, CLI, IDE 확장 등 다양한 인터...",
+    "score": 0,
+    "published_at": "2026-03-19T00:32:02+00:00",
+    "ai_summary": "OpenAI가 소프트웨어 엔지니어를 위한 Codex 강의 웨비나 영상을 공개했습니다.\nCodex는 코드 완성 및 페어 프로그래밍을 넘어 대규모 작업을 에이전트에게 위임하는 플랫폼입니다.\n이 플랫폼은 앱, CLI, IDE 확장 등 다양한 형태로 개발자의 생산성 향상에 초점을 맞춥니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47445599",
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "url": "https://github.com/cockpit-project/cockpit",
+    "discussion_url": "https://news.ycombinator.com/item?id=47445599",
+    "summary": "",
+    "score": 124,
+    "published_at": "2026-03-19T20:33:02+00:00",
+    "ai_summary": "Cockpit은 서버 관리를 위한 웹 기반의 그래픽 인터페이스 도구입니다.\n이 도구는 시스템 관리자가 터미널 명령어 없이도 서버를 쉽게 모니터링하고 설정할 수 있도록 돕습니다.\n개발 및 운영 환경에서 서버 관리를 간소화하여 생산성 향상에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47438723",
+    "title": "Astral to Join OpenAI",
+    "url": "https://astral.sh/blog/openai",
+    "discussion_url": "https://news.ycombinator.com/item?id=47438723",
+    "summary": "",
+    "score": 1158,
+    "published_at": "2026-03-19T13:05:50+00:00",
+    "ai_summary": "\"Astral\"이 OpenAI에 합류한다는 소식입니다.\n이는 AI 산업 내 주요 기업의 인수합병 동향을 보여주며, 관련 기술 스택 및 개발 방향에 영향을 줄 수 있습니다.\nOpenAI의 역량 확장과 미래 제품 및 서비스 개발에 대한 기대감을 높입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47442690",
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47442690",
+    "summary": "",
+    "score": 402,
+    "published_at": "2026-03-19T17:16:04+00:00",
+    "ai_summary": "Google이 검증되지 않은 안드로이드 앱을 사이드로드하는 새로운 24시간 프로세스를 발표했습니다.\n이는 안드로이드 앱 개발자들에게 앱 배포 및 테스트 방식에 대한 변화를 의미합니다.\n사용자 보안과 개발자 편의성 사이의 균형을 맞추려는 구글의 노력이 엿보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47406160",
+    "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+    "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+    "discussion_url": "https://news.ycombinator.com/item?id=47406160",
+    "summary": "",
+    "score": 209,
+    "published_at": "2026-03-16T22:56:13+00:00",
+    "ai_summary": "게임 \"Return of the Obra Dinn\"의 독특한 시각 효과 구현 방식에 대한 내용입니다.\n1bpp(비트당 픽셀) 그래픽을 위한 구형 매핑 디더링 기법을 상세히 다룹니다.\n그래픽스 프로그래밍, 게임 개발, 그리고 독창적인 렌더링 기술에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47446373",
+    "title": "Be intentional about how AI changes your codebase",
+    "url": "https://aicode.swerdlow.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=47446373",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-03-19T21:23:24+00:00",
+    "ai_summary": "AI 기술이 코드베이스에 미치는 영향을 신중하게 고려해야 한다는 조언입니다.\n개발 과정에서 AI 도구를 도입하고 활용할 때 의도적인 접근 방식의 중요성을 강조합니다.\n이는 AI 시대에 코드 품질, 유지보수성, 그리고 개발 문화 관리에 대한 개발자의 고민을 다룹니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47441546",
+    "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "discussion_url": "https://news.ycombinator.com/item?id=47441546",
+    "summary": "",
+    "score": 285,
+    "published_at": "2026-03-19T15:56:06+00:00",
+    "ai_summary": "새로운, 매우 컴팩트한 Text-to-Speech(TTS) 모델인 Kitten 모델 3가지가 공개되었습니다.\n가장 작은 모델은 25MB 미만으로, 온디바이스 및 저사양 환경에 적합합니다.\n개발자들은 이를 활용하여 다양한 음성 인터페이스를 구현할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47446021",
+    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+    "url": "https://esolang-bench.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47446021",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-03-19T21:01:03+00:00",
+    "ai_summary": "LLM의 진정한 추론 능력을 평가하기 위한 새로운 벤치마크인 EsoLang-Bench가 소개되었습니다.\n이 벤치마크는 난해한 프로그래밍 언어를 사용하여 LLM의 복잡한 논리 이해를 테스트합니다.\n이는 LLM 개발자들이 모델의 한계를 파악하고 개선하는 데 도움을 줄 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47443588",
+    "title": "Noq: n0's new QUIC implementation in Rust",
+    "url": "https://www.iroh.computer/blog/noq-announcement",
+    "discussion_url": "https://news.ycombinator.com/item?id=47443588",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-03-19T18:17:15+00:00",
+    "ai_summary": "n0가 Rust 언어로 구현한 새로운 QUIC 프로토콜 구현체 'Noq'를 공개했습니다.\nNoq는 고성능과 신뢰성을 목표로 하며, 최신 네트워크 기술 스택에 대한 깊은 이해를 요구합니다.\n백엔드 및 네트워크 개발자들에게 유용할 새로운 저수준 라이브러리가 될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47444460",
+    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+    "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47444460",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-03-19T19:18:25+00:00",
+    "ai_summary": "이 기사는 UDP 프로토콜을 오실로스코프부터 Wireshark까지 다양한 도구를 사용하여 탐구합니다.\n저수준 네트워크 통신의 원리를 이해하고 디버깅하는 과정을 상세히 설명합니다.\n백엔드 및 네트워크 관련 개발자들이 네트워크 스택을 깊이 이해하는 데 매우 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47444072",
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "url": "https://qlabs.sh/10x",
+    "discussion_url": "https://news.ycombinator.com/item?id=47444072",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-03-19T18:51:25+00:00",
+    "ai_summary": "NanoGPT의 \"Slowrun\" 방식을 통해 데이터 효율성을 10배 향상시키는 방법론을 제시합니다.\n이는 무한한 컴퓨팅 자원을 가정했을 때, 더 적은 데이터로도 모델 성능을 높일 수 있음을 시사합니다.\nLLM 훈련 및 최적화에 관심 있는 개발자들에게 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47437655",
+    "title": "“Your frustration is the product”",
+    "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+    "discussion_url": "https://news.ycombinator.com/item?id=47437655",
+    "summary": "",
+    "score": 384,
+    "published_at": "2026-03-19T11:34:24+00:00",
+    "ai_summary": "사용자의 불만을 해결하는 것이 제품 개발의 핵심 원동력이라는 철학을 다룹니다.\n개발자가 문제 해결에 집중하고 사용자의 고통 지점을 제품으로 전환하는 중요성을 강조합니다.\n이는 제품 기획 및 개발 과정에서 사용자와 시장에 대한 깊은 이해를 요구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47442452",
+    "title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+    "url": "https://news.ycombinator.com/item?id=47442452",
+    "discussion_url": "https://news.ycombinator.com/item?id=47442452",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-03-19T16:57:02+00:00",
+    "ai_summary": "Y Combinator에 선정된 스타트업 Voltair가 전력회사용 드론 및 충전 네트워크를 출시했습니다.\n이들은 드론을 활용하여 전력 인프라 검사 및 유지보수 효율을 극대화하는 솔루션을 제공합니다.\n항공 기술, IoT, 그리고 에너지 분야의 융합을 통해 산업 자동화를 추진합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47402687",
+    "title": "My Random Forest Was Mostly Learning Time-to-Expiry Noise",
+    "url": "https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random",
+    "discussion_url": "https://news.ycombinator.com/item?id=47402687",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-03-16T18:16:26+00:00",
+    "ai_summary": "작성자의 랜덤 포레스트 모델이 실제 패턴보다 데이터의 만료 시간 노이즈를 학습했음을 발견했습니다.\n이는 ML 모델 개발 시 피처 엔지니어링과 데이터 전처리 단계의 중요성을 강조합니다.\n모델이 의도치 않은 패턴을 학습하지 않도록 면밀한 검증과 디버깅이 필요함을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47442435",
+    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+    "url": "https://blog.skypilot.co/scaling-autoresearch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47442435",
+    "summary": "",
+    "score": 106,
+    "published_at": "2026-03-19T16:55:45+00:00",
+    "ai_summary": "안드레이 카르파티의 자율 연구(Autoresearch) 개념을 GPU 클러스터 환경에서 확장하는 내용을 다룹니다.\nAI 에이전트가 대규모 컴퓨팅 자원을 활용하여 연구 과정을 자동화하고 가속화하는 방안을 탐구합니다.\n이는 AI의 발전과 함께 컴퓨팅 인프라의 중요성, 그리고 미래 연구 방식에 대한 함의를 제시합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47438675",
+    "title": "Juggalo makeup blocks facial recognition technology (2019)",
+    "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47438675",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-03-19T13:02:35+00:00",
+    "ai_summary": "2019년 기사로, 저글로 메이크업이 안면 인식 기술을 방해하는 효과가 있음을 다룹니다.\n이는 안면 인식 시스템의 취약점과 우회 가능성을 시사하며, 보안 및 프라이버시 문제에 대한 논의를 촉발합니다.\nAI/ML 기술의 발전과 함께 그에 대한 대응책 또는 방어 기술의 중요성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47439320",
+    "title": "OpenBSD: PF queues break the 4 Gbps barrier",
+    "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
+    "discussion_url": "https://news.ycombinator.com/item?id=47439320",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-03-19T13:43:26+00:00",
+    "ai_summary": "OpenBSD의 Packet Filter(PF)가 큐(queues) 개선을 통해 4Gbps 처리량 장벽을 돌파했습니다.\n이는 OpenBSD 시스템의 네트워크 성능 향상과 고속 트래픽 처리에 대한 중요성을 강조합니다.\n저수준 네트워킹 및 운영체제 개발자들에게 직접적인 영향을 미치는 기술 발전 소식입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47445175",
+    "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+    "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47445175",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-03-19T20:09:02+00:00",
+    "ai_summary": "테슬라 FSD(완전 자율 주행) 시스템의 성능 저하 감지 시스템에 결함이 발생했음을 다룹니다.\n이는 자율 주행 기술의 안전성과 신뢰성을 확보하기 위한 정교한 모니터링 및 진단 시스템의 중요성을 부각합니다.\nAI/ML 기반 시스템의 예측 불가능한 오류와 안전 엔지니어링의 필요성을 강조합니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47446211",
+    "title": "The Need for an Independent AI Grid",
+    "url": "https://amppublic.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47446211",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-03-19T21:13:40+00:00",
+    "ai_summary": "AI 컴퓨팅 자원이 소수 거대 기업에 집중된 현상을 지적하며 독립적인 AI 그리드의 필요성을 강조합니다.\n분산되고 개방적인 AI 인프라가 혁신을 촉진하고 독점을 방지할 수 있다고 주장합니다.\n미래 AI 발전을 위해 개방형 표준과 공유 인프라 구축을 역설합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47442834",
+    "title": "An update on Steam / GOG changes for OpenTTD",
+    "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+    "discussion_url": "https://news.ycombinator.com/item?id=47442834",
+    "summary": "",
+    "score": 244,
+    "published_at": "2026-03-19T17:27:17+00:00",
+    "ai_summary": "오픈 소스 게임 OpenTTD가 Steam 및 GOG 플랫폼의 변경사항에 맞춰 업데이트를 진행합니다.\n새로운 배포 정책과 기술적 요구사항에 대응하며 게임의 지속적인 접근성을 유지하려 합니다.\n이는 오픈 소스 프로젝트의 플랫폼 전략 및 유지보수 중요성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47447317",
+    "title": "Minecraft Source Code Is Interesting",
+    "url": "https://www.karanjanthe.me/posts/minecraft-source/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47447317",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-03-19T22:33:08+00:00",
+    "ai_summary": "인기 게임 마인크래프트의 소스 코드를 분석하며 개발자들이 배울 만한 흥미로운 구현 방식과 구조를 조명합니다.\n오래된 코드베이스가 어떻게 진화하고 유지되는지 기술적 관점에서 설명합니다.\n이는 게임 개발 및 소프트웨어 아키텍처에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47445361",
+    "title": "Android developer verification: Balancing openness and choice with safety",
+    "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47445361",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-03-19T20:19:59+00:00",
+    "ai_summary": "안드로이드가 개발자 확인 절차를 강화하여 플랫폼의 개방성을 유지하면서도 사용자 안전을 확보하려 합니다.\n악성 앱으로부터 사용자를 보호하고 앱 생태계의 신뢰도를 높이는 것이 주된 목적입니다.\n개발자들은 새로운 검증 요건에 맞춰 앱 제출을 준비해야 할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47440759",
+    "title": "macOS 26 breaks custom DNS settings including .internal",
+    "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+    "discussion_url": "https://news.ycombinator.com/item?id=47440759",
+    "summary": "",
+    "score": 301,
+    "published_at": "2026-03-19T15:06:58+00:00",
+    "ai_summary": "macOS 26 업데이트 후 '.internal' 도메인을 포함한 사용자 정의 DNS 설정이 오작동하는 문제가 발생했습니다.\n이는 개발 환경 및 기업 내부 네트워크 접근에 심각한 영향을 미칠 수 있습니다.\n애플은 이 문제를 빠르게 해결하기 위한 패치 또는 해결책을 제공해야 할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/",
+    "title": "MiniMax launches M2.7 model on MiniMax Agent and APIs (1 minute read)",
+    "url": "https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/",
+    "discussion_url": "https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/",
+    "summary": "MiniMax's M2.7 model is now publicly available via the MiniMax Agent and the MiniMax API Platform. It supports complex workflows in software engineering, office productivity, and research environments. The model features capabilities like autonomous debugging and research agent harnesses. MiniMax's release marks a shift towards models that participate in their own evolution.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "MiniMax의 M2.7 모델이 MiniMax Agent 및 API 플랫폼을 통해 공식 출시되었습니다.",
+      "이 모델은 소프트웨어 엔지니어링, 사무 생산성 등 복잡한 워크플로우를 지원하며, 자율 디버깅 및 연구 에이전트 기능을 포함합니다.",
+      "이는 모델 스스로 진화에 참여하는 방향으로의 전환을 의미합니다."
+    ],
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
+    "title": "How China is getting everyone on OpenClaw, from gearheads to grandmas (4 minute read)",
+    "url": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
+    "discussion_url": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
+    "summary": "China aggressively promotes OpenClaw, a popular AI assistant, through public events organized by major tech firms like Baidu and Tencent. This AI tool enables personal automation, supporting China's vision for widespread AI integration by 2030.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "중국은 Baidu, Tencent와 같은 주요 기술 기업들이 주최하는 공공 행사를 통해 AI 비서 OpenClaw의 보급을 적극적으로 추진하고 있습니다.",
+      "이 AI 도구는 개인 자동화를 가능하게 하며, 2030년까지 AI를 광범위하게 통합하려는 중국의 비전을 지원합니다."
+    ],
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
+    "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost (10 minute read)",
+    "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
+    "discussion_url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
+    "summary": "Xiaomi's MiMo-V2-Pro is a 1-trillion-parameter foundation model with performance approaching that of models from OpenAI and Anthropic but at a fraction of the cost. The model uses a sparse architecture that only activates 42 billion parameters during any single forward pass. It has a Multi-Token Prediction layer that allows it to anticipate and generate multiple tokens simultaneously, drastically reducing the latency required for 'thinking'. The model is currently only available via Xiaomi's fir",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "샤오미의 MiMo-V2-Pro는 OpenAI 및 Anthropic 모델에 필적하는 성능을 제공하면서도 비용은 훨씬 저렴한 1조 개 매개변수 LLM입니다.",
+      "희소 아키텍처와 다중 토큰 예측 레이어를 사용하여 '사고'에 필요한 지연 시간을 크게 줄입니다.",
+      "현재는 샤오미의 플랫폼을 통해서만 이 모델을 이용할 수 있습니다."
+    ],
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "title": "GPT 5.4 is a big step for Codex (7 minute read)",
+    "url": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "discussion_url": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "summary": "GPT 5.4 brings a ton more simple usability and 'agentness'. It is the first OpenAI agent that feels like it can do a lot of random tasks. The instruction following of the model is precise, and the model just does what you tell it to do. GPT 5.4 will likely appeal to the master coordinator who wants to unleash an AI army on distributed tasks.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "GPT 5.4는 사용 편의성과 '에이전트' 기능을 크게 향상시켰습니다.",
+      "이 모델은 정확한 지시 이행 능력을 바탕으로 다양한 무작위 작업을 효과적으로 수행할 수 있습니다.",
+      "분산된 작업을 AI 에이전트에게 위임하려는 사용자에게 특히 유용할 것입니다."
+    ],
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ramp.com/velocity/ai-index-march-2026",
+    "title": "How did Anthropic do it? (4 minute read)",
+    "url": "https://ramp.com/velocity/ai-index-march-2026",
+    "discussion_url": "https://ramp.com/velocity/ai-index-march-2026",
+    "summary": "Anthropic was popular early on with the earliest adopters. The company is now leveraging that early-adopter base to go mainstream. Data suggests that the company's tools are becoming the consumer default. Anthropic still struggles to meet its own demand and is actively turning away revenue because it doesn't have the compute to serve it. Demand for its products is growing despite the company charging more for roughly equivalent performance.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "Anthropic은 초기 얼리 어답터들의 인기를 바탕으로 이제 주류 시장으로 확장하고 있습니다.",
+      "회사는 더 높은 가격을 책정함에도 불구하고 제품 수요가 계속 증가하고 있습니다.",
+      "Anthropic은 수요를 충족할 컴퓨팅 자원이 부족하여 잠재적 수익을 포기하고 있습니다."
+    ],
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/microsoft/apm",
+    "title": "Agent Package Manager (GitHub Repo)",
+    "url": "https://github.com/microsoft/apm",
+    "discussion_url": "https://github.com/microsoft/apm",
+    "summary": "Microsoft's Agent Package Manager is an open source, community-driven dependency manager for AI agents. It allows every developer who clones a repository to get a fully configured agent setup in seconds. Developers just have to declare their project's agentic dependencies once in a YML file. The package manager works with GitHub Copilot, Claude Code, Cursor, and OpenCode.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "Microsoft의 Agent Package Manager는 AI 에이전트 전용 오픈소스 의존성 관리자입니다.",
+      "개발자는 YML 파일에 에이전트 종속성을 선언하여 몇 초 만에 완전히 구성된 에이전트 환경을 설정할 수 있습니다.",
+      "이 도구는 GitHub Copilot, Claude Code, Cursor 등 다양한 AI 코드 도구와 연동됩니다."
+    ],
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/baidubce/Qianfan-VL",
+    "title": "Enterprise Vision-Language Models (GitHub Repo)",
+    "url": "https://github.com/baidubce/Qianfan-VL",
+    "discussion_url": "https://github.com/baidubce/Qianfan-VL",
+    "summary": "Baidu's Qianfan‑VL is a series of enterprise-focused vision‑language models optimized for industrial use cases such as document parsing, OCR, and complex visual reasoning while maintaining general multimodal capabilities.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": [
+      "Baidu의 Qianfan-VL은 문서 파싱, OCR, 복잡한 시각 추론과 같은 산업용 사용 사례에 최적화된 엔터프라이즈급 비전-언어 모델 시리즈입니다.",
+      "이 모델들은 일반적인 멀티모달 기능도 유지하며, GitHub 저장소를 통해 접근 가능합니다."
+    ],
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/stripe/status/2034257912973963374",
+    "title": "Introducing the Machine Payments Protocol (2 minute read)",
+    "url": "https://x.com/stripe/status/2034257912973963374",
+    "discussion_url": "https://x.com/stripe/status/2034257912973963374",
+    "summary": "Stripe announced support for programmable LLMs, enabling businesses to create customized payment experiences. This feature allows companies to integrate AI models into their payment processes for enhanced user interactions. Stripe's new LLM support aims to streamline and personalize the payment journey for users.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": "Stripe가 LLM을 지원하여 맞춤형 결제 경험 생성을 가능하게 했습니다. 기업들은 AI 모델을 결제 프로세스에 통합하여 사용자 상호작용을 개선할 수 있으며, 이는 결제 여정을 간소화하고 개인화하는 것을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://a16z.com/the-internet-ruined-customer-service-ai-could-save-it/",
+    "title": "The internet ruined customer service. AI could save it. (13 minute read)",
+    "url": "https://a16z.com/the-internet-ruined-customer-service-ai-could-save-it/",
+    "discussion_url": "https://a16z.com/the-internet-ruined-customer-service-ai-could-save-it/",
+    "summary": "AI can revolutionize customer service by offering personalized, scalable, and concierge-like experiences for all consumers, bridging the gap between luxury services and mass-market customer support. Decagon, a leading AI platform, enhances customer service by resolving over 80% of inquiries autonomously, boosting satisfaction, and drastically reducing costs. If successful, this model transforms customer interaction into a continuous, proactive relationship, fundamentally changing the way busines",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": "AI는 고객 서비스를 개인화되고 확장 가능하며 컨시어지 같은 경험으로 혁신할 수 있습니다. Decagon과 같은 AI 플랫폼은 문의의 80% 이상을 자율적으로 해결하여 고객 만족도를 높이고 비용을 절감하며, 고객 상호작용을 능동적인 관계로 변화시킬 잠재력이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/meet-comet-for-ios",
+    "title": "Comet Browser on iOS (3 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/meet-comet-for-ios",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/meet-comet-for-ios",
+    "summary": "Perplexity Comet for iOS brings Perplexity's AI‑native browser to iOS with voice interaction, hybrid search results, and an in‑browser assistant that can answer questions about open pages or help complete tasks.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": "Perplexity Comet for iOS는 Perplexity의 AI 기반 브라우저를 iOS에 제공합니다. 이 브라우저는 음성 상호작용, 하이브리드 검색 결과, 그리고 열린 페이지에 대해 질문에 답하거나 작업을 완료하는 데 도움을 주는 브라우저 내 어시스턴트를 포함합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/360-billion-tokens-3-million-customers-6-engineers",
+    "title": "How a small team scaled AI infrastructure (7 minute read)",
+    "url": "https://vercel.com/blog/360-billion-tokens-3-million-customers-6-engineers",
+    "discussion_url": "https://vercel.com/blog/360-billion-tokens-3-million-customers-6-engineers",
+    "summary": "A six‑engineer team scaled an AI platform serving millions of businesses by consolidating infrastructure into a single codebase and platform to simplify operations and support rapid growth.",
+    "score": 0,
+    "published_at": "2026-03-19T23:31:32+00:00",
+    "ai_summary": "6명의 엔지니어 팀이 수백만 기업을 지원하는 AI 플랫폼의 인프라를 성공적으로 확장했습니다. 이들은 운영을 간소화하고 급속한 성장을 지원하기 위해 인프라를 단일 코드베이스 및 플랫폼으로 통합했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  }
+]
