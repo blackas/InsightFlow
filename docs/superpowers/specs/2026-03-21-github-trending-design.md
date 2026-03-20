@@ -37,7 +37,10 @@ class TrendingRepo:
 - `TrendingRepo` 데이터클래스 추가
 - `fetch_github_trending(count: int = 10) -> list[TrendingRepo]` 함수 추가
 - `github.com/trending` 페이지를 `requests` + `BeautifulSoup`으로 파싱
-- 스크래핑 실패 시 빈 리스트 반환 + 로그
+- 기존 `USER_AGENT` 헤더 재사용, `timeout=15` (기존 `fetch_tldr_ai()`와 동일)
+- HTTP 200이지만 파싱 결과가 0개인 경우: 별도 경고 로그 (`logger.warning`) — 셀렉터 깨짐 감지용
+- 네트워크 에러 시 빈 리스트 반환 + `logger.exception`
+- **`scrape_all()`은 수정하지 않음** — Trending은 Article 파이프라인과 독립적으로 `main.py`에서 별도 호출
 
 ### 2. `src/config.py`
 
@@ -48,26 +51,33 @@ class TrendingRepo:
 
 - `_format_trending(repos: list[TrendingRepo]) -> str` 함수 추가
 - Telegram MarkdownV2 포맷으로 Trending 섹션 생성
-- `send_digest()`에 `trending_repos` 파라미터 추가, 다이제스트 끝에 Trending 섹션 첨부
+- 리포 이름, 설명 등 모든 텍스트에 `_escape_md()` 적용
+- `language`가 `None`이면 언어 표시 생략, 설명만 표시
+- `trending_repos` 파라미터를 `format_digest()`와 `send_digest()` 양쪽에 추가
+- Trending 섹션 위치: Model Updates 뒤 (다이제스트 최하단)
+- **`send_digest()` 빈 articles 가드 수정:** `articles`가 비어있어도 `trending_repos`가 있으면 전송 진행
 
 ### 4. `src/main.py`
 
-- 파이프라인에 Trending 수집 단계 추가 (Step 7 Model Tracker 부근)
-- `fetch_github_trending()` 호출 → 결과를 `send_digest()`에 전달
-- 에러 처리: non-fatal (로그만 남기고 계속)
+- Step 7.7로 Trending 수집 단계 추가 (Model Dashboard 7.6 이후, Telegram 8 이전)
+- `fetch_github_trending()` 호출 → 결과를 `send_digest()`의 `trending_repos`에 전달
+- 에러 처리: non-fatal (`try/except`로 감싸고 `logger.exception`, 파이프라인 계속)
 
 ### 5. `tests/`
 
-- `tests/test_scraper.py` 또는 `tests/test_scraper_behavior.py` — `fetch_github_trending()` 테스트
+- `tests/test_scraper_behavior.py` — `fetch_github_trending()` 테스트
   - HTML 파싱 정상 동작
   - 네트워크 에러 시 빈 리스트 반환
   - count 파라미터 동작
+  - HTTP 200 + 파싱 결과 0개 시 경고 로그
 - `tests/test_notifier.py` — `_format_trending()` 포매팅 테스트
   - 정상 리포 목록 포매팅
   - 빈 리스트 처리
-  - MarkdownV2 특수문자 이스케이프
+  - MarkdownV2 특수문자 이스케이프 (리포 이름의 `.`, `-`, `_` 등)
+  - `language`가 `None`인 경우
 - `tests/test_main.py` — 파이프라인 통합 테스트
   - Trending 수집 실패 시 파이프라인 계속 동작
+  - articles 비어있고 trending만 있을 때 전송 동작
 
 ## Telegram 메시지 형식
 
@@ -79,11 +89,15 @@ class TrendingRepo:
 
 2. owner/repo ⭐ 890 (+234 today)
    Rust | 설명 ...
+
+3. owner/repo ⭐ 456 (+123 today)
+   리포지토리 설명 (language가 None인 경우)
 ```
 
 ## 에러 처리
 
-- 스크래핑 실패: 빈 리스트 반환, 로그 남기고 파이프라인 계속 (model_tracker와 동일한 non-fatal 패턴)
+- 네트워크 실패: 빈 리스트 반환, `logger.exception`, 파이프라인 계속 (model_tracker와 동일한 non-fatal 패턴)
+- HTTP 200 + 파싱 결과 0개: `logger.warning("GitHub Trending page returned 200 but no repos parsed — selectors may be broken")`, 빈 리스트 반환
 - Trending 결과가 비어있으면: Telegram 섹션 자체를 생략
 
 ## 제외 사항
