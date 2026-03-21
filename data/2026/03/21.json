@@ -1,0 +1,619 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27716",
+    "title": "Show GN: alogin – TUI, 멀티홉 게이트웨이, 암호화 저장소를 갖춘 SSH 접속 관리 도구 (Go)",
+    "url": "https://news.hada.io/topic?id=27716",
+    "discussion_url": "https://news.hada.io/topic?id=27716",
+    "summary": "2000년대 초부터 개인용 SSH 자동화 도구를 Bash + Expect 스크립트로 만들어 써왔습니다.\n20년간 패치하다가 결국 Go로 완전히 재작성해서 오픈소스로 공개했습니다.\nhttps://github.com/emusal/alogin2\n핵심 문제 의식: 수십 대 서버를 사용자, 포트, 게이트웨이 경로, 자격증명이\n제각각",
+    "score": 0,
+    "published_at": "2026-03-21T21:35:23+00:00",
+    "ai_summary": "20년간 Bash+Expect로 사용하던 개인용 SSH 자동화 도구를 Go로 재작성하여 오픈소스로 공개했습니다.\n수십 대 서버의 복잡한 사용자, 포트, 게이트웨이, 자격증명 관리를 해결하고자 합니다.\nTUI, 멀티홉 게이트웨이, 암호화 저장소 기능을 제공하는 SSH 접속 관리 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27715",
+    "title": "Azure Entra ID 로그인 로그 우회 취약점 세 번째와 네 번째 사례 공개",
+    "url": "https://news.hada.io/topic?id=27715",
+    "discussion_url": "https://news.hada.io/topic?id=27715",
+    "summary": "2023년 이후 Azure Entra ID 로그인 로그 우회 취약점이 총 4건 발견되었으며, 최근 두 건은 정상 토큰 발급이 가능한 심각한 문제로 확인됨\n\nGraphGoblin은 OAuth2 ROPC 흐름에서 scope 파라미터를 반복 입력해 로그 생성을...",
+    "score": 0,
+    "published_at": "2026-03-21T21:33:25+00:00",
+    "ai_summary": "Azure Entra ID 로그인 로그 우회 취약점 4건 중 최근 2건은 정상 토큰 발급이 가능한 심각한 문제입니다.\nGraphGoblin은 OAuth2 ROPC 흐름에서 `scope` 파라미터 반복 입력을 통해 로그 생성을 우회합니다.\n클라우드 환경에서의 인증 및 보안 구현에 대한 개발자의 주의를 요하는 내용입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27708",
+    "title": "실행 중인 세션에 채널을 통해 이벤트 푸시하기",
+    "url": "https://news.hada.io/topic?id=27708",
+    "discussion_url": "https://news.hada.io/topic?id=27708",
+    "summary": "Claude Code의 Channels는 외부 시스템의 메시지나 웹훅을 실행 중인 세션으로 직접 전달해 Claude가 즉시 반응하도록 하는 기능\n\nMCP 서버를 통해 이벤트를 주고받으며, 세션이 열려 있는 동안만 이벤트가 도착하므로 지속 실행 환경...",
+    "score": 0,
+    "published_at": "2026-03-21T11:33:34+00:00",
+    "ai_summary": "Claude Code의 Channels는 외부 시스템의 메시지나 웹훅을 실행 중인 세션으로 직접 전달하는 기능입니다.\n이를 통해 Claude가 이벤트를 즉시 반응하도록 하여 실시간 상호작용이 가능하게 합니다.\nMCP 서버를 통해 이벤트가 전달되며, 세션이 열려 있는 동안만 이벤트가 도착합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27706",
+    "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
+    "url": "https://news.hada.io/topic?id=27706",
+    "discussion_url": "https://news.hada.io/topic?id=27706",
+    "summary": "AI 코드 에이전트의 등장으로 소프트웨어 개발 방식이 근본적으로 변화했으며, 2024년 12월을 기점으로 직접 코딩 비중이 80%에서 거의 0% 로 급감한 체감적 전환이 발생\n개인이 여러 에이전트를 병렬로 운영하며 기능 단위로 작업을 배분하는 방식이 새로운 개발 ...",
+    "score": 0,
+    "published_at": "2026-03-21T06:17:01+00:00",
+    "ai_summary": "Andrej Karpathy는 AI 코드 에이전트 등장으로 소프트웨어 개발 방식이 근본적으로 변화했다고 언급했습니다.\n2024년 12월을 기점으로 직접 코딩 비중이 80%에서 거의 0%로 급감하는 전환이 발생했습니다.\n개인이 여러 에이전트를 병렬 운영하며 기능 단위로 작업을 배분하는 새로운 개발 패러다임을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27705",
+    "title": "MacBook M5 Pro와 Qwen3.5 기반 로컬 AI 보안 시스템",
+    "url": "https://news.hada.io/topic?id=27705",
+    "discussion_url": "https://news.hada.io/topic?id=27705",
+    "summary": "Qwen3.5-9B 모델이 MacBook Pro M5에서 완전 로컬로 실행되어 GPT-5.4 대비 4포인트 낮은 93.8% 성능을 기록\n\n96개 테스트와 15개 스위트로 구성된 HomeSec-Bench에서 도구 사용, 보안 분류, 이벤트 중복 제거...",
+    "score": 0,
+    "published_at": "2026-03-21T05:45:55+00:00",
+    "ai_summary": "Qwen3.5-9B 모델이 MacBook Pro M5에서 완전 로컬로 실행되어 GPT-5.4 대비 93.8% 성능을 기록했습니다.\nHomeSec-Bench에서 도구 사용, 보안 분류, 이벤트 중복 제거 등 96개 테스트를 수행했습니다.\n로컬 AI 기반 보안 시스템 구축 가능성과 성능을 보여주는 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27703",
+    "title": "Noq: n0의 새로운 Rust 기반 QUIC 구현체",
+    "url": "https://news.hada.io/topic?id=27703",
+    "discussion_url": "https://news.hada.io/topic?id=27703",
+    "summary": "n0 팀이 개발한 noq는 Rust로 작성된 범용 QUIC 구현체로, 멀티패스와 NAT 트래버설을 지원\n기존 iroh의 Quinn 기반 구조 한계를 해결하기 위해 독립 코드베이스로 전환해 개발됨\n\n...",
+    "score": 0,
+    "published_at": "2026-03-21T05:44:27+00:00",
+    "ai_summary": "n0 팀이 개발한 noq는 Rust로 작성된 범용 QUIC 구현체로, 멀티패스와 NAT 트래버설을 지원합니다.\n기존 iroh의 Quinn 기반 구조 한계를 해결하기 위해 독립 코드베이스로 전환하여 개발되었습니다.\n새로운 네트워크 프로토콜 구현체로, 백엔드 및 시스템 개발에 유용하게 활용될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27702",
+    "title": "Cursor Composer 2는 Kimi K2.5에 RL을 적용한 모델로 확인",
+    "url": "https://news.hada.io/topic?id=27702",
+    "discussion_url": "https://news.hada.io/topic?id=27702",
+    "summary": "OpenAI base URL 조작을 통해 요청 경로에 kimi-k2p5-rl이 포함된 것이 발견되며, Composer 2가 Kimi K2.5 + 강화학습(RL) 기반임이 드러남\n이전 버전에서는 차단되던 요청이 Composer 2에서는 노출되었고, 이후 즉시 차단 패치가 이...",
+    "score": 0,
+    "published_at": "2026-03-21T05:31:39+00:00",
+    "ai_summary": "OpenAI base URL 조작을 통해 Composer 2가 Kimi K2.5 + 강화학습(RL) 기반임이 드러났습니다.\n이전 버전에서 차단되던 요청이 Composer 2에서는 노출되었고, 이후 즉시 차단 패치가 이루어졌습니다.\n이는 AI 코딩 도구의 내부 모델 구현을 기술적으로 분석한 결과입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27701",
+    "title": "Show GN: Cluefin-Dure - 증권사/DART API를 활용한 국내주식 멀티 AI 에이전트",
+    "url": "https://news.hada.io/topic?id=22951",
+    "discussion_url": "https://news.hada.io/topic?id=27701",
+    "summary": "안녕하세요.\n6개월 전에 cluefin 프로젝트를 공유했었는데요,\n이번에는 cluefin에 만든 openapi 패키지(증권사, DART RestAPI)를\nAI 에이전트가 사용할 수 있는 도구로 연결해서 투자 리서치 멀티 에이전트 프로젝트 &quot;<a href=\"https://g",
+    "score": 0,
+    "published_at": "2026-03-21T05:20:16+00:00",
+    "ai_summary": "Cluefin 프로젝트의 확장으로, 증권사/DART OpenAPI 패키지를 AI 에이전트가 활용하는 프로젝트입니다.\n투자 리서치를 수행하는 국내 주식 멀티 AI 에이전트 'Cluefin-Dure'를 소개합니다.\nAPI 활용과 AI 에이전트 구축에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27700",
+    "title": "풀 리퀘스트는 죽었다, 풀 리퀘스트 만세",
+    "url": "https://news.hada.io/topic?id=27700",
+    "discussion_url": "https://news.hada.io/topic?id=27700",
+    "summary": "AI가 코드를 작성하는 시대에 풀 리퀘스트(PR) 리뷰 방식이 근본적으로 바뀌어야 하며, 현재의 리뷰 프로세스는 AI 코딩 워크플로우에 맞지 않음\n리뷰어가 &quot;왜 이렇게 했나?&quot;라고 질문하면 개발자가 AI에게 다시 물어 답변을 붙여넣는 구조로, 인간이 중개인(midd...",
+    "score": 0,
+    "published_at": "2026-03-21T05:14:02+00:00",
+    "ai_summary": "AI가 코드를 작성하는 시대에 풀 리퀘스트(PR) 리뷰 방식이 근본적으로 바뀌어야 함을 주장합니다.\n현재의 리뷰 프로세스는 AI 코딩 워크플로우에 맞지 않으며 인간이 중개하는 구조는 비효율적임을 지적합니다.\n개발 문화와 도구, 워크플로우 변화에 대한 중요한 논의를 담고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27699",
+    "title": "Ghostling - Minimum Viable 터미널 에뮬레이터",
+    "url": "https://news.hada.io/topic?id=27699",
+    "discussion_url": "https://news.hada.io/topic?id=27699",
+    "summary": "libghostty C API를 기반으로 한 최소 기능의 터미널 데모로, 단일 C 파일과 Raylib 렌더링을 사용해 동작\n\nlibghostty-vt의 기능을 검증하기 위한 구조로, GPU 렌더링 대신 2D 그래픽 기반 터미널 구현을 보여줌",
+    "score": 0,
+    "published_at": "2026-03-21T01:45:40+00:00",
+    "ai_summary": "libghostty C API를 기반으로 한 최소 기능의 터미널 에뮬레이터 데모 'Ghostling'입니다.\n단일 C 파일과 Raylib 렌더링을 사용해 동작하며, GPU 렌더링 대신 2D 그래픽 기반 구현을 보여줍니다.\nlibghostty-vt의 기능을 검증하기 위한 구조로 개발되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27698",
+    "title": "OpenCode – 오픈소스 AI 코딩 에이전트",
+    "url": "https://news.hada.io/topic?id=27698",
+    "discussion_url": "https://news.hada.io/topic?id=27698",
+    "summary": "터미널, IDE, 데스크톱 환경에서 코드 작성을 지원하는 오픈소스 AI 코딩 에이전트로, macOS·Windows·Linux용 데스크톱 베타 앱을 제공\n\nClaude, GPT, Gemini 등 다양한 모델 제공자와 연동되며, 무료 모델도 포함",
+    "score": 0,
+    "published_at": "2026-03-21T01:33:01+00:00",
+    "ai_summary": "터미널, IDE, 데스크톱 환경에서 코드 작성을 지원하는 오픈소스 AI 코딩 에이전트 'OpenCode'입니다.\nmacOS, Windows, Linux용 데스크톱 베타 앱을 제공하며 다양한 모델 제공자와 연동됩니다.\nClaude, GPT, Gemini 등 유료 및 무료 모델을 모두 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27693",
+    "title": "뒤처져도 괜찮습니다, 고마워요!",
+    "url": "https://news.hada.io/topic?id=27693",
+    "discussion_url": "https://news.hada.io/topic?id=27693",
+    "summary": "암호화폐와 AI 도구 등 새로운 기술에 대한 FOMO(놓칠까 봐 두려움) 를 무기화하는 현상에 대해 &quot;기다려도 괜찮다&quot;고 얘기하는 글\n암호화폐 초기 시절 &quot;뒤처지고 싶지 않지?&quot;라는 말이 회의적 태도를 무너뜨리는 교묘한 압박 수단",
+    "score": 0,
+    "published_at": "2026-03-21T00:38:28+00:00",
+    "ai_summary": "암호화폐와 AI 도구 등 새로운 기술에 대한 FOMO(놓칠까 봐 두려움)를 무기화하는 현상을 비판합니다.\n'기다려도 괜찮다'는 메시지를 통해 신중한 접근과 성급한 결정을 피할 것을 권장합니다.\n개발자의 직업적 태도와 커리어 결정에 대한 조언을 담고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27691",
+    "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
+    "url": "https://news.hada.io/topic?id=27691",
+    "discussion_url": "https://news.hada.io/topic?id=27691",
+    "summary": "Tauri+React로 제작되어 윈/맥/리눅스 지원\nMySQL/MariaDB, PostgreSQL, SQLite 지원, 다중 스키마 및 다중 데이터베이스 연결 기능 제공\n빠른 성능 + 보안성 + 미려한 UI 를 중점으로 설계\n\n트리 뷰 인터페이스로 테이블, 컬...",
+    "score": 0,
+    "published_at": "2026-03-21T00:31:01+00:00",
+    "ai_summary": "Tauri+React로 제작된 개발자용 크로스플랫폼 DB 관리 애플리케이션 'Tabularis'입니다.\nMySQL/MariaDB, PostgreSQL, SQLite를 지원하며 다중 스키마 및 다중 데이터베이스 연결 기능을 제공합니다.\n빠른 성능, 보안성, 미려한 UI를 중점으로 설계되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27690",
+    "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
+    "url": "https://news.hada.io/topic?id=27690",
+    "discussion_url": "https://news.hada.io/topic?id=27690",
+    "summary": "로컬 머신에서 클로드 코드를 실행하지 않아도 설정한 일정에 따라 자동으로 작업 수행 가능\n레포지토리(단일/복수), 스케줄, 프롬프트를 지정하면 클라우드 인프라에서 Claude가 해당 작업을 반복 실행\n열린 PR의 일괄 검토, 승인된 이슈 기반으로 자동...",
+    "score": 0,
+    "published_at": "2026-03-21T00:01:01+00:00",
+    "ai_summary": "Claude Code에 클라우드 기반 예약 작업 기능이 추가되어, 로컬 머신 없이 자동 작업 수행이 가능해졌습니다.\n레포지토리, 스케줄, 프롬프트를 지정하여 PR 검토나 이슈 기반 자동 개발 등을 반복 실행할 수 있습니다.\n개발 워크플로우를 자동화하고 효율화하는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27688",
+    "title": "Rust WASM 파서를 TypeScript로 다시 작성했더니 3배 빨라졌다",
+    "url": "https://news.hada.io/topic?id=27688",
+    "discussion_url": "https://news.hada.io/topic?id=27688",
+    "summary": "Rust로 작성된 WASM 파서는 구조적으로 빠르지만, JS-WASM 경계에서의 데이터 복사와 직렬화 오버헤드가 성능 병목으로 드러남\n\nserde-wasm-bindgen을 통한 직접 객체 반환은 JSON 직렬화보다 9~29% 느렸으며, 이는 런타임 간 세밀...",
+    "score": 0,
+    "published_at": "2026-03-20T23:34:58+00:00",
+    "ai_summary": "Rust WASM 파서가 JS-WASM 경계 데이터 복사 및 직렬화 오버헤드로 인해 느려짐이 발견되었습니다.\n직접 객체 반환도 JSON 직렬화보다 느려, 개발자는 런타임 간 미세한 성능 조정을 고민하게 됩니다.\n결과적으로 TypeScript로 재작성된 파서가 기존 Rust WASM 버전보다 3배 빠른 성능을 보였습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47470773",
+    "title": "Tinybox- offline AI device 120B parameters",
+    "url": "https://tinygrad.org/#tinybox",
+    "discussion_url": "https://news.ycombinator.com/item?id=47470773",
+    "summary": "",
+    "score": 217,
+    "published_at": "2026-03-21T20:08:37+00:00",
+    "ai_summary": "Tinybox는 1200억 개의 파라미터를 가진 대규모 AI 모델을 오프라인에서 구동하는 장치입니다.\n클라우드 연결 없이 로컬 환경에서 고급 AI 기능을 수행할 수 있도록 설계되었습니다.\n이는 개인 정보 보호와 저지연 AI 애플리케이션 개발에 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47471601",
+    "title": "Professional video editing, right in the browser with WebGPU and WASM",
+    "url": "https://tooscut.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47471601",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-03-21T21:27:50+00:00",
+    "ai_summary": "WebGPU와 WASM 기술을 활용하여 브라우저 내에서 전문적인 비디오 편집 기능을 구현합니다.\n이는 클라우드 기반 편집 솔루션 없이도 고성능의 미디어 처리를 웹 환경에서 가능하게 합니다.\n웹 기반 비디오 편집 도구의 성능과 접근성을 획기적으로 향상시킬 잠재력을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47471805",
+    "title": "Attempts to post the latest Trivy security incident have been marked [dead]",
+    "url": "https://news.ycombinator.com/from?site=github.com%2Faquasecurity",
+    "discussion_url": "https://news.ycombinator.com/item?id=47471805",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-03-21T21:49:56+00:00",
+    "ai_summary": "최신 Trivy 보안 사고에 대한 게시 시도가 'dead' 처리되었다는 내용입니다.\n이는 특정 보안 정보의 공개가 차단되거나 논란의 여지가 있음을 시사합니다.\nTrivy 사용자와 보안 커뮤니티는 이 사건의 배경과 실제 내용에 주목하고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47467567",
+    "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+    "url": "https://grafeo.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47467567",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-03-21T14:50:18+00:00",
+    "ai_summary": "Grafeo는 Rust로 구축된 빠르고 가벼우며 내장 가능한 그래프 데이터베이스 솔루션입니다.\n복잡한 데이터 관계를 효율적으로 저장하고 쿼리하는 데 중점을 둡니다.\n임베디드 시스템이나 고성능 애플리케이션의 백엔드에 적합한 대안을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47469949",
+    "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+    "url": "https://github.com/pagel-s/termcraft",
+    "discussion_url": "https://news.ycombinator.com/item?id=47469949",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-03-21T18:42:38+00:00",
+    "ai_summary": "Termcraft는 Rust로 개발된 터미널 기반의 2D 샌드박스 서바이벌 게임 프로젝트입니다.\n그래픽 환경 대신 터미널을 활용하여 독특한 사용자 경험을 제공합니다.\nRust 언어의 강점과 터미널 UI의 가능성을 보여주는 흥미로운 예시입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47428953",
+    "title": "Bayesian statistics for confused data scientists",
+    "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47428953",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-18T17:52:18+00:00",
+    "ai_summary": "데이터 과학자들이 어려워하는 베이즈 통계학 개념을 명확하게 설명합니다. 확률적 추론과 모델링을 위한 베이즈 방법론의 실제 적용을 돕습니다. 데이터 분석 및 머신러닝 모델 구축 역량을 강화하는 데 필수적인 지식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47471801",
+    "title": "Floci – A free, open-source local AWS emulator",
+    "url": "https://github.com/hectorvent/floci",
+    "discussion_url": "https://news.ycombinator.com/item?id=47471801",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-21T21:49:15+00:00",
+    "ai_summary": "무료 오픈소스 AWS 에뮬레이터 Floci를 통해 로컬에서 AWS 서비스를 테스트합니다. 개발자가 클라우드 비용 없이 빠르게 애플리케이션을 개발하고 검증할 수 있습니다. 클라우드 환경과 유사한 조건에서 효율적인 개발을 지원하는 유용한 도구입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47470200",
+    "title": "No Semicolons Needed",
+    "url": "https://terts.dev/blog/no-semicolons-needed/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47470200",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-03-21T19:07:20+00:00",
+    "ai_summary": "세미콜론 없이 코드를 작성하는 프로그래밍 언어의 특징을 다룹니다. 코드 가독성과 개발자 편의성을 높이는 문법적 요소를 탐구합니다. 특정 언어의 코딩 스타일에 대한 이해를 넓히고 생산성 향상 방안을 모색합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47470734",
+    "title": "Common Lisp Development Tooling",
+    "url": "https://www.creativetension.co/posts/common-lisp-development-tooling",
+    "discussion_url": "https://news.ycombinator.com/item?id=47470734",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-03-21T20:04:08+00:00",
+    "ai_summary": "Common Lisp 개발을 위한 다양한 도구들을 소개하고 사용법을 설명합니다. IDE, 디버거, 패키지 관리 등 Lisp 개발 환경을 구축하는 방법을 다룹니다. 효율적인 Lisp 개발을 위한 최적의 도구 활용법을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47453738",
+    "title": "You can run a DNS server (2025)",
+    "url": "https://simonsafar.com/2025/running_dns/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47453738",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-03-20T12:42:40+00:00",
+    "ai_summary": "개인 또는 소규모 환경에서 DNS 서버를 직접 운영하는 방법을 안내합니다. DNS의 기본 작동 원리를 이해하고 효율적으로 설정하는 과정을 다룹니다. 네트워크 인프라 관리 및 시스템 이해도를 높이는 실용적인 기술 가이드입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47457570",
+    "title": "Boomloom: Think with your hands",
+    "url": "https://www.theboomloom.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47457570",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-03-20T17:13:28+00:00",
+    "ai_summary": "Boomloom은 손으로 생각하고 아이디어를 시각화하는 새로운 인터랙티브 도구입니다.\n물리적인 움직임을 통해 디지털 콘텐츠와 상호작용하며 창의적인 사고를 돕습니다.\n개발자에게는 새로운 입력 방식이나 인터페이스 설계에 대한 영감을 줄 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47468849",
+    "title": "Seam carving with forward energy",
+    "url": "https://pictolab.io/seam-carving",
+    "discussion_url": "https://news.ycombinator.com/item?id=47468849",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-03-21T17:03:32+00:00",
+    "ai_summary": "Seam carving with forward energy는 이미지의 중요한 내용 손실 없이 크기를 조절하는 기술입니다.\n픽셀 에너지를 계산하여 제거할 가장 중요하지 않은 '시ーム'을 찾아냅니다.\n컴퓨터 그래픽스, 이미지 처리, 비전 AI 분야 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47470433",
+    "title": "Show HN: Atomic – self-hosted, semantically-connected personal knowledge base",
+    "url": "https://github.com/kenforthewin/atomic",
+    "discussion_url": "https://news.ycombinator.com/item?id=47470433",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-03-21T19:31:39+00:00",
+    "ai_summary": "Atomic은 의미론적으로 연결된 정보를 관리하는 자가 호스팅 개인 지식 베이스 프로젝트입니다.\n개발자가 자신의 데이터를 직접 관리하고, 정보 간의 관계를 구축하여 효율적으로 지식을 조직할 수 있게 돕습니다.\n백엔드, 프론트엔드, 데이터베이스 기술에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47431625",
+    "title": "ZJIT removes redundant object loads and stores",
+    "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47431625",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-03-18T21:26:23+00:00",
+    "ai_summary": "ZJIT은 Just-In-Time 컴파일러에서 불필요한 객체 로드 및 저장 작업을 제거하는 최적화 기법입니다.\n이를 통해 런타임 성능을 향상시키고 메모리 접근을 최적화합니다.\n컴파일러, 런타임 환경, 시스템 프로그래밍에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47469331",
+    "title": "Hide macOS Tahoe's Menu Icons",
+    "url": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47469331",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-03-21T17:46:00+00:00",
+    "ai_summary": "이 기사는 macOS Tahoe 버전에서 메뉴 바 아이콘을 숨기는 방법을 설명합니다.\n시스템 UI를 깔끔하게 정리하거나 특정 아이콘을 관리하는 팁을 제공합니다.\nmacOS 환경에 익숙하거나 데스크톱 앱 개발자에게 일부 관련성이 있을 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47464134",
+    "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+    "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47464134",
+    "summary": "",
+    "score": 299,
+    "published_at": "2026-03-21T05:06:11+00:00",
+    "ai_summary": "Ubuntu 26.04부터 sudo 명령 시 비밀번호 입력 피드백이 기본적으로 활성화되어 46년간의 '묵묵한' 비밀번호 입력 방식이 변경됩니다.\n이는 보안 및 사용자 경험 개선을 위한 중요한 변화입니다.\n리눅스 사용자, DevOps 엔지니어, 시스템 관리자에게 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47467913",
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "discussion_url": "https://news.ycombinator.com/item?id=47467913",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-03-21T15:30:29+00:00",
+    "ai_summary": "이 기사는 인공지능이 인간의 인지 과정과 의사결정에 미치는 영향을 탐구합니다.\n인간의 직관, 심사숙고하는 사고, AI의 역량 사이의 상호작용을 다양한 분야에서 조명합니다.\nAI가 전통적인 인간의 추론 모델을 보강하고 동시에 도전하는 역할을 한다고 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47421749",
+    "title": "Meta's Omnilingual MT for 1,600 Languages",
+    "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
+    "discussion_url": "https://news.ycombinator.com/item?id=47421749",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-03-18T05:00:18+00:00",
+    "ai_summary": "메타가 1,600개 언어를 지원하는 전방위적인 기계 번역(MT) 시스템을 개발했습니다.\n이 시스템은 언어 장벽을 허물고 전 세계적인 소통을 가능하게 하는 것을 목표로 합니다.\n특히 저자원 언어 번역에 큰 진전을 가져왔습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47419391",
+    "title": "Mamba-3",
+    "url": "https://www.together.ai/blog/mamba-3",
+    "discussion_url": "https://news.ycombinator.com/item?id=47419391",
+    "summary": "",
+    "score": 269,
+    "published_at": "2026-03-17T22:45:12+00:00",
+    "ai_summary": "맘바(Mamba) 모델의 최신 버전인 Mamba-3가 공개되었습니다.\n이 모델은 특히 대규모 언어 모델(LLM) 분야에서 기존 트랜스포머 모델의 대안으로 주목받고 있습니다.\n효율성과 성능 개선을 통해 새로운 연구 방향을 제시합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47467671",
+    "title": "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
+    "url": "https://joonote.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47467671",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-03-21T15:02:30+00:00",
+    "ai_summary": "Joonote는 잠금 화면과 알림 패널에서 바로 메모할 수 있는 혁신적인 앱입니다.\n사용자의 편의성을 극대화한 UI/UX 디자인이 특징입니다.\n개발자가 직접 Hacker News에 공개한 프로젝트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  }
+]
