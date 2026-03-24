@@ -1,0 +1,912 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27817",
+    "title": "Claude Code로 생산성을 높이는 방법",
+    "url": "https://news.hada.io/topic?id=27817",
+    "discussion_url": "https://news.hada.io/topic?id=27817",
+    "summary": "반복적인 PR 생성과 설명 작성 과정을 자동화해, 코드 작성 흐름이 끊기지 않는 환경을 구축\n서버 재시작 시간을 1분에서 1초 미만으로 단축해, 대화하듯 자연스러운 개발 피드백 루프를 형성\n\nUI 검증을 Claude 에이전트에 위임해, 개발...",
+    "score": 0,
+    "published_at": "2026-03-24T20:33:26+00:00",
+    "ai_summary": "Claude Code를 활용해 반복적인 PR 생성 및 UI 검증을 자동화하고, 서버 재시작 시간을 단축하여 개발 생산성을 높이는 방법이 소개됩니다.\nAI 에이전트가 개발 흐름을 끊김 없이 지원하며, 자연스러운 피드백 루프를 구축하는 데 기여합니다.\n이를 통해 개발자는 코드 작성에 더 집중할 수 있도록 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27815",
+    "title": "럭셔리 자동차 정비소를 위한 AI 리셉셔니스트 구축기 - Part 1",
+    "url": "https://news.hada.io/topic?id=27815",
+    "discussion_url": "https://news.hada.io/topic?id=27815",
+    "summary": "고급 정비소의 전화 응답 부재로 인한 매출 손실을 해결하기 위해, 실제 전화를 받는 AI 리셉셔니스트 ‘Axle’ 이 개발됨\nAI는 Retrieval-Augmented Generation(RAG) 기반으로 구축되어, 웹사이트에서 수집한 실제 서비스·가격 정보를 근거로 정...",
+    "score": 0,
+    "published_at": "2026-03-24T19:34:21+00:00",
+    "ai_summary": "고급 정비소의 전화 응답 부재 문제를 해결하기 위해 AI 리셉셔니스트 'Axle'이 개발되었습니다.\n이 AI는 Retrieval-Augmented Generation(RAG) 기반으로 구축되어, 웹사이트 정보를 근거로 고객 문의에 응대합니다.\nAI 개발 과정과 기술 스택에 대한 내용으로, 실제 문제 해결에 AI를 적용한 사례를 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27812",
+    "title": "AI Native Engineer — 원리 위의 감각",
+    "url": "https://news.hada.io/topic?id=27812",
+    "discussion_url": "https://news.hada.io/topic?id=27812",
+    "summary": "AI Native Engineer는 대체 어떤 사람인가(Who).\n드러난 것들 — 이전 시대 엔지니어와 다른 점\n\nDrew Hoskins: &quot;도구와 언어가 너무 어려워서, 이를 익히고 사용하는 것 자체가 풀타임 직업이었다.&quot; AI가 이 풀타임 직업을 대신하기 시작하자, 원래",
+    "score": 0,
+    "published_at": "2026-03-24T15:28:40+00:00",
+    "ai_summary": "AI Native Engineer가 어떤 사람인지 정의하고, 이전 시대 엔지니어와 다른 점들을 탐구합니다.\nAI 도구가 복잡한 기술 습득과 활용의 부담을 줄여주면서, 엔지니어의 역할이 변화하고 있음을 강조합니다.\n기술의 '원리'와 이를 활용하는 '감각'의 중요성을 재조명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27810",
+    "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
+    "url": "https://news.hada.io/topic?id=27810",
+    "discussion_url": "https://news.hada.io/topic?id=27810",
+    "summary": "https://github.com/BerriAI/litellm/issues/24512\n급하게 모바일로 쓰느라 제대로 마크다운으로 꾸미지 못하는 점 양해바랍니다.\n제목에 링크한 futuresearch 블로그에 자세한 내용이 있는데, 1.82.8 버전과 1.82.7 버전에 공격이 있다고 하네요.\n꼭 지금 깔려있는 LiteLLM의 버전을 확인해보시",
+    "score": 0,
+    "published_at": "2026-03-24T13:27:17+00:00",
+    "ai_summary": "LiteLLM의 1.82.7 및 1.82.8 버전에서 공급망 공격으로 인한 해킹이 발생했다는 보안 이슈가 보고되었습니다.\n사용자들은 현재 설치된 LiteLLM 버전을 즉시 확인하고, 잠재적인 보안 취약점에 주의해야 합니다.\n심각한 보안 문제이므로, 개발자들은 신속한 확인과 조치를 권장합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27807",
+    "title": "Show GN: 자연어로 말하면 쉘 명령어를 알아서 실행해주는 CLI 도구 `pls`",
+    "url": "https://news.hada.io/topic?id=27807",
+    "discussion_url": "https://news.hada.io/topic?id=27807",
+    "summary": "자연어로 말하면 LLM 이 쉘 명령어를 만들어서 실행해주는 CLI 도구 pls 를 만들었습니다. 일상적으로 쓰이진 않고 가끔씩 쓰는 명령어들이 영 기억이 안나더라구요.\n$ pls '1380 포트 쓰는 프로세스 다 죽여줘'\n$ pls 'DNS Cache 날려줘'\n$ pls",
+    "score": 0,
+    "published_at": "2026-03-24T10:38:40+00:00",
+    "ai_summary": "자연어로 명령하면 LLM이 쉘 명령어를 생성하여 실행해주는 CLI 도구 `pls`가 소개되었습니다.\n일상적으로 자주 쓰지는 않지만 가끔 기억나지 않는 명령어들을 쉽게 처리할 수 있도록 돕습니다.\n개발자의 터미널 사용 경험을 개선하고 생산성을 높이는 데 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27806",
+    "title": "Claude Code 치트시트",
+    "url": "https://news.hada.io/topic?id=27806",
+    "discussion_url": "https://news.hada.io/topic?id=27806",
+    "summary": "Claude Code v2.1.81의 주요 명령어, 단축키, 설정, 환경 변수, MCP 서버 및 에이전트 구성을 정리한 개발자용 요약 문서\n\n새 버전에는 헤드리스 모드(--bare), 채널 미리보기(--channels),",
+    "score": 0,
+    "published_at": "2026-03-24T10:33:32+00:00",
+    "ai_summary": "Claude Code v2.1.81의 주요 명령어, 단축키, 설정, 환경 변수 등 개발자용 핵심 정보가 정리된 치트시트입니다.\n새 버전의 헤드리스 모드(--bare)와 채널 미리보기(--channels) 같은 기능 정보도 포함하고 있습니다.\nClaude Code를 사용하는 개발자들이 효율적으로 도구를 활용하는 데 도움을 주는 요약 문서입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27802",
+    "title": "emulate - 로컬에서 GitHub·Vercel·Google API를 완전 복제해 실행하기",
+    "url": "https://news.hada.io/topic?id=27802",
+    "discussion_url": "https://news.hada.io/topic?id=27802",
+    "summary": "Vercel에서 만든 CI 또는 네트워크 차단 환경용 로컬 API 에뮬레이터\n\n단순 mock이 아니라 실제 프로덕션과 동일한 상태·응답 구조를 가짐\n\nnpx emulate 한 줄로 Vercel(4000), GitHub(4001), Google(4002) 기동\nCLI로 서비스 선택, 포트 지정, seed...",
+    "score": 0,
+    "published_at": "2026-03-24T04:39:23+00:00",
+    "ai_summary": "Vercel에서 만든 CI 또는 네트워크 차단 환경용 로컬 API 에뮬레이터 'emulate'가 소개되었습니다.\n단순 목업이 아니라 실제 프로덕션과 동일한 상태 및 응답 구조를 가지며, GitHub, Vercel, Google API를 로컬에서 복제 실행 가능합니다.\nnpx emulate 한 줄로 여러 API를 기동하여 개발 및 테스트 효율성을 높이는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27800",
+    "title": "데이터만이 유일한 해자다",
+    "url": "https://news.hada.io/topic?id=27800",
+    "discussion_url": "https://news.hada.io/topic?id=27800",
+    "summary": "AI 툴링으로 소프트웨어 개발 비용과 인력이 급감하면서, 소프트웨어 비즈니스의 진입장벽은 과연 무엇인가라는 질문이 핵심이 됨\nAI가 대부분의 변환 작업을 대체할 수 있는 지금, 인간이 생성한 실세계 데이터만이 에이전트 AI가 복제할 수 없는 유일한 해자(moa...",
+    "score": 0,
+    "published_at": "2026-03-24T03:11:01+00:00",
+    "ai_summary": "AI 툴링으로 개발 비용이 급감하며 소프트웨어 비즈니스의 진입장벽이 무엇인지 질문합니다.\nAI가 대부분의 변환 작업을 대체할 수 있는 지금, 인간이 생성한 실세계 데이터만이 중요합니다.\n이 데이터가 에이전트 AI가 복제할 수 없는 유일한 해자라고 주장합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27798",
+    "title": "AI 크레딧 가격의 미래",
+    "url": "https://news.hada.io/topic?id=27798",
+    "discussion_url": "https://news.hada.io/topic?id=27798",
+    "summary": "크레딧 기반 요금제가 2025년 126% 급증하며 SaaS 업계 표준으로 부상하는 가운데, Clay가 데이터 비용과 플랫폼 가치를 완전히 분리한 대규모 요금제 개편을 단행함\nFigma는 2025년 12월 AI 크레딧 모델을 도입했으나 실제 집행은 미뤄왔으며, 2026년 3월 18일부터 크레딧...",
+    "score": 0,
+    "published_at": "2026-03-24T03:04:01+00:00",
+    "ai_summary": "크레딧 기반 요금제가 2025년 126% 급증하며 SaaS 업계 표준으로 부상하고 있습니다.\nClay는 데이터 비용과 플랫폼 가치를 완전히 분리한 대규모 요금제 개편을 단행했습니다.\nFigma도 AI 크레딧 모델을 도입했으나 실제 집행은 2026년 3월 18일부터입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27794",
+    "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
+    "url": "https://news.hada.io/topic?id=27794",
+    "discussion_url": "https://news.hada.io/topic?id=27794",
+    "summary": "Claude Code Desktop 및 Cowork과 연동되어 실제 컴퓨터의 마우스·키보드·화면을 직접 제어해 어떤 앱이든 사용 가능\n\nDispatch와 함께 사용하면 자리를 비운 상태에서도 원격으로 Claude가 컴퓨터를 조작하도록 지시 가능\n현재 macOS에 먼저 출...",
+    "score": 0,
+    "published_at": "2026-03-24T01:16:02+00:00",
+    "ai_summary": "Claude가 Code Desktop 및 Cowork와 연동되어 실제 컴퓨터의 마우스·키보드·화면을 직접 제어합니다.\n이를 통해 Claude는 어떤 앱이든 사용할 수 있으며, Dispatch와 함께 원격 조작도 가능합니다.\n현재 macOS에 먼저 출시되며, AI 에이전트의 자동화 능력을 크게 확장합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27792",
+    "title": "Walmart: ChatGPT 결제 전환율, 웹사이트의 1/3 수준",
+    "url": "https://news.hada.io/topic?id=27792",
+    "discussion_url": "https://news.hada.io/topic?id=27792",
+    "summary": "월마트가 ChatGPT 내 Instant Checkout 기능을 통해 약 20만 개 상품을 테스트한 결과, 웹사이트 결제 대비 전환율이 3배 낮음을 확인\nChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, 클릭아웃(웹사이트 이동) 거래의 3분의 1 수준에 그침",
+    "score": 0,
+    "published_at": "2026-03-24T00:38:18+00:00",
+    "ai_summary": "월마트가 ChatGPT 내 Instant Checkout 기능을 테스트한 결과, 웹사이트 결제 전환율 대비 3배 낮았습니다.\nChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, 클릭아웃 거래의 3분의 1 수준에 그쳤습니다.\n이는 LLM 기반 직접 결제 시스템의 사용자 경험과 효율성에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27789",
+    "title": "오래된 연구 아이디어에 Autoresearch 수행하기",
+    "url": "https://news.hada.io/topic?id=27789",
+    "discussion_url": "https://news.hada.io/topic?id=27789",
+    "summary": "Autoresearch 시스템은 LLM 에이전트가 train.py를 반복 수정하며 성능을 개선하는 제약 최적화 루프 구조로, 가설 설정부터 평가까지 자동 순환을 수행함\n실험은 컨테이너 기반 샌드박스 환경에서 실행되어 네트워크 접근과 임의 ...",
+    "score": 0,
+    "published_at": "2026-03-24T00:35:22+00:00",
+    "ai_summary": "Autoresearch 시스템은 LLM 에이전트가 train.py를 반복 수정하며 성능을 개선하는 최적화 루프입니다.\n가설 설정부터 평가까지 자동 순환을 수행하며, 연구 과정을 자동화하는 혁신적인 접근법입니다.\n실험은 컨테이너 기반 샌드박스 환경에서 실행되어 네트워크 접근 및 코드 실행이 제한됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27788",
+    "title": "iPhone 17 Pro에서 400B LLM 실행하기",
+    "url": "https://news.hada.io/topic?id=27788",
+    "discussion_url": "https://news.hada.io/topic?id=27788",
+    "summary": "iPhone 17 Pro에서 4000억 파라미터 규모의 LLM을 구동, 속도는 초당 0.6토큰 수준\n모델은 Mixture of Experts(MoE) 구조로, 실제 활성화되는 가중치는 약 50억 파라미터\n\n\n4bit 양자화",
+    "score": 0,
+    "published_at": "2026-03-24T00:33:52+00:00",
+    "ai_summary": "iPhone 17 Pro에서 4000억 파라미터 규모의 LLM을 구동하는 데 성공했습니다.\n구동 속도는 초당 0.6토큰 수준이며, Mixture of Experts(MoE) 구조와 4비트 양자화 기술을 적용했습니다.\n이는 실제 활성화되는 가중치를 약 50억 파라미터로 줄여 온디바이스 LLM 가능성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27787",
+    "title": "OpenSquirrel - GPU 기반 AI 코드 에이전트 제어판",
+    "url": "https://news.hada.io/topic?id=27787",
+    "discussion_url": "https://news.hada.io/topic?id=27787",
+    "summary": "Claude Code, Codex, Cursor, OpenCode를 한 화면에서 병렬 실행하며 4개까지 그리드로 동시 표시 가능\n\nRust + GPUI로 만든 네이티브 제어판으로 Electron 없이 Metal GPU 렌더링\n\n주 에이전트가 서브 에이전트를 자동 생성하고, 워커는...",
+    "score": 0,
+    "published_at": "2026-03-24T00:31:01+00:00",
+    "ai_summary": "OpenSquirrel은 Claude Code, Codex 등 4개 AI 코드 에이전트를 한 화면에서 병렬 실행하는 제어판입니다.\nRust와 GPUI로 만든 네이티브 앱으로, Electron 없이 Metal GPU 렌더링을 사용하여 고성능을 제공합니다.\n주 에이전트가 서브 에이전트를 자동 생성하고 워커들이 작업을 처리하는 에이전트 오케스트레이션 시스템입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47509571",
+    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+    "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "discussion_url": "https://news.ycombinator.com/item?id=47509571",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-03-24T21:24:33+00:00",
+    "ai_summary": "수직형 SaaS를 개발하기 위해 해충 방제 기술자로 일하며 업계의 문제점과 사용자 경험을 직접 파악했습니다.\n이는 실제 문제 해결을 위한 소프트웨어 개발의 중요성을 강조하며, 제품 기획과 시장 이해에 대한 통찰을 제공합니다.\n개발자가 사용자 관점에서 솔루션을 설계하는 데 필요한 경험의 가치를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47506251",
+    "title": "Arm AGI CPU",
+    "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "discussion_url": "https://news.ycombinator.com/item?id=47506251",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-03-24T17:30:42+00:00",
+    "ai_summary": "Arm이 AGI(인공 일반 지능) 처리를 위한 전용 CPU 개발에 나선다는 소식으로, 미래 AI 하드웨어 아키텍처의 혁신을 예고합니다.\n이는 인공지능 워크로드에 최적화된 프로세서 설계를 통해 AI 성능의 비약적인 향상을 목표로 합니다.\nAI 개발자들이 더 효율적인 모델을 구축하고 배포할 수 있는 기반 기술에 대한 중요한 진전입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47506713",
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "discussion_url": "https://news.ycombinator.com/item?id=47506713",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-03-24T18:03:48+00:00",
+    "ai_summary": "Video.js의 원작자가 16년 만에 프로젝트를 되찾아 대대적으로 리팩토링하여 파일 크기를 88% 줄였다는 소식입니다.\n이는 웹 비디오 플레이어의 성능과 로딩 속도를 크게 개선하며, 프런트엔드 개발자들에게 더 효율적인 도구를 제공합니다.\n레거시 코드 개선과 오픈소스 프로젝트 관리의 모범 사례를 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47504112",
+    "title": "Apple Business",
+    "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47504112",
+    "summary": "",
+    "score": 465,
+    "published_at": "2026-03-24T15:29:41+00:00",
+    "ai_summary": "\"Apple Business\"는 Apple이 기업 고객을 대상으로 제공하는 제품, 서비스 및 솔루션을 의미하며, 기업 환경에서의 Apple 기기 활용 전략을 다룹니다.\n이는 개발자들이 iOS, macOS 플랫폼 기반의 비즈니스 애플리케이션을 구축하거나, 기업용 솔루션을 Apple 생태계에 통합하는 데 필요한 정보를 포함할 수 있습니다.\nApple의 기업 시장 진출 및 전략적 변화가 개발자들에게 미치는 영향을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47501426",
+    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "discussion_url": "https://news.ycombinator.com/item?id=47501426",
+    "summary": "",
+    "score": 433,
+    "published_at": "2026-03-24T12:06:29+00:00",
+    "ai_summary": "PyPI에 배포된 Litellm 패키지 버전 1.82.7 및 1.82.8이 손상되었다는 보안 경고입니다.\n이는 소프트웨어 공급망 공격의 일종으로, 해당 버전을 사용하는 개발자들은 즉시 업데이트 또는 삭제해야 합니다.\n개발 프로젝트의 보안 취약성과 패키지 관리의 중요성을 다시 한번 상기시키는 중요한 사건입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47508246",
+    "title": "We’re saying goodbye to Sora",
+    "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+    "discussion_url": "https://news.ycombinator.com/item?id=47508246",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-03-24T20:01:05+00:00",
+    "ai_summary": "특정 \"Sora\" 프로젝트 또는 서비스가 종료된다는 소식으로, 이는 기술 제품의 수명 주기와 유지보수의 중요성을 강조합니다.\n해당 서비스를 사용하던 개발자들에게는 대안 모색 및 마이그레이션이 필요할 수 있으며, 서비스 종료가 미치는 영향에 대한 고려가 중요합니다.\n제품 개발 및 운영의 현실적인 측면을 보여주는 사례입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47507150",
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47507150",
+    "summary": "",
+    "score": 571,
+    "published_at": "2026-03-24T18:34:52+00:00",
+    "ai_summary": "Wine 11이 리눅스에서 윈도우 게임을 실행하는 방식을 커널 수준에서 재작성하여 엄청난 속도 향상을 이루었습니다.\n이는 윈도우 애플리케이션 호환성을 위한 Wine의 기술적 발전을 보여주며, 리눅스 사용자들에게 더 나은 게임 경험을 제공합니다.\n저수준 시스템 개발과 성능 최적화에 대한 중요한 진전을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47504695",
+    "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+    "url": "https://github.com/t8/hypura",
+    "discussion_url": "https://news.ycombinator.com/item?id=47504695",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-03-24T16:02:22+00:00",
+    "ai_summary": "Hypura는 Apple Silicon 환경에서 스토리지 계층을 인식하는 LLM 추론 스케줄러로, 대규모 언어 모델의 추론 성능을 최적화합니다.\n이는 Apple 기기에서의 LLM 배포 효율성을 극대화하며, 리소스 관리와 시스템 성능 향상에 기여합니다.\nAI/ML 모델을 특정 하드웨어에서 효율적으로 운영하고자 하는 개발자들에게 중요한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47509984",
+    "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
+    "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
+    "discussion_url": "https://news.ycombinator.com/item?id=47509984",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-03-24T21:54:27+00:00",
+    "ai_summary": "메타가 아동 성착취물 관련 소송에서 유죄 평결을 받았습니다. 이는 플랫폼의 사용자 콘텐츠 관리 책임과 관련한 중요한 법적 판례입니다.\n개발자들은 이러한 법적/윤리적 문제에 대비해 안전 기능 및 정책 집행 시스템 구축에 대한 중요성을 인식해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47505144",
+    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+    "url": "https://www.emailmd.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47505144",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-03-24T16:26:00+00:00",
+    "ai_summary": "Email.md는 마크다운을 반응형의 이메일 안전 HTML로 변환해주는 도구입니다. 이메일 템플릿 제작 및 발송 과정을 간소화하여 개발자들의 생산성을 높일 수 있습니다.\n프론트엔드 및 백엔드 개발자 모두에게 유용한 웹 개발 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47503617",
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "url": "https://github.com/ssrajadh/sentrysearch",
+    "discussion_url": "https://news.ycombinator.com/item?id=47503617",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-03-24T14:58:27+00:00",
+    "ai_summary": "구글 제미니가 이제 비디오를 네이티브로 임베드할 수 있게 되어, 이를 활용한 초고속 비디오 검색 기능이 개발되었습니다. 이는 멀티모달 AI 모델의 새로운 활용 사례를 제시합니다.\n개발자들에게 비디오 처리 및 검색 분야의 가능성을 보여주며, AI/ML 분야에 특히 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47508745",
+    "title": "Is anybody else bored of talking about AI?",
+    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47508745",
+    "summary": "",
+    "score": 404,
+    "published_at": "2026-03-24T20:31:08+00:00",
+    "ai_summary": "이 글은 AI 관련 논의에 대한 피로감과 과대광고에 대한 비판적 시각을 제시합니다. AI 기술의 실제 가치와 미래 방향성에 대한 성찰을 유도합니다.\n개발자들이 기술 트렌드를 비판적으로 바라보고, 지속 가능한 학습 및 경력 개발 전략을 세우는 데 도움을 줄 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47503810",
+    "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+    "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47503810",
+    "summary": "",
+    "score": 221,
+    "published_at": "2026-03-24T15:09:30+00:00",
+    "ai_summary": "에픽게임즈가 포트나이트 사용자 감소로 인해 1천명 이상의 직원을 해고한다고 발표했습니다. 이는 게임 산업의 변화와 경제 상황이 개발자 고용 시장에 미치는 영향을 보여줍니다.\n개발자들은 이러한 시장 변화에 주목하고 경력 계획을 신중히 세울 필요가 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47505731",
+    "title": "Show HN: Gridland: make terminal apps that also run in the browser",
+    "url": "https://www.gridland.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47505731",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-03-24T16:57:47+00:00",
+    "ai_summary": "Gridland는 터미널 앱을 웹 브라우저에서도 실행 가능하게 만드는 새로운 도구입니다.\n개발자들이 동일한 코드베이스로 CLI와 웹 UI를 모두 제공할 수 있도록 돕습니다.\n이는 다양한 환경에서 애플리케이션 접근성을 높이는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47506641",
+    "title": "ARM AGI CPU: Specs and SKUs",
+    "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47506641",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-03-24T17:59:16+00:00",
+    "ai_summary": "이 기사는 ARM의 새로운 AGI CPU 아키텍처의 사양과 제품 SKU에 대한 정보를 제공합니다.\n최신 ARM 칩의 성능 특성, 코어 구성 및 적용 분야를 다룹니다.\n하드웨어에 최적화된 소프트웨어 개발자나 시스템 엔지니어에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47508608",
+    "title": "GitHub is once again down",
+    "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+    "discussion_url": "https://news.ycombinator.com/item?id=47508608",
+    "summary": "",
+    "score": 304,
+    "published_at": "2026-03-24T20:23:34+00:00",
+    "ai_summary": "코드 호스팅 플랫폼인 GitHub에 또 다시 서비스 중단이 발생했다는 소식입니다.\n개발자들의 일상적인 작업 흐름과 프로젝트 협업에 직접적인 영향을 미쳤습니다.\n이러한 서비스 장애는 개발 생산성과 배포 일정에 중요한 지장을 초래합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47501950",
+    "title": "Missile defense is NP-complete",
+    "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47501950",
+    "summary": "",
+    "score": 238,
+    "published_at": "2026-03-24T13:00:38+00:00",
+    "ai_summary": "미사일 방어 문제가 계산 복잡도 이론에서 NP-완전으로 분류된다는 내용입니다.\n이는 미사일 방어 시스템의 최적 해를 찾는 것이 매우 어렵거나 불가능함을 의미합니다.\n알고리즘 설계 및 최적화, 특히 복잡한 문제 해결에 대한 이해에 기여합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47475930",
+    "title": "Data Manipulation in Clojure Compared to R and Python",
+    "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47475930",
+    "summary": "",
+    "score": 82,
+    "published_at": "2026-03-22T09:55:23+00:00",
+    "ai_summary": "이 기사는 데이터 조작 관점에서 Clojure를 R 및 Python과 비교 분석합니다.\n각 언어의 강점과 약점, 그리고 데이터 처리 방식의 차이점을 상세히 다룹니다.\n데이터 과학자나 백엔드 개발자가 적절한 언어를 선택하는 데 중요한 통찰력을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47463354",
+    "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+    "url": "https://www.purl.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47463354",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-03-21T02:09:08+00:00",
+    "ai_summary": "purl은 결제가 필요한 HTTP 요청을 처리하도록 설계된 curl과 유사한 CLI 도구입니다.\nAPI 호출 시 지불 게이트웨이 통합이나 유료 서비스 사용에 특화된 기능을 제공합니다.\n개발자들이 유료 API 및 서비스와의 상호작용을 간편하게 자동화하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47501211",
+    "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+    "url": "https://nanobrew.trilok.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47501211",
+    "summary": "",
+    "score": 159,
+    "published_at": "2026-03-24T11:40:21+00:00",
+    "ai_summary": "Nanobrew는 기존 Homebrew와 호환되면서도 더 빠른 속도를 제공하는 macOS용 패키지 관리자입니다.\n개발자들이 macOS 환경에서 소프트웨어 패키지를 효율적으로 설치하고 관리할 수 있도록 돕습니다.\n빌드 시간 단축 및 개발 워크플로우 개선에 기여할 수 있는 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47497757",
+    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "discussion_url": "https://news.ycombinator.com/item?id=47497757",
+    "summary": "",
+    "score": 390,
+    "published_at": "2026-03-24T01:53:09+00:00",
+    "ai_summary": "에포크가 GPT5.4 Pro가 미해결 수학 난제를 해결했다고 공식 확인했습니다.\n이는 LLM의 추론 및 문제 해결 능력의 중요한 발전을 보여줍니다.\n인공지능이 복잡한 과학적 발견에 기여할 잠재력을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47499672",
+    "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+    "url": "https://github.com/AmElmo/proofshot",
+    "discussion_url": "https://news.ycombinator.com/item?id=47499672",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-03-24T07:46:46+00:00",
+    "ai_summary": "ProofShot은 AI 코딩 에이전트가 구축한 UI를 시각적으로 검증할 수 있도록 돕는 도구입니다.\n이를 통해 AI가 생성한 프론트엔드 코드의 정확성과 품질을 향상시킬 수 있습니다.\n개발자가 AI와 협력하여 UI 개발 프로세스를 개선하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47499245",
+    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+    "url": "https://burntsushi.net/ripgrep/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47499245",
+    "summary": "",
+    "score": 318,
+    "published_at": "2026-03-24T06:31:39+00:00",
+    "ai_summary": "Ripgrep은 grep, ag, git grep 등 다른 텍스트 검색 도구들보다 훨씬 빠르다는 내용을 다룹니다.\n이는 개발자가 대규모 코드베이스에서 파일을 효율적으로 검색하는 데 매우 유용합니다.\n개발 생산성 향상에 기여하는 필수 도구의 하나로 평가됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/AndrewCurran_/status/2036043793968083192",
+    "title": "OpenAI is offering private-equity firms a guaranteed minimum return of 17.5% (1 minute read)",
+    "url": "https://x.com/AndrewCurran_/status/2036043793968083192",
+    "discussion_url": "https://x.com/AndrewCurran_/status/2036043793968083192",
+    "summary": "OpenAI is currently courting buyout firms to form joint ventures aimed at raising fresh capital and accelerating the adoption of enterprise AI products. It is offering private-equity firms a guaranteed minimum return of 17.5%, significantly higher than typical preferred instruments. It is also offering early access to its newest AI models. TPG and Advent are potential investors.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "OpenAI는 기업 AI 제품 채택 가속화를 위해 사모펀드로부터 자금 유치를 추진하며 합작 투자를 제안하고 있습니다. 사모펀드에는 17.5%의 최소 수익률과 최신 AI 모델에 대한 조기 접근 권한을 보장합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html",
+    "title": "Claude Code and Cowork can now use your computer (1 minute read)",
+    "url": "https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html",
+    "discussion_url": "https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html",
+    "summary": "Claude Code and Claude Cowork can now open files, use browsers, and run dev tools on users' computers. The agent will prioritize connectors to supported services, but it can still execute tasks when connectors aren't available. It will ask for permission before taking action. Claude computer use is initially available to Claude Pro and Claude Max subscribers on macOS.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "Claude Code와 Claude Cowork가 이제 사용자 컴퓨터의 파일 열기, 브라우저 사용, 개발 도구 실행이 가능합니다. 이 AI 에이전트는 작업 전에 항상 사용자 허락을 받으며, 현재 macOS의 Claude Pro 및 Claude Max 구독자에게 제공됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+    "title": "OpenAI rolls out ChatGPT Library to store your personal files (2 minute read)",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+    "discussion_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+    "summary": "ChatGPT's new Library feature allows users to store personal files or images on OpenAI's cloud storage. Available to Plus, Pro, and Business subscribers, the feature is rolling out to customers across the world except in the European Economic Area, Switzerland, and the United Kingdom. ChatGPT will automatically save uploaded or created files. Deleting a chat containing a file will not delete the file saved in Library.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "ChatGPT의 새로운 라이브러리 기능을 통해 사용자는 개인 파일이나 이미지를 OpenAI 클라우드에 저장할 수 있습니다. Plus, Pro, Business 구독자에게 제공되며, 채팅을 삭제해도 라이브러리에 저장된 파일은 유지됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit?tab=t.0#heading=h.rduzhxi11vcn&amp;utm_source=tldrai",
+    "title": "Designing AI Chip Hardware and Software (Book)",
+    "url": "https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit?tab=t.0#heading=h.rduzhxi11vcn&amp;utm_source=tldrai",
+    "discussion_url": "https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit?tab=t.0#heading=h.rduzhxi11vcn&amp;utm_source=tldrai",
+    "summary": "The future of AI accelerators will be AI CPUs - traditional CPUs with big caches and systolic arrays, where the caches and systolic arrays take up most of the chip area and power. This book goes over what is required to design a competitive AI chip. The recommendations made in the book will require an excellent software team to realize, but the topics covered should be easily understandable at a hobbyist level.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "이 책은 AI 가속기의 미래가 큰 캐시와 시스톨릭 어레이를 갖춘 AI CPU가 될 것이며, 경쟁력 있는 AI 칩 설계에 필요한 하드웨어 및 소프트웨어 요건을 다룹니다. 책에서 제시하는 권고 사항은 뛰어난 소프트웨어 팀이 있어야 실현될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "title": "A Ramsey-style Problem on Hypergraphs (6 minute read)",
+    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "discussion_url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "summary": "This post details a problem that would take an expert human about one to three months to solve. The problem was eventually solved by two people using GPT-5.4 Pro. A link to the full transcript of the conversation with GPT-5.4 Pro is available. Other models that have solved the problem include GPT 5.4 (xhigh), Gemini 3.1 Pro, and Claude Opus 4.6 (max).",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "전문가가 1~3개월 걸릴 문제를 GPT-5.4 Pro를 사용한 두 사람이 해결했습니다. 이 문제는 GPT 5.4 (xhigh), Gemini 3.1 Pro, Claude Opus 4.6 (max) 등 다른 최신 LLM 모델들도 해결할 수 있었음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/vibe-physics",
+    "title": "Vibe physics: The AI grad student (32 minute read)",
+    "url": "https://www.anthropic.com/research/vibe-physics",
+    "discussion_url": "https://www.anthropic.com/research/vibe-physics",
+    "summary": "A professor of physics supervised Claude through a real research calculation from start to finish without ever touching a file to see whether AI could do theoretical physics. This resulted in a technically rigorous, impactful, high-energy theoretical physics paper in two weeks instead of the usual year. While Claude was impressively capable, domain expertise was essential for evaluating its accuracy. AI is still not able to do end-to-end science, but the project proved that it can do frontier sc",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "한 교수가 Claude를 활용하여 실제 이론 물리학 연구 계산을 수행한 결과, 보통 1년 걸리던 논문을 2주 만에 완성했습니다. AI가 아직 엔드 투 엔드 과학 연구를 할 수는 없지만, 도메인 전문 지식이 결합될 경우 프론티어 과학 연구에 크게 기여할 수 있음을 입증했습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://metr.org/notes/2026-03-19-org-uplift-game/",
+    "title": "Research note: We spent 2 hours working in the future (15 minute read)",
+    "url": "https://metr.org/notes/2026-03-19-org-uplift-game/",
+    "discussion_url": "https://metr.org/notes/2026-03-19-org-uplift-game/",
+    "summary": "The rate of model releases and the number of new evals required next year could be such that keeping informed will be a challenge without effective AI assistance. These AI-augmented workflows need to be understood now before they become necessary. METR ran a tabletop exercise to learn what workflows emerged, what the bottlenecks are, and how much faster researchers will actually be. This post details the lessons learned from the exercise.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "AI 모델 출시 속도와 필요한 평가 작업이 급증하면서, 효과적인 AI 지원 없이는 정보를 따라잡기 어려워질 것입니다. METR은 AI 증강 워크플로우를 테스트하여 미래 연구자들의 작업 속도를 높이고 병목 현상을 파악하는 중요한 교훈을 얻었습니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "title": "Fast Domain-Specific Embedding Tuning (17 minute read)",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "discussion_url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "summary": "NVIDIA released a pipeline for quickly fine-tuning embedding models using synthetic data, improving retrieval performance for domain-specific RAG systems.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "NVIDIA는 합성 데이터를 사용하여 임베딩 모델을 빠르게 미세 조정하는 파이프라인을 출시했습니다. 이 파이프라인은 도메인 특화 RAG(Retrieval-Augmented Generation) 시스템의 검색 성능을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://dynaedit.github.io/",
+    "title": "DeepMind introduces training-free video editing (5 minute read)",
+    "url": "https://dynaedit.github.io/",
+    "discussion_url": "https://dynaedit.github.io/",
+    "summary": "DynaEdit introduces a training-free method for editing videos with complex motion and interactions using pretrained text-to-video models, addressing issues like misalignment and jitter.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "DynaEdit은 사전 훈련된 텍스트-비디오 모델을 사용하여 복잡한 움직임과 상호작용이 있는 비디오를 편집하는 훈련 불필요 방식을 도입했습니다. 이는 기존 비디오 편집의 정렬 문제나 흔들림 문제를 해결합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.natemeyvis.com/why-arent-we-fine-tuning-more/",
+    "title": "Why aren't we fine-tuning more? (1 minute read)",
+    "url": "https://www.natemeyvis.com/why-arent-we-fine-tuning-more/",
+    "discussion_url": "https://www.natemeyvis.com/why-arent-we-fine-tuning-more/",
+    "summary": "A good prompt can do a lot of the work that fine-tuning does without the cost. Models are getting so good that fine-tuning isn't really required to get good results. The extra work and resources required for fine-tuning aren't worth it anymore for most use cases. It is still worth knowing how to fine-tune, as there are other situations where the skill is useful.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "좋은 프롬프트만으로도 파인튜닝의 많은 작업을 대체할 수 있어 비용을 절감할 수 있습니다. 모델의 성능 향상으로 인해 대부분의 사용 사례에서는 더 이상 파인튜닝이 필수가 아니며, 그에 따른 추가 작업과 자원 소모가 비효율적일 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/fast-regex-search",
+    "title": "Fast regex search: indexing text for agent tools (28 minute read)",
+    "url": "https://cursor.com/blog/fast-regex-search",
+    "discussion_url": "https://cursor.com/blog/fast-regex-search",
+    "summary": "Providing text search indexes to fast models creates a qualitative difference for Agentic workflows. The impact is more pronounced in larger Enterprise repositories because grep latency scales with the size and complexity of the code being worked on. Removing the time spent searching the code base provides meaningful time savings and allows for much more effective iteration, particularly when the Agent is investigating a bug.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "텍스트 검색 인덱스를 빠른 모델에 제공하면 에이전트 워크플로에 질적인 변화를 가져옵니다. 특히 대규모 기업 저장소에서 검색 시간이 줄어들어 개발 효율성이 크게 향상되고, 버그 조사 시 에이전트의 반복 작업이 더욱 효과적입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+    "title": "Walmart: ChatGPT checkout converted 3x worse than website (1 minute read)",
+    "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+    "discussion_url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+    "summary": "This suggests that agentic commerce isn't ready to replace traditional shopping.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "월마트의 사례는 ChatGPT 기반의 에이전트 커머스가 기존 웹사이트보다 전환율이 3배 낮았음을 보여줍니다. 이는 에이전트 기반 커머스가 아직 전통적인 쇼핑 방식을 대체할 준비가 되지 않았음을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/anemll/status/2035901335984611412",
+    "title": "Running 400B model on iPhone (1 minute read)",
+    "url": "https://x.com/anemll/status/2035901335984611412",
+    "discussion_url": "https://x.com/anemll/status/2035901335984611412",
+    "summary": "A short clip of an iPhone 17 Pro running Qwen3.5-397B-A17B (a 397 billion parameter Mixture-of-Experts model) at 0.6 tokens per second.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "이 짧은 클립은 아이폰 17 Pro에서 3970억 개의 파라미터를 가진 Mixture-of-Experts 모델인 Qwen3.5-397B-A17B를 초당 0.6토큰 속도로 실행하는 것을 보여줍니다. 이는 모바일 기기에서의 대규모 AI 모델 실행 가능성을 보여주는 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://a16z.com/there-are-only-two-paths-left-for-software/",
+    "title": "There are only two paths left for software (11 minute read)",
+    "url": "https://a16z.com/there-are-only-two-paths-left-for-software/",
+    "discussion_url": "https://a16z.com/there-are-only-two-paths-left-for-software/",
+    "summary": "Software companies face two clear paths: accelerate growth with AI products or achieve 40%+ true operating margins.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "소프트웨어 회사들은 AI 제품을 통한 성장 가속화 또는 40% 이상의 진정한 영업 이익 달성이라는 두 가지 명확한 길에 직면해 있습니다. 이는 AI 시대에 소프트웨어 기업이 나아가야 할 방향에 대한 전략적인 논의를 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+    "title": "If DSPy is So Great, Why Isn't Anyone Using It? (11 minute read)",
+    "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+    "discussion_url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+    "summary": "DSPy is a framework that promises to solve the biggest challenges in AI engineering, but it's hard to use.",
+    "score": 0,
+    "published_at": "2026-03-24T23:33:59+00:00",
+    "ai_summary": "DSPy는 AI 엔지니어링의 가장 큰 과제를 해결하겠다고 약속하는 프레임워크입니다. 그러나 사용하기 어렵다는 단점이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
