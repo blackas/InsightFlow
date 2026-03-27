@@ -1,0 +1,760 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27930",
+    "title": "뉴욕시 병원들, 논란의 AI 기업 Palantir과의 계약 종료…영국에서는 확장 지속",
+    "url": "https://news.hada.io/topic?id=27930",
+    "discussion_url": "https://news.hada.io/topic?id=27930",
+    "summary": "뉴욕시 공공병원 시스템이 Palantir Technologies와의 계약 갱신을 중단하고 내부 시스템으로 전환 결정\n계약에는 비식별 환자 데이터의 연구 외 사용 가능 조항이 포함되어 데이터 프라이버시 전문가들의 우려를 초래\nPalantir은",
+    "score": 0,
+    "published_at": "2026-03-27T21:36:49+00:00",
+    "ai_summary": "뉴욕시 병원 시스템이 Palantir Technologies와의 계약을 데이터 프라이버시 문제로 종료하고 내부 시스템으로 전환합니다. 계약에 비식별 환자 데이터의 연구 외 사용 가능 조항이 포함되어 논란을 빚었습니다. 이는 AI 기술 적용 시 데이터 윤리와 보안의 중요성을 부각시키며, 기술 기업의 사회적 책임에 대한 경각심을 높입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27929",
+    "title": "AI 에이전트를 $7/월 VPS에 배치하고 IRC를 전송 계층으로 사용한 디지털 도어맨 구축",
+    "url": "https://news.hada.io/topic?id=27929",
+    "discussion_url": "https://news.hada.io/topic?id=27929",
+    "summary": "개인 포트폴리오 사이트에 IRC 기반 AI 에이전트를 연결해, 방문자가 실제 GitHub 저장소 코드 분석 결과를 바탕으로 질문에 답변받을 수 있는 구조\n단순한 이력서 요약형 챗봇이 아니라, 저장소 복제·테스트 계산·코드 검증을 수행하는 ...",
+    "score": 0,
+    "published_at": "2026-03-27T21:33:49+00:00",
+    "ai_summary": "저렴한 VPS에 IRC 기반 AI 에이전트를 배치하여 방문자의 GitHub 코드 질문에 답변하는 디지털 도어맨을 구축했습니다. 에이전트가 실제 저장소 복제 및 코드 분석을 수행하여 단순 챗봇을 넘어선 기능을 제공합니다. 이는 AI 에이전트의 실제 적용 사례와 함께 저비용 호스팅 및 독특한 통신 프로토콜 활용법을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27925",
+    "title": "GitHub Copilot 상호작용 데이터 사용 정책 업데이트",
+    "url": "https://news.hada.io/topic?id=27925",
+    "discussion_url": "https://news.hada.io/topic?id=27925",
+    "summary": "2026년 4월 24일부터 Copilot Free·Pro·Pro+ 사용자 데이터가 AI 모델 학습 및 개선에 활용되며, 사용자는 옵트아웃 설정으로 이를 거부할 수 있음\n\nBusiness 및 Enterprise 사용자는 이번 변경의 영향을 받지 않으며, 이전에 거...",
+    "score": 0,
+    "published_at": "2026-03-27T18:33:16+00:00",
+    "ai_summary": "2026년 4월부터 GitHub Copilot Free/Pro/Pro+ 사용자 데이터가 AI 모델 학습 및 개선에 활용되며, 사용자는 옵트아웃으로 거부할 수 있습니다. 이는 AI 개발 도구 사용자의 데이터 프라이버시에 직접적인 영향을 미치는 중요한 정책 변경입니다. Business 및 Enterprise 사용자는 이번 변경의 영향을 받지 않습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27924",
+    "title": "LiteLLM 공급망 공격에 대한 분 단위 대응 기록",
+    "url": "https://news.hada.io/topic?id=27924",
+    "discussion_url": "https://news.hada.io/topic?id=27924",
+    "summary": "PyPI를 통해 배포된 LiteLLM 1.82.8 악성 패키지 감염을 실시간으로 탐지하고 분석한 분 단위 대응 일지\n\n감염은 Cursor IDE 자동 업데이트 중 발생했으며, litellm_init.pth 파일이 실행되어 자격 증명 탈취와 시스템 감염...",
+    "score": 0,
+    "published_at": "2026-03-27T17:37:26+00:00",
+    "ai_summary": "PyPI를 통해 배포된 LiteLLM 1.82.8 악성 패키지에 대한 공급망 공격 감염 및 실시간 대응 기록입니다. Cursor IDE 자동 업데이트 중 자격 증명 탈취와 시스템 감염이 시도된 정황을 분석했습니다. 이는 오픈소스 라이브러리 사용 시 보안 위협과 신속한 위협 대응 전략의 중요성을 극명하게 보여줍니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27922",
+    "title": "$500 GPU가 코딩 벤치마크에서 Claude Sonnet을 능가",
+    "url": "https://news.hada.io/topic?id=27922",
+    "discussion_url": "https://news.hada.io/topic?id=27922",
+    "summary": "A.T.L.A.S (Adaptive Test-time Learning and Autonomous Specialization) 은 소비자용 GPU 한 대로 대형 모델 수준의 코드 생성 성능을 구현하는 자체 호스팅 AI 시스템\n\n\nLiveCodeBench v5 기준 74.6% pass@1-v(k=3)...",
+    "score": 0,
+    "published_at": "2026-03-27T16:33:22+00:00",
+    "ai_summary": "A.T.L.A.S 시스템이 $500 소비자용 GPU 한 대로 대형 모델 수준의 코드 생성 성능을 구현했습니다. 이는 코딩 벤치마크에서 Claude Sonnet을 능가하는 결과를 보여주며, LiveCodeBench v5 기준 74.6% pass@1-v(k=3)를 기록했습니다. 저렴한 하드웨어로 고성능 AI 개발 환경을 구축할 수 있는 잠재력을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27920",
+    "title": "Show GN: Geas - Claude Code 멀티 에이전트 장기 작업을 위한 계약 기반 거버넌스 harness",
+    "url": "https://news.hada.io/topic?id=27920",
+    "discussion_url": "https://news.hada.io/topic?id=27920",
+    "summary": "▎ AI 에이전트 여러 개가 동시에 코드를 작성할 때의 문제: 누가 무슨 결정을 했는지 모르고, 결과물이 요구사항을\n충족하는지 확인할 수 없고, 배운 것이 다음 세션에서 사라집니다.\n▎ - 모든 태스크에 검증 가능한 수락 기준이 있는 TaskContract 부여\n▎ - 3단계 Evidence Gate: 코드 실행 →",
+    "score": 0,
+    "published_at": "2026-03-27T13:47:18+00:00",
+    "ai_summary": "Geas는 여러 AI 에이전트가 코드를 작성할 때 발생하는 문제 해결을 위한 계약 기반 거버넌스 프레임워크입니다. 검증 가능한 승인 기준을 가진 TaskContract와 3단계 Evidence Gate를 통해 태스크 추적, 결과물 검증, 학습 유지를 가능하게 합니다. 복잡한 멀티 에이전트 AI 시스템 개발의 효율성을 높이는 혁신적인 접근법을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27918",
+    "title": "SaaS 는 죽지 않았다",
+    "url": "https://news.hada.io/topic?id=27918",
+    "discussion_url": "https://news.hada.io/topic?id=27918",
+    "summary": "1. SaaS가 죽었다는 주장의 배경\n\n최근 Claude Code, Copilot, Codex 같은 AI 코딩 도구가 빠르게 발전하면서, “이제 소프트웨어는 프롬프트 몇 줄이면 만들 수 있으니 SaaS는 끝난 것 아니냐”는 주장이 힘을 얻고 있음.\n실제로 리드 호프만은, Claude Code 관련 트윗 하나가 SaaS 주가를 5...",
+    "score": 0,
+    "published_at": "2026-03-27T11:48:02+00:00",
+    "ai_summary": "AI 코딩 도구의 발전에도 불구하고 SaaS가 죽지 않았다는 주장을 반박하는 글입니다. AI는 소프트웨어 생성을 보조하지만, SaaS는 복잡한 비즈니스 로직, 통합 및 운영 관리 측면에서 여전히 핵심적인 가치를 제공합니다. 이 글은 AI 시대의 소프트웨어 산업 동향과 개발 모델의 미래에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27917",
+    "title": "Show GN: MemAware – AI 에이전트가 &quot;내가 뭘 알고 있는지&quot;를 아는지 측정하는 벤치마크",
+    "url": "https://news.hada.io/topic?id=27917",
+    "discussion_url": "https://news.hada.io/topic?id=27917",
+    "summary": "AI 에이전트 메모리 시스템을 만들면서 기존 벤치마크들의 공통적인 한계를 발견했습니다.\nLoCoMo, LongMemEval, MemoryAgentBench 등 기존 메모리 벤치마크는 전부 같은 걸 테스트합니다: &quot;과거 대화에서 답을 찾을 수 있는가?&quot; 이건 검색 엔진 성능 테스트이지, 메모리 시스템 테스트가 아닙니다.",
+    "score": 0,
+    "published_at": "2026-03-27T11:32:35+00:00",
+    "ai_summary": "AI 에이전트 메모리 벤치마크 'MemAware'가 기존 벤치마크들의 한계를 지적합니다. 기존 방식은 검색 엔진 성능 테스트에 불과하며, MemAware는 에이전트가 \"무엇을 아는지\"를 측정하는 진정한 메모리 테스트를 목표합니다.\n이는 LLM 및 AI 에이전트 개발에 중요한 진전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27913",
+    "title": "Show GN: AWS의 다양한 서비스를 설명하고 흐름을 보여주는 학습 웹사이트",
+    "url": "https://news.hada.io/topic?id=27913",
+    "discussion_url": "https://news.hada.io/topic?id=27913",
+    "summary": "개발자로서 AWS 시스템 디자인을 공부하는 중에, 각 서비스가 어떤 문제를 풀고, 서로 어떻게 연결되는지 감을 잡기 위해 LLM과 대화를 하던 중 만들게 된 학습 웹사이트입니다..\n현재는 36개의 AWS 서비스를 다이어그램과 함께 설명하고, 각 서비스마다 &quot;왜 필요하고, 어떻게 동작하는가&quot;, 그리고",
+    "score": 0,
+    "published_at": "2026-03-27T07:36:58+00:00",
+    "ai_summary": "AWS 시스템 디자인 학습을 돕기 위해 개발자가 LLM과 대화하며 만든 학습 웹사이트가 소개됩니다. 이 사이트는 36개 AWS 서비스를 다이어그램과 함께 제공하며, 각 서비스의 필요성 및 동작 방식을 상세히 설명합니다.\nAWS 클라우드 아키텍처 이해에 실질적인 도움을 줄 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27911",
+    "title": "Anthropic, 차세대 모델 “Claude Mythos” 유출로 존재 확인 — “역대 가장 강력한 모델”",
+    "url": "https://news.hada.io/topic?id=27911",
+    "discussion_url": "https://news.hada.io/topic?id=27911",
+    "summary": "Anthropic이 개발 중인 새 AI 모델 “Claude Mythos”의 존재가 데이터 유출로 드러났고, Anthropic이 이를 공식 인정했습니다.\nFortune이 보도한 내용에 따르면, Anthropic이 사용하는 외부 CMS(콘텐츠 관리 시스템)의 설정 오류로 인해 미공개 초안 블로그 포스트를 비롯한 약 3,000여 개의 에셋이 공개 접근...",
+    "score": 0,
+    "published_at": "2026-03-27T06:04:05+00:00",
+    "ai_summary": "Anthropic의 차세대 AI 모델 \"Claude Mythos\"의 존재가 데이터 유출로 확인되었고, Anthropic이 이를 공식 인정했습니다. 외부 CMS 설정 오류로 미공개 초안 블로그 포스트 등 약 3천개 에셋이 노출된 결과입니다.\n이 모델은 \"역대 가장 강력한 모델\"로 기대를 모으고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27909",
+    "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
+    "url": "https://news.hada.io/topic?id=27909",
+    "discussion_url": "https://news.hada.io/topic?id=27909",
+    "summary": "깃허브의 개인정보 정책 변화로 기본 값으로 학습의 활용으로 변화\n\nGitHub Copilot Free, Pro 및 Pro+에 적용\nGitHub와 계열사에 AI 모델을 개발, 훈련 및 개선하기 위해 입력(예: 프롬프트 및 코드 컨텍스트)과 출력(예: 제안)을 수집하고 사용할 수 있는 라이선스를 부여\nprivate r",
+    "score": 0,
+    "published_at": "2026-03-27T03:39:23+00:00",
+    "ai_summary": "깃허브의 개인정보 정책이 변경되어 4월 24일부터 기본적으로 AI 학습에 데이터를 활용합니다. GitHub Copilot Free, Pro 등 사용 시 프롬프트 및 코드 컨텍스트 등의 입력과 출력 데이터가 AI 모델 개발에 사용됩니다.\n개발자들은 이 변경사항을 인지하고 설정 변경을 고려해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27905",
+    "title": "소프트웨어에 남은 길은 두 가지뿐",
+    "url": "https://news.hada.io/topic?id=27905",
+    "discussion_url": "https://news.hada.io/topic?id=27905",
+    "summary": "공개 시장이 소프트웨어 섹터를 이미 재평가했으며, 소프트웨어의 터미널 밸류가 과거와 달라졌다는 신호를 보내고 있음\n지속 가능한 주식 가치 창출을 위한 경로는 AI 네이티브 신제품으로 매출 성장률 10%p 이상 가속하거나, SBC 포함 실질 영업이익률 4...",
+    "score": 0,
+    "published_at": "2026-03-27T01:06:02+00:00",
+    "ai_summary": "공개 시장이 소프트웨어 섹터를 재평가하며 소프트웨어의 장기 가치가 변화하고 있다는 분석입니다. 지속 가능한 성장을 위해선 AI 네이티브 신제품으로 매출 10%p 이상 가속하거나, 실질 영업이익률 40% 이상 달성하는 두 가지 길만 남았다고 제시합니다.\n이는 소프트웨어 기업의 전략 방향과 개발자 커리어에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27900",
+    "title": "유럽의회, Chat Control 1.0 중단 결정",
+    "url": "https://news.hada.io/topic?id=27900",
+    "discussion_url": "https://news.hada.io/topic?id=27900",
+    "summary": "유럽의회가 개인 메시지 감시 정책인 Chat Control 1.0의 중단을 결정함\n이에 따라 Gmail, LinkedIn, Microsoft 등 대형 기술 기업은 2026년 4월 6일부터 EU 내 개인 메시지 스캔을 중단해야 함\n조치는 이메일과 메신...",
+    "score": 0,
+    "published_at": "2026-03-27T00:40:33+00:00",
+    "ai_summary": "유럽의회가 개인 메시지 감시 정책인 'Chat Control 1.0' 중단을 결정했습니다. 이에 따라 2026년 4월 6일부터 Gmail, LinkedIn 등 주요 기술 기업은 EU 내 개인 메시지 스캔을 중단해야 합니다.\n이는 디지털 프라이버시를 강화하고, 관련 서비스 개발에 중요한 영향을 미칠 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27899",
+    "title": "채팅 통제 종료: EU 의회, 대규모 감시 중단 결정",
+    "url": "https://news.hada.io/topic?id=27899",
+    "discussion_url": "https://news.hada.io/topic?id=27899",
+    "summary": "유럽의회가 사적 메시지 감시(‘Chat Control’) 를 종식시키며 개인 간 통신의 디지털 프라이버시를 회복함\n단 1표 차이로 자동 이미지·텍스트 분석 조항이 부결되어 Meta·Google·Microsoft 등의 채팅 스캔이 중단됨\n...",
+    "score": 0,
+    "published_at": "2026-03-27T00:37:33+00:00",
+    "ai_summary": "유럽의회가 사적 메시지 감시('Chat Control')를 종료하며 디지털 프라이버시를 복원합니다. 단 1표 차이로 자동 이미지·텍스트 분석 조항이 부결되어 Meta, Google 등 기업의 채팅 스캔이 중단됩니다.\n이는 메시징 플랫폼 개발 및 AI 기반 콘텐츠 분석 기능에 직접적인 영향을 줄 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47549649",
+    "title": "Why are executives enamored with AI, but ICs aren't?",
+    "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47549649",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-03-27T23:19:18+00:00",
+    "ai_summary": "경영진은 AI에 열광하지만 개발자들은 회의적인 이유를 분석합니다. AI 기술 도입과 실제 적용 사이의 기대치 차이와 현실적인 문제점을 다룹니다. 이는 개발자들의 업무 환경과 커리어에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47548013",
+    "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+    "url": "https://github.com/davidmonterocrespo24/velxio",
+    "discussion_url": "https://news.ycombinator.com/item?id=47548013",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-27T20:44:33+00:00",
+    "ai_summary": "Velxio 2.0은 Arduino, ESP32, Raspberry Pi 3 등 인기 있는 임베디드 시스템을 브라우저에서 에뮬레이트합니다. 하드웨어 없이 소프트웨어 개발 및 테스트가 가능하여 개발자들에게 유용한 도구입니다. 이는 IoT 및 임베디드 분야의 개발 효율성을 크게 향상시킬 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47543139",
+    "title": "Anatomy of the .claude/ folder",
+    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+    "discussion_url": "https://news.ycombinator.com/item?id=47543139",
+    "summary": "",
+    "score": 339,
+    "published_at": "2026-03-27T14:35:45+00:00",
+    "ai_summary": ".claude/ 폴더의 내부 구조와 구성 요소를 상세히 분석하는 기사입니다. 이 폴더가 Claude LLM과 어떻게 상호작용하고 데이터를 관리하는지 개발자 관점에서 설명합니다. 이를 통해 시스템 이해도를 높이고 효율적인 활용 방안을 모색할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47540388",
+    "title": "Telnyx package compromised on PyPI",
+    "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=47540388",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-03-27T08:57:02+00:00",
+    "ai_summary": "PyPI에 게시된 Telnyx 패키지가 보안 침해를 당해 악성 코드가 포함된 버전이 배포되었습니다. 파이썬 개발자들은 해당 패키지 사용 시 주의해야 하며, 공급망 보안의 중요성을 상기시킵니다. 이는 개발자들의 프로젝트 보안에 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47542644",
+    "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+    "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+    "discussion_url": "https://news.ycombinator.com/item?id=47542644",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-03-27T13:49:51+00:00",
+    "ai_summary": "Brother 프린터에 Let's Encrypt TLS 인증서를 설치하여 보안을 강화하는 과정을 다룹니다.\nCertbot을 활용해 프린터의 웹 인터페이스에 HTTPS를 적용하는 구체적인 단계를 설명합니다.\n이는 일반 서버 환경을 넘어 특정 IoT/네트워크 장치의 보안 설정에 대한 실용적인 가이드입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47544238",
+    "title": "The Future of SCIP",
+    "url": "https://sourcegraph.com/blog/the-future-of-scip",
+    "discussion_url": "https://news.ycombinator.com/item?id=47544238",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-03-27T15:46:50+00:00",
+    "ai_summary": "SCIP(Source Code Index Protocol)의 현재와 미래 발전 방향에 대해 심층적으로 탐구합니다.\n코드 인텔리전스 및 개발 환경 도구의 효율성을 높이는 핵심 프로토콜의 중요성을 강조합니다.\n대규모 코드베이스 분석 및 IDE 통합 표준화에 미치는 잠재적 영향을 논의합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47521845",
+    "title": "Automatically generate all 3D print files for organizing a drawer",
+    "url": "https://geniecrate.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47521845",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-03-25T19:12:12+00:00",
+    "ai_summary": "서랍 정리를 위한 3D 프린트 파일을 파라메트릭하게 자동으로 생성하는 방법을 소개합니다.\n스크립팅과 디자인 자동화를 통해 맞춤형 수납 도구를 효율적으로 만드는 과정을 다룹니다.\n이는 개발자의 자동화 사고방식을 3D 프린팅 분야에 적용한 흥미로운 사례입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47533709",
+    "title": "Building FireStriker: Making Civic Tech Free",
+    "url": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
+    "discussion_url": "https://news.ycombinator.com/item?id=47533709",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-03-26T18:03:43+00:00",
+    "ai_summary": "시민 기술(Civic Tech) 프로젝트인 FireStriker를 구축하고 무료로 제공하는 과정을 설명합니다.\n개발자들이 사회적 문제 해결에 기여하며 기술의 접근성을 높이는 방법을 보여줍니다.\n오픈 소스와 공공의 이익을 위한 소프트웨어 개발의 중요성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47543204",
+    "title": "Meow.camera",
+    "url": "https://meow.camera/#4258783365322591678",
+    "discussion_url": "https://news.ycombinator.com/item?id=47543204",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-03-27T14:41:02+00:00",
+    "ai_summary": "Meow.camera는 재미있고 독특한 경험을 제공하는 웹 기반 카메라 애플리케이션입니다.\n사용자 친화적인 인터페이스와 창의적인 기능을 통해 사진 및 비디오 촬영을 즐겁게 만듭니다.\n프런트엔드 개발, UX/UI 디자인, 그리고 웹 기술의 활용을 엿볼 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47498222",
+    "title": "Embracing Bayesian methods in clinical trials",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
+    "discussion_url": "https://news.ycombinator.com/item?id=47498222",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-03-24T03:08:56+00:00",
+    "ai_summary": "임상 시험 설계 및 분석에서 베이즈 방법론의 적용과 장점을 깊이 있게 다룹니다.\n전통적 통계 방식의 한계를 넘어 데이터 기반의 유연하고 효율적인 의사결정을 돕는 방법을 제시합니다.\n데이터 과학 및 AI/ML 분야에 관심 있는 개발자에게 통계적 사고 확장에 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47546911",
+    "title": "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
+    "url": "https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47546911",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-03-27T19:06:44+00:00",
+    "ai_summary": "Redox OS에서 역량 기반 보안 모델을 구현하는 기술적인 접근을 설명합니다.\n네임스페이스와 현재 작업 디렉터리를 역량으로 활용하는 방법을 상세히 다룹니다.\n운영체제 개발, 시스템 보안 및 저수준 프로그래밍에 관심 있는 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47511838",
+    "title": "Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared",
+    "url": "https://runmat.com/blog/free-matlab-alternatives",
+    "discussion_url": "https://news.ycombinator.com/item?id=47511838",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-03-25T01:02:55+00:00",
+    "ai_summary": "Matlab을 대체할 수 있는 다양한 소프트웨어들을 2026년 관점에서 심층 비교 분석합니다.\n벤치마크 성능, GPU 활용, 웹 브라우저 기반 기능 및 호환성 등을 중점적으로 다룹니다.\n과학, 공학 및 데이터 분석 분야 개발자들이 도구를 선택하는 데 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47549160",
+    "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+    "url": "https://twitchroulette.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47549160",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-03-27T22:22:20+00:00",
+    "ai_summary": "해커 뉴스에 소개된 '트위치 룰렛'은 시청자가 가장 필요한 라이브 스트리머를 찾아주는 서비스입니다.\nAPI 연동, 데이터 분석 및 웹 개발 기술이 결합된 프로젝트입니다.\n웹 서비스 개발, 플랫폼 API 활용에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47524051",
+    "title": "21,864 Yugoslavian .yu domains",
+    "url": "https://jacobfilipp.com/yu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47524051",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-03-25T22:20:47+00:00",
+    "ai_summary": "과거 유고슬라비아의 국가 코드 최상위 도메인(.yu)에 얽힌 역사와 관련된 데이터 기사입니다.\n인터넷 도메인 관리, 웹 아카이빙, 또는 지역 인터넷 인프라의 변화에 대한 내용을 담고 있습니다.\n인터넷 역사 및 인프라에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47499262",
+    "title": "Gzip decompression in 250 lines of Rust",
+    "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47499262",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-03-24T06:35:08+00:00",
+    "ai_summary": "Rust를 사용하여 250줄이라는 적은 코드로 Gzip 압축 해제기를 구현하는 과정을 설명합니다.\n낮은 수준의 시스템 프로그래밍 기법, 비트 연산, 데이터 구조 활용을 상세히 다룹니다.\n고성능 및 효율적인 코드 작성에 관심 있는 개발자에게 실질적인 구현 지식을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47540929",
+    "title": "Should QA exist?",
+    "url": "https://www.rubick.com/should-qa-exist/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47540929",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-03-27T10:27:28+00:00",
+    "ai_summary": "소프트웨어 개발 프로세스에서 QA(품질 보증) 팀의 존재 여부와 역할에 대해 깊이 있게 탐구합니다.\nQA를 독립적인 기능으로 유지할지, 아니면 개발 문화에 통합할지에 대한 다양한 관점을 제시합니다.\n개발자 관점에서 품질에 대한 책임과 효율적인 팀워크 구축 방안을 고민하게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47493246",
+    "title": "Everything old is new again: memory optimization",
+    "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47493246",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-03-23T18:22:33+00:00",
+    "ai_summary": "오래된 메모리 최적화 기법들이 현대 컴퓨팅 환경에서도 여전히 유효하고 중요함을 강조합니다.\n캐시 효율성, 데이터 정렬, 자료 구조 선택 등 시스템 성능을 극대화하는 방법을 재조명합니다.\n모든 개발자가 알아야 할 근본적인 성능 개선 원리와 적용 사례를 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47507576",
+    "title": "Solving Semantle with the Wrong Embeddings",
+    "url": "https://victoriaritvo.com/blog/robust-semantle-solver/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47507576",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-03-24T19:05:37+00:00",
+    "ai_summary": "단어 게임 Semantle을 풀기 위해 의도적으로 적합하지 않은 임베딩을 사용한 실험 과정을 공유합니다.\n이러한 '잘못된' 접근을 통해 임베딩의 작동 원리, 한계 및 응용 가능성을 탐구합니다.\n실제 문제 해결에서 AI/ML 모델의 강점과 약점을 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "title": "Gemini 3.1 Flash Live for Real-Time Voice AI (2 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "summary": "Gemini 3.1 Flash Live is a real-time voice model focused on low-latency, natural dialogue. It is available across Google's developer APIs, enterprise tools, and consumer products.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Gemini 3.1 Flash Live는 저지연 실시간 음성 AI 모델입니다. 구글 개발자 API 및 제품 전반에 걸쳐 사용 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/eoghan/status/2037197696075981124",
+    "title": "The age of vertical models is here (9 minute read)",
+    "url": "https://x.com/eoghan/status/2037197696075981124",
+    "discussion_url": "https://x.com/eoghan/status/2037197696075981124",
+    "summary": "Fin, a customer service agent by Intercom, beats the best models in the industry, including GPT-5.4 and Opus 4.5. High-performing, fast, and cheap, the model consistently outperforms competitors while operating at a tremendous scale. It resolves almost 2 million customer issues per week. The model has already grown to nearly $100 million in recurring revenue.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Intercom의 고객 서비스 AI 에이전트 Fin은 GPT-5.4를 능가하는 성능을 보입니다. 고성능, 빠른 속도, 저비용으로 주간 약 2백만 건의 고객 문제를 해결하며, 1억 달러에 가까운 반복 매출을 달성했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/usv/status/2036903978555105451",
+    "title": "Meet the Agents at USV (5 minute read)",
+    "url": "https://x.com/usv/status/2036903978555105451",
+    "discussion_url": "https://x.com/usv/status/2036903978555105451",
+    "summary": "USV built internal AI agents that ingest meeting transcripts, emails, and calendars to create structured “mentions” tied to companies and people, forming a continuously updated internal knowledge base. The system evolved from a simple meeting recap email into a custom CRM after existing tools failed to support real time context aggregation across workflows. USV improved adoption by naming agents, giving them roles and tool access, and embedding them directly into email threads where teams provid",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "USV는 회의록, 이메일 등을 분석하여 내부 지식 기반을 구축하는 AI 에이전트를 개발했습니다. 기존 CRM의 한계를 넘어 실시간 컨텍스트 집계를 위해 발전시켰습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/real-time-rl-for-composer",
+    "title": "Improving Composer through real-time RL (7 minute read)",
+    "url": "https://cursor.com/blog/real-time-rl-for-composer",
+    "discussion_url": "https://cursor.com/blog/real-time-rl-for-composer",
+    "summary": "'Real-time RL' is a technique created by the Cursor team that involves using real inference tokens for training. The team serves model checkpoints to production, observes user responses, and aggregates those responses as reward signals. The approach allows them to ship an improved version of Composer as often as every five hours.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Cursor 팀은 실제 추론 토큰을 학습에 활용하는 '실시간 RL' 기법을 개발했습니다. 이 접근 방식을 통해 Composer를 5시간마다 개선된 버전으로 배포할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cohere.com/blog/transcribe",
+    "title": "Cohere Releases Open Source Transcription Model (8 minute read)",
+    "url": "https://cohere.com/blog/transcribe",
+    "discussion_url": "https://cohere.com/blog/transcribe",
+    "summary": "Cohere's Transcribe is an open-source ASR model optimized for low word error rate and production use. It achieved top accuracy on the Hugging Face Open ASR leaderboard.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Cohere는 낮은 단어 오류율과 프로덕션 사용에 최적화된 오픈소스 ASR 모델 'Transcribe'를 출시했습니다. Hugging Face Open ASR 리더보드에서 최고 정확도를 달성했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.trychroma.com/research/context-1",
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent (80 minute read)",
+    "url": "https://www.trychroma.com/research/context-1",
+    "discussion_url": "https://www.trychroma.com/research/context-1",
+    "summary": "Chroma Context-1 is a 20B parameter agentic search model trained on over eight thousand synthetically generated tasks. It achieves retrieval performance comparable to frontier models at a fraction of the cost and with up to 10 times the inference speed. The model returns a ranked set of supporting documents to a downstream answering model, cleanly separating search from generation. It decomposes high-level queries into sub-queries and iteratively searches a corpus across multiple turns, selectiv",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Chroma Context-1은 8천 개 이상의 합성 작업으로 훈련된 20B 파라미터 검색 에이전트 모델입니다. 이 모델은 최첨단 모델과 유사한 검색 성능을 저비용으로 10배 빠른 추론 속도로 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/voxtral-tts",
+    "title": "Mistral Launches Voxtral TTS Model (6 minute read)",
+    "url": "https://mistral.ai/news/voxtral-tts",
+    "discussion_url": "https://mistral.ai/news/voxtral-tts",
+    "summary": "Mistral's Voxtral TTS is a 4B-parameter multilingual text-to-speech model designed for low-latency, expressive voice generation, and scalable deployment in voice agents.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Mistral의 Voxtral TTS는 낮은 지연 시간과 표현력 있는 음성 생성을 위한 4B 파라미터 다국어 텍스트-음성 변환 모델입니다. 음성 에이전트 배포에 적합하며, 개발자들이 활용할 수 있는 새로운 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epochai.substack.com/p/what-do-frontier-ai-companies-job",
+    "title": "What do frontier AI companies' job postings reveal about their plans? (10 minute read)",
+    "url": "https://epochai.substack.com/p/what-do-frontier-ai-companies-job",
+    "discussion_url": "https://epochai.substack.com/p/what-do-frontier-ai-companies-job",
+    "summary": "While AI companies guard their strategies closely, their hiring pages are public. These posts contain clues about what products companies are developing, who they hope to sell them to, and what bottlenecks they see coming. This post analyzes the current open roles at the leading foundation labs. As these labs continue to grow and their strategies change, their career pages will remain one of the best places to watch it happen.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "선도적인 AI 기업들의 채용 공고는 그들의 제품 개발 전략, 판매 목표, 그리고 예상되는 병목 현상에 대한 중요한 단서를 제공합니다. 채용 페이지는 AI 기업의 전략 변화와 성장 방향을 파악하는 데 가장 좋은 정보원 중 하나입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2037175238983622791.html",
+    "title": "How standalone AI video generation traffic evolved over the past 12 months (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2037175238983622791.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2037175238983622791.html",
+    "summary": "Grok currently has the largest traffic share in the AI video generation space.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "지난 12개월 동안 AI 비디오 생성 트래픽 변화를 분석한 결과, Grok이 현재 AI 비디오 생성 분야에서 가장 큰 시장 점유율을 차지하고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.capcut.com/newsroom/dreamina-seedance-2",
+    "title": "Dreamina Seedance 2.0 Rolling Out in CapCut (6 minute read)",
+    "url": "https://www.capcut.com/newsroom/dreamina-seedance-2",
+    "discussion_url": "https://www.capcut.com/newsroom/dreamina-seedance-2",
+    "summary": "CapCut has begun rolling out Dreamina Seedance 2.0, a new video and audio generation model in CapCut with built-in safety safeguards, initially to paid users in select global markets.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "CapCut에 안전 기능이 내장된 새로운 비디오 및 오디오 생성 모델 Dreamina Seedance 2.0이 출시됩니다. 이 모델은 일부 글로벌 시장의 유료 사용자에게 먼저 제공됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cline.bot/blog/announcing-kanban",
+    "title": "Announcing Cline Kanban: a CLI-agnostic app for multi-agent orchestration (4 minute read)",
+    "url": "https://cline.bot/blog/announcing-kanban",
+    "discussion_url": "https://cline.bot/blog/announcing-kanban",
+    "summary": "Cline Kanban is a kanban board for managing coding agents that streamlines workflows by displaying task statuses and dependencies at a glance.",
+    "score": 0,
+    "published_at": "2026-03-27T23:34:02+00:00",
+    "ai_summary": "Cline Kanban은 코딩 에이전트 관리를 위한 CLI 독립적인 칸반 보드 앱입니다. 작업 상태와 의존성을 시각적으로 표시하여 워크플로우를 효율적으로 관리할 수 있도록 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "AI/ML"
+    ]
+  }
+]
