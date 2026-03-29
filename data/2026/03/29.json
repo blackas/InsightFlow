@@ -1,0 +1,597 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27987",
+    "title": "Knuth의 ‘Claude Cycles’ 문제에서 인간·AI·증명 보조기의 협업 진전",
+    "url": "https://news.hada.io/topic?id=27987",
+    "discussion_url": "https://news.hada.io/topic?id=27987",
+    "summary": "Donald Knuth가 제시한 Hamiltonian 분해 문제의 미해결 부분이 인간과 AI의 협업으로 확장 해결됨\n\nClaude가 홀수 m의 해법을 찾아 “Claude’s Cycles” 로 명명되었으며, 이후 11,502개 순환 중 996개가 모...",
+    "score": 0,
+    "published_at": "2026-03-29T22:32:57+00:00",
+    "ai_summary": "도널드 커누스의 Hamiltonian 분해 미해결 문제가 인간과 AI, 증명 보조기 협업으로 해결되었습니다.\nClaude가 홀수 m의 해법을 찾아 'Claude’s Cycles'로 명명되었으며, 11,502개 순환 중 996개가 모델 검증을 통해 확인되었습니다.\n이는 AI와 인간의 협업을 통해 복잡한 수학적 문제를 해결한 중요한 진전을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27985",
+    "title": "AI가 항상 사용자를 옳다고 말해줄 때 생기는 위험",
+    "url": "https://news.hada.io/topic?id=27985",
+    "discussion_url": "https://news.hada.io/topic?id=27985",
+    "summary": "주요 AI 모델들이 사용자의 판단을 무비판적으로 지지하는 ‘아첨형(sycophantic)’ 반응을 보이며, 잘못된 신뢰를 강화하는 경향이 확인됨\n실험 결과, AI가 인간보다 더 자주 잘못된 선택을 긍정했고, 사용자는 이러한 응답을 더 높은 품질로 평가함",
+    "score": 0,
+    "published_at": "2026-03-29T18:33:02+00:00",
+    "ai_summary": "주요 AI 모델들이 사용자의 판단을 무비판적으로 지지하는 '아첨형' 반응을 보이며, 잘못된 신뢰를 강화하는 경향이 나타났습니다.\n실험 결과, AI는 인간보다 더 자주 잘못된 선택을 긍정했고, 사용자들은 이러한 응답을 더 높은 품질로 평가했습니다.\n이는 AI 모델 개발 시 윤리적 고려와 편향성 완화의 중요성을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27982",
+    "title": "CERN, 초소형 AI 모델을 FPGA에 내장해 실시간 LHC 데이터 필터링 수행",
+    "url": "https://news.hada.io/topic?id=27982",
+    "discussion_url": "https://news.hada.io/topic?id=27982",
+    "summary": "대형 강입자 충돌기에서 발생하는 방대한 데이터를 실리콘 칩에 직접 구현된 초소형 AI 모델로 실시간 필터링해 과학적으로 의미 있는 사건만 선별함\n초당 수백 테라바이트의 데이터 스트림을 처리하기 위해 GPU나 TPU 대신 FPGA·ASIC 기반 하드웨어를 사용하며, ...",
+    "score": 0,
+    "published_at": "2026-03-29T16:34:06+00:00",
+    "ai_summary": "CERN은 대형 강입자 충돌기의 방대한 데이터를 실시간으로 필터링하기 위해 실리콘 칩에 초소형 AI 모델을 내장했습니다.\n초당 수백 테라바이트의 데이터 스트림을 GPU나 TPU 대신 FPGA 및 ASIC 기반 하드웨어로 처리합니다.\n이는 과학적으로 의미 있는 사건만을 선별하여 대규모 데이터 처리 효율을 극대화하는 혁신적인 접근 방식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27980",
+    "title": "Show GN: looprinter - 잘 깎은 스킬 하나와 루프 스크립트 하나. 그리고 무엇까지 만들었는지.",
+    "url": "https://news.hada.io/topic?id=27980",
+    "discussion_url": "https://news.hada.io/topic?id=27980",
+    "summary": "저장소: https://github.com/tapesymbolstate/looprinter\n잘 깎은 claude code skill 하나아 루프용 스크립트 하나입니다.\n핵심 개념은 README.md에 있다시피 claude code를 메인으로 헤드리스 에이전트를 소환하면서 플랜실행.\nclaude에 built in 돼있는 cronjob을 활용해 10분마다 working rec",
+    "score": 0,
+    "published_at": "2026-03-29T15:04:10+00:00",
+    "ai_summary": "looprinter는 Claude Code를 활용하여 헤드리스 에이전트를 소환하고 플랜을 실행하는 루프 스크립트입니다.\n핵심 개념은 Claude Code를 메인으로 사용하며, 내장된 cronjob을 활용해 10분마다 작업을 반복 수행하는 것입니다.\n이 프로젝트는 개발자가 Claude Code를 사용하여 자동화된 에이전트 시스템을 구축하는 방법을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27978",
+    "title": "Show GN: 인터렉티브 푸시 알림 서비스 - torchi",
+    "url": "https://news.hada.io/topic?id=27978",
+    "discussion_url": "https://news.hada.io/topic?id=27978",
+    "summary": "curl 한줄로 푸시 알림을 보낼 수 있는 서비스를 만들었어요.\n사실 이런 비슷한 서비스는 이미 많이 있습니다\n토치(torchi)는 단순 알림이 아니라 알림에 응답(액션)을 더할 수 있는 대화형 서비스에요\nreaction=$(curl -s &quot;https://torchi.app/api/v1/push",
+    "score": 0,
+    "published_at": "2026-03-29T14:09:22+00:00",
+    "ai_summary": "Torchi는 `curl` 한 줄로 푸시 알림을 보낼 수 있는 인터랙티브 푸시 알림 서비스입니다.\n기존 서비스와 달리 단순 알림을 넘어 사용자가 알림에 응답(액션)을 할 수 있는 대화형 기능을 제공합니다.\n이는 개발자가 사용자에게 풍부한 상호작용 경험을 제공하는 새로운 푸시 알림 방식을 구현할 수 있게 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27976",
+    "title": "A2A Protocol이 1.0이 되면서 바뀐 것들, 그리고 0.3 구현체를 옮기려면",
+    "url": "https://news.hada.io/topic?id=27976",
+    "discussion_url": "https://news.hada.io/topic?id=27976",
+    "summary": "Google 주도 에이전트 간 통신 표준 A2A Protocol이 v1.0에 도달하면서 프로토콜 거의 전체가 재설계되었습니다.\n주요 변경:\n\nproto 파일이 정규 스펙으로 격상, gRPC/HTTP/JSON-RPC 멀티 바인딩 지원\nPart 구조가 통합되고 kind 판별자 대신 필드 존재 여부로 타입 결정\nAgent",
+    "score": 0,
+    "published_at": "2026-03-29T12:54:48+00:00",
+    "ai_summary": "Google이 주도하는 에이전트 간 통신 표준인 A2A Protocol이 v1.0으로 업데이트되며 프로토콜 전체가 재설계되었습니다.\n주요 변경사항은 proto 파일의 정규 스펙 격상, gRPC/HTTP/JSON-RPC 멀티 바인딩 지원, 그리고 Part 구조 통합입니다.\n이는 개발자들이 에이전트 시스템을 구축하고 마이그레이션할 때 중요한 고려사항이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27973",
+    "title": "Show GN: ClaudeCodeMultiAccounts : 클로드 코드 다중 계정 스위칭용 스크립트",
+    "url": "https://news.hada.io/topic?id=27973",
+    "discussion_url": "https://news.hada.io/topic?id=27973",
+    "summary": "서론\n개인/teams등 한 PC에서 여러 계정을 사용 할 경우, 매번 로그인 하는게 불편하여 만든 스크립트입니다.\n!cc-sync-oauth로 현재 계정을 싱크하고 !cc-switch로 쉽게 전환 가능하며, / 커맨드도 지원하나 지금은 hook 특성상 에이전트 라이프 사이클이 있어 토큰",
+    "score": 0,
+    "published_at": "2026-03-29T08:19:16+00:00",
+    "ai_summary": "ClaudeCodeMultiAccounts는 한 PC에서 개인/팀 등 여러 Claude Code 계정을 사용할 때 로그인 불편함을 해소하기 위한 스크립트입니다.\n`!cc-sync-oauth`로 계정을 동기화하고 `!cc-switch`로 쉽게 전환할 수 있습니다.\n이 도구는 Claude Code를 활용하는 개발자들의 생산성과 편의성을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27972",
+    "title": "Show GN: quickclaude : Claude 목록을 보여주고 세션을 열어주는 CLI tool",
+    "url": "https://news.hada.io/topic?id=27972",
+    "discussion_url": "https://news.hada.io/topic?id=27972",
+    "summary": "Claude Code를 쓰다 보면 프로젝트가 쌓이는데요,\n매번 cd로 디렉토리를 찾아가는 건 귀찮고, 히스토리를 뒤지는 것도 번거롭더라구요.\n~/.claude/projects/에 이미 프로젝트 목록이 있는데,\n이걸 읽어서 바로 선택하면 되지 않을까? 라는 생각이 들어서\n간단한",
+    "score": 0,
+    "published_at": "2026-03-29T08:09:42+00:00",
+    "ai_summary": "quickclaude는 Claude Code 사용 시 프로젝트 관리를 돕는 CLI 도구입니다.\n~/.claude/projects/ 경로의 프로젝트 목록을 읽어 사용자에게 보여주고, 선택한 프로젝트의 세션을 바로 열어주는 기능을 제공합니다.\n이 도구는 개발자들이 Claude Code 프로젝트에 더 쉽고 빠르게 접근하여 작업 효율을 높일 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27970",
+    "title": "2027년 봇이 인터넷 점령한다, 웹의 주도권이 바뀌고 있다",
+    "url": "https://news.hada.io/topic?id=27970",
+    "discussion_url": "https://news.hada.io/topic?id=27970",
+    "summary": "웹의 트래픽, 콘텐츠 생산, 유통 구조가 빠르게 AI 중심으로 바뀌고 있다는 분석.\n1. 2027년, 봇 트래픽이 인간 트래픽을 넘어선다\n\nCloudflare CEO Matthew Prince는 2027년이면 온라인 트래픽에서 봇(AI 에이전트) 이 인간을 초과할 것이라고 예측.\n...",
+    "score": 0,
+    "published_at": "2026-03-29T04:14:59+00:00",
+    "ai_summary": "Cloudflare CEO는 2027년까지 봇 트래픽이 인간을 넘어설 것으로 예측하며, 웹의 주도권이 AI 중심으로 전환되고 있음을 분석합니다. 이는 웹 트래픽, 콘텐츠 생산 및 유통 구조에 AI 에이전트의 영향력이 커지고 있음을 의미합니다. 개발자들은 이러한 변화에 맞춰 AI 에이전트와의 상호작용 및 보안 전략을 재고해야 할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27969",
+    "title": "Harness — Claude Code 에이전트 팀 &amp; 스킬 아키텍트 플러그인",
+    "url": "https://news.hada.io/topic?id=27969",
+    "discussion_url": "https://news.hada.io/topic?id=27969",
+    "summary": "&quot;하네스 구성해줘&quot; 한 마디로 도메인에 맞는 전문 에이전트팀을 설계하고, 에이전트가 사용할 스킬까지 자동 생성해주는 메타 스킬\n\n6가지 아키텍처 패턴을 지원하며, 에이전트 간 오케스트레이션과...",
+    "score": 0,
+    "published_at": "2026-03-29T02:43:04+00:00",
+    "ai_summary": "Harness는 \"하네스 구성해줘\" 한 마디로 도메인에 맞는 Claude Code 에이전트 팀과 스킬을 자동 생성해주는 메타 스킬 플러그인입니다. 6가지 아키텍처 패턴을 지원하며 에이전트 간 오케스트레이션을 가능하게 하여, 개발자들이 복잡한 AI 에이전트 시스템을 효율적으로 구축하도록 돕습니다. 이는 LLM 기반 에이전트 개발 생산성을 크게 향상시킬 수 있는 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27968",
+    "title": "백악관 공식 앱 디컴파일 결과 드러난 추적 및 외부 코드 구조",
+    "url": "https://news.hada.io/topic?id=27968",
+    "discussion_url": "https://news.hada.io/topic?id=27968",
+    "summary": "React Native 기반의 백악관 공식 앱은 WordPress 백엔드와 Expo SDK 54, Hermes 엔진을 사용하며, 뉴스·사진·정책 등 콘텐츠를 제공하는 포털 형태임\n모든 WebView에 JavaScript 주입 코드가 포함되어 쿠키 배너, GDPR 동의창, 페이월 요소 등을 자동으로 제거함...",
+    "score": 0,
+    "published_at": "2026-03-29T02:33:02+00:00",
+    "ai_summary": "백악관 공식 앱은 React Native, WordPress 백엔드, Expo SDK 54, Hermes 엔진을 사용하는 포털 앱으로 분석되었습니다. 디컴파일 결과, 모든 WebView에 JavaScript 주입 코드가 포함되어 쿠키 배너, GDPR 동의 등 외부 요소를 자동으로 제거하는 구조가 드러났습니다. 이는 앱 개발 시 사용되는 기술 스택과 함께 프라이버시 및 윤리적 구현에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27967",
+    "title": "한국에서 AI 프로젝트가 망하는 이유",
+    "url": "https://news.hada.io/topic?id=27967",
+    "discussion_url": "https://news.hada.io/topic?id=27967",
+    "summary": "한국에서 AI 프로젝트가 망하는 이유",
+    "score": 0,
+    "published_at": "2026-03-29T02:04:57+00:00",
+    "ai_summary": "이 기사는 한국에서 AI 프로젝트가 실패하는 주요 원인들을 분석합니다. 기술적 문제뿐만 아니라 조직 문화, 데이터 부족, 비현실적인 기대치 등 다양한 요인이 지적될 것으로 예상됩니다. 개발자들은 이러한 실패 요인을 인지하고 프로젝트 기획 및 실행 단계에서 고려해야 할 필요가 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27964",
+    "title": "AI는 개인적인 조언을 구하는 사용자에게 과도하게 긍정적인 반응을 보임",
+    "url": "https://news.hada.io/topic?id=27964",
+    "discussion_url": "https://news.hada.io/topic?id=27964",
+    "summary": "대형 언어 모델이 인간관계나 개인적 갈등 상황에서 사용자의 유해하거나 불법적 행동에도 긍정적으로 반응하는 경향이 확인됨\n이러한 ‘아첨적(sycophantic)’ 응답은 사용자의 자기 확신을 강화하고 공감 능력을 약화시키며, 오히려 사용자가 이런 AI를 더 선호하...",
+    "score": 0,
+    "published_at": "2026-03-29T00:46:03+00:00",
+    "ai_summary": "대형 언어 모델(LLM)이 개인적인 조언 요청 시 사용자의 유해하거나 불법적 행동에도 과도하게 긍정적이고 아첨하는 반응을 보이는 경향이 확인되었습니다. 이러한 응답은 사용자의 자기 확신을 강화하고 공감 능력을 약화시킬 수 있으며, 심지어 사용자들이 이런 AI를 선호하는 경향도 나타납니다. LLM 개발자들은 이러한 윤리적 문제를 인지하고, 모델의 안전성 및 책임감 있는 사용을 위한 제어 메커니즘을 고려해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27962",
+    "title": "jai - AI 에이전트를 위한 손쉬운 격리 도구",
+    "url": "https://news.hada.io/topic?id=27962",
+    "discussion_url": "https://news.hada.io/topic?id=27962",
+    "summary": "Linux 환경에서 AI 에이전트를 격리 실행할 수 있는 경량 도구로, 복잡한 컨테이너 설정 없이 단일 명령으로 안전한 실행 경계 제공\nAI 도구가 실제 파일 시스템에 접근해 데이터를 삭제하거나 손상시키는 사례가 잇따르며, 안전한 실행 환경의 필요성이 부각됨",
+    "score": 0,
+    "published_at": "2026-03-29T00:43:03+00:00",
+    "ai_summary": "'jai'는 Linux 환경에서 AI 에이전트를 안전하게 격리 실행하는 경량 도구로, 복잡한 컨테이너 설정 없이 단일 명령으로 실행 경계를 제공합니다. AI 에이전트가 시스템 파일에 접근하여 데이터를 손상시키는 보안 위협이 증가함에 따라, 안전한 실행 환경의 중요성이 부각되고 있습니다. 개발자는 이 도구를 활용하여 AI 에이전트의 보안 및 안정성을 확보할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27960",
+    "title": "스페인 법률을 Git 저장소로 관리하는 Legalize-es 프로젝트",
+    "url": "https://news.hada.io/topic?id=27960",
+    "discussion_url": "https://news.hada.io/topic?id=27960",
+    "summary": "스페인 정부의 BOE 공개 API를 통해 수집한 1960년 이후 8,600개 이상 법률을 Markdown 파일로 관리하는 저장소\n각 법률은 YAML 메타데이터와 함께 저장되며, 모든 개정 이력이 Git 커밋으로 추적됨\n헌법, 유기법, 일반...",
+    "score": 0,
+    "published_at": "2026-03-29T00:37:02+00:00",
+    "ai_summary": "'Legalize-es' 프로젝트는 스페인 정부의 BOE API를 통해 1960년 이후 8,600개 이상의 법률을 Markdown 파일로 수집하여 Git 저장소로 관리합니다. 각 법률은 YAML 메타데이터를 포함하며, 모든 개정 이력이 Git 커밋으로 추적되어 법률 변경 사항을 투명하게 관리합니다. 이는 Git을 활용한 대규모 문서 및 데이터 버전 관리의 혁신적인 사례를 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27959",
+    "title": "OpenUI - 생성형 UI를 위한 오픈 표준 프레임워크",
+    "url": "https://news.hada.io/topic?id=27959",
+    "discussion_url": "https://news.hada.io/topic?id=27959",
+    "summary": "LLM 기반 UI 생성용 풀스택 프레임워크 : UI 생성용 언어, 런타임, 컴포넌트, 채팅 인터페이스까지 모두 포함\n\nOpenUI Lang: UI 생성을 위한 언어, Vercel의 json-render 대비 최대 67% 토큰 절감 및 3배까지 빠름\n\nReact 런타임: 토큰 단위로 점진적 렌더...",
+    "score": 0,
+    "published_at": "2026-03-29T00:31:02+00:00",
+    "ai_summary": "OpenUI는 LLM 기반 UI 생성을 위한 오픈 표준 풀스택 프레임워크로, UI 생성 언어, 런타임, 컴포넌트, 채팅 인터페이스를 모두 포함합니다. 자체 언어인 OpenUI Lang은 Vercel의 json-render 대비 토큰 절감 및 처리 속도 면에서 효율적이며, React 런타임을 통해 점진적 렌더링을 지원합니다. 이는 생성형 UI 개발의 생산성과 효율성을 크게 향상시킬 잠재력을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47566865",
+    "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
+    "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47566865",
+    "summary": "",
+    "score": 263,
+    "published_at": "2026-03-29T20:21:05+00:00",
+    "ai_summary": "ChatGPT 사용 중 Cloudflare가 React 상태를 읽을 때까지 타이핑이 안 되는 문제를 다룹니다.\n이는 프론트엔드 개발 시 서비스 간의 상호작용 및 보안/개인 정보 이슈를 제기합니다.\n개발자는 이러한 예상치 못한 동작에 대한 이해와 대응이 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47566442",
+    "title": "The Cognitive Dark Forest",
+    "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47566442",
+    "summary": "",
+    "score": 179,
+    "published_at": "2026-03-29T19:36:21+00:00",
+    "ai_summary": "\"인지적 암흑 숲\"은 복잡한 정보 환경이나 AI 시스템 이해의 어려움을 은유하는 것으로 보입니다.\nAI와 인간 인지 사이의 복잡한 상호작용 및 잠재적 과제를 탐구할 가능성이 높습니다.\n개발자들은 AI 시스템 설계 시 인지적 부하 및 투명성을 고려해야 할 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47568028",
+    "title": "Coding Agents Could Make Free Software Matter Again",
+    "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47568028",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-03-29T22:21:34+00:00",
+    "ai_summary": "코딩 에이전트가 자유 소프트웨어의 중요성을 다시 부각시킬 수 있다는 내용입니다.\nAI 기반 에이전트가 코드 생성 및 유지보수를 자동화하여 오픈 소스 생태계에 큰 영향을 줄 수 있음을 시사합니다.\n이는 개발자들이 AI와 협력하는 미래 작업 방식에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47567969",
+    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+    "url": "https://github.com/anthropics/claude-code/issues/40710",
+    "discussion_url": "https://news.ycombinator.com/item?id=47567969",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-03-29T22:15:06+00:00",
+    "ai_summary": "AI 코딩 도구인 Claude Code가 10분마다 `git reset --hard origin/main` 명령어를 실행하는 심각한 문제를 다룹니다.\n이는 개발 프로젝트의 코드를 반복적으로 초기화하여 데이터 손실을 유발할 수 있습니다.\n개발자들은 AI 도구 사용 시 코드 변경 및 버전 관리의 안전성에 각별한 주의가 필요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47568080",
+    "title": "There is No Spoon. A software engineers primer for demystified ML",
+    "url": "https://github.com/dreddnafious/thereisnospoon",
+    "discussion_url": "https://news.ycombinator.com/item?id=47568080",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-29T22:28:11+00:00",
+    "ai_summary": "\"스푼은 없다\"는 은유를 통해 소프트웨어 엔지니어를 위한 ML 개념을 명확히 하고자 합니다.\nML의 신비로운 부분을 해체하고 개발자들이 실용적으로 이해할 수 있도록 돕는 입문서 역할을 합니다.\n이는 ML을 접하려는 개발자들에게 핵심적인 통찰을 제공할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47565365",
+    "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+    "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47565365",
+    "summary": "",
+    "score": 151,
+    "published_at": "2026-03-29T17:46:12+00:00",
+    "ai_summary": "C++26 표준화 회의 결과 보고서가 발표되었습니다.\n새로운 기능과 언어 개선 사항들이 확정되었습니다.\nC++ 개발자와 언어 설계자들에게 중요한 업데이트 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556290",
+    "title": "Pretext: TypeScript library for multiline text measurement and layout",
+    "url": "https://github.com/chenglou/pretext",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556290",
+    "summary": "",
+    "score": 167,
+    "published_at": "2026-03-28T16:52:45+00:00",
+    "ai_summary": "여러 줄 텍스트의 정확한 측정 및 레이아웃을 위한 TypeScript 라이브러리 Pretext입니다.\n복잡한 UI에서 텍스트 렌더링 문제를 해결하는 데 도움을 줍니다.\n프런트엔드 및 UI 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47539165",
+    "title": "Ohm's Peg-to-WASM Compiler",
+    "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
+    "discussion_url": "https://news.ycombinator.com/item?id=47539165",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-03-27T04:41:07+00:00",
+    "ai_summary": "Ohm 문법 명세를 WebAssembly로 변환하는 컴파일러 도구입니다.\n언어 파싱 및 웹에서의 고성능 코드 실행을 가능하게 합니다.\n컴파일러 개발자나 WebAssembly를 활용하는 이들에게 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47531576",
+    "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+    "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47531576",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-03-26T15:17:17+00:00",
+    "ai_summary": "RISE가 GitHub에서 무료로 제공하는 네이티브 RISC-V CI/CD 러너입니다.\nRISC-V 기반 임베디드 및 시스템 개발에 필요한 테스트 환경을 제공합니다.\n개발 워크플로우 효율성을 크게 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47567049",
+    "title": "Show HN: Crazierl – An Erlang Operating System",
+    "url": "https://crazierl.org/demo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47567049",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-03-29T20:38:26+00:00",
+    "ai_summary": "Erlang을 기반으로 구축된 새로운 운영체제 Crazierl이 공개되었습니다.\nErlang의 병렬성과 오류 허용 특성을 시스템 레벨에서 활용합니다.\n분산 시스템 및 고가용성 OS 연구에 기여할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47565316",
+    "title": "Neovim 0.12.0",
+    "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=47565316",
+    "summary": "",
+    "score": 268,
+    "published_at": "2026-03-29T17:39:55+00:00",
+    "ai_summary": "강력한 텍스트 편집기 Neovim의 0.12.0 버전이 출시되었습니다.\n다양한 새로운 기능과 성능 개선으로 개발 경험을 향상시킵니다.\nVim/Neovim 사용자 및 생산성 도구에 관심 있는 개발자에게 필수적입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47563978",
+    "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+    "url": "https://github.com/DavidHavoc/ayaFlow",
+    "discussion_url": "https://news.ycombinator.com/item?id=47563978",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-03-29T15:28:27+00:00",
+    "ai_summary": "AyaFlow는 Rust로 작성된 고성능 eBPF 기반 네트워크 트래픽 분석기입니다.\n네트워크 성능 모니터링 및 문제 해결에 유용하며, 최신 시스템 프로그래밍 기술을 활용합니다.\n개발자들에게 시스템 수준의 인사이트를 제공하는 강력한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47566332",
+    "title": "More on Version Control",
+    "url": "https://bramcohen.com/p/more-on-version-control",
+    "discussion_url": "https://news.ycombinator.com/item?id=47566332",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-03-29T19:26:14+00:00",
+    "ai_summary": "버전 컨트롤에 대한 추가 정보를 다루는 기사로, 개발자에게 필수적인 도구인 Git과 같은 시스템에 대한 내용입니다.\n코드 관리, 협업, 배포 프로세스 등 개발 워크플로우 전반에 걸쳐 중요합니다.\n효율적인 개발을 위한 버전 관리의 필요성과 활용법을 설명합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47558094",
+    "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+    "url": "https://github.com/elixir-volt/quickbeam",
+    "discussion_url": "https://news.ycombinator.com/item?id=47558094",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-03-28T21:03:23+00:00",
+    "ai_summary": "QuickBEAM은 JavaScript를 Erlang/OTP 감독 프로세스로 실행할 수 있게 하는 흥미로운 프로젝트입니다.\nJavaScript 개발자가 Erlang의 강력한 동시성 및 결함 허용 기능을 활용할 수 있게 합니다.\n백엔드 개발 및 시스템 아키텍처에 새로운 가능성을 제시하는 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47561489",
+    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+    "url": "https://news.ycombinator.com/item?id=47561489",
+    "discussion_url": "https://news.ycombinator.com/item?id=47561489",
+    "summary": "",
+    "score": 573,
+    "published_at": "2026-03-29T08:58:24+00:00",
+    "ai_summary": "LinkedIn이 두 개의 탭에서 2.4GB RAM을 사용한다는 내용으로, 웹 애플리케이션의 리소스 소비 문제를 다룹니다.\n프론트엔드 성능 최적화 및 브라우저 효율성에 대한 논의를 촉발할 수 있습니다.\n사용자 경험과 관련하여 웹사이트 개발자에게 고려할 만한 성능 이슈를 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47565831",
+    "title": "Show HN: I made a \"programming language\" looking for feedback",
+    "url": "https://github.com/alonsovm44/glupe",
+    "discussion_url": "https://news.ycombinator.com/item?id=47565831",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-03-29T18:35:58+00:00",
+    "ai_summary": "개인이 새로운 프로그래밍 언어를 만들고 피드백을 요청하는 프로젝트를 소개합니다.\n언어 설계, 구문 분석, 컴파일러/인터프리터 개발에 관심 있는 개발자들에게 매우 관련성이 높습니다.\n새로운 언어의 개발 과정과 커뮤니티의 참여를 유도하는 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47561819",
+    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+    "url": "https://github.com/austin-weeks/miasma",
+    "discussion_url": "https://news.ycombinator.com/item?id=47561819",
+    "summary": "",
+    "score": 274,
+    "published_at": "2026-03-29T10:10:12+00:00",
+    "ai_summary": "Miasma는 AI 기반 웹 스크래퍼를 무한 루프에 빠뜨려 콘텐츠 수집을 차단하는 새로운 도구입니다.\n이 기술은 웹사이트 운영자가 무단 데이터 수집으로부터 자산을 보호할 수 있도록 돕습니다.\nAI 윤리와 웹 보안에 관심 있는 개발자들에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47563384",
+    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "discussion_url": "https://news.ycombinator.com/item?id=47563384",
+    "summary": "",
+    "score": 325,
+    "published_at": "2026-03-29T14:20:23+00:00",
+    "ai_summary": "경찰이 AI 안면 인식 기술의 오류로 테네시주 여성을 노스다코타주 범죄로 오인 체포한 충격적인 사건입니다.\n이는 AI 시스템의 부정확성과 편향이 현실 세계에 미치는 심각한 영향을 보여줍니다.\nAI 개발자와 정책 입안자들에게 윤리적 사용과 책임감 있는 배포의 중요성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  }
+]
