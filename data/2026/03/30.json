@@ -1,0 +1,804 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28020",
+    "title": "Claude Code가 프로젝트 저장소에 10분마다 Git reset --hard origin/main을 실행하는 문제",
+    "url": "https://news.hada.io/topic?id=28020",
+    "discussion_url": "https://news.hada.io/topic?id=28020",
+    "summary": "macOS 환경에서 프로젝트 변경사항이 10분마다 자동으로 삭제되는 현상이 보고됨\n조사 결과, 원인은 Claude Code가 아니라 사용자가 만든 별도 로컬 자동화 도구가 GitPython을 통해 주기적으로 git reset --hard origin/main을 실행한 것으로 확인됨...",
+    "score": 0,
+    "published_at": "2026-03-30T20:33:26+00:00",
+    "ai_summary": "macOS에서 10분마다 Git reset이 발생한 문제의 원인이 밝혀졌습니다. 초기 Claude Code 의심과 달리, GitPython을 사용한 로컬 자동화 도구 때문이었습니다. 개발 환경 디버깅 및 버전 관리 도구 활용에 대한 중요한 교훈을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28019",
+    "title": "AI 코딩 에이전트가 자유 소프트웨어를 다시 중요하게 만들 수 있음",
+    "url": "https://news.hada.io/topic?id=28019",
+    "discussion_url": "https://news.hada.io/topic?id=28019",
+    "summary": "AI 코딩 에이전트는 사용자를 대신해 코드를 읽고 수정함으로써, 오랫동안 형식적 개념에 머물렀던 자유 소프트웨어의 ‘4대 자유’ 를 실질적으로 복원할 가능성을 보여줌\n\nSaaS 중심 구조가 사용자의 소스 접근권을 제한해온 반면, 에이전트는...",
+    "score": 0,
+    "published_at": "2026-03-30T19:37:39+00:00",
+    "ai_summary": "AI 코딩 에이전트가 자유 소프트웨어의 '4대 자유'를 실질적으로 복원할 가능성을 제시합니다. SaaS의 소스 접근 제한을 우회하여 개발자의 코드 권한을 강화할 수 있습니다. 이는 AI 시대 소프트웨어 개발 생태계의 패러다임 전환을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28014",
+    "title": "Miasma: AI 웹 스크레이퍼를 끝없는 오염 루프로 가두는 도구",
+    "url": "https://news.hada.io/topic?id=28014",
+    "discussion_url": "https://news.hada.io/topic?id=28014",
+    "summary": "Miasma는 AI 웹 스크레이퍼를 무한 루프에 빠뜨려 훈련 데이터 수집을 방해하는 Rust 기반 서버 도구\n\n웹사이트 콘텐츠를 대규모로 수집하는 AI 기업의 트래픽을 리디렉션해, ‘poison fountain’에서 가져온 오염된 데이터와 자기참조 ...",
+    "score": 0,
+    "published_at": "2026-03-30T13:38:41+00:00",
+    "ai_summary": "Miasma는 Rust 기반 서버 도구로, AI 웹 스크레이퍼를 무한 루프에 빠뜨려 훈련 데이터 수집을 방해합니다. AI 기업의 트래픽을 오염된 데이터로 리디렉션하여 모델 학습을 교란시킵니다. AI 데이터 윤리 및 웹 콘텐츠 보호를 위한 기술적 대응 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28013",
+    "title": "Pretext: 멀티라인 텍스트 측정과 레이아웃을 위한 TypeScript 라이브러리",
+    "url": "https://news.hada.io/topic?id=28013",
+    "discussion_url": "https://news.hada.io/topic?id=28013",
+    "summary": "Pretext는 DOM 접근 없이 멀티라인 텍스트의 높이와 줄 배치를 계산하는 순수 JavaScript/TypeScript 라이브러리로, 브라우저와 서버 환경 모두 지원\n\ngetBoundingClientRect 같은 DOM 측정 API를 사용하지 않아 레이아...",
+    "score": 0,
+    "published_at": "2026-03-30T13:35:41+00:00",
+    "ai_summary": "Pretext는 DOM 접근 없이 멀티라인 텍스트의 높이와 줄 배치를 계산하는 TypeScript 라이브러리입니다. `getBoundingClientRect` 없이 브라우저와 서버 환경 모두에서 작동합니다. 복잡한 텍스트 레이아웃을 효율적으로 처리해야 하는 프론트엔드 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28008",
+    "title": "Show GN: 한국 이커머스 스킨 개발용 정적 보일러플레이트 (HTMX + Vite + TypeScript)",
+    "url": "https://news.hada.io/topic?id=28008",
+    "discussion_url": "https://news.hada.io/topic?id=28008",
+    "summary": "안녕하세요, 이커머스 쪽에서 백엔드 개발을 하고 있는 개발자입니다!\n한국 이커머스는 cafe24, 고도몰 &amp; 샵바이, 메이크샵 같은 플랫폼에서 스킨으로 프론트를 구성하는 경우가 많은데\n주로 정적 서빙만 제공하다보니, React 같은 SPA 프레임워크를 사용하기엔 중소기업 규모에서는 어려운 경우가",
+    "score": 0,
+    "published_at": "2026-03-30T05:35:57+00:00",
+    "ai_summary": "한국 이커머스 스킨 개발을 위한 HTMX, Vite, TypeScript 기반 정적 보일러플레이트가 공개되었습니다. cafe24 등 플랫폼의 정적 서빙 환경에서 React SPA의 어려움을 해소하고자 개발되었습니다. 백엔드 개발자도 프론트엔드 작업을 효율적으로 할 수 있도록 돕는 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28007",
+    "title": "인지적 암흑의 숲",
+    "url": "https://news.hada.io/topic?id=28007",
+    "discussion_url": "https://news.hada.io/topic?id=28007",
+    "summary": "오픈 웹과 AI의 결합이 류츠신의 소설 『암흑의 숲』 논리처럼, 아이디어를 공개하는 행위 자체가 생존에 불리해지는 구조로 변하고 있음\n과거 인터넷은 아이디어 공유가 성공 가능성을 높이는 구조였지만, 2026년 현재는 플랫폼 집중화와 AI 실행 비용 하...",
+    "score": 0,
+    "published_at": "2026-03-30T04:33:08+00:00",
+    "ai_summary": "오픈 웹과 AI의 결합으로 아이디어 공유가 생존에 불리해지는 '인지적 암흑의 숲' 현상이 나타나고 있습니다. 과거의 개방적 성공 공식과 달리, 플랫폼 집중화와 AI 실행 비용이 변화를 주도합니다. 이는 개발자들이 정보를 공유하고 협력하는 방식에 근본적인 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28006",
+    "title": "Show GN: travel plan - 링크로 저장되는 여행지도 (그리고 MCP를 곁들인)",
+    "url": "https://news.hada.io/topic?id=28006",
+    "discussion_url": "https://news.hada.io/topic?id=28006",
+    "summary": "여행 일정을 짜면 항상 한 화면에서 일정과 지도 핀을 한눈에 볼 수 있었으면 해서 만들어 봤습니다\n심플함을 우선시하여 로그인을 없애고 URL에 모든게 저장되어 전용 서버 없이 공유가 가능하도록 설계했습니다\nMCP 연결하고 AI한테 시키면 일정 생성부터 링크 생성까지 모든걸 해줍니다",
+    "score": 0,
+    "published_at": "2026-03-30T04:24:50+00:00",
+    "ai_summary": "로그인 없이 URL에 모든 데이터가 저장되는 여행 계획 지도 서비스 'travel plan'이 공개되었습니다. 전용 서버 없이 심플하게 공유 가능하며, MCP와 AI를 활용해 일정 생성 및 링크 생성을 자동화합니다. 서버리스 아키텍처 및 AI 활용 개발 사례를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28005",
+    "title": "AI 판사 도입시 디지털 변론주의의 확립: 프롬프트 합의 및 메타데이터 중립성 확보 방안",
+    "url": "https://news.hada.io/topic?id=28005",
+    "discussion_url": "https://news.hada.io/topic?id=28005",
+    "summary": "인공지능(AI) 판사가 법률 영역에 도입에 있어 필수적인 전제로 판결의 정당성을 결정짓는 가장 중요한 요소는 '입력 데이터의 중립성'입니다.\nAI는 프롬프트와 데이터의 맥락(Metadata)에 따라 전혀 다른 결론을 도출할 수 있으므로, 원·피고 대리인이 사전에 프롬프트와 증거 데이터의 구조를 합의하는 '프론",
+    "score": 0,
+    "published_at": "2026-03-30T03:54:25+00:00",
+    "ai_summary": "AI 판사 도입 시, 판결의 정당성을 위해 입력 데이터의 중립성이 핵심입니다. AI는 프롬프트와 메타데이터에 따라 다른 결론을 도출할 수 있습니다. 따라서 원고와 피고 대리인 간 프롬프트 및 증거 데이터 구조 합의가 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28004",
+    "title": "Show GN: 안드로이드에서 원격 서버의 Claude Code / Codex CLI에 이미지 보내기 불편해서 redTerm을 만들었습니다",
+    "url": "https://news.hada.io/topic?id=28004",
+    "discussion_url": "https://news.hada.io/topic?id=28004",
+    "summary": "안녕하세요.\n모바일에서 원격 서버에 SSH로 붙어서 Claude Code나 Codex CLI를 사용할 때,\n텍스트 입력은 어떻게든 되는데 이미지 전달이 꽤 번거롭더라구요.\n예를 들어 폰에서 스크린샷을 찍거나 이미지를 복사한 뒤\n그걸 바로 원격 서버에서 작업에 쓰고 싶은 경우가 있는데,\n기존",
+    "score": 0,
+    "published_at": "2026-03-30T02:41:30+00:00",
+    "ai_summary": "모바일에서 SSH를 통해 Claude Code나 Codex CLI를 사용할 때 이미지 전송이 불편했습니다. 개발자는 안드로이드에서 원격 서버로 이미지 전송을 쉽게 하는 redTerm을 만들었습니다. 이는 폰 스크린샷 등을 바로 작업에 활용하려는 필요에서 출발했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28003",
+    "title": "ChatGPT는 Cloudflare가 React 상태를 읽을 때까지 입력을 차단함",
+    "url": "https://news.hada.io/topic?id=28003",
+    "discussion_url": "https://news.hada.io/topic?id=28003",
+    "summary": "ChatGPT의 메시지 전송 시 Cloudflare Turnstile 프로그램이 실행되어 브라우저 지문뿐 아니라 React 애플리케이션 상태까지 검사함\n복호화된 프로그램은 55개 속성을 수집하며, 브라우저·네트워크·애플리케이션 3계층으로 나뉜 검증 절차를 수행...",
+    "score": 0,
+    "published_at": "2026-03-30T02:33:54+00:00",
+    "ai_summary": "ChatGPT는 Cloudflare Turnstile을 이용해 메시지 전송 시 입력을 차단하고 있습니다. 이 프로그램은 브라우저 지문뿐만 아니라 React 애플리케이션 상태까지 검사합니다. 총 55가지 속성을 수집하며, 브라우저, 네트워크, 애플리케이션 3계층 검증 절차를 수행합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27998",
+    "title": "Keploy - 트래픽 기반 자동 API 테스트 생성기",
+    "url": "https://news.hada.io/topic?id=27998",
+    "discussion_url": "https://news.hada.io/topic?id=27998",
+    "summary": "실제 사용자 트래픽에서 API 및 통합 테스트를 자동 생성하는 개발자용 도구\n코드 수정 없이 keploy record로 실행하면 eBPF로 네트워크 레벨 트래픽을 캡처해 테스트 및 Mock 생성\n\nAPI 호출, DB 쿼리, 스트리밍 이벤트등...",
+    "score": 0,
+    "published_at": "2026-03-30T01:11:02+00:00",
+    "ai_summary": "Keploy는 실제 사용자 트래픽에서 API 및 통합 테스트를 자동으로 생성하는 개발자 도구입니다. 코드 수정 없이 keploy record로 실행하면 eBPF를 이용해 네트워크 트래픽을 캡처합니다. 이를 통해 API 호출, DB 쿼리, 스트리밍 이벤트 등에 대한 테스트 및 Mock을 생성합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27995",
+    "title": "Korean Law MCP - 대한민국 법령 검색·조회·분석 도구",
+    "url": "https://news.hada.io/topic?id=27995",
+    "discussion_url": "https://news.hada.io/topic?id=27995",
+    "summary": "대한민국의 전체 법령시스템을 도구화해 AI 어시스턴트나 스크립트에서 바로 호출 가능\n\n64개 법률 도구 — 법령, 판례, 행정규칙, 자치법규, 헌재결정, 조세심판, 관세해석, 법령용어\n\nMCP + CLI — Claude Desktop에서도, 터미널에서도...",
+    "score": 0,
+    "published_at": "2026-03-30T00:51:02+00:00",
+    "ai_summary": "Korean Law MCP는 대한민국 법령 시스템을 AI 어시스턴트나 스크립트에서 호출 가능한 도구입니다. 법령, 판례 등 64가지 법률 도구를 제공하며, CLI를 통해 Claude Desktop 등에서도 활용 가능합니다. 이는 법률 데이터를 개발 친화적으로 접근하게 합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27994",
+    "title": "Show GN: vLLM Compose - Docker Compose 프로필로 여러 vLLM 모델을 쉽게 전환/서빙",
+    "url": "https://news.hada.io/topic?id=27994",
+    "discussion_url": "https://news.hada.io/topic?id=27994",
+    "summary": "여러 LLM을 로컬에서 서빙할 때의 불편함(모델마다 docker 명령어 재입력, GPU 설정 기억, 상태 모니터링)을 해결하는 vLLM 전용 TUI 관리 도구입니다.\n\n모델별 설정을 YAML 프로필로 저장, TUI에서 Enter 한 번으로 시작/중지\nQuick Setup: 모델 이름만 입력하면 프로필+설정 자동 생성\n...",
+    "score": 0,
+    "published_at": "2026-03-30T00:50:35+00:00",
+    "ai_summary": "vLLM Compose는 여러 LLM 모델을 로컬에서 쉽게 서빙하고 전환하기 위한 TUI 관리 도구입니다. Docker 명령어 반복 입력, GPU 설정 기억 등 기존의 불편함을 해소합니다. YAML 프로필로 모델 설정을 저장하며, 모델 이름만으로 프로필 자동 생성이 가능합니다.",
+    "relevance_score": 0.97,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27993",
+    "title": "AI 얼굴인식 오류로 노스다코타 범죄 혐의로 잘못 체포된 테네시 여성",
+    "url": "https://news.hada.io/topic?id=27993",
+    "discussion_url": "https://news.hada.io/topic?id=27993",
+    "summary": "테네시의 Angela Lipps(50세) 가 한 번도 방문한 적 없는 노스다코타의 은행 사기 사건 용의자로 AI 얼굴인식 기술에 의해 체포되어 5개월 이상 구금됨\n\nClearview AI 시스템이 유사 인물을 Lipps로 잘못 식별했고, Fargo 경찰은 이를 근거로 체포...",
+    "score": 0,
+    "published_at": "2026-03-30T00:48:50+00:00",
+    "ai_summary": "50대 테네시 여성이 AI 얼굴인식 오류로 노스다코타 은행 사기 혐의로 잘못 체포되었습니다. Clearview AI 시스템의 유사 인물 오인으로 5개월 이상 구금되는 사태가 발생했습니다. 이는 AI 시스템의 정확성과 윤리적 문제의 심각성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47580350",
+    "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+    "url": "https://30u30.fyi",
+    "discussion_url": "https://news.ycombinator.com/item?id=47580350",
+    "summary": "",
+    "score": 173,
+    "published_at": "2026-03-30T22:10:22+00:00",
+    "ai_summary": "30u30.fyi는 포브스의 '가장 사기성이 높은' 리스트에 스타트업 창업가가 포함되었는지 확인할 수 있는 서비스인 것으로 보입니다. 이는 창업가의 신뢰도를 평가하고 잠재적 위험을 식별하는 데 도움을 줍니다. 스타트업 생태계 참여자들에게 중요한 정보를 제공할 것으로 예상됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47577761",
+    "title": "Fedware: Government apps that spy harder than the apps they ban",
+    "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47577761",
+    "summary": "",
+    "score": 342,
+    "published_at": "2026-03-30T18:16:00+00:00",
+    "ai_summary": "정부 앱이 금지된 앱보다 더 강력하게 개인 정보를 감시한다는 내용입니다.\n이는 소프트웨어 개발의 보안 및 개인 정보 보호 측면에 대한 경고를 담고 있습니다.\n개발자는 사용자 데이터 보호와 윤리적 개발 관행에 각별히 주의해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47573519",
+    "title": "Do your own writing",
+    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47573519",
+    "summary": "",
+    "score": 296,
+    "published_at": "2026-03-30T12:39:56+00:00",
+    "ai_summary": "이 기사는 AI 도구에 의존하기보다 스스로 글을 쓰는 것의 중요성을 강조합니다.\n개발자에게는 문서화, 블로그 작성 등 자체적인 글쓰기 능력 개발을 권장합니다.\n명확한 의사소통과 독창적인 콘텐츠 제작의 가치를 일깨워 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47579229",
+    "title": "Learn Claude Code by doing, not reading",
+    "url": "https://claude.nagdy.me/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47579229",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-03-30T20:19:43+00:00",
+    "ai_summary": "이 기사는 Claude 코드 학습에 있어 실습의 중요성을 강조합니다.\n이론만 읽는 것이 아닌, 직접 코드를 작성하고 실행하며 배우는 방식을 제안합니다.\nLLM(Claude)을 활용한 개발 능력 향상을 위한 실용적인 접근법입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47580297",
+    "title": "Android Developer Verification",
+    "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47580297",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-30T22:05:21+00:00",
+    "ai_summary": "안드로이드 개발자를 위한 검증 절차에 대한 내용으로 보입니다.\n이는 앱의 신뢰성과 플랫폼 보안 유지에 중요한 역할을 합니다.\n안드로이드 개발자라면 알아야 할 필수적인 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47574034",
+    "title": "How to turn anything into a router",
+    "url": "https://nbailey.ca/post/router/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47574034",
+    "summary": "",
+    "score": 549,
+    "published_at": "2026-03-30T13:28:54+00:00",
+    "ai_summary": "어떤 기기든 라우터로 만들 수 있는 방법에 대한 기술 기사입니다.\n네트워킹 기본 개념과 장치 설정을 통해 라우터 기능을 구현하는 방법을 다룹니다.\n네트워크, 백엔드 또는 DevOps 개발자에게 유용한 지식입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47547843",
+    "title": "Agents of Chaos",
+    "url": "https://agentsofchaos.baulab.info/report.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47547843",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-03-27T20:30:05+00:00",
+    "ai_summary": "“카오스의 에이전트”라는 제목은 시스템 내의 예측 불가능한 요소나 보안 위협을 암시합니다.\n이는 시스템 복원력, 보안 취약점 또는 복잡계 관리와 관련될 수 있습니다.\n개발자에게는 견고한 시스템 설계와 예상치 못한 상황에 대비하는 중요성을 상기시킵니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47573887",
+    "title": "Bird brains (2023)",
+    "url": "https://www.dhanishsemar.com/writing/bird-brains",
+    "discussion_url": "https://news.ycombinator.com/item?id=47573887",
+    "summary": "",
+    "score": 278,
+    "published_at": "2026-03-30T13:14:27+00:00",
+    "ai_summary": "“새들의 뇌”는 생체 모방 컴퓨팅이나 인공지능 분야의 연구를 암시할 수 있습니다.\n생명체의 지능을 이해하거나 모방하는 AI 모델 개발과 관련될 가능성이 있습니다.\nAI/ML 연구자와 개발자에게 흥미로운 주제일 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47549824",
+    "title": "Cherri – programming language that compiles to an Apple Shortuct",
+    "url": "https://github.com/electrikmilk/cherri",
+    "discussion_url": "https://news.ycombinator.com/item?id=47549824",
+    "summary": "",
+    "score": 223,
+    "published_at": "2026-03-27T23:39:44+00:00",
+    "ai_summary": "새로운 프로그래밍 언어 Cherri는 Apple Shortcut으로 컴파일됩니다. Apple 기기에서 자동화와 스크립팅을 구현하려는 개발자들에게 유용합니다. 이는 개발자들이 Apple 생태계 내에서 혁신적인 방식으로 자동화를 구축할 새로운 도구를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556063",
+    "title": "Seeing Like a Spreadsheet",
+    "url": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556063",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-28T16:28:32+00:00",
+    "ai_summary": "\"스프레드시트처럼 생각하기\"는 데이터 구조화와 논리적 사고에 대한 통찰을 제공합니다. 개발자가 데이터 처리 방식과 사용자 인터페이스를 이해하는 데 도움을 줄 수 있습니다. 특히 데이터 관리, 애플리케이션 개발, 또는 분석 도구 설계에 간접적으로 관련됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47576055",
+    "title": "OCR for construction documents does not work, we fixed it",
+    "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+    "discussion_url": "https://news.ycombinator.com/item?id=47576055",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-03-30T16:05:46+00:00",
+    "ai_summary": "건설 문서용 OCR의 문제를 해결했다는 내용으로, AI/ML 기술의 실제 적용 사례입니다. 특정 산업 분야에서 데이터 추출 및 자동화에 관심 있는 개발자에게 매우 관련성이 높습니다. OCR 기술의 난제 극복과 성능 개선에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47575417",
+    "title": "Show HN: Coasts – Containerized Hosts for Agents",
+    "url": "https://github.com/coast-guard/coasts",
+    "discussion_url": "https://news.ycombinator.com/item?id=47575417",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-03-30T15:17:51+00:00",
+    "ai_summary": "Coasts는 에이전트 실행을 위한 컨테이너화된 호스트를 제공하는 프로젝트입니다.\n개발자가 복잡한 환경 설정 없이 에이전트를 쉽게 배포하고 관리할 수 있도록 돕습니다.\n이는 특히 AI/ML 에이전트나 분산 시스템 개발에 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47565952",
+    "title": "The Digital Leviathan",
+    "url": "https://brownstone.org/articles/the-digital-leviathan/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47565952",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-03-29T18:48:51+00:00",
+    "ai_summary": "이 기사는 디지털 시대의 거대한 기술 기업이나 시스템이 사회에 미치는 영향을 탐구합니다.\n권력 집중과 데이터 통제 같은 주요 이슈들을 다루며, 현대 기술의 윤리적, 사회적 함의를 고찰합니다.\n개발자에게는 광범위한 기술 생태계를 이해하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47575403",
+    "title": "CodingFont: A game to help you pick a coding font",
+    "url": "https://www.codingfont.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47575403",
+    "summary": "",
+    "score": 281,
+    "published_at": "2026-03-30T15:16:35+00:00",
+    "ai_summary": "CodingFont는 개발자들이 자신에게 맞는 코딩 폰트를 찾도록 돕는 게임 형식의 웹사이트입니다.\n다양한 폰트를 직접 비교하고 평가하여 최적의 개발 환경을 구축하는 데 기여합니다.\n개발 생산성과 시각적 편안함을 향상시킬 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47577120",
+    "title": "Recover Apple Keychain",
+    "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47577120",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-03-30T17:21:49+00:00",
+    "ai_summary": "이 문서는 Apple Keychain 데이터를 복구하는 방법에 대한 정보를 제공합니다.\n암호와 보안 정보를 관리하는 개발자들에게 유용하며, 데이터 손실 시 복구 절차를 이해하는 데 도움을 줍니다.\n보안 및 시스템 관리 측면에서 중요한 내용입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47567242",
+    "title": "Build123d: A Python CAD programming library",
+    "url": "https://github.com/gumyr/build123d",
+    "discussion_url": "https://news.ycombinator.com/item?id=47567242",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-03-29T20:58:22+00:00",
+    "ai_summary": "Build123d는 파이썬을 이용한 CAD(컴퓨터 지원 설계) 프로그래밍 라이브러리입니다.\n개발자가 코드를 통해 3D 모델을 생성하고 조작할 수 있도록 지원하며, 자동화된 설계 작업에 활용될 수 있습니다.\n특히 엔지니어링 및 제조 분야 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47571279",
+    "title": "I am definitely missing the pre-AI writing era",
+    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+    "discussion_url": "https://news.ycombinator.com/item?id=47571279",
+    "summary": "",
+    "score": 236,
+    "published_at": "2026-03-30T07:03:18+00:00",
+    "ai_summary": "이 글은 AI 글쓰기 도구의 등장으로 인해 변화된 글쓰기 환경에 대한 회고를 담고 있습니다.\nAI가 가져온 편리함과 동시에 인간 고유의 창의성 및 진정성 감소에 대한 우려를 표현합니다.\n개발자들에게는 AI 기술의 사회적 함의와 윤리적 측면을 고민하게 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47572771",
+    "title": "Mathematical methods and human thought in the age of AI",
+    "url": "https://arxiv.org/abs/2603.26524",
+    "discussion_url": "https://news.ycombinator.com/item?id=47572771",
+    "summary": "",
+    "score": 189,
+    "published_at": "2026-03-30T11:05:37+00:00",
+    "ai_summary": "이 기사는 AI 시대에 수학적 방법론과 인간 사고의 역할을 탐구합니다.\nAI가 수학적 문제 해결과 추론에 어떻게 기여하며, 동시에 인간의 직관과 창의성이 여전히 중요한 이유를 설명합니다.\nAI 연구 및 개발 방향에 대한 심오한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47578741",
+    "title": "Why I'm betting on ATProto (and why you should, too)",
+    "url": "https://brittanyellich.com/atproto/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47578741",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-30T19:37:45+00:00",
+    "ai_summary": "ATProto는 Bluesky에서 개발한 분산형 소셜 프로토콜입니다.\n데이터를 소유하고 상호 운용성을 높이는 새로운 웹 구축 방식을 제시합니다.\n개발자들에게 분산형 네트워크와 프로토콜 설계에 대한 흥미로운 시사점을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47575616",
+    "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+    "discussion_url": "https://news.ycombinator.com/item?id=47575616",
+    "summary": "",
+    "score": 223,
+    "published_at": "2026-03-30T15:32:37+00:00",
+    "ai_summary": "FTC가 매치(Match)와 오케이큐피드(OkCupid)를 상대로 사용자 기만 및 개인 데이터 공유에 대한 조치를 취했습니다.\n이는 기술 기업의 데이터 프라이버시 및 사용자 보호 의무를 강조합니다.\n개발자들은 서비스 설계 시 데이터 처리 및 보안 규정 준수의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47553910",
+    "title": "From Proxmox to FreeBSD and Sylve in our office lab",
+    "url": "https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab",
+    "discussion_url": "https://news.ycombinator.com/item?id=47553910",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-03-28T12:20:28+00:00",
+    "ai_summary": "사무실 랩 환경에서 가상화 플랫폼 Proxmox에서 FreeBSD 및 Sylve로의 전환 과정을 설명합니다.\n시스템 관리, 서버 설정 및 특정 운영체제 환경 구축에 대한 실질적인 경험을 공유합니다.\n인프라 엔지니어 및 DevOps 실무자에게 유용한 기술적 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47574346",
+    "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
+    "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47574346",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-03-30T13:51:31+00:00",
+    "ai_summary": "AI 기술 발전이 중간 레벨 엔지니어링 역할을 자동화하여 경력 사다리의 중간 단계가 사라질 수 있다고 경고합니다.\n개발자들이 AI 시대에 살아남고 성장하기 위해 필요한 새로운 기술과 역량을 강조합니다.\nAI가 가져올 직무 변화에 대한 개발자들의 고민과 대비를 촉구하는 내용입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://m1astra-mythos.pages.dev/",
+    "title": "Claude Mythos (3 minute read)",
+    "url": "https://m1astra-mythos.pages.dev/",
+    "discussion_url": "https://m1astra-mythos.pages.dev/",
+    "summary": "'Mythos' is the name for a new tier of Anthropic models that are larger and more intelligent than Opus. The models get dramatically higher scores on tests of software coding, academic reasoning, and cybersecurity compared to Claude Opus 4.6. Mythos is a large, compute-intensive model that is very expensive to use and serve. Anthropic is working on making the model much more efficient before any general release.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "Anthropic의 새로운 최상위 모델인 'Mythos'는 Claude Opus보다 훨씬 크고 지능적이며, 코딩, 학술 추론, 사이버 보안 테스트에서 월등히 높은 점수를 받습니다. Mythos는 연산 집약적이고 사용 비용이 매우 비싸지만, Anthropic은 일반 출시 전에 효율성 개선에 집중하고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/",
+    "title": "Meta tests Avocado 9B, Avocado Mango Agent, and more (2 minute read)",
+    "url": "https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/",
+    "discussion_url": "https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/",
+    "summary": "Meta's Avocado model has been pushed back to at least May as it still falls short of leading systems from competitors. The company appears to be running parallel experiments with multiple Avocado variants. The model appears to be able to solve complex math problems that earlier Llama models could not, but these problems have already been solved by other labs months earlier. Meta's AI leadership has reportedly discussed temporarily licensing Google's Gemini technology. Some requests within Meta A",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "Meta의 Avocado 모델은 경쟁사 시스템에 미치지 못해 출시가 5월 이후로 연기되었으며, 여러 변형 모델로 실험을 진행 중입니다. 이 모델은 이전 Llama 모델이 풀지 못했던 복잡한 수학 문제를 해결하지만, 이는 이미 다른 연구소에서 몇 달 전에 해결된 문제입니다. Meta는 Google의 Gemini 기술 라이선스 계약을 일시적으로 고려하기도 했다고 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://autobe.dev/blog/function-calling-harness-qwen-meetup-korea/",
+    "title": "Function Calling Harness: From 6.75% to 100% (32 minute read)",
+    "url": "https://autobe.dev/blog/function-calling-harness-qwen-meetup-korea/",
+    "discussion_url": "https://autobe.dev/blog/function-calling-harness-qwen-meetup-korea/",
+    "summary": "AutoBe is an open-source AI agent that takes a single natural language conversation and generates a complete backend. qwen3-coder-next has a 6.75% function calling success rate when asked to generate API data types for a shopping mall backend. AutoBe boosts that success rate up to over 99.8%. It uses a harness where type schemas constrain outputs, compilers verify results, and structure feedback pinpoints compactly where and why something went wrong so the agent can correct itself. This post dis",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "오픈소스 AI 에이전트인 AutoBe는 자연어로 전체 백엔드를 생성할 수 있습니다. AutoBe는 qwen3-coder-next 모델의 함수 호출 성공률(API 데이터 타입 생성)을 6.75%에서 99.8% 이상으로 끌어올렸습니다. 이 성공률 향상은 타입 스키마로 출력을 제한하고, 컴파일러로 결과를 검증하며, 구조적 피드백으로 에이전트가 오류를 수정하도록 돕는 하네스 방식을 통해 이루어졌습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/E6ELHguZFNF3Czp55/ai-s-capability-improvements-haven-t-come-from-it-getting",
+    "title": "AI's capability improvements haven't come from it getting less affordable (12 minute read)",
+    "url": "https://www.lesswrong.com/posts/E6ELHguZFNF3Czp55/ai-s-capability-improvements-haven-t-come-from-it-getting",
+    "discussion_url": "https://www.lesswrong.com/posts/E6ELHguZFNF3Czp55/ai-s-capability-improvements-haven-t-come-from-it-getting",
+    "summary": "AI's capability improvements at the frontier have not led to increased inference costs relative to human labor. Despite rising per-task inference costs, current models achieve tasks at roughly 3% of human costs without any upward trend in median cost ratios. Models can continue advancing even under strict cost constraints, enabling profitable automation with AI cost ratios remaining well below human levels.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "AI 기술 발전에도 불구하고, 인간 노동 대비 AI 추론 비용은 증가하지 않았습니다. 작업당 추론 비용은 상승했으나, 현재 모델들은 인간 비용의 약 3% 수준으로 작업을 수행하며, 중간 비용 비율은 상승 추세를 보이지 않습니다. 엄격한 비용 제약 하에서도 AI 모델은 계속 발전할 수 있어, 인간 수준보다 훨씬 낮은 비용으로 수익성 있는 자동화가 가능합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/levie/status/2037928306977509601",
+    "title": "The Capability Overhang in AI (4 minute read)",
+    "url": "https://x.com/levie/status/2037928306977509601",
+    "discussion_url": "https://x.com/levie/status/2037928306977509601",
+    "summary": "Coding agents outperform other domains because codebases provide a self-contained environment of critical context, unlike fragmented knowledge work spread across video calls and legacy systems. Enterprise adoption remains stalled by the three hard problems of context fragmentation, complex access control, and a rapidly shifting architecture landscape.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "코딩 에이전트가 다른 도메인보다 뛰어난 성능을 보이는 이유는 코드베이스가 자체 포함된 환경으로 중요한 맥락을 제공하기 때문입니다. 엔터프라이즈 AI 도입은 맥락 단편화, 복잡한 접근 제어, 빠르게 변화하는 아키텍처 환경이라는 세 가지 문제로 인해 정체되고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "title": "Schedule tasks on the web (5 minute read)",
+    "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "discussion_url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "summary": "Claude Code on the web users can now schedule tasks. The tasks will run on Anthropic-managed infrastructure, so they will keep working even if users turn off their devices. Scheduled tasks are available to all Claude Code on the web users. Example tasks include reviewing open pull requests each morning, analyzing CI failures overnight and surfacing summaries, syncing documentation after PRs merge, and running dependency audits every week.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "Claude Code 웹 사용자는 이제 Anthropic이 관리하는 인프라에서 작업을 예약할 수 있으며, 기기가 꺼져 있어도 작동합니다. 예약 가능한 작업에는 매일 아침 PR 검토, 야간 CI 실패 분석 및 요약, PR 병합 후 문서 동기화, 주간 의존성 감사 실행 등이 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.nibzard.com/oracles/",
+    "title": "What Pretext Reinforced About AI Loops (5 minute read)",
+    "url": "https://www.nibzard.com/oracles/",
+    "discussion_url": "https://www.nibzard.com/oracles/",
+    "summary": "Pretext is a fast, accurate, comprehensive text measurement algorithm that can lay out web pages without leaning on DOM measurement and reflow. It was created using AI agent workflows. The particular loop that was used in developing the tool (constrain -> measure -> isolate -> classify -> test -> reject -> keep only what survives broad pressure) made the engineering rigorous. This article analyzes the loop to see what makes it so successful.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "Pretext는 DOM 측정 및 리플로우 없이 웹 페이지를 레이아웃할 수 있는 빠르고 정확한 텍스트 측정 알고리즘으로, AI 에이전트 워크플로우를 통해 개발되었습니다. 개발 과정에 사용된 엄격한 AI 루프(제한 -> 측정 -> 분리 -> 분류 -> 테스트 -> 거부 -> 살아남은 것만 유지)가 성공에 결정적인 역할을 했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/1st1/lat.md",
+    "title": "lat.md (GitHub Repo)",
+    "url": "https://github.com/1st1/lat.md",
+    "discussion_url": "https://github.com/1st1/lat.md",
+    "summary": "lat.md is a spec that agents keep in sync with the code base that helps them understand big ideas and key business logic. It ensures that corner cases have proper high-level tests that matter and can speed up coding by saving agents from endless grepping. The spec uses plain Markdown, with Wiki links connecting concepts into a navigable graph.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "AI 에이전트가 코드베이스와 비즈니스 로직을 이해하는 데 도움을 주는 명세입니다. 주요 비즈니스 로직 이해 및 코너 케이스 테스트를 보장하며, 마크다운과 위키 링크를 사용하여 개념을 연결하는 탐색 가능한 그래프를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://semaphore.substack.com/p/things-i-learned-at-openai",
+    "title": "Things I learned at OpenAI (7 minute read)",
+    "url": "https://semaphore.substack.com/p/things-i-learned-at-openai",
+    "discussion_url": "https://semaphore.substack.com/p/things-i-learned-at-openai",
+    "summary": "OpenAI alumni emphasize the significance of creating effective evaluations and benchmarks, noting that the best benchmarks drive collective optimization efforts. Post-training data design and model alignment are critical for unlocking new AI capabilities, particularly in subjective attributes like empathy or creativity. Fast iteration, choosing the right problems, and leveraging internal tooling are key competitive advantages in AI research.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "효과적인 평가 및 벤치마크의 중요성이 강조됩니다. 후학습 데이터 설계와 모델 정렬은 새로운 AI 기능(공감, 창의성)을 잠금 해제하는 데 필수적이며, 빠른 반복, 문제 선정, 내부 도구 활용이 AI 연구의 핵심 경쟁 우위입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/edsim/status/2037878454373241256?s=12",
+    "title": "Why AI is not killing the cybersecurity industry, but expanding it exponentially - thoughts from RSA (10 minute read)",
+    "url": "https://x.com/edsim/status/2037878454373241256?s=12",
+    "discussion_url": "https://x.com/edsim/status/2037878454373241256?s=12",
+    "summary": "AI-powered exploitation can attack systems at a scale never possible before.",
+    "score": 0,
+    "published_at": "2026-03-30T23:36:55+00:00",
+    "ai_summary": "AI 기반의 공격은 전례 없는 규모로 시스템을 공격할 수 있어, 사이버 보안 산업이 기하급수적으로 확장되고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  }
+]
