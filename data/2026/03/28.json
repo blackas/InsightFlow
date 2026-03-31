@@ -1,0 +1,579 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27958",
+    "title": "웹에서 작업 예약 실행",
+    "url": "https://news.hada.io/topic?id=27958",
+    "discussion_url": "https://news.hada.io/topic?id=27958",
+    "summary": "Claude Code의 클라우드 예약 기능으로 반복 업무를 자동화하고, 컴퓨터가 꺼져 있어도 백그라운드에서 실행 가능\n예약 방식은 Cloud, Desktop, /loop 세 가지로, 실행 위치와 주기 설정 단위가 다름\n웹...",
+    "score": 0,
+    "published_at": "2026-03-28T22:33:07+00:00",
+    "ai_summary": "Claude Code는 웹에서 작업 예약 실행 기능을 제공하여 반복 업무 자동화를 돕습니다. 컴퓨터가 꺼져 있어도 백그라운드에서 실행 가능하며, Cloud, Desktop, /loop 세 가지 방식으로 실행 위치와 주기를 설정할 수 있습니다. 이는 개발 생산성 향상에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27946",
+    "title": "Show GN: 31개의 LLM을 교차검증 체계로 엮은 100% 자율 주식 매매 시스템",
+    "url": "https://news.hada.io/topic?id=27946",
+    "discussion_url": "https://news.hada.io/topic?id=27946",
+    "summary": "안녕하세요. 개인 포트폴리오를 관리하기 위해 토이 프로젝트로 시작했다가, 점차 판이 커져 31개의 LLM 에이전트 시스템을 구축하게 된 학생 개발자입니다.\n초기에는 사용자를 모으기 위한 B2C 종목 추천 웹서비스로 기획했습니다. 하지만 막대한 API 통신 비용 문제와 효용성 검증 문제에 부딪혔습니다. 그래",
+    "score": 0,
+    "published_at": "2026-03-28T04:48:03+00:00",
+    "ai_summary": "한 학생 개발자가 31개 LLM 에이전트로 100% 자율 주식 매매 시스템을 구축했습니다. B2C 서비스 기획 중 API 통신 비용 및 효용성 검증 문제에 부딪혔습니다. 이 경험은 LLM 기반 시스템 개발의 실제 도전 과제를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27943",
+    "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
+    "url": "https://news.hada.io/topic?id=27943",
+    "discussion_url": "https://news.hada.io/topic?id=27943",
+    "summary": "Z.AI의 GLM Coding Plan이 최신 모델인 GLM-5.1을 지원하기 시작했습니다. Max, Pro, Lite 전 플랜 사용자가 이용 가능하며, 기존에 사용하던 코딩 에이전트에서 설정 파일만 수정해 전환할 수 있습니다.\nClaude Code에서 전환하기\nClaude Code는 내부적으로 Opus/Sonnet/Haiku 환경변수를 GLM 모델에 매...",
+    "score": 0,
+    "published_at": "2026-03-28T02:45:30+00:00",
+    "ai_summary": "Z.AI의 GLM Coding Plan이 최신 GLM-5.1 모델을 지원하기 시작했습니다. 기존 코딩 에이전트 사용자들은 설정 파일 수정만으로 쉽게 모델 전환이 가능합니다. 이 업데이트는 개발자에게 더 유연한 AI 모델 활용 기회를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27942",
+    "title": "Codex 플러그인 출시 — Slack, Figma, Notion, Gmail 등 주요 도구와 즉시 연동",
+    "url": "https://news.hada.io/topic?id=27942",
+    "discussion_url": "https://news.hada.io/topic?id=27942",
+    "summary": "OpenAI의 코딩 에이전트 Codex가 플러그인 기능을 출시하며, 개발자가 이미 사용 중인 주요 협업·생산성 도구와 즉시 연동 가능한 플랫폼으로 전환\n\nSlack, Figma, Notion, Gmail, Google Drive 등 핵심 도구가 기본 지원되며, Codex 앱·CLI·IDE 확장 모두에서 플러...",
+    "score": 0,
+    "published_at": "2026-03-28T02:34:01+00:00",
+    "ai_summary": "OpenAI의 코딩 에이전트 Codex가 플러그인 기능을 출시하며 주요 협업·생산성 도구와 즉시 연동됩니다. Slack, Figma, Notion 등 핵심 도구가 기본 지원되며, Codex 앱·CLI·IDE 확장 모두에서 활용 가능합니다. 이는 개발자의 워크플로우를 효율적으로 개선합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27941",
+    "title": ".claude/ 폴더 구조 분석",
+    "url": "https://news.hada.io/topic?id=27941",
+    "discussion_url": "https://news.hada.io/topic?id=27941",
+    "summary": ".claude/ 폴더는 Claude Code의 핵심 제어 디렉터리로, 프로젝트별 규칙·명령·권한·메모리 상태를 관리함\n\nCLAUDE.md는 Claude의 행동 원칙과 프로젝트 규칙을 정의하는 중심 파일로, 여러 계층의 설정을 병합해 적용함",
+    "score": 0,
+    "published_at": "2026-03-28T00:53:17+00:00",
+    "ai_summary": ".claude/ 폴더는 Claude Code의 핵심 제어 디렉터리로, 프로젝트별 규칙, 명령, 권한 및 메모리 상태를 관리합니다. CLAUDE.md는 Claude의 행동 원칙과 프로젝트 규칙을 정의하며, 여러 계층 설정을 병합하여 적용됩니다. 이는 개발자가 Claude Code를 더 깊이 이해하고 제어하는 데 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27940",
+    "title": "jq보다 빠른 jsongrep",
+    "url": "https://news.hada.io/topic?id=27940",
+    "discussion_url": "https://news.hada.io/topic?id=27940",
+    "summary": "JSON 문서를 경로 기반으로 탐색하는 Rust CLI 도구로, 기존 jq, jmespath, jsonpath-rust, jql보다 검색 속도가 빠름\n쿼리를 정규 언어로 표현해 DFA로 컴파일하고, JSON 트리를 단일 패스...",
+    "score": 0,
+    "published_at": "2026-03-28T00:50:17+00:00",
+    "ai_summary": "jsongrep은 JSON 문서를 경로 기반으로 탐색하는 Rust CLI 도구로, 기존 jq보다 검색 속도가 훨씬 빠릅니다. 쿼리를 정규 언어로 표현하고 DFA로 컴파일하여 JSON 트리를 단일 패스로 처리합니다. 이는 대량의 JSON 데이터를 다루는 개발자에게 유용한 성능 개선 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27938",
+    "title": "Codex 활용 사례 모음",
+    "url": "https://news.hada.io/topic?id=27938",
+    "discussion_url": "https://news.hada.io/topic?id=27938",
+    "summary": "OpenAI가 agentic 코딩 도구 Codex를 실무에 바로 적용할 수 있는 12가지 유즈케이스를 공식 문서로 정리해 공개했으며, 각 케이스에는 권장 팀/카테고리, 스타터 프롬프트, 활용 Skills 정보가 포함되어 있음\nEngineering·Front-end·Data·Integrations·Mobile·Evaluation 등",
+    "score": 0,
+    "published_at": "2026-03-28T00:45:01+00:00",
+    "ai_summary": "OpenAI는 agentic 코딩 도구 Codex를 실무에 적용할 수 있는 12가지 활용 사례를 공식 문서로 공개했습니다. 각 사례는 권장 팀/카테고리, 스타터 프롬프트, 활용 스킬 정보를 포함합니다. 이는 Engineering, Front-end, Data 등 다양한 분야의 개발자에게 실질적인 도움을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27936",
+    "title": "하드웨어를 붙잡아야 한다",
+    "url": "https://news.hada.io/topic?id=27936",
+    "discussion_url": "https://news.hada.io/topic?id=27936",
+    "summary": "AI와 데이터센터 수요 폭증으로 RAM·SSD 등 소비자용 부품 공급이 급감하며, 하드웨어 가격이 급등 중임\n_Micron_의 철수로 _Samsung_과 _SK Hynix_가 사실상 양강 체제를 형성했고, 2028년 이후까지 공급난이 지속될 전망\n제조사들은 HBM·서버 D...",
+    "score": 0,
+    "published_at": "2026-03-28T00:41:16+00:00",
+    "ai_summary": "AI와 데이터센터 수요 폭증으로 RAM·SSD 등 하드웨어 부품 공급이 급감하고 가격이 급등하고 있습니다.\nMicron 철수 후 Samsung, SK Hynix 양강 체제가 형성되었고, 공급난은 2028년 이후까지 지속될 전망입니다.\n이는 AI/ML 개발 및 클라우드 인프라 비용에 장기적인 영향을 미칠 수 있는 중요한 시장 동향입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27934",
+    "title": "4월 24일까지 거부하지 않으면 GitHub이 개인 저장소로 AI 학습을 진행함",
+    "url": "https://news.hada.io/topic?id=27934",
+    "discussion_url": "https://news.hada.io/topic?id=27934",
+    "summary": "GitHub이 개인 저장소의 코드와 데이터를 AI 모델 학습에 활용할 계획\n사용자는 4월 24일 이전에 명시적으로 거부(opt-out) 해야 데이터 사용을 차단할 수 있음\n거부하지 않을 경우 비공개 프로젝트 정보가 학습 데이터에 포함될 수 있음...",
+    "score": 0,
+    "published_at": "2026-03-28T00:38:16+00:00",
+    "ai_summary": "GitHub이 사용자 개인 저장소의 코드와 데이터를 AI 모델 학습에 활용할 계획을 발표했습니다.\n개발자는 4월 24일까지 명시적으로 거부(opt-out)해야 개인 프로젝트 정보가 학습 데이터에 포함되는 것을 막을 수 있습니다.\n이는 개발자의 프라이버시 및 지적 재산권에 직접적인 영향을 미치므로 즉각적인 확인과 조치가 필요합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27933",
+    "title": "Vercel의 json-render - Generative UI 프레임워크",
+    "url": "https://news.hada.io/topic?id=27933",
+    "discussion_url": "https://news.hada.io/topic?id=27933",
+    "summary": "AI가 사용자 프롬프트를 받아 JSON 구조를 생성하고, 이를 미리 정의된 컴포넌트로 렌더링하는 생성형 UI 프레임워크\n프롬프트로 부터 동적이고 개인화된 UI를 생성하되, 사전 정의된 컴포넌트 카탈로그를 통해 안전하고 예측 가능한 출력을 보장\n카탈로그...",
+    "score": 0,
+    "published_at": "2026-03-28T00:31:02+00:00",
+    "ai_summary": "Vercel이 AI가 사용자 프롬프트를 JSON 구조로 생성하고 이를 미리 정의된 컴포넌트로 렌더링하는 생성형 UI 프레임워크를 공개했습니다.\n이 프레임워크는 AI를 통해 동적이고 개인화된 UI를 생성하면서도 사전 정의된 카탈로그로 안전하고 예측 가능한 출력을 보장합니다.\n프론트엔드 개발에 AI를 접목하는 새로운 접근 방식으로, 개발 생산성과 UI/UX 혁신에 기여할 잠재력이 큽니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47557960",
+    "title": "CSS is DOOMed",
+    "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47557960",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-03-28T20:39:01+00:00",
+    "ai_summary": "\"CSS는 끝났다\"는 제목의 이 기사는 CSS의 미래와 한계, 혹은 새로운 대안에 대한 논의를 다룰 것으로 예상됩니다.\n이는 프론트엔드 개발자들이 현재 사용 중인 스타일링 기술에 대한 비판적 고찰이나 변화를 제안할 수 있습니다.\nCSS를 대체할 기술이나 CSS 자체의 발전 방향에 대한 심도 깊은 분석이 포함될 가능성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47557166",
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "discussion_url": "https://news.ycombinator.com/item?id=47557166",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-03-28T18:38:59+00:00",
+    "ai_summary": "이 기사는 도널드 커누스의 \"Claude Cycles\" 문제에 대한 인간, AI, 그리고 증명 보조 도구를 활용한 연구를 다룹니다.\nAI가 복잡한 수학적 또는 알고리즘적 문제 해결에 어떻게 기여하는지, 그리고 자동화된 증명 시스템과의 협업을 탐구합니다.\n컴퓨터 과학 이론, AI/ML 연구, 그리고 고급 알고리즘 개발 분야의 개발자들에게 특히 흥미로운 주제가 될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556359",
+    "title": "Linux is an interpreter",
+    "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556359",
+    "summary": "",
+    "score": 146,
+    "published_at": "2026-03-28T16:59:34+00:00",
+    "ai_summary": "\"리눅스는 인터프리터다\"라는 이 기사는 리눅스 운영체제의 근본적인 작동 방식에 대한 새로운 관점을 제시할 것으로 보입니다.\n이는 리눅스 커널의 역할, 시스템 호출 처리 방식, 그리고 프로그램 실행 환경으로서의 본질을 탐구할 가능성이 높습니다.\n시스템 프로그래밍, 운영체제 이론, DevOps 엔지니어링 등 깊이 있는 기술 지식을 가진 개발자들에게 특히 흥미로운 분석을 제공할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47554773",
+    "title": "AI overly affirms users asking for personal advice",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "discussion_url": "https://news.ycombinator.com/item?id=47554773",
+    "summary": "",
+    "score": 490,
+    "published_at": "2026-03-28T14:08:33+00:00",
+    "ai_summary": "이 기사는 AI가 개인적인 조언을 구하는 사용자들에게 지나치게 긍정적인 답변을 제공하는 문제점을 지적합니다.\n이는 AI의 윤리적 사용, 안전성, 그리고 사용자에게 미칠 수 있는 잠재적 부정적 영향에 대한 중요한 경고를 담고 있습니다.\nAI/ML 개발자들은 모델 학습과 배포 시 이러한 편향과 부작용을 최소화하기 위한 노력을 해야 할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47557185",
+    "title": "The first 40 months of the AI era",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47557185",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-03-28T18:42:08+00:00",
+    "ai_summary": "AI 시대의 초기 40개월 동안 기술 발전과 시장 변화를 조망합니다. 생성 AI의 부상과 산업 전반에 미치는 영향, 그리고 미래 전망을 분석합니다. 개발자들이 AI 기술 변화를 이해하고 대비하는 데 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47507420",
+    "title": "My heuristics are wrong. What now?",
+    "url": "https://brooker.co.za/blog/2026/03/20/ic-leadership.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47507420",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-03-24T18:52:31+00:00",
+    "ai_summary": "자신의 경험 기반 추론 방식(휴리스틱)이 잘못되었음을 깨닫고, 그 이후의 대처 방안을 탐색합니다. 문제 해결 과정에서 편향을 인지하고 개선하는 방법을 제시하며, 개발자의 성장 마인드셋을 강조합니다. 개인의 학습 방식과 효율성을 되돌아보는 데 유용한 시사점을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47557064",
+    "title": "OpenCiv1 – open-source rewrite of Civ1",
+    "url": "https://github.com/rajko-horvat/OpenCiv1",
+    "discussion_url": "https://news.ycombinator.com/item?id=47557064",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-03-28T18:22:45+00:00",
+    "ai_summary": "고전 게임 '문명 1'을 오픈 소스로 재작성하는 프로젝트 'OpenCiv1'에 대한 내용입니다. 원작의 복원과 현대적 플랫폼 지원을 목표로 하며, 게임 아키텍처와 개발 과정을 공유합니다. 레거시 코드 작업, 오픈 소스 기여, 게임 개발에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47506889",
+    "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+    "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47506889",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-03-24T18:17:19+00:00",
+    "ai_summary": "메타가 ARM과 협력하여 데이터 센터용 새로운 종류의 실리콘 칩을 개발하는 프로젝트를 발표합니다. 이는 전력 효율성과 성능 향상을 목표로 하며, 클라우드 인프라의 미래 방향을 제시합니다. 백엔드, 클라우드, 시스템 엔지니어들에게 하드웨어 기반 기술 변화에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47555556",
+    "title": "I decompiled the White House's new app",
+    "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "discussion_url": "https://news.ycombinator.com/item?id=47555556",
+    "summary": "",
+    "score": 335,
+    "published_at": "2026-03-28T15:37:17+00:00",
+    "ai_summary": "백악관의 새로운 앱을 역컴파일하여 내부 구조와 잠재적 보안 취약점을 분석한 경험담입니다. 앱의 구현 방식, 사용된 기술 스택, 그리고 보안 관점에서 주의할 점들을 상세히 설명합니다. 모바일 보안, 리버스 엔지니어링, 앱 개발에 관심 있는 개발자에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47553717",
+    "title": "I Built an Open-World Engine for the N64 [video]",
+    "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+    "discussion_url": "https://news.ycombinator.com/item?id=47553717",
+    "summary": "",
+    "score": 324,
+    "published_at": "2026-03-28T11:49:28+00:00",
+    "ai_summary": "N64 콘솔을 위한 오픈 월드 게임 엔진을 직접 개발한 과정을 영상과 함께 소개합니다. 제한된 하드웨어 자원에서 성능을 최적화하고 복잡한 그래픽을 구현하는 기술적 도전과 해결 과정을 다룹니다. 로우레벨 프로그래밍, 게임 엔진 개발, 레트로 플랫폼에 관심 있는 개발자에게 깊은 영감을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47553185",
+    "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+    "url": "https://github.com/J-x-Z/cocoa-way",
+    "discussion_url": "https://news.ycombinator.com/item?id=47553185",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-03-28T10:06:13+00:00",
+    "ai_summary": "macOS에서 Wayland 기반 Linux 앱을 원활하게 실행할 수 있도록 돕는 네이티브 컴포지터 'Cocoa-Way'에 대한 소개입니다. macOS의 Cocoa 프레임워크와 Wayland 프로토콜을 통합하여 크로스 플랫폼 개발 환경을 개선합니다. OS 개발, 데스크톱 환경, 크로스 플랫폼 툴링에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556267",
+    "title": "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
+    "url": "https://androwish.org/home/wiki?name=undroidwish",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556267",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-03-28T16:49:46+00:00",
+    "ai_summary": "Tcl/Tk 애플리케이션을 위한 단일 파일, 자체 포함형 바이너리를 다양한 플랫폼에서 제공하는 프로젝트입니다.\n개발자가 Tcl/Tk 기반 GUI 애플리케이션을 쉽게 배포할 수 있도록 돕습니다.\n언어와 도구 활용에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47508710",
+    "title": "Detecting file changes on macOS with kqueue",
+    "url": "https://www.vegardstikbakke.com/kqueue/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47508710",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-03-24T20:29:44+00:00",
+    "ai_summary": "macOS에서 kqueue를 사용하여 파일 시스템 변경 사항을 감지하는 방법을 설명하는 기술 문서입니다.\n파일 모니터링, 실시간 동기화 등 저수준 시스템 프로그래밍에 필수적인 기술을 다룹니다.\n시스템 개발자 및 특정 유틸리티 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47553798",
+    "title": "Spanish legislation as a Git repo",
+    "url": "https://github.com/EnriqueLop/legalize-es",
+    "discussion_url": "https://news.ycombinator.com/item?id=47553798",
+    "summary": "",
+    "score": 682,
+    "published_at": "2026-03-28T12:01:27+00:00",
+    "ai_summary": "스페인 법률 문서를 Git 저장소로 관리하여 변경 이력을 추적하고 협업하는 방식에 대한 아이디어입니다.\n코드 버전 관리 도구를 비코딩 텍스트에 적용하는 독특한 시도를 보여줍니다.\n개발자들이 Git의 활용 범위를 넓히는 데 흥미를 가질 만합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47552562",
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "discussion_url": "https://news.ycombinator.com/item?id=47552562",
+    "summary": "",
+    "score": 297,
+    "published_at": "2026-03-28T08:06:19+00:00",
+    "ai_summary": "CERN이 LHC 데이터 실시간 필터링을 위해 FPGA에 초소형 AI 모델을 적용하는 사례입니다.\n고에너지 물리 실험의 방대한 데이터를 효율적으로 처리하는 첨단 AI/ML 기술 활용을 보여줍니다.\n임베디드 AI, 고성능 컴퓨팅 및 ML 엔지니어에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556001",
+    "title": "Circuit-level PDP-11/34 emulator",
+    "url": "https://github.com/dbrll/ll-34",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556001",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-03-28T16:23:31+00:00",
+    "ai_summary": "PDP-11/34 컴퓨터를 회로 수준에서 에뮬레이션하는 프로젝트에 대한 내용입니다.\n하드웨어의 저수준 동작을 소프트웨어로 재현하는 깊이 있는 시스템 프로그래밍 기술을 다룹니다.\n컴퓨터 아키텍처, 레트로 컴퓨팅 또는 에뮬레이터 개발에 관심 있는 개발자에게 적합합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47556033",
+    "title": "rpg.actor Game Jam",
+    "url": "https://rpg.actor/jam",
+    "discussion_url": "https://news.ycombinator.com/item?id=47556033",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-28T16:26:08+00:00",
+    "ai_summary": "rpg.actor 플랫폼을 활용한 게임 잼 이벤트에 대한 정보입니다.\n개발자들이 주어진 시간 안에 게임을 만들고 공유하며 창의성을 발휘하는 기회를 제공합니다.\n게임 개발자, 초보 개발자, 그리고 창의적인 프로젝트에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47503687",
+    "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+    "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+    "discussion_url": "https://news.ycombinator.com/item?id=47503687",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-03-24T15:02:38+00:00",
+    "ai_summary": "Delta, Fzf 및 셸 스크립팅을 활용하여 Git Diff 기능을 개선하는 방법에 대한 실용적인 가이드입니다.\n개발자들이 매일 사용하는 버전 관리 도구인 Git의 사용성과 효율성을 높이는 팁을 제공합니다.\nGit 사용자 및 생산성 향상에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47515652",
+    "title": "C++26: A User-Friednly assert() macro",
+    "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
+    "discussion_url": "https://news.ycombinator.com/item?id=47515652",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-03-25T10:51:48+00:00",
+    "ai_summary": "C++26 표준에 새롭고 개선된 `assert()` 매크로가 도입됩니다.\n이는 개발자가 디버깅과 코드 검증을 더 효율적으로 수행하도록 돕습니다.\n기존 `assert()`의 단점을 보완하여 사용 편의성을 높이는 데 중점을 둡니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47515783",
+    "title": "Hacking old hardware by renaming to .zip [video]",
+    "url": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+    "discussion_url": "https://news.ycombinator.com/item?id=47515783",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-03-25T11:09:21+00:00",
+    "ai_summary": "오래된 하드웨어의 특정 취약점을 이용해 파일 이름을 `.zip`으로 변경하여 시스템을 해킹하는 방법을 다룬 영상입니다.\n이는 구형 시스템의 파일 처리 오류를 악용하는 기술적 탐구입니다.\n보안 연구 및 시스템 이해에 대한 흥미로운 통찰을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47550878",
+    "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+    "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47550878",
+    "summary": "",
+    "score": 292,
+    "published_at": "2026-03-28T02:17:04+00:00",
+    "ai_summary": "AMD가 Ryzen 9 9950X3D2 듀얼 에디션 프로세서를 공개하며 단일 칩에 208MB의 방대한 캐시를 통합했습니다.\n이는 고성능 컴퓨팅 및 게임 성능에서 혁신적인 향상을 가져올 것으로 기대됩니다.\n차세대 하드웨어 기술이 소프트웨어 개발 및 최적화에 미칠 영향을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47557901",
+    "title": "Google just gave Android power users a sideloading win",
+    "url": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47557901",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-03-28T20:28:03+00:00",
+    "ai_summary": "구글이 안드로이드 파워 유저들에게 사이드로딩 관련 긍정적 변화를 제공했습니다.\n이는 사용자들이 공식 앱 스토어 없이도 앱을 설치할 수 있는 자유를 확대하는 조치입니다.\n개발자와 사용자 모두에게 앱 배포 및 접근 방식에 더 큰 유연성을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47518568",
+    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+    "url": "https://github.com/dbrll/ATTN-11",
+    "discussion_url": "https://news.ycombinator.com/item?id=47518568",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-03-25T15:20:08+00:00",
+    "ai_summary": "1976년 미니컴퓨터와 종이 테이프를 활용하여 트랜스포머 AI 모델을 훈련시킨 독특한 실험에 대한 기사입니다.\n이는 극도로 제한된 자원 환경에서 최신 AI 기술을 구현하는 창의적인 접근 방식을 보여줍니다.\n현대 AI의 본질과 컴퓨팅 역사를 결합한 흥미로운 연구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  }
+]

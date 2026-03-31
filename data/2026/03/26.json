@@ -1,0 +1,816 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27890",
+    "title": "ARC-AGI-3",
+    "url": "https://news.hada.io/topic?id=27890",
+    "discussion_url": "https://news.hada.io/topic?id=27890",
+    "summary": "ARC-AGI-3는 AI 에이전트의 인간 수준 지능을 측정하기 위한 최초의 상호작용형 추론 벤치마크로, 환경 탐색과 적응 학습 능력을 평가함\n모든 과제는 인간이 해결 가능한 환경으로 구성되며, 시간에 따른 기술 습득 효율성과 장기 계획 ...",
+    "score": 0,
+    "published_at": "2026-03-26T16:35:13+00:00",
+    "ai_summary": "ARC-AGI-3는 AI 에이전트의 인간 수준 지능 측정을 위한 첫 상호작용형 추론 벤치마크입니다.\n환경 탐색과 적응 학습 능력을 평가하며, 인간 해결 가능한 과제로 구성됩니다.\n시간에 따른 기술 습득 효율성과 장기 계획 능력을 중점적으로 평가합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27881",
+    "title": "Show GN: 케이-스킬 : 한국인을 위한 스킬 모음집",
+    "url": "https://news.hada.io/topic?id=27881",
+    "discussion_url": "https://news.hada.io/topic?id=27881",
+    "summary": "한국인인가요? 이 스킬 모음집을 다운로드 받아 두세요. 언젠가 무조건 쓸 때가 옵니다!\nSRT, KTX, KBO, 로또, 당근, 쿠팡, 카톡, 정부24, 홈택스 등등 귀찮은 것을 AI 에이전트에게 다 시켜버리세요.\nClaude code, codex, opencode 등 각종 코딩 에이전트 지원합니다.\n현재 지원\n\n<li",
+    "score": 0,
+    "published_at": "2026-03-26T07:44:01+00:00",
+    "ai_summary": "한국인 사용자를 위한 AI 에이전트 스킬 모음집 '케이-스킬'을 소개하며 다양한 한국형 서비스를 지원합니다.\nSRT, KTX, 로또, 당근 등 일상적인 귀찮은 작업을 AI 에이전트에게 맡길 수 있습니다.\nClaude Code, Codex 등 코딩 에이전트도 지원하여 개발 생산성 향상에 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27880",
+    "title": "Chops - AI 에이전트 스킬을 한 곳에서 관리하는 macOS 앱",
+    "url": "https://news.hada.io/topic?id=27880",
+    "discussion_url": "https://news.hada.io/topic?id=27880",
+    "summary": "Claude Code, Cursor, Codex, Windsurf, Amp 등 여러 AI 코딩 에이전트의 스킬 파일을 하나의 macOS 앱에서 탐색·편집·관리할 수 있는 오픈소스 도구입니다.\ndotfile을 직접 뒤지지 않아도 되며, 툴별로 올바른 보일러플레이트를 자동 생성해 새 스킬을 만들 수 있습니다. FSEvents 기반 실시간 파일 감지, 이",
+    "score": 0,
+    "published_at": "2026-03-26T07:16:06+00:00",
+    "ai_summary": "여러 AI 코딩 에이전트의 스킬 파일을 하나의 macOS 앱에서 탐색, 편집, 관리할 수 있는 Chops를 소개합니다.\ndotfile을 직접 다룰 필요 없이 툴별 보일러플레이트를 자동 생성해 새 스킬을 쉽게 만들 수 있습니다.\nFSEvents 기반 실시간 파일 감지 기능을 제공하여 효율적인 스킬 관리를 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27876",
+    "title": "Show GN: aicasebook.dev | AI 개발 환경 사례집 (볼만한 정보를 지향)",
+    "url": "https://news.hada.io/topic?id=27876",
+    "discussion_url": "https://news.hada.io/topic?id=27876",
+    "summary": "배경\n작년에 Claude Code 커맨드 위주 세팅을 하고 만족하면서 썼음.\n그런데 올해 스킬 공유나 다른 방법론들 알게 되면서\n스스로 몇개월 만에 미개해졌다고 느낌.\n남들은 어떻게 쓰고, 커뮤니티 의견은 어떠한가?\n이걸 따라가고 검색하는 서비스를 만들어봄.\n<a",
+    "score": 0,
+    "published_at": "2026-03-26T04:55:46+00:00",
+    "ai_summary": "Claude Code 커맨드 세팅에 만족했으나, 새로운 스킬 공유와 방법론에 대한 필요성을 느껴 개발되었습니다.\n다른 개발자들이 AI를 어떻게 활용하고 어떤 커뮤니티 의견이 있는지 탐색하는 서비스입니다.\nAI 개발 환경에 대한 볼만한 정보와 사례를 공유하고 검색할 수 있는 플랫폼을 지향합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27875",
+    "title": "Show GN: LogXide — 12.5배 빠른 Rust 기반 Python 로깅 프레임워크",
+    "url": "https://news.hada.io/topic?id=27875",
+    "discussion_url": "https://news.hada.io/topic?id=27875",
+    "summary": "안녕하세요, Python 웹 애플리케이션 및 데이터 파이프라인과 같은 고부하 환경에서 파일 I/O 및 로깅 병목을 겪는 분들을 위한 LogXide를 소개합니다.\n1. 만든 이유 (The Problem)\nPython의 기본 logging 모듈은 순수 Python으로 작성되어 있습니다. 일반적인 환경에",
+    "score": 0,
+    "published_at": "2026-03-26T03:34:40+00:00",
+    "ai_summary": "Python 웹 앱과 데이터 파이프라인 등 고부하 환경의 로깅 병목을 해결하기 위한 LogXide를 소개합니다.\n순수 Python 기본 로깅 모듈의 비효율성을 개선하기 위해 Rust 기반으로 개발되었습니다.\n파일 I/O 및 로깅 성능을 12.5배 향상시켜 개발 생산성과 시스템 안정성에 기여합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27872",
+    "title": "Anthropic이 Claude Code Auto Mode를 설계한 방법",
+    "url": "https://news.hada.io/topic?id=27872",
+    "discussion_url": "https://news.hada.io/topic?id=27872",
+    "summary": "클로드 코드 사용자의 93%가 권한 프롬프트를 그냥 승인하는 승인 피로 현상을 해결하기 위해, 모델 기반 분류기로 승인 결정을 자동화하는 auto mode가 새로 도입\nauto mode는 입력 레이어의 프롬프트 인젝션 프로브와 출력 레이어의 트...",
+    "score": 0,
+    "published_at": "2026-03-26T03:05:02+00:00",
+    "ai_summary": "클로드 코드 사용자의 승인 피로를 해결하기 위해 모델 기반 분류기로 자동화된 Auto Mode가 도입되었습니다.\n이 모드는 입력 레이어의 프롬프트 인젝션 프로브와 출력 레이어의 트래커를 활용하여 작동합니다.\n사용자 경험을 개선하고 AI 에이전트의 안전한 자동화 결정을 가능하게 하는 설계 방식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27871",
+    "title": "Arm AGI CPU 출시 (2026년 3월 24일 Arm 공식 발표)",
+    "url": "https://news.hada.io/topic?id=27871",
+    "discussion_url": "https://news.hada.io/topic?id=27871",
+    "summary": "Arm이 회사 역사상 처음으로 자체 설계한 실리콘 제품(프로덕션 실리콘) 을 출시하며 컴퓨트 플랫폼을 크게 확장했습니다.\n그 첫 제품이 바로 Arm AGI CPU입니다.\n주요 내용\n\n\nArm AGI CPU는 에이전틱 AI(Agentic AI)</stron",
+    "score": 0,
+    "published_at": "2026-03-26T03:01:26+00:00",
+    "ai_summary": "Arm이 회사 역사상 처음으로 자체 설계한 프로덕션 실리콘인 Arm AGI CPU를 2026년 3월 24일 출시한다고 공식 발표했습니다.\n이 CPU는 에이전틱 AI(Agentic AI)를 위한 컴퓨트 플랫폼을 크게 확장하는 데 중점을 둡니다.\nAI 및 머신러닝 워크로드에 최적화된 새로운 하드웨어 아키텍처를 제공할 것으로 예상됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27870",
+    "title": "나노 바나나 효과: AI가 건축 시각화를 재편하는 방법",
+    "url": "https://news.hada.io/topic?id=27870",
+    "discussion_url": "https://news.hada.io/topic?id=27870",
+    "summary": "최신 이미지 생성 모델인 Gemini 3 Pro Image(코드명 &quot;Nano Banana Pro&quot;)가 건축 시각화 업계에서 흥분과 불안을 동시에 촉발\n기존 AI 도구와 차별화되는 핵심은 도면 해독 능력(blueprint literacy) 으로, 평면도를 추상적 선이 아닌 건축 지시로 해석...",
+    "score": 0,
+    "published_at": "2026-03-26T01:07:01+00:00",
+    "ai_summary": "Gemini 3 Pro Image(\"Nano Banana Pro\")는 건축 시각화에 혁신을 가져오며 기대를 모으고 있습니다.\n이 AI 모델은 도면을 건축 지시로 해석하는 독특한 능력을 갖췄습니다.\n이는 기존 AI 도구와 차별화되는 핵심으로, 업계에 큰 변화를 예고합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27867",
+    "title": "구글 TurboQuant: 극한 압축으로 AI 효율성을 재정의하다",
+    "url": "https://news.hada.io/topic?id=27867",
+    "discussion_url": "https://news.hada.io/topic?id=27867",
+    "summary": "고차원 벡터의 메모리 오버헤드 문제를 근본적으로 해결하는 양자화 알고리듬 세트로, LLM의 키-값 캐시 압축과 벡터 검색 모두에 적용 가능\nPolarQuant로 데이터를 고품질 압축한 뒤, QJL 알고리듬으로 잔여 오차를 1비트만으로 제거하는 2단계 압축 구조\n\n...",
+    "score": 0,
+    "published_at": "2026-03-26T00:47:01+00:00",
+    "ai_summary": "구글 TurboQuant는 고차원 벡터의 메모리 오버헤드를 해결하는 양자화 알고리듬입니다.\nLLM의 키-값 캐시 압축 및 벡터 검색에 적용 가능하여 AI 효율성을 대폭 개선합니다.\nPolarQuant와 QJL 알고리듬의 2단계 압축 구조를 활용하여 고품질 압축을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27865",
+    "title": "Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구",
+    "url": "https://news.hada.io/topic?id=27865",
+    "discussion_url": "https://news.hada.io/topic?id=27865",
+    "summary": "코드 변경 사항을 분석해 실제 브라우저 기반 테스트 플랜을 자동 생성 및 실행하는 CLI\nClaude 또는 Codex를 에이전트 백엔드로 선택 가능하며, 자연어 명령으로 테스트 흐름을 지정할 수 있음\n세가지 옵션으로 테스트: changes...",
+    "score": 0,
+    "published_at": "2026-03-26T00:46:02+00:00",
+    "ai_summary": "Expect는 AI 에이전트가 실제 브라우저에서 코드를 테스트하는 CLI 도구입니다.\n코드 변경 사항을 분석해 자동으로 테스트 플랜을 생성하고 실행합니다.\nClaude/Codex를 백엔드로 사용하며 자연어 명령으로 테스트 흐름을 지정, 개발자 생산성을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27861",
+    "title": "속도를 늦춰야 하는 이유",
+    "url": "https://news.hada.io/topic?id=27861",
+    "discussion_url": "https://news.hada.io/topic?id=27861",
+    "summary": "최근 AI 코딩 에이전트의 확산으로 개발 속도는 빨라졌지만, 소프트웨어 품질 저하와 불안정성이 심화되고 있음\n에이전트가 반복 학습 능력 없이 동일한 오류를 누적하며, 대규모 코드베이스에서는 검색 재현율 저하와 복잡성 폭증",
+    "score": 0,
+    "published_at": "2026-03-26T00:37:09+00:00",
+    "ai_summary": "AI 코딩 에이전트 확산으로 개발 속도는 빨라졌으나 소프트웨어 품질 저하와 불안정성이 심화되고 있습니다.\n에이전트는 동일한 오류를 반복하고 대규모 코드베이스에서 복잡도를 높이는 문제를 발생시킵니다.\n따라서 개발 과정에서 신중한 속도 조절과 품질 관리의 필요성이 강조됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27859",
+    "title": "gitagent - AI 에이전트 정의 및 관리를 위한 Git 기반 표준",
+    "url": "https://news.hada.io/topic?id=27859",
+    "discussion_url": "https://news.hada.io/topic?id=27859",
+    "summary": "Git Repo를 클론 하는 것만으로 에이전트를 구성 가능하며, 버전 관리/협업/컴플라이언스 기능을 내장\nClaude Code, OpenAI, CrewAI, Lyzr 등 다양한 AI 프레임워크와 호환, 하나의 정의로 여러 런타임에 배포 가능\n\nagent.yaml + SO...",
+    "score": 0,
+    "published_at": "2026-03-26T00:31:01+00:00",
+    "ai_summary": "gitagent는 AI 에이전트 정의 및 관리를 위한 Git 기반 표준입니다.\nGit 레포 클론만으로 에이전트 구성이 가능하며, 버전 관리, 협업, 컴플라이언스 기능을 내장합니다.\n다양한 AI 프레임워크와 호환되어 하나의 정의로 여러 런타임에 배포 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27858",
+    "title": "속도를 늦춰야 빨라진다",
+    "url": "https://news.hada.io/topic?id=27858",
+    "discussion_url": "https://news.hada.io/topic?id=27858",
+    "summary": "AI 시대에 가장 반직관적인 실천은 언제 속도를 늦출지 아는 것이며, 실행이 저렴해질수록 그 앞 단계의 의사결정이 더 중요해짐\nDaniel Kahneman의 System 1(빠른 패턴 매칭)과 System 2(느린 분석적 사고) 프레임워크를 AI 시대 소프트웨어 개발에 적용",
+    "score": 0,
+    "published_at": "2026-03-26T00:21:01+00:00",
+    "ai_summary": "AI 시대에는 실행 비용이 저렴해지므로, 초기 단계의 의사결정에 더 많은 시간 투자가 중요합니다.\n다니엘 카너먼의 System 1과 System 2 사고 프레임워크를 소프트웨어 개발에 적용해야 합니다.\n때로는 의도적으로 속도를 늦추는 것이 궁극적으로 더 빠른 결과로 이어질 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=27855",
+    "title": "cq - 에이전트를 위한 Stack Overflow",
+    "url": "https://news.hada.io/topic?id=27855",
+    "discussion_url": "https://news.hada.io/topic?id=27855",
+    "summary": "Mozilla AI가 공개한 cq는 AI 코딩 에이전트들이 학습한 지식을 공유하고, 동일한 실수를 반복하지 않도록 설계된 공유 지식 커먼즈(shared commons) 프로젝트\nStack Overflow가 2014년 월 20만 건 이상의 질문에서 2025년 12월 3,862건으로 급감...",
+    "score": 0,
+    "published_at": "2026-03-25T23:53:02+00:00",
+    "ai_summary": "Mozilla AI의 cq는 AI 코딩 에이전트들을 위한 공유 지식 커먼즈 프로젝트입니다.\n에이전트들이 학습한 지식을 공유하여 동일한 실수를 반복하지 않도록 돕는 것이 목적입니다.\nStack Overflow 질문 감소 추세에 대응하며 새로운 형태의 지식 공유를 제안합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47535586",
+    "title": "Deploytarot.com – tarot card reading for deployments",
+    "url": "https://deploytarot.com/setup",
+    "discussion_url": "https://news.ycombinator.com/item?id=47535586",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-03-26T20:53:54+00:00",
+    "ai_summary": "배포(deployment)의 운세를 점치는 재미있는 타로 카드 웹사이트를 소개한다. 개발자들이 배포 과정의 스트레스를 유머러스하게 해소할 수 있는 방법을 제공한다. 배포의 예측 불가능성을 가볍게 다루는 유쾌한 도구다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47536712",
+    "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=47536712",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-03-26T22:36:41+00:00",
+    "ai_summary": "인공지능을 활용하여 JSONata를 단 하루 만에 재작성하고, 연간 50만 달러를 절약한 사례를 공유한다. 이는 AI가 코드 리팩토링 및 최적화에 얼마나 강력한 도구가 될 수 있는지 보여준다. AI를 통한 개발 생산성 향상과 비용 절감의 잠재력을 강조한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47490705",
+    "title": "DOOM Over DNS",
+    "url": "https://github.com/resumex/doom-over-dns",
+    "discussion_url": "https://news.ycombinator.com/item?id=47490705",
+    "summary": "",
+    "score": 179,
+    "published_at": "2026-03-23T15:17:38+00:00",
+    "ai_summary": "클래식 게임 DOOM을 DNS 프로토콜을 통해 실행하는 놀라운 기술적 시연을 다룬다. 네트워크 통신에 대한 깊은 이해와 창의적인 문제 해결 능력을 보여준다. DNS를 게임 데이터 전송 계층으로 활용하는 독특한 접근 방식을 선보인다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47536761",
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47536761",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-03-26T22:41:25+00:00",
+    "ai_summary": "한 개발자가 월 7달러짜리 저렴한 VPS에 AI 에이전트를 배포한 경험을 공유한다. 통신 계층으로 IRC(Internet Relay Chat)를 창의적으로 활용하여 비용 효율적인 AI 구축 방법을 제시한다. 저렴한 비용으로 AI 시스템을 운영하는 실용적인 사례를 보여준다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47531967",
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47531967",
+    "summary": "",
+    "score": 264,
+    "published_at": "2026-03-26T15:48:40+00:00",
+    "ai_summary": "LiteLLM 악성코드 공격에 대한 분 단위 대응 과정을 상세히 기록한 글이다. 소프트웨어 공급망 보안 위협과 실제 발생 시의 신속한 대응 전략을 배울 수 있다. LLM 도구 사용자들에게 보안 모범 사례와 사고 대응의 중요성을 일깨운다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47530330",
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "url": "https://unterwaditzer.net/2025/codeberg.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47530330",
+    "summary": "",
+    "score": 490,
+    "published_at": "2026-03-26T13:38:25+00:00",
+    "ai_summary": "GitHub에서 Codeberg로 쉽게 이전하는 방법을 다루며, 특히 '게으른 사람들을 위해' 실용적인 팁을 제공한다.\n이는 주요 코드 호스팅 플랫폼 간의 전환 과정을 탐구하고 오픈 소스 생태계의 대안을 제시한다.\n개발자가 코드 저장소 플랫폼을 변경할 때 고려해야 할 사항과 효율적인 워크플로우를 보여준다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47534283",
+    "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+    "url": "https://github.com/russellromney/turbolite",
+    "discussion_url": "https://news.ycombinator.com/item?id=47534283",
+    "summary": "",
+    "score": 98,
+    "published_at": "2026-03-26T18:58:19+00:00",
+    "ai_summary": "Turbolite는 S3에서 콜드 JOIN 쿼리를 250ms 미만으로 처리하는 SQLite VFS를 선보인다.\n이 기술은 대규모 데이터셋에 대한 클라우드 기반 데이터베이스 쿼리 성능을 혁신적으로 개선한다.\n데이터베이스 및 클라우드 엔지니어가 효율적인 데이터 처리 시스템을 구축하는 데 중요한 솔루션을 제공한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47532339",
+    "title": "OpenTelemetry profiles enters public alpha",
+    "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47532339",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-03-26T16:14:56+00:00",
+    "ai_summary": "OpenTelemetry의 프로파일링 기능이 공개 알파 단계에 진입하여 성능 분석 기능을 확장한다.\n분산 시스템의 애플리케이션 성능 병목 현상을 심층적으로 파악하고 최적화하는 데 기여한다.\n데브옵스 및 백엔드 개발자에게 시스템의 동작을 더 깊이 이해할 수 있는 강력한 도구를 제공한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47495795",
+    "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+    "url": "https://blog.cloudflare.com/gen13-launch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47495795",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-03-23T22:06:49+00:00",
+    "ai_summary": "Cloudflare가 Gen 13 서버에서 캐시보다 코어를 우선하여 최대 2배의 성능 향상을 달성했다.\n이는 서버 하드웨어 설계의 혁신적인 변화와 대규모 네트워크 인프라 최적화 전략을 보여준다.\n클라우드 및 시스템 엔지니어에게 실제 운영 환경에서의 하드웨어 선택과 성능 개선에 대한 통찰을 제공한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47535249",
+    "title": "Using FireWire on a Raspberry Pi",
+    "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47535249",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-03-26T20:23:10+00:00",
+    "ai_summary": "라즈베리 파이에서 구형 FireWire 인터페이스를 성공적으로 활용하는 방법을 상세히 설명한다.\n이 프로젝트는 최신 저가형 컴퓨터와 레거시 하드웨어 간의 연결 가능성을 탐구한다.\n임베디드 시스템 개발자나 하드웨어 해킹에 관심 있는 이들에게 실용적인 가이드와 영감을 제공한다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47505670",
+    "title": "HyperAgents: Self-referential self-improving agents",
+    "url": "https://github.com/facebookresearch/hyperagents",
+    "discussion_url": "https://news.ycombinator.com/item?id=47505670",
+    "summary": "",
+    "score": 108,
+    "published_at": "2026-03-24T16:54:10+00:00",
+    "ai_summary": "'HyperAgents'는 스스로를 참조하고 개선하며 목표를 달성하는 새로운 AI 에이전트 개념을 제시한다.\n이는 AI가 자체적으로 학습 및 최적화하여 성능을 지속적으로 향상시키는 패러다임을 연다.\n인공지능 연구자 및 개발자에게 차세대 자율 에이전트 시스템 구축을 위한 깊은 통찰을 제공한다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47534837",
+    "title": "How much precision can you squeeze out of a table?",
+    "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47534837",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-03-26T19:47:01+00:00",
+    "ai_summary": "테이블에서 데이터를 얼마나 정밀하게 표현하고 활용할 수 있는지 탐구합니다.\n수치 데이터의 저장, 계산, 그리고 오차 처리와 관련된 깊이 있는 분석을 제공합니다.\n이는 데이터베이스 설계 및 정밀한 계산이 필요한 시스템 개발에 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47536110",
+    "title": "Anthropic Subprocessor Changes",
+    "url": "https://trust.anthropic.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47536110",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-03-26T21:37:15+00:00",
+    "ai_summary": "Anthropic이 데이터 서브프로세서 정책을 변경했음을 알리는 내용입니다.\n이는 Anthropic 서비스 사용자의 데이터 처리 및 규정 준수에 영향을 미칠 수 있습니다.\nLLM 서비스를 사용하는 개발자 및 기업에게 중요한 정보입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47495190",
+    "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
+    "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47495190",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-03-23T21:13:16+00:00",
+    "ai_summary": "Common Lisp REPL 환경에서 실시간으로 eBPF 프로그램을 작성하고 실행하는 도구 'Whistler'를 소개합니다.\n이를 통해 시스템 수준의 성능 분석 및 디버깅을 대화식으로 수행할 수 있습니다.\n저수준 시스템 프로그래밍과 런타임 분석에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47499242",
+    "title": "Fast regex search: indexing text for agent tools",
+    "url": "https://cursor.com/blog/fast-regex-search",
+    "discussion_url": "https://news.ycombinator.com/item?id=47499242",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-03-24T06:31:15+00:00",
+    "ai_summary": "에이전트 도구를 위한 텍스트 인덱싱을 통해 정규 표현식 검색 속도를 향상시키는 방법을 다룹니다.\n효율적인 검색 알고리즘과 데이터 구조를 활용하여 대규모 텍스트 데이터 처리를 최적화합니다.\n이는 백엔드 개발 및 AI 에이전트 시스템 구현에 중요한 기술입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47533283",
+    "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
+    "url": "https://colibri.social/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47533283",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-03-26T17:29:58+00:00",
+    "ai_summary": "AT 프로토콜을 기반으로 구축된 커뮤니티 채팅 플랫폼 'Colibri'를 소개합니다.\n소규모부터 대규모 커뮤니티까지 지원하며, 분산형 소셜 네트워크의 가능성을 보여줍니다.\n분산형 앱 개발 및 소셜 서비스 구축에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47535626",
+    "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+    "url": "https://github.com/ViciousSquid/Fio",
+    "discussion_url": "https://news.ycombinator.com/item?id=47535626",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-03-26T20:58:04+00:00",
+    "ai_summary": "Radiant와 Hammer에서 영감을 받은 3D 세계 에디터이자 게임 엔진인 'Fio'를 소개합니다.\n이 도구는 개발자가 3D 환경을 구축하고 게임을 제작하는 데 필요한 기능을 제공합니다.\n게임 개발자 및 3D 그래픽스 분야에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47532148",
+    "title": "Stripe Projects: Provision and manage services from the CLI",
+    "url": "https://projects.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47532148",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-03-26T16:00:57+00:00",
+    "ai_summary": "Stripe가 CLI를 통해 서비스를 프로비저닝하고 관리할 수 있는 'Stripe Projects'를 선보입니다.\n개발자가 명령줄 인터페이스로 Stripe 관련 인프라를 효율적으로 제어할 수 있게 돕습니다.\n백엔드 및 DevOps 엔지니어에게 유용한 개발자 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47529306",
+    "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+    "url": "https://veil.simoneamico.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47529306",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-03-26T11:47:26+00:00",
+    "ai_summary": "이미지를 손상시키지 않으면서 브라우저에서 PDF를 다크 모드로 변환하는 'Veil'을 소개합니다.\n웹 기반의 솔루션으로, 사용자가 PDF 문서를 더 편안하게 볼 수 있도록 돕습니다.\n프론트엔드 개발자와 문서 뷰어 관련 작업을 하는 개발자에게 흥미로운 도구입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47499356",
+    "title": "From zero to a RAG system: successes and failures",
+    "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47499356",
+    "summary": "",
+    "score": 272,
+    "published_at": "2026-03-24T06:53:30+00:00",
+    "ai_summary": "RAG 시스템 구축 과정을 0부터 시작하여 성공과 실패 사례를 분석합니다.\n실제 구현에서 겪는 문제점과 해결책을 다루며, 최적화 방안을 제시합니다.\nLLM 기반 애플리케이션 개발자에게 유용한 실전 가이드입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47533555",
+    "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+    "url": "https://john.regehr.org/writing/zero_dof_programming.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47533555",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-03-26T17:51:42+00:00",
+    "ai_summary": "LLM이 생성하는 부정확하거나 안전하지 않은 코드 문제를 해결하기 위한 방법을 제시합니다.\n'실행 가능한 오라클'을 활용하여 LLM의 출력을 검증하고 제어하는 기술을 설명합니다.\nLLM 기반 코드 생성 및 보안에 관심 있는 개발자에게 필수적인 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47489620",
+    "title": "My home network observes bedtime with OpenBSD and pf",
+    "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+    "discussion_url": "https://news.ycombinator.com/item?id=47489620",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-03-23T13:56:54+00:00",
+    "ai_summary": "OpenBSD 운영체제와 pf 방화벽을 사용하여 홈 네트워크에 특정 시간 동안 인터넷 접근을 제한하는 방법을 설명합니다.\n시스템 보안 및 네트워크 제어에 대한 실용적인 가이드를 제공하며, OpenBSD의 강력한 기능을 활용합니다.\n네트워크 관리자와 보안에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47533090",
+    "title": "Building a Blog with Elixir and Phoenix",
+    "url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
+    "discussion_url": "https://news.ycombinator.com/item?id=47533090",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-03-26T17:16:21+00:00",
+    "ai_summary": "Elixir 프로그래밍 언어와 Phoenix 웹 프레임워크를 사용하여 블로그를 구축하는 과정을 상세히 설명합니다.\n실제 웹 애플리케이션 개발 절차와 Elixir/Phoenix의 특징을 배울 수 있는 실용적인 가이드입니다.\n함수형 프로그래밍과 백엔드 개발에 관심 있는 개발자에게 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+    "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x (4 minute read)",
+    "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+    "discussion_url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+    "summary": "Google's TurboQuant is a compression algorithm that reduces the memory footprint of large language models while also boosting speed and maintaining accuracy. It reduces the size of the key-value cache so it doesn't have to be recomputed. Early testing shows TurboQuant results in an 8x performance increase and 6x reduction in memory usage without a loss of quality. Compression techniques like TurboQuant could improve the quality of outputs of models for edge devices without having to send data to",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "Google의 TurboQuant는 LLM의 메모리 사용량을 6배 줄이고 속도를 8배 향상시키는 압축 알고리즘입니다. 정확도를 유지하면서 key-value 캐시 크기를 줄여 재연산할 필요가 없으며, 엣지 기기에서 모델 품질을 향상시킬 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2036861192619384989.html",
+    "title": "ARC-AGI-3 is out (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2036861192619384989.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2036861192619384989.html",
+    "summary": "ARC-AGI-3 was designed to evaluate agentic intelligence via interactive reasoning environments. Beating it will mean an AI system matches or exceeds human-level efficiency on all environments upon seeing them for the first time. 100% of the environments are solvable by humans on first contact with no prior training or instruction. All frontier AI reasoning models currently solve under 1%.",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "ARC-AGI-3는 상호작용 추론 환경을 통해 에이전트 AI 지능을 평가하기 위해 설계되었습니다. 이를 통과하는 AI 시스템은 처음 보는 모든 환경에서 인간 수준의 효율성을 능가해야 하며, 현재 최첨단 AI 추론 모델들은 1% 미만을 해결합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://davefriedman.substack.com/p/closed-source-vs-open-source-ai-a",
+    "title": "Closed Source vs Open Source AI: A Cage Fight Few People Understand (13 minute read)",
+    "url": "https://davefriedman.substack.com/p/closed-source-vs-open-source-ai-a",
+    "discussion_url": "https://davefriedman.substack.com/p/closed-source-vs-open-source-ai-a",
+    "summary": "Open source models are reaching parity with frontier labs' models, making those labs' equity look overpriced if they're simply utilities. These frontier labs have enterprise agreements, safety certifications, distribution, research talent, and regulatory positioning, but that doesn't explain their moat. People focus on capability, but the number that actually matters for valuations is the monetizable spread, the subset of that capability delta that someone will actually pay a premium for. The mo",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "오픈소스 모델이 최첨단 연구소의 모델과 대등해지면서, 그들의 기업 가치가 과대평가될 수 있다는 분석입니다. 모델의 능력보다는 실제 가치 평가에 중요한 '수익화 가능한 스프레드'에 집중해야 하며, 최고의 인재를 고용하고 유지하는 능력이 AI 기업의 진정한 해자(moat)가 될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ngrok.com/blog/quantization",
+    "title": "Quantization from the ground up (35 minute read)",
+    "url": "https://ngrok.com/blog/quantization",
+    "discussion_url": "https://ngrok.com/blog/quantization",
+    "summary": "Quantized models are actually pretty good. A 16-bit to 8-bit quantization carries almost no quality penalty - the difference with a 4-bit quantization is more noticeable, but it would only perform about 90% as well as the original. It's worth experimenting with these models as they're much smaller and can run on more systems. This article explains how model parameters work, what quantization is, how quantization is applied in practice, and the effects of quantization on model accuracy.",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "양자화된 모델은 효율성이 뛰어나며, 16비트에서 8비트로의 양자화는 품질 저하가 거의 없습니다. 4비트 양자화는 약간의 품질 저하가 있지만, 모델 크기가 훨씬 작아 더 많은 시스템에서 실행 가능합니다. 이 기사는 양자화의 원리, 실제 적용 방법, 정확도에 미치는 영향을 설명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epochai.substack.com/p/final-training-runs-account-for-a",
+    "title": "Final training runs account for a minority of R&D compute spending (12 minute read)",
+    "url": "https://epochai.substack.com/p/final-training-runs-account-for-a",
+    "discussion_url": "https://epochai.substack.com/p/final-training-runs-account-for-a",
+    "summary": "The final training run for a model is only the last step in a long, expensive process. Before the run, companies burn compute on running experiments at various scales, generating synthetic data, testing ideas, and training unreleased models. The full cost of developing a model is much higher than the cost of the final training run of a frontier model. Most of the spend is on exploration rather than execution. Companies that learn from their competition can replicate their results for a fraction ",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "모델의 최종 훈련 실행은 길고 비싼 개발 과정의 마지막 단계에 불과합니다. 기업들은 최종 훈련 전 실험, 데이터 생성, 아이디어 테스트 등에 훨씬 더 많은 컴퓨팅 자원을 사용합니다. 대부분의 비용은 실행보다는 탐색에 쓰이며, 경쟁사로부터 학습하면 비용을 절감할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/our-approach-to-the-model-spec/",
+    "title": "How OpenAI Creates Its Model Spec (29 minute read)",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec/",
+    "discussion_url": "https://openai.com/index/our-approach-to-the-model-spec/",
+    "summary": "OpenAI outlined the philosophy and structure behind its Model Spec, a framework defining desired model behavior, safety principles, and how systems should follow instructions and resolve conflicts.",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "OpenAI는 모델 행동, 안전 원칙, 지시 따르기 및 충돌 해결 방법을 정의하는 'Model Spec' 프레임워크를 공개했습니다. 이 프레임워크는 원하는 모델 동작을 명확히 하고 시스템이 지침을 따르는 방법을 설명하며, 안전성과 윤리적 사용을 위한 기반을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/manthanguptaa/status/2036785420349174073",
+    "title": "What Happened When I Applied Karpathy's Autoresearch Idea to LLM Inference (3 minute read)",
+    "url": "https://x.com/manthanguptaa/status/2036785420349174073",
+    "discussion_url": "https://x.com/manthanguptaa/status/2036785420349174073",
+    "summary": "Manthan Gupta built Auto-Inference-Optimiser to let an AI agent hill-climb on LLM inference speed while keeping quality fixed on Apple Silicon. Argmax sampling and simplifying inference code gave the largest throughput gains, while most tuning knobs and KV cache quantization hurt or had no effect. The project highlights that a disciplined, observable harness is critical for distinguishing real performance wins from noise or benchmark illusions.",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "AI 에이전트(Auto-Inference-Optimiser)를 사용해 Apple Silicon에서 LLM 추론 속도를 최적화하는 방법을 연구했습니다. Argmax 샘플링과 추론 코드 단순화가 처리량 향상에 가장 큰 기여를 했으며, 실제 성능 향상을 위해 규율 있고 관찰 가능한 테스트 환경이 중요함을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/safety-bug-bounty/",
+    "title": "OpenAI Safety Bug Bounty Program (3 minute read)",
+    "url": "https://openai.com/index/safety-bug-bounty/",
+    "discussion_url": "https://openai.com/index/safety-bug-bounty/",
+    "summary": "OpenAI launched a public bug bounty program targeting AI misuse and safety risks, expanding beyond traditional security vulnerabilities to include abuse scenarios.",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "OpenAI가 AI 오용 및 안전 위험에 초점을 맞춘 공개 버그 바운티 프로그램을 시작했습니다. 이 프로그램은 전통적인 보안 취약점을 넘어 AI 남용 시나리오까지 포함하도록 범위를 확장했습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://sfstandard.com/2026/03/24/grind-sf-startup-racing-build-ai-software-engineer/",
+    "title": "Inside the grind: The SF startup racing to build an AI software engineer (14 minute read)",
+    "url": "https://sfstandard.com/2026/03/24/grind-sf-startup-racing-build-ai-software-engineer/",
+    "discussion_url": "https://sfstandard.com/2026/03/24/grind-sf-startup-racing-build-ai-software-engineer/",
+    "summary": "Cognition's Devin is an AI software engineer that can build software from start to finish without human involvement. When it launched in 2024, it was considered a step toward a long-held Silicon Valley dream of a machine that codes for you. Cognition's CEO, Scott Wu, believes that the technology doesn't mean the end of software engineering. Rather than eliminate engineers, Cognition's tools will allow them to focus on the best parts of the job while sparing them from the grunt work that traditio",
+    "score": 0,
+    "published_at": "2026-03-26T23:34:32+00:00",
+    "ai_summary": "Cognition의 Devin은 사람의 개입 없이 소프트웨어를 처음부터 끝까지 개발할 수 있는 AI 소프트웨어 엔지니어입니다. 이 기술은 엔지니어를 대체하기보다, 단순 반복 작업을 줄여 개발자들이 핵심 업무에 집중할 수 있도록 도울 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  }
+]
