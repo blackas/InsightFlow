@@ -1,0 +1,506 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28207",
+    "title": "Claude Code가 23년간 숨겨져 있던 Linux 취약점을 발견",
+    "url": "https://news.hada.io/topic?id=28207",
+    "discussion_url": "https://news.hada.io/topic?id=28207",
+    "summary": "Anthropic의 Claude Code가 Linux 커널의 원격 악용 가능한 취약점을 자동 탐지해, 23년간 발견되지 않았던 NFS 드라이버의 힙 버퍼 오버플로우를 찾아냄\n단순히 “보안 취약점이 어디 있는가?”라는 프롬프트만으로 커널 전체를 분석해",
+    "score": 0,
+    "published_at": "2026-04-04T19:41:06+00:00",
+    "ai_summary": "Anthropic의 Claude Code AI가 23년간 숨겨져 있던 Linux 커널의 NFS 드라이버 힙 버퍼 오버플로우 취약점을 발견했습니다.\n단순히 '보안 취약점이 어디에 있는가?'라는 프롬프트만으로 커널 전체를 분석하여 자동 탐지한 결과입니다.\n이는 AI를 활용한 코드 분석 및 보안 취약점 탐지의 강력한 잠재력을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28202",
+    "title": "AI 문서 어시스턴트를 위한 RAG 대체 가상 파일시스템 구축",
+    "url": "https://news.hada.io/topic?id=28202",
+    "discussion_url": "https://news.hada.io/topic?id=28202",
+    "summary": "기존 RAG 기반 검색의 한계를 극복하기 위해, 문서를 파일과 디렉터리로 구성한 가상 파일시스템 구조로 전환\n실제 파일 복제 없이 Chroma 데이터베이스를 기반으로 grep, cat, ls, find 명...",
+    "score": 0,
+    "published_at": "2026-04-04T16:32:48+00:00",
+    "ai_summary": "기존 RAG 기반 검색의 한계를 극복하기 위해, 문서를 파일과 디렉터리로 구성한 가상 파일시스템 구조로 전환하는 방안이 제시되었습니다.\n실제 파일 복제 없이 Chroma 데이터베이스를 기반으로 grep, cat, ls, find 등의 명령어를 활용할 수 있습니다.\nAI 문서 어시스턴트의 효율적인 정보 검색 및 관리를 위한 새로운 접근 방식을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28201",
+    "title": "OpenClaw 권한 상승 취약점 (CVE-2026-33579)",
+    "url": "https://news.hada.io/topic?id=28201",
+    "discussion_url": "https://news.hada.io/topic?id=28201",
+    "summary": "OpenClaw 2026.3.28 이전 버전에서 비관리자 사용자가 관리자 권한 요청을 승인할 수 있는 권한 상승 취약점이 발견됨\n\n/pair approve 명령에서 scope 전달 누락으로 인해 승인 검증이 제대로 수행되지 않아 잘못된 권한 검증(CWE-863)",
+    "score": 0,
+    "published_at": "2026-04-04T14:32:40+00:00",
+    "ai_summary": "OpenClaw 2026.3.28 이전 버전에서 비관리자 사용자가 관리자 권한 요청을 승인할 수 있는 권한 상승 취약점이 발견되었습니다.\n이는 /pair approve 명령에서 scope 전달 누락으로 인한 승인 검증 오류(CWE-863) 때문입니다.\n소프트웨어 개발 시 권한 관리 및 보안 검증의 중요성을 다시 한번 강조하는 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28197",
+    "title": "OpenAI, 미디어 기업 TBPN 인수",
+    "url": "https://news.hada.io/topic?id=28197",
+    "discussion_url": "https://news.hada.io/topic?id=28197",
+    "summary": "OpenAI가 Technology Business Programming Network(TBPN) 을 인수하며, AI 관련 글로벌 대화의 가속화를 목표로 함\nTBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 라이브 테크 토크쇼 및 미디어 기업으로, 업계 내 영향력 높은 플랫폼으로...",
+    "score": 0,
+    "published_at": "2026-04-04T07:59:40+00:00",
+    "ai_summary": "OpenAI가 Technology Business Programming Network(TBPN)를 인수하며, AI 관련 글로벌 대화 가속화를 목표로 합니다.\nTBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 라이브 테크 토크쇼 및 미디어 기업입니다.\nAI 기술 개발뿐만 아니라 미디어와 커뮤니케이션 영역으로 사업을 확장하려는 OpenAI의 전략적 움직임을 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28190",
+    "title": "Claude, 이제 OpenClaw 같은 써드파티에서 구독 모델 사용 불가",
+    "url": "https://news.hada.io/topic?id=28190",
+    "discussion_url": "https://news.hada.io/topic?id=28190",
+    "summary": "PT 4/5일 12시 (한국시간 4/6 04시) 부터 Claude 구독 플랜으로는 OpenClaw 등 서드파티 툴 사용 불가\n대신 할인된 추가 사용량 번들 구매 또는 Claude API 키 사용으로 전환해야 함\n이번 정책 변경의 배경은 서드파티 툴의 사용...",
+    "score": 0,
+    "published_at": "2026-04-04T03:13:55+00:00",
+    "ai_summary": "PT 4/5일 12시 (한국시간 4/6 04시)부터 Claude 구독 플랜으로는 OpenClaw 등 서드파티 툴 사용이 더 이상 불가능합니다.\n대신 할인된 추가 사용량 번들 구매 또는 Claude API 키 사용으로 전환해야 합니다.\n이번 정책 변경은 서드파티 툴 사용에 대한 새로운 가이드라인을 제시하며, 관련 개발자들의 API 연동 방식 변경이 필요합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28189",
+    "title": "Show GN: Lectone - PDF/PPT 올리면 AI가 강의 영상으로 만들어 드립니다",
+    "url": "https://news.hada.io/topic?id=28189",
+    "discussion_url": "https://news.hada.io/topic?id=28189",
+    "summary": "안녕하세요, Lectone을 만든 개발자입니다.\nAI로 강의 영상을 만들어보려다가 불편함을 느낀 게 계기였어요. 스크립트는 따로 써야 하고, 음성은 또 다른 툴에서 만들고, 영상 편집은 또 별도 작업… 이 과정이 너무 파편화돼 있더라고요. “슬라이드만 올리면 끝나는 게 왜 없지?” 싶어서 직접 만들었습니다",
+    "score": 0,
+    "published_at": "2026-04-04T02:19:21+00:00",
+    "ai_summary": "개발자가 직접 만든 Lectone은 PDF/PPT 파일을 올리면 AI가 자동으로 강의 영상을 제작해 주는 서비스입니다.\n기존 강의 영상 제작 과정의 파편화(스크립트, 음성, 영상 편집 등) 문제를 해결하고자 개발되었습니다.\nAI를 활용하여 복잡한 콘텐츠 제작 과정을 간소화하고 효율성을 높이는 성공적인 사례를 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28188",
+    "title": "Gemma 4 비주얼 가이드",
+    "url": "https://news.hada.io/topic?id=28188",
+    "discussion_url": "https://news.hada.io/topic?id=28188",
+    "summary": "Google DeepMind가 출시한 Gemma 4는 E2B·E4B·31B·26B A4B 4가지 모델로 구성된 멀티모달 LLM 패밀리로, 모든 변형이 이미지 입력을 지원함\n모든 모델은 로컬 어텐션(슬라이딩 윈도우)과 글로벌 어텐션 레이어를 교차 배치하는 구조를 공유하며, 마지막 레이어는 항...",
+    "score": 0,
+    "published_at": "2026-04-04T01:33:02+00:00",
+    "ai_summary": "Google DeepMind가 출시한 Gemma 4는 E2B, E4B, 31B, 26B, A4B 4가지 모델로 구성된 멀티모달 LLM 패밀리입니다.\n모든 변형이 이미지 입력을 지원하며, 로컬 어텐션과 글로벌 어텐션 레이어를 교차 배치하는 구조를 공유합니다.\n새로운 LLM의 기술적 특징과 구조를 상세히 설명하며, 멀티모달 AI 개발에 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28184",
+    "title": "구독 앱 경제학: AI 기능의 숨겨진 비용",
+    "url": "https://news.hada.io/topic?id=28184",
+    "discussion_url": "https://news.hada.io/topic?id=28184",
+    "summary": "구독 앱에 AI 기능을 추가하면 사용자 참여가 높아질수록 비용이 함께 증가하는 가변 비용 구조가 도입되어, 기존의 한계 비용 제로 모델이 근본적으로 변화함\nAI 사용량을 ARPU, 이탈률, LTV와 연계해 모델링하지 않으면, 참여도는 높아지되 수익성은 조용히 악화...",
+    "score": 0,
+    "published_at": "2026-04-04T01:12:01+00:00",
+    "ai_summary": "구독 앱에 AI 기능을 추가하면 사용자 참여 증대 시 비용이 함께 느는 가변 비용 구조가 도입됩니다.\n기존의 한계 비용 제로 모델이 근본적으로 변화하며, AI 사용량을 ARPU, 이탈률, LTV와 연계해야 합니다.\n그렇지 않으면 참여도는 높아지되 수익성은 악화될 수 있음을 경고합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28183",
+    "title": "Optio - AI 코딩 에이전트를 위한 워크플로 오케스트레이터",
+    "url": "https://news.hada.io/topic?id=28183",
+    "discussion_url": "https://news.hada.io/topic?id=28183",
+    "summary": "에이전트가 티켓 접수부터 PR 머지까지 소프트웨어 개발 전 과정을 자동으로 처리하는 워크플로 자동화 플랫폼\n\nGitHub/Linear/Jira/Notion 등에서 태스크를 받아 PR 생성→CI→리뷰→머지까지 자동 진행\n작업이 CI 실패, 머지 충돌, 코드 리뷰 피드백을 ...",
+    "score": 0,
+    "published_at": "2026-04-04T00:46:40+00:00",
+    "ai_summary": "Optio는 AI 코딩 에이전트가 티켓 접수부터 PR 병합까지 소프트웨어 개발 전 과정을 자동 처리하는 플랫폼입니다.\nGitHub/Linear/Jira/Notion 등에서 태스크를 받아 PR 생성, CI, 리뷰, 머지까지 자동 진행합니다.\nCI 실패, 머지 충돌, 코드 리뷰 피드백 등을 처리하는 워크플로를 오케스트레이트합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28180",
+    "title": "개인 블로그를 위한 프론트페이지 Blogosphere",
+    "url": "https://news.hada.io/topic?id=28180",
+    "discussion_url": "https://news.hada.io/topic?id=28180",
+    "summary": "독립 블로그들의 최신 글을 모아 인디 웹의 실시간 허브로 작동하는 웹사이트\n다양한 블로그의 RSS 피드를 수집해, 게시 시각 순으로 최신 포스트를 한눈에 보여줌\n기술, 예술, 일상 등 다양한 주제와 언어의 콘텐츠가 함께 노출되어 폭...",
+    "score": 0,
+    "published_at": "2026-04-04T00:39:49+00:00",
+    "ai_summary": "프론트페이지 Blogosphere는 독립 블로그들의 최신 글을 모아 인디 웹의 실시간 허브로 작동하는 웹사이트입니다.\n다양한 블로그의 RSS 피드를 수집해 게시 시각 순으로 최신 포스트를 한눈에 보여줍니다.\n기술, 예술, 일상 등 다양한 주제와 언어의 콘텐츠가 함께 노출되어 폭넓은 정보를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28178",
+    "title": "apfel - Mac에 이미 내장된 무료 AI를 활용하게 해주는 도구",
+    "url": "https://news.hada.io/topic?id=28178",
+    "discussion_url": "https://news.hada.io/topic?id=28178",
+    "summary": "macOS 26 이상 Apple Silicon Mac에 포함된 Apple 온디바이스 LLM을 직접 활용할 수 있게 하는 오픈소스\n\nFoundationModels.framework 기반 모델을 CLI, HTTP 서버, 대화형 채팅 형태로 개방해 OpenAI API와 호환\n\n모든...",
+    "score": 0,
+    "published_at": "2026-04-04T00:36:49+00:00",
+    "ai_summary": "apfel은 macOS 14.6 이상 Apple Silicon Mac에 내장된 온디바이스 LLM을 직접 활용하게 해주는 오픈소스 도구입니다.\nFoundationModels.framework 기반 모델을 CLI, HTTP 서버, 대화형 채팅 형태로 개방하여 OpenAI API와 호환됩니다.\n모든 처리가 기기 내에서 이루어져 개인 정보 보호와 무료 사용이 가능한 것이 특징입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47640728",
+    "title": "Show HN: A game where you build a GPU",
+    "url": "https://jaso1024.com/mvidia/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47640728",
+    "summary": "",
+    "score": 424,
+    "published_at": "2026-04-04T16:45:54+00:00",
+    "ai_summary": "GPU 아키텍처와 작동 원리를 학습하며 직접 GPU를 구축하는 시뮬레이션 게임입니다.\n개발자가 만든 프로젝트이며 컴퓨터 과학 및 하드웨어 학습에 흥미로운 도구가 될 수 있습니다.\n게임 개발, 로우레벨 시스템에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47642569",
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47642569",
+    "summary": "",
+    "score": 310,
+    "published_at": "2026-04-04T19:39:43+00:00",
+    "ai_summary": "마이크로소프트의 'Copilot'이라는 이름을 가진 다양한 제품의 수와 그 전략을 분석하는 기사입니다.\nMS의 광범위한 AI 통합 전략과 제품 포트폴리오를 이해하는 데 도움을 줍니다.\nMS 생태계 내 개발자들이 관련 정보를 파악하는 데 유용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47637757",
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "url": "https://arxiv.org/abs/2604.01193",
+    "discussion_url": "https://news.ycombinator.com/item?id=47637757",
+    "summary": "",
+    "score": 513,
+    "published_at": "2026-04-04T10:26:21+00:00",
+    "ai_summary": "'자가 증류(self-distillation)'라는 간단한 기법을 통해 AI 모델의 코드 생성 능력을 크게 향상시키는 연구 결과입니다.\nLLM 기반 코드 생성 모델의 효율성과 성능 개선에 대한 중요한 인사이트를 제공합니다.\nAI/ML 연구 및 응용 개발자에게 매우 높은 관련성이 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47640875",
+    "title": "LLM Wiki – example of an \"idea file\"",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "discussion_url": "https://news.ycombinator.com/item?id=47640875",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-04-04T16:57:45+00:00",
+    "ai_summary": "LLM 관련 지식, 개념, 프로젝트 아이디어를 체계적으로 정리하는 '아이디어 파일' 또는 '위키'의 예시를 제시합니다.\nLLM 학습 및 연구 개발 과정에서 정보 관리와 지식 공유에 유용한 접근법을 소개합니다.\nLLM 개발자 및 연구자에게 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47639303",
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "url": "https://github.com/KaiPereira/Overglade-Badges",
+    "discussion_url": "https://news.ycombinator.com/item?id=47639303",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-04-04T14:20:21+00:00",
+    "ai_summary": "오픈 소스, 무전원 PCB 해커톤 배지를 개발한 프로젝트입니다.\n저전력 하드웨어 설계와 오픈 소스 공유에 중점을 둡니다.\n개발자들이 해커톤 등에서 활용할 수 있는 실용적인 배지를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47614532",
+    "title": "Ruckus: Racket for iOS",
+    "url": "https://ruckus.defn.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47614532",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-04-02T13:54:12+00:00",
+    "ai_summary": "Racket 프로그래밍 언어를 iOS 플랫폼에서 사용할 수 있게 하는 프로젝트입니다.\n모바일 환경에서 Racket으로 애플리케이션 개발을 가능하게 합니다.\nRacket 개발자와 언어 애호가들에게 새로운 모바일 개발 환경을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47595695",
+    "title": "OpenScreen is an open-source alternative to Screen Studio",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "discussion_url": "https://news.ycombinator.com/item?id=47595695",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-04-01T01:31:46+00:00",
+    "ai_summary": "Screen Studio의 오픈 소스 대안인 OpenScreen이 발표되었습니다.\n화면 녹화 및 스크린캐스트 제작 도구로, 개발자와 콘텐츠 제작자에게 유용합니다.\n오픈 소스로 제공되어 커스터마이징 및 확장이 용이합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47639779",
+    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+    "url": "https://sllm.cloud",
+    "discussion_url": "https://news.ycombinator.com/item?id=47639779",
+    "summary": "",
+    "score": 106,
+    "published_at": "2026-04-04T15:18:58+00:00",
+    "ai_summary": "GPU 노드를 다른 개발자들과 공유하여 LLM 작업에 활용할 수 있는 sllm 프로젝트입니다.\n무제한 토큰 사용을 지원하여 LLM 모델 개발 및 실험에 효율성을 제공합니다.\nAI/ML 개발자들이 고비용의 GPU 자원을 효율적으로 분배하고 활용하도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47640380",
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+    "discussion_url": "https://news.ycombinator.com/item?id=47640380",
+    "summary": "",
+    "score": 325,
+    "published_at": "2026-04-04T16:16:10+00:00",
+    "ai_summary": "Apple이 Nvidia eGPU가 Arm 기반 Mac에서 작동하도록 하는 드라이버를 승인했습니다.\n이제 Arm Mac 사용자들도 외부 Nvidia GPU의 성능을 활용할 수 있게 됩니다.\n그래픽, 머신러닝 등 고성능 컴퓨팅을 요구하는 개발 작업에 긍정적인 영향을 미칩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47639567",
+    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+    "url": "https://github.com/teamchong/turboquant-wasm",
+    "discussion_url": "https://news.ycombinator.com/item?id=47639567",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-04-04T14:53:16+00:00",
+    "ai_summary": "Google의 벡터 양자화 기술을 브라우저에서 실행하는 TurboQuant-WASM 프로젝트입니다.\nWebAssembly를 활용하여 웹 환경에서 고성능 AI/ML 연산을 가능하게 합니다.\n프론트엔드 개발자나 웹 기반 AI/ML 애플리케이션 개발자에게 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47644406",
+    "title": "German implementation of eIDAS will require an Apple/Google account to function",
+    "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47644406",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-04-04T22:57:44+00:00",
+    "ai_summary": "독일의 eIDAS(전자신원확인) 구현이 Apple/Google 계정을 필수로 요구할 예정입니다.\n이는 국가 디지털 신분증 시스템이 주요 빅테크 플랫폼에 종속될 수 있음을 시사합니다.\n개발자들은 신원 확인 및 보안 솔루션 설계 시 이와 같은 플랫폼 종속성을 고려해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47638810",
+    "title": "Components of a Coding Agent",
+    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "discussion_url": "https://news.ycombinator.com/item?id=47638810",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-04-04T13:16:33+00:00",
+    "ai_summary": "코딩 에이전트의 핵심 구성 요소들을 분석하여 개발 과정을 자동화하는 방법을 탐구합니다.\n이는 LLM 기반 개발 도구의 작동 원리와 아키텍처 이해에 도움을 줍니다.\n개발자들은 AI와 협력하는 미래 작업 방식에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47636435",
+    "title": "Emotion concepts and their function in a large language model",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "discussion_url": "https://news.ycombinator.com/item?id=47636435",
+    "summary": "",
+    "score": 129,
+    "published_at": "2026-04-04T06:30:25+00:00",
+    "ai_summary": "대규모 언어 모델(LLM) 내에서 감정 개념이 어떻게 작용하는지 분석합니다.\nLLM이 감정을 이해하고 표현하는 방식에 대한 깊이 있는 통찰을 제공합니다.\nAI/ML 개발자들은 더욱 정교하고 인간적인 상호작용이 가능한 모델 구축에 참고할 수 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47638075",
+    "title": "The CMS is dead, long live the CMS",
+    "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+    "discussion_url": "https://news.ycombinator.com/item?id=47638075",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-04-04T11:24:30+00:00",
+    "ai_summary": "전통적인 CMS의 종말과 새로운 형태의 CMS(예: 헤드리스 CMS)의 부상을 다룹니다.\n이는 콘텐츠 관리 시스템의 미래 방향과 웹 개발 트렌드 변화를 시사합니다.\n개발자들은 유연하고 확장 가능한 아키텍처 설계에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47633855",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47633855",
+    "summary": "",
+    "score": 348,
+    "published_at": "2026-04-03T23:46:51+00:00",
+    "ai_summary": "AI 모델 Claude Code가 23년간 숨겨져 있던 리눅스 취약점을 성공적으로 발견했습니다.\n이는 AI가 보안 감사 및 버그 탐지에서 얼마나 강력한 도구가 될 수 있는지 보여줍니다.\n개발자들은 AI를 활용한 코드 분석 및 보안 강화의 가능성을 주목해야 합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47606244",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "url": "https://news.ycombinator.com/item?id=47606244",
+    "discussion_url": "https://news.ycombinator.com/item?id=47606244",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-04-01T20:38:24+00:00",
+    "ai_summary": "mRNA 데이터를 기반으로 언어 모델을 훈련하는 기술에 대한 기사입니다.\n25종에 걸쳐 생체 정보를 분석하며, 저렴한 비용($165)으로 모델을 구축했습니다.\n생물학 및 의료 분야에서 AI/ML 활용 가능성을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47601194",
+    "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+    "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47601194",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-04-01T14:13:34+00:00",
+    "ai_summary": "\"성당과 시장\" 비유를 통해 소프트웨어 개발 모델을 분석하는 고전적인 주제를 다룹니다.\n여기에 \"윈체스터 미스터리 하우스\"를 추가하여 개발 조직의 복잡성이나 진화에 대한 새로운 관점을 제시합니다.\n오픈소스와 독점 소프트웨어 개발 방식의 장단점 및 그 외연을 탐구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47591367",
+    "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
+    "url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47591367",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-03-31T18:16:17+00:00",
+    "ai_summary": "코모도어 64 컴퓨터를 활용하여 에니그마 암호를 해독하는 과정을 설명합니다.\n'일치 지수(Index of Coincidence)'라는 암호 분석 기법을 사용합니다.\n제한된 하드웨어 자원으로 복잡한 암호학 문제를 해결하는 개발자의 역량을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  }
+]
