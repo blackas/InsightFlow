@@ -1,0 +1,706 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28290",
+    "title": "Adobe가 Creative Cloud 설치 여부를 감지하기 위해 hosts 파일을 수정함",
+    "url": "https://news.hada.io/topic?id=28290",
+    "discussion_url": "https://news.hada.io/topic?id=28290",
+    "summary": "Windows와 macOS에서 Adobe Creative Cloud 설치 시 시스템의 hosts 파일이 자동 변경되어, 웹사이트 방문 시 설치 여부를 감지하는 구조임\n[adobe.com/home] 접속 시 자바스크립트가 detect-ccd.creativecloud.adobe.com의 이미지를 요청하며, h...",
+    "score": 0,
+    "published_at": "2026-04-07T19:33:36+00:00",
+    "ai_summary": "Adobe Creative Cloud 설치 시 시스템의 hosts 파일이 자동 변경되어 웹사이트 방문 시 설치 여부를 감지합니다.\ndetect-ccd.creativecloud.adobe.com 이미지 요청을 통해 감지하며, 이는 잠재적 보안 및 개인정보 침해 우려를 낳습니다.\n개발 환경과 시스템 동작에 영향을 미칠 수 있는 기술적 이슈입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28288",
+    "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
+    "url": "https://news.hada.io/topic?id=28288",
+    "discussion_url": "https://news.hada.io/topic?id=28288",
+    "summary": "스웨덴 연구자가 완전히 허구의 질병 &quot;빅소니마니아(Bixonimania)&quot; 를 만들어 AI 챗봇들이 이를 실제 질병처럼 안내하는지 실험했다. 결과는 충격적이었다. ChatGPT, Google Gemini, Microsoft Copilot, Perplexity 등 주요 AI 시스템이 모두 이 가짜 병을 진짜처럼 설명했고, 심지어 가짜...",
+    "score": 0,
+    "published_at": "2026-04-07T15:28:38+00:00",
+    "ai_summary": "스웨덴 연구자가 가상의 질병 \"빅소니마니아\"를 만들어 AI 챗봇의 응답을 실험했습니다.\nChatGPT, Gemini 등 주요 AI 시스템들이 이 가짜 병을 실제처럼 설명하며 오진하는 충격적인 결과를 보였습니다.\n이는 AI 챗봇의 신뢰성, 환각 문제, 그리고 잠재적 오용 위험성을 명확히 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28284",
+    "title": "양자 컴퓨팅 시점에 대한 암호공학 엔지니어의 관점",
+    "url": "https://news.hada.io/topic?id=28284",
+    "discussion_url": "https://news.hada.io/topic?id=28284",
+    "summary": "최근 연구 결과로 암호적으로 의미 있는 양자 컴퓨터(CRQC) 출현 가능성이 수년 내로 앞당겨지며, 양자 내성 암호(PQC) 배포의 긴급성이 급격히 높아짐\nGoogle과 Oratomic의 연구는 256비트 타원곡선 공격에 필요한 자원 감소를 보여주며, 하드웨...",
+    "score": 0,
+    "published_at": "2026-04-07T08:33:00+00:00",
+    "ai_summary": "최근 연구 결과, 암호학적으로 의미 있는 양자 컴퓨터(CRQC)의 출현 가능성이 수년 내로 앞당겨졌습니다.\nGoogle과 Oratomic 연구는 256비트 타원곡선 공격에 필요한 자원 감소를 보여주어 위협을 현실화합니다.\n이는 양자 내성 암호(PQC) 배포의 긴급성을 급격히 높여 암호공학 분야의 대규모 전환을 요구합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28283",
+    "title": "멀티 에이전트 오케스트레이션은 왜 잘 안 되는가?",
+    "url": "https://news.hada.io/topic?id=28283",
+    "discussion_url": "https://news.hada.io/topic?id=28283",
+    "summary": "최근 AI로 “제로 휴먼 컴퍼니” 를 운영할 수 있게 해주는 ‘Paperclip’ 프로젝트가 이슈가 되었는데요. 에이전트들을 회사 조직도처럼 구성해서 CEO, 팀장, 실무자 역할을 부여하고 회사의 미션과 세부 프로젝트 들을 정의하면 자율적으로 일하기 시작합니다. 한 달 만에 github 스타 4만 개를 돌파했습니다.",
+    "score": 0,
+    "published_at": "2026-04-07T06:27:10+00:00",
+    "ai_summary": "AI 에이전트를 조직처럼 구성하여 자율적으로 프로젝트를 수행하게 하는 멀티 에이전트 오케스트레이션이 주목받고 있습니다.\n'Paperclip' 프로젝트처럼 '제로 휴먼 컴퍼니'를 목표로 하지만, 실제 구현에는 어려움이 따릅니다.\n이 기사는 왜 이러한 AI 에이전트 시스템이 기대만큼 잘 작동하지 않는지에 대한 문제점을 탐구합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28282",
+    "title": "구글에서 공개한 iOS 전용 Gemma4 온디바이스 구동 최적화 앱",
+    "url": "https://news.hada.io/topic?id=28282",
+    "discussion_url": "https://news.hada.io/topic?id=28282",
+    "summary": "아이폰 쓰시는 분들은 꼭 써보시길 바랍니다. 구글에서 배포한 gemma4를 온디바이스로 구동 가능하게 만든 최적화 시킨 앱입니다.\n간단하게 말하면, 비행기 모드에서도 LLM이 사용가능합니다. (멀티모달 인풋 가능)\n최적화가 무척 잘되어 있고 3~4기가 안에 이렇게 까지 유려화게 LLM 해놓을...",
+    "score": 0,
+    "published_at": "2026-04-07T06:20:27+00:00",
+    "ai_summary": "구글이 iOS 전용 Gemma4 온디바이스 구동 최적화 앱을 공개했습니다.\n이 앱은 비행기 모드에서도 LLM 사용이 가능하며, 멀티모달 인풋까지 지원합니다.\n3~4GB 내에서 고도로 최적화된 LLM을 아이폰에서 유려하게 구동하는 기술적 진보를 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28281",
+    "title": "Show GN: StyleSeed – AI 코딩 도구에 디자인 감각을 심어주는 오픈소스 (2,200줄 디자인 규칙)",
+    "url": "https://news.hada.io/topic?id=28281",
+    "discussion_url": "https://news.hada.io/topic?id=28281",
+    "summary": "바이브코딩으로 UI를 만들면 &quot;기능은 되는데 디자인이 구린&quot; 문제가 있습니다.\nStyleSeed는 AI 코딩 도구(Claude Code 등)에 디자인 규칙을 심어주는 오픈소스입니다.\n파일을 프로젝트에 복사하면, AI가 토스 앱 수준의 UI를 만들어냅니다.\n포함 내용:\n\n2,200줄의 시각 디",
+    "score": 0,
+    "published_at": "2026-04-07T05:41:34+00:00",
+    "ai_summary": "StyleSeed는 AI 코딩 도구(예: Claude Code)가 생성하는 UI의 디자인 품질을 개선하는 오픈소스입니다.\n2,200줄의 시각 디자인 규칙을 포함하여, AI가 토스 앱 수준의 UI를 만들도록 돕습니다.\n'기능은 되지만 디자인은 구린' 문제를 해결하여 개발자의 UI/UX 작업 효율과 결과물의 완성도를 높여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28278",
+    "title": "Bluesky, Claude 기반 AI 앱 Attie 공개",
+    "url": "https://news.hada.io/topic?id=28278",
+    "discussion_url": "https://news.hada.io/topic?id=28278",
+    "summary": "Bluesky가 Anthropic의 Claude를 기반으로 한 AI 앱 Attie를 공개.\nAttie의 가장 큰 특징은 코드 없이 자연어 대화만으로 나만의 소셜 피드를 직접 설계할 수 있다는 점. 예를 들어 “요즘 AI 연구 동향만 모아서 보여줘”, “내가 자주 리포스트하는 사람",
+    "score": 0,
+    "published_at": "2026-04-07T02:58:23+00:00",
+    "ai_summary": "Bluesky가 Anthropic의 Claude를 기반으로 한 AI 앱 'Attie'를 공개했습니다.\nAttie는 코드 없이 자연어 대화만으로 사용자 맞춤형 소셜 피드를 설계할 수 있는 점이 가장 큰 특징입니다.\n'요즘 AI 연구 동향만 모아줘'와 같이 사용자의 요구에 따라 정보를 큐레이션하는 LLM 활용 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28275",
+    "title": "바이브 코딩 숭배는 미쳐있다",
+    "url": "https://news.hada.io/topic?id=28275",
+    "discussion_url": "https://news.hada.io/topic?id=28275",
+    "summary": "Claude의 소스코드 유출 사건을 계기로, &quot;바이브 코딩(vibe coding)&quot;의 맹신이 실제 프로젝트 품질에 어떤 해를 끼치는지가 드러남\n바이브 코딩은 코드 내부를 전혀 들여다보지 않는 것을 원칙으로 삼지만, 이는 순수한 미신에 불과하며 실제로는 계획 ...",
+    "score": 0,
+    "published_at": "2026-04-07T00:55:44+00:00",
+    "ai_summary": "Claude의 소스코드 유출 사건을 계기로 '바이브 코딩'의 맹신이 실제 프로젝트 품질에 끼치는 해악이 드러났습니다.\n바이브 코딩은 코드 내부를 전혀 들여다보지 않는 것을 원칙으로 삼지만, 이는 순수한 미신에 불과합니다.\n계획, 설계, 검토 없는 코딩은 버그와 유지보수 문제를 야기하며, 결국 개발 생산성을 저해합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28273",
+    "title": "Sam Altman이 우리의 미래를 통제할지도 모른다 – 그를 신뢰할 수 있을까?",
+    "url": "https://news.hada.io/topic?id=28273",
+    "discussion_url": "https://news.hada.io/topic?id=28273",
+    "summary": "OpenAI는 설립 초기부터 AI를 인류 역사상 가장 강력하고 잠재적으로 위험한 기술로 규정하고, 비영리법인으로 출발해 인류의 안전을 회사 존립보다 우선하는 구조를 채택했으나, 이후 영리법인으로 전환하면서 그 원칙이 형해화되고 있음\n2023년 11월, 공동창업자 Ilya Sutskever 주...",
+    "score": 0,
+    "published_at": "2026-04-07T00:49:44+00:00",
+    "ai_summary": "OpenAI는 초기에 인류 안전을 최우선하는 비영리 AI 기업으로 설립되었으나, 이후 영리법인으로 전환되며 그 원칙이 희석되고 있다.\n이는 AI의 강력하고 잠재적으로 위험한 특성을 고려할 때, Sam Altman과 OpenAI의 통제력에 대한 신뢰 문제를 제기한다.\nAI 기술의 방향성과 윤리적 거버넌스는 AI 개발자들에게 중요한 고려사항이다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28272",
+    "title": "Claude Code, 2월 업데이트 이후 복잡한 엔지니어링 작업에서 사용 불가 수준으로 품질 저하",
+    "url": "https://news.hada.io/topic?id=28272",
+    "discussion_url": "https://news.hada.io/topic?id=28272",
+    "summary": "클로드 코드가 2월 업데이트 후 지시를 무시하거나 반대로 수행 또는 작업을 완료하지 않고 완료했다고 주장하는 등 복잡한 엔지니어링 작업 실패 현상이 다수 보고됨\n저하의 핵심 원인으로 redact-thinking-2026-02-12 배포...",
+    "score": 0,
+    "published_at": "2026-04-07T00:46:44+00:00",
+    "ai_summary": "Claude Code가 2월 업데이트 이후 복잡한 엔지니어링 작업에서 지시 불이행, 오작동 등 심각한 품질 저하를 보이고 있다.\n이는 개발자들이 AI 코딩 어시스턴트에 의존하는 작업 효율성에 부정적인 영향을 미친다.\nLLM 모델의 업데이트가 개발 생산성에 미치는 직접적인 영향을 보여주는 사례이다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28269",
+    "title": "InsForge - AI 코딩 에이전트를 위한 에이전틱 백엔드 플랫폼",
+    "url": "https://news.hada.io/topic?id=28269",
+    "discussion_url": "https://news.hada.io/topic?id=28269",
+    "summary": "AI 코딩 에이전트 및 AI 코드 에디터를 위해 설계된 백엔드 개발 플랫폼\n에이전트가 데이터베이스·인증·스토리지·함수 등 백엔드 기본 요소를 엔드-투-엔드로 직접 이해하고 운영 가능\n에이전트와 백엔드 인프라 사이에 시맨틱 레이어(Semantic...",
+    "score": 0,
+    "published_at": "2026-04-07T00:31:02+00:00",
+    "ai_summary": "InsForge는 AI 코딩 에이전트 및 에디터를 위한 백엔드 개발 플랫폼으로, AI가 데이터베이스, 인증 등 백엔드 요소를 직접 이해하고 운영하게 한다.\n이는 에이전트와 백엔드 인프라 간에 시맨틱 레이어를 제공하여 AI의 백엔드 개발 역량을 강화한다.\n개발자들이 AI 기반 자동화 시스템을 구축하고 활용하는 데 필요한 핵심 인프라 기술이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47679121",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "discussion_url": "https://news.ycombinator.com/item?id=47679121",
+    "summary": "",
+    "score": 777,
+    "published_at": "2026-04-07T18:09:34+00:00",
+    "ai_summary": "(원문 요약 부재) \"Project Glasswing\"은 AI 시대의 핵심 소프트웨어 보안에 초점을 맞춘 프로젝트로 보인다.\nAI 시스템의 취약점과 잠재적 위협에 대한 보안 강화 방안을 다룰 것으로 예상된다.\n개발자들이 AI 기반 애플리케이션을 구축할 때 고려해야 할 보안 관련 정보가 포함될 수 있다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47679258",
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47679258",
+    "summary": "",
+    "score": 482,
+    "published_at": "2026-04-07T18:18:36+00:00",
+    "ai_summary": "(원문 요약 부재) \"System Card: Claude Mythos Preview\"는 Anthropic의 새로운 Claude 모델에 대한 시스템 카드로 예상된다.\n모델의 성능, 안전성, 윤리적 고려사항 등 개발자가 모델을 이해하고 활용하는 데 필요한 정보가 담겨 있을 것이다.\nLLM 개발 및 활용에 관심 있는 개발자들에게 중요한 사전 정보가 될 수 있다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47680404",
+    "title": "S3 Files",
+    "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47680404",
+    "summary": "",
+    "score": 158,
+    "published_at": "2026-04-07T19:44:01+00:00",
+    "ai_summary": "(원문 요약 부재) \"S3 Files\"는 Amazon S3 클라우드 스토리지 서비스 및 파일 관리에 대한 내용을 다룰 것으로 보인다.\n개발자들이 S3를 활용한 데이터 저장, 접근 제어, 백업 등과 관련된 정보를 얻을 수 있을 것이다.\n클라우드 기반 애플리케이션 개발 시 중요한 스토리지 솔루션 활용 가이드가 될 수 있다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47677853",
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "url": "https://z.ai/blog/glm-5.1",
+    "discussion_url": "https://news.ycombinator.com/item?id=47677853",
+    "summary": "",
+    "score": 380,
+    "published_at": "2026-04-07T16:32:15+00:00",
+    "ai_summary": "(원문 요약 부재) \"GLM-5.1\"은 장기적인 작업(Long-Horizon Tasks) 수행 능력을 향상시킨 언어 모델에 대한 내용으로 추정된다.\n이는 복잡한 다단계 문제 해결이나 지속적인 상호작용이 필요한 AI 애플리케이션 개발에 중요한 진전을 의미한다.\nLLM의 발전과 새로운 활용 가능성에 대한 기술적 분석이 포함될 것으로 예상된다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47680309",
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "discussion_url": "https://news.ycombinator.com/item?id=47680309",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-04-07T19:37:05+00:00",
+    "ai_summary": "애플 실리콘 환경에서 Gemma 4 멀티모달 모델을 미세 조정하는 도구입니다.\nAI/ML 개발자들이 온디바이스 모델을 효율적으로 훈련하고 최적화하는 데 기여합니다.\nLLM 및 AI 개발자에게 매우 높은 관련성을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47681112",
+    "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+    "url": "https://middle-earth-interactive-map.web.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47681112",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-04-07T20:42:37+00:00",
+    "ai_summary": "톨킨의 중간계를 탐험할 수 있는 인터랙티브 웹 지도를 소개합니다.\n웹 프론트엔드 개발, 지도 데이터 시각화 기술이 활용되었을 것으로 예상됩니다.\n사용자 경험 및 웹 기술에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47654626",
+    "title": "A whole boss fight in 256 bytes",
+    "url": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47654626",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-04-05T22:32:12+00:00",
+    "ai_summary": "256바이트라는 극히 제한된 용량 안에서 보스전을 구현한 프로젝트입니다.\n저수준 프로그래밍, 코드 최적화 및 게임 개발 기술의 정수를 보여줍니다.\n성능 최적화와 리소스 제약 프로그래밍에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47677885",
+    "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+    "url": "https://printervention.app/details",
+    "discussion_url": "https://news.ycombinator.com/item?id=47677885",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-04-07T16:33:57+00:00",
+    "ai_summary": "브라우저 내 리눅스 VM과 WebUSB, USB/IP를 통해 오래된 프린터를 복구하는 혁신적인 기술입니다.\n웹 기술과 저수준 하드웨어 제어의 결합을 보여주며, 시스템 및 웹 개발자에게 흥미로운 주제입니다.\n하드웨어와 브라우저 API를 활용한 문제 해결의 실용적인 사례를 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47675625",
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47675625",
+    "summary": "",
+    "score": 255,
+    "published_at": "2026-04-07T14:07:34+00:00",
+    "ai_summary": "클라우드플레어가 2029년까지 양자 후 보안(post-quantum security)을 완전히 구현하겠다는 목표를 발표했습니다.\n이는 미래의 양자 컴퓨팅 위협에 대비한 암호화 기술 개발의 중요한 이정표입니다.\n보안 및 클라우드 인프라 개발자에게 큰 영향을 미칠 주제이며, 장기적인 보안 전략을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47675893",
+    "title": "A blind man made it possible for others with low vision to build Lego sets",
+    "url": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+    "discussion_url": "https://news.ycombinator.com/item?id=47675893",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-04-07T14:24:30+00:00",
+    "ai_summary": "시각장애인이 저시력자들이 레고 세트를 조립할 수 있도록 돕는 방법을 고안한 이야기입니다.\n이는 접근성과 포용적 디자인의 중요성을 보여주는 감동적인 사례로, 기술의 사회적 기여를 시사합니다.\n장애인의 삶을 개선하는 기술적 솔루션 개발에 영감을 줄 수 있는 내용입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47675213",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47675213",
+    "summary": "",
+    "score": 142,
+    "published_at": "2026-04-07T13:39:15+00:00",
+    "ai_summary": "구글이 실험적인 에이전트 오케스트레이션 테스트베드 'Scion'을 오픈소스화했습니다.\n이는 AI 에이전트들의 협업 및 관리를 위한 프레임워크를 제공하여 복잡한 AI 시스템 구축을 돕습니다.\nAI/ML, DevOps 및 분산 시스템 개발자에게 매우 유용한 도구이자 연구 플랫폼이 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47664836",
+    "title": "AI helps add 10k more photos to OldNYC",
+    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47664836",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-04-06T18:24:32+00:00",
+    "ai_summary": "AI 기술을 활용하여 OldNYC 프로젝트에 1만 장의 역사적인 사진이 추가되었습니다.\n이는 AI가 방대한 역사적 자료를 분류, 보존 및 확장하는 데 기여하는 좋은 예시입니다.\nAI/ML 및 데이터 관련 개발자, 특히 문화유산 디지털화에 관심 있는 이들에게 흥미로운 응용 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47681274",
+    "title": "Bitcoin and quantum computing",
+    "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47681274",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-04-07T20:56:23+00:00",
+    "ai_summary": "양자 컴퓨팅이 비트코인의 현재 암호화 방식에 미칠 잠재적 위협과 영향을 탐구합니다.\n현재 기술 수준으로는 비트코인의 보안이 즉시 위협받지는 않지만, 미래 대비가 중요함을 강조합니다.\n양자 기술 발전이 암호화폐 생태계에 가져올 변화에 대한 논의를 다룹니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47673005",
+    "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+    "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47673005",
+    "summary": "",
+    "score": 372,
+    "published_at": "2026-04-07T10:25:12+00:00",
+    "ai_summary": "아폴로 11호 유도 컴퓨터 코드에서 이전에 알려지지 않았던 버그를 발견한 과정을 상세히 설명합니다.\n이 버그가 실제 임무에 미쳤을 수 있는 잠재적 영향과 당시 소프트웨어 개발 방식의 한계를 분석합니다.\n고전적인 시스템의 정밀한 코드 분석이 현대 개발자에게 주는 교훈을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47627217",
+    "title": "Running out of disk space in production",
+    "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47627217",
+    "summary": "",
+    "score": 140,
+    "published_at": "2026-04-03T14:42:28+00:00",
+    "ai_summary": "프로덕션 환경에서 디스크 공간 부족이 발생했을 때의 원인과 그로 인한 심각한 문제들을 다룹니다.\n이를 방지하기 위한 사전 예방 조치와 문제 발생 시 신속하게 해결하는 방법들을 제시합니다.\n모니터링, 로그 관리, 자동화된 스케일링 등 효율적인 디스크 공간 관리 전략을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47677241",
+    "title": "Taste in the age of AI and LLMs",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47677241",
+    "summary": "",
+    "score": 208,
+    "published_at": "2026-04-07T15:54:16+00:00",
+    "ai_summary": "AI와 LLM이 예술, 문화, 개인의 취향 형성에 미치는 영향과 변화를 고찰합니다.\n알고리즘에 의한 추천과 생성형 AI가 인간의 주관적 '취향'을 어떻게 확장하거나 재정의하는지 분석합니다.\n기술 발전이 인간 경험과 미학적 판단에 가져올 윤리적, 철학적 질문을 제기합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47679155",
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "url": "https://red.anthropic.com/2026/mythos-preview/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47679155",
+    "summary": "",
+    "score": 233,
+    "published_at": "2026-04-07T18:11:31+00:00",
+    "ai_summary": "Claude Mythos Preview의 사이버 보안 관련 역량을 구체적인 테스트를 통해 평가합니다.\n취약점 분석, 악성 코드 탐지, 보안 정책 이해 등 LLM이 보안 업무에 어떻게 활용될 수 있는지 분석합니다.\nAI 기반 보안 도구의 현재 한계와 미래 발전 가능성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47682098",
+    "title": "Ex-Meta worker investigated for downloading 30k private Facebook photos",
+    "url": "https://www.bbc.com/news/articles/cvg049xz1ygo",
+    "discussion_url": "https://news.ycombinator.com/item?id=47682098",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-04-07T22:20:22+00:00",
+    "ai_summary": "전 메타 직원이 3만 장의 페이스북 비공개 사진을 무단으로 다운로드한 사건에 대한 조사를 다룹니다.\n내부자 위협의 심각성과 데이터 보안 및 개인 정보 보호의 중요성을 강조합니다.\n기업의 데이터 접근 통제, 감사 시스템, 그리고 직원 교육의 필요성을 논합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/",
+    "title": "OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/",
+    "discussion_url": "https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/",
+    "summary": "OpenAI is testing its next-gen Image V2 model on ChatGPT and LM Arena in three variants. Early tests show improvements in UI design rendering, prompt adherence, and compositional understanding. The outcome of these tests could bolster OpenAI's competitive position against Google's offerings.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "OpenAI가 차세대 Image V2 모델을 ChatGPT와 LM Arena에서 테스트 중입니다. 이 모델은 UI 디자인 렌더링, 프롬프트 준수, 구성 이해도에서 개선을 보였습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/",
+    "title": "Google tests Jules V2 agent capable of taking bigger tasks (3 minute read)",
+    "url": "https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/",
+    "discussion_url": "https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/",
+    "summary": "Google is developing the Jules V2 (\"Jitro\") coding agent, designed to autonomously manage high-level development goals rather than specific tasks. Launching via waitlist, it aims to redefine AI software development by shifting focus from task-based commands to KPI-driven outcomes. The approach might benefit teams handling large codebases, but it faces challenges of unpredictable changes and trust issues.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "Google이 특정 작업 대신 상위 개발 목표를 자율적으로 관리하는 코딩 에이전트 Jules V2를 개발 중입니다. KPI 중심의 결과로 AI 소프트웨어 개발 방식을 재정의하고 대규모 코드베이스를 다루는 팀에 유용할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute (2 minute read)",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "discussion_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "summary": "Anthropic has signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity expected to come online starting in 2027. The capacity is necessary to serve the exponential growth in Anthropic's customer base. It will also enable Claude to define the frontier of AI development. The vast majority of the new compute will be sited in the US.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "Anthropic이 Google 및 Broadcom과 2027년부터 가동될 차세대 TPU 용량 확보 계약을 체결했습니다. 이는 Anthropic 고객 기반의 급증에 대응하고 Claude의 AI 개발 선도 역할을 강화하기 위함입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://sherwood.news/tech/report-some-of-metas-new-ai-models-will-eventually-be-open-source/",
+    "title": "Some of Meta's new AI models will eventually be open-source (1 minute read)",
+    "url": "https://sherwood.news/tech/report-some-of-metas-new-ai-models-will-eventually-be-open-source/",
+    "discussion_url": "https://sherwood.news/tech/report-some-of-metas-new-ai-models-will-eventually-be-open-source/",
+    "summary": "Meta is close to releasing its new AI models. Some of the models will eventually be released with an open-source license. Meta plans to focus on consumers rather than the enterprise market. It previously embraced open-source AI with its Llama models, and CEO Mark Zuckerberg has written a manifesto declaring open-source AI as the past for ared. The company will be pursuing a hybrid strategy of proprietary and open-source models going forward.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "Meta가 새로운 AI 모델을 곧 출시하며, 일부 모델은 오픈소스 라이선스로 공개될 예정입니다. Meta는 소비자 시장에 집중하며, 자체 AI 모델 개발에 독점 및 오픈소스 하이브리드 전략을 추구할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i",
+    "title": "AIs can now often do massive easy-to-verify SWE tasks and I've updated towards shorter timelines (30 minute read)",
+    "url": "https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i",
+    "discussion_url": "https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i",
+    "summary": "There is now an almost 2x higher probability of full AI R&D automation by the end of 2028. Strong performance in easy-and-cheap-to-verify SWE tasks that don't require new ideas will allow AI to substantially speed up AI R&D. A lot of the work in AI R&D involves these types of tasks, and AI can complete them significantly cheaper and faster than humans.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "AI가 쉽고 검증하기 쉬운 대규모 SWE 작업을 수행할 수 있게 되면서, AI R&D 자동화 가능성이 2028년 말까지 거의 2배 높아졌습니다. AI는 이러한 작업을 인간보다 훨씬 저렴하고 빠르게 완료하여 AI R&D 속도를 크게 높일 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://share.jotbird.com/restless-steady-riverbend",
+    "title": "Anatomy of Mercor's Data Breach (162 minute read)",
+    "url": "https://share.jotbird.com/restless-steady-riverbend",
+    "discussion_url": "https://share.jotbird.com/restless-steady-riverbend",
+    "summary": "Mercor is an AI-powered talent marketplace that connects software engineers, AI data labelers, and knowledge workers with companies seeking contract labor. The company claims it was recently breached due to a supply-chain attack on a popular open source package. However, there are several reasons to doubt that claim. Saying that it was affected by the supply-chain attack may be an attempt to deflect from deeper, more embarrassing security failures.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "AI 기반 인재 마켓플레이스 Mercor가 최근 데이터 유출을 겪었으며, 회사는 인기 오픈소스 패키지에 대한 공급망 공격 때문이라고 주장합니다. 하지만 여러 정황상 더 심각한 내부 보안 실패를 은폐하려는 시도일 수 있다는 의혹이 제기됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/abhigyanpatwari/GitNexus",
+    "title": "GitNexus (GitHub Repo)",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "discussion_url": "https://github.com/abhigyanpatwari/GitNexus",
+    "summary": "GitNexus indexes entire codebases into knowledge graphs, making AI agents like Cursor and Claude Code aware of every relationship, from dependencies to call chains. It offers a CLI for deep integration with editors and a web UI for visual exploration, both providing comprehensive context and reducing the likelihood of blind edits and breaking changes.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "GitNexus는 전체 코드베이스를 지식 그래프로 색인하여 Cursor, Claude Code와 같은 AI 에이전트가 코드 관계를 인지하도록 돕습니다. CLI 및 웹 UI를 제공하여 포괄적인 컨텍스트를 제공하고 변경 오류를 줄입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/akshay_pachaar/status/2041146899319971922",
+    "title": "The Anatomy of an Agent Harness (3 minute read)",
+    "url": "https://x.com/akshay_pachaar/status/2041146899319971922",
+    "discussion_url": "https://x.com/akshay_pachaar/status/2041146899319971922",
+    "summary": "This post breaks down the agent harness, the full software infrastructure that transforms an LLM into a goal-directed, tool-using agent. Production harnesses use layered memory, verification loops, subagent orchestration, and structured tool execution to prevent context loss, errors, and silent failures. Frameworks like Claude Code, OpenAI Agents SDK, and LangGraph show that harness design alone can shift agent performance by 20+ ranks, making it the critical engineering layer around any LLM.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "LLM을 목표 지향적 도구 사용 에이전트로 만드는 소프트웨어 인프라인 '에이전트 하네스'를 분석합니다. 생산 환경의 하네스는 계층형 메모리, 검증 루프, 서브 에이전트 오케스트레이션 등을 사용하여 컨텍스트 손실 및 오류를 방지합니다. 하네스 설계가 에이전트 성능을 크게 향상시키므로 LLM 주변의 핵심 엔지니어링 계층입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/arlanr/status/2041215978957389908",
+    "title": "Turning the Web into a Filesystem (3 minute read)",
+    "url": "https://x.com/arlanr/status/2041215978957389908",
+    "discussion_url": "https://x.com/arlanr/status/2041215978957389908",
+    "summary": "Code hallucinations are mostly a data problem, caused by outdated or fragmented training data. Nia's approach mounts documentation sites as virtual filesystems, letting agents grep, cat, and tree through docs in real time, so they code against current APIs rather than stale embeddings. This client-side, in-memory shell works with Claude Code, Codex, Copilot, Gemini, and OpenCode, providing a universal, low-latency interface for agents to browse structured information without complex tool schemas",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "AI 코드 환각은 주로 오래되거나 파편화된 훈련 데이터에서 발생합니다. Nia의 접근 방식은 문서 사이트를 가상 파일 시스템으로 변환하여 에이전트가 실시간 API 문서에 접근하도록 합니다. 이 클라이언트 측 인메모리 쉘은 다양한 AI 모델과 호환되며, 에이전트가 구조화된 정보를 탐색하는 효율적인 방법을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/",
+    "title": "AI Is Becoming an Operating System Layer (4 minute read)",
+    "url": "https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/",
+    "discussion_url": "https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/",
+    "summary": "AI must become an operating system layer across entire companies, reshaping product development, service delivery, and internal operations. This approach involves integrating AI into core functions rather than treating it as a mere feature. Companies not adopting this model risk inefficiency and losing competitive edge, making AI integration crucial for investment appeal.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "AI는 기업 전반에 걸쳐 운영 체제 계층으로 통합되어야 하며, 단순한 기능이 아닌 핵심 요소로 제품 개발, 서비스 제공, 내부 운영을 재편해야 합니다. 이러한 접근 방식을 채택하지 않는 기업은 비효율성과 경쟁력 상실의 위험이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "title": "Offline AI Dictation App from Google (4 minute read)",
+    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "discussion_url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "summary": "Google released an iOS app using on-device ASR models for dictation that offers live transcription, filler-word removal, and optional cloud-based editing via Gemini models.",
+    "score": 0,
+    "published_at": "2026-04-07T23:38:22+00:00",
+    "ai_summary": "구글이 온디바이스 ASR 모델을 사용하는 오프라인 받아쓰기 iOS 앱을 출시했습니다. 이 앱은 실시간 전사(transcription) 기능, 불필요한 단어 제거 기능을 제공하며, 선택적으로 Gemini 모델을 통한 클라우드 기반 편집도 가능합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Language"
+    ]
+  }
+]
