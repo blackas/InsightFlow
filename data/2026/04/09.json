@@ -1,0 +1,728 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28361",
+    "title": "OpenAI, 새 언어 모델 GPT-2를 위험성 이유로 전체 공개 보류",
+    "url": "https://news.hada.io/topic?id=28361",
+    "discussion_url": "https://news.hada.io/topic?id=28361",
+    "summary": "GPT-2는 8백만 개 웹페이지로 학습된 대규모 텍스트 생성 인공지능으로, 주어진 문장을 자연스럽게 이어 쓰는 능력을 보임\nOpenAI는 이 모델이 가짜 뉴스나 온라인 사칭 등에 악용될 위험이 있다며 전체 모델 대신 축소 버전만 공개",
+    "score": 0,
+    "published_at": "2026-04-09T19:32:51+00:00",
+    "ai_summary": "OpenAI는 GPT-2가 가짜 뉴스 및 사칭에 악용될 위험이 있어, 전체 모델 대신 축소 버전만 공개했습니다.\nGPT-2는 8백만 개 웹페이지로 학습된 대규모 텍스트 생성 AI로, 자연스러운 문장 이어쓰기 능력을 보입니다.\n이는 AI 기술의 윤리적 문제와 배포 시 고려사항을 보여주는 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28355",
+    "title": "Show GN: Spring AI Playground - MCP 툴 작성부터 테스트, 외부 연동까지 지원하는 데스크톱 앱",
+    "url": "https://news.hada.io/topic?id=28355",
+    "discussion_url": "https://news.hada.io/topic?id=28355",
+    "summary": "안녕하세요.\n최근 Claude Code나 Cursor 같은 AI 에이전트의 도움을 받아 MCP(Model Context Protocol) 툴 코드를 작성하고 활용하는 사례가 많아졌습니다. 하지만 막상 작성된 툴 코드를 실제 환경에서 돌려보고 검증하려고 하면 답답한 순간이 많았습니다.\n\n이 툴이 정말 제대로 동작하는가?</l",
+    "score": 0,
+    "published_at": "2026-04-09T14:25:51+00:00",
+    "ai_summary": "Spring AI Playground는 AI 에이전트(Claude Code, Cursor)가 작성한 MCP 툴 코드를 쉽게 테스트하고 검증할 수 있는 데스크톱 앱입니다.\n개발자들이 작성된 툴 코드를 실제 환경에서 돌려보고 외부 연동을 확인하는 데 겪는 어려움을 해소합니다.\n이는 AI 기반 개발 환경에서 툴 코드의 효율적인 검증을 돕는 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28354",
+    "title": "Show GN: AI가 거짓말 못 하게 만드는 완벽한 방법 - leceipts",
+    "url": "https://news.hada.io/topic?id=28354",
+    "discussion_url": "https://news.hada.io/topic?id=28354",
+    "summary": "AI 코딩 도구를 쓰다 보면 묘하게 반복되는 상황이 있습니다.\n버그를 설명하면\n→ “문제 수정했습니다”\n→ 실행해보면 여전히 깨짐\n이게 단순히 AI 문제라기보다,\n사람 코드 리뷰에서도 익숙한 패턴이기도 합니다.\n• “아마 이거면 될 듯”\n• “로컬에서는 잘 됨”...",
+    "score": 0,
+    "published_at": "2026-04-09T12:41:44+00:00",
+    "ai_summary": "AI 코딩 도구가 버그를 수정했다고 하지만 실제로는 여전히 문제가 남아있는 '거짓말' 같은 상황을 지적합니다.\n이는 사람 코드 리뷰에서도 흔히 나타나는 '로컬에서는 잘 됨' 패턴과 유사하며, AI의 부정확한 답변을 검증하는 도구의 필요성을 강조합니다.\nleceipts는 AI가 만들어낸 '겉치레' 코드 문제를 해결하는 데 초점을 맞춥니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28352",
+    "title": "Show GN: 안쓰는 Skill들 정리하는 Skill",
+    "url": "https://news.hada.io/topic?id=28352",
+    "discussion_url": "https://news.hada.io/topic?id=28352",
+    "summary": "안쓰는 Skill들이 너무 많아서, 좀 정리하다가, skill로 만들어보면 좋을 것 같아서 만들었습니다.\n부족한 부분도 많을거라, 피드백은 언제나 환영입니다.\n왜 스킬 정리가 필요한가\nClaude Code는 스킬과 플러그인을 쉽게 설치할 수 있다.\n문제는 설치는 쉽지만, 관리는 누구도 해주지 않",
+    "score": 0,
+    "published_at": "2026-04-09T12:24:02+00:00",
+    "ai_summary": "Claude Code와 같은 AI 에이전트의 스킬 및 플러그인은 쉽게 설치할 수 있지만, 사용하지 않는 스킬의 관리가 어렵다는 문제점을 해결하고자 이 '스킬 정리 스킬'이 개발되었습니다.\n이는 AI 에이전트 사용 환경에서 스킬 관리의 중요성과 효율적인 사용을 위한 도구의 필요성을 보여줍니다.\n피드백을 통해 개선될 예정이며, AI 에이전트 활용의 생산성 향상에 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28349",
+    "title": "모든 것은 거짓으로 향하는가",
+    "url": "https://news.hada.io/topic?id=28349",
+    "discussion_url": "https://news.hada.io/topic?id=28349",
+    "summary": "현대의 AI라 불리는 기술은 실제로는 복잡한 머신러닝(ML) 시스템으로, 텍스트·이미지·오디오를 통계적으로 완성하는 구조임\n\nLLM은 즉흥극처럼 ‘그럴듯한 거짓’을 만들어내는 기계로, 모른다는 답을 회피하며 허구적 사실을 생성함\n사람들은 이를 의식...",
+    "score": 0,
+    "published_at": "2026-04-09T08:33:06+00:00",
+    "ai_summary": "현대 AI, 특히 LLM은 텍스트, 이미지, 오디오를 통계적으로 완성하는 복잡한 머신러닝 시스템입니다.\n이들은 '모른다'는 답변을 회피하며 즉흥적으로 '그럴듯한 거짓'을 만들어내는 경향이 있어, 사람들이 이를 오해할 수 있습니다.\nAI의 본질적인 한계와 허구적 사실 생성 가능성을 이해하는 것이 중요하며, 이는 AI 활용 시 비판적 시각을 요구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28347",
+    "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
+    "url": "https://news.hada.io/topic?id=28347",
+    "discussion_url": "https://news.hada.io/topic?id=28347",
+    "summary": "Meta가 차세대 AI 모델을 오픈소스 형태로 공개할 예정이라고 발표했습니다. 다만 기존 Llama 시리즈와는 상당히 다릅니다.\n주요 내용\n\nMeta는 Scale AI를 인수하면서 합류한 Alexandr Wang이 주도해 개발 중인 새 AI 모델 패밀리를 준비 중.\n\n<str",
+    "score": 0,
+    "published_at": "2026-04-09T07:04:25+00:00",
+    "ai_summary": "Meta가 기존 Llama 시리즈와는 다른 차세대 AI 모델 패밀리를 오픈소스 형태로 공개할 예정이라고 발표했습니다.\n이 새 AI 모델은 Scale AI 인수 후 합류한 Alexandr Wang이 주도하여 개발 중입니다.\nMeta의 이러한 움직임은 AI 연구 및 개발 커뮤니티에 큰 영향을 미칠 것으로 예상됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28346",
+    "title": "Show GN: , AI-SLOP Detector 3.1.1 - AI 에이전트가 만든 스파게티 코드를 잡는 분석 도구",
+    "url": "https://news.hada.io/topic?id=28346",
+    "discussion_url": "https://news.hada.io/topic?id=28346",
+    "summary": "AI-SLOP Detector는 AI 에이전트가 만든 코드에서 자주 보이는 구조적 결함을 정적으로 분석하는 도구입니다.\n단순 스타일 검사보다, stub 구현, phantom import, 과장된 주석/용어, helper로 쪼개 숨긴 복잡도처럼\n“겉보기엔 깔끔한데 실제로는 불안한 코드”를 잡는 데 초점을 둡니다.\n무엇을",
+    "score": 0,
+    "published_at": "2026-04-09T06:46:24+00:00",
+    "ai_summary": "AI-SLOP Detector 3.1.1은 AI 에이전트가 생성한 코드에서 자주 발견되는 구조적 결함을 정적으로 분석하는 도구입니다.\n단순 스타일 검사를 넘어, stub 구현, phantom import, 과장된 주석 등 '겉보기엔 깔끔하나 실제로는 불안정한 코드'를 식별하는 데 초점을 둡니다.\n이 도구는 AI 생성 코드의 품질과 안정성을 검증하여 개발자가 더 신뢰할 수 있는 코드를 사용하도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28341",
+    "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
+    "url": "https://news.hada.io/topic?id=28341",
+    "discussion_url": "https://news.hada.io/topic?id=28341",
+    "summary": "한 줄 요약\nAX 추진팀 신설은 계층을 줄여야 할 때 계층을 하나 더 쌓는 역설이다. MIT NANDA 연구에서 성공한 5%는 중앙 AI 랩이 아니라 현장 관리자가 주도한 조직이었다. 15년 CTO 경험에서 배운 AX의 제1원칙은 도구가 아니라 조직과 사람이다.\nAX 추진팀 역설 — 계층을 없애야 하는데 계층을",
+    "score": 0,
+    "published_at": "2026-04-09T05:28:45+00:00",
+    "ai_summary": "AX 추진팀 신설은 계층을 늘려 실패로 이끄는 역설적 접근이다. MIT 연구는 중앙 AI 랩 대신 현장 관리자 주도 조직의 성공률이 높음을 보였다. 15년 CTO 경험상 AX 성공의 핵심은 도구가 아닌 조직과 사람에 있다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28340",
+    "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
+    "url": "https://news.hada.io/topic?id=28340",
+    "discussion_url": "https://news.hada.io/topic?id=28340",
+    "summary": "Astral은 전 세계 수백만 개발자가 의존하는 도구(Ruff, uv, ty)를 만들고 있으며, 최근 Trivy와 LiteLLM 공급망 해킹 사건을 계기로 자신들의 보안 실천 방식을 공개했다. 대상 독자는 세 부류다: 사용자, 다른 오픈소스 메인테이너, CI/CD 시스템 개발자.\n\n1. CI/CD 보안\nGitHub Actions의 보",
+    "score": 0,
+    "published_at": "2026-04-09T05:02:43+00:00",
+    "ai_summary": "Ruff, uv 등을 만든 Astral이 Trivy 해킹 사건 후 자신들의 오픈소스 보안 전략을 공개했다. CI/CD 보안, 의존성 관리 등 사용자, 메인테이너, CI/CD 개발자를 위한 내용을 다룬다. 신뢰할 수 있는 개발 환경 구축을 위한 구체적인 방법을 제시한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28337",
+    "title": "Show GN: 한글 점자 변환 도구 braillify 2.0 출시",
+    "url": "https://news.hada.io/topic?id=28337",
+    "discussion_url": "https://news.hada.io/topic?id=28337",
+    "summary": "오픈소스 한글 -&gt; 한글 점자 변환 도구 braillify 2.0 출시했습니다\n테스트 케이스 2,000개 이상으로 확장했고\n수학 점자랑 중세국어까지 대부분 지원합니다\n정확도도 99%까지 올라갔습니다\n점사랑, 점자세상과 비교한 벤치마크도 같이 공개했습니다\n국내 최고 및 압도적인 정확도",
+    "score": 0,
+    "published_at": "2026-04-09T03:30:27+00:00",
+    "ai_summary": "오픈소스 한글 점자 변환 도구 'braillify 2.0'이 출시되었다. 2,000개 이상 테스트 케이스, 수학/중세국어 지원으로 정확도 99% 달성. 국내 최고 수준의 정확도를 자랑하며 벤치마크 결과도 공개되었다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28326",
+    "title": "Claude Managed Agents - 프로덕션 속도를 10배 더 빠르게",
+    "url": "https://news.hada.io/topic?id=28326",
+    "discussion_url": "https://news.hada.io/topic?id=28326",
+    "summary": "클라우드 환경에서 대규모 에이전트를 구축·배포할 수 있는 조합형 API 제품군으로, 프로토타입을 며칠 내 프로덕션으로 전환 가능\n보안 샌드박싱, 자격 증명 관리, 권한 제어 등 프로덕션급 인프라를 자동 처리해 사용자는 작업 정의에만 집중 가능",
+    "score": 0,
+    "published_at": "2026-04-09T00:41:57+00:00",
+    "ai_summary": "Claude Managed Agents는 클라우드에서 대규모 에이전트를 구축·배포하는 조합형 API 제품군이다. 프로토타입을 프로덕션으로 빠르게 전환하며, 보안 샌드박싱, 자격 증명, 권한 제어 등 인프라를 자동 처리한다. 개발자는 작업 정의에만 집중할 수 있게 돕는다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28323",
+    "title": "GBrain — 오픈소스 개인 지식 베이스",
+    "url": "https://news.hada.io/topic?id=28323",
+    "discussion_url": "https://news.hada.io/topic?id=28323",
+    "summary": "YC CEO Garry Tan이 Karpathy의 LLMWiki 스타일로 만든 개인 지식 관리(Knowledge Brain) 도구\nCLI/라이브러리로도 사용 가능하지만, OpenClaw와 연동해 사용하는 것을 추천\n분산된 마크다운 파일들을 Postgres 기반 지식 베이스로 통합...",
+    "score": 0,
+    "published_at": "2026-04-09T00:31:02+00:00",
+    "ai_summary": "YC CEO Garry Tan이 Karpathy의 LLMWiki 스타일로 오픈소스 개인 지식 관리 도구 'GBrain'을 공개했다. CLI/라이브러리 형태로도 사용 가능하며, OpenClaw와 연동하면 더욱 효과적이다. 분산된 마크다운 파일을 Postgres 기반 지식 베이스로 통합한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Database",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47706141",
+    "title": "Research-Driven Agents: When an agent reads before it codes",
+    "url": "https://blog.skypilot.co/research-driven-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47706141",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-04-09T16:58:49+00:00",
+    "ai_summary": "AI 에이전트가 코드를 작성하기 전에 관련 문서를 읽고 연구하는 새로운 접근 방식을 소개합니다.\n이 방식은 에이전트의 코드 품질과 정확성을 크게 향상시키는 것을 목표로 합니다.\n개발자가 AI를 사용하여 개발 프로세스를 개선하는 데 관심 있는 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47710007",
+    "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+    "url": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47710007",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-04-09T20:59:51+00:00",
+    "ai_summary": "WordPress에서 Jekyll과 같은 정적 사이트 생성기로 이전하는 경험과 이점을 다룹니다.\n성능, 보안, 유지보수 측면에서 정적 사이트의 장점을 설명합니다.\n웹 개발자가 사이트 구축 및 관리에 대한 대안을 모색하는 데 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47710149",
+    "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
+    "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47710149",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-04-09T21:09:12+00:00",
+    "ai_summary": "마이크로소프트가 사용자들에게 스토리지 비용을 지불하도록 유도하기 위해 다크 패턴을 사용하고 있다는 논란을 다룹니다.\n사용자 경험 디자인과 기업의 윤리적 문제에 대한 비판적 관점을 제시합니다.\n개발자라면 제품 설계 시 윤리적 고려 사항에 대해 생각해볼 수 있는 주제입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47701148",
+    "title": "Top laptops to use with FreeBSD",
+    "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47701148",
+    "summary": "",
+    "score": 265,
+    "published_at": "2026-04-09T09:17:25+00:00",
+    "ai_summary": "FreeBSD 운영체제와 함께 사용하기 좋은 최고급 노트북들을 추천하고 분석합니다.\n하드웨어 호환성, 성능, 드라이버 지원 등을 고려하여 FreeBSD 개발 환경에 적합한 기기를 제안합니다.\n특정 OS에서 개발 환경을 구축하려는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47707477",
+    "title": "Old laptops in a colo as low cost servers",
+    "url": "https://colaptop.pages.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47707477",
+    "summary": "",
+    "score": 117,
+    "published_at": "2026-04-09T18:22:39+00:00",
+    "ai_summary": "오래된 노트북을 콜로케이션 시설에서 저비용 서버로 활용하는 방안을 탐구합니다.\n저렴한 비용으로 컴퓨팅 자원을 확보하고, 에너지 효율성 및 실제 적용 사례를 다룹니다.\n인프라 비용 절감이나 소규모 서버 운영에 관심 있는 개발자 및 시스템 관리자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47710782",
+    "title": "The Training Example Lie Bracket",
+    "url": "https://pbement.com/posts/lie_brackets/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47710782",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-04-09T21:59:28+00:00",
+    "ai_summary": "훈련 예제의 'Lie Bracket'이라는 매우 이론적인 개념을 탐구하는 것으로 보입니다.\n이는 머신러닝 모델 훈련 과정의 복잡한 역학이나 최적화 이론에 대한 깊이 있는 분석일 수 있습니다.\nAI/ML 분야의 연구자나 고급 개발자에게 특히 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47705413",
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "url": "https://github.com/randerson112/craft",
+    "discussion_url": "https://news.ycombinator.com/item?id=47705413",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-04-09T16:04:54+00:00",
+    "ai_summary": "Rust의 Cargo와 유사한 기능을 가진 C/C++용 빌드 도구를 개발하여 선보이는 글입니다.\nC/C++ 프로젝트의 빌드, 의존성 관리, 패키징 과정을 간소화하는 것을 목표로 합니다.\nC/C++ 개발자들에게 생산성을 높일 수 있는 새로운 도구에 대한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47710845",
+    "title": "BunnyCDN has been silently losing our production files for 15 months",
+    "url": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47710845",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-04-09T22:04:09+00:00",
+    "ai_summary": "BunnyCDN이 15개월 동안 조용히 고객의 프로덕션 파일을 유실해왔다는 심각한 문제를 폭로합니다.\n클라우드 서비스의 데이터 무결성과 신뢰성에 대한 경고이자, 자체 모니터링 및 백업 전략의 중요성을 강조합니다.\nCDN 및 클라우드 스토리지를 사용하는 모든 개발자에게 중요한 교훈을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47700972",
+    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+    "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47700972",
+    "summary": "",
+    "score": 278,
+    "published_at": "2026-04-09T08:55:18+00:00",
+    "ai_summary": "Claude API 사용 비용 절감 및 개발 도구(Zed, OpenRouter) 재분배 전략을 다룹니다.\nAI 모델 활용 비용 효율성 증대와 개발 생산성 향상에 중점을 둡니다.\nLLM 통합 및 개발 환경 최적화를 위한 실용적 접근을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47685644",
+    "title": "Introduction to Nintendo DS Programming",
+    "url": "https://www.patater.com/files/projects/manual/manual.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47685644",
+    "summary": "",
+    "score": 207,
+    "published_at": "2026-04-08T05:22:42+00:00",
+    "ai_summary": "닌텐도 DS 플랫폼에서의 게임 및 애플리케이션 개발 기초를 소개합니다.\n개발 환경 설정, 프로그래밍 언어, 하드웨어 특성 이해에 초점을 맞춥니다.\n레트로 게임 개발이나 임베디드 시스템에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47695666",
+    "title": "Show HN: Druids – Build your own software factory",
+    "url": "https://github.com/fulcrumresearch/druids",
+    "discussion_url": "https://news.ycombinator.com/item?id=47695666",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-04-08T20:12:38+00:00",
+    "ai_summary": "\"Druids\"는 사용자가 자신만의 소프트웨어 팩토리를 구축하도록 돕는 도구입니다.\n개발, 테스트, 배포 과정을 자동화하고 효율적으로 관리하는 데 중점을 둡니다.\nCI/CD 파이프라인 구축 및 개발 프로세스 최적화를 위한 솔루션을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47702541",
+    "title": "A WebGPU implementation of Augmented Vertex Block Descent",
+    "url": "https://github.com/jure/webphysics",
+    "discussion_url": "https://news.ycombinator.com/item?id=47702541",
+    "summary": "",
+    "score": 117,
+    "published_at": "2026-04-09T12:01:31+00:00",
+    "ai_summary": "WebGPU를 이용한 증강된 버텍스 블록 하강 알고리즘 구현을 다룹니다.\n웹에서 고성능 3D 그래픽과 컴퓨팅을 가능하게 하는 WebGPU의 활용 사례입니다.\n웹 기반의 복잡한 3D 렌더링 및 과학적 시각화 분야에 기여할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47648854",
+    "title": "Progressive encoding and decoding of 'repeated' protobuffer fields",
+    "url": "https://schilk.co/blog/protobuffer-repeat-append/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47648854",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-04-05T12:46:02+00:00",
+    "ai_summary": "Protobuf의 '반복되는(repeated)' 필드를 위한 점진적 인코딩 및 디코딩 방식을 제안합니다.\n대량 데이터의 효율적 처리와 네트워크 전송/파싱 성능 개선을 목표로 합니다.\n백엔드 시스템 및 고성능 데이터 통신 구축에 유용한 최적화 기법입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47702196",
+    "title": "Show HN: CSS Studio. Design by hand, code by agent",
+    "url": "https://cssstudio.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=47702196",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-04-09T11:23:31+00:00",
+    "ai_summary": "CSS 디자인을 수작업으로 하면서도 AI 에이전트가 코드를 생성해주는 도구입니다.\n프론트엔드 개발자들이 효율적으로 CSS를 작성하고 디자인을 구현할 수 있도록 돕습니다.\n디자인과 코딩 과정을 통합하여 생산성을 높이는 혁신적인 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47700388",
+    "title": "Help Keep Thunderbird Alive",
+    "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47700388",
+    "summary": "",
+    "score": 493,
+    "published_at": "2026-04-09T07:27:25+00:00",
+    "ai_summary": "오픈소스 이메일 클라이언트 썬더버드의 지속적인 개발과 유지를 위한 지원 요청 기사입니다.\n이 프로젝트의 중요성과 커뮤니티의 기여 필요성을 강조하고 있습니다.\n오픈소스 소프트웨어의 생존과 발전을 위한 커뮤니티의 노력을 조명합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47711352",
+    "title": "Any Open Source projects in need of documentation writer?",
+    "url": "https://news.ycombinator.com/item?id=47711352",
+    "discussion_url": "https://news.ycombinator.com/item?id=47711352",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-04-09T22:54:32+00:00",
+    "ai_summary": "오픈소스 프로젝트에서 기술 문서 작성자를 필요로 하는지 묻는 글입니다.\n프로젝트의 사용성과 접근성을 높이는 문서화의 중요성을 강조합니다.\n개발자 커뮤니티 내에서 문서 작성 기여의 기회를 모색하는 제안입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/",
+    "title": "Introducing Learn Mode: your personal coding tutor in Google Colab (3 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/",
+    "summary": "Google Colab has enhanced its Gemini integration with Custom Instructions and Learn Mode, enabling personalized AI assistance and coding guidance. Custom Instructions allow users to adjust Gemini's behavior to fit their workflow or project needs, and Learn Mode provides step-by-step coding support instead of complete solutions. These updates enhance user control and facilitate skill-building, sharing personalized AI settings with the Colab community.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Google Colab이 Gemini 통합을 강화하여 개인화된 AI 지원과 코딩 가이드를 제공합니다. Learn Mode는 단계별 코딩 지원을 제공하며, Custom Instructions는 Gemini의 동작을 사용자 워크플로우에 맞게 조정할 수 있도록 합니다. 이 업데이트는 사용자 제어를 강화하고 기술 습득을 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/ashpreetbedi/status/2041568919085854847",
+    "title": "Systems Engineering: Building Agentic Software That Works (4 minute read)",
+    "url": "https://x.com/ashpreetbedi/status/2041568919085854847",
+    "discussion_url": "https://x.com/ashpreetbedi/status/2041568919085854847",
+    "summary": "Building reliable agentic software requires treating it as a full system, not optimizing isolated components like tools or storage. This post outlines five critical layers that must be designed together to avoid cascading constraints and failures. Using a real open-source example, it shows how structured data, enforced permissions, and consistent interfaces enable agents to improve over time and operate safely in production.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "신뢰할 수 있는 에이전트 소프트웨어를 구축하려면 개별 컴포넌트 최적화가 아닌 전체 시스템 관점에서 접근해야 합니다. 이 글은 안정적인 에이전트 시스템을 위해 함께 설계되어야 할 5가지 핵심 레이어를 설명합니다. 구조화된 데이터, 권한 강제, 일관된 인터페이스를 통해 에이전트가 개선되고 안전하게 작동할 수 있음을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive",
+    "title": "Inside the AI Industry's Most Expensive Mistake (17 minute read)",
+    "url": "https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive",
+    "discussion_url": "https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive",
+    "summary": "An internal leaderboard at Meta that ranked employees on token usage revealed that, over a 30-day period, the company used around 60 trillion tokens. It is estimated that all books published amount to about 20 trillion tokens. The AI industry seems obsessed with token spend, but the metric is easily hacked, and more token use doesn't mean more value is provided.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Meta의 내부 리더보드는 30일 동안 약 60조 토큰이 사용되었음을 보여주며, 이는 AI 업계의 과도한 토큰 사용과 비용 문제를 지적합니다. 이 기사는 토큰 사용량이라는 지표가 쉽게 조작될 수 있으며, 더 많은 토큰 사용이 반드시 더 많은 가치를 의미하지는 않는다고 비판합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/engineering/managed-agents",
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands (13 minute read)",
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "discussion_url": "https://www.anthropic.com/engineering/managed-agents",
+    "summary": "Harnesses encode assumptions about what Claude can't do on its own. These assumptions need to be frequently questioned as models improve. Anthropic built Managed Agents as a system for 'programs as yet unthought of'. It is designed to accommodate future harnesses, sandboxes, or other components around Claude.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Anthropic은 모델 개선에 맞춰 모델이 스스로 할 수 없는 것에 대한 가정을 자주 재검토해야 한다고 강조합니다. Anthropic은 '아직 생각하지 못한 프로그램'을 위한 시스템으로 Managed Agents를 구축했으며, 이는 Claude를 둘러싼 미래의 하니스, 샌드박스 등의 컴포넌트를 수용하도록 설계되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/",
+    "title": "Monarch: an API to your supercomputer (11 minute read)",
+    "url": "https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/",
+    "discussion_url": "https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/",
+    "summary": "Monarch is a distributed programming framework for PyTorch that makes running distributed training jobs on huge clusters easy. It makes clusters programmable through a simple Python API that exposes the supercomputer as a coherent, directly controllable system. Monarch is optimized for agentic usage, and it provides consistent infrastructure abstractions and exposed telemetry. It can turn a dev machine into a supercomputer, leveling up its agents.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Monarch는 PyTorch용 분산 프로그래밍 프레임워크로, 거대한 클러스터에서 분산 학습 작업을 쉽게 실행할 수 있게 합니다. 이 프레임워크는 슈퍼컴퓨터를 일관되고 직접 제어 가능한 시스템으로 노출하는 간단한 Python API를 제공합니다. Monarch는 에이전트 사용에 최적화되어 있으며, 개발 장비를 슈퍼컴퓨터로 전환하여 에이전트의 성능을 향상시킬 수 있습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/claw-eval/claw-eval",
+    "title": "Claw-Eval Benchmark for AI Agents (GitHub Repo)",
+    "url": "https://github.com/claw-eval/claw-eval",
+    "discussion_url": "https://github.com/claw-eval/claw-eval",
+    "summary": "Claw-Eval provides a human-verified benchmark for evaluating LLM agents across 139 real-world tasks using Docker sandboxes, multiple services, and structured grading.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Claw-Eval은 Docker 샌드박스, 여러 서비스, 구조화된 채점 방식을 사용하여 139개 실제 태스크에 걸쳐 LLM 에이전트를 평가하는 인간 검증 벤치마크입니다. 이는 AI 에이전트 개발자들이 모델 성능을 평가하고 비교하는 데 필수적인 신뢰할 수 있는 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/bugbot-learning",
+    "title": "Bugbot now self-improves with learned rules (3 minute read)",
+    "url": "https://cursor.com/blog/bugbot-learning",
+    "discussion_url": "https://cursor.com/blog/bugbot-learning",
+    "summary": "Bugbot's resolution rate now nears 80%, significantly outperforming other AI code review products. Bugbot harnesses real-time signals from past runs to self-improve by transforming feedback into learned rules. Over 110,000 repositories use this feature to generate over 44,000 learned rules, enhancing Bugbot's focus on specific issues and business context.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Bugbot의 문제 해결률이 80%에 육박하며 다른 AI 코드 리뷰 제품을 크게 능가합니다. Bugbot은 과거 실행의 실시간 신호를 활용하여 피드백을 학습된 규칙으로 변환함으로써 스스로 개선됩니다. 이 기능을 통해 11만 개 이상의 저장소에서 4만 4천 개 이상의 학습된 규칙이 생성되어 특정 문제와 비즈니스 컨텍스트에 더 집중할 수 있게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "title": "AI agent Poke makes setting up automations as easy as sending a text (8 minute read)",
+    "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "discussion_url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "summary": "Poke, a new AI agent accessible via text messaging apps, simplifies automation with pre-made \"recipes\" for tasks like scheduling and smart home control. Backed by $25 million in funding and valued at $300 million, Poke aims for widespread adoption by offering flexibility in pricing and encouraging user-generated automation recipes. Unlike complex systems like OpenClaw, Poke's user-friendly approach targets a broader audience without compromising on functionality.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Poke는 문자 메시지 앱을 통해 접근 가능한 AI 에이전트로, 자동화 설정을 간소화한다. $2,500만 달러 투자를 받았으며, 사전 제작된 '레시피'와 사용자 생성 자동화를 통해 광범위한 채택을 목표로 한다. 복잡한 시스템과 달리 사용자 친화적인 접근 방식으로 기능성을 유지하면서 더 넓은 사용자층을 공략한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "title": "Enterprise AI Adoption (6 minute read)",
+    "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "discussion_url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "summary": "OpenAI reported rapid enterprise growth, with AI moving beyond experimentation into core business workflows and a strategy centered on unified agents and a company-wide AI layer.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "OpenAI는 기업 AI 도입이 급증하고 있다고 보고했다. AI가 실험 단계를 넘어 핵심 비즈니스 워크플로우로 통합되고 있다. 통합 에이전트와 전사적 AI 레이어 전략을 중심으로 기업 AI 도입이 이루어진다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/",
+    "title": "Perplexity's Shift to AI Agents Boosts Revenue 50% (1 minute read)",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/",
+    "discussion_url": "https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/",
+    "summary": "Perplexity's move from AI-powered search to AI agents has reportedly paid off.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Perplexity가 AI 기반 검색에서 AI 에이전트로 전환하여 수익이 50% 증가했다. 이는 AI 에이전트 모델의 비즈니스적 성공 가능성을 보여준다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/",
+    "title": "Apple Shows Its Cards, Plans To Move The Production Of Its Upcoming Baltra ASIC In-House (2 minute read)",
+    "url": "https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/",
+    "discussion_url": "https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/",
+    "summary": "Apple has a well-established proclivity for vertical integration.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Apple이 다가오는 Baltra ASIC 생산을 자체적으로 진행할 계획이다. 이는 Apple의 수직 통합 전략의 일환이다. 하드웨어 설계 및 생산에 대한 자체 역량 강화에 초점을 맞추고 있다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents (6 minute read)",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "discussion_url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "summary": "ALTK-Evolve enhances AI agents by transforming raw agent trajectories into reusable guidelines, improving reliability in complex tasks without increasing context bloating.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "ALTK-Evolve는 AI 에이전트의 현장 학습을 강화하는 기술이다. 원시 에이전트 궤적을 재사용 가능한 가이드라인으로 변환하여 복잡한 작업에서 신뢰성을 향상시킨다. 컨텍스트 블로팅 없이 효율적으로 학습 및 개선된다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/Johnsjawn/status/2041998274346074495",
+    "title": "This will become the default way teams use Notion + Claude (1 minute read)",
+    "url": "https://x.com/Johnsjawn/status/2041998274346074495",
+    "discussion_url": "https://x.com/Johnsjawn/status/2041998274346074495",
+    "summary": "Run roadmaps and task boards inside of Notion, assign out tasks to Claude Agents, and then collaborate with the agents and team to review the work from inside of Notion all the way through to merged PRs in GitHub.",
+    "score": 0,
+    "published_at": "2026-04-09T23:38:21+00:00",
+    "ai_summary": "Notion과 Claude를 결합하여 로드맵 및 작업 보드를 관리하는 새로운 협업 방식이 제시된다. Claude 에이전트에게 작업을 할당하고, Notion 내에서 에이전트 및 팀과 협업하여 PR 병합까지 작업을 검토한다. GitHub 연동을 통해 개발 워크플로우를 효율화한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  }
+]
