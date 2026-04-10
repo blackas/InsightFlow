@@ -15,6 +15,11 @@ import requests
 from src import config
 from src.config import validate_env
 from src.ai_handler import filter_and_summarize
+from src.github_trending import (
+    TrendingRepo,
+    fetch_github_trending,
+    save_daily_trending_repos,
+)
 from src.model_tracker import (
     fetch_model_data,
     get_latest_models,
@@ -25,7 +30,7 @@ from src.notion_handler import send_to_notion
 from src.notion_model_dashboard import sync_models_to_dashboard
 from src.notion_model_handler import send_model_updates_to_notion
 from src.notifier import send_digest, send_failure_notification
-from src.scraper import scrape_all
+from src.scraper import Article, scrape_all
 from src.storage import (
     create_github_issues,
     filter_new_articles,
@@ -47,6 +52,8 @@ def setup_logging() -> None:
 
 def main(dry_run: bool = False) -> None:
     try:
+        today = datetime.now(config.KST).strftime("%Y-%m-%d")
+
         # 1. Data collection
         logger.info("Starting data collection...")
         all_articles = asyncio.run(scrape_all())
@@ -57,32 +64,32 @@ def main(dry_run: bool = False) -> None:
         new_articles = filter_new_articles(all_articles, seen_ids)
         logger.info("New articles: %d", len(new_articles))
 
-        if not new_articles:
-            logger.info("No new articles found. Exiting.")
-            return
+        processed: list[Article] = []
 
-        # 3. Keyword filter + AI summary
-        processed = filter_and_summarize(new_articles)
-        logger.info("After filtering: %d articles", len(processed))
+        if new_articles:
+            # 3. Keyword filter + AI summary
+            processed = filter_and_summarize(new_articles)
+            logger.info("After filtering: %d articles", len(processed))
 
-        # 4. Save data
-        today = datetime.now().strftime("%Y-%m-%d")
-        save_daily_articles(processed, today)
-        save_seen_ids(seen_ids)
+            # 4. Save data
+            save_daily_articles(processed, today)
+            save_seen_ids(seen_ids)
 
-        # 5. GitHub Issues
-        if not dry_run:
-            create_github_issues(processed)
-            logger.info("GitHub Issues created")
+            # 5. GitHub Issues
+            if not dry_run:
+                create_github_issues(processed)
+                logger.info("GitHub Issues created")
+            else:
+                logger.info("[DRY RUN] GitHub Issues creation skipped")
+
+            # 6. Notion
+            if not dry_run:
+                send_to_notion(processed)
+                logger.info("Notion database updated")
+            else:
+                logger.info("[DRY RUN] Notion update skipped")
         else:
-            logger.info("[DRY RUN] GitHub Issues creation skipped")
-
-        # 6. Notion
-        if not dry_run:
-            send_to_notion(processed)
-            logger.info("Notion database updated")
-        else:
-            logger.info("[DRY RUN] Notion update skipped")
+            logger.info("No new articles found. Continuing to model tracker.")
 
         # 7. Model Tracker
         model_updates: dict[str, list[dict[str, object]]] | None = None
@@ -129,9 +136,26 @@ def main(dry_run: bool = False) -> None:
         ):
             logger.exception("Model dashboard sync failed (non-fatal)")
 
+        # 7.7 GitHub Trending — Telegram + JSON snapshot only
+        trending_repos: list[TrendingRepo] = []
+        try:
+            trending_repos = fetch_github_trending()
+            if trending_repos:
+                save_daily_trending_repos(trending_repos, today)
+                logger.info("Saved %d GitHub Trending repos", len(trending_repos))
+            else:
+                logger.info("No GitHub Trending repos collected")
+        except Exception:
+            logger.exception("GitHub Trending tracking failed (non-fatal)")
+
         # 8. Telegram digest
         if not dry_run:
-            send_digest(processed, model_updates=model_updates)
+            if not send_digest(
+                processed,
+                model_updates=model_updates,
+                trending_repos=trending_repos,
+            ):
+                raise RuntimeError("Telegram digest failed")
             logger.info("Telegram digest sent")
         else:
             logger.info("[DRY RUN] Telegram send skipped")

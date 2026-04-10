@@ -1,8 +1,20 @@
 """Tests for src.main pipeline orchestration."""
 
-from unittest.mock import MagicMock, call, patch
+from unittest.mock import ANY, MagicMock, call, patch
 
 import pytest
+
+from src import config
+
+
+@pytest.fixture(autouse=True)
+def mock_github_trending_pipeline():
+    """Keep main.py orchestration tests isolated from GitHub Trending network I/O."""
+    with (
+        patch("src.main.fetch_github_trending", return_value=[]),
+        patch("src.main.save_daily_trending_repos"),
+    ):
+        yield
 
 
 class TestSeenIdsSaveTiming:
@@ -298,3 +310,288 @@ class TestModelDashboardIntegration:
 
         mock_get_latest.assert_called_once()
         mock_sync_dashboard.assert_called_once_with([{"model_id": "m1"}])
+
+
+class TestPipelineResilience:
+    @patch("src.main.send_digest")
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_model_tracker_runs_when_no_new_articles(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        sample_articles,
+    ):
+        from src.main import main
+
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = {"hackernews:12345"}
+        mock_filter_new.return_value = []
+        mock_fetch_model.return_value = [{"model_id": "m1", "name": "Model 1"}]
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
+
+        main(dry_run=True)
+
+        mock_filter_summarize.assert_not_called()
+        mock_save_daily.assert_not_called()
+        mock_save_seen.assert_not_called()
+        mock_fetch_model.assert_called_once()
+        mock_save_snapshots.assert_called_once()
+        mock_get_model_updates.assert_called_once()
+        mock_get_latest.assert_called_once()
+
+    @patch("src.main.datetime")
+    @patch("src.main.send_digest")
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_pipeline_date_uses_kst(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        mock_datetime,
+        sample_articles,
+    ):
+        from src.main import main
+
+        mock_datetime.now.return_value.strftime.return_value = "2026-04-11"
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = set()
+        mock_filter_new.return_value = sample_articles
+        mock_filter_summarize.return_value = sample_articles
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
+
+        main(dry_run=True)
+
+        mock_datetime.now.assert_called_once_with(config.KST)
+        mock_save_daily.assert_called_once_with(sample_articles, "2026-04-11")
+        mock_save_snapshots.assert_called_once_with(
+            mock_fetch_model.return_value,
+            "2026-04-11",
+        )
+        mock_get_latest.assert_called_once_with("2026-04-11")
+
+    @patch("src.main.send_failure_notification")
+    @patch("src.main.send_digest", return_value=False)
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_telegram_false_result_raises(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        mock_send_failure,
+        sample_articles,
+    ):
+        from src.main import main
+
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = set()
+        mock_filter_new.return_value = sample_articles
+        mock_filter_summarize.return_value = sample_articles
+        mock_get_model_updates.return_value = {
+            "new_models": [],
+            "rank_changes": [],
+            "price_changes": [],
+        }
+
+        with pytest.raises(RuntimeError, match="Telegram digest failed"):
+            main(dry_run=False)
+
+        mock_send_failure.assert_called_once()
+
+    @patch("src.main.fetch_github_trending")
+    @patch("src.main.save_daily_trending_repos")
+    @patch("src.main.send_digest", return_value=True)
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_github_trending_is_passed_to_digest(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        mock_save_trending,
+        mock_fetch_trending,
+        sample_articles,
+    ):
+        from src.main import main
+
+        model_updates = {"new_models": [], "rank_changes": [], "price_changes": []}
+        trending_repos = [{"name": "owner/repo"}]
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = set()
+        mock_filter_new.return_value = sample_articles
+        mock_filter_summarize.return_value = sample_articles
+        mock_get_model_updates.return_value = model_updates
+        mock_fetch_trending.return_value = trending_repos
+
+        main(dry_run=False)
+
+        mock_fetch_trending.assert_called_once()
+        mock_save_trending.assert_called_once_with(trending_repos, ANY)
+        mock_send_digest.assert_called_once_with(
+            sample_articles,
+            model_updates=model_updates,
+            trending_repos=trending_repos,
+        )
+
+    @patch("src.main.fetch_github_trending", side_effect=RuntimeError("selectors"))
+    @patch("src.main.save_daily_trending_repos")
+    @patch("src.main.send_digest", return_value=True)
+    @patch("src.main.sync_models_to_dashboard", return_value=0)
+    @patch("src.main.get_latest_models", return_value=[])
+    @patch("src.main.send_model_updates_to_notion", return_value=0)
+    @patch("src.main.send_to_notion")
+    @patch("src.main.create_github_issues")
+    @patch("src.main.save_seen_ids")
+    @patch("src.main.save_daily_articles")
+    @patch("src.main.filter_and_summarize")
+    @patch("src.main.filter_new_articles")
+    @patch("src.main.load_seen_ids")
+    @patch("src.main.scrape_all")
+    @patch("src.main.fetch_model_data")
+    @patch("src.main.save_model_snapshots")
+    @patch("src.main.get_model_updates")
+    def test_github_trending_failure_is_non_fatal(
+        self,
+        mock_get_model_updates,
+        mock_save_snapshots,
+        mock_fetch_model,
+        mock_scrape,
+        mock_load_seen,
+        mock_filter_new,
+        mock_filter_summarize,
+        mock_save_daily,
+        mock_save_seen,
+        mock_create_issues,
+        mock_send_notion,
+        mock_send_model_notion,
+        mock_get_latest,
+        mock_sync_dashboard,
+        mock_send_digest,
+        mock_save_trending,
+        mock_fetch_trending,
+        sample_articles,
+    ):
+        from src.main import main
+
+        model_updates = {"new_models": [], "rank_changes": [], "price_changes": []}
+        mock_scrape.return_value = sample_articles
+        mock_load_seen.return_value = set()
+        mock_filter_new.return_value = sample_articles
+        mock_filter_summarize.return_value = sample_articles
+        mock_get_model_updates.return_value = model_updates
+
+        main(dry_run=False)
+
+        mock_save_trending.assert_not_called()
+        mock_send_digest.assert_called_once_with(
+            sample_articles,
+            model_updates=model_updates,
+            trending_repos=[],
+        )
