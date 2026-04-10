@@ -6,7 +6,7 @@
 
 ## 1. Project Summary
 
-InsightFlow is a **serverless AI tech news tracker** that runs daily via GitHub Actions (08:00 KST). It scrapes articles from 3 sources, summarizes them with Gemini AI, tracks AI model performance/pricing, and delivers results to Telegram + Notion.
+InsightFlow is a **serverless AI tech news tracker** that runs daily via GitHub Actions (08:00 KST). It scrapes articles from 3 sources, summarizes them with Gemini AI, tracks GitHub Trending repositories and AI model performance/pricing, and delivers results to Telegram + Notion.
 
 - **Language**: Python 3.11+ (typed, `from __future__ import annotations`)
 - **Package Manager**: `uv` (lockfile: `uv.lock`)
@@ -22,6 +22,7 @@ src/
 ├── main.py                    # Orchestrator — 8-step sequential pipeline
 ├── config.py                  # Module-level constants + env vars (no classes)
 ├── scraper.py                 # Article dataclass + 3 fetchers (GeekNews/HN/TLDR)
+├── github_trending.py         # GitHub Trending repos + daily JSON snapshots
 ├── storage.py                 # JSON persistence + dedup (seen_ids.json) + GitHub Issues
 ├── ai_handler.py              # Gemini batch summarization + keyword filter
 ├── model_tracker.py           # Artificial Analysis API + SQLite snapshots + change detection
@@ -42,6 +43,7 @@ tests/
 ├── test_main.py               # Pipeline orchestration tests
 ├── test_scraper.py            # Scraper config + asyncio usage
 ├── test_scraper_behavior.py   # Scraper behavioral tests
+├── test_github_trending.py    # GitHub Trending parsing + storage
 ├── test_ai_handler.py         # Batch separation by source
 ├── test_storage.py            # Storage operations
 ├── test_notifier.py           # Telegram formatting + escape edge cases
@@ -65,6 +67,7 @@ tests/
 7. Model tracker pipeline          → fetch → SQLite snapshot → change detection
    7.5 send_model_updates_to_notion()  → [skipped in dry_run]
    7.6 sync_models_to_dashboard()      → [skipped in dry_run]
+   7.7 fetch_github_trending() + save_daily_trending_repos()
 8. send_digest()                   → Telegram [skipped in dry_run]
 ```
 
@@ -117,6 +120,7 @@ class Article:
 | **GeekNews** | `scraper.py` | Atom RSS feed via `feedparser` | 24-hour cutoff filter |
 | **TLDR AI** | `scraper.py` | HTML scraping via `beautifulsoup4` | Filters by section names; strips UTM params |
 | **GitHub** | `storage.py`, `blog_builder.py` | REST API (Issues), `gh` CLI | 5 issues/run max |
+| **GitHub Trending** | `github_trending.py` | HTML scraping via `beautifulsoup4` | Top 10 repos; Telegram + JSON snapshot only |
 | **Cloudflare Worker** | `worker/index.js` | GitHub API PATCH | Closes issues on "읽음" button click |
 
 ---
@@ -256,6 +260,7 @@ Tests for `main.py` must mock ALL of these (or they make real API calls):
 - `filter_and_summarize`, `create_github_issues`, `send_to_notion`
 - `fetch_model_data`, `save_model_snapshots`, `get_model_updates`
 - `get_latest_models`, `sync_models_to_dashboard`
+- `fetch_github_trending`, `save_daily_trending_repos`
 - `send_model_updates_to_notion`, `send_digest`, `send_failure_notification`
 
 ### Running Tests
@@ -314,6 +319,7 @@ uv run pytest tests/test_foo.py  # Single file
 |------|--------|---------|
 | `data/seen_ids.json` | JSON array (sorted strings) | Deduplication tracking |
 | `data/YYYY/MM/DD.json` | JSON array of article dicts | Daily article archive |
+| `data/github_trending/YYYY/MM/DD.json` | JSON array of repo dicts | Daily GitHub Trending snapshot |
 | `data/models.db` | SQLite | Model tracker snapshots (PK: `model_id + fetched_at`) |
 
 ---
