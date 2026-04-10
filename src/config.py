@@ -96,6 +96,10 @@ TLDR_SECTIONS = frozenset(
     }
 )
 
+# GitHub Trending Configuration
+GITHUB_TRENDING_URL = "https://github.com/trending"
+GITHUB_TRENDING_COUNT = 10
+
 # Artificial Analysis Configuration
 ARTIFICIAL_ANALYSIS_API_KEY = os.getenv("ARTIFICIAL_ANALYSIS_API_KEY")
 ARTIFICIAL_ANALYSIS_API_URL = "https://artificialanalysis.ai/api/v2/data/llms/models"
