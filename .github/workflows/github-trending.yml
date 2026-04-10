@@ -1,0 +1,49 @@
+name: GitHub Trending Digest
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: github-trending-digest
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  send-trending:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python 3.11
+        run: uv python install 3.11
+
+      - name: Install Dependencies
+        run: uv sync
+
+      - name: Send GitHub Trending Digest
+        env:
+          DRY_RUN: "false"
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          uv run python -c "
+          from src.github_trending import fetch_github_trending
+          from src.notifier import send_digest
+
+          repos = fetch_github_trending(count=10)
+          if not repos:
+              raise SystemExit('No GitHub Trending repositories parsed; skipping Telegram send')
+
+          if not send_digest([], trending_repos=repos):
+              raise SystemExit('Telegram send failed')
+          "
