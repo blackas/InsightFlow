@@ -1,6 +1,9 @@
 """Tests for notifier module - message formatting and URL escaping."""
 
-from src.notifier import _escape_md, _escape_url, format_digest
+from unittest.mock import patch
+
+from src.github_trending import TrendingRepo
+from src.notifier import _escape_md, _escape_url, format_digest, send_digest
 
 
 def test_format_digest_with_new_models(sample_article, sample_model_updates):
@@ -36,6 +39,95 @@ def test_format_digest_with_all_model_updates(sample_article, sample_model_updat
     assert "GPT" in result
     assert "Claude" in result
     assert "Turbo" in result
+
+
+def test_format_digest_with_model_updates_only(sample_model_updates):
+    """format_digest should include model updates even when there are no articles."""
+    result = format_digest([], model_updates=sample_model_updates)
+    assert "InsightFlow Daily Digest" in result
+    assert "AI Model Updates" in result
+    assert "GPT" in result
+
+
+@patch("src.notifier.send_telegram", return_value=True)
+def test_send_digest_sends_model_updates_without_articles(
+    mock_send_telegram, sample_model_updates
+):
+    """send_digest must not return early when only model updates exist."""
+    result = send_digest([], model_updates=sample_model_updates)
+    assert result is True
+    mock_send_telegram.assert_called_once()
+
+
+@patch("src.notifier.send_telegram")
+def test_send_digest_skips_when_no_articles_or_model_updates(mock_send_telegram):
+    """send_digest should only skip when there is no article or model update content."""
+    result = send_digest([], model_updates=None)
+    assert result is True
+    mock_send_telegram.assert_not_called()
+
+
+def test_format_digest_with_github_trending_only():
+    """format_digest should include GitHub Trending repos without articles."""
+    repos = [
+        TrendingRepo(
+            name="owner/repo.name",
+            url="https://github.com/owner/repo.name",
+            description="Build AI tools faster",
+            language="Python",
+            stars=12345,
+            today_stars=678,
+            forks=90,
+        )
+    ]
+
+    result = format_digest([], trending_repos=repos)
+
+    assert "GitHub Trending" in result
+    assert "owner/repo\\.name" in result
+    assert "12,345" in result
+    assert "\\+678 today" in result
+    assert "Python" in result
+
+
+def test_format_digest_with_github_trending_without_language():
+    repos = [
+        TrendingRepo(
+            name="owner/repo",
+            url="https://github.com/owner/repo",
+            description="No language repo",
+            language=None,
+            stars=1,
+            today_stars=1,
+            forks=0,
+        )
+    ]
+
+    result = format_digest([], trending_repos=repos)
+
+    assert "No language repo" in result
+    assert "None" not in result
+
+
+@patch("src.notifier.send_telegram", return_value=True)
+def test_send_digest_sends_github_trending_without_articles(mock_send_telegram):
+    repos = [
+        TrendingRepo(
+            name="owner/repo",
+            url="https://github.com/owner/repo",
+            description="Description",
+            language="Rust",
+            stars=5,
+            today_stars=2,
+            forks=1,
+        )
+    ]
+
+    result = send_digest([], trending_repos=repos)
+
+    assert result is True
+    mock_send_telegram.assert_called_once()
+
 
 def test_format_digest_with_none_creator(sample_article):
     """format_digest must handle model updates where 'creator' is None (from API)."""

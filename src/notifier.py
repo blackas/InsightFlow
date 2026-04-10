@@ -9,6 +9,7 @@ from typing import Any
 import requests
 
 from src import config
+from src.github_trending import TrendingRepo
 from src.scraper import Article
 
 logger = logging.getLogger(__name__)
@@ -18,6 +19,7 @@ def _escape_md(text: str | None) -> str:
     if text is None:
         return ""
     return re.sub(r"([_*\[\]()~`>#+\-=|{}.!\\])", r"\\\1", str(text))
+
 
 def _escape_url(url: str | None) -> str:
     """Escape a URL for use inside MarkdownV2 inline links.
@@ -30,9 +32,11 @@ def _escape_url(url: str | None) -> str:
         return ""
     return str(url).replace("\\", "\\\\").replace(")", "\\)")
 
+
 def format_digest(
     articles: list[Article],
     model_updates: dict[str, list[dict[str, Any]]] | None = None,
+    trending_repos: list[TrendingRepo] | None = None,
 ) -> str:
     """Format articles into a Telegram MarkdownV2 daily digest, grouped by source."""
     now = datetime.now(timezone.utc)
@@ -115,6 +119,36 @@ def format_digest(
                     lines.append(
                         f"💰 {model_name}: \\${old_price} → \\${new_price} \\({change_pct}%\\)\n"
                     )
+
+    if trending_repos:
+        lines.append(_format_trending(trending_repos))
+
+    return "\n".join(lines)
+
+
+def _format_trending(repos: list[TrendingRepo]) -> str:
+    """Format GitHub Trending repositories as a Telegram MarkdownV2 section."""
+    if not repos:
+        return ""
+
+    lines: list[str] = ["🔥 *GitHub Trending*\n"]
+    for index, repo in enumerate(repos, 1):
+        name = _escape_md(repo.name)
+        url = _escape_url(repo.url)
+        description = _escape_md(repo.description)
+        stars = _escape_md(f"{repo.stars:,}")
+        today_stars = _escape_md(f"+{repo.today_stars:,} today")
+
+        detail_parts = []
+        if repo.language:
+            detail_parts.append(_escape_md(repo.language))
+        if description:
+            detail_parts.append(description)
+        detail = " \\| ".join(detail_parts)
+
+        lines.append(
+            f"{index}\\. [{name}]({url}) ⭐ {stars} \\({today_stars}\\)\n{detail}\n"
+        )
 
     return "\n".join(lines)
 
@@ -208,13 +242,27 @@ def send_telegram(text: str) -> bool:
 def send_digest(
     articles: list[Article],
     model_updates: dict[str, list[dict[str, Any]]] | None = None,
+    trending_repos: list[TrendingRepo] | None = None,
 ) -> bool:
     """Format articles into digest, chunk, and send via Telegram (1s between chunks)."""
-    if not articles:
-        logger.info("No articles to send in digest")
+    has_model_updates = bool(
+        model_updates
+        and (
+            model_updates.get("new_models")
+            or model_updates.get("rank_changes")
+            or model_updates.get("price_changes")
+        )
+    )
+    has_trending = bool(trending_repos)
+    if not articles and not has_model_updates and not has_trending:
+        logger.info("No articles, model updates, or GitHub Trending repos to send")
         return True
 
-    text = format_digest(articles, model_updates)
+    text = format_digest(
+        articles,
+        model_updates,
+        trending_repos=trending_repos,
+    )
     chunks = chunk_message(text)
 
     logger.info(

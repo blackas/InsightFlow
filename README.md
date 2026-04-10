@@ -49,7 +49,8 @@ graph TD
 8. **AI 모델 트래킹**: Artificial Analysis API → SQLite 스냅샷 → 변동 감지
 9. **모델 변동 사항**은 별도 Notion "AI Model Tracker" DB에 기록
 10. **AI 모델 현황 대시보드**: 모든 모델 스냅샷 → Notion "AI 모델 현황" DB에 upsert (매일 업데이트)
-11. **텔레그램**으로 뉴스 다이제스트 + 모델 업데이트 발송
+11. **GitHub Trending** 인기 리포지토리 Top 10 스냅샷 저장
+12. **텔레그램**으로 뉴스 다이제스트 + 모델 업데이트 + GitHub Trending 발송
 
 ## 📦 모듈 구성
 
@@ -57,6 +58,7 @@ graph TD
 |------|------|
 | `config.py` | 설정값 및 환경변수 관리 |
 | `scraper.py` | GeekNews Atom 피드 + HN API + TLDR AI 뉴스레터 수집 |
+| `github_trending.py` | GitHub Trending 리포지토리 수집 + 일일 스냅샷 저장 |
 | `model_tracker.py` | Artificial Analysis API 연동 + SQLite 스냅샷 + 변동 감지 |
 | `ai_handler.py` | Gemini 2.5 Flash 배치 요약 + 관련성 점수 + 태그 분류 |
 | `storage.py` | JSON 저장 + 중복 방지 + GitHub Issues 생성 |
