@@ -1,0 +1,554 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28661",
+    "title": "Show GN: oh-my-customcode — Claude Code 에이전트를 &quot;설정&quot;이 아니라 &quot;컴파일&quot;하는 툴",
+    "url": "https://news.hada.io/topic?id=28661",
+    "discussion_url": "https://news.hada.io/topic?id=28661",
+    "summary": "Claude Code로 에이전트 여러 개 붙여 쓰다 보면 같은 벽에 계속 부딪힙니다.\n스킬 문서 쓰고, 에이전트 YAML 붙이고, 룰 꽂고, 라우팅 엮고,\n충돌 나면 CLAUDE.md 직접 손보고. 프로젝트 바꿀 때마다 이걸 또 하고 있더군요.\n그래서 oh-my-customcode를 만들었습니다.\nREADME 최상단 한 줄",
+    "score": 0,
+    "published_at": "2026-04-18T14:56:10+00:00",
+    "ai_summary": "Claude Code 에이전트 개발 시 반복되는 설정 및 충돌 해결의 어려움을 겪는 개발자들을 위한 툴입니다.\n스킬 문서, YAML, 라우팅 등 복잡한 과정을 자동화하여 에이전트 \"컴파일\"하듯이 관리할 수 있게 돕습니다.\n이를 통해 프로젝트 변경 시마다 수동으로 CLAUDE.md를 수정하는 번거로움을 줄여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28660",
+    "title": "Show GN: Contexty — AI의 컨텍스트를 개발자가 직접 보고 통제할 수 있게 해주는 도구",
+    "url": "https://news.hada.io/topic?id=28660",
+    "discussion_url": "https://news.hada.io/topic?id=28660",
+    "summary": "&quot;왜 당신의 AI는 항상 소문보다 멍청하다고 느껴지는가&quot;\n\n\n컨텍스트가 쌓일수록 모델 성능이 점점 떨어지는 느낌\n새 채팅으로 넘어가면 이전 전제를 매번 설명해야 하는 번거로움\n/compact를 쓰면 너무 많은 컨텍스트를 잃어버림</l",
+    "score": 0,
+    "published_at": "2026-04-18T13:48:23+00:00",
+    "ai_summary": "AI 모델의 컨텍스트 관리 문제를 해결하기 위한 개발자 도구 Contexty를 소개합니다.\n컨텍스트 누적으로 인한 모델 성능 저하와 매번 이전 전제를 설명해야 하는 번거로움을 해결합니다.\n개발자가 AI의 컨텍스트를 직접 확인하고 통제하여 효율적인 AI 상호작용을 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28658",
+    "title": "Qwen3.5 모델 양자화, 왜 커뮤니티 버전은 성능이 떨어지나",
+    "url": "https://news.hada.io/topic?id=28658",
+    "discussion_url": "https://news.hada.io/topic?id=28658",
+    "summary": "AI 모델을 더 작고 빠르게 압축하는 기술인 '양자화(quantization)'에서 커뮤니티가 배포한 MLX 포맷 Qwen3.5 모델들이 도구 호출 오류, 무의미한 출력, 환각(hallucination) 현상을 보이는 원인이 기술적으로 규명됐다. AI 파인튜닝 도구 업체 Unsloth가 150개 이상의 벤치마크 실험을 통해 원인과 해법을 제시한 내...",
+    "score": 0,
+    "published_at": "2026-04-18T12:35:40+00:00",
+    "ai_summary": "Qwen3.5 모델의 커뮤니티 양자화 버전에서 성능 저하 및 오류가 발생하는 기술적 원인이 규명되었습니다.\nAI 모델을 작고 빠르게 압축하는 '양자화' 과정에서 발생하는 문제로, Unsloth가 150개 벤치마크를 통해 분석했습니다.\n이 연구는 AI 모델 최적화 및 파인튜닝 과정에서 발생하는 환각 등의 문제를 해결하는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28653",
+    "title": "AI 코딩 시대, 성장이 멈추는 개발자의 뇌에서 일어나는 일",
+    "url": "https://news.hada.io/topic?id=28653",
+    "discussion_url": "https://news.hada.io/topic?id=28653",
+    "summary": "TL;DR;\n\nAI를 잘 쓰는 핵심 역량은 출력물의 품질을 판단하고 교정하는 능력이며, 이 능력은 AI에 의존할수록 오히려 약화됨\nBjork의 &quot;바람직한 어려움&quot; 이론에 따르면, 쉽게 처리한 정보는 장기 기억에 남지 않음\nRoediger &amp; Karpicke(2006) 연구에서 인출 연습 그룹...",
+    "score": 0,
+    "published_at": "2026-04-18T07:08:47+00:00",
+    "ai_summary": "AI 코딩 시대에 개발자의 성장이 멈출 수 있는 심리적, 학습적 메커니즘을 분석합니다.\nAI 출력물 판단 및 교정 능력은 핵심이지만, AI 의존 심화 시 이 역량이 약화될 수 있음을 지적합니다.\n'바람직한 어려움' 이론을 바탕으로 능동적인 학습의 중요성을 제시하며 개발자 역량 강화를 촉구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28651",
+    "title": "Show GN: 웹 Gemini를 VSCode처럼 - Gemini VSCode Theme 크롬 익스텐션",
+    "url": "https://news.hada.io/topic?id=28651",
+    "discussion_url": "https://news.hada.io/topic?id=28651",
+    "summary": "안녕하세요,\n웹 Gemini (https://gemini.google.com/) 인터페이스 자체를 VS Code처럼 바꿔버리는 익스텐션을 만들어 보았습니다.\n주요 기능:\n• VS Code Dark+ 테마 - 익숙한 색상 팔레트 그대로\n• 라인 넘버 - 모든 코드 블록에 자동 거터 번호 표시\n• 액티비티 바 &amp; 사이드",
+    "score": 0,
+    "published_at": "2026-04-18T02:59:10+00:00",
+    "ai_summary": "웹 Gemini 인터페이스를 VS Code처럼 보이도록 바꿔주는 크롬 익스텐션을 소개합니다.\n익숙한 VS Code Dark+ 테마와 코드 블록 라인 넘버 기능을 제공합니다.\n개발자들이 AI 도구를 더 친숙하고 효율적으로 사용할 수 있도록 시각적 환경을 개선합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28650",
+    "title": "Is Your Site Agent-Ready? - 당신의 사이트는 에이전트에 대응하나요?",
+    "url": "https://news.hada.io/topic?id=28650",
+    "discussion_url": "https://news.hada.io/topic?id=28650",
+    "summary": "Cloudflare가 만든 도구로, 자신의 웹사이트가 에이전트에 얼마나 적합한지 점수로 표시\nAI 에이전트 대응 수준을 진단하고 인증·콘텐츠 포맷·접근 제어·결제 방식 등 최적화 방향 확인 가능\n실패 항목마다 코딩 에이전트에게 바로 전달 가능한 프...",
+    "score": 0,
+    "published_at": "2026-04-18T02:44:22+00:00",
+    "ai_summary": "Cloudflare가 제공하는 'Is Your Site Agent-Ready?' 도구는 웹사이트가 AI 에이전트에 얼마나 잘 대응하는지 진단합니다.\n이 도구는 인증, 콘텐츠 포맷, 접근 제어, 결제 방식 등 AI 에이전트 최적화 방향을 제시하며 점수로 표시합니다.\n개발자들이 웹사이트를 AI 시대에 맞춰 준비하고 개선하는 데 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28649",
+    "title": "Show GN: Nilbox – API 토큰 노출 없이 OpenClaw를 실행하세요",
+    "url": "https://news.hada.io/topic?id=28649",
+    "discussion_url": "https://news.hada.io/topic?id=28649",
+    "summary": "OpenClaw를 안전하게 쓰고 싶어서 만들었습니다. 문제는 어떤 샌드박스를 써도\n실제 API 토큰이 환경 변수로 에이전트에 그대로 넘어간다는 거였습니다.\nNilbox는 에이전트에게 실제 토큰을 주지 않습니다. 대신 가짜 플레이스홀더를 넘기고\n(ANTHROPIC_API_KEY=ANTHROPIC_API_KEY), 실제 API 호출",
+    "score": 0,
+    "published_at": "2026-04-18T02:27:22+00:00",
+    "ai_summary": "Nilbox는 AI 에이전트(OpenClaw) 사용 시 API 토큰 노출 문제를 해결하기 위한 보안 도구입니다.\n기존 샌드박스 환경에서 실제 토큰이 그대로 노출되는 문제를 해결하고자 개발되었습니다.\n에이전트에게 가짜 플레이스홀더를 제공하여 실제 API 호출 시 토큰을 안전하게 관리할 수 있게 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28648",
+    "title": "미국 법안, 모든 기기에 온디바이스 연령 확인 의무화",
+    "url": "https://news.hada.io/topic?id=28648",
+    "discussion_url": "https://news.hada.io/topic?id=28648",
+    "summary": "Parents Decide Act(H.R. 8250) 는 모든 운영체제 제공자가 신규 기기 설정 시 사용자 생년월일 입력을 요구하도록 의무화함\nApple·Google뿐 아니라 노트북, 콘솔, 스마트 TV, 차량 시스템 등 모든 범용 컴퓨팅...",
+    "score": 0,
+    "published_at": "2026-04-18T00:40:57+00:00",
+    "ai_summary": "미국 'Parents Decide Act' 법안은 모든 운영체제 제공자에게 신규 기기 설정 시 사용자 생년월일 입력을 의무화합니다.\nApple, Google뿐만 아니라 노트북, 콘솔, 스마트 TV, 차량 시스템 등 광범위한 컴퓨팅 기기에 적용될 예정입니다.\n이는 온디바이스 연령 확인 시스템 개발 및 프라이버시, 규제 준수 측면에서 개발자들에게 중요한 영향을 미칠 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28645",
+    "title": "Gemma Gem - 브라우저에서 Google Gemma 4 모델을 완전 온디바이스로 실행하는 Chrome 확장",
+    "url": "https://news.hada.io/topic?id=28645",
+    "discussion_url": "https://news.hada.io/topic?id=28645",
+    "summary": "Google의 Gemma 4 모델을 WebGPU 기반으로 완전 온디바이스 실행해서 브라우저 안에 상주하는 개인 AI 어시스턴트로 활용\nAPI 키·클라우드·외부 데이터 전송 없음 - 모든 추론이 로컬에서 처리되며 데이터가 기기를 벗어나지 않...",
+    "score": 0,
+    "published_at": "2026-04-18T00:31:02+00:00",
+    "ai_summary": "Google Gemma 4 모델을 WebGPU 기반으로 브라우저에서 온디바이스 실행하는 Chrome 확장 프로그램입니다.\nAPI 키나 클라우드 없이 모든 AI 추론이 로컬에서 처리되어 개인 정보 보호에 강합니다.\n개발자들이 브라우저 기반 AI 어시스턴트를 만들거나 활용하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47816960",
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "url": "https://tokens.billchambers.me/leaderboard",
+    "discussion_url": "https://news.ycombinator.com/item?id=47816960",
+    "summary": "",
+    "score": 387,
+    "published_at": "2026-04-18T16:05:43+00:00",
+    "ai_summary": "이 기사는 Opus 4.6과 4.7 버전 간의 익명 요청 토큰을 비교 분석합니다.\n이는 API 호출의 효율성, 보안 또는 성능과 관련된 중요한 변화를 다룰 수 있습니다.\n개발자들은 버전 업그레이드시 토큰 처리 방식의 변화를 이해하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47818700",
+    "title": "Thoughts and feelings around Claude Design",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47818700",
+    "summary": "",
+    "score": 182,
+    "published_at": "2026-04-18T19:19:24+00:00",
+    "ai_summary": "이 기사는 AI 챗봇 'Claude'의 디자인 철학과 사용자 경험에 대한 다양한 생각과 감정을 탐구합니다.\nAI 제품의 인터페이스, 상호작용 방식, 사용자 인상 등 UX/UI 디자인 측면을 다룹니다.\nAI 기반 서비스 개발자 및 디자이너에게 유용한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47819369",
+    "title": "Optimizing Ruby Path Methods",
+    "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47819369",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-04-18T20:42:29+00:00",
+    "ai_summary": "이 기사는 Ruby 언어에서 경로(Path) 관련 메서드를 최적화하는 방법을 다룹니다.\nRuby 애플리케이션의 성능을 향상시키기 위한 구체적인 기술과 팁을 제공합니다.\nRuby 개발자들에게 코드 효율성 및 실행 속도 개선에 실질적인 도움을 줄 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47779659",
+    "title": "Modern Common Lisp with FSet",
+    "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47779659",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-04-15T14:38:38+00:00",
+    "ai_summary": "이 기사는 Common Lisp 언어에서 FSet 라이브러리를 활용하여 현대적인 프로그래밍 방식을 소개합니다.\n불변(immutable) 데이터 구조를 사용하여 함수형 프로그래밍 스타일을 강화하는 방법을 다룹니다.\nCommon Lisp 개발자들이 더욱 효율적이고 견고한 코드를 작성하는 데 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47815774",
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47815774",
+    "summary": "",
+    "score": 653,
+    "published_at": "2026-04-18T13:29:04+00:00",
+    "ai_summary": "이 기사는 클라우드 서비스 제공업체를 DigitalOcean에서 Hetzner로 마이그레이션하는 과정을 다룹니다.\n인프라 이전의 절차, 고려사항, 그리고 발생할 수 있는 문제점과 해결책을 공유합니다.\n클라우드 인프라를 관리하거나 이전하려는 DevOps 및 개발자에게 실용적인 가이드가 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47815118",
+    "title": "State of Kdenlive",
+    "url": "https://kdenlive.org/news/2026/state-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47815118",
+    "summary": "",
+    "score": 323,
+    "published_at": "2026-04-18T11:42:37+00:00",
+    "ai_summary": "Kdenlive는 오픈소스 비디오 편집 소프트웨어의 현황을 다루는 기사입니다.\n개발 현황, 새로운 기능, 버그 수정 및 향후 계획 등이 포함될 것으로 예상됩니다.\n영상 편집 도구 및 오픈소스 프로젝트에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47782925",
+    "title": "Michael Rabin has died",
+    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+    "discussion_url": "https://news.ycombinator.com/item?id=47782925",
+    "summary": "",
+    "score": 377,
+    "published_at": "2026-04-15T18:07:46+00:00",
+    "ai_summary": "컴퓨터 과학 분야의 저명한 학자인 마이클 라빈의 부고 소식입니다.\n그는 라빈-카프 알고리즘 및 라빈 암호 시스템 등 중요한 이론적 기여로 알려져 있습니다.\n컴퓨터 과학의 역사와 이론적 기초에 관심 있는 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47816629",
+    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+    "url": "https://github.com/drasimwagan/mdv",
+    "discussion_url": "https://news.ycombinator.com/item?id=47816629",
+    "summary": "",
+    "score": 82,
+    "published_at": "2026-04-18T15:24:39+00:00",
+    "ai_summary": "MDV는 문서, 대시보드, 슬라이드를 위한 마크다운 확장 언어(superset)입니다.\n데이터를 활용하여 다양한 형태로 정보를 표현하고 공유하는 도구로 개발되었습니다.\n개발자들이 효율적인 문서화, 보고서 및 프레젠테이션 제작에 활용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47804423",
+    "title": "Floating Point Fun on Cortex-M Processors",
+    "url": "https://danielmangum.com/posts/floating-point-cortex-m/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47804423",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-04-17T10:32:49+00:00",
+    "ai_summary": "Cortex-M 프로세서에서 부동 소수점 연산의 특징과 재미있는 부분들을 탐구하는 기사입니다.\n하드웨어 수준에서의 부동 소수점 처리 방식과 최적화 방안 등을 다룰 것으로 예상됩니다.\n임베디드 시스템, 저수준 프로그래밍, 성능 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47817349",
+    "title": "PgQue: Zero-Bloat Postgres Queue",
+    "url": "https://github.com/NikolayS/pgque",
+    "discussion_url": "https://news.ycombinator.com/item?id=47817349",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-04-18T16:50:46+00:00",
+    "ai_summary": "PgQue는 PostgreSQL 데이터베이스를 활용한 경량의 메시지 큐 시스템입니다.\n'제로 블로트(Zero-Bloat)'를 내세워 효율적이고 깔끔한 구현을 강조합니다.\n백엔드, DevOps 엔지니어 및 분산 시스템 설계자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47818485",
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47818485",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-04-18T19:00:00+00:00",
+    "ai_summary": "대학 강사가 AI가 작성한 과제를 막기 위해 학생들에게 타자기를 사용하게 한 사례입니다.\nAI/LLM 기술이 교육 현장에 미치는 영향과 학업 윤리 문제를 보여줍니다.\nAI 기술의 사회적 영향과 윤리적 측면에 관심 있는 개발자에게 관련성이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47777633",
+    "title": "Show HN: SmallDocs - Markdown without the frustrations",
+    "url": "https://news.ycombinator.com/item?id=47777633",
+    "discussion_url": "https://news.ycombinator.com/item?id=47777633",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-04-15T11:29:12+00:00",
+    "ai_summary": "마크다운 사용 시 겪는 불편함을 해소하고 더 나은 문서 작성 경험을 제공하는 SmallDocs 프로젝트를 소개합니다.\n개발자들이 README 파일이나 프로젝트 문서를 작성할 때 겪는 번거로움을 줄여주어 효율적인 문서화를 돕습니다.\n직관적이고 간소화된 인터페이스로 다양한 콘텐츠 작성을 지원하는 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47767397",
+    "title": "80386 Memory Pipeline",
+    "url": "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47767397",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-04-14T16:00:49+00:00",
+    "ai_summary": "80386 프로세서의 메모리 파이프라인 아키텍처와 그 작동 방식을 상세히 설명하는 기술 문서입니다.\n이 초기 프로세서의 메모리 관리 기법은 CPU 성능 최적화에 어떻게 기여했는지 보여줍니다.\n로우레벨 시스템, 운영체제 개발자, 또는 컴퓨터 아키텍처에 관심 있는 이들에게 유용한 심층 자료입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47810533",
+    "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+    "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+    "discussion_url": "https://news.ycombinator.com/item?id=47810533",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-04-17T21:03:18+00:00",
+    "ai_summary": "브라우저 탭 내에서 자동화 스크립트를 실행할 수 있는 AI 서브루틴 도구를 소개합니다.\nAI를 활용하여 웹 기반 작업을 자동화하고 사용자 생산성을 높이는 것을 목표로 합니다.\n웹 자동화, AI 통합 또는 브라우저 확장 기능을 개발하는 개발자에게 유용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47773969",
+    "title": "Understanding the FFT Algorithm (2013)",
+    "url": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47773969",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-04-15T02:29:39+00:00",
+    "ai_summary": "FFT(고속 푸리에 변환) 알고리즘의 원리와 계산 과정을 이해하기 쉽게 설명하는 글입니다.\n이 알고리즘은 디지털 신호 처리, 데이터 압축, 이미지 분석 등 다양한 분야에서 핵심적으로 사용됩니다.\n복잡한 데이터를 효율적으로 분석하고 처리하는 기본적인 수학적 개념을 깊이 있게 다룹니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47765662",
+    "title": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
+    "url": "https://www.remoroo.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47765662",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-04-14T13:51:31+00:00",
+    "ai_summary": "장기 실행 코딩 에이전트의 '메모리' 즉, 지속적인 정보 유지 문제를 해결하려는 Remoroo 프로젝트를 소개합니다.\nAI 에이전트가 복잡한 작업을 수행할 때 발생하는 정보 손실이나 비효율성을 개선하는 것을 목표로 합니다.\nLLM 기반 에이전트 개발자들에게 중요한 기술적 도전 과제와 해결 방안을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47812973",
+    "title": "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+    "url": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
+    "discussion_url": "https://news.ycombinator.com/item?id=47812973",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-04-18T03:47:57+00:00",
+    "ai_summary": "PostgreSQL 소스 코드를 직접 분석하여 자신만의 WAL(Write-Ahead Log) 리시버를 구현한 경험을 공유합니다.\n데이터베이스의 내부 동작 방식, 특히 복제 및 데이터 무결성 메커니즘에 대한 깊은 이해를 제공합니다.\n고급 데이터베이스 엔지니어 및 시스템 아키텍트에게 매우 유용한 심층 기술 탐구 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47817581",
+    "title": "Graphs that explain the state of AI in 2026",
+    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=47817581",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-04-18T17:12:44+00:00",
+    "ai_summary": "2026년 AI의 현재와 미래 상태를 설명하는 핵심 그래프와 분석을 제시합니다.\nAI 기술 발전의 방향, 시장 동향, 그리고 산업 전반에 미칠 영향에 대한 통찰을 제공합니다.\nAI 분야의 개발자, 연구자 및 전략 기획자에게 중요한 정보를 제공하는 자료입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47817639",
+    "title": "4-bit floating point FP4",
+    "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47817639",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-04-18T17:21:02+00:00",
+    "ai_summary": "4비트 부동 소수점(FP4) 형식은 머신러닝 모델의 효율성을 높이기 위해 제안되었습니다.\n기존 FP16이나 FP32 대비 메모리 사용량과 계산 비용을 크게 절감합니다.\n이는 대규모 AI 모델 훈련 및 배포 시 성능 최적화에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47816625",
+    "title": "Fuzix OS",
+    "url": "https://www.fuzix.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47816625",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-04-18T15:24:18+00:00",
+    "ai_summary": "Fuzix OS는 유닉스 계열의 경량 운영체제로, 저사양 8비트 및 16비트 마이크로컨트롤러용으로 설계되었습니다.\nPOSIX 호환성을 목표로 하여 오래된 하드웨어에서도 현대적인 개발 환경을 제공합니다.\n임베디드 시스템 및 레트로 컴퓨팅 프로젝트에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47813668",
+    "title": "Category Theory Illustrated – Orders",
+    "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47813668",
+    "summary": "",
+    "score": 219,
+    "published_at": "2026-04-18T06:40:47+00:00",
+    "ai_summary": "범주론을 활용하여 순서(Orders) 개념을 시각적으로 설명하는 글입니다.\n부분 순서 집합, 전순서 집합 등 다양한 순서 관계를 범주론적 관점에서 재해석합니다.\n함수형 프로그래밍 언어의 설계나 복잡한 시스템 모델링에 대한 깊은 이해를 돕습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47767398",
+    "title": "It's OK to compare floating-points for equality",
+    "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47767398",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-04-14T16:00:49+00:00",
+    "ai_summary": "부동 소수점 숫자를 등호(==)로 비교하는 것이 항상 잘못된 것은 아니라는 주장을 다룹니다.\n특정 상황, 예를 들어 정확한 비트 패턴을 비교하거나 미리 정해진 값과의 비교에서는 유효할 수 있습니다.\n하지만 일반적으로는 오차 범위를 고려한 비교 방식을 사용하는 것이 안전하고 권장됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47812341",
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "url": "https://victorpoughon.github.io/interval-calculator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47812341",
+    "summary": "",
+    "score": 286,
+    "published_at": "2026-04-18T01:15:43+00:00",
+    "ai_summary": "겹치지 않는 구간 집합에 대해 연산을 수행하는 계산기를 소개합니다.\n일반적인 숫자 대신 구간(interval)을 입력으로 받아 결과 또한 구간 집합으로 반환합니다.\n이는 특정 수학적 문제나 일정 관리, 자원 할당 등 다양한 분야에 응용될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  }
+]
