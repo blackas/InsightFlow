@@ -1,0 +1,646 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28708",
+    "title": "ArtifactNet: 코덱 물리학으로 AI 생성 음악을 탐지하는 경량 포렌식 프레임워크",
+    "url": "https://news.hada.io/topic?id=28708",
+    "discussion_url": "https://news.hada.io/topic?id=28708",
+    "summary": "Suno, Udio, MusicGen, Stable Audio 등 모든 상용 AI 음악 생성기는 피할 수 없는\n물리적 제약을 공유합니다. 생성된 오디오가 반드시 Residual Vector Quantization\n(RVQ)을 통과해야 한다는 점입니다.\nRVQ는 연속적인 오디오 표현을 이산 코드북 벡터에 매핑합니다. 이 과정에서\n발생하는",
+    "score": 0,
+    "published_at": "2026-04-20T02:28:14+00:00",
+    "ai_summary": "AI 생성 음악은 RVQ(Residual Vector Quantization) 과정을 필수로 거치며 물리적 제약을 공유합니다.\n이 RVQ 과정에서 발생하는 특징을 분석하여 AI 생성 음악을 탐지하는 경량 포렌식 프레임워크입니다.\n음악 생성 AI 모델의 특성과 탐지 기술 개발에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28706",
+    "title": "Uber, AI 코딩 도구 사용 급증으로 올해의 AI 예산 이미 소진",
+    "url": "https://news.hada.io/topic?id=28706",
+    "discussion_url": "https://news.hada.io/topic?id=28706",
+    "summary": "AI 코딩 도구 사용 급증으로 2026년 초 몇 달 만에 계획된 AI 예산이 소진, 전체 연구개발비는 $3.4B(약 5조원, 전년 대비 +9%) 수준\n내부 장려와 사용량 기준 리더보드 운영이 빠른 도입으로 이어졌고, 특히 Claude Code 사용이...",
+    "score": 0,
+    "published_at": "2026-04-20T02:13:06+00:00",
+    "ai_summary": "Uber는 AI 코딩 도구 사용 급증으로 올해 AI 예산을 조기에 소진했으며, 내부 장려와 리더보드를 통해 빠른 도입을 이끌었습니다.\n특히 Claude Code 사용이 두드러지며, 이는 개발 생산성 향상과 AI 도구 도입의 중요성을 보여줍니다.\nAI 코딩 도구 도입 및 예산 책정에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28703",
+    "title": "프로그래밍의 일곱 가지 원형 언어 (2022)",
+    "url": "https://news.hada.io/topic?id=28703",
+    "discussion_url": "https://news.hada.io/topic?id=28703",
+    "summary": "개별 문법보다 기초 패턴 묶음의 차이가 더 중요하며, 프로그래밍 언어는 반복·재귀·구성 방식에 따라 일곱 가지 원형 언어로 나뉨\nALGOL, Lisp, ML, Self, Forth, APL, Prolog가 핵심 분류이며, 각 계열은 대표 언어를 기준 표본으로 삼아 다른 ...",
+    "score": 0,
+    "published_at": "2026-04-20T00:51:50+00:00",
+    "ai_summary": "프로그래밍 언어는 개별 문법보다 기초 패턴의 차이가 중요하며, 반복, 재귀, 구성 방식에 따라 일곱 가지 원형 언어로 분류됩니다.\nALGOL, Lisp, ML 등 각 계열은 대표 언어를 통해 다른 언어들의 특징을 이해하는 데 도움을 줍니다.\n언어 설계와 패러다임에 대한 깊이 있는 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28702",
+    "title": "iroh - 공개키 기반 초고속 P2P 네트워크 연결 라이브러리 오픈소스",
+    "url": "https://news.hada.io/topic?id=28702",
+    "discussion_url": "https://news.hada.io/topic?id=28702",
+    "summary": "p2p that just works : &quot;저 전화기로 연결해줘&quot; 하면 위치와 상관없이 가장 빠른 네트워크 연결을 유지하는 API 제공\n네트워크 주소나 IP가 아닌 공개키(Public Key, dial keys) 기반으로 대상 노드와 연결하는 API 제공\n최적...",
+    "score": 0,
+    "published_at": "2026-04-20T00:51:02+00:00",
+    "ai_summary": "iroh는 공개키 기반으로 노드를 연결하여 위치와 상관없이 가장 빠른 네트워크 연결을 유지하는 초고속 P2P 라이브러리입니다.\n네트워크 주소 대신 공개키를 사용하여 대상 노드와 직접 연결하는 API를 제공하며, P2P 통신 개발을 위한 혁신적인 솔루션입니다.\n개발자들이 분산 애플리케이션을 구축하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28699",
+    "title": "Vercel 보안 침해 확인, 해커는 탈취한 데이터 판매 중이라고 주장",
+    "url": "https://news.hada.io/topic?id=28699",
+    "discussion_url": "https://news.hada.io/topic?id=28699",
+    "summary": "Vercel이 내부 시스템에 대한 무단 접근이 발생한 보안 사고를 공식 확인, 현재 사고 대응 전문가 및 법 집행 기관과 협력 중\n침해의 원인은 서드파티 AI 도구인 Context.ai의 Google Workspace OAuth 앱이 손상되면서 Vercel 직원 계정이 탈취된 것\n공격...",
+    "score": 0,
+    "published_at": "2026-04-20T00:42:50+00:00",
+    "ai_summary": "Vercel은 서드파티 AI 도구의 OAuth 앱 손상으로 인한 직원 계정 탈취로 보안 침해 사고를 공식 확인했습니다.\n해커는 탈취한 데이터를 판매 중이라고 주장하며, 현재 사고 대응 및 수사를 진행 중입니다.\n개발자들이 사용하는 플랫폼의 보안과 서드파티 도구 사용 시 주의의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47841129",
+    "title": "Jujutsu megamerges for fun and profit",
+    "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+    "discussion_url": "https://news.ycombinator.com/item?id=47841129",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-04-20T21:32:10+00:00",
+    "ai_summary": "Jujutsu는 Git과 유사한 새로운 분산 버전 관리 시스템으로, \"메가머지(megamerges)\" 기능을 통해 복잡한 코드 병합을 효율적으로 처리합니다.\n이 기능은 대규모 프로젝트나 여러 브랜치를 동시에 관리해야 하는 개발자들에게 유용합니다.\n버전 관리 시스템의 고급 사용법과 새로운 도구에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47842021",
+    "title": "Even 'uncensored' models can't say what they want",
+    "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47842021",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-04-20T22:43:29+00:00",
+    "ai_summary": "'검열되지 않은' AI 모델조차도 특정 주제에 대해 원하는 대로 발언하지 못하는 한계가 있음을 지적합니다.\n이는 모델의 내재된 제약, 학습 데이터 또는 안전 메커니즘으로 인해 발생할 수 있습니다.\nLLM 개발 및 활용 시 모델의 행동과 윤리적 문제에 대한 깊이 있는 이해를 요구합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47839645",
+    "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+    "url": "https://github.com/gizmo64k/soulplayer-c64",
+    "discussion_url": "https://news.ycombinator.com/item?id=47839645",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-04-20T19:51:07+00:00",
+    "ai_summary": "코모도어 64에서 1MHz CPU로 실제 트랜스포머 모델을 구동하는 놀라운 기술적 성과를 보여줍니다.\n오래된 하드웨어의 한계를 뛰어넘어 AI 모델을 효율적으로 실행하는 방법을 탐구합니다.\n이는 저사양 환경에서의 최적화 및 임베디드 AI 개발에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47834565",
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+    "discussion_url": "https://news.ycombinator.com/item?id=47834565",
+    "summary": "",
+    "score": 506,
+    "published_at": "2026-04-20T14:05:34+00:00",
+    "ai_summary": "Alibaba의 LLM 시리즈인 Qwen의 최신 버전인 Qwen3.6-Max-Preview가 공개되었습니다.\n이 버전은 더욱 향상된 지능과 명료함을 제공하며 지속적인 발전을 예고합니다.\nLLM 개발자들에게 새로운 기능과 성능 개선을 탐색할 기회를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47838703",
+    "title": "Kimi vendor verifier – verify accuracy of inference providers",
+    "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+    "discussion_url": "https://news.ycombinator.com/item?id=47838703",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-04-20T18:39:53+00:00",
+    "ai_summary": "AI 추론 제공업체의 정확성을 검증하는 도구인 'Kimi vendor verifier'에 대한 기사입니다.\n이 도구는 AI 모델, 특히 LLM의 추론 결과 신뢰성을 평가하는 데 도움을 줍니다.\nMLOps 및 AI 서비스 품질 관리에 필수적인 솔루션입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47831621",
+    "title": "GitHub's fake star economy",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47831621",
+    "summary": "",
+    "score": 727,
+    "published_at": "2026-04-20T08:26:52+00:00",
+    "ai_summary": "GitHub에서 발생하는 가짜 별(스타) 및 팔로워 문제에 대해 다루는 기사입니다.\n이는 오픈소스 프로젝트의 인기와 신뢰도를 왜곡하여 개발자 커뮤니티에 악영향을 미칩니다.\n플랫폼의 신뢰성과 프로젝트 평가 방식에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47833558",
+    "title": "ggsql: A Grammar of Graphics for SQL",
+    "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47833558",
+    "summary": "",
+    "score": 331,
+    "published_at": "2026-04-20T12:51:20+00:00",
+    "ai_summary": "'ggsql'은 데이터 시각화를 위한 '그래픽 문법' 개념을 SQL에 적용한 기술을 설명합니다.\nSQL 쿼리를 통해 직접 시각화를 정의하거나 생성하는 새로운 방식을 제안합니다.\n데이터 엔지니어, 데이터 과학자 및 백엔드 개발자에게 유용한 데이터 시각화 도구가 될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47840980",
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+    "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47840980",
+    "summary": "",
+    "score": 103,
+    "published_at": "2026-04-20T21:20:52+00:00",
+    "ai_summary": "OpenAI의 광고 파트너가 ChatGPT 내에 '프롬프트 관련성'에 기반한 광고 게재 상품을 판매하기 시작했습니다.\n이는 LLM 기반 서비스의 새로운 수익 모델과 상업화 전략을 보여줍니다.\nAI 개발자들은 이러한 상업적 발전과 윤리적 고려 사항에 주목할 필요가 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47811154",
+    "title": "Kefir C17/C23 Compiler",
+    "url": "https://sr.ht/~jprotopopov/kefir/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47811154",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-04-17T22:12:59+00:00",
+    "ai_summary": "C17 및 C23 표준을 지원하는 새로운 'Kefir' 컴파일러에 대한 기사입니다.\n최신 C 언어 표준의 기능을 활용하고 효율적인 코드 생성에 기여할 것입니다.\nC/C++ 개발자 및 시스템 프로그래머에게 중요한 개발 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47835928",
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47835928",
+    "summary": "",
+    "score": 263,
+    "published_at": "2026-04-20T15:41:02+00:00",
+    "ai_summary": "음악 스트리밍 서비스 Deezer에 따르면, 매일 업로드되는 노래의 44%가 AI로 생성된 것이라고 한다.\n이는 AI가 생성한 콘텐츠의 급증과 이로 인한 플랫폼의 도전 과제를 명확히 보여준다.\n저작권, 윤리, 콘텐츠 관리 등 다양한 영역에서 새로운 기술적, 정책적 대응이 필요할 것이다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47836784",
+    "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+    "url": "https://words.filippo.io/128-bits/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47836784",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-04-20T16:37:48+00:00",
+    "ai_summary": "양자 컴퓨터가 128비트 대칭 키 암호화에 즉각적인 위협이 되지 않는다는 분석이 나왔다.\nShor 알고리즘은 비대칭 암호를 위협하지만, Grover 알고리즘은 대칭 키를 뚫는 데 충분히 강력하지 않다.\n이는 현재의 많은 암호화 시스템이 가까운 미래에도 양자 공격에 안전할 수 있음을 시사한다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47822549",
+    "title": "Modern Rendering Culling Techniques",
+    "url": "https://krupitskas.com/posts/modern_culling_techniques/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47822549",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-04-19T07:54:11+00:00",
+    "ai_summary": "최신 렌더링 기술에서 성능 최적화를 위한 다양한 컬링 기법들을 소개한다.\n시야 절두체 컬링, 폐색 컬링 등 화면에 보이지 않는 객체를 효율적으로 제거하는 방법들을 다룬다.\n이를 통해 렌더링 파이프라인의 부하를 줄이고 프레임 속도를 향상시킬 수 있다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47839951",
+    "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+    "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47839951",
+    "summary": "",
+    "score": 283,
+    "published_at": "2026-04-20T20:19:13+00:00",
+    "ai_summary": "AI 기술의 급속한 발전에 대한 사회적 저항과 우려가 커지고 있으며, 이에 대한 논의가 필요하다.\n예술가, 작가 등 다양한 직업군에서 AI로 인한 일자리 위협과 저작권 침해 문제를 제기하고 있다.\nAI의 윤리적 사용, 규제, 그리고 인간의 역할에 대한 심층적인 성찰이 중요하다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47840851",
+    "title": "Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",
+    "url": "https://github.com/zeroecco/holos",
+    "discussion_url": "https://news.ycombinator.com/item?id=47840851",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-04-20T21:13:49+00:00",
+    "ai_summary": "Holos는 QEMU/KVM 기반 가상화 솔루션으로, Compose 스타일의 YAML 설정과 GPU 패스쓰루를 제공한다.\n시스템 상태 검사 기능과 함께 쉽게 가상 머신을 정의하고 관리할 수 있도록 돕는다.\nDevOps 엔지니어, 클라우드 인프라 관리자들에게 유용하며 개발 워크플로우를 간소화할 수 있다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47807609",
+    "title": "Writing string.h functions using string instructions in asm x86-64 (2025)",
+    "url": "https://pmasschelier.github.io/x86_64_strings/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47807609",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-04-17T16:22:36+00:00",
+    "ai_summary": "x86-64 어셈블리어의 문자열 명령어를 사용하여 `string.h` 라이브러리 함수를 직접 구현하는 방법을 다룬다.\n`rep movsb`, `rep stosb` 등 특정 명령어가 어떻게 메모리 조작을 효율적으로 수행하는지 설명한다.\n이는 시스템 프로그래밍, 성능 최적화, 그리고 CPU 아키텍처 이해에 큰 도움이 될 것이다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47823080",
+    "title": "Anatomy of High-Performance Matrix Multiplication (2008) [pdf]",
+    "url": "https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=47823080",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-04-19T09:50:44+00:00",
+    "ai_summary": "이 논문은 고성능 행렬 곱셈을 위한 기본 원리와 최적화 기법을 심층 분석합니다.\n캐시 효율성, 병렬 처리, 데이터 지역성 등 다양한 요소를 고려하여 성능을 극대화하는 방법을 설명합니다.\nCPU 아키텍처의 특징을 활용하는 어셈블리 수준의 최적화 전략까지 다루며, 이는 현대 컴퓨팅에도 적용될 수 있는 중요한 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47789291",
+    "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+    "url": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47789291",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-04-16T06:11:40+00:00",
+    "ai_summary": "이 기사는 Rust에서 '제로-카피 페이지'를 구현하는 방법을 탐구하며, 효율적인 메모리 관리 기법을 소개합니다.\nRust의 핵심 개념인 '라이프타임(lifetimes)'을 활용하여 데이터 복사 없이 성능을 최적화하는 과정을 상세히 설명합니다.\n시스템 수준 프로그래밍과 고성능 애플리케이션 개발에 관심 있는 Rust 개발자들에게 유용한 기술적 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "title": "Introducing Claude Design by Anthropic Labs (4 minute read)",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "discussion_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "summary": "Claude Design is a tool for creating visual work using the Claude Opus 4.7 vision model. It allows users to design prototypes, pitch decks, and marketing materials, automating brand consistency and enabling collaboration. The tool integrates with Claude Code for seamless transition from prototype to production.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Claude Opus 4.7 비전 모델을 활용하여 시각적 작업을 생성하는 도구입니다. 프로토타입, 피치 덱, 마케팅 자료 등을 디자인하며 브랜드 일관성을 자동화하고 협업을 지원합니다. Claude Code와 통합되어 프로토타입에서 프로덕션으로 원활하게 전환 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "title": "Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges (2 minute read)",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "discussion_url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "summary": "Cursor, an AI coding startup, is close to raising $2 billion in funding, potentially doubling its valuation to $50 billion. Thrive and Andreessen Horowitz are expected to lead the round, with Battery Ventures and Nvidia possibly participating. Cursor aims to triple its annualized revenue to over $6 billion by the end of 2026, driven by its proprietary Composer model and strategic shifts to achieve profitability.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "AI 코딩 스타트업 Cursor가 20억 달러 이상을 유치하며 기업 가치가 500억 달러로 두 배 증가할 예정입니다. 독점적인 Composer 모델과 전략적 변화를 통해 2026년 말까지 연간 수익 60억 달러 이상 달성을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+    "title": "Are the Costs of AI Agents Also Rising Exponentially? (11 minute read)",
+    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+    "discussion_url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+    "summary": "The length of tasks AI agents can perform has been growing exponentially over the last seven years. The latest models can (sometimes) do tasks that would take a human a few hours. However, the cost to achieve these time horizons is growing exponentially, and the hourly costs for some models are now close to human costs. There will eventually be a divergence between what time horizon is possible and what is economically feasible.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "AI 에이전트가 수행할 수 있는 작업의 길이가 기하급수적으로 증가하여 인간의 몇 시간 걸리는 작업을 수행 가능합니다. 하지만 이러한 작업 수행 비용 또한 기하급수적으로 증가하며, 일부 모델의 시간당 비용은 인간 비용에 근접합니다. 결국 가능한 시간 범위와 경제적으로 실현 가능한 범위 사이에 차이가 발생할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7 (5 minute read)",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "discussion_url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "summary": "Anthropic is the only major AI lab to publish the system prompts for its user-facing chat systems. The company just released Opus 4.7, which features an updated system prompt. This author used Claude Code to take the Markdown version of its system prompts, break them into separate documents, and then construct a Git history of those files with fake commit dates. The result is in the post.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Anthropic은 사용자 대면 챗 시스템의 시스템 프롬프트를 공개하는 유일한 주요 AI 연구소입니다. 최근 출시된 Opus 4.7의 업데이트된 시스템 프롬프트가 공개되었으며, 작성자는 Claude Code를 사용하여 프롬프트의 변경 이력을 분석했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data (11 minute read)",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "discussion_url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "summary": "NEMOTRON OCR V2, developed using synthetic data, is a fast, accurate multilingual OCR model achieving significant accuracy improvements, lowering NED scores to near-zero for non-English languages. Utilizing a synthetic data pipeline with mOSCAR text and diverse fonts, the model trains with pixel-perfect annotations across languages, enabling generalization to real-world documents. The unified architecture reuses feature maps, achieving speeds of 34.7 pages/second on a single A100 GPU, outperform",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "NEMOTRON OCR V2는 합성 데이터를 사용하여 개발된 빠르고 정확한 다국어 OCR 모델입니다. 비영어권 언어에서 NED 점수를 거의 0에 가깝게 낮추는 등 정확도가 크게 향상되었습니다. mOSCAR 텍스트와 다양한 글꼴을 사용하는 합성 데이터 파이프라인으로 훈련되어 단일 A100 GPU에서 초당 34.7페이지의 빠른 속도를 달성합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "title": "The Two Sides of OpenClaw (7 minute read)",
+    "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "discussion_url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "summary": "Peter Steinberger's talks highlighted OpenClaw's contrasting stories: an inspiring public narrative and a more serious engineering perspective on security and scaling challenges. Anthropic launched Claude Design to compete with tools like Figma, expanding beyond chat/coding into design and prototyping with its OPUS 4.7 engine, which received mixed initial user reviews despite strong benchmark performances. Open-source agent stacks like Hermes and advancements in computer-use UX are gaining tract",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "OpenClaw는 대중적 이야기와 보안 및 확장성 측면의 심각한 엔지니어링 문제를 모두 가집니다. Anthropic은 Figma와 경쟁하기 위해 OPUS 4.7 엔진을 활용한 Claude Design을 출시하여 디자인 및 프로토타입 제작으로 영역을 확장하고 있습니다. Hermes와 같은 오픈 소스 에이전트 스택과 컴퓨터 사용 UX 발전이 주목받고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html",
+    "title": "Experimental hybrid inference and new Gemini models for Android (3 minute read)",
+    "url": "https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html",
+    "discussion_url": "https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html",
+    "summary": "Hybrid inference for Android is a new API for Firebase AI Logic that leverages both on-device and Cloud inference. It supports Google's new Gemini models, including the latest image generation Nano Banana models. The new API allows apps to dynamically switch between Gemini Nano running locally on-device and cloud-hosted Gemini models. It is still experimental.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Android용 하이브리드 추론은 온디바이스 및 클라우드 추론을 모두 활용하는 Firebase AI Logic의 새로운 API입니다. 최신 이미지 생성 Nano Banana 모델을 포함한 Google의 새로운 Gemini 모델을 지원합니다. 앱이 온디바이스 Gemini Nano와 클라우드 호스팅 Gemini 모델 사이에서 동적으로 전환 가능합니다 (실험 단계).",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.ai/news/grok-stt-and-tts-apis",
+    "title": "xAI launches Grok STT and TTS APIs (4 minute read)",
+    "url": "https://x.ai/news/grok-stt-and-tts-apis",
+    "discussion_url": "https://x.ai/news/grok-stt-and-tts-apis",
+    "summary": "xAI has launched standalone Grok Speech to Text (STT) and Text to Speech (TTS) APIs, enhancing developer options for integrating advanced speech capabilities. These APIs support high accuracy, low latency, word-level timestamps, speaker diarization, and intelligent inverse text normalization across 25+ languages. Grok STT excels in transcription accuracy within phone calls and video/podcasts, providing robust solutions for medical, legal, and financial sectors.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "xAI가 Grok STT 및 TTS API를 출시하여 개발자들이 고급 음성 기능을 애플리케이션에 통합할 수 있도록 지원합니다. 이 API는 25개 이상의 언어에서 높은 정확도와 낮은 지연 시간을 제공하며, 의료, 법률, 금융 분야에 견고한 솔루션을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/html/2604.15039v1",
+    "title": "Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter (55 minute read)",
+    "url": "https://arxiv.org/html/2604.15039v1",
+    "discussion_url": "https://arxiv.org/html/2604.15039v1",
+    "summary": "Prefill-as-a-Service (PrfaaS) is a cross-datacenter serving architecture that selectively offloads long-context prefill to standalone, compute-dense prefill clusters and transfers the resulting KVCache over commodity Ethernet to local PD clusters for decode. It combines model-side KV efficiency with system-side selective offloading, bandwidth-aware scheduling, and cache-aware request placement. The design removes the requirement that heterogeneous accelerators share the same low-latency RDMA fab",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Prefill-as-a-Service(PrfaaS)는 차세대 모델의 KVCache를 데이터센터 간에 효율적으로 처리하는 아키텍처입니다. 긴 컨텍스트 prefill을 전용 클러스터로 오프로드하고 KVCache를 저비용 이더넷을 통해 전송하여, 이기종 가속기가 동일한 저지연 패브릭을 공유할 필요성을 제거합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2604.14228",
+    "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems (1 minute read)",
+    "url": "https://arxiv.org/abs/2604.14228",
+    "discussion_url": "https://arxiv.org/abs/2604.14228",
+    "summary": "Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its architecture by analyzing the publicly available TypeScript source code and further comparing it with OpenClaw. The core of the system is a simple while-loop that calls the model, runs tools, and repeats. OpenClaw uses the same recurring design questions but produces different architectural answers when the deployment context changes. The study",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Claude Code는 쉘 명령 실행, 파일 편집, 외부 서비스 호출이 가능한 에이전트형 코딩 도구입니다. 이 연구는 공개된 TypeScript 소스 코드를 분석하여 Claude Code의 아키텍처를 설명하고, OpenClaw와 비교하여 AI 에이전트 시스템 설계의 핵심 질문들을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "http://exa.ai/blog/composing-a-search-engine",
+    "title": "Composing a Search Engine (2 minute read)",
+    "url": "http://exa.ai/blog/composing-a-search-engine",
+    "discussion_url": "http://exa.ai/blog/composing-a-search-engine",
+    "summary": "Canon defines its search pipeline as a DAG to ensure automatic concurrency across classification, localization, retrieval, and ranking processes. This setup allows independent node control, enabling easy subsystem changes without affecting the overall pipeline. The DAG framework optimizes execution through parallelism, supports durable execution with node-specific retries, and provides clear introspection and execution decoupling.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Canon은 검색 파이프라인을 DAG(Directed Acyclic Graph)로 정의하여 분류, 검색, 순위 지정 프로세스에서 자동 병렬 처리를 보장합니다. 이 프레임워크는 병렬 실행을 통해 최적화를 달성하고, 노드별 재시도를 통한 견고한 실행 및 명확한 가시성을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/better-ai-models-ambitious-work",
+    "title": "Better AI models enable more ambitious work (3 minute read)",
+    "url": "https://cursor.com/blog/better-ai-models-ambitious-work",
+    "discussion_url": "https://cursor.com/blog/better-ai-models-ambitious-work",
+    "summary": "Better AI models, like Opus 4.5 and GPT-5.2, increased developer AI usage by 44%, enabling more complex tasks after an initial adjustment period. Industries including media and advertising saw notable usage growth, driven by competitive pressures and new opportunities. Developers shifted toward managing AI output, with significant increases in documentation, architecture, and learning tasks.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Opus 4.5 및 GPT-5.2와 같은 개선된 AI 모델들이 개발자의 AI 사용량을 44% 증가시켜 더 복잡한 작업을 가능하게 했습니다. 개발자들은 AI 출력 관리, 문서화, 아키텍처 설계, 학습 등 AI 관련 작업에 더 많은 시간을 할애하게 되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom",
+    "title": "Google is in talks with Marvell to build custom AI inference chips as it diversifies beyond Broadcom (6 minute read)",
+    "url": "https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom",
+    "discussion_url": "https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom",
+    "summary": "Google is in talks with Marvell Technology to develop a memory processing unit and an inference-optimized TPU. The custom ASIC market is projected to grow 45% in 2026 and reach $118 billion by 2033. Broadcom, Google's primary custom chip partner, recently announced a long-term agreement to design and supply TPUs and networking components through to 2031. Talks with Marvell have yet to produce a signed contract.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Google은 Broadcom 외에 Marvell Technology와 맞춤형 AI 추론 칩(메모리 처리 장치 및 추론 최적화 TPU) 개발을 논의 중입니다. 이는 급성장하는 맞춤형 ASIC 시장에 대응하고, 자사의 AI 하드웨어 공급망을 다각화하려는 노력의 일환입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "title": "Multimodal 3D World Model (GitHub Repo)",
+    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "discussion_url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "summary": "Tencent released a multimodal framework that generated and reconstructed 3D worlds from text, images, and video using a staged pipeline and a unified feed-forward model.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "Tencent가 텍스트, 이미지, 비디오로부터 3D 세계를 생성하고 재구성하는 멀티모달 프레임워크를 GitHub에 공개했습니다. 이 시스템은 단계별 파이프라인과 통합된 피드포워드 모델을 사용하여 효율적인 3D 세계 생성을 가능하게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio/",
+    "title": "Google tests Google AI subscription support for AI Studio (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio/",
+    "discussion_url": "https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio/",
+    "summary": "Google is testing a bridge between Gemini subscriptions and AI Studio, offering users subscription-based token access instead of separate API-key billing.",
+    "score": 0,
+    "published_at": "2026-04-20T23:43:13+00:00",
+    "ai_summary": "구글이 제미니(Gemini) 구독과 AI Studio를 연결하는 기능을 테스트하고 있습니다. 이로 인해 개발자들은 별도의 API 키 과금 방식 대신 구독 기반 토큰으로 AI Studio를 이용할 수 있게 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
