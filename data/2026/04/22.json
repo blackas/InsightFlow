@@ -1,0 +1,825 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28752",
+    "title": "Deezer는 자사 플랫폼에 매일 업로드되는 곡의 44%가 AI 생성이라고 밝힘",
+    "url": "https://news.hada.io/topic?id=28752",
+    "discussion_url": "https://news.hada.io/topic?id=28752",
+    "summary": "매일 업로드되는 신규 음악 가운데 AI 생성 트랙 비중이 44% 로 집계되며, 하루 기준 거의 7만5천 곡과 월 200만 곡 이상 규모로 유입됨\n플랫폼 내 AI 생성 음악 소비량은 전체 스트림의 1~3% 수준에 머물고, 해당 스트림의 85%...",
+    "score": 0,
+    "published_at": "2026-04-21T15:34:10+00:00",
+    "ai_summary": "음악 스트리밍 플랫폼 Deezer에서 매일 업로드되는 신곡의 44%가 AI로 생성됩니다.\n하루 약 7만 5천 곡, 월 200만 곡 이상이 유입되는 규모입니다.\n하지만 AI 생성 음악의 소비량은 전체 스트림의 1~3% 수준에 머물고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28749",
+    "title": "프로덕션 환경에서 바이브 코딩을 책임감 있게 하는 법 -  Vibe coding in prod | Code w/ Claude",
+    "url": "https://news.hada.io/topic?id=28749",
+    "discussion_url": "https://news.hada.io/topic?id=28749",
+    "summary": "Anthropic의 코딩 에이전트 연구자 Eric이 바이브 코딩(AI에게 코드 작성을 전적으로 맡기는 방식)을 실제 서비스 환경에서 어떻게 안전하게 활용할 수 있는지를 다룬 발표입니다. 단순히 AI로 코드를 많이 생성하는 것과 바이브 코딩은 다르며, Andrej Karpathy의 정의처럼 &quot;코드가 존재한다는 사실 자체를 잊는...",
+    "score": 0,
+    "published_at": "2026-04-21T07:07:21+00:00",
+    "ai_summary": "Anthropic 연구자가 AI에 코드 작성을 전적으로 맡기는 '바이브 코딩'을 프로덕션 환경에서 책임감 있게 활용하는 방안을 발표했습니다.\n단순히 AI로 코드 생성량을 늘리는 것을 넘어, 코드가 존재하는 사실 자체를 잊는 수준의 활용을 목표로 합니다.\nAI 코딩 에이전트의 안전한 배포와 활용 전략을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28747",
+    "title": "Show GN: ESLint Markdown: ESLint로 마크다운 파일들을 린팅하세요",
+    "url": "https://eslint.org/blog/2024/10/eslint-json-markdown-support/",
+    "discussion_url": "https://news.hada.io/topic?id=28747",
+    "summary": "ESLint로 마크다운 파일을 린팅할 수 있는 eslint-markdown 패키지를 발행했습니다.\n2024년 10월 3일 ESLint가 마크다운 지원을 공식 발표한 이후, 공식 API와 방향성에 맞춰 설계한 플러그인입니다.\n이 프",
+    "score": 0,
+    "published_at": "2026-04-21T04:55:54+00:00",
+    "ai_summary": "ESLint로 마크다운 파일 내 코드를 린팅할 수 있는 'eslint-markdown' 패키지가 공개되었습니다.\nESLint의 공식 마크다운 지원 발표에 맞춰 설계된 플러그인입니다.\n개발자들이 문서 내 코드 블록의 품질을 효과적으로 관리할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28745",
+    "title": "Firefox용 WebUSB 확장",
+    "url": "https://news.hada.io/topic?id=28745",
+    "discussion_url": "https://news.hada.io/topic?id=28745",
+    "summary": "Chrome에서만 지원되던 WebUSB API를 Firefox에서 사용할 수 있게 해주는 확장으로, Native Messaging 메커니즘을 통해 브라우저 외부 프로그램과 통신\n브라우저 확장(.xpi)과 네이티브 스텁 두 가지를 함께 설치해야 동작\nChrome의 Web...",
+    "score": 0,
+    "published_at": "2026-04-21T04:11:06+00:00",
+    "ai_summary": "Chrome에서만 지원되던 WebUSB API를 Firefox에서도 사용할 수 있게 해주는 확장 기능이 출시되었습니다.\n이는 Native Messaging을 통해 브라우저 외부 프로그램과 통신하는 방식입니다.\n브라우저 확장과 네이티브 스텁을 모두 설치해야 작동합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28743",
+    "title": "&#039;제미나이 인 크롬&#039;으로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
+    "url": "https://news.hada.io/topic?id=28743",
+    "discussion_url": "https://news.hada.io/topic?id=28743",
+    "summary": "구글이 2026년 4월 20일, '제미나이 인 크롬(Gemini in Chrome)' 을 포함한 크롬 최신 AI 기능을 한국에 공식 출시\n최신 AI 모델 제미나이 3.1 기반으로, 데스크톱 및 iOS 환경에 먼저 제공\n\n탭 전환 없이 웹 콘텐츠 바로 활용:",
+    "score": 0,
+    "published_at": "2026-04-21T01:53:40+00:00",
+    "ai_summary": "구글이 최신 AI 모델 제미나이 3.1 기반의 '제미나이 인 크롬' 기능을 한국에 공식 출시합니다.\n데스크톱 및 iOS 환경에 먼저 제공되며, 탭 전환 없이 웹 콘텐츠를 바로 활용할 수 있습니다.\nAI를 통해 더욱 스마트하고 편리해진 크롬 사용 경험을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28739",
+    "title": "Atlassian, 고객 데이터 AI 학습 활용을 기본값으로 전환",
+    "url": "https://news.hada.io/topic?id=28739",
+    "discussion_url": "https://news.hada.io/topic?id=28739",
+    "summary": "Jira, Confluence 등 Atlassian Cloud 제품의 고객 메타데이터와 앱 내 콘텐츠가 2026년 8월 17일부터 Rovo와 Rovo Dev 학습에 기본 활용 예정\n요금제별 기본값이 다르게 적용되며, Free·Standard·Premium에서는 메타데이터 기여",
+    "score": 0,
+    "published_at": "2026-04-21T01:08:53+00:00",
+    "ai_summary": "Atlassian이 2026년 8월부터 Jira, Confluence 등 클라우드 제품의 고객 데이터를 AI 학습에 기본 활용할 예정입니다.\n고객의 메타데이터와 앱 내 콘텐츠가 'Rovo' 및 'Rovo Dev' 학습에 기여하게 됩니다.\n요금제에 따라 데이터 활용 기본값이 다르게 적용됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28736",
+    "title": "Kimi K2.6 공개 - 오픈소스 코딩의 발전",
+    "url": "https://news.hada.io/topic?id=28736",
+    "discussion_url": "https://news.hada.io/topic?id=28736",
+    "summary": "장기 구간 코딩과 에이전트형 작업에서 성능을 끌어올린 모델로, 여러 언어와 프런트엔드·devops·성능 최적화 전반에서 일반화 성능 강화\n복잡한 엔지니어링 작업을 지속 실행형 코딩으로 처리하며, 수천 회 도구 호출과 12시간 이상 연속 실행을...",
+    "score": 0,
+    "published_at": "2026-04-21T00:59:52+00:00",
+    "ai_summary": "오픈소스 코딩 AI 모델인 Kimi K2.6이 공개되어 장기 코딩 및 에이전트형 작업 성능이 향상되었습니다.\n여러 프로그래밍 언어와 프런트엔드, DevOps, 성능 최적화 전반에서 강화된 일반화 성능을 제공합니다.\n복잡한 엔지니어링 작업을 지속 실행형으로 처리할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28732",
+    "title": "Cherri - 애플 단축어를 코드로 작성하는 프로그래밍 언어",
+    "url": "https://news.hada.io/topic?id=28732",
+    "discussion_url": "https://news.hada.io/topic?id=28732",
+    "summary": "Siri Shortcuts를 텍스트 코드로 작성하면 실행 가능한 Shortcut 파일로 직접 컴파일해주는 도메인 특화 언어\n단축어의 액션과 1대1 매핑으로, 컴파일 결과를 Shortcuts 앱에서 바로 디버깅 가능\nGo와 Ruby 문법에서 영감을 받았으며, C...",
+    "score": 0,
+    "published_at": "2026-04-21T00:31:02+00:00",
+    "ai_summary": "Cherri는 Siri 단축어를 텍스트 코드로 작성하고 컴파일하여 실행 가능한 파일로 만들어주는 도메인 특화 언어입니다.\n단축어 액션과 1대1 매핑으로 Shortcuts 앱에서 직접 디버깅할 수 있으며, Go와 Ruby 문법에서 영감을 받았습니다.\n개발자들이 애플 단축어를 코드로 효율적으로 관리하고 자동화할 수 있게 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47852835",
+    "title": "ChatGPT Images 2.0",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47852835",
+    "summary": "",
+    "score": 267,
+    "published_at": "2026-04-21T18:50:00+00:00",
+    "ai_summary": "ChatGPT Images 2.0은 OpenAI의 챗봇이 개선된 이미지 생성 및 이해 기능을 제공하는 업데이트입니다.\n사용자들은 이제 더 정교하고 다양한 스타일의 이미지를 만들고, 기존 이미지를 분석하게 할 수 있습니다.\n이는 LLM의 멀티모달 능력을 한 단계 발전시켜 개발자들의 활용도를 높일 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47851634",
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47851634",
+    "summary": "",
+    "score": 239,
+    "published_at": "2026-04-21T17:14:35+00:00",
+    "ai_summary": "Vercel에서 발생한 OAuth 공격으로 플랫폼 환경 변수의 보안 취약점이 드러났습니다.\n이번 침해는 개발 환경에서 중요한 정보가 노출될 위험성을 경고하며, 보안 설정의 중요성을 강조합니다.\n개발자들은 OAuth 연동과 환경 변수 관리에 대한 재점검이 필요합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47850212",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "url": "https://www.brex.com/crabtrap",
+    "discussion_url": "https://news.ycombinator.com/item?id=47850212",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-04-21T15:29:16+00:00",
+    "ai_summary": "CrabTrap은 프로덕션 환경에서 LLM 기반 에이전트를 보호하기 위한 HTTP 프록시입니다.\nLLM을 '판사'로 활용하여 에이전트의 동작을 모니터링하고 비정상적인 활동을 감지합니다.\n이는 LLM 애플리케이션의 신뢰성과 보안을 강화하는 새로운 접근 방식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47855565",
+    "title": "Claude Code no longer included in Pro tier",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "discussion_url": "https://news.ycombinator.com/item?id=47855565",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-04-21T22:36:24+00:00",
+    "ai_summary": "Anthropic의 LLM인 Claude의 '코드' 기능이 이제 Pro tier 구독에서 더 이상 제공되지 않습니다.\n이는 Claude를 코딩 보조 도구로 활용하던 개발자들에게 직접적인 영향을 미칠 것입니다.\n해당 기능의 사용을 원하는 개발자는 다른 구독 옵션을 고려해야 할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47852177",
+    "title": "Framework Laptop 13 Pro",
+    "url": "https://frame.work/laptop13pro",
+    "discussion_url": "https://news.ycombinator.com/item?id=47852177",
+    "summary": "",
+    "score": 807,
+    "published_at": "2026-04-21T18:00:34+00:00",
+    "ai_summary": "프레임워크 랩탑 13 프로는 모듈식 설계와 수리 용이성을 특징으로 하는 노트북입니다.\n개발자들이 하드웨어 사용자 정의 및 지속 가능성을 추구하는 경향에 부합합니다.\n새로운 \"Pro\" 버전은 전문가용 성능과 확장성을 제공할 가능성이 높습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47852155",
+    "title": "Cal.diy: open-source community edition of cal.com",
+    "url": "https://github.com/calcom/cal.diy",
+    "discussion_url": "https://news.ycombinator.com/item?id=47852155",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-04-21T17:58:21+00:00",
+    "ai_summary": "Cal.diy는 오픈 소스 스케줄링 플랫폼인 cal.com의 커뮤니티 에디션입니다.\n개발자들이 직접 호스팅하고 커스터마이징할 수 있는 유연성을 제공합니다.\n오픈 소스 프로젝트 참여나 서비스 구축에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47847179",
+    "title": "Laws of Software Engineering",
+    "url": "https://lawsofsoftwareengineering.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47847179",
+    "summary": "",
+    "score": 790,
+    "published_at": "2026-04-21T11:04:56+00:00",
+    "ai_summary": "소프트웨어 공학의 법칙은 효율적이고 견고한 소프트웨어 개발을 위한 핵심 원칙들을 다룹니다.\n이는 코드 품질, 설계, 유지보수성 등 다양한 측면에서 개발자의 역량을 강화하는 데 기여합니다.\n모든 소프트웨어 개발자가 숙지해야 할 중요한 지침을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47855616",
+    "title": "SpaceX Says It Has Agreement to Acquire Cursor for $60B",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion",
+    "discussion_url": "https://news.ycombinator.com/item?id=47855616",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-04-21T22:40:46+00:00",
+    "ai_summary": "SpaceX가 AI 기반 코드 에디터인 Cursor를 600억 달러에 인수하기로 합의했다고 발표했습니다.\n이 인수는 우주항공 기업이 개발 도구 시장에 진출하는 이례적인 사례입니다.\nAI 개발 도구와 거대 기술 기업의 시장 동향에 관심 있는 개발자들에게 주목할 만한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47830687",
+    "title": "Fields Medal Video: Maryna Viazovska",
+    "url": "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47830687",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-04-20T05:30:06+00:00",
+    "ai_summary": "필즈 메달은 수학 분야의 최고 권위 있는 상으로, 이 영상은 수상자인 마리나 비아조프스카를 조명합니다.\n그녀의 연구 성과는 순수 수학 분야의 중요한 진전을 보여주며, 컴퓨터 과학의 이론적 기반과도 관련이 있습니다.\n기초 과학 및 수학에 대한 깊이 있는 이해를 얻고자 하는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47851948",
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47851948",
+    "summary": "",
+    "score": 244,
+    "published_at": "2026-04-21T17:40:39+00:00",
+    "ai_summary": "Meta가 AI 훈련을 위해 직원들의 마우스 움직임과 키보드 입력을 수집하기 시작할 예정입니다.\n이는 직원 감시와 데이터 프라이버시에 대한 심각한 윤리적 문제를 제기합니다.\n특히 개발자들에게는 업무 환경과 AI 시스템의 데이터 활용 방식에 대한 우려를 불러일으킬 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47822978",
+    "title": "Edit store price tags using Flipper Zero",
+    "url": "https://github.com/i12bp8/TagTinker",
+    "discussion_url": "https://news.ycombinator.com/item?id=47822978",
+    "summary": "",
+    "score": 262,
+    "published_at": "2026-04-19T09:26:04+00:00",
+    "ai_summary": "Flipper Zero를 사용하여 매장 가격표를 수정하는 기술 시연에 대한 내용입니다.\n이는 Flipper Zero의 다양한 무선 프로토콜 상호작용 기능을 활용한 사례를 보여줍니다.\n하드웨어 해킹, IoT 보안, 그리고 임베디드 시스템에 관심 있는 개발자들에게 유용할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47838508",
+    "title": "Changes to GitHub Copilot individual plans",
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47838508",
+    "summary": "",
+    "score": 270,
+    "published_at": "2026-04-20T18:24:05+00:00",
+    "ai_summary": "GitHub Copilot 개인 요금제 변경에 대한 내용입니다.\nAI 기반 코드 어시스턴트인 Copilot은 많은 개발자들에게 필수적인 도구로 자리매김하고 있습니다.\n이번 요금제 변경은 개인 개발자들의 사용 방식과 비용에 직접적인 영향을 미칠 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47830332",
+    "title": "Theseus, a Static Windows Emulator",
+    "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47830332",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-04-20T04:14:48+00:00",
+    "ai_summary": "Theseus는 정적 분석 기반의 윈도우 에뮬레이터로, 실행 없이 PE 파일을 분석합니다.\n샌드박스의 제약을 넘어 악성코드 및 바이너리 분석에 유용합니다.\n개발자와 보안 연구원에게 시스템 깊숙이 이해할 수 있는 강력한 도구를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47854116",
+    "title": "Zindex – Diagram Infrastructure for Agents",
+    "url": "https://zindex.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47854116",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-04-21T20:27:37+00:00",
+    "ai_summary": "Zindex는 에이전트 시스템을 위한 인프라 다이어그램을 제공하여 복잡한 아키텍처를 시각화합니다.\n에이전트의 동작과 관계를 명확히 이해하고 관리하는 데 도움을 줍니다.\nAI 에이전트 개발 및 배포에 있어 중요한 시각화 및 관리 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47849097",
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47849097",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-04-21T14:11:53+00:00",
+    "ai_summary": "GoModel은 Go 언어로 구현된 오픈소스 AI 게이트웨이로, AI 모델 접근 및 관리를 용이하게 합니다.\n다양한 AI 서비스와의 통합을 간소화하고, 개발자들이 AI 기능을 애플리케이션에 쉽게 포함할 수 있도록 지원합니다.\nAI/ML 백엔드 개발에 유용한 핵심 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47835728",
+    "title": "My practitioner view of program analysis",
+    "url": "https://sawyer.dev/posts/practitioner-program-analysis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47835728",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-04-20T15:27:30+00:00",
+    "ai_summary": "이 기사는 프로그램 분석에 대한 실무자의 관점을 제공하며, 정적 및 동적 분석 기법의 중요성을 강조합니다.\n코드 품질, 보안, 성능 최적화에 프로그램 분석이 어떻게 기여하는지 설명합니다.\n개발자들이 더 견고하고 효율적인 소프트웨어를 만드는 데 필수적인 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47815462",
+    "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
+    "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+    "discussion_url": "https://news.ycombinator.com/item?id=47815462",
+    "summary": "",
+    "score": 185,
+    "published_at": "2026-04-18T12:41:00+00:00",
+    "ai_summary": "1960년대 유니박 컴퓨터에서 마인크래프트 서버를 구동하는 놀라운 프로젝트를 소개합니다.\n이는 오래된 하드웨어에서 현대 소프트웨어를 실행하는 기술적 도전과 창의성을 보여줍니다.\n컴퓨터 과학 역사와 시스템 에뮬레이션에 대한 흥미로운 탐구입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47847558",
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "url": "https://vidstudio.app/video-editor",
+    "discussion_url": "https://news.ycombinator.com/item?id=47847558",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-04-21T11:58:16+00:00",
+    "ai_summary": "VidStudio는 파일을 서버에 업로드하지 않는 브라우저 기반의 비디오 편집기입니다.\n클라이언트 측에서 모든 처리를 수행하여 개인 정보 보호와 빠른 작업을 가능하게 합니다.\n웹 기술을 활용한 고성능 Frontend 애플리케이션 개발의 좋은 예시입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47822301",
+    "title": "Show HN: Backlit Keyboard API for Python",
+    "url": "https://github.com/itsmeadarsh2008/backlit-kbd",
+    "discussion_url": "https://news.ycombinator.com/item?id=47822301",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-04-19T06:52:00+00:00",
+    "ai_summary": "파이썬용 백라이트 키보드 API가 공개되어, 개발자들이 키보드 백라이트를 프로그래밍으로 제어할 수 있게 되었습니다.\n이를 통해 커스텀 알림, 시각화 도구, 게임 통합 등 다양한 애플리케이션 개발이 가능합니다.\n하드웨어 제어 및 맞춤형 도구 제작에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47846946",
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "url": "https://codemix.com/graph",
+    "discussion_url": "https://news.ycombinator.com/item?id=47846946",
+    "summary": "",
+    "score": 143,
+    "published_at": "2026-04-21T10:33:24+00:00",
+    "ai_summary": "CRDT(Conflict-free Replicated Data Type) 기반으로 구축된 타입 안전하고 실시간 협업이 가능한 그래프 데이터베이스입니다.\n분산 시스템에서 데이터 일관성과 실시간 동기화를 보장하며, 복잡한 데이터 관계를 효율적으로 처리합니다.\n백엔드, 분산 시스템, 데이터베이스 개발자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47834689",
+    "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+    "url": "http://mnt.stanleylieber.com/reform/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47834689",
+    "summary": "",
+    "score": 266,
+    "published_at": "2026-04-20T14:14:52+00:00",
+    "ai_summary": "독일에서 설계 및 조립된 MNT Reform은 오픈 하드웨어 노트북으로, 사용자에게 완전한 제어권을 제공합니다.\n오픈 소스 소프트웨어뿐 아니라 하드웨어 도면까지 공개하여, 수리, 업그레이드, 커스터마이징이 자유롭습니다.\n보안, 프라이버시, 하드웨어 독립성을 중시하는 개발자들에게 매력적인 플랫폼입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47849315",
+    "title": "Fusion Power Plant Simulator",
+    "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+    "discussion_url": "https://news.ycombinator.com/item?id=47849315",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-04-21T14:26:52+00:00",
+    "ai_summary": "핵융합 발전소의 복잡한 물리적 프로세스를 시뮬레이션하는 소프트웨어 프로젝트입니다.\n핵융합 연구 개발에 기여하며, 대규모 과학 컴퓨팅 및 모델링 기술을 활용합니다.\n과학 분야 또는 고성능 시뮬레이션 개발에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47851630",
+    "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+    "url": "https://github.com/Arc1011/KernelUNO",
+    "discussion_url": "https://news.ycombinator.com/item?id=47851630",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-04-21T17:14:26+00:00",
+    "ai_summary": "2KB RAM을 가진 Arduino UNO 보드를 위해 셸과 파일 시스템을 갖춘 초소형 유닉스 유사 OS를 직접 개발했습니다.\n극히 제한된 자원 환경에서 운영체제를 구현하는 저수준 프로그래밍 능력을 선보였습니다.\n임베디드 시스템, 저수준 개발, OS 아키텍처에 관심 있는 개발자에게 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47854051",
+    "title": "I don't want your PRs anymore",
+    "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47854051",
+    "summary": "",
+    "score": 177,
+    "published_at": "2026-04-21T20:21:40+00:00",
+    "ai_summary": "'더 이상 PR(풀 리퀘스트)을 받지 않겠다'는 제목의 글로, 오픈 소스 프로젝트 관리의 어려움을 다룹니다.\n기여 관리, 커뮤니티 상호작용, 프로젝트 유지보수의 복잡성에 대한 개인적인 경험과 의견을 공유합니다.\n개발자 협업 방식, 오픈 소스 기여 문화, 그리고 프로젝트 운영에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/codex/memories/chronicle",
+    "title": "Chronicle – Codex (6 minute read)",
+    "url": "https://developers.openai.com/codex/memories/chronicle",
+    "discussion_url": "https://developers.openai.com/codex/memories/chronicle",
+    "summary": "Chronicle, available for ChatGPT Pro users on macOS, augments Codex by using screen context for memory building, helping Codex understand ongoing work with less context restatement. It stores unencrypted markdown memories on your device and requires macOS Screen Recording and Accessibility permissions. Be aware of prompt injection risks from screen content, and pause Chronicle during sensitive work to prevent unwanted context capture.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "ChatGPT Pro 사용자용 macOS 도구인 Chronicle은 화면 컨텍스트를 사용하여 Codex의 기억력을 향상시켜 작업 이해도를 높입니다. 컨텍스트 반복을 줄여주고, 화면 녹화 및 접근성 권한이 필요합니다. 민감한 작업 시 일시 정지하여 원치 않는 컨텍스트 캡처를 방지해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/",
+    "title": "Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs (2 minute read)",
+    "url": "https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/",
+    "discussion_url": "https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/",
+    "summary": "Kimi K2.6 features robust capabilities for coding and agentic tasks across chat and agent modes on kimi.com, with weights on Hugging Face and APIs via platform.moonshot.ai. The lineup includes K2.6 Instant for quick replies, K2.6 Thinking for complex reasoning, K2.6 Agent for document and web tasks, and K2.6 Agent Swarm for large-scale processing. Kimi K2.6 claims top open-source benchmark scores, surpassing competitors like GPT-5.4 and Claude Opus 4.6 in SWE-bench Multilingual and BrowseComp.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Moonshot AI가 코딩 및 에이전트 작업에 강력한 Kimi K2.6 모델을 출시했습니다. Kimi K2.6 Instant, Thinking, Agent, Agent Swarm 등 다양한 버전을 제공하며, Hugging Face와 API를 통해 접근 가능합니다. 여러 벤치마크에서 GPT-5.4 및 Claude Opus 4.6 같은 경쟁 모델들을 능가하는 성능을 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://qwen.ai/blog?id=qwen3.6-max-preview&amp%3Butm_source=tldrai",
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving (2 minute read)",
+    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview&amp%3Butm_source=tldrai",
+    "discussion_url": "https://qwen.ai/blog?id=qwen3.6-max-preview&amp%3Butm_source=tldrai",
+    "summary": "Qwen3.6-Max-Preview brings stronger world knowledge and instruction following along with significant agentic coding improvements across a wide range of benchmarks. The model is still under active development as researchers continue to iterate on it. Users can chat with the model interactively in Qwen Studio or call via API on Alibaba Cloud Model Studio API (coming soon).",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Qwen3.6-Max-Preview는 세계 지식과 지시 따르기 능력을 강화하고, 에이전트 코딩 기능을 크게 개선했습니다. 모델은 여전히 활발하게 개발 중이며, Qwen Studio 또는 Alibaba Cloud Model Studio API를 통해 상호작용할 수 있습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3Njc0ODE3NiwiZXhwIjoxNzc3MzUyOTc2LCJhcnRpY2xlSWQiOiJURFRLU0dUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.sX-DZMr66hgD5DygNPFOhid8SRbXVApVC_dCvXKMmGw",
+    "title": "Jeff Bezos Nears $10 Billion Funding for AI Lab, FT Says (2 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3Njc0ODE3NiwiZXhwIjoxNzc3MzUyOTc2LCJhcnRpY2xlSWQiOiJURFRLU0dUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.sX-DZMr66hgD5DygNPFOhid8SRbXVApVC_dCvXKMmGw",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3Njc0ODE3NiwiZXhwIjoxNzc3MzUyOTc2LCJhcnRpY2xlSWQiOiJURFRLU0dUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.sX-DZMr66hgD5DygNPFOhid8SRbXVApVC_dCvXKMmGw",
+    "summary": "Jeff Bezos' AI startup, which is aiming to develop models with the capability of understanding the physical world, is close to finalizing a $10 billion funding round. The company, code-named Project Prometheus, will use AI to accelerate engineering and manufacturing in fields like aerospace and automobiles. It was set up with an initial $6.2 billion in funding, sourced in part by Bezos himself. The new funding round, which is expected to close soon but has not been finalized, will include JPMorg",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "제프 베이조스의 AI 스타트업이 물리적 세계를 이해하는 모델 개발을 목표로 100억 달러 규모의 자금 조달을 추진 중입니다. 코드명 'Project Prometheus'는 AI를 활용하여 항공우주 및 자동차 분야의 엔지니어링 및 제조를 가속화할 계획입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads/",
+    "title": "Improving Training Efficiency with Effective Training Time (19 minute read)",
+    "url": "https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads/",
+    "discussion_url": "https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads/",
+    "summary": "Meta introduced Effective Training Time (ETT%) to measure how much end-to-end training runtime is spent on actual learning, highlighting overhead like checkpointing and failures. This post outlines system and PyTorch-level optimizations that reduce wasted time and improve large-scale training efficiency.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Meta는 훈련 시간 중 실제 학습에 사용되는 비율을 측정하는 ETT% 지표를 도입했습니다. 체크포인팅 및 실패와 같은 오버헤드를 줄이기 위한 시스템 및 PyTorch 수준 최적화를 통해 대규모 훈련 효율성을 향상시키는 방법을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://allenai.org/blog/bar",
+    "title": "Modular Post-Training (14 minute read)",
+    "url": "https://allenai.org/blog/bar",
+    "discussion_url": "https://allenai.org/blog/bar",
+    "summary": "AllenAI describes a post-training approach that builds independent domain experts and combines them using a mixture-of-experts architecture. This allows models to gain new capabilities without retraining from scratch or degrading existing skills.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "AllenAI는 독립적인 도메인 전문가를 구축하고 혼합 전문가 아키텍처를 사용하여 결합하는 후처리 방식을 설명합니다. 이를 통해 모델을 처음부터 재훈련하거나 기존 기능을 저하시키지 않고 새로운 기능을 추가할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "title": "Even 'uncensored' models can't say what they want (6 minute read)",
+    "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "discussion_url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "summary": "Even uncensored models quietly nudge language away from the words that sentences actually want. There is no refusal or warning - the probability just moves in some instances. This is a mechanism that can be used to shape what billions of users read without them noticing.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "'무검열' 모델조차도 문장이 의도하는 단어로부터 언어를 미묘하게 멀어지게 합니다. 명시적인 거부나 경고 없이 확률이 변경되어 사용자들이 인지하지 못하는 방식으로 읽는 내용을 형성할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://tessl.io/blog/google-adds-subagents-to-gemini-cli-to-handle-parallel-coding-tasks/",
+    "title": "Google adds subagents to Gemini CLI to handle parallel coding tasks (4 minute read)",
+    "url": "https://tessl.io/blog/google-adds-subagents-to-gemini-cli-to-handle-parallel-coding-tasks/",
+    "discussion_url": "https://tessl.io/blog/google-adds-subagents-to-gemini-cli-to-handle-parallel-coding-tasks/",
+    "summary": "Google's Gemini CLI now includes subagents to split coding tasks, enhancing parallel execution by delegating specific roles like frontend updates or testing. This enables multiple tasks to process simultaneously without interference, optimizing workflows for developers. Gemini's setup contrasts with systems like Claude Code, which extends agent coordination across multiple sessions.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Google Gemini CLI에 병렬 코딩 작업을 처리하는 서브 에이전트 기능이 추가되어, 프런트엔드 업데이트나 테스트와 같은 특정 역할을 위임할 수 있습니다. 이는 여러 작업을 동시에 처리하여 개발자 워크플로우를 최적화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2604.15804",
+    "title": "Qwen3.5-Omni Technical Report (32 minute read)",
+    "url": "https://arxiv.org/abs/2604.15804",
+    "discussion_url": "https://arxiv.org/abs/2604.15804",
+    "summary": "Qwen3.5-Omni scales to hundreds of billions of parameters with a hybrid MoE architecture, supporting long-context multimodal inputs across text, audio, and video.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Qwen3.5-Omni는 수천억 개의 매개변수로 확장되는 하이브리드 MoE 아키텍처를 사용하며, 텍스트, 오디오, 비디오를 포함한 장문 맥락의 다중 모드 입력을 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://gdm-tipsv2.github.io/",
+    "title": "DeepMind's TIPSv2 Vision-Language Encoder (6 minute read)",
+    "url": "https://gdm-tipsv2.github.io/",
+    "discussion_url": "https://gdm-tipsv2.github.io/",
+    "summary": "TIPSv2 improves vision-language pretraining by combining distillation, enhanced self-supervised objectives, and richer caption data. The resulting models achieve strong performance across multimodal tasks, with notable gains in zero-shot segmentation.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "DeepMind의 TIPSv2는 증류, 향상된 자체 지도 학습 목표, 풍부한 캡션 데이터를 결합하여 비전-언어 사전 훈련을 개선합니다. 이를 통해 다중 모드 작업에서 강력한 성능을 달성하며, 특히 제로샷 분할에서 상당한 개선을 보입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://z-lab.ai/projects/flashdrive/",
+    "title": "FlashDrive: Flash Vision-Language-Action Inference For Autonomous Driving (8 minute read)",
+    "url": "https://z-lab.ai/projects/flashdrive/",
+    "discussion_url": "https://z-lab.ai/projects/flashdrive/",
+    "summary": "FlashDrive is an algorithm-system co-design framework that reduces end-to-end latency to 159ms with negligible accuracy loss. VLA inference is a cascade of stages, each hiding a different form of redundancy. Temporal overlap in vision, low entropy in reasoning, velocity smoothness in flow matching, and numerical headroom in weights each yield to a targeted shortcut. The speedups compound to 4.5x with negligible accuracy loss because the redundancies are orthogonal.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "FlashDrive는 자율 주행을 위한 알고리즘-시스템 공동 설계 프레임워크로, 종단 간 지연 시간을 159ms로 줄이면서 정확도 손실은 무시할 수 있는 수준입니다. 다양한 중복성을 활용하여 4.5배의 속도 향상을 달성합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epochai.substack.com/p/openai-stargate-where-the-us-sites",
+    "title": "OpenAI Stargate: where the US sites stand (9 minute read)",
+    "url": "https://epochai.substack.com/p/openai-stargate-where-the-us-sites",
+    "discussion_url": "https://epochai.substack.com/p/openai-stargate-where-the-us-sites",
+    "summary": "The US is in the model of an unprecedented build-out of AI infrastructure. Stargate is a $500 billion endeavor that involves OpenAI, Oracle, and SoftBank. The AI infrastructure project has seven locations across the US that are currently showing active development. They currently add up to over 9 gigawatts of planned capacity, enough to power the equivalent of 20 million Nvidia H100 GPUs - the total amount of AI compute in the world at the end of 2025. This post takes a look at each of the sites",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "OpenAI의 Stargate 프로젝트는 5천억 달러 규모의 AI 인프라 구축 사업으로, 미국 내 7개 지역에서 개발 중입니다. 2025년 말 전 세계 AI 컴퓨팅 총량에 해당하는 9기가와트 이상의 전력 용량을 계획하고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/",
+    "title": "Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits (4 minute read)",
+    "url": "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/",
+    "discussion_url": "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/",
+    "summary": "Microsoft plans to temporarily suspend individual account signups to GitHub Copilot. The weekly cost of running the service has doubled since the start of the year. Microsoft intends to tighten rate limits on individual and business accounts. It will also remove access to certain models for those with the cheapest subscriptions.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Microsoft는 GitHub Copilot의 개인 계정 가입을 일시 중단하고 토큰 기반 과금으로 전환할 예정입니다. 서비스 운영 비용 증가로 인해 개인 및 비즈니스 계정의 속도 제한이 강화되고, 가장 저렴한 구독자는 특정 모델에 대한 접근이 제한될 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/claudeai/status/2046328619249684989",
+    "title": "Claude can now build live artifacts (1 minute read)",
+    "url": "https://x.com/claudeai/status/2046328619249684989",
+    "discussion_url": "https://x.com/claudeai/status/2046328619249684989",
+    "summary": "Live artifacts are dashboards and trackers connected to apps and files with current data.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Claude는 이제 '라이브 아티팩트'를 생성할 수 있으며, 이는 앱 및 파일에 연결되어 현재 데이터를 보여주는 대시보드 및 추적기입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute (4 minute read)",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "discussion_url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "summary": "Anthropic and Amazon have expanded their collaboration to secure up to 5 gigawatts of compute capacity, supporting Claude's training and deployment.",
+    "score": 0,
+    "published_at": "2026-04-21T23:36:14+00:00",
+    "ai_summary": "Anthropic과 Amazon이 Claude의 훈련 및 배포를 지원하기 위해 협력을 확장했으며, 최대 5기가와트의 컴퓨팅 용량을 확보할 예정입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
