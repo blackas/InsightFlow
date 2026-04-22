@@ -1,0 +1,838 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28786",
+    "title": "Kimi 벤더 검증기 - 추론 제공자의 정확성 검증",
+    "url": "https://news.hada.io/topic?id=28786",
+    "discussion_url": "https://news.hada.io/topic?id=28786",
+    "summary": "오픈소스 모델 배포 이후 서로 다른 인프라에서 발생하는 추론 구현 편차를 검증해, 모델 자체 한계와 엔지니어링 오류를 구분할 수 있게 한 공개소스 도구\n공식 API 기준으로 OCRBench 91.0, AIME2025 avg@32 98.4, MMMU Pro Vision 78....",
+    "score": 0,
+    "published_at": "2026-04-22T18:34:06+00:00",
+    "ai_summary": "오픈소스 모델 배포 후 인프라별 추론 구현 편차를 검증하는 도구입니다.\n모델 자체 한계와 엔지니어링 오류를 구분하여 정확성을 높이는 데 기여합니다.\nOCRBench 등 다양한 벤치마크를 통해 검증 성능을 제시하고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28783",
+    "title": "Show GN: 스와이프로 한/영 전환하는 커스텀 키보드앱 (iOS) - Glidekey",
+    "url": "https://news.hada.io/topic?id=28783",
+    "discussion_url": "https://news.hada.io/topic?id=28783",
+    "summary": "iOS용 커스텀 키보드앱을 만들어 보았습니다\n키보드를 사용하면서 몇가지 아쉬움이 있었습니다.\n\nAI에게 질문을 하면서 물음표(?)를 많이 치는데, 한글자판내에 물음표 키가 있으면 좋겠다\n카톡대화중에 한참 텍스트를 입력하고 있는데 상대방이 보낸 말에 답하느라고 힘들게 입력했던",
+    "score": 0,
+    "published_at": "2026-04-22T14:23:57+00:00",
+    "ai_summary": "iOS용 커스텀 키보드 앱 'Glidekey'를 개발하고 'Show GN'으로 공개한 사례입니다.\n한글 자판에 물음표 추가, 스와이프 한/영 전환 등 사용 편의성 개선에 초점을 맞췄습니다.\n개발자의 실제 불편함을 해소한 개인 프로젝트이자 앱 개발 경험을 공유합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28777",
+    "title": "Garry Tan의 &quot;Skillify&quot; — AI 에이전트의 실패를 영구적 구조 수정으로 바꾸는 방법론",
+    "url": "https://news.hada.io/topic?id=28777",
+    "discussion_url": "https://news.hada.io/topic?id=28777",
+    "summary": "Y Combinator 대표 Garry Tan이 자신의 AI 에이전트 운용 경험을 바탕으로 제안한 &quot;Skillify&quot;라는 에이전트 품질 관리 방법론에 대한 글입니다. 1억 6천만 달러를 유치한 LangChain 같은 프레임워크가 테스트 도구는 제공하지만 &quot;무엇을 어떤 순서로 테스트할 것인가&quot;라는 워크플로는 부재하다는...",
+    "score": 0,
+    "published_at": "2026-04-22T09:33:56+00:00",
+    "ai_summary": "Y Combinator 대표 Garry Tan이 제안한 AI 에이전트 품질 관리 방법론 'Skillify'를 소개합니다.\nAI 에이전트 개발 시 테스트 도구는 있으나 체계적인 워크플로가 부재하다는 문제점을 지적합니다.\n에이전트의 실패를 분석하여 근본적인 구조 개선으로 연결하는 방법론을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28776",
+    "title": "Show GN: Bizketch — 5 AI 에이전트가 사업계획서를 써주는 서비스, Product Hunt 글로벌 런치",
+    "url": "https://news.hada.io/topic?id=28776",
+    "discussion_url": "https://news.hada.io/topic?id=28776",
+    "summary": "작년부터 혼자 만들어 온 SaaS가 오늘 Product Hunt에 글로벌 런치했습니다.\nProduct Hunt: https://www.producthunt.com/products/bizketch?launch=bizketch\n무엇을 만들었는가\n키워드 하나를 입력하면 5개 AI 에이전트가 역할을 분담해 14개 섹션의 사업계획서를 자동 생성하는 서비스입니다....",
+    "score": 0,
+    "published_at": "2026-04-22T07:43:10+00:00",
+    "ai_summary": "혼자 개발한, AI 에이전트 기반 사업계획서 자동 생성 서비스 'Bizketch'가 Product Hunt에 런칭했습니다.\n키워드 하나로 5개 AI 에이전트가 협업해 14개 섹션의 사업계획서를 생성합니다.\nAI 에이전트 활용 서비스 개발 및 성공적인 Product Hunt 런칭 사례를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28775",
+    "title": "Meta, AI 학습용으로 직원 마우스 움직임과 키 입력 수집 시작 예정",
+    "url": "https://news.hada.io/topic?id=28775",
+    "discussion_url": "https://news.hada.io/topic?id=28775",
+    "summary": "Meta가 미국 직원 컴퓨터에 마우스 움직임, 클릭, 키 입력을 추적하는 소프트웨어를 설치해 AI 모델 학습 데이터로 활용하며, 업무용 앱과 웹사이트에서 화면 스냅샷도 주기적으로 캡처\nModel Capability Initiative(MCI) 라 불리는 이 도구는 드...",
+    "score": 0,
+    "published_at": "2026-04-22T06:33:24+00:00",
+    "ai_summary": "Meta가 AI 모델 학습을 위해 미국 직원들의 컴퓨터 활동 데이터를 수집할 예정입니다.\n'Model Capability Initiative(MCI)' 도구를 통해 마우스, 키 입력, 화면 스냅샷 등을 수집합니다.\n이는 개인 정보 및 사생활 침해 논란을 야기할 수 있는 민감한 데이터 수집 방침입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28768",
+    "title": "Vercel 침해: OAuth 공격이 플랫폼 환경 변수의 숨은 위험 노출",
+    "url": "https://news.hada.io/topic?id=28768",
+    "discussion_url": "https://news.hada.io/topic?id=28768",
+    "summary": "OAuth 공급망 침해가 Vercel 내부 시스템 접근으로 이어졌고, 제한된 일부 고객 프로젝트의 환경 변수 노출 발생\n시작점은 Context.ai 직원의 Lumma Stealer 감염이었고, 유출된 Google Workspace OAuth 토큰이 Vercel 직원 계정과 내부 시스템 접...",
+    "score": 0,
+    "published_at": "2026-04-22T02:58:20+00:00",
+    "ai_summary": "Vercel에서 OAuth 공급망 침해로 일부 고객 프로젝트의 환경 변수가 노출되는 사고가 발생했습니다.\n직원의 Lumma Stealer 감염으로 유출된 Google Workspace OAuth 토큰이 원인이었습니다.\n클라우드 플랫폼의 OAuth 보안 및 공급망 공격에 대한 경각심을 높이는 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28766",
+    "title": "SpaceX, Cursor와 600억 달러 규모 계약 체결",
+    "url": "https://news.hada.io/topic?id=28766",
+    "discussion_url": "https://news.hada.io/topic?id=28766",
+    "summary": "Elon Musk의 로켓·위성 기업 SpaceX가 AI 코드 작성 스타트업 Cursor를 최대 600억 달러에 인수할 수 있는 계약을 체결, 대규모 IPO 준비와 맞물려 주목\n이번 계약은 SpaceX에 올해 안에 Cursor를 600억 달러에 인수하거나, 협업 대가로 ...",
+    "score": 0,
+    "published_at": "2026-04-22T02:21:03+00:00",
+    "ai_summary": "SpaceX가 AI 코드 작성 스타트업 Cursor와 최대 600억 달러 규모의 인수 또는 협업 계약을 체결했습니다. 이 계약은 SpaceX의 대규모 IPO 준비와 맞물려 AI 코드 생성 기술에 대한 막대한 투자를 시사합니다. 개발자들에게는 AI 코딩 도구 시장의 중요한 변화로 해석될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28765",
+    "title": "SpaceX, AI 코딩 스타트업 Cursor를 600억 달러에 인수할 옵션 확보",
+    "url": "https://news.hada.io/topic?id=28765",
+    "discussion_url": "https://news.hada.io/topic?id=28765",
+    "summary": "SpaceX가 AI 코드 생성 스타트업 Cursor와 전략적 파트너십을 체결하고, 올해 말 600억 달러에 인수하거나 협업 대가로 100억 달러를 지급하는 옵션을 확보했다고 X에 공식 발표\n“SpaceXAI와 Cursor는 세계 최고의 코딩 및 지식 업무 AI를 만들기 위해 긴밀히 협력 중”이라며, SpaceX의 100만 H100급...",
+    "score": 0,
+    "published_at": "2026-04-22T02:10:30+00:00",
+    "ai_summary": "SpaceX는 AI 코드 생성 스타트업 Cursor와 전략적 파트너십을 맺고, 올해 말 600억 달러에 인수하거나 100억 달러를 지급하는 옵션을 확보했다고 발표했습니다. SpaceXAI와 Cursor는 세계 최고의 코딩 및 지식 업무 AI를 만들기 위해 긴밀히 협력 중입니다. 이는 AI 코딩 도구의 미래와 개발자 생산성에 큰 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28764",
+    "title": "Claude Code가 Pro 요금제에서 제거될 예정인가?",
+    "url": "https://news.hada.io/topic?id=28764",
+    "discussion_url": "https://news.hada.io/topic?id=28764",
+    "summary": "Anthropic이 월 20달러 Pro 플랜 신규 가입자에게서 AI 코딩 도구 Claude Code 접근 권한을 제거한 것으로 확인되며, 기존 Pro 사용자는 현재까지 웹 앱을 통한 접근이 유지되는 상황\n지원 문서가 기존 &quot;Pro or Max Plan&quot;에서 &quot;Max Plan&quot;으로 ...",
+    "score": 0,
+    "published_at": "2026-04-22T01:43:16+00:00",
+    "ai_summary": "Anthropic이 월 20달러 Pro 요금제 신규 가입자에게서 AI 코딩 도구 Claude Code 접근 권한을 제거한 것으로 보입니다. 기존 Pro 사용자는 현재까지 웹 앱을 통한 접근이 유지되지만, 지원 문서가 'Pro or Max Plan'에서 'Max Plan'으로 변경되었습니다. 이는 AI 코딩 도구의 접근성과 가격 정책 변화를 의미합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28763",
+    "title": "ChatGPT Images 2.0 공개",
+    "url": "https://news.hada.io/topic?id=28763",
+    "discussion_url": "https://news.hada.io/topic?id=28763",
+    "summary": "OpenAI가 이미지 생성 모델의 차세대 버전을 공개, 소개글 자체에 문자로 적지 않고 Images 2.0 이용해서 생성한 이미지에 넣은 텍스트로만 소개함\n복잡한 시각적 작업과 정밀한 텍스트 렌더링을 포함한 즉시 사용 가능한 결과물 생성에 초점을 맞춤\n최초의 사고(t...",
+    "score": 0,
+    "published_at": "2026-04-22T01:33:05+00:00",
+    "ai_summary": "OpenAI가 이미지 생성 모델의 차세대 버전인 ChatGPT Images 2.0을 공개했습니다. 이 모델은 복잡한 시각적 작업과 정밀한 텍스트 렌더링에 초점을 맞춰 즉시 사용 가능한 결과물을 생성합니다. 소개는 모델이 생성한 이미지 내 텍스트로 대체하는 독특한 방식을 사용했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28762",
+    "title": "Anthropic, 신규 Pro($20/월) 사용자에게 Claude Code 제공 중단?",
+    "url": "https://news.hada.io/topic?id=28762",
+    "discussion_url": "https://news.hada.io/topic?id=28762",
+    "summary": "Anthropic이 월 $20짜리 Claude Pro 플랜 신규 가입자에게서 Claude Code 접근을 제외한 것으로 보인다는 보도\n기존에는 Pro/Max 플랜에서 Claude Code 사용 가능하다는 안내가 있었지만, 현재 지원 문서 문구가 “Pro or Max” → “Max” 로 변...",
+    "score": 0,
+    "published_at": "2026-04-22T01:22:32+00:00",
+    "ai_summary": "Anthropic이 월 20달러짜리 Claude Pro 플랜 신규 가입자에게서 Claude Code 접근을 제외한 것으로 보인다는 보도가 나왔습니다. 기존 안내는 Pro/Max 플랜에서 Claude Code 사용 가능했으나, 지원 문서 문구가 “Pro or Max” → “Max”로 변경되었습니다. 이는 AI 코딩 도구의 구독 정책 변화에 대한 중요한 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28761",
+    "title": "Anthropic - OpenClaw : 다시 사용 가능해짐",
+    "url": "https://news.hada.io/topic?id=28761",
+    "discussion_url": "https://news.hada.io/topic?id=28761",
+    "summary": "Anthropic 담당자가 OpenClaw 스타일의 Claude CLI 사용이 다시 허용된다고 통보함\nAnthropic API 키와 Claude CLI 재사용을 함께 지원하며, 기존 Anthropic 토큰 프로필도 실행 시 계속 인정됨\nClaude CLI 백엔드는 다...",
+    "score": 0,
+    "published_at": "2026-04-22T00:50:58+00:00",
+    "ai_summary": "Anthropic 담당자가 OpenClaw 스타일의 Claude CLI(Command Line Interface) 사용이 다시 허용된다고 통보했습니다. Anthropic API 키와 Claude CLI 재사용이 지원되며, 기존 Anthropic 토큰 프로필도 계속 인정됩니다. 이는 개발자들이 Claude AI를 CLI를 통해 더 쉽게 접근하고 활용할 수 있음을 의미합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28758",
+    "title": "Google LiteRT-LM - 엣지 디바이스용 고성능 LLM 추론 프레임워크",
+    "url": "https://news.hada.io/topic?id=28758",
+    "discussion_url": "https://news.hada.io/topic?id=28758",
+    "summary": "구글이 만든 프로덕션 수준의 온디바이스 LLM 추론 엔진으로, Android·iOS·웹·데스크톱·IoT(Raspberry Pi) 등 엣지 환경 전반에서 대규모 언어 모델 실행 가능\n최신 Gemma 4 모델 지원도 추가, GPU·NPU 하드웨어 가속을 통해 엣지 디바이스에서도...",
+    "score": 0,
+    "published_at": "2026-04-22T00:31:02+00:00",
+    "ai_summary": "구글이 Android, iOS, 웹, 데스크톱, IoT 등 다양한 엣지 환경에서 LLM을 실행하는 프로덕션 수준의 추론 엔진 LiteRT-LM을 공개했습니다. 최신 Gemma 4 모델 지원과 GPU/NPU 하드웨어 가속을 통해 엣지 디바이스에서도 고성능 LLM 추론이 가능합니다. 이는 엣지 AI 개발자들에게 중요한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28757",
+    "title": "Show GN: Rust/Tauri로 개발한 완전 자동화 AI 소설 생성기 &#039;NovelGen AI&#039; (로컬 LLM/Google API지원)",
+    "url": "https://news.hada.io/topic?id=28757",
+    "discussion_url": "https://news.hada.io/topic?id=28757",
+    "summary": "안녕하세요! 아이디어(시드) 하나만 던져주면 알아서 플롯을 짜고 챕터별로 소설을 완성해 주는 윈도우용 데스크탑 앱 NovelGen AI를 소개합니다.\n평소 챗봇과 대화하며 소설을 쓰는 과정에서 매번 프롬프트를 입력하고 흐름을 유지하는 것이 번거로워, 이 과정을 자동화해보고자 Rust와 Tauri를 기반으로 개발",
+    "score": 0,
+    "published_at": "2026-04-22T00:09:29+00:00",
+    "ai_summary": "Rust와 Tauri를 기반으로 개발된 완전 자동화 AI 소설 생성기 'NovelGen AI'가 공개되었습니다. 이 윈도우용 데스크톱 앱은 아이디어만 주면 플롯을 짜고 챕터별로 소설을 완성하며, 로컬 LLM과 Google API를 지원합니다. 개발자는 챗봇을 통한 소설 작성의 번거로움을 자동화하고자 이 프로젝트를 만들었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47868867",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47868867",
+    "summary": "",
+    "score": 253,
+    "published_at": "2026-04-22T20:27:31+00:00",
+    "ai_summary": "애플이 경찰이 아이폰에서 삭제된 채팅 메시지를 추출하는 데 사용했던 버그를 수정했습니다.\n이 버그는 사용자 개인 정보 보호 및 기기 보안에 심각한 위협이었습니다.\n보안 취약점 수정은 소프트웨어 개발 및 운영체제 보안에 중요한 의미를 가집니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47866697",
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47866697",
+    "summary": "",
+    "score": 336,
+    "published_at": "2026-04-22T17:35:03+00:00",
+    "ai_summary": "연구원들이 파이어폭스에서 사용자의 모든 프라이빗 Tor 신원을 연결할 수 있는 안정적인 식별자를 발견했습니다.\n이는 익명성을 저해하고 사용자 추적 가능성을 높이는 심각한 개인 정보 보호 문제입니다.\n브라우저 보안 및 익명성 도구 개발에 있어 중요한 고려사항이자 개선이 필요한 부분입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47863217",
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "discussion_url": "https://news.ycombinator.com/item?id=47863217",
+    "summary": "",
+    "score": 622,
+    "published_at": "2026-04-22T13:19:58+00:00",
+    "ai_summary": "Qwen3.6-27B 모델이 270억 개 파라미터 규모에서 플래그십 수준의 코딩 성능을 달성했습니다.\n이는 작은 규모의 모델로도 높은 코드 생성 및 이해 능력을 제공할 수 있음을 보여줍니다.\nAI 기반 코드 개발 및 자동화 분야에 큰 영향을 미칠 수 있는 중요한 진전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47824943",
+    "title": "5x5 Pixel font for tiny screens",
+    "url": "https://maurycyz.com/projects/mcufont/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47824943",
+    "summary": "",
+    "score": 363,
+    "published_at": "2026-04-19T15:19:28+00:00",
+    "ai_summary": "매우 작은 화면을 위한 5x5 픽셀 크기의 미니멀리스트 폰트가 개발되었습니다.\n이는 제한된 디스플레이 환경에서 가독성을 확보하고 공간 효율성을 극대화합니다.\n임베디드 시스템, 웨어러블 기기 또는 레트로 게임 등 특정 프론트엔드 개발에 유용합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47866913",
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47866913",
+    "summary": "",
+    "score": 269,
+    "published_at": "2026-04-22T17:51:17+00:00",
+    "ai_summary": "과도한 편집(Over-editing)은 모델이 필요 이상으로 코드를 수정하는 현상을 지칭합니다.\n이는 AI 기반 코드 생성 및 수정 도구의 효율성과 신뢰성에 부정적인 영향을 미칠 수 있습니다.\n모델의 정확성과 사용자 의도 파악 능력을 향상시키기 위한 중요한 연구 과제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47861270",
+    "title": "Windows 9x Subsystem for Linux",
+    "url": "https://social.hails.org/@hailey/116446826733136456",
+    "discussion_url": "https://news.ycombinator.com/item?id=47861270",
+    "summary": "",
+    "score": 865,
+    "published_at": "2026-04-22T09:52:52+00:00",
+    "ai_summary": "리눅스에서 윈도우 9x 애플리케이션을 실행할 수 있는 서브시스템이 개발되었습니다.\n이는 오래된 윈도우 애플리케이션의 호환성과 접근성을 확장하는 데 기여합니다.\n운영체제 가상화 및 레거시 소프트웨어 지원에 대한 흥미로운 기술적 접근입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47867048",
+    "title": "Website streamed live directly from a model",
+    "url": "https://flipbook.page/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47867048",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-04-22T18:01:18+00:00",
+    "ai_summary": "웹사이트 콘텐츠가 AI 모델에서 직접 실시간으로 스트리밍되는 새로운 접근 방식이 시연되었습니다.\n이는 동적인 콘텐츠 생성 및 개인화된 사용자 경험 제공에 혁신적인 가능성을 제시합니다.\n프론트엔드와 AI/ML 기술의 융합을 통한 차세대 웹 개발의 한 형태입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47864785",
+    "title": "Ping-pong robot beats top-level human players",
+    "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47864785",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-04-22T15:13:48+00:00",
+    "ai_summary": "탁구 로봇이 최상위권 인간 선수들을 물리치며 로봇 공학과 AI 기술의 발전을 입증했습니다.\n이는 정교한 제어 시스템과 실시간 의사 결정 능력이 결합된 결과입니다.\n스포츠 분야와 AI의 접목 가능성을 보여주는 흥미로운 기술 진전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47865661",
+    "title": "Technical, cognitive, and intent debt",
+    "url": "https://martinfowler.com/fragments/2026-04-02.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47865661",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-04-22T16:11:23+00:00",
+    "ai_summary": "기술 부채를 넘어 인지 부채와 의도 부채 개념을 소개하며 소프트웨어 프로젝트의 복잡성을 분석합니다.\n개발팀의 의사 결정, 학습 비용, 그리고 장기적인 시스템 유지보수에 미치는 영향을 다룹니다.\n효과적인 프로젝트 관리와 팀 생산성 향상을 위한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47862497",
+    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47862497",
+    "summary": "",
+    "score": 373,
+    "published_at": "2026-04-22T12:15:29+00:00",
+    "ai_summary": "구글이 '에이전트 시대'를 겨냥한 8세대 TPU 칩을 공개했습니다.\n이는 머신러닝 모델 학습 및 추론 성능을 혁신적으로 향상시킬 하드웨어 발전입니다.\nAI/ML 개발자와 클라우드 기반 AI 인프라 활용에 중요한 영향을 미칠 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47864393",
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47864393",
+    "summary": "",
+    "score": 259,
+    "published_at": "2026-04-22T14:44:32+00:00",
+    "ai_summary": "Show HN 프로젝트에서 AI 디자인 패턴을 평가하는 기준과 방법에 대해 설명합니다.\nAI 애플리케이션 개발의 모범 사례와 아키텍처 원칙을 탐구하는 데 중점을 둡니다.\nAI/ML 개발자들이 더 나은 시스템을 설계하는 데 실질적인 도움을 줄 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47866750",
+    "title": "Parallel agents in Zed",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=47866750",
+    "summary": "",
+    "score": 135,
+    "published_at": "2026-04-22T17:38:57+00:00",
+    "ai_summary": "Zed 코드 에디터가 병렬 에이전트를 활용하여 성능과 반응성을 극대화하는 방법을 소개합니다.\n복잡한 코드 분석 및 자동 완성 작업을 병렬 처리하여 개발 경험을 향상시킵니다.\n개발자 생산성과 새로운 에디터 기술에 관심 있는 이들에게 중요한 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47866860",
+    "title": "Workspace Agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47866860",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-04-22T17:47:07+00:00",
+    "ai_summary": "ChatGPT에 Workspace Agents 기능이 추가되어 AI 모델 활용 범위를 넓히는 내용을 다룹니다.\n개발자가 AI 에이전트를 통해 업무 자동화 및 생산성을 높이는 방안에 대한 통찰을 제공합니다.\nLLM 기반 에이전트 개발 및 적용에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47862331",
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "url": "https://cli.github.com/telemetry",
+    "discussion_url": "https://news.ycombinator.com/item?id=47862331",
+    "summary": "",
+    "score": 390,
+    "published_at": "2026-04-22T11:58:58+00:00",
+    "ai_summary": "GitHub CLI가 이제 가명화된 원격 측정 데이터를 수집한다는 소식을 전합니다.\n개발 도구의 사용성 개선과 함께 개인정보 보호 및 데이터 수집 정책에 대한 논의를 다룹니다.\n개발자들이 사용하는 핵심 도구의 변화와 보안/개인정보에 대한 관심이 높으므로 관련성이 큽니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47836354",
+    "title": "First per-image PCA decomposition of Kodak suite reveals deliberate curation",
+    "url": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization",
+    "discussion_url": "https://news.ycombinator.com/item?id=47836354",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-04-20T16:12:50+00:00",
+    "ai_summary": "코닥 이미지 스위트에 대한 최초의 이미지별 PCA 분석이 수행되었습니다.\n이는 데이터 세트의 의도적인 큐레이션(선별) 특성을 밝혀냈습니다.\n이미지 처리 및 데이터 분석 분야 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47866395",
+    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+    "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47866395",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-04-22T17:13:19+00:00",
+    "ai_summary": "감시 가격 책정(Surveillance Pricing)은 정보 비대칭성을 악용하는 경제적 전략입니다.\n사용자 데이터 프라이버시, 보안 및 윤리적 개발 관행과 관련이 깊습니다.\n시스템 설계 및 정책 결정에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47838134",
+    "title": "Anonymous credentials: an illustrated primer (Part 2)",
+    "url": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47838134",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-04-20T17:58:13+00:00",
+    "ai_summary": "익명 자격 증명(Anonymous credentials)에 대한 입문서의 2부입니다.\n사용자의 신원 노출 없이 인증하는 보안 기술을 다룹니다.\n보안 및 프라이버시 기술 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47865642",
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "url": "https://github.com/besimple-oss/broccoli",
+    "discussion_url": "https://news.ycombinator.com/item?id=47865642",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-04-22T16:09:56+00:00",
+    "ai_summary": "Hacker News에 소개된 Broccoli는 클라우드 기반의 원샷 코딩 에이전트입니다.\nAI를 활용하여 개발 작업을 자동화하는 새로운 도구로 보입니다.\nAI/ML, 클라우드 및 개발 생산성 도구에 관심 있는 개발자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47862626",
+    "title": "Columnar Storage Is Normalization",
+    "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47862626",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-04-22T12:30:14+00:00",
+    "ai_summary": "컬럼형 스토리지(Columnar Storage)와 데이터베이스 정규화(Normalization)의 관계를 다룹니다.\n이는 데이터 저장 방식과 데이터 모델링의 근본적인 개념입니다.\n데이터베이스 설계, 데이터 엔지니어링 및 백엔드 개발자에게 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "title": "ChatGPT Images 2.0 (6 minute read)",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "discussion_url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "summary": "OpenAI introduced an upgraded image model with improved text rendering, multi-image reasoning, and higher fidelity outputs, enabling complex assets like comics and marketing visuals.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "OpenAI가 향상된 텍스트 렌더링 및 다중 이미지 추론 기능을 갖춘 이미지 모델을 업그레이드했습니다. 이 모델은 만화, 마케팅 비주얼 등 복잡한 에셋 생성이 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/",
+    "title": "OpenAI develops platform for always-on Agents on ChatGPT (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/",
+    "discussion_url": "https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/",
+    "summary": "OpenAI is developing an always-on agent platform within ChatGPT, codenamed Hermes, that allows users to create and continuously run custom agents. This platform includes features for creating workflows, integrating skills, and scheduling tasks, enabling agents to act independently rather than waiting for prompts. OpenAI's move presents strong competition to existing platforms like Notion by bringing such capabilities to a vast user base.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "OpenAI가 ChatGPT 내에서 상시 실행되는 에이전트 플랫폼(Hermes)을 개발 중입니다. 사용자는 워크플로우 생성, 스킬 통합, 작업 스케줄링을 통해 독립적으로 작동하는 맞춤형 에이전트를 만들 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.alphaxiv.org/abs/2604.15804",
+    "title": "Qwen3.5-Omni Technical Report (4 minute read)",
+    "url": "https://www.alphaxiv.org/abs/2604.15804",
+    "discussion_url": "https://www.alphaxiv.org/abs/2604.15804",
+    "summary": "Qwen3.5-Omni is a large-scale multimodal model with hundreds of billions of parameters that natively processes text, audio, images, and video within a unified architecture. The model supports a 256k token context length to seamlessly handle up to 10 hours of audio or 400 seconds of high definition video in real time. It leverages a Hybrid Attention Mixture of Experts framework alongside a dynamic alignment technique called ARIA to generate highly stable and emotionally nuanced multilingual speec",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "Qwen3.5-Omni는 텍스트, 오디오, 이미지, 비디오를 통합된 아키텍처로 처리하는 대규모 멀티모달 모델입니다. 256k 토큰 컨텍스트 길이를 지원하며, Hybrid Attention Mixture of Experts 및 ARIA 기술을 활용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+    "title": "Image Generation Prompting Guide (38 minute read)",
+    "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+    "discussion_url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+    "summary": "A practical guide that outlines prompting strategies for image generation, covering techniques for controlling style, structure, and fidelity in production image workflows.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "이미지 생성 시 스타일, 구조, 충실도를 제어하는 실용적인 프롬프트 전략 가이드입니다. 생산 환경의 이미지 워크플로우에서 효과적인 프롬프트 기법을 다룹니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/RampLabs/status/2046624992956146158",
+    "title": "Coding agents ignore their own budgets (5 minute read)",
+    "url": "https://x.com/RampLabs/status/2046624992956146158",
+    "discussion_url": "https://x.com/RampLabs/status/2046624992956146158",
+    "summary": "Ramp Labs discovered that autonomous coding agents completely ignore passive token limits and cannot reliably regulate their own spending. When forced to explicitly approve or deny budget extensions, the models exhibited severe self-attribution bias by overly praising their own progress and nearly always approving more spend. To effectively manage costs, researchers had to separate the working agent from financial decisions by deploying an independent controller model that evaluates objective wo",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "자율 코딩 에이전트가 토큰 제한을 무시하고 비용 지출을 스스로 통제하지 못하는 문제가 발견되었습니다. 비용 관리를 위해 독립적인 컨트롤러 모델을 사용하여 작업 에이전트와 재정 결정을 분리해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://salmanrahman.net/rlvr-weak-supervision",
+    "title": "When Can LLMs Learn to Reason with Weak Supervision? (4 minute read)",
+    "url": "https://salmanrahman.net/rlvr-weak-supervision",
+    "discussion_url": "https://salmanrahman.net/rlvr-weak-supervision",
+    "summary": "This study found that models with extended pre-saturation phases generalize well from minimal examples and tolerate noise, while rapidly saturating models fail. The key issue is unfaithful reasoning, where models memorize answers rather than learning transferable reasoning. Continual pre-training and supervised fine-tuning on explicit reasoning traces improve reasoning faithfulness and generalization under weak supervision.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "LLM은 최소한의 예시에서 일반화하고 노이즈를 견디려면 충분한 사전 학습 기간이 필요합니다. 모델이 답변을 암기하는 '불충실한 추론'이 문제이며, 지속적인 사전 학습과 미세 조정으로 개선할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mkimhi.github.io/DNL/",
+    "title": "Critical Bits in Neural Networks (6 minute read)",
+    "url": "https://mkimhi.github.io/DNL/",
+    "discussion_url": "https://mkimhi.github.io/DNL/",
+    "summary": "Deep Neural Lesion (DNL) identifies highly sensitive parameters where flipping just a few bits can collapse model performance across vision and language tasks. The work also shows that protecting a small subset of these bits can mitigate such failures.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "DNL은 몇 비트만 변경해도 모델 성능이 저하될 수 있는 매우 민감한 신경망 파라미터를 식별합니다. 이러한 민감한 비트의 일부만 보호해도 모델 오류를 완화할 수 있음을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/pedroh96/status/2046604993982009825",
+    "title": "CrabTrap: an LLM-as-a-judge HTTP proxy to secure agents in production (9 minute read)",
+    "url": "https://x.com/pedroh96/status/2046604993982009825",
+    "discussion_url": "https://x.com/pedroh96/status/2046604993982009825",
+    "summary": "CrabTrap is an open-source HTTP/HTTPS proxy that intercepts every request an AI agent makes and uses LLM-as-a-judge to determine if the request matches a policy of allowed traffic for that agent. Agents need real credentials, but can hallucinate destructive actions or get prompt-injected. This can have production consequences. CrabTrap introduces guardrails that represent a meaningful step forward in the security of agent harnesses in production environments.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "CrabTrap은 AI 에이전트의 요청을 가로채 정책 준수 여부를 판단하는 오픈소스 HTTP/HTTPS 프록시입니다. 에이전트의 유해한 행동이나 프롬프트 인젝션으로부터 프로덕션 환경의 보안을 강화하는 데 사용됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/",
+    "title": "Stitch's DESIGN.md format is now open-source so you can use it across platforms. (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/",
+    "summary": "Stitch's DESIGN.md lets users export or import design rules from project to project. Stitch understands the reasoning behind design systems and can generate user interfaces that match branches. Google has open sourced the draft specification for DESIGN.md, which can be used across any tool or platform. A video breaking down the format is available in the article.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "Stitch의 DESIGN.md는 디자인 규칙을 프로젝트 간에 내보내거나 가져올 수 있게 해줍니다. Google이 DESIGN.md 사양을 오픈 소스화하여 다양한 도구와 플랫폼에서 사용할 수 있습니다. 디자인 시스템의 논리를 이해하고 브랜치에 맞는 UI를 생성할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9?st=WkZB94&reflink=desktopwebshare_permalink",
+    "title": "OpenAI Is Working With Consultants to Sell Codex (3 minute read)",
+    "url": "https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9?st=WkZB94&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9?st=WkZB94&reflink=desktopwebshare_permalink",
+    "summary": "OpenAI is working with several consulting firms to help sell its AI coding tool Codex to businesses. Codex now has four million weekly active users, up from three million just two weeks ago. The Codex consulting program is part of OpenAI's push to focus on coding and enterprise businesses. Consulting partners will get access to an AI coding tool as part of the program.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "OpenAI가 컨설팅 회사와 협력하여 AI 코딩 도구인 Codex를 기업에 판매하고 있습니다. Codex의 주간 활성 사용자 수가 4백만 명으로 증가했으며, OpenAI는 코딩 및 엔터프라이즈 비즈니스에 집중하고 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jobs.ashbyhq.com/tldr.tech/038c4419-5b48-4279-a75e-6f7a0afdb240",
+    "title": "TLDR is hiring a curator for TLDR AI (3-5 hrs/week, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/038c4419-5b48-4279-a75e-6f7a0afdb240",
+    "discussion_url": "https://jobs.ashbyhq.com/tldr.tech/038c4419-5b48-4279-a75e-6f7a0afdb240",
+    "summary": "We're hiring an engineer/researcher at a major AI lab or startup to help write for 1M+ subscribers. Curators have been invited to Google I/O and OpenAI DevDay, scouted for Tier 1 VCs, and get early access to unreleased TLDR products.Learn more.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "TLDR AI 뉴스레터에서 AI 연구원/엔지니어를 큐레이터로 채용하고 있습니다. 주요 AI 연구소나 스타트업의 엔지니어/연구원을 대상으로 하며, 큐레이터는 다양한 업계 행사 초대 및 TLDR 제품에 대한 조기 액세스 권한을 얻습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
+    "title": "Deep Research Max: a step change for autonomous research agents (6 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
+    "summary": "Google has introduced Deep Research and Deep Research Max, leveraging the Gemini 3.1 Pro model to enhance autonomous research capabilities.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "Google이 Gemini 3.1 Pro 모델을 활용한 Deep Research 및 Deep Research Max를 출시했습니다. 이는 자율 연구 역량을 크게 향상시키는 것을 목표로 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "title": "The fall of the theorem economy (63 minute read)",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "discussion_url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "summary": "It will eventually become unthinkable to do math without AI assistance, just like it has become unthinkable to do math without set theory and LaTeX.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "AI 도움 없이는 수학을 하는 것이 불가능해지는 시대가 올 것이라고 예측합니다. 이는 과거에 집합론이나 LaTeX 없이 수학을 하는 것을 상상할 수 없게 된 것과 유사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/",
+    "title": "Anthropics works on its always-on agent with UI extensions (3 minute read)",
+    "url": "https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/",
+    "discussion_url": "https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/",
+    "summary": "Anthropic's \"Conway\" is an always-on agent with UI extensions available on web and mobile, allowing users to manage connectors, install extensions, and configure the environment.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "Anthropic은 웹 및 모바일에서 UI 확장을 제공하는 상시 작동 에이전트 \"Conway\"를 개발 중입니다. 이 에이전트는 사용자가 커넥터를 관리하고, 확장을 설치하며, 환경을 구성할 수 있게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://agent-tars-world.github.io/-/",
+    "title": "Agent World Training Arena (3 minute read)",
+    "url": "https://agent-tars-world.github.io/-/",
+    "discussion_url": "https://agent-tars-world.github.io/-/",
+    "summary": "Agent-World describes a self-evolving environment that generates tasks and feedback loops to continuously train and improve autonomous agents.",
+    "score": 0,
+    "published_at": "2026-04-22T23:47:52+00:00",
+    "ai_summary": "Agent-World는 자율 에이전트의 훈련 및 개선을 위한 자기 진화 환경을 설명합니다. 이 환경은 지속적인 학습을 위해 작업과 피드백 루프를 생성합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
