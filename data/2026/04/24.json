@@ -1,0 +1,887 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28830",
+    "title": "GStack: Y Combinator CEO가 만든 AI 코딩 에이전트 프레임워크 유투브소개",
+    "url": "https://news.hada.io/topic?id=28830",
+    "discussion_url": "https://news.hada.io/topic?id=28830",
+    "summary": "YC(Y Combinator) 대표이자 엔지니어 출신인 개리 탄(Garry Tan)이 자신의 AI 코딩 워크플로우를 오픈소스로 공개했습니다. GStack은 Claude Code를 단순한 코드 생성 도구가 아니라, 마치 CEO·디자이너·엔지니어·QA 담당자로 구성된 가상의 소프트웨어 팀처럼 작동하게 만드는 스킬 팩(skill pack)입니다. 공개 3주...",
+    "score": 0,
+    "published_at": "2026-04-23T22:54:14+00:00",
+    "ai_summary": "Y Combinator CEO가 자신의 AI 코딩 워크플로우 'GStack'을 오픈소스로 공개했습니다.\nGStack은 Claude Code를 CEO, 디자이너, 엔지니어, QA 팀처럼 작동하게 하는 스킬 팩입니다.\n이는 단순 코드 생성 도구가 아닌 가상 소프트웨어 팀으로 AI를 활용하는 방법을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28828",
+    "title": "Anthropic의 Claude Code 장애 포스트모템: 2025년 4월 23일",
+    "url": "https://news.hada.io/topic?id=28828",
+    "discussion_url": "https://news.hada.io/topic?id=28828",
+    "summary": "지난 한 달간 일부 사용자들이 Claude의 응답 품질이 저하되었다는 보고가 이어졌습니다. Anthropic은 이를 추적한 결과, Claude Code, Claude Agent SDK, Claude Cowork에 영향을 준 세 가지 서로 다른 변경 사항이 원인이었음을 확인했습니다. API 자체에는 영향이 없었으며, 2025년 4월 20일(v2.1.116) 기준으로 모...",
+    "score": 0,
+    "published_at": "2026-04-23T22:01:43+00:00",
+    "ai_summary": "Anthropic의 Claude Code에서 발생한 응답 품질 저하 장애에 대한 포스트모템입니다.\n세 가지 다른 변경 사항이 Claude Code, Agent SDK, Cowork에 영향을 미쳤음이 확인되었습니다.\nAPI 자체에는 영향이 없었으며, 4월 20일부로 대부분 문제가 해결되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28826",
+    "title": "Show GN: 바이브코딩으로 바이브코딩하는 앱을 만들었습니다.",
+    "url": "https://news.hada.io/topic?id=28826",
+    "discussion_url": "https://news.hada.io/topic?id=28826",
+    "summary": "바이브코딩으로 바이브코딩하는 앱을 만들어보았습니다.\n터미널에이전트들을 ws를 통해 조작하는 형태라 API는 필요 없구요(지원예정도 없습니다)\n일종의 IDE입니다(하지만 직접 코드 작성은 하지 않습니다.) 거창하게 AOC(Agent Ochestration Client)라고 해봤습니다. 구독 서비스 2개 이상(로컬llm포함",
+    "score": 0,
+    "published_at": "2026-04-23T21:23:10+00:00",
+    "ai_summary": "AI 에이전트들을 WS로 조작하는 형태의 '바이브코딩으로 바이브코딩하는 앱'을 만들었습니다.\n이 앱은 직접 코드를 작성하지 않는 일종의 IDE이자 Agent Orchestration Client (AOC)입니다.\nAPI는 제공되지 않으며, 로컬 LLM을 포함한 구독 서비스 두 개 이상을 사용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28825",
+    "title": "AI 디자인 패턴으로 Show HN 제출물 점수화",
+    "url": "https://news.hada.io/topic?id=28825",
+    "discussion_url": "https://news.hada.io/topic?id=28825",
+    "summary": "최근 Show HN 제출 수 증가와 함께 비슷한 인상의 랜딩 페이지가 반복적으로 나타났고, 최신 Show HN 500개 페이지를 기준으로 공통 패턴을 점수화함\n점수 기준은 폰트, 색상, 레이아웃, CSS 패턴에 걸친 15개 항목이며, 가운데...",
+    "score": 0,
+    "published_at": "2026-04-23T20:38:35+00:00",
+    "ai_summary": "최근 Show HN 제출물 중 반복되는 랜딩 페이지 디자인 패턴을 AI로 분석하여 점수화했습니다.\n폰트, 색상, 레이아웃, CSS 패턴 등 15개 항목을 기준으로 상위 500개 페이지를 분석했습니다.\n이는 AI를 활용한 디자인 트렌드 분석 및 피드백 시스템의 가능성을 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28824",
+    "title": "기술 부채, 인지 부채, 의도 부채",
+    "url": "https://news.hada.io/topic?id=28824",
+    "discussion_url": "https://news.hada.io/topic?id=28824",
+    "summary": "LLM이 코드를 대량 생산하는 환경에서는 코드 자체의 문제만이 아니라 팀의 공유 이해와 시스템 목표 기록까지 함께 약해지며, 이를 기술 부채·인지 부채·의도 부채의 세 층으로 나눠 다룰 필요가 커짐\nTechnical debt는 미래 변경 가능성을 제한...",
+    "score": 0,
+    "published_at": "2026-04-23T19:48:14+00:00",
+    "ai_summary": "LLM의 코드 대량 생산 환경에서 발생하는 기술, 인지, 의도 부채의 중요성이 커지고 있습니다.\n기술 부채는 미래 변경 가능성 제한, 인지 부채는 팀의 공유 이해 부족, 의도 부채는 시스템 목표 기록 약화를 의미합니다.\n이 세 가지 부채를 다층적으로 이해하고 관리하는 것이 필요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28817",
+    "title": "Google Agents CLI — 코딩 에이전트를 에이전트 빌더로 만드는 메타 도구",
+    "url": "https://news.hada.io/topic?id=28817",
+    "discussion_url": "https://news.hada.io/topic?id=28817",
+    "summary": "Google이 Cloud Next에서 공개한 agents-cli는 Gemini CLI, Claude Code, Codex 같은 코딩 에이전트에게 Google Cloud 기반 AI 에이전트를 설계하고 배포하는 전문 역량을 주입하는 CLI 도구입니다. 에이전트 그 자체가 아니라, 에이전트를 만드는 에이전트의 실력을 끌어올리는 레이어에 해당...",
+    "score": 0,
+    "published_at": "2026-04-23T12:24:52+00:00",
+    "ai_summary": "Google이 agents-cli를 공개하며 코딩 에이전트를 AI 에이전트 빌더로 만들었습니다.\n이 CLI 도구는 Gemini, Claude Code 등 기존 코딩 에이전트에 Cloud 기반 AI 에이전트 설계 및 배포 역량을 부여합니다.\n이는 에이전트 그 자체가 아니라, 에이전트를 만드는 에이전트의 능력을 향상시키는 메타 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28815",
+    "title": "Gemini Deep Research Agent API 공개",
+    "url": "https://news.hada.io/topic?id=28815",
+    "discussion_url": "https://news.hada.io/topic?id=28815",
+    "summary": "구글이 Gemini Deep Research Agent를 API로 공개했습니다. Deep Research란 사용자가 던진 질문에 대해 AI가 스스로 검색 계획을 세우고, 여러 웹페이지를 탐색·비교·종합하여 출처가 달린 긴 호흡의 보고서를 자동 생성해주는 기능입니다. 기존에는 Google AI Studio 웹 UI에서만 쓸 수 있었는데, 이번에 Interacti...",
+    "score": 0,
+    "published_at": "2026-04-23T08:46:15+00:00",
+    "ai_summary": "Google이 Gemini Deep Research Agent를 API로 공개하여 개발자들이 활용할 수 있게 했습니다.\n이 에이전트는 사용자의 질문에 대해 스스로 검색 계획을 세우고 보고서를 자동 생성합니다.\n기존 웹 UI에서만 가능했던 기능을 이제 API를 통해 외부 서비스와 연동할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28812",
+    "title": "Show GN: AI 에이전트를 위한 HTTP 자격 증명 프록시이자 시크릿 저장소",
+    "url": "https://news.hada.io/topic?id=28812",
+    "discussion_url": "https://news.hada.io/topic?id=28812",
+    "summary": "Show GN: AI 에이전트를 위한 HTTP 자격 증명 프록시이자 시크릿 저장소",
+    "score": 0,
+    "published_at": "2026-04-23T06:53:17+00:00",
+    "ai_summary": "AI 에이전트의 HTTP 자격 증명 관리와 시크릿 저장을 위한 프록시 솔루션입니다.\n이를 통해 AI 에이전트의 보안 및 인증 프로세스를 강화할 수 있습니다.\n개발자들이 AI 애플리케이션에 보안 기능을 통합할 때 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28810",
+    "title": "Google Cloud의 AI 에이전트 거버넌스 스택, &quot;에이전트를 엔지니어 조직처럼 관리하라&quot;",
+    "url": "https://news.hada.io/topic?id=28810",
+    "discussion_url": "https://news.hada.io/topic?id=28810",
+    "summary": "Google Cloud가 Cloud Next 26에서 발표한 Gemini Enterprise Agent Platform의 거버넌스 스택은, AI 에이전트 보안 관리에 대한 체계적인 프레임워크를 제시합니다. 핵심 철학은 단순합니다. 에이전트 집단(fleet)을 엔지니어링 조직처럼 다루라는 것입니다. 신원을 부여하고, 접근 권한을 통제하고, 정책을 강제하고...",
+    "score": 0,
+    "published_at": "2026-04-23T06:35:13+00:00",
+    "ai_summary": "Google Cloud가 Gemini Enterprise Agent Platform의 거버넌스 스택을 공개했습니다.\nAI 에이전트 보안 관리를 위한 체계적인 프레임워크를 제시하며, 에이전트 집단을 엔지니어 조직처럼 관리합니다.\n신원 부여, 접근 권한 통제, 정책 강제 등의 원칙을 적용하여 대규모 AI 관리에 필수적입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28809",
+    "title": "Show GN: 코덱스 인증을 이용해 gpt images 2.0 모델을 사용하는 SDK &amp; CLI",
+    "url": "https://news.hada.io/topic?id=28809",
+    "discussion_url": "https://news.hada.io/topic?id=28809",
+    "summary": "코덱스를 통해서 GPT-images-2.0 (duct-tape) 모델을 cli, node.js, python SDK 형태로 호출할 수 있는 오픈소스 프로젝트입니다.\n제가 해 봤는데 잘 되네요, SDK 사용 시 타임리밋 넉넉하게 두시고 병렬로 실행해보세요.\n코덱스 내부를 분석해서 API 명세를 캐낸 후에 그것을 라이브러리로 말아 보았습니...",
+    "score": 0,
+    "published_at": "2026-04-23T04:46:10+00:00",
+    "ai_summary": "코덱스 인증을 활용하여 GPT-images-2.0 모델을 호출하는 오픈소스 SDK 및 CLI 프로젝트입니다.\nNode.js와 Python SDK 형태로 제공되어 개발자들이 AI 이미지 모델을 쉽게 연동할 수 있습니다.\nAPI 명세를 분석하여 라이브러리로 구현되었으며, 병렬 실행과 넉넉한 타임리밋 설정이 권장됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28808",
+    "title": "vLLM Recipes 개편 - 모델+하드웨어 조합별 설정을 딸각 한방으로",
+    "url": "https://news.hada.io/topic?id=28808",
+    "discussion_url": "https://news.hada.io/topic?id=28808",
+    "summary": "recipes.vllm.ai가 대폭 개편되었습니다. vLLM 으로 &quot;모델 X를 하드웨어 Y에서 어떻게 돌리지?&quot;에 대한 답을 인터랙티브하게 얻을 수 있습니다.\n주요 변경사항\nHuggingFace 미러 URL — huggingface.co를 recipes.vllm.ai로 바꾸면 해당 모델",
+    "score": 0,
+    "published_at": "2026-04-23T04:42:01+00:00",
+    "ai_summary": "vLLM Recipes 웹사이트가 개편되어 LLM 모델과 하드웨어 조합별 최적 설정을 쉽게 찾을 수 있습니다.\n\"모델 X를 하드웨어 Y에서 어떻게 돌리지?\"에 대한 답을 인터랙티브하게 제공합니다.\nHuggingFace 미러 URL을 제공하여 LLM 배포 및 최적화 작업을 간소화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28804",
+    "title": "Anthropic-AWS, 10년 1000억 달러 규모 컴퓨트 파트너십 확대...최대 5GW 신규 용량 확보",
+    "url": "https://news.hada.io/topic?id=28804",
+    "discussion_url": "https://news.hada.io/topic?id=28804",
+    "summary": "Claude의 매출 run-rate가 1년 새 90억 → 300억 달러로 뛰면서 피크 시간대 인프라가 포화된 상황에서 나온 계약.\n\nAnthropic과 AWS가 10년 장기 파트너십을 확장, 최대 5GW 규모의 신규 컴퓨트 용량을 Claude 학습·배포에 사용하기로 합의\nAnthropic은 향후 10년간 AWS에 1000억 달러 이상을",
+    "score": 0,
+    "published_at": "2026-04-23T01:30:24+00:00",
+    "ai_summary": "Anthropic과 AWS가 10년 장기 파트너십을 확대하여 최대 5GW의 신규 컴퓨트 용량을 확보했습니다.\n이는 Claude의 급증하는 매출과 인프라 포화에 대응하기 위함이며, 학습 및 배포에 사용됩니다.\n향후 10년간 Anthropic이 AWS에 1000억 달러 이상을 투자하는 대규모 계약입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28801",
+    "title": "우리는 사용자의 모든 비공개 Tor 신원을 연결하는 안정적인 Firefox 식별자를 발견했다",
+    "url": "https://news.hada.io/topic?id=28801",
+    "discussion_url": "https://news.hada.io/topic?id=28801",
+    "summary": "indexedDB.databases()의 반환 순서만으로 Firefox 기반 브라우저에서 프로세스 수명 동안 유지되는 안정적 식별자 생성 가능\n이 식별자는 origin 범위를 넘어서 공유되어, 관련 없는 사이트들도 같은 브라우저 런타임 안에서 동일한 값을 관측하며 ...",
+    "score": 0,
+    "published_at": "2026-04-23T01:03:47+00:00",
+    "ai_summary": "Firefox 기반 브라우저에서 indexedDB.databases() 반환 순서로 안정적인 식별자 생성이 발견되었습니다.\n이 식별자는 origin 범위를 넘어 공유되어, 동일 브라우저 런타임 내에서 사용자 추적에 사용될 수 있습니다.\n이는 Tor 사용자의 비공개 신원을 연결할 수 있는 심각한 개인 정보 보호 취약점입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28800",
+    "title": "Show GN: 카톡 답장 귀찮아서, 폰 안에서 돌아가는 AI 자동응답을 만들었습니다",
+    "url": "https://news.hada.io/topic?id=28800",
+    "discussion_url": "https://news.hada.io/topic?id=28800",
+    "summary": "카톡 답장은 귀찮은데,\nAI 자동응답을 붙이자니 대화 내용이 외부 서버로 나가는 건 찝찝했습니다.\n그래서 카톡 자동답장 도우미를 만들었습니다.\n카카오톡 알림을 읽고,\n선택한 방에만 로컬 AI가 답장하는 Android 앱입니다.\n핵심은 “로컬”입니다.\n\nGemma 4 로컬 모",
+    "score": 0,
+    "published_at": "2026-04-23T01:01:49+00:00",
+    "ai_summary": "카카오톡 답장 귀찮음 해소를 위해 로컬 AI 기반 자동응답 안드로이드 앱이 개발되었습니다.\n대화 내용이 외부 서버로 나가지 않고 폰 안에서 Gemma 4 등 로컬 AI가 작동합니다.\n개인 정보 보호를 중시하며 온디바이스 AI를 활용한 실용적인 애플리케이션 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28799",
+    "title": "에이전트 시대를 위한 두 개의 칩: Google의 8세대 TPU",
+    "url": "https://news.hada.io/topic?id=28799",
+    "discussion_url": "https://news.hada.io/topic?id=28799",
+    "summary": "Google이 10년 이상의 TPU 개발 역사를 집대성해 8세대 TPU 두 종을 발표했으며, 대규모 모델 훈련 전용 TPU 8t와 고속 추론 전용 TPU 8i로 각각 특화한 아키텍처를 채택\nTPU 8t는 단일 슈퍼팟이 9,600칩, 121 ExaFlops까지 확장되며, 이전 세대 ...",
+    "score": 0,
+    "published_at": "2026-04-23T01:00:47+00:00",
+    "ai_summary": "Google이 대규모 모델 훈련 및 고속 추론에 특화된 8세대 TPU 두 종을 발표했습니다.\n훈련 전용 TPU 8t는 단일 슈퍼팟이 9,600칩, 121 ExaFlops까지 확장됩니다.\n고속 추론 전용 TPU 8i와 함께 AI 에이전트 시대를 위한 강력한 하드웨어 기반을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28793",
+    "title": "kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터",
+    "url": "https://news.hada.io/topic?id=28793",
+    "discussion_url": "https://news.hada.io/topic?id=28793",
+    "summary": "로컬 개발 및 CI/CD 테스트에서 실제 AWS 없이도 빠르게 호환 환경을 구성 가능\n단일 바이너리로 가볍게 테스트 환경을 꾸밀수 있고, Docker 기반 실행도 가능\n인증 없이 동작해 자동화 파이프라인에서 AWS 자격 증명 준비 부담을 줄일 수 있음\n...",
+    "score": 0,
+    "published_at": "2026-04-23T00:31:01+00:00",
+    "ai_summary": "kumo는 Go로 작성된 경량 AWS 에뮬레이터로, 로컬 개발 및 CI/CD 테스트 환경에서 실제 AWS 서비스 없이 호환 환경을 빠르게 구성합니다.\n단일 바이너리 또는 Docker 기반으로 가볍게 실행되며, 인증이 필요 없어 자동화 파이프라인의 AWS 자격 증명 부담을 줄여줍니다.\n이는 개발 생산성을 높이고 테스트 비용을 절감하는 데 기여하는 유용한 개발 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47879092",
+    "title": "GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47879092",
+    "summary": "",
+    "score": 984,
+    "published_at": "2026-04-23T18:01:39+00:00",
+    "ai_summary": "GPT-5.5는 Open AI의 차세대 언어 모델로, 성능 및 기능 개선이 예상됩니다.\n개발자들은 이를 통해 더욱 정교하고 복잡한 AI 애플리케이션을 구축할 기회를 얻을 것입니다.\n새로운 기능과 API가 공개되면 AI/LLM 분야에 큰 영향을 미칠 것으로 보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47876043",
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "discussion_url": "https://news.ycombinator.com/item?id=47876043",
+    "summary": "",
+    "score": 608,
+    "published_at": "2026-04-23T14:17:08+00:00",
+    "ai_summary": "Bitwarden CLI가 Checkmarx의 공급망 공격 캠페인에 의해 침해되었습니다.\n이는 개발자들이 사용하는 도구의 보안 취약성과 공급망 공격의 위험성을 시사합니다.\n사용자는 즉시 업데이트 및 보안 조치를 취하고, 개발 환경의 보안을 강화해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47882697",
+    "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "discussion_url": "https://news.ycombinator.com/item?id=47882697",
+    "summary": "",
+    "score": 47,
+    "published_at": "2026-04-23T22:01:59+00:00",
+    "ai_summary": "Tolaria는 Markdown 기반 지식 베이스를 관리하는 오픈 소스 macOS 애플리케이션입니다.\n개발자들이 개인 문서, 프로젝트 노트 등을 효율적으로 정리하고 검색하는 데 유용합니다.\n마크다운을 활용하는 개발자들에게 생산성 향상을 제공할 수 있는 도구입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47878117",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "discussion_url": "https://news.ycombinator.com/item?id=47878117",
+    "summary": "",
+    "score": 138,
+    "published_at": "2026-04-23T16:55:13+00:00",
+    "ai_summary": "MeshCore 개발팀이 상표권 분쟁과 AI 생성 코드 문제로 인해 분열되었습니다.\n이는 AI 생성 코드의 저작권 및 윤리적 문제와 개발팀 내부 갈등의 복잡성을 보여줍니다.\n기술 프로젝트의 비즈니스 및 법적 측면, 그리고 AI 기술 도입 시 발생할 수 있는 잠재적 이슈에 대한 경고입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47878905",
+    "title": "An update on recent Claude Code quality reports",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "discussion_url": "https://news.ycombinator.com/item?id=47878905",
+    "summary": "",
+    "score": 518,
+    "published_at": "2026-04-23T17:48:38+00:00",
+    "ai_summary": "최근 Claude가 생성하는 코드 품질 보고서에 대한 업데이트가 발표되었습니다.\n이는 LLM 기반 코드 생성 도구의 실제 적용 가능성과 신뢰성에 대한 중요한 정보입니다.\n개발자들은 Claude의 코드 품질 변화를 주시하며 AI 코딩 도구의 활용 방안을 모색해야 할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47865822",
+    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "discussion_url": "https://news.ycombinator.com/item?id=47865822",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-04-22T16:25:28+00:00",
+    "ai_summary": "Agent Vault는 에이전트를 위한 오픈 소스 자격 증명 프록시 및 볼트 솔루션입니다.\n자동화된 시스템 및 서비스의 보안 자격 증명 관리를 안전하고 효율적으로 돕습니다.\n개발자들은 이를 통해 서비스 계정 및 API 키 관리의 보안성을 강화할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47877644",
+    "title": "Incident with multple GitHub services",
+    "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+    "discussion_url": "https://news.ycombinator.com/item?id=47877644",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-04-23T16:21:55+00:00",
+    "ai_summary": "GitHub 서비스들이 여러 차례 중단되는 사고가 발생했습니다.\n이는 개발 워크플로우와 코드 저장소 접근에 심각한 영향을 미쳐 개발 생산성 저하를 초래합니다.\n클라우드 서비스 의존도와 안정적인 개발 환경 유지의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47872324",
+    "title": "I am building a cloud",
+    "url": "https://crawshaw.io/blog/building-a-cloud",
+    "discussion_url": "https://news.ycombinator.com/item?id=47872324",
+    "summary": "",
+    "score": 963,
+    "published_at": "2026-04-23T04:44:19+00:00",
+    "ai_summary": "개인이 직접 클라우드 인프라를 구축하는 과정을 설명합니다.\n서버, 스토리지, 네트워킹 등 클라우드 핵심 기술 스택에 대한 깊은 이해를 요구합니다.\n이는 분산 시스템 설계와 클라우드 기반 아키텍처 구현에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47881786",
+    "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+    "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47881786",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-04-23T20:53:27+00:00",
+    "ai_summary": "PyTorch를 구글의 TPU에서 대규모로 기본 실행할 수 있는 TorchTPU 프로젝트가 소개됩니다.\n이는 AI/ML 모델 학습 성능을 크게 향상시키고 효율적인 대규모 연산을 가능하게 합니다.\n딥러닝 개발자들에게 중요한 성능 최적화 및 새로운 하드웨어 활용 기회를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47875843",
+    "title": "UK Biobank health data keeps ending up on GitHub",
+    "url": "https://biobank.rocher.lc",
+    "discussion_url": "https://news.ycombinator.com/item?id=47875843",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-04-23T13:58:03+00:00",
+    "ai_summary": "영국 바이오뱅크의 민감한 건강 데이터가 GitHub에 지속적으로 노출되고 있습니다.\n이는 개발 플랫폼 사용 시 발생할 수 있는 데이터 유출과 보안 취약점의 심각성을 드러냅니다.\n코드 저장소 보안 강화 및 민감 데이터 관리 지침 준수의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47846688",
+    "title": "Your hex editor should color-code bytes",
+    "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47846688",
+    "summary": "",
+    "score": 482,
+    "published_at": "2026-04-21T09:52:09+00:00",
+    "ai_summary": "헥스 에디터가 바이트를 색상으로 구분하여 표시해야 한다는 제안입니다.\n이는 바이너리 데이터 분석 및 디버깅 작업을 훨씬 효율적이고 직관적으로 만들 수 있습니다.\n개발자 생산성 향상을 위한 도구 개선 아이디어와 저수준 데이터 작업의 편의성을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47846307",
+    "title": "A programmable watch you can actually wear",
+    "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
+    "discussion_url": "https://news.ycombinator.com/item?id=47846307",
+    "summary": "",
+    "score": 120,
+    "published_at": "2026-04-21T08:52:33+00:00",
+    "ai_summary": "실제로 착용 가능한 프로그래밍 가능한 시계가 소개되었습니다.\n사용자가 직접 기능을 개발하고 맞춤 설정할 수 있는 잠재력을 제공합니다.\n임베디드 시스템, IoT 개발 또는 웨어러블 기기에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47874647",
+    "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "url": "https://github.com/russellromney/honker",
+    "discussion_url": "https://news.ycombinator.com/item?id=47874647",
+    "summary": "",
+    "score": 219,
+    "published_at": "2026-04-23T11:53:11+00:00",
+    "ai_summary": "Honker는 SQLite 데이터베이스에서 PostgreSQL의 NOTIFY/LISTEN 기능을 구현한 프로젝트입니다.\n이를 통해 SQLite에서도 실시간 이벤트 알림 및 구독 기능을 활용할 수 있게 됩니다.\n백엔드 개발자 및 데이터베이스 엔지니어에게 매우 유용한 확장 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47877366",
+    "title": "French government agency confirms breach as hacker offers to sell data",
+    "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47877366",
+    "summary": "",
+    "score": 342,
+    "published_at": "2026-04-23T15:59:55+00:00",
+    "ai_summary": "프랑스 정부 기관이 해킹 공격으로 인한 데이터 유출을 공식적으로 확인했습니다.\n해커는 유출된 데이터를 판매하겠다고 제안하며 심각한 보안 위협이 가시화되고 있습니다.\n모든 개발자는 보안의 중요성을 인지하고 잠재적 위협에 대한 방어책을 마련해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47881198",
+    "title": "Using the internet like it's 1999",
+    "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47881198",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-04-23T20:14:29+00:00",
+    "ai_summary": "1999년처럼 인터넷을 사용하는 방식에 대한 회고와 논의가 활발합니다.\n이는 현대 웹의 복잡성과 프라이버시 문제에 대한 대안적 시각을 제시합니다.\n프론트엔드 개발자나 웹 역사, 사용자 경험에 관심 있는 이들에게 통찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47873694",
+    "title": "Writing a C Compiler, in Zig (2025)",
+    "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47873694",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-04-23T09:20:47+00:00",
+    "ai_summary": "Zig 언어를 사용하여 C 컴파일러를 개발하는 프로젝트에 대한 내용입니다.\n이는 컴파일러 설계, 언어 구현 및 저수준 프로그래밍에 대한 깊은 이해를 요구합니다.\n언어 설계자, 시스템 개발자, 컴파일러 엔지니어에게 매우 높은 관련성이 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47871519",
+    "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+    "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47871519",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-04-23T01:59:08+00:00",
+    "ai_summary": "Arch Linux가 이제 비트 단위로 재현 가능한 Docker 이미지를 공식적으로 제공합니다.\n이는 컨테이너 환경에서 빌드의 일관성과 신뢰성을 크게 향상시킬 수 있습니다.\nDevOps 엔지니어, 시스템 관리자 및 클라우드 환경 개발자에게 매우 중요한 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47875025",
+    "title": "I spent years trying to make CSS states predictable",
+    "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47875025",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-04-23T12:37:18+00:00",
+    "ai_summary": "이 기사는 CSS 상태 관리를 예측 가능하게 만들려는 개발자의 수년간의 노력을 다룹니다.\n복잡한 프론트엔드 환경에서 CSS의 동작을 제어하고 예측하는 방법론을 공유합니다.\n이는 견고하고 유지보수하기 쉬운 웹 UI를 구축하려는 프론트엔드 개발자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47854710",
+    "title": "WireGuard for Windows Reaches v1.0",
+    "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47854710",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-04-21T21:26:25+00:00",
+    "ai_summary": "인기 있는 VPN 프로토콜인 WireGuard의 Windows 버전이 v1.0을 달성했습니다.\n이는 Windows 환경에서 안정적이고 효율적인 보안 통신을 제공함을 의미합니다.\n개발자와 시스템 관리자에게 중요한 네트워크 보안 도구의 정식 버전 출시입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "title": "Introducing workspace agents in ChatGPT (9 minute read)",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "discussion_url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "summary": "OpenAI introduced workspace agents in ChatGPT, allowing teams to create shared AI agents for complex tasks and workflows. These agents, powered by Codex, perform tasks like generating reports, writing code, and managing communication, while integrating with various tools like Slack. Workspace agents are currently available in research preview for select ChatGPT plans, aiming to streamline collaboration and improve productivity.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "ChatGPT에 워크스페이스 에이전트가 도입되어 팀이 복잡한 작업과 워크플로우를 위한 공유 AI 에이전트를 만들 수 있습니다. 이 에이전트들은 코드 생성, 보고서 작성 등 다양한 작업을 수행하며 Slack과 같은 도구와 통합되어 협업과 생산성 향상을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace/",
+    "title": "Google debuts Workspace Intelligence for Gemini Workspace (4 minute read)",
+    "url": "https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace/",
+    "discussion_url": "https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace/",
+    "summary": "Google launched Workspace Intelligence, enhancing Google Workspace with a semantic layer to integrate emails, chats, files, and projects for Gemini-powered agents. This update includes major product enhancements like natural-language spreadsheet building in Sheets and AI-driven features in Docs, Slides, Gmail, and Drive. Workspace Intelligence aims to make Workspace a centralized control layer for business operations, emphasizing security, context integration, and cross-application functionality",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Google Workspace Intelligence가 출시되어 Gemini 기반 에이전트를 위해 이메일, 채팅, 파일 등을 통합하는 시맨틱 레이어를 제공합니다. Sheets의 자연어 스프레드시트 구축 등 Docs, Slides, Gmail, Drive에 AI 기능이 강화되며, Workspace를 비즈니스 운영의 중앙 제어 계층으로 만듭니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world (1 minute read)",
+    "url": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "discussion_url": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "summary": "Core Automation is an AI lab started by Jerry Tworek, a former OpenAI researcher, that aims to build the most automated AI lab in the world. It will start by automating its own research before developing new algorithms that go beyond pre-training and reinforcement learning. The lab will also create architectures designed to scale better than transformers. The team contains experts in frontier models, optimization, and systems engineering.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "전 OpenAI 연구원 Jerry Tworek가 Core Automation을 설립하여 세계에서 가장 자동화된 AI 연구소를 목표로 합니다. 이 연구소는 사전 학습 및 강화 학습을 넘어선 새로운 알고리즘을 개발하기 위해 자체 연구 자동화부터 시작하며, 트랜스포머보다 확장성이 뛰어난 아키텍처를 만들 계획입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.perplexity.ai/articles/advancing-search-augmented-language-models",
+    "title": "Advancing Search-Augmented Language Models (19 minute read)",
+    "url": "https://research.perplexity.ai/articles/advancing-search-augmented-language-models",
+    "discussion_url": "https://research.perplexity.ai/articles/advancing-search-augmented-language-models",
+    "summary": "Perplexity's two-stage pipeline for search-augmented language models uses initial Supervised Fine-Tuning (SFT) followed by Reinforcement Learning (RL) to optimize factual accuracy, user preference, and tool-use efficiency. This approach, starting with Qwen3 models, separates compliance from search improvement to achieve accuracy without compromising guardrails. The models showed enhanced accuracy on benchmarks like FRAMES and FACTS OPEN with reduced cost per query and improved efficiency in tool",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Perplexity의 검색 증강 언어 모델은 초기 SFT(Supervised Fine-Tuning) 후 RL(Reinforcement Learning)을 사용하여 사실 정확성, 사용자 선호도 및 도구 사용 효율성을 최적화합니다. 이 접근 방식은 Qwen3 모델부터 시작하며, FRAMES 및 FACTS OPEN 벤치마크에서 정확도를 향상시키고 쿼리당 비용을 절감합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.appliedcompute.com/research/inference-benchmark",
+    "title": "Benchmarking Inference Engines on Agentic Workloads (9 minute read)",
+    "url": "https://www.appliedcompute.com/research/inference-benchmark",
+    "discussion_url": "https://www.appliedcompute.com/research/inference-benchmark",
+    "summary": "Agentic workloads are reshaping inference engine benchmarks, demanding multi-turn, tool-using scenarios that strain KV cache management and scheduling due to longer traces and varied token distributions. Applied Compute introduced three workload profiles to aid in optimizing engine and accelerator performance. They released an open-source benchmarking tool to replay these scenarios, highlighting the need for solutions such as KV cache offloading and workload-aware routing to improve throughput a",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "에이전트 워크로드는 다중 턴, 도구 사용 시나리오로 인해 추론 엔진 벤치마크를 변화시키며, KV 캐시 관리 및 스케줄링에 부담을 줍니다. Applied Compute는 엔진 및 가속기 성능 최적화를 위한 세 가지 워크로드 프로파일을 도입했으며, KV 캐시 오프로딩 및 워크로드 인식 라우팅과 같은 해결책의 필요성을 강조하는 오픈 소스 벤치마킹 도구를 출시했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all (11 minute read)",
+    "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "discussion_url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "summary": "Most of what people put in AGENTS.md either doesn't help or actively hurts. The patterns that work are specific and learnable. This to post looks at which patterns work, which fail, and how to tell which is which for your codebase. Different patterns move different metrics, so pick patterns that target the problem you actually have.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "AGENTS.md에 대한 대부분의 내용은 도움이 되지 않거나 오히려 해를 끼칠 수 있으며, 효과적인 패턴은 구체적이고 학습 가능합니다. 이 글은 어떤 문서화 패턴이 효과적이고 어떤 패턴이 실패하는지, 그리고 코드베이스에 어떻게 적용할지 살펴보고 실제 문제를 해결하는 패턴을 선택하는 것이 중요하다고 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model (2 minute read)",
+    "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+    "discussion_url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+    "summary": "Qwen3.6-27B delivers flagship-level agentic coding performance. The Qwen team claims that it surpasses the previous-generation flagship Qwen3.5-397B-A17B across all major coding benchmarks. The model is 55.6 GB on Hugging Face, and there are even smaller quantized versions available. Tests show that the model delivers outstanding results, even when quantized.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Qwen3.6-27B는 27B 밀집 모델에서 플래그십 수준의 에이전트 코딩 성능을 제공합니다. Qwen 팀은 이 모델이 이전 세대 Qwen3.5-397B-A17B를 모든 주요 코딩 벤치마크에서 능가한다고 주장하며, Hugging Face에서 55.6GB이며 더 작은 양자화 버전도 뛰어난 성능을 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform/",
+    "title": "Introducing Gemini Enterprise Agent Platform, powering the next wave of agents (17 minute read)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform/",
+    "discussion_url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform/",
+    "summary": "The Gemini Enterprise Agent Platform is a comprehensive platform for building, scaling, governing, and optimizing agents. It brings together model selection, model building, and agent building capabilities together with new features for agent integration, DevOps, orchestration, and security. Agent Platform is a single destination for technical teams to build agents that can transform products, services, and operations. The agents can be delivered to employees through the Gemini Enterprise app.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Gemini Enterprise Agent Platform은 에이전트를 구축, 확장, 관리, 최적화하기 위한 포괄적인 플랫폼입니다. 이 플랫폼은 모델 선택, 모델 구축 및 에이전트 구축 기능을 에이전트 통합, DevOps, 오케스트레이션 및 보안 기능과 결합하여, 기술 팀이 제품, 서비스, 운영을 혁신할 에이전트를 구축할 수 있는 단일 허브를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "title": "Building agents that reach production systems with MCP (14 minute read)",
+    "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "discussion_url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "summary": "Agents can connect to external systems through direct API calls, CLIs, and MCP. This post looks at where each fits and the patterns for building those integrations effectively. MCP becomes the critical compounding layer as production agents move to the cloud. Every integration built on MCP strengthens the ecosystem.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "에이전트는 API, CLI, MCP를 통해 외부 시스템에 연결될 수 있으며, MCP(Managed Compute Plane)는 프로덕션 에이전트가 클라우드로 이동할 때 핵심적인 통합 계층이 됩니다. MCP 기반의 모든 통합은 에이전트 생태계를 강화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/",
+    "title": "Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June (2 minute read)",
+    "url": "https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/",
+    "discussion_url": "https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/",
+    "summary": "Microsoft plans to roll out token-based billing for all GitHub Copilot customers starting in June. Copilot Business Customers will pay $19 per-user-per-month and receive $30 of pooled AI credits. Copilot Enterprise customers will pay $39 per-user-per-month and receive $70 of pooled AI credits. It is unclear what will happen to individual subscribers.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Microsoft는 6월부터 모든 GitHub Copilot 사용자에게 토큰 기반 청구 방식을 적용할 예정입니다. 비즈니스 고객은 사용자당 월 19달러에 30달러 상당의 AI 크레딧을, 엔터프라이즈 고객은 월 39달러에 70달러 상당의 AI 크레딧을 받습니다. 개인 구독자에 대한 변경 사항은 아직 불분명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://joshbudman.substack.com/p/when-llms-get-personal",
+    "title": "When LLMs Get Personal (20 minute read)",
+    "url": "https://joshbudman.substack.com/p/when-llms-get-personal",
+    "discussion_url": "https://joshbudman.substack.com/p/when-llms-get-personal",
+    "summary": "Personalization in LLM responses introduces variation but often retains a stable semantic core across answers. This shared foundation results from common model priors, overlapping retrievals, and product constraints, with differences emerging in examples and emphasis. Understanding this allows businesses to optimize their presence in AI-generated content by focusing on being part of the model's core knowledge.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "LLM 응답의 개인화는 변형을 유도하지만, 모델의 공통 지식과 검색 결과로 인해 안정적인 의미론적 핵심을 유지합니다. 기업은 모델의 핵심 지식의 일부가 되는 것에 집중하여 AI 생성 콘텐츠 내에서 입지를 최적화할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/garrytan/status/2046876981711769720",
+    "title": "How to really stop your agents from making the same mistakes (7 minute read)",
+    "url": "https://x.com/garrytan/status/2046876981711769720",
+    "discussion_url": "https://x.com/garrytan/status/2046876981711769720",
+    "summary": "Relying on prompts to correct recurring AI agent mistakes is an unreliable, \"vibes-based\" approach that decays as soon as conversations become complex. To solve this, Y Combinator CEO Garry Tan advocates for \"skillification.\" Instead of letting an agent waste compute attempting to solve deterministic tasks (like historical calendar lookups) in its latent space, this framework forces the AI to execute precise local scripts.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "AI 에이전트의 반복적인 실수를 프롬프트로만 수정하는 것은 신뢰할 수 없는 방법입니다. Y Combinator CEO Garry Tan은 'skillification' 접근 방식을 제안하며, 이는 에이전트가 결정론적 작업을 직접 수행하도록 강제하여 문제를 해결합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich",
+    "title": "You're the Bread in the AI Sandwich (4 minute read)",
+    "url": "https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich",
+    "discussion_url": "https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich",
+    "summary": "AI is enhancing engineering workflows by handling execution, leaving humans to plan, review, and ensure quality output. Humans excel at diagnosing problems from multiple angles, a challenge for AI. Organizational AI strategies in the future will likely include personalized assistants for employees or a singular super-agent with departmental plugins.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "AI는 실행을 담당하며 엔지니어링 워크플로우를 향상시키고, 인간은 계획, 검토, 품질 보증에 집중합니다. 미래의 조직 AI 전략에는 직원별 개인 비서 또는 부서 플러그인을 가진 단일 슈퍼 에이전트가 포함될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same/",
+    "title": "OpenAI Is Quietly Testing GPT Image 2, and the AI Image Market Will Never Be the Same (8 minute read)",
+    "url": "https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same/",
+    "discussion_url": "https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same/",
+    "summary": "OpenAI's unannounced testing of GPT Image 2 on LM Arena showcases its advancements in AI image generation.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "OpenAI가 GPT Image 2를 LM Arena에서 비공개로 테스트하고 있으며, 이는 AI 이미지 생성 분야의 발전을 보여줍니다. 이 새로운 기술은 AI 이미지 시장에 큰 변화를 가져올 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "title": "Anker made its own AI chip (3 minute read)",
+    "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "discussion_url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "summary": "Anker's custom Thus AI chip is designed for audio devices with local AI, computing directly where the model lives to enhance efficiency.",
+    "score": 0,
+    "published_at": "2026-04-23T23:48:54+00:00",
+    "ai_summary": "Anker는 오디오 기기용으로 설계된 자체 Thus AI 칩을 개발했습니다. 이 칩은 모델이 직접 상주하는 곳에서 계산하여 효율성을 높이는 로컬 AI 처리에 중점을 둡니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  }
+]
