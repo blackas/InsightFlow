@@ -1,0 +1,703 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28859",
+    "title": "MeshCore 개발팀, 상표권 분쟁과 AI 생성 코드 문제로 분리",
+    "url": "https://news.hada.io/topic?id=28859",
+    "discussion_url": "https://news.hada.io/topic?id=28859",
+    "summary": "빠르게 성장한 메쉬 네트워킹 프로젝트에서 상표권 출원과 AI 생성 코드 사용 문제가 겹치며 core team과 Andy Kirby가 갈라짐\nAndy Kirby는 Claude Code를 광범위하게 사용해 standalone device, 모바일 앱, web flasher, web config 도구까지 확장했고, 팀은 이 ...",
+    "score": 0,
+    "published_at": "2026-04-24T19:50:53+00:00",
+    "ai_summary": "메쉬 네트워킹 프로젝트 MeshCore 개발팀이 상표권 분쟁과 AI 생성 코드 문제로 분리되었습니다.\nAndy Kirby의 Claude Code 광범위한 사용이 핵심 팀과 갈등을 빚었습니다.\n이는 AI 생성 코드의 저작권 및 윤리적 사용에 대한 개발 커뮤니티의 중요한 논의를 촉발합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28857",
+    "title": "Tolaria - Markdown 지식 베이스를 관리하는 오픈소스 macOS 앱",
+    "url": "https://news.hada.io/topic?id=28857",
+    "discussion_url": "https://news.hada.io/topic?id=28857",
+    "summary": "Markdown 파일 기반 지식 베이스를 관리하는 데스크톱 앱으로, 개인 지식 관리와 회사 문서를 AI 맥락에 맞게 정리하는 작업에 쓰이며 OpenClaw·assistant 메모리와 절차 저장에도 활용됨\nfiles-first, Git-first 구조를 택해 노트를 일반 Markdo...",
+    "score": 0,
+    "published_at": "2026-04-24T19:47:53+00:00",
+    "ai_summary": "Tolaria는 Markdown 파일 기반 지식 베이스를 관리하는 오픈소스 macOS 앱입니다.\n개인 지식 관리와 회사 문서 정리, AI 맥락에 맞는 정보 저장에 활용됩니다.\nfiles-first, Git-first 구조를 채택하여 개발자에게 친숙한 문서 관리 환경을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28855",
+    "title": "Honker - SQLite에 Postgres NOTIFY/LISTEN을 구현하는 확장",
+    "url": "https://news.hada.io/topic?id=28855",
+    "discussion_url": "https://news.hada.io/topic?id=28855",
+    "summary": "SQLite 파일 하나에 내구성 큐, 스트림, pub/sub, 스케줄러를 통합해 Redis·Celery 같은 별도 브로커 없이 비동기 작업 처리 가능\nPRAGMA data_version을 1ms 간격으로 폴링해 프로세스 간 단일 자릿수 밀리초 반응 속도 달성, 애플리케이션 레벨 폴링...",
+    "score": 0,
+    "published_at": "2026-04-24T19:44:53+00:00",
+    "ai_summary": "Honker는 SQLite에 Postgres의 NOTIFY/LISTEN 기능을 구현하는 확장입니다.\nRedis나 Celery 없이 내구성 큐, 스트림, pub/sub, 스케줄러 등 비동기 작업을 처리합니다.\nPRAGMA data_version 폴링으로 프로세스 간 밀리초 단위의 빠른 반응 속도를 달성합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28854",
+    "title": "Arch Linux는 이제 bit-for-bit 재현 가능한 Docker 이미지를 제공함",
+    "url": "https://news.hada.io/topic?id=28854",
+    "discussion_url": "https://news.hada.io/topic?id=28854",
+    "summary": "bit-for-bit 재현성이란 동일한 소스로 빌드하면 언제, 어디서, 누가 빌드하든 바이트 수준까지 완전히 동일한 결과물이 나오는 것을 의미\n\n빌드 환경에 따라 미세하게 달라지는 타임스탬프, 캐시, 메타데이터 같은 비결정론적 요소를 모두 제거해야 달성 가능\n\n\n...",
+    "score": 0,
+    "published_at": "2026-04-24T17:33:17+00:00",
+    "ai_summary": "Arch Linux가 이제 bit-for-bit 재현 가능한 Docker 이미지를 제공하기 시작했습니다.\n이는 동일 소스로 빌드 시 시점, 장소, 빌더에 관계없이 바이트 단위로 동일한 결과물을 의미합니다.\n빌드 환경의 비결정론적 요소를 제거하여 배포의 일관성과 신뢰성을 크게 높입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28853",
+    "title": "OpenMythos: 공개 연구로 복원한 Claude Mythos 아키텍처 가설인가, 또 다른 AI 하이프인가",
+    "url": "https://news.hada.io/topic?id=28853",
+    "discussion_url": "https://news.hada.io/topic?id=28853",
+    "summary": "개요\n\nOpenMythos는 Claude Mythos와 유사한 구조를 공개 연구 기반으로 재구성하려는 이론적 아키텍처 실험(theoretical architecture experiment)으로 소개됨\n글은 OpenMythos 자체를 단순한 “슬롭(slop)”으로 보지 않음\n대신 OpenMythos를 사례로, AI 커뮤니티에서 README·AI 요...",
+    "score": 0,
+    "published_at": "2026-04-24T17:22:34+00:00",
+    "ai_summary": "OpenMythos는 Claude Mythos와 유사한 구조를 재구성하려는 이론적 아키텍처 실험입니다.\n기사는 OpenMythos 자체를 넘어 AI 커뮤니티의 README 및 요약 활용 방식에 대한 비판적 시각을 제시합니다.\n이는 AI 연구의 투명성과 실제 가치에 대한 중요한 논의를 촉발합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28847",
+    "title": "AI 크롤러 시대, 로그 파일 분석으로 검색 가시성의 사각지대를 읽는 법",
+    "url": "https://news.hada.io/topic?id=28847",
+    "discussion_url": "https://news.hada.io/topic?id=28847",
+    "summary": "AI 검색 시스템(ChatGPT, Claude, Perplexity 등)이 웹을 크롤링하고 답변을 생성하는 시대가 되었지만, 구글 서치 콘솔처럼 AI 플랫폼이 내 사이트를 어떻게 수집하는지 보여주는 공식 도구는 거의 없습니다. 이 기사는 서버 로그 파일이 그 빈자리를 메울 수 있는 사실상 유일한 수단임을 설명하며, AI 크롤러의 행...",
+    "score": 0,
+    "published_at": "2026-04-24T11:41:00+00:00",
+    "ai_summary": "AI 검색 시대에 AI 크롤러의 웹사이트 수집 방식을 파악할 공식 도구가 부족합니다.\n서버 로그 파일 분석이 AI 크롤러의 행태를 이해하고 검색 가시성 사각지대를 메울 유일한 수단입니다.\n로그를 통해 AI 크롤러의 접근 패턴을 파악하고 웹사이트 최적화에 활용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28846",
+    "title": "LLM으로 할 수 있는 비전형적인 일 7가지",
+    "url": "https://news.hada.io/topic?id=28846",
+    "discussion_url": "https://news.hada.io/topic?id=28846",
+    "summary": "KDnuggets에 Iván Palomares Carrascosa가 기고한 글로, LLM을 단순 챗봇이나 검색 도구 이상으로 활용하는 7가지 비전통적 사용법을 소개합니다. 각 항목마다 구체적인 프롬프트 예시를 함께 제시합니다:\n1 악마의 변호인(Devil's Advocate) 역할 시키기 — 아이디어의 논리적 허점 비판하게 하기\n2 기",
+    "score": 0,
+    "published_at": "2026-04-24T06:35:52+00:00",
+    "ai_summary": "이 기사는 LLM을 단순 챗봇 이상으로 활용하는 7가지 비전통적인 방법을 소개합니다.\n아이디어의 논리적 허점 비판, 코드 작성, 글쓰기 스타일 변환 등 구체적인 프롬프트 예시를 제공합니다.\n개발자들이 LLM의 잠재력을 다양하게 탐색하고 실제 업무에 적용하도록 돕는 실용적인 가이드입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28842",
+    "title": "Show GN: claude-ss - macOS에서 cmd+shift+2 한 번으로 Claude Code에 스크린샷이 딸깍 붙는 도구.",
+    "url": "https://news.hada.io/topic?id=28842",
+    "discussion_url": "https://news.hada.io/topic?id=28842",
+    "summary": "claude-ss\nmacOS에서 cmd+shift+2 한 번으로 Claude Code에 스크린샷이 딸깍 붙는 도구를 만들었습니다.\n배경\nClaude Code에 스크린샷 한 장 붙이는 게 생각보다 번거롭습니다. cmd+shift+4 로 찍으면 데스크톱에 파일이 떨어져 찾아서 드래그해야 하고, c",
+    "score": 0,
+    "published_at": "2026-04-24T03:05:21+00:00",
+    "ai_summary": "claude-ss는 macOS에서 cmd+shift+2 단축키로 스크린샷을 Claude Code에 바로 붙여넣는 도구입니다.\n기존 스크린샷 저장 및 드래그 과정을 간소화하여 작업 흐름을 효율화합니다.\n이는 Claude Code를 사용하는 개발자의 생산성을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28838",
+    "title": "최근 Claude Code 품질 보고에 대한 업데이트",
+    "url": "https://news.hada.io/topic?id=28838",
+    "discussion_url": "https://news.hada.io/topic?id=28838",
+    "summary": "최근 한 달간 체감된 Claude 품질 저하는 Claude Code, Claude Agent SDK, Claude Cowork에 걸친 서로 다른 세 가지 변경에서 발생했고, API는 영향받지 않음\n기본 추론 강도를 medium으로 낮춘 뒤 지...",
+    "score": 0,
+    "published_at": "2026-04-24T01:14:36+00:00",
+    "ai_summary": "최근 한 달간 체감된 Claude 품질 저하는 Claude Code, Agent SDK, Cowork 변경 때문입니다.\nAPI는 이 품질 저하의 영향을 받지 않았으며, 기본 추론 강도 하향 조정이 원인 중 하나입니다.\n이는 LLM 기반 개발 및 통합에 있어 모델 성능 관리가 중요함을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28834",
+    "title": "GPT-5.5 공개",
+    "url": "https://news.hada.io/topic?id=28834",
+    "discussion_url": "https://news.hada.io/topic?id=28834",
+    "summary": "복잡한 작업을 스스로 계획하고 도구를 조합해 끝까지 수행하는 에이전트형 모델로, 코드 작성과 디버깅부터 웹 조사, 데이터 분석, 문서·스프레드시트 생성, 소프트웨어 조작까지 폭넓게 다룸\nGPT-5.4와 같은 per-token latency를 유지하면서도 coding, computer ...",
+    "score": 0,
+    "published_at": "2026-04-24T01:02:36+00:00",
+    "ai_summary": "GPT-5.5는 복잡한 작업을 스스로 계획하고 도구를 조합하는 에이전트형 모델로 공개되었습니다.\n코드 작성, 디버깅, 웹 조사, 데이터 분석, 소프트웨어 조작 등 폭넓은 기능을 제공합니다.\n이전 버전과 동일한 토큰당 지연 시간으로 코딩 및 컴퓨터 활용 능력을 향상시켰습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28833",
+    "title": "Show GN: 자료를 이미지형 슬라이드로 바꿔주는 Codex 스킬 (gpt-slide)",
+    "url": "https://news.hada.io/topic?id=28833",
+    "discussion_url": "https://news.hada.io/topic?id=28833",
+    "summary": "보고서나 자료를 슬라이드로 다시 만드는 작업, 다들 한 번쯤 겪어보셨을 겁니다. Codex에서 gpt-image-2를 활용해 이 과정을 자동화하는 4단계 스킬을 만들어 공개합니다.\n흐름\n\ngpt-slide-design : 레퍼런스 슬라이드를 분석해 비주얼 시스템을 DESIGN.md로 추출\ngpt-slide-plan : 스토",
+    "score": 0,
+    "published_at": "2026-04-24T00:34:21+00:00",
+    "ai_summary": "Codex에서 gpt-image-2를 활용하여 자료를 이미지형 슬라이드로 자동 변환하는 4단계 스킬을 공개했습니다.\n이 스킬은 보고서나 자료를 슬라이드로 다시 만드는 작업을 자동화해줍니다.\ngpt-slide-design으로 비주얼 시스템을 추출하고 gpt-slide-plan으로 스토리를 구성하는 방식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47892074",
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "discussion_url": "https://news.ycombinator.com/item?id=47892074",
+    "summary": "",
+    "score": 221,
+    "published_at": "2026-04-24T16:04:41+00:00",
+    "ai_summary": "구글이 AI 기업 Anthropic에 최대 400억 달러를 투자할 계획이라는 소식입니다.\n이는 AI/ML 및 LLM 시장의 중요한 투자 동향을 보여줍니다.\n관련 기술 개발과 생태계 확장에 큰 영향을 미칠 것으로 예상됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47894747",
+    "title": "My audio interface has SSH enabled by default",
+    "url": "https://hhh.hn/rodecaster-duo-fw/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47894747",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-04-24T19:30:46+00:00",
+    "ai_summary": "한 오디오 인터페이스에 SSH가 기본으로 활성화되어 있다는 보안 문제가 발견되었습니다.\n이는 임베디드 시스템 및 IoT 장치의 보안 취약점에 대한 경각심을 높입니다.\n개발자들은 제품의 기본 보안 설정과 노출된 서비스에 대한 주의 깊은 검토가 필요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47896163",
+    "title": "Show HN: I've built a nice home server OS",
+    "url": "https://lightwhale.asklandd.dk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47896163",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-04-24T21:42:26+00:00",
+    "ai_summary": "사용자가 직접 구축한 홈 서버 OS를 공개하며, 개인 서버 관리 및 시스템 개발에 대한 관심을 유도합니다.\n이 OS는 효율적인 리소스 관리와 쉬운 설정을 목표로 하여 개발자들에게 영감을 줄 수 있습니다.\n특히 리눅스 기반 시스템 프로그래밍과 자동화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47890799",
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47890799",
+    "summary": "",
+    "score": 340,
+    "published_at": "2026-04-24T14:28:52+00:00",
+    "ai_summary": "과도한 생각, 범위 확장, 그리고 구조적 차이 분석과 같은 행위들이 프로젝트 진행을 방해하는 요인임을 지적합니다.\n이는 개발 과정에서 비효율을 초래하고, 팀 생산성을 저해하여 프로젝트 실패로 이어질 수 있습니다.\n개발자들이 경계해야 할 나쁜 습관과 프로젝트 관리 문제점을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47851613",
+    "title": "Work with the garage door up",
+    "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+    "discussion_url": "https://news.ycombinator.com/item?id=47851613",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-04-21T17:13:29+00:00",
+    "ai_summary": "'차고 문을 열고 일하라'는 것은 작업 과정을 투명하게 공개하고, 초기 단계부터 피드백을 주고받는 협업 문화를 의미합니다.\n이는 문제점을 조기에 발견하고 해결하며, 팀원 간의 소통을 강화하여 프로젝트 성공률을 높이는 데 기여합니다.\n개발팀의 생산성과 협업 효율성을 향상시키는 중요한 원칙입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47893779",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "discussion_url": "https://news.ycombinator.com/item?id=47893779",
+    "summary": "",
+    "score": 94,
+    "published_at": "2026-04-24T18:06:05+00:00",
+    "ai_summary": "딥러닝의 작동 방식에 대한 과학적이고 체계적인 이론이 머지않아 등장할 것이라는 전망을 제시합니다.\n현재 경험적으로 발전해 온 딥러닝 분야가 더 깊은 이론적 토대를 갖게 될 것이라는 기대를 반영합니다.\n이는 AI/ML 연구 및 개발의 새로운 전환점이 될 수 있음을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47896670",
+    "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+    "url": "https://github.com/manankharwar/fusioncore",
+    "discussion_url": "https://news.ycombinator.com/item?id=47896670",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-04-24T22:36:38+00:00",
+    "ai_summary": "ROS 2 기반의 센서 퓨전 기술인 FusionCore를 소개하며, IMU, GPS, 엔코더 데이터를 통합하여 정확도를 높이는 방법을 다룹니다.\n이는 로봇 공학 및 자율주행 시스템 개발에 필수적인 기술로, 여러 센서 데이터를 효율적으로 처리하는 방법을 제공합니다.\n임베디드 시스템 및 로봇 개발자들에게 유용합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47873323",
+    "title": "Email could have been X.400 times better",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "discussion_url": "https://news.ycombinator.com/item?id=47873323",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-04-23T08:10:09+00:00",
+    "ai_summary": "현재 이메일 시스템의 대안이었던 X.400 표준이 훨씬 더 나은 이메일 환경을 제공했을 수 있다는 주장을 다룹니다.\n이는 이메일 프로토콜의 역사와 설계 철학을 재조명하며, 현재 이메일 시스템의 한계를 비판합니다.\n네트워크 및 통신 시스템 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47887334",
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "url": "https://github.com/matz/spinel",
+    "discussion_url": "https://news.ycombinator.com/item?id=47887334",
+    "summary": "",
+    "score": 298,
+    "published_at": "2026-04-24T08:28:47+00:00",
+    "ai_summary": "Ruby 언어의 AOT(Ahead-of-Time) 네이티브 컴파일러인 Spinel에 대한 내용입니다. Ruby 애플리케이션의 성능 향상과 배포 효율성을 목표로 합니다.\n개발자들은 Spinel을 통해 Ruby 프로젝트에서 더 빠른 실행과 낮은 메모리 사용량을 기대할 수 있습니다. 이는 Ruby 기반 백엔드 시스템 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47851377",
+    "title": "You don't want long-lived keys",
+    "url": "https://argemma.com/blog/long-lived-keys/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47851377",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-04-21T16:55:04+00:00",
+    "ai_summary": "보안 강화를 위해 오랫동안 유지되는(장기 지속) API 키나 자격 증명 사용을 지양해야 함을 강조합니다. 이는 잠재적인 보안 위협을 줄이고 시스템 안전성을 높이는 핵심적인 실천 방안입니다.\n단기적이고 회전 가능한(rotating) 자격 증명 사용을 권장하며, 개발 및 운영 환경 전반에 걸쳐 적용되어야 합니다.\n모든 개발자와 DevOps 엔지니어가 반드시 숙지해야 할 중요한 보안 원칙입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47892019",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47892019",
+    "summary": "",
+    "score": 733,
+    "published_at": "2026-04-24T15:59:19+00:00",
+    "ai_summary": "Claude LLM 서비스 사용자가 토큰 문제, 품질 저하, 부족한 고객 지원으로 인해 서비스를 해지한 경험담입니다. 이는 LLM API를 사용하는 개발자들이 겪을 수 있는 문제점들을 시사합니다.\n다른 LLM 선택 시 고려해야 할 중요한 요소들을 제시하며, 상업용 LLM 서비스의 안정성과 지원의 중요성을 강조합니다.\nLLM 기반 애플리케이션 개발자들에게 현실적인 문제점과 서비스 평가의 중요성을 알려줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47891801",
+    "title": "I'm done making desktop applications (2009)",
+    "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47891801",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-04-24T15:44:03+00:00",
+    "ai_summary": "2009년 작성된 글로서, 필자가 더 이상 데스크톱 애플리케이션 개발을 하지 않겠다고 선언하는 내용입니다. 웹 기반 애플리케이션의 부상과 플랫폼 종속성 문제 등 당시의 기술 트렌드를 반영합니다.\n현재 웹/모바일 개발이 주류가 된 배경을 이해하는 데 도움이 되며, 개발자들의 커리어 방향성 전환에 대한 통찰을 제공합니다.\n과거 개발 패러다임의 변화를 보여주는 중요한 역사적 관점을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47893620",
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "url": "https://github.com/delta-hq/cc-canary",
+    "discussion_url": "https://news.ycombinator.com/item?id=47893620",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-04-24T17:53:37+00:00",
+    "ai_summary": "CC-Canary는 Claude Code 모델에서 발생하는 회귀(성능 저하)의 초기 징후를 탐지하는 도구에 대한 설명입니다. LLM 모델의 지속적인 품질 관리가 중요하며, 이를 위한 자동화된 모니터링 시스템의 필요성을 강조합니다.\n모델 배포 및 유지보수 과정에서 개발자에게 유용한 정보이며, AI/ML 모델의 신뢰성 확보에 필수적인 접근 방식입니다.\nLLM을 활용하는 개발자나 MLOps 엔지니어에게 특히 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47884971",
+    "title": "DeepSeek v4",
+    "url": "https://api-docs.deepseek.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47884971",
+    "summary": "",
+    "score": 1779,
+    "published_at": "2026-04-24T03:01:21+00:00",
+    "ai_summary": "DeepSeek v4는 DeepSeek에서 출시한 새로운 버전의 대규모 언어 모델(LLM)에 대한 정보입니다. 모델의 성능 향상, 새로운 기능, 잠재적 활용 분야 등에 초점을 맞춥니다.\nLLM 개발 및 응용 분야의 최신 동향을 파악하는 데 중요하며, 다양한 애플리케이션에 DeepSeek v4를 통합하려는 개발자들에게 유용합니다.\n최신 LLM 기술 스택을 검토하고 적용하려는 AI/ML 개발자들에게 핵심 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47894000",
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "discussion_url": "https://news.ycombinator.com/item?id=47894000",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-04-24T18:23:32+00:00",
+    "ai_summary": "OpenAI가 최신 언어 모델인 GPT-5.5 및 GPT-5.5 Pro를 API를 통해 공개했습니다.\n개발자들은 이제 이 강력한 모델들을 자신들의 애플리케이션에 쉽게 통합할 수 있습니다.\n이는 다양한 AI 기반 서비스 및 도구 개발에 큰 영향을 미칠 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47895029",
+    "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
+    "url": "https://news.ycombinator.com/item?id=47895029",
+    "discussion_url": "https://news.ycombinator.com/item?id=47895029",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-04-24T19:55:09+00:00",
+    "ai_summary": "Claude 4.7 모델이 개발자들이 설정한 'stop hooks'를 무시하는 문제가 보고되었습니다.\n이는 모델의 응답 길이나 특정 패턴 제어에 어려움을 겪고 있음을 의미합니다.\nLLM을 사용하는 개발자들에게 모델 동작 제어의 중요성을 상기시키는 중요한 이슈입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47890841",
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "url": "https://github.com/browser-use/browser-harness",
+    "discussion_url": "https://news.ycombinator.com/item?id=47890841",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-04-24T14:31:38+00:00",
+    "ai_summary": "'Browser Harness'는 LLM이 모든 브라우저 작업을 자유롭게 수행하도록 돕는 새로운 도구입니다.\n이 기술은 LLM이 웹 인터페이스를 통해 복잡한 작업을 자동화하는 가능성을 보여줍니다.\n개발자들은 이를 활용하여 다양한 자동화 및 웹 기반 AI 에이전트를 구축할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47890873",
+    "title": "Different Language Models Learn Similar Number Representations",
+    "url": "https://arxiv.org/abs/2604.20817",
+    "discussion_url": "https://news.ycombinator.com/item?id=47890873",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-04-24T14:34:23+00:00",
+    "ai_summary": "다양한 언어 모델들이 숫자 표현 방식을 학습하는 데 있어서 유사한 내부 표현을 사용한다는 연구 결과입니다.\n이는 모델들이 기본적인 개념을 처리하는 데 공통적인 메커니즘을 공유함을 시사합니다.\nLLM의 내부 작동 방식을 이해하고 향후 모델을 개선하는 데 중요한 통찰력을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47894734",
+    "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+    "url": "https://gdm-tipsv2.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47894734",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-04-24T19:28:32+00:00",
+    "ai_summary": "TIPSv2는 패치-텍스트 정렬을 강화하여 비전-언어 사전 훈련(Vision-Language Pretraining)을 발전시키는 기술입니다.\n이 연구는 이미지와 텍스트를 함께 이해하는 멀티모달 모델의 성능을 향상시키는 데 기여합니다.\n시각 및 언어 정보를 통합하는 AI 시스템 개발에 중요한 기반 기술입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47893427",
+    "title": "CSS as a Query Language",
+    "url": "https://evdc.me/blog/css-query",
+    "discussion_url": "https://news.ycombinator.com/item?id=47893427",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-04-24T17:39:37+00:00",
+    "ai_summary": "CSS를 쿼리 언어처럼 활용하는 새로운 관점에 대한 논의가 제시되었습니다.\n이는 CSS 선택자를 사용하여 웹 콘텐츠를 데이터 질의처럼 추출하거나 조작하는 아이디어를 다룹니다.\n프론트엔드 개발자들에게 CSS의 활용 범위를 넓히는 흥미로운 접근 방식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47892660",
+    "title": "Redesigning the Recurse Center application to inspire curious programmers",
+    "url": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+    "discussion_url": "https://news.ycombinator.com/item?id=47892660",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-04-24T16:45:10+00:00",
+    "ai_summary": "이 기사는 Recurse Center가 호기심 많은 프로그래머들을 고무시키기 위해 지원서 양식을 재설계한 과정을 다룹니다.\n전통적인 채용 면접과 다른, 센터의 자율적이고 비구조적인 학습 환경을 반영한 새로운 접근 방식을 소개합니다.\n이를 통해 지원자들이 더욱 편안하고 진정성 있는 모습으로 자신을 드러낼 수 있도록 돕는 것을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-gpt-5-5/",
+    "title": "GPT 5.5 (18 minute read)",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "discussion_url": "https://openai.com/index/introducing-gpt-5-5/",
+    "summary": "OpenAI released GPT-5.5 with improved agentic reasoning, tool use, and efficiency, matching prior latency while increasing performance across coding and knowledge tasks.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "OpenAI가 GPT-5.5를 출시했습니다. 에이전트 추론, 도구 사용, 효율성이 개선되었으며, 코딩 및 지식 작업에서 성능이 향상되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "title": "An update on recent Claude Code quality reports (11 minute read)",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "discussion_url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "summary": "Anthropic listened to feedback that Claude's responses had worsened, and it has resolved the issue as of April 20. The startup traced the problem to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. This post looks at how Anthropic investigated and fixed the problem and the commitments the company has made to ensure similar issues are much less likely to happen again.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "Anthropic은 Claude의 응답 품질 저하 피드백을 수렴하여 4월 20일부로 문제를 해결했습니다. Claude Code, Claude Agent SDK, Claude Cowork에 영향을 미친 세 가지 변경 사항이 원인이었으며, 향후 유사 문제 재발 방지를 위한 노력을 약속했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "title": "OpenAI Privacy Filter Model (8 minute read)",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "discussion_url": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "summary": "OpenAI released a lightweight open-weight model for detecting and redacting PII in text, designed for fast, local, context-aware privacy filtering workflows.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "OpenAI는 텍스트에서 PII(개인 식별 정보)를 감지하고 수정하기 위한 경량 오픈 가중치 모델을 출시했습니다. 빠르고 로컬에서 컨텍스트를 인식하는 개인정보 필터링 워크플로우를 위해 설계되었습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/amazon-science/expert-upcycling",
+    "title": "Expert Upcycling (GitHub Repo)",
+    "url": "https://github.com/amazon-science/expert-upcycling",
+    "discussion_url": "https://github.com/amazon-science/expert-upcycling",
+    "summary": "Amazon researchers released a method to expand Mixture-of-Experts models mid-training by duplicating and specializing experts, improving performance without increasing inference cost.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "아마존 연구진이 Expert Upcycling이라는 새로운 방법을 공개했습니다. 이는 Mixture-of-Experts 모델을 훈련 중 확장하여 추론 비용 증가 없이 성능을 향상시키는 기술입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzAxNDA1OSwiZXhwIjoxNzc3NjE4ODU5LCJhcnRpY2xlSWQiOiJURFlPWUZLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.VpZnfCzAPBdsmA8-s3-DU7qd02ioqgbSQI5E9LKc-f8",
+    "title": "AI Coding Firm Cognition in Funding Talks at $25 Billion Value (3 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzAxNDA1OSwiZXhwIjoxNzc3NjE4ODU5LCJhcnRpY2xlSWQiOiJURFlPWUZLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.VpZnfCzAPBdsmA8-s3-DU7qd02ioqgbSQI5E9LKc-f8",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzAxNDA1OSwiZXhwIjoxNzc3NjE4ODU5LCJhcnRpY2xlSWQiOiJURFlPWUZLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.VpZnfCzAPBdsmA8-s3-DU7qd02ioqgbSQI5E9LKc-f8",
+    "summary": "Cognition AI is in early talks to raise a round of funding that would more than double its valuation to $25 billion. The talks are ongoing and the terms could change. Cognition uses AI to streamline the process of writing and debugging code, with a focus on selling to businesses. Its flagship product, Devin, is being used by companies like Anduril and Microsoft.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "Cognition AI는 AI 코딩 도구 'Devin' 개발사로 250억 달러 가치로 투자 유치를 논의 중입니다. Devin은 코딩 및 디버깅 과정을 간소화하며, 기업들이 코드를 작성하고 디버그하는 데 활용됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://frontierai.substack.com/p/agents-cant-choose-between-structure",
+    "title": "Agents can't choose between structure and flexibility (8 minute read)",
+    "url": "https://frontierai.substack.com/p/agents-cant-choose-between-structure",
+    "discussion_url": "https://frontierai.substack.com/p/agents-cant-choose-between-structure",
+    "summary": "Deciding between Python and Markdown for agent specification involves balancing structure with flexibility. Code-maximalism enforces reliability but lacks adaptability, while Markdown-maximalism allows for creativity but risks errors. Successful agent architectures use a hybrid approach, leveraging Markdown for intent and code for structure to combine flexibility with reliable execution.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "에이전트 설계 시 Python과 Markdown 중 선택은 구조와 유연성 사이의 균형이 중요합니다. 성공적인 에이전트는 마크다운으로 의도를 표현하고 코드로 구조를 정의하는 하이브리드 접근 방식을 활용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure",
+    "title": "Microsoft to invest $1.8B in Australia to expand AI, cloud, and digital infrastructure (2 minute read)",
+    "url": "https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure",
+    "discussion_url": "https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure",
+    "summary": "Microsoft is investing $1.8 billion to significantly expand its cloud computing and artificial intelligence infrastructure across Australia.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "Microsoft는 호주에 18억 달러를 투자하여 AI, 클라우드 컴퓨팅 및 디지털 인프라를 대폭 확장할 계획입니다. 이는 지역 개발자들에게 더 많은 클라우드 및 AI 자원을 제공할 것으로 예상됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://allenai.org/blog/olmoearth-embeddings",
+    "title": "OlmoEarth Embeddings Export (8 minute read)",
+    "url": "https://allenai.org/blog/olmoearth-embeddings",
+    "discussion_url": "https://allenai.org/blog/olmoearth-embeddings",
+    "summary": "AI2 introduced embedding exports in OlmoEarth Studio, allowing users to generate and share compact Earth observation representations for downstream tasks like search and segmentation.",
+    "score": 0,
+    "published_at": "2026-04-24T23:40:24+00:00",
+    "ai_summary": "AI2가 OlmoEarth Studio에 임베딩 내보내기 기능을 도입했습니다. 사용자는 이를 통해 지구 관측 데이터의 압축된 표현을 생성하고, 검색 및 분할과 같은 하위 AI 작업에 활용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
