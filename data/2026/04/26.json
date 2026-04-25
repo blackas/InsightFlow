@@ -1,0 +1,631 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28887",
+    "title": "SDL이 이제 DOS를 지원함",
+    "url": "https://news.hada.io/topic?id=28887",
+    "discussion_url": "https://news.hada.io/topic?id=28887",
+    "summary": "DJGPP 기반 DOS 포트가 SDL에 추가됐고, 비디오·오디오·입력·스레딩·타이머·파일시스템·빌드 체인까지 폭넓게 갖춘 상태로 main에 병합됨\nVGA와 VESA 1.2+ 비디오, Sound Blaster 계열 오디오 재생, PS/2 키보드와 마우스, BIOS 기반 조이스틱, 협력형 스레딩과 ...",
+    "score": 0,
+    "published_at": "2026-04-25T19:48:00+00:00",
+    "ai_summary": "SDL이 DJGPP 기반 DOS 포트를 main 브랜치에 성공적으로 병합했습니다.\n이 포트는 비디오, 오디오, 입력, 스레딩 등 핵심 기능을 DOS 환경에서 폭넓게 지원합니다.\n개발자들은 이제 SDL을 사용하여 레거시 DOS 시스템에서도 다양한 애플리케이션을 개발할 수 있게 되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28884",
+    "title": "Show GN: firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI",
+    "url": "https://news.hada.io/topic?id=28884",
+    "discussion_url": "https://news.hada.io/topic?id=28884",
+    "summary": "해외 주식 투자하면서 포트폴리오 관리를 구글 스프레드시트로 하는 경우가 많음.\nfirma는 그 불편함을 해결하는 로컬 퍼스트 CLI 자산관리 도구임.\n핵심 기능\n\nfirma show portfolio: 보유 종목 P&amp;L, 평단가, 시장가 한눈에 조회 (Finnhub 자동 가격 동기화)",
+    "score": 0,
+    "published_at": "2026-04-25T18:23:43+00:00",
+    "ai_summary": "`firma`는 해외 주식 포트폴리오 관리를 위한 로컬 퍼스트 CLI 도구입니다.\n구글 스프레드시트의 불편함을 해소하고, Finnhub를 통해 시장 가격을 자동 동기화합니다.\nClaude AI 비서 기능을 활용하여 자산 관리를 효율적으로 돕는 것이 특징입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28883",
+    "title": "딥러닝의 과학 이론은 등장할 것이다",
+    "url": "https://news.hada.io/topic?id=28883",
+    "discussion_url": "https://news.hada.io/topic?id=28883",
+    "summary": "딥러닝 학습 과정의 mechanics는 신경망 훈련을 파라미터, 데이터, 과제, 학습 규칙의 상호작용이 만드는 동역학으로 다루며, 통합된 과학적 이론의 형태로 자리 잡기 시작함\n핵심 난제는 불투명성보다 복잡성에 있으며, 신경망은 비볼록·과매개�...",
+    "score": 0,
+    "published_at": "2026-04-25T17:38:22+00:00",
+    "ai_summary": "딥러닝 학습 과정의 복잡성에 대한 통합된 과학 이론이 등장하고 있습니다.\n이 이론은 신경망 훈련을 파라미터, 데이터, 과제, 학습 규칙의 동역학적 상호작용으로 분석합니다.\n딥러닝의 핵심 난제는 불투명성보다는 복잡성에 있다는 관점을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28882",
+    "title": "Gemini Enterprise Agent Platform — 구글 클라우드의 차세대 AI 에이전트 통합 플랫폼",
+    "url": "https://news.hada.io/topic?id=28882",
+    "discussion_url": "https://news.hada.io/topic?id=28882",
+    "summary": "구글 클라우드가 기존 Vertex AI를 확장·진화시킨 새로운 플랫폼 'Gemini Enterprise Agent Platform'을 공식 출시했습니다. 이 플랫폼은 AI 에이전트(사람의 개입 없이 스스로 판단하고 행동하는 AI 소프트웨어)를 만들고, 확장하고, 통제하고, 최적화하는 전 과정을 하나의 환경에서 처리할 수 있도록 설계되었습니...",
+    "score": 0,
+    "published_at": "2026-04-25T13:44:00+00:00",
+    "ai_summary": "구글 클라우드가 Vertex AI를 확장한 'Gemini Enterprise Agent Platform'을 출시했습니다.\n이 플랫폼은 AI 에이전트의 생성, 확장, 제어, 최적화 전 과정을 통합 환경에서 제공합니다.\n개발자들은 이 플랫폼을 활용하여 복잡한 AI 에이전트를 효율적으로 구축하고 관리할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28880",
+    "title": "ClawSweeper: AI 기반 오픈소스 이슈 자동 관리 봇",
+    "url": "https://news.hada.io/topic?id=28880",
+    "discussion_url": "https://news.hada.io/topic?id=28880",
+    "summary": "openclaw/openclaw 저장소는 열린 이슈와 PR을 합쳐 13,000개 이상의 미처리 항목을 안고 있습니다. ClawSweeper는 이 항목들을 AI가 자동으로 검토해 닫을 수 있는 것과 열어둘 것을 분류하는 봇으로, &quot;확실하지 않으면 닫지 않는다&quot;는 보수적 원칙 위에 설계되었습니다.\n핵심 동작 방식...",
+    "score": 0,
+    "published_at": "2026-04-25T10:46:33+00:00",
+    "ai_summary": "ClawSweeper는 AI 기반 오픈소스 이슈 자동 관리 봇으로, 미처리된 이슈와 PR을 분류합니다.\n13,000개 이상의 항목을 가진 저장소의 관리 부담을 줄이는 데 기여합니다.\n\"확실하지 않으면 닫지 않는다\"는 원칙으로 운영되어 보수적으로 동작합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28879",
+    "title": "AI 알약을 먹은 복리 성장 스타트업",
+    "url": "https://news.hada.io/topic?id=28879",
+    "discussion_url": "https://news.hada.io/topic?id=28879",
+    "summary": "샌프란시스코의 AI 네이티브 기업들을 직접 방문해 실제 업무 방식을 관찰한 결과, 제품 관리자(PM) 역할의 소멸부터 조직 전반의 실험 속도 가속까지 기존 스타트업과는 근본적으로 다른 운영 모델이 등장하고 있음\n방문한 5개 기업 중 전담 PM은 단 1명뿐이었으며, 엔지니어가",
+    "score": 0,
+    "published_at": "2026-04-25T10:08:02+00:00",
+    "ai_summary": "AI 네이티브 스타트업들은 기존과 다른 운영 모델을 보여줍니다.\n제품 관리자(PM) 역할이 축소되고, 조직 전반의 실험 속도가 가속화되는 경향을 보입니다.\n엔지니어가 더 많은 역할을 수행하며, AI 기술이 업무 방식에 근본적인 변화를 가져오고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28877",
+    "title": "Show GN: purplemux – Claude Code 세션을 웹·모바일에서 관리하는 오픈소스 tmux 매니저",
+    "url": "https://news.hada.io/topic?id=28877",
+    "discussion_url": "https://news.hada.io/topic?id=28877",
+    "summary": "Claude Code 여러 개 띄워놓고 돌리다 보니까\n\n승인 대기 놓치고\n작업 끝난 거 모르고\n터미널 하나하나 들어가는 게 너무 귀찮고\n이동 중에도 작업 흐름이 끊기는 게 아쉬워서\n\n그냥 한 화면에서 보려고 만들었습니다.\n브라우저/모바일에서 세션 상태를",
+    "score": 0,
+    "published_at": "2026-04-25T06:44:45+00:00",
+    "ai_summary": "`purplemux`는 Claude Code 세션을 웹과 모바일에서 관리하는 오픈소스 tmux 매니저입니다.\n여러 Claude Code 세션의 승인 대기 및 완료 상태를 한눈에 확인 가능합니다.\n이를 통해 작업 흐름을 끊김 없이 관리하고 터미널 접근 불편함을 해소합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28875",
+    "title": "Show GN: imgssh - SSH 안에서 로컬 클립보드 이미지를 붙여넣기",
+    "url": "https://news.hada.io/topic?id=28875",
+    "discussion_url": "https://news.hada.io/topic?id=28875",
+    "summary": "안녕하세요.\n요즘 원격 서버에 SSH로 붙어서 Claude Code나 Codex 같은 터미널 도구를 쓰는 일이 많아졌는데, 이미지 넣는 과정이 생각보다 번거롭더라고요.\n로컬에는 이미 스크린샷이 클립보드에 있는데, 원격 서버 입장에서는 그걸 알 방법이 없어서 매번 파일로 저장하고 scp로 올리고 경로를 다시",
+    "score": 0,
+    "published_at": "2026-04-25T05:59:48+00:00",
+    "ai_summary": "`imgssh`는 SSH 환경에서 로컬 클립보드의 이미지를 원격 서버에 바로 붙여넣는 도구입니다.\nClaude Code나 Codex 같은 터미널 도구 사용 시 이미지 전송의 번거로움을 해소합니다.\n스크린샷 등을 파일 저장 및 SCP 전송 없이 효율적으로 사용할 수 있게 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28873",
+    "title": "TypeScript 7.0 Beta 공개",
+    "url": "https://news.hada.io/topic?id=28873",
+    "discussion_url": "https://news.hada.io/topic?id=28873",
+    "summary": "TypeScript 7.0 Beta 공개 - Go 네이티브 포팅으로 약 10배 빨라진 TS\n\n기존 TypeScript 컴파일러를 Go로 포팅한 새 네이티브 구현\n“beta”지만 일상 작업과 CI에서 바로 써볼 수 있을 정도로 안정적이라고 강조\n새 코드베이스는 재작성(rewrite)이 아니라 기존 구현을 체계적으로 ...",
+    "score": 0,
+    "published_at": "2026-04-25T05:15:33+00:00",
+    "ai_summary": "TypeScript 7.0 Beta가 Go 네이티브 포팅으로 약 10배 빨라졌다.\n기존 컴파일러의 새로운 Go 구현은 안정적이며 일상 작업과 CI에 바로 적용 가능하다.\n이는 재작성이 아닌 체계적인 포팅을 통해 이루어졌다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28872",
+    "title": "Google Cloud가 제시하는 멀티 에이전트 시스템의 5가지 통합 패턴: A2A와 MCP",
+    "url": "https://news.hada.io/topic?id=28872",
+    "discussion_url": "https://news.hada.io/topic?id=28872",
+    "summary": "Google Cloud는 Cloud Next 26에서 멀티 에이전트 시스템을 엔터프라이즈 규모로 구축하기 위한 인프라를 공개했습니다. 핵심은 두 가지 프로토콜입니다. 에이전트 간 통신을 담당하는 A2A(Agent-to-Agent)와 에이전트가 외부 도구·데이터에 접근할 때 사용하는 MCP(Model Context Protocol)입니다. 이 글은 두 프로토...",
+    "score": 0,
+    "published_at": "2026-04-25T04:13:15+00:00",
+    "ai_summary": "Google Cloud는 Cloud Next 26에서 멀티 에이전트 시스템 구축 인프라를 공개했다.\n핵심은 에이전트 간 통신용 A2A와 외부 도구·데이터 접근용 MCP 두 가지 프로토콜이다.\n이는 엔터프라이즈 규모의 시스템 설계에 중요한 지침을 제공한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28870",
+    "title": "Ubuntu 26.04",
+    "url": "https://news.hada.io/topic?id=28870",
+    "discussion_url": "https://news.hada.io/topic?id=28870",
+    "summary": "데스크톱, 서버, 클라우드 전반에서 보안과 성능 향상에 초점을 맞춘 Ubuntu 26.04 LTS Resolute Raccoon이 출시됨\n유지보수 기간은 Ubuntu Desktop, Ubuntu Server, Ubuntu Cloud, Ubuntu WSL, Ubuntu Core에 5년 제공되고, 나...",
+    "score": 0,
+    "published_at": "2026-04-25T03:39:08+00:00",
+    "ai_summary": "보안과 성능 향상에 초점을 맞춘 Ubuntu 26.04 LTS Resolute Raccoon이 출시되었다.\n데스크톱, 서버, 클라우드 전반에 걸쳐 5년의 유지보수 기간을 제공한다.\n개발 및 운영 환경의 안정성과 효율성 향상에 기여할 것이다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28869",
+    "title": "클로드 코드로 UX 라이팅 리소스 50% 절감한 후기 (Figma MCP 활용)",
+    "url": "https://news.hada.io/topic?id=28869",
+    "discussion_url": "https://news.hada.io/topic?id=28869",
+    "summary": "서비스 전체 문구 검수(보통 UX Writing이라고 정의된 업무)라는 막막한 과제를 AI로 자동화하고 해결한 기록을 공유합니다.\n단순한 'AI 활용'을 넘어, 조직의 판단 기준을 시스템화하고 실무에 밀착시킨 과정이 잘 담겨 있네요.\n핵심 요약\n모호한 글쓰기 가이드 대신 '수치화된 스펙트럼'",
+    "score": 0,
+    "published_at": "2026-04-25T03:18:09+00:00",
+    "ai_summary": "AI를 활용해 서비스 전체 UX 라이팅 검수 업무를 50% 절감한 경험담이다.\n단순한 AI 활용을 넘어 조직의 판단 기준을 시스템화하고 실무에 밀착시킨 과정이 핵심이다.\n모호한 가이드 대신 '수치화된 스펙트럼'을 적용하여 효율을 높였다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28867",
+    "title": "Google, Anthropic에 최대 400억 달러 (약 59조원) 투자",
+    "url": "https://news.hada.io/topic?id=28867",
+    "discussion_url": "https://news.hada.io/topic?id=28867",
+    "summary": "Google이 Anthropic에 즉시 100억 달러를 현금 투자하고, 성과 목표 달성 시 추가 300억 달러를 투입하는 대규모 투자를 발표, 기업가치는 3,500억 달러로 책정\nAnthropic은 소프트웨어 코딩 속도를 높이는 AI 에이전트 Claude Code의 폭발적 성공...",
+    "score": 0,
+    "published_at": "2026-04-25T02:34:00+00:00",
+    "ai_summary": "Google이 AI 기업 Anthropic에 최대 400억 달러를 투자하며 대규모 협력을 발표했다.\nAnthropic의 기업가치는 3,500억 달러로 평가되었다.\n이는 소프트웨어 코딩 속도를 높이는 AI 에이전트 Claude Code의 성공에 기반한다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28863",
+    "title": "Claude를 해지한 이유: 토큰 문제, 품질 저하, 부실한 지원",
+    "url": "https://news.hada.io/topic?id=28863",
+    "discussion_url": "https://news.hada.io/topic?id=28863",
+    "summary": "초기 몇 주 동안은 빠른 속도와 공정하게 느껴진 토큰 허용량, 좋은 결과 품질로 만족도가 높았지만 약 3주 전부터 체감이 크게 바뀜\n10시간 쉬고 돌아온 뒤 Claude Haiku에 짧은 질문 두 개만 보냈는데 사용량이 100%까지 치솟았고, 지원 채널은 문의 핵심을 다루...",
+    "score": 0,
+    "published_at": "2026-04-25T00:44:12+00:00",
+    "ai_summary": "Claude 사용자는 초기 만족도와 달리 토큰 문제, 품질 저하, 부실한 지원으로 인해 해지를 결정했다.\n짧은 질문에도 토큰 사용량이 급증하는 등 서비스 정책에 의문을 제기했다.\nLLM 사용 시 실제 비용 및 지원 문제에 대한 중요한 인사이트를 제공한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28862",
+    "title": "GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크",
+    "url": "https://news.hada.io/topic?id=28862",
+    "discussion_url": "https://news.hada.io/topic?id=28862",
+    "summary": "Python Scrapy의 아키텍처를 Go 언어의 성능을 활용하여 네이티브 구현한 고성능 웹 스크래핑 프레임워크\ngoscrapy startproject 명령어 한 줄로 프로젝트 구조, Go 모듈 초기화, 의존성 해결까지 자동 스캐폴딩\nGo의 동시성 모델 기반",
+    "score": 0,
+    "published_at": "2026-04-25T00:31:02+00:00",
+    "ai_summary": "GoScrapy는 Python Scrapy 아키텍처를 Go 언어 기반으로 재구현한 초고속 웹 스크래핑 프레임워크다.\nGo의 동시성 모델을 활용하여 높은 성능을 자랑하며, 간단한 명령어로 프로젝트 스캐폴딩을 지원한다.\n웹 데이터 수집 작업을 효율적으로 수행하려는 개발자에게 유용하다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28861",
+    "title": "DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리)",
+    "url": "https://news.hada.io/topic?id=28861",
+    "discussion_url": "https://news.hada.io/topic?id=28861",
+    "summary": "Google Labs가 Stitch 프로젝트에서 제안한 DESIGN.md 포맷이 흥미로워서 며칠 동안 스펙을 뜯어보다가, 혼자 보고 끝내기 아까워서 한국어로 풀어 28챕터짜리 커리큘럼 형태로 정리해 두었습니다. 같은 주제를 공부하시는 분들이 처음부터 영문 스펙을 뒤지지 않아도 되게, 그리고 저처럼 &quot;AI한테 디자인 시스템...",
+    "score": 0,
+    "published_at": "2026-04-25T00:22:09+00:00",
+    "ai_summary": "Google Labs의 Stitch 프로젝트에서 제안한 AI 코딩 도구를 위한 DESIGN.md 포맷이 소개되었다.\n이는 디자인 시스템을 단일 파일로 정의하는 새로운 표준으로, AI가 디자인 지침을 이해하고 코드를 생성하는 데 도움을 준다.\nAI 기반 개발 워크플로우를 효율화할 잠재력이 크다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47904876",
+    "title": "USB Cheat Sheet",
+    "url": "https://fabiensanglard.net/usbcheat/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47904876",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-04-25T21:51:18+00:00",
+    "ai_summary": "USB 관련 기술 정보를 요약한 빠른 참조 가이드입니다. 다양한 USB 버전, 커넥터, 전송 속도 등 핵심 사양을 한눈에 파악할 수 있습니다. 임베디드 개발, 하드웨어 연동, 디버깅 등 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47902525",
+    "title": "Using coding assistance tools to revive projects you never were going to finish",
+    "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47902525",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-04-25T16:11:50+00:00",
+    "ai_summary": "코딩 보조 도구를 활용하여 미완성 프로젝트를 다시 시작하고 완료하는 방법을 다룹니다. AI 기반 코드 완성, 디버깅 지원 등으로 개발 병목 현상을 극복할 수 있습니다. 개발 생산성 향상 및 프로젝트 완결성을 높이는 실용적인 팁을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47899053",
+    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47899053",
+    "summary": "",
+    "score": 529,
+    "published_at": "2026-04-25T05:56:12+00:00",
+    "ai_summary": "새로운 10기가비트 이더넷(GbE) USB 어댑터가 더 시원하고, 작고, 저렴해졌다는 소식입니다. 고속 네트워크 연결이 필요한 개발 환경에서 성능 및 비용 효율성 개선을 의미합니다. 데브옵스, 백엔드, 클라우드 환경에서 대용량 데이터 처리 및 인프라 구축에 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47903173",
+    "title": "Mine, an IDE for Coalton and Common Lisp",
+    "url": "https://coalton-lang.github.io/mine/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47903173",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-04-25T17:47:02+00:00",
+    "ai_summary": "Coalton 및 Common Lisp 언어를 위한 통합 개발 환경(IDE) 'Mine'에 대한 소개입니다. 이 IDE는 해당 언어의 개발 생산성과 효율성을 높이는 데 중점을 둡니다. Lisp 계열 언어를 사용하는 개발자들에게 필수적인 개발 도구의 등장을 알립니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47902987",
+    "title": "Simulacrum of Knowledge Work",
+    "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47902987",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-04-25T17:20:34+00:00",
+    "ai_summary": "지식 노동의 본질과 미래에 대한 철학적 탐구로, AI와 자동화가 지식 노동의 의미를 어떻게 변화시키는지 논의합니다.\n개발자를 포함한 지식 근로자들에게 AI 시대의 역할과 가치에 대한 깊은 성찰을 제공합니다.\n기술 발전이 인간의 작업 방식과 직업 윤리에 미치는 영향을 폭넓게 다룹니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47884625",
+    "title": "How Hard Is It to Open a File?",
+    "url": "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47884625",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-04-24T02:01:40+00:00",
+    "ai_summary": "파일 열기 작업의 내부 복잡성과 성능 문제를 심층 분석하는 기사입니다.\n운영체제 시스템 호출, I/O 최적화, 잠재적 병목 현상 등을 상세히 다룹니다.\n백엔드 개발자 및 시스템 프로그래머에게 유용한 인사이트를 제공하며, 효율적인 파일 처리에 대한 이해를 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47900398",
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "url": "https://github.com/MartinGalway/C64_music",
+    "discussion_url": "https://news.ycombinator.com/item?id=47900398",
+    "summary": "",
+    "score": 157,
+    "published_at": "2026-04-25T10:46:14+00:00",
+    "ai_summary": "1980년대 코모도어 64 게임 음악 작곡가 마틴 갤웨이의 음악 소스 파일이 공개되었습니다.\n어셈블리 언어 기반의 레트로 게임 음악 제작 기술과 구조를 엿볼 수 있습니다.\n레트로 게임 개발, 어셈블리 학습 또는 컴퓨터 역사에 관심 있는 개발자에게 흥미로운 자료입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47903690",
+    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+    "url": "https://getkloak.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47903690",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-04-25T19:03:01+00:00",
+    "ai_summary": "Kubernetes(K8s) 환경에서 워크로드가 민감한 정보(secrets)에 직접 접근하는 것을 막는 'Kloak'이라는 비밀 관리자 솔루션입니다.\n보안 강화 및 K8s 시크릿 관리의 복잡성을 해소하는 것을 목표로 합니다.\n클라우드 네이티브 환경에서 K8s를 사용하는 개발자와 DevOps 엔지니어에게 필수적인 보안 도구입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47859442",
+    "title": "What async promised and what it delivered",
+    "url": "https://causality.blog/essays/what-async-promised/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47859442",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-04-22T05:28:58+00:00",
+    "ai_summary": "비동기 프로그래밍 모델이 약속했던 이점과 실제 구현 과정에서의 경험을 비교 분석하는 기사입니다.\n동시성 처리, 성능 향상, 코드 복잡성 등 비동기 방식의 장단점을 다룹니다.\n다양한 언어의 개발자들이 직면하는 비동기 프로그래밍 패러다임에 대한 심도 깊은 논의를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47901734",
+    "title": "GPT‑5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47901734",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-04-25T14:17:31+00:00",
+    "ai_summary": "GPT-5.5 바이오 모델을 대상으로 하는 '버그 바운티(Bug Bounty)' 프로그램이 발표되었습니다.\nAI 시스템의 잠재적 취약점을 발견하고 개선하여 안전성을 확보하는 것을 목표로 합니다.\nLLM 보안, 책임감 있는 AI 개발 및 윤리적 인공지능 연구에 관심 있는 개발자들에게 매우 중요합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47900478",
+    "title": "Discret 11, the French TV encryption of the 80s",
+    "url": "https://fabiensanglard.net/discret11/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47900478",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-04-25T11:10:41+00:00",
+    "ai_summary": "1980년대 프랑스 TV 암호화 시스템인 'Discret 11'에 대한 기술적 분석 기사입니다.\n당시 암호화 기술, 신호 처리 방식 및 해독 과정의 역사를 고찰합니다.\n암호학 역사, 레트로 기술 또는 초기 미디어 보안 시스템에 관심 있는 개발자에게 흥미로운 자료입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47870245",
+    "title": "Lute: A Standalone Runtime for Luau",
+    "url": "https://lute.luau.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47870245",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-04-22T22:41:57+00:00",
+    "ai_summary": "Luau는 Roblox에서 사용되는 Lua 기반의 스크립팅 언어입니다. Lute는 이 Luau 언어를 Roblox 환경 밖에서 실행할 수 있는 독립형 런타임을 제공합니다.\n개발자들은 이를 통해 Luau를 다양한 애플리케이션에 통합하거나 새로운 도구를 만들 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47892655",
+    "title": "Which one is more important: more parameters or more computation? (2021)",
+    "url": "https://parl.ai/projects/params_vs_compute/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47892655",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-04-24T16:44:57+00:00",
+    "ai_summary": "이 기사는 AI 모델 설계에서 파라미터 수와 연산량 중 어떤 요소가 더 중요한지에 대한 질문을 다룹니다. 특히 2021년 당시의 연구를 바탕으로 모델 성능 향상을 위한 확장 전략을 탐구합니다.\n이는 AI 모델 최적화 및 아키텍처 선택에 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47876930",
+    "title": "Math Is Hard",
+    "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47876930",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-04-23T15:29:50+00:00",
+    "ai_summary": "이 기사는 '수학은 어렵다'는 일반적인 명제를 다루며, 소프트웨어 개발이나 컴퓨터 과학 분야에서 수학적 사고의 중요성과 난이도를 조명합니다.\n복잡한 알고리즘 설계나 문제 해결 과정에서 수학적 배경 지식이 어떻게 필수적인지에 대해 논합니다.\n개발자들이 직면하는 수학적 도전 과제와 이를 극복하는 방법에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47900440",
+    "title": "A web-based RDP client built with Go WebAssembly and grdp",
+    "url": "https://github.com/nakagami/grdpwasm",
+    "discussion_url": "https://news.ycombinator.com/item?id=47900440",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-04-25T10:59:29+00:00",
+    "ai_summary": "이 기사는 Go와 WebAssembly 기술을 활용하여 웹 기반 RDP 클라이언트를 개발한 사례를 소개합니다. `grdp` 라이브러리를 사용하여 브라우저에서 직접 원격 데스크톱에 접속할 수 있도록 구현했습니다.\n이는 Go 개발자, 웹 개발자, 그리고 WebAssembly의 실제 활용 사례에 관심 있는 사람들에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47900451",
+    "title": "Only one side will be the true successor to MS-DOS – Windows 2.x",
+    "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47900451",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-04-25T11:03:15+00:00",
+    "ai_summary": "이 기사는 MS-DOS의 진정한 후계자가 Windows 2.x라는 주장을 다루며 초기 PC 운영체제의 역사적 맥락을 분석합니다. MS-DOS에서 Windows로의 전환이 컴퓨팅 환경에 미친 영향을 설명하고, 각 운영체제의 기술적 특징과 사용자 경험을 비교합니다.\n이는 컴퓨터 역사와 운영체제 발전 과정에 관심 있는 개발자들에게 흥미로운 정보를 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47897681",
+    "title": "Plain text has been around for decades and it’s here to stay",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47897681",
+    "summary": "",
+    "score": 264,
+    "published_at": "2026-04-25T01:03:09+00:00",
+    "ai_summary": "복잡한 데이터 형식 속에서도 일반 텍스트의 지속적인 관련성을 강조합니다.\n단순성, 보편적 호환성 및 데이터 표현의 핵심으로서의 수명을 역설합니다.\n개발자 도구 및 워크플로우 전반에 걸친 중요성을 부각합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47897647",
+    "title": "Replace IBM Quantum back end with /dev/urandom",
+    "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=47897647",
+    "summary": "",
+    "score": 329,
+    "published_at": "2026-04-25T00:58:38+00:00",
+    "ai_summary": "IBM 퀀텀 백엔드를 `/dev/urandom`으로 교체하자는 유머러스한 제안입니다.\n이는 퀀텀 컴퓨팅 시스템의 현재 신뢰성이나 성능에 대한 비판적 시각을 암시합니다.\n이론적 잠재력과 실제 구현 사이의 격차를 강조할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47900506",
+    "title": "Lambda Calculus Benchmark for AI",
+    "url": "https://victortaelin.github.io/lambench/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47900506",
+    "summary": "",
+    "score": 128,
+    "published_at": "2026-04-25T11:16:23+00:00",
+    "ai_summary": "람다 대수를 AI 시스템 평가를 위한 벤치마크로 제안합니다.\nAI의 추상적 컴퓨팅 개념 이해 및 처리 능력을 측정하는 데 중점을 둡니다.\n통계적 패턴을 넘어 AI의 상징적 추론 능력에 대한 통찰력을 제공할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47874613",
+    "title": "Commenting and approving pull requests",
+    "url": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47874613",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-04-23T11:47:46+00:00",
+    "ai_summary": "소프트웨어 개발에서 풀 리퀘스트(PR)에 대한 코멘트 및 승인 모범 사례를 다룹니다.\n건설적인 피드백, 명확한 소통, 효율적인 리뷰 프로세스의 중요성을 강조합니다.\n효과적인 PR 리뷰가 협업을 촉진하고 팀 생산성을 향상시키는 방법을 조명합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  }
+]
