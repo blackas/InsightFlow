@@ -1,0 +1,551 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28916",
+    "title": "Lightwhale 3: Linux 서버를 다시 재미있게 만들기",
+    "url": "https://news.hada.io/topic?id=28916",
+    "discussion_url": "https://news.hada.io/topic?id=28916",
+    "summary": "Docker 컨테이너 전용으로 설계된 Linux 서버 OS로, ISO만 부팅하면 곧바로 Docker Engine 환경에 들어가게 됨\n코어 시스템을 불변·무상태 구조로 두고 /etc, /var, /home과 Docker 데이터만 별도 쓰기 영...",
+    "score": 0,
+    "published_at": "2026-04-26T21:39:26+00:00",
+    "ai_summary": "Docker 컨테이너 전용 Linux 서버 OS인 Lightwhale 3가 출시되었습니다.\n불변 코어 시스템과 Docker 데이터 분리 구조로 효율적인 컨테이너 환경을 제공합니다.\nISO 부팅만으로 Docker Engine 환경에 즉시 진입할 수 있어 서버 관리를 간소화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28913",
+    "title": "Turbo Vision 2.0 - 현대적인 포트",
+    "url": "https://news.hada.io/topic?id=28913",
+    "discussion_url": "https://news.hada.io/topic?id=28913",
+    "summary": "고전 텍스트 UI 프레임워크를 Linux와 Windows에서 다시 활용할 수 있게 옮기면서, UTF-8과 확장 색상까지 포함한 공통 개발 기반을 제공함\n기존 Turbo Vision 앱의 소스 코드 수준 호환성을 최대한 유지하면서도, char 기반 API를 ...",
+    "score": 0,
+    "published_at": "2026-04-26T19:47:31+00:00",
+    "ai_summary": "고전 텍스트 UI 프레임워크인 Turbo Vision이 Linux 및 Windows를 지원하는 2.0 버전으로 포트되었습니다.\nUTF-8과 확장 색상을 포함한 현대적인 공통 개발 기반을 제공합니다.\n기존 Turbo Vision 앱의 소스 코드 호환성을 최대한 유지하며 레거시 시스템 현대화를 돕습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28912",
+    "title": "Google, Anthropic에 현금과 컴퓨트로 최대 400억 달러 투자",
+    "url": "https://news.hada.io/topic?id=28912",
+    "discussion_url": "https://news.hada.io/topic?id=28912",
+    "summary": "AI 컴퓨트 확보가 경쟁의 핵심 자원으로 커지는 가운데, Google은 Anthropic에 현금과 인프라를 묶어 최대 400억 달러를 투입할 계획임\n투자 구조는 우선 100억 달러 집행과 3,500억 달러 기업가치 책정을 포함하며, 나머지 300...",
+    "score": 0,
+    "published_at": "2026-04-26T19:44:31+00:00",
+    "ai_summary": "Google이 AI 컴퓨트 확보를 위해 Anthropic에 현금과 인프라를 합쳐 최대 400억 달러를 투자할 계획입니다.\n이는 AI 경쟁에서 컴퓨트 자원의 중요성이 커지고 있음을 보여줍니다.\n초기 100억 달러 집행과 3,500억 달러 기업가치 책정을 포함하며, AI 시장의 주요 동향을 반영합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28910",
+    "title": "Karpathy 스타일 LLM 위키를 에이전트들이 직접 유지하는 시스템 - Markdown과 Git 기반",
+    "url": "https://news.hada.io/topic?id=28910",
+    "discussion_url": "https://news.hada.io/topic?id=28910",
+    "summary": "여러 AI 에이전트가 같은 오피스에서 협업하도록 구성됐고, 숨겨진 API 호출보다 브라우저 UI와 역할별 팀 구성을 통한 가시적인 작업 흐름을 앞세움\n메모리는 에이전트별 notebook과 팀 공용 wiki로 나뉘며, 원시 작업 맥락은 ...",
+    "score": 0,
+    "published_at": "2026-04-26T17:53:04+00:00",
+    "ai_summary": "여러 AI 에이전트가 Markdown과 Git 기반의 LLM 위키를 직접 유지보수하는 시스템이 개발되었습니다.\n에이전트들이 브라우저 UI와 역할별 팀 구성을 통해 가시적으로 협업하며 작업 흐름을 관리합니다.\n에이전트별 노트와 팀 공용 위키로 메모리를 분리하여 효율적인 지식 관리를 가능하게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28905",
+    "title": "Show GN: Clarc - 비개발자 동료들도 Claude Code 쓸 수 있게 만든 macOS 앱",
+    "url": "https://news.hada.io/topic?id=28905",
+    "discussion_url": "https://news.hada.io/topic?id=28905",
+    "summary": "제 첫 오픈소스 프로젝트입니다. 비개발자 동료들이 Claude Code를 쓸 수 있게 해주고 싶었는데, 터미널이 벽이더군요. CLI 설치, GitHub SSH 키 설정, 어떤 작업이 실행될지 제대로 미리보지도 못한 채 매번 도구 호출을 승인하는 일 — 저한테는 아무 문제도 아니지만 그들에겐 전부 문제였습니다.\n그래서 C",
+    "score": 0,
+    "published_at": "2026-04-26T13:26:50+00:00",
+    "ai_summary": "비개발자 동료들이 Claude Code를 쉽게 사용할 수 있도록 만든 macOS 앱 'Clarc'이 공개되었습니다.\nCLI 설치나 GitHub SSH 키 설정 등 개발 장벽 없이 AI 코딩 보조 기능을 활용할 수 있도록 돕습니다.\n이는 개발자가 아닌 사람들에게 AI 도구를 제공하려는 오픈소스 프로젝트입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28904",
+    "title": "코딩 보조 도구로 끝내지 못할 프로젝트 되살리기",
+    "url": "https://news.hada.io/topic?id=28904",
+    "discussion_url": "https://news.hada.io/topic?id=28904",
+    "summary": "오래 묵은 개인 프로젝트는 새로 학습하기보다 구현을 끝내는 데 초점이 맞춰져 있어, 코딩 보조 도구를 시험하기에 잘 맞았음\nYouTube Music을 OpenSubsonic API로 노출하는 shim을 다시 구현해, 서로 다른 Subsonic 클라이언트가 같은 방식으로...",
+    "score": 0,
+    "published_at": "2026-04-26T12:35:35+00:00",
+    "ai_summary": "코딩 보조 도구를 활용하여 오랫동안 미뤄왔던 개인 프로젝트를 되살리는 경험을 공유합니다.\n구현 완료에 초점을 맞춰 YouTube Music을 OpenSubsonic API로 노출하는 shim을 재구현했습니다.\n이는 AI 도구가 개발 효율성을 높이고 미완성 프로젝트를 완성하는 데 유용함을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28902",
+    "title": "ChatGPT를 활용한 아마추어가 Erdős 문제를 풀다",
+    "url": "https://news.hada.io/topic?id=28902",
+    "discussion_url": "https://news.hada.io/topic?id=28902",
+    "summary": "primitive set의 Erdős sum 최솟값이 1이고 원소들이 무한대로 갈수록 그 값에 가까워진다는 오래된 문제가, GPT-5.4 Pro가 만든 해법으로 풀린 것으로 받아들여짐\n해법은 Liam Price가 한 번의 프롬프트로 얻어 erdosproblems.com에 올린 결과물이며, 이후 Kevin ...",
+    "score": 0,
+    "published_at": "2026-04-26T07:33:21+00:00",
+    "ai_summary": "오래된 수학 난제인 primitive set의 Erdős sum 최솟값 문제가 ChatGPT(GPT-5.4 Pro)를 통해 풀렸습니다.\nLiam Price가 단 한 번의 프롬프트로 해법을 얻어 공개했으며, 이는 AI의 문제 해결 능력을 입증하는 사례입니다.\n아마추어 연구자가 LLM을 활용하여 학술적 성과를 달성할 수 있음을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28899",
+    "title": "grdpwasm - 웹 기반 RDP 클라이언트",
+    "url": "https://news.hada.io/topic?id=28899",
+    "discussion_url": "https://news.hada.io/topic?id=28899",
+    "summary": "브라우저만으로 Windows 원격 데스크톱에 접속할 수 있는 웹 기반 RDP 클라이언트이며, 아무 plugin 없이 동작함\n브라우저의 Go WebAssembly와 서버 측 WebSocket-to-TCP 프록시를 분리해, 브라우저가 직접 열 수 없는 RDP TCP ...",
+    "score": 0,
+    "published_at": "2026-04-26T02:22:48+00:00",
+    "ai_summary": "브라우저만으로 Windows 원격 데스크톱에 접속하는 웹 기반 RDP 클라이언트입니다.\n플러그인 없이 Go WebAssembly와 WebSocket-to-TCP 프록시로 동작하며,\n개발자들은 웹 기반 원격 접속 솔루션 구현에 활용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28898",
+    "title": "Claude Code 루틴이 내 재정을 지켜볼 수 있을까?",
+    "url": "https://news.hada.io/topic?id=28898",
+    "discussion_url": "https://news.hada.io/topic?id=28898",
+    "summary": "금융 계좌 데이터와 MCP 커넥터를 연결하면 잔액, 거래내역, 투자, 대출 정보를 바탕으로 반복적인 재무 점검을 프롬프트만으로 자동화할 수 있음\n기존의 Codex CLI cron-job 방식은 웹 로그인, 브라우저 렌더링 문제, 2FA, passkey 제한 때문에 자주 깨졌고 계좌별...",
+    "score": 0,
+    "published_at": "2026-04-26T02:21:20+00:00",
+    "ai_summary": "Claude Code 루틴을 금융 계좌 데이터와 연결해 재무 점검을 자동화할 수 있습니다.\n기존의 웹 로그인, 2FA 제한 문제를 AI 프롬프트 기반으로 해결하며,\nAI를 활용한 자동화 시스템 구축에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28896",
+    "title": "GPT-5.5 바이오 버그 바운티",
+    "url": "https://news.hada.io/topic?id=28896",
+    "discussion_url": "https://news.hada.io/topic?id=28896",
+    "summary": "생물학 안전장치를 점검하기 위해 GPT‑5.5를 대상으로, 다섯 개의 바이오 안전 질문을 모두 통과시키는 범용 jailbreak 탐색 프로그램이 열림\n범위는 Codex Desktop 전용 GPT‑5.5로 제한되며, 새 채팅에서 moderation을 유도하지 않고 하나의 프...",
+    "score": 0,
+    "published_at": "2026-04-26T02:12:18+00:00",
+    "ai_summary": "GPT-5.5의 생물학 안전장치를 점검하기 위한 버그 바운티 프로그램이 시작되었습니다.\nCodex Desktop 전용 GPT-5.5를 대상으로, 바이오 안전 질문을 통과하는 범용 jailbreak 탐색이 목표입니다.\nLLM 안전성 및 취약점 연구에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28893",
+    "title": "Firefox, Brave의 광고 차단 엔진 통합",
+    "url": "https://news.hada.io/topic?id=28893",
+    "discussion_url": "https://news.hada.io/topic?id=28893",
+    "summary": "Brave의 오픈소스 광고·추적기 차단 엔진인 adblock-rust가 Firefox 149에 포함됐으며, 현재는 기본적으로 비활성화되어 있음\n이 엔진은 Rust로 작성됐고 MPL-2.0 라이선스를 사용하며, 네트워크 요청 차단과 cosmetic filtering, uBlock Origin ...",
+    "score": 0,
+    "published_at": "2026-04-26T00:45:21+00:00",
+    "ai_summary": "Brave의 오픈소스 광고 차단 엔진 'adblock-rust'가 Firefox 149에 통합되었으나 현재는 비활성화 상태입니다.\nRust로 작성된 이 엔진은 uBlock Origin과 유사하게 네트워크 요청 차단 및 cosmetic filtering을 지원합니다.\n브라우저 개발, Rust, 웹 기술에 관심 있는 개발자에게 흥미로운 소식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28891",
+    "title": "mini-swe-agent - 100줄짜리 AI 에이전트로 GitHub 이슈 해결 및 커맨드라인 지원",
+    "url": "https://news.hada.io/topic?id=28891",
+    "discussion_url": "https://news.hada.io/topic?id=28891",
+    "summary": "SWE-bench와 SWE-agent를 만든 Princeton·Stanford 팀이 개발한 최소주의 AI 코딩 에이전트\n약 100줄의 Python 코드로 구성된 초경량 AI 소프트웨어 엔지니어링 에이전트로, 거대한 설정 파일이나 모노레포 없이 동작\nbash만 도구로 사용",
+    "score": 0,
+    "published_at": "2026-04-26T00:31:02+00:00",
+    "ai_summary": "Princeton·Stanford 팀이 개발한 약 100줄의 Python 코드 기반 초경량 AI 소프트웨어 엔지니어링 에이전트입니다.\n거대한 설정 없이 bash만 이용해 GitHub 이슈를 해결하고 커맨드라인을 지원합니다.\nAI를 활용한 개발 생산성 향상에 관심 있는 모든 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28890",
+    "title": "OpenAI, API에 GPT-5.5와 GPT-5.5 Pro 출시",
+    "url": "https://developers.openai.com/api/docs/models/gpt-5.5",
+    "discussion_url": "https://news.hada.io/topic?id=28890",
+    "summary": "GPT-5.5를 Chat Completions API와 Responses API에 출시했고, 더 많은 연산이 유리한 어려운 문제용 GPT-5.5 pro를 Responses API 요청에 함께 추가함\n...",
+    "score": 0,
+    "published_at": "2026-04-25T23:49:09+00:00",
+    "ai_summary": "OpenAI가 Chat Completions API와 Responses API에 GPT-5.5 및 GPT-5.5 Pro 모델을 출시했습니다.\nGPT-5.5 Pro는 더 많은 연산이 필요한 어려운 문제 해결에 적합하며,\n개발자들이 새로운 LLM 모델을 애플리케이션에 통합할 수 있는 중요한 업데이트입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47913855",
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47913855",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-04-26T20:18:37+00:00",
+    "ai_summary": "Stuxnet보다 5년 앞서 발생한 'Fast16'이라는 고정밀 소프트웨어 사보타주 사건을 다룹니다.\n이 기사는 산업 제어 시스템에서의 사이버 보안 취약점과 초기 정밀 공격 기술의 역사를 분석할 것으로 예상됩니다.\n사이버 보안 및 산업 시스템 개발자에게 관련성이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47913650",
+    "title": "AI should elevate your thinking, not replace it",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47913650",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-04-26T20:03:12+00:00",
+    "ai_summary": "AI가 인간의 사고를 대체하는 것이 아니라, 오히려 창의성과 생산성을 높이는 도구로 활용되어야 한다고 주장하는 기사입니다.\n개발자가 AI를 활용하여 복잡한 문제를 해결하고 새로운 아이디어를 발전시키는 방법에 대해 다룹니다.\nAI 시대의 개발자 역할과 올바른 AI 활용법에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47914367",
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "discussion_url": "https://news.ycombinator.com/item?id=47914367",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-04-26T20:58:31+00:00",
+    "ai_summary": "생물학적 망각 과정을 모방하여 구현한 AI 메모리 시스템을 소개하는 프로젝트입니다.\n이 시스템은 52%의 정보 회상률을 보이며, AI의 장기 기억 및 효율적인 정보 관리 방식 개선에 중점을 둡니다.\nAI 아키텍처 및 새로운 모델 개발에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47910388",
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47910388",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-04-26T13:58:13+00:00",
+    "ai_summary": "소프트웨어 엔지니어링 벤치마크인 SWE-bench Verified가 현재 LLM의 최첨단 코딩 능력을 충분히 측정하지 못한다고 분석하는 기사입니다.\nAI 모델의 코드 생성 및 문제 해결 능력 평가 기준과 그 한계에 대한 중요한 논의를 담고 있습니다.\nLLM 및 AI 벤치마크 개발 및 평가에 관심 있는 개발자에게 필수적인 정보입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47885719",
+    "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+    "url": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+    "discussion_url": "https://news.ycombinator.com/item?id=47885719",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-04-24T04:57:16+00:00",
+    "ai_summary": "ESP32-S3 칩의 두 번째 코어에서 ESP-IDF와 함께 베어메탈 Rust 코드를 실행하는 상세한 기술 가이드입니다.\n임베디드 시스템에서 저수준 프로그래밍을 활용하여 하드웨어 자원을 효율적으로 제어하는 방법을 설명합니다.\nRust 언어와 임베디드 개발에 관심 있는 시스템 및 펌웨어 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47914161",
+    "title": "MoQ Boy",
+    "url": "https://moq.dev/blog/moq-boy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47914161",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-04-26T20:40:50+00:00",
+    "ai_summary": "소프트웨어 개발에서 테스트, 특히 목(Mock) 객체 사용의 중요성을 다룹니다.\n테스트 효율성을 높이고 코드의 신뢰성을 확보하는 방법에 대해 논의합니다.\n개발자가 테스트 전략을 수립하고 목 라이브러리를 활용하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47878231",
+    "title": "Box to Save Memory in Rust",
+    "url": "https://dystroy.org/blog/box-to-save-memory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47878231",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-04-23T17:02:24+00:00",
+    "ai_summary": "Rust 언어에서 `Box` 타입이 메모리 할당 및 관리에 어떻게 사용되는지 설명합니다.\n힙 할당을 통해 스택 오버플로우를 방지하고 큰 데이터 구조를 효율적으로 처리하는 방법을 다룹니다.\nRust 개발자가 메모리 사용을 최적화하고 안전한 코드를 작성하는 데 필수적인 개념을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47911350",
+    "title": "Clay PCB Tutorial",
+    "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+    "discussion_url": "https://news.ycombinator.com/item?id=47911350",
+    "summary": "",
+    "score": 185,
+    "published_at": "2026-04-26T16:02:14+00:00",
+    "ai_summary": "점토를 활용하여 독특한 인쇄 회로 기판(PCB)을 제작하는 방법을 안내하는 튜토리얼입니다.\n전도성 점토와 간단한 도구를 사용해 프로토타입 회로를 만드는 과정을 설명합니다.\n하드웨어 개발자나 메이커들이 창의적인 방식으로 회로를 제작하는 데 영감을 줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47911524",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "discussion_url": "https://news.ycombinator.com/item?id=47911524",
+    "summary": "",
+    "score": 375,
+    "published_at": "2026-04-26T16:27:29+00:00",
+    "ai_summary": "AI 에이전트가 프로덕션 데이터베이스를 삭제한 심각한 사고를 다루며, AI의 '자백'을 포함합니다.\nAI 시스템의 배포, 운영 및 잠재적 위험성에 대한 중요한 경고와 교훈을 제공합니다.\n데이터베이스 관리자, DevOps 엔지니어, AI 개발자들에게 시스템 안전과 책임의 중요성을 일깨웁니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47915274",
+    "title": "Show HN: Startup Equity Adventure Game",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47915274",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-04-26T22:14:59+00:00",
+    "ai_summary": "이 기사는 스타트업 지분과 관련된 모험 게임을 소개합니다. 플레이어는 가상의 스타트업 환경에서 재무 및 지분 결정을 내리며 그 결과를 경험합니다. 스타트업 개발자나 창업에 관심 있는 이들에게 지분 구조를 이해하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47908833",
+    "title": "Statecharts: hierarchical state machines",
+    "url": "https://statecharts.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47908833",
+    "summary": "",
+    "score": 267,
+    "published_at": "2026-04-26T09:32:22+00:00",
+    "ai_summary": "계층적 상태 머신인 스테이트차트(Statecharts) 개념과 활용을 다룹니다. 복잡한 시스템의 상태와 전환 로직을 시각적으로 명확하게 모델링하는 데 사용됩니다. UI, 임베디드 시스템, 게임 로직 등 다양한 소프트웨어 설계에 필수적인 기술입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47911780",
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47911780",
+    "summary": "",
+    "score": 504,
+    "published_at": "2026-04-26T16:57:56+00:00",
+    "ai_summary": "GoDaddy가 아무런 적절한 확인 절차 없이 도메인 소유권을 타인에게 이전해준 사건을 다룹니다. 이는 심각한 보안 취약점과 고객 데이터 관리 문제를 드러냅니다. 개발자 및 서비스 운영자에게 도메인 보안과 신뢰할 수 있는 관리의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47914369",
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "url": "https://playtiao.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47914369",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-04-26T20:59:07+00:00",
+    "ai_summary": "턴제 2인 보드 게임인 'Tiao'를 소개하는 게시물입니다. 게임의 규칙, 인터페이스, 그리고 개발 과정에서의 기술적 측면이 포함될 수 있습니다. 게임 개발에 관심 있는 소프트웨어 개발자들에게 영감이나 참고 자료가 될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47871877",
+    "title": "Orinoco: Young Generation Garbage Collection",
+    "url": "https://v8.dev/blog/orinoco-parallel-scavenger",
+    "discussion_url": "https://news.ycombinator.com/item?id=47871877",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-04-23T03:05:13+00:00",
+    "ai_summary": "'오리노코(Orinoco)'는 가비지 컬렉션(GC) 중 영(Young) 세대 수집 방식에 대해 심층적으로 설명합니다. 효율적인 메모리 관리와 런타임 성능 최적화에 기여하는 핵심 기술입니다. 자바스크립트 엔진과 같은 런타임 개발자, 백엔드 시스템 엔지니어에게 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47885012",
+    "title": "Dear friend, you have built a Kubernetes (2024)",
+    "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47885012",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-04-24T03:07:45+00:00",
+    "ai_summary": "쿠버네티스(Kubernetes) 환경을 구축하고 이해하는 과정에 대한 가이드 또는 통찰을 제공하는 기사입니다. 컨테이너 오케스트레이션과 클라우드 네이티브 아키텍처의 핵심 요소입니다. DevOps 엔지니어, 클라우드 아키텍트, 백엔드 개발자들에게 높은 관련성을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47911977",
+    "title": "Dillo Browser Release 3.3.0",
+    "url": "https://dillo-browser.org/release/3.3.0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47911977",
+    "summary": "",
+    "score": 142,
+    "published_at": "2026-04-26T17:18:14+00:00",
+    "ai_summary": "Dillo는 경량 웹 브라우저로, 주로 구형 또는 저사양 시스템에 최적화되어 있습니다.\n이번 3.3.0 릴리스는 안정성과 보안을 개선하고, 사용자 인터페이스를 소폭 업데이트했습니다.\n특정 환경의 개발자나 웹 표준 구현에 관심 있는 이들에게 유용할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47909226",
+    "title": "Asahi Linux Progress Linux 7.0",
+    "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47909226",
+    "summary": "",
+    "score": 584,
+    "published_at": "2026-04-26T10:50:32+00:00",
+    "ai_summary": "Asahi Linux 프로젝트는 Apple Silicon 기반 Mac에서 리눅스를 완벽히 구현하기 위한 노력을 지속하고 있습니다.\n이번 보고서는 Linux 커널 7.0으로의 전환 및 지원 확장에 대한 진행 상황을 다룹니다.\n이는 Apple Silicon에서 개발 환경을 구축하려는 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47876071",
+    "title": "Show HN: Turning a Gaussian Splat into a videogame",
+    "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47876071",
+    "summary": "",
+    "score": 199,
+    "published_at": "2026-04-23T14:18:52+00:00",
+    "ai_summary": "Gaussian Splatting 기술을 활용하여 비디오 게임을 개발한 Show HN 프로젝트입니다.\n이 프로젝트는 최신 3D 렌더링 기술이 게임 분야에 어떻게 적용될 수 있는지를 보여줍니다.\n그래픽스 엔지니어, 게임 개발자, 그리고 실시간 3D 렌더링에 관심 있는 사람들에게 흥미로울 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Other"
+    ]
+  }
+]
