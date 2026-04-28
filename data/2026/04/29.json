@@ -1,0 +1,860 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28990",
+    "title": "프롬프트 API",
+    "url": "https://news.hada.io/topic?id=28990",
+    "discussion_url": "https://news.hada.io/topic?id=28990",
+    "summary": "Chrome에 내장된 Gemini Nano에 자연어 요청을 보내는 웹 API로, 질의응답·분류·콘텐츠 필터링·일정 추출·연락처 추출 같은 작업에 활용 가능함\n사용 전에는 별도 모델 다운로드가 필요하며, 지원 OS·저장공간·GPU 또는 CPU 메모리 같은 실행 조건",
+    "score": 0,
+    "published_at": "2026-04-28T23:23:41+00:00",
+    "ai_summary": "Chrome에 내장된 Gemini Nano에 자연어 요청을 보내는 웹 API로, 질의응답, 분류, 콘텐츠 필터링 등 다양한 작업에 활용됩니다.\n사용 전에는 모델 다운로드 및 지원 OS, 저장공간, GPU/CPU 메모리 같은 실행 조건이 필요합니다.\n개발자들이 웹 애플리케이션에 AI 기능을 통합할 수 있게 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28983",
+    "title": "Warp, 터미널 기반 Agentic Development Environment를 오픈소스로 공개",
+    "url": "https://news.hada.io/topic?id=28983",
+    "discussion_url": "https://news.hada.io/topic?id=28983",
+    "summary": "Warp가 터미널 클라이언트 코드베이스를 오픈소스로 공개했습니다. 저장소는 warpdotdev/warp이고, 라이선스는 AGPL-3.0입니다.\nWarp는 Rust 기반의 현대적인 터미널로 시작했지만, 최근에는 터미널 안에서 AI 에이전트와 함께 개발하는 &quot;Agentic Development Environment&quot; 쪽으로 방향",
+    "score": 0,
+    "published_at": "2026-04-28T16:52:02+00:00",
+    "ai_summary": "Warp가 터미널 클라이언트 코드베이스를 오픈소스로 공개했으며, AGPL-3.0 라이선스를 따릅니다.\nRust 기반의 현대적인 터미널로 시작했지만, 이제는 AI 에이전트와 함께 개발하는 \"Agentic Development Environment\"로 방향을 전환했습니다.\n개발자들이 터미널 환경에서 AI를 활용한 생산성 향상을 기대할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28982",
+    "title": "Show GN: 완전하게 로컬에서 돌리는 AI 페르소나 시뮬레이터",
+    "url": "https://news.hada.io/topic?id=28982",
+    "discussion_url": "https://news.hada.io/topic?id=28982",
+    "summary": "mirollama는 문서와 시나리오를 입력하면 로컬 LLM 기반 AI 에이전트들이 이해관계자 반응, 갈등, 내러티브 변화를 시뮬레이션해주는 local-first multi-agent scenario lab입니다.\n\n기존의 666ghj/mirofish의 영향을 받아 작업. 이것을 완전한 에어갭에서 작동하게 해보게 하자가 포인트.\n로컬",
+    "score": 0,
+    "published_at": "2026-04-28T15:24:54+00:00",
+    "ai_summary": "mirollama는 문서와 시나리오를 입력받아 로컬 LLM 기반 AI 에이전트들이 반응, 갈등, 내러티브 변화를 시뮬레이션하는 도구입니다.\n기존 mirofish의 영향을 받아 작업되었으며, 완전한 에어갭 환경에서도 작동하도록 설계되었습니다.\n로컬에서 AI 에이전트 시뮬레이션을 가능하게 하여 개발 및 연구에 기여합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28975",
+    "title": "dirac - 정확하고 토큰 효율성이 뛰어난 오픈 소스 AI 에이전트",
+    "url": "https://news.hada.io/topic?id=28975",
+    "discussion_url": "https://news.hada.io/topic?id=28975",
+    "summary": "긴 컨텍스트에서 추론 성능이 흔들리는 문제를 줄이기 위해 촘촘한 컨텍스트 큐레이션과 도구 효율 대비 성능 최적화에 초점을 맞춤\ngemini-3-flash-preview 기준 Terminal-Bench-2 65.2% 를 기록했고, 공개 GitHub 저장소의 복잡한...",
+    "score": 0,
+    "published_at": "2026-04-28T08:34:23+00:00",
+    "ai_summary": "dirac은 긴 컨텍스트에서 추론 성능 문제를 줄이기 위해 컨텍스트 큐레이션과 도구 효율성 최적화에 중점을 둔 오픈 소스 AI 에이전트입니다.\ngemini-3-flash-preview 기준으로 Terminal-Bench-2에서 65.2%의 성능을 기록했습니다.\n이는 AI 에이전트의 성능 및 효율성 향상에 기여하는 기술적 진보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28971",
+    "title": "VibeVoice - 오픈소스 프론티어 음성 AI 모델",
+    "url": "https://news.hada.io/topic?id=28971",
+    "discussion_url": "https://news.hada.io/topic?id=28971",
+    "summary": "Microsoft가 공개한 오픈소스 음성 AI 모델 패밀리로, TTS(텍스트→음성)와 ASR(음성→텍스트)을 모두 포함\nASR은 Open AI Whisper와 비슷하지만 화자 분리(speaker diarization) 기능이 모델 자체에 내장\n핵심 혁신은 7.5Hz 초저 프레임 레이트...",
+    "score": 0,
+    "published_at": "2026-04-28T04:09:54+00:00",
+    "ai_summary": "Microsoft가 TTS(텍스트→음성)와 ASR(음성→텍스트) 기능을 모두 포함하는 오픈소스 음성 AI 모델 패밀리 VibeVoice를 공개했습니다.\nOpen AI Whisper와 유사하지만 화자 분리 기능이 내장되어 있으며, 7.5Hz 초저 프레임 레이트의 혁신을 특징으로 합니다.\n개발자들이 음성 인식 및 합성을 다양한 애플리케이션에 통합할 수 있도록 돕습니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28970",
+    "title": "Show GN: Windows 작업표시줄에 Claude/Codex 한도 표시하는 TrafficMonitor 플러그인",
+    "url": "https://news.hada.io/topic?id=28970",
+    "discussion_url": "https://news.hada.io/topic?id=28970",
+    "summary": "Windows용 TrafficMonitor 플러그인인 TrafficMonitor AI Usage Limits를 만들어 보았습니다.\nClaude와 Codex의 사용량 한도 상태를 Windows 작업표시줄에 표시하는 플러그인입니다.\n표시 항목은 다음과 같습니다.\n\nClaude 5시간 / 7일 사용량\nCodex 5시간 / 7일 사",
+    "score": 0,
+    "published_at": "2026-04-28T04:04:37+00:00",
+    "ai_summary": "Windows용 TrafficMonitor 플러그인인 \"TrafficMonitor AI Usage Limits\"가 개발되어 Claude와 Codex의 사용량 한도를 Windows 작업표시줄에 표시합니다.\n이 플러그인은 Claude 및 Codex의 5시간/7일 사용량을 포함한 정보를 제공합니다.\nAI API를 활용하는 개발자들이 자신의 사용량을 쉽게 모니터링하여 효율적인 작업 관리를 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28968",
+    "title": "Show GN: AWS 비용 계산기 - 한국 DevOps 팀을 위한 KRW+VAT 포함 비용 계산기",
+    "url": "https://news.hada.io/topic?id=28968",
+    "discussion_url": "https://news.hada.io/topic?id=28968",
+    "summary": "안녕하세요, GeekNews 커뮤니티 여러분.\n저는 DevOps 기업 인포그랩의 Technical Writer로 일하는 박민영이라고 합니다.\nShow에 오랜만에 글을 올려 보는데요.\n오늘은 최근 저희 팀에서 개발한 AWS 비용 계산기를 소개하려 합니다.\n요즘 저희 팀에서는 DevOps 커뮤니티의 실질적인 고충을",
+    "score": 0,
+    "published_at": "2026-04-28T02:40:34+00:00",
+    "ai_summary": "인포그랩 DevOps 팀이 한국 DevOps 엔지니어를 위한 AWS 비용 계산기를 개발했습니다.\n이 계산기는 KRW 및 VAT를 포함한 AWS 비용을 실질적으로 계산해줍니다.\n이는 DevOps 커뮤니티의 고충을 해결하기 위한 노력의 일환입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28966",
+    "title": "하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대",
+    "url": "https://news.hada.io/topic?id=28966",
+    "discussion_url": "https://news.hada.io/topic?id=28966",
+    "summary": "애디 오스마니(Addy Osmani)가 정리한 “하네스 엔지니어링(Harness Engineering)”에 관한 분석입니다. 그는 지난 2년 동안 업계의 관심이 “어떤 AI 모델이 더 똑똑한가”라는 질문에만 쏠려 있었다고 진단합니다. GPT가 더 깔끔한 코드를 짜는지, 클로드가 환각을 덜 일으키는지를 두고 끝없이 비교가 이어졌지만,...",
+    "score": 0,
+    "published_at": "2026-04-28T02:18:36+00:00",
+    "ai_summary": "하네스 엔지니어링은 AI 모델 자체보다 개발자의 효율적인 작업 환경 설계의 중요성을 강조합니다.\n지난 2년간 AI 모델 비교에 집중된 업계 관심이 이제는 개발자 생산성으로 전환되어야 합니다.\nAI와 협업하는 개발자의 워크플로우와 도구 개선이 핵심이 될 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28965",
+    "title": "pgbackrest는 더 이상 유지보수 되지 않음",
+    "url": "https://news.hada.io/topic?id=28965",
+    "discussion_url": "https://news.hada.io/topic?id=28965",
+    "summary": "PostgreSQL용 백업·복구 도구로서 대규모 환경까지 확장되도록 설계됐지만, 이제 유지보수를 종료 함\nbug fix, PR review, 이슈 대응, 신규 기능 개발이 모두 중단됐고, 불규칙하게 끌고 가기보다 명확히 멈추는 쪽을 택함\n전체·differential·incremental...",
+    "score": 0,
+    "published_at": "2026-04-28T00:56:12+00:00",
+    "ai_summary": "PostgreSQL 백업/복구 도구인 pgbackrest의 유지보수가 공식적으로 종료되었습니다.\n버그 수정, PR 검토, 이슈 대응, 신규 기능 개발 등 모든 지원이 중단됩니다.\n이는 해당 도구를 사용하는 개발팀에게 중요한 의사결정(대체 도구 모색 등)을 요구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28964",
+    "title": "Mercor에서 AI 계약자 4만 명의 음성 샘플 4TB 유출",
+    "url": "https://news.hada.io/topic?id=28964",
+    "discussion_url": "https://news.hada.io/topic?id=28964",
+    "summary": "음성 생체정보와 정부 발급 신분증이 한 줄의 데이터로 묶인 대규모 유출이 발생했고, 유출된 샘플 인덱스 기준으로 4만 명이 넘는 AI 계약자가 포함됨\n계약자당 평균 2~5분 분량의 깨끗한 녹음이 담겨 있어, 약 15초 참조 오디오만으로도 가능한...",
+    "score": 0,
+    "published_at": "2026-04-28T00:53:12+00:00",
+    "ai_summary": "Mercor에서 AI 계약자 4만여 명의 음성 생체 정보와 정부 발급 신분증이 유출되는 대규모 사고가 발생했습니다.\n유출된 데이터는 계약자당 2-5분 분량의 깨끗한 음성 녹음 파일을 포함하며 개인 정보 보호에 심각한 위협입니다.\n이는 AI 모델 학습 데이터 및 서비스 운영 시 데이터 보안의 중요성을 다시 한번 강조합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28962",
+    "title": "GitHub Copilot이 사용량 기반 과금으로 전환됨",
+    "url": "https://news.hada.io/topic?id=28962",
+    "discussion_url": "https://news.hada.io/topic?id=28962",
+    "summary": "2026년 6월 1일부터 모든 GitHub Copilot 요금제가 월별 GitHub AI Credits 기준으로 과금되며, 사용량은 모델별 공개 API 요율에 따라 입력 토큰, 출력 토큰, 캐시된 토큰 소비량으로 계산됨\nCopilot은 에디터 안 보조 도구를 넘어 agentic platform",
+    "score": 0,
+    "published_at": "2026-04-28T00:47:11+00:00",
+    "ai_summary": "2026년 6월 1일부터 GitHub Copilot 요금제가 사용량 기반의 GitHub AI Credits으로 전환됩니다.\n과금은 모델별 API 요율에 따라 입력, 출력, 캐시된 토큰 소비량으로 계산됩니다.\n이는 Copilot이 단순한 보조 도구를 넘어 에이전트 플랫폼으로 확장됨을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28961",
+    "title": "HyperFrames - HTML로 비디오를 만드는 AI 에이전트 전용 오픈소스 프레임워크",
+    "url": "https://news.hada.io/topic?id=28961",
+    "discussion_url": "https://news.hada.io/topic?id=28961",
+    "summary": "Remotion과 비슷하게 HTML + CSS + GSAP만으로 영상을 제작하고 MP4로 렌더링\nReact나 독자적 DSL 없이 순수 HTML 파일이 곧 비디오 컴포지션이며, 빌드 단계 없이 index.html이 그대로 재생됨\nClaude Code, Codex 등의 AI 코딩 에이전트가 HTML을 직접 작성하는 워크플로우...",
+    "score": 0,
+    "published_at": "2026-04-28T00:46:01+00:00",
+    "ai_summary": "HyperFrames는 HTML, CSS, GSAP만으로 비디오를 제작하고 MP4로 렌더링하는 오픈소스 프레임워크입니다.\nReact나 별도 DSL 없이 순수 HTML 파일이 비디오 컴포지션이 되며, 빌드 없이 바로 재생됩니다.\n특히 AI 코딩 에이전트가 HTML을 직접 작성하여 비디오를 만드는 워크플로우에 최적화되어 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28960",
+    "title": "Microsoft와 OpenAI, 독점 및 매출 공유 계약 종료",
+    "url": "https://news.hada.io/topic?id=28960",
+    "discussion_url": "https://news.hada.io/topic?id=28960",
+    "summary": "OpenAI 제품 판매가 단일 클라우드 파트너에 묶이지 않게 바뀌며, Microsoft의 독점 판매권이 사라짐\nOpenAI는 Amazon 같은 경쟁 클라우드와도 계약을 추진할 수 있게 되고, 유통 경로를 더 넓힐 수 있음\nMicrosoft는 자사 클라우드에서 재판매하는 OpenA...",
+    "score": 0,
+    "published_at": "2026-04-28T00:44:11+00:00",
+    "ai_summary": "Microsoft와 OpenAI 간의 독점 및 매출 공유 계약이 종료되어, OpenAI 제품이 단일 클라우드 파트너에 묶이지 않게 됩니다.\nOpenAI는 이제 Amazon 등 다른 경쟁 클라우드 파트너들과도 계약을 맺고 유통 경로를 확장할 수 있습니다.\n이는 AI 서비스 시장의 경쟁 심화와 함께 개발자들의 OpenAI 모델 접근성에 변화를 가져올 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28959",
+    "title": "Show GN: LAO — 아이디어를 개발 AI가 실행할 수 있는 설계서로 바꿔주는 macOS 앱",
+    "url": "https://news.hada.io/topic?id=28959",
+    "discussion_url": "https://news.hada.io/topic?id=28959",
+    "summary": "LAO는 아이디어와 개발 AI 사이에 놓는 “설계 사무소” 같은 macOS 앱입니다.\nClaude Code, Codex, Gemini CLI 같은 개발 AI를 쓰다 보면 아이디어를 바로 채팅으로 던지고 개발을 시작하게 됩니다. 처음에는 빠른 것 같지만, 실제로는 만들고 나서야 빠진 것들이 보입니다.\n로그인은 어떻게 할지, 빈",
+    "score": 0,
+    "published_at": "2026-04-28T00:43:51+00:00",
+    "ai_summary": "LAO는 개발 AI가 실행 가능한 설계서로 아이디어를 구체화해주는 macOS 앱입니다.\n이는 개발 AI 사용 시 아이디어만으로 코드를 생성할 때 발생하는 누락 부분을 보완해줍니다.\n개발 AI와의 협업 효율을 높여 복잡한 프로젝트 기획 단계의 시행착오를 줄이는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28958",
+    "title": "Remotion - React로 영상을 만드는 오픈소스 프레임워크",
+    "url": "https://news.hada.io/topic?id=28958",
+    "discussion_url": "https://news.hada.io/topic?id=28958",
+    "summary": "React로 영상의 각 프레임을 정의하는 방식으로, GUI 편집기 없이 TypeScript 코드만으로 MP4를 렌더링\n이제 AI 에이전트가 코드를 만들어주기 때문에 더 쉽게 고화질 영상을 만들어낼 수 있게 됨\n에이전트 스킬 npx skills add remotion-dev/skill...",
+    "score": 0,
+    "published_at": "2026-04-28T00:31:02+00:00",
+    "ai_summary": "Remotion은 React와 TypeScript를 사용하여 코드만으로 MP4 영상을 렌더링하는 오픈소스 프레임워크입니다.\nGUI 편집기 없이 영상의 각 프레임을 정의하며, 개발자가 프로그래밍 방식으로 고화질 영상을 만들 수 있게 합니다.\n최근 AI 에이전트의 코드 생성 기능을 통해 영상 제작이 더욱 쉬워졌습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=28957",
+    "title": "Show GN: Athena - AI에게 가짜 한국인 5천명을 투표시켜본 실험 (2026 지방선거 시도지사)",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea",
+    "discussion_url": "https://news.hada.io/topic?id=28957",
+    "summary": "Nemotron-Personas-Korea 에 LLM 붙여서 2026 지방선거\n시도지사 시뮬을 돌려봤습니다.\nNEC에서 후보 8,300명 크롤링 → 페르소나 시도별 300명씩 5,100명 샘플링 → Gemma 4 e4b로 4,800표 시뮬 (RTX 5060, 3시간).",
+    "score": 0,
+    "published_at": "2026-04-28T00:00:27+00:00",
+    "ai_summary": "AI 챗봇 'Athena'를 활용해 가짜 한국인 5천명에게 2026년 지방선거 시도지사 모의투표를 진행한 실험입니다.\nNemotron-Personas-Korea에 LLM을 결합하여, 실제 후보 데이터와 샘플링된 5,100명 페르소나를 기반으로 시뮬레이션했습니다.\nGemma 4 e4b 모델과 RTX 5060 GPU를 이용해 4,800표를 3시간 만에 시뮬레이션했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47941590",
+    "title": "Carrot Disclosure: Forgejo",
+    "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47941590",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-04-28T22:14:29+00:00",
+    "ai_summary": "(기사 요약이 없어 구체적인 내용을 알 수 없습니다.)\n\"Forgejo\"는 Gitea의 포크 프로젝트로, Git 코드 호스팅 및 협업 플랫폼 관련 내용으로 추정됩니다.\n\"Carrot Disclosure\"는 특정 정보 공개나 발표를 의미할 수 있으며, 프로젝트의 주요 변경사항이나 보안 관련 공지일 가능성이 있습니다.\n이는 Forgejo 사용자나 오픈소스 커뮤니티에 중요한 소식일 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47939320",
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47939320",
+    "summary": "",
+    "score": 157,
+    "published_at": "2026-04-28T19:24:43+00:00",
+    "ai_summary": "(기사 요약은 없지만 제목만으로도 매우 중요합니다.)\nOpenAI의 모델들이 Amazon Bedrock 서비스에 통합된다는 소식으로, 양사 CEO 인터뷰가 포함되어 있습니다.\n이는 AWS 클라우드 환경에서 OpenAI의 강력한 AI 모델들을 사용할 수 있게 됨을 의미합니다.\n개발자들이 AWS 기반 AI 애플리케이션 개발 시 더 넓은 선택지와 기능을 활용할 수 있게 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47885644",
+    "title": "Intel Arc Pro B70 Review",
+    "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47885644",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-04-24T04:44:49+00:00",
+    "ai_summary": "(기사 요약이 없어 구체적인 내용을 알 수 없습니다.)\nIntel Arc Pro B70 그래픽 카드에 대한 리뷰 기사로 추정됩니다.\n개발자 중 그래픽 작업, AI/ML 가속, 게임 개발 등 하드웨어 성능에 민감한 분야에 종사하는 이들에게 유용할 수 있습니다.\n성능, 가격, 호환성 등 기술적인 세부 사항에 대한 분석이 담겨 있을 것으로 예상됩니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47939105",
+    "title": "CJIT: C, Just in Time",
+    "url": "https://dyne.org/cjit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47939105",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-04-28T19:10:14+00:00",
+    "ai_summary": "C 언어를 위한 Just-in-Time(JIT) 컴파일러 프로젝트인 'CJIT'를 소개합니다.\n런타임 성능 최적화와 동적 코드 생성 기술의 중요성을 강조합니다.\n저수준 프로그래밍, 컴파일러 및 런타임 시스템 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47936479",
+    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+    "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "discussion_url": "https://news.ycombinator.com/item?id=47936479",
+    "summary": "",
+    "score": 219,
+    "published_at": "2026-04-28T16:15:43+00:00",
+    "ai_summary": "GitHub에서 발견된 심각한 원격 코드 실행(RCE) 취약점(CVE-2026-3854)을 분석합니다.\n취약점의 발생 원인, 악용 가능성, 그리고 패치 적용의 중요성을 설명합니다.\nGitHub 사용자 및 보안 담당 개발자들에게 반드시 인지해야 할 필수 정보입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47935853",
+    "title": "Your phone is about to stop being yours",
+    "url": "https://keepandroidopen.org/en/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47935853",
+    "summary": "",
+    "score": 885,
+    "published_at": "2026-04-28T15:21:00+00:00",
+    "ai_summary": "휴대폰 소유권과 사용자 통제권이 점차 상실되고 있다는 우려를 제기하는 기사입니다.\n제조사의 정책, 소프트웨어 제한, 개인 정보 보호 문제 등 광범위한 이슈를 다룹니다.\n개발자에게는 모바일 플랫폼 정책 및 앱 생태계 변화에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47894312",
+    "title": "APL\\? (1990)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/97811.97845",
+    "discussion_url": "https://news.ycombinator.com/item?id=47894312",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-04-24T18:49:26+00:00",
+    "ai_summary": "1990년대 APL 프로그래밍 언어의 특징과 철학을 회고하는 기사입니다.\nAPL의 독특한 배열 지향 패러다임과 간결한 표현력을 소개합니다.\n프로그래밍 언어 역사, 디자인, 또는 틈새 언어에 관심 있는 개발자에게 흥미로운 자료입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47917250",
+    "title": "Patch applies fake diffs from commit messages",
+    "url": "https://samizdat.dev/phantom-patch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47917250",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-04-27T03:00:54+00:00",
+    "ai_summary": "커밋 메시지 내에서 가짜 diff 정보를 추출하여 패치에 적용하는 특이한 사례를 설명합니다.\n버전 관리 시스템의 내부 작동 방식과 패치 적용 메커니즘의 한계를 보여줍니다.\nGit, 코드 리뷰, 또는 CI/CD 파이프라인에 깊이 관여하는 개발자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47932937",
+    "title": "Who owns the code Claude Code wrote?",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "discussion_url": "https://news.ycombinator.com/item?id=47932937",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-04-28T11:24:52+00:00",
+    "ai_summary": "AI 코드 생성 도구인 'Claude Code'가 작성한 코드의 소유권 문제를 탐구합니다.\nAI 생성물의 저작권, 라이선스, 그리고 법적 책임에 대한 복잡한 질문을 제기합니다.\nAI 코딩 도구를 사용하는 모든 개발자와 기업에 필수적인 윤리적, 법적 고려 사항입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47906651",
+    "title": "I have officially retired from Emacs",
+    "url": "https://nullprogram.com/blog/2026/04/26/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47906651",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-04-26T02:12:13+00:00",
+    "ai_summary": "오랜 기간 사용해온 Emacs 에디터에서 은퇴하고 다른 도구로 전환한 개인적인 경험을 공유합니다.\nEmacs의 장단점, 전환을 결정한 이유, 그리고 새로운 개발 환경에 대한 평가를 다룹니다.\n개발 도구 선택, 생산성 향상, 또는 에디터 생태계에 관심 있는 개발자에게 흥미로운 읽을거리입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47939079",
+    "title": "A playable DOOM MCP app",
+    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47939079",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-04-28T19:08:47+00:00",
+    "ai_summary": "Microsoft Control Panel 앱에서 유명한 DOOM 게임을 플레이 가능하게 만든 프로젝트입니다.\n이는 기술적 도전과 창의적인 소프트웨어 구현을 보여주는 사례입니다.\n개발자들이 저수준 프로그래밍과 시스템 활용에 흥미를 가질 만한 내용입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47936264",
+    "title": "Warp is now open-source",
+    "url": "https://www.warp.dev/blog/warp-is-now-open-source",
+    "discussion_url": "https://news.ycombinator.com/item?id=47936264",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-04-28T15:58:30+00:00",
+    "ai_summary": "고급 기능과 AI 통합으로 주목받던 모던 터미널 앱 Warp가 이제 오픈 소스로 전환되었습니다.\n이는 개발자 커뮤니티의 기여를 가능하게 하고, 투명성을 높이며, 더 넓은 사용자층을 확보할 것입니다.\nRust 기반으로 개발된 이 터미널은 개발 생산성 향상에 기여할 잠재력이 큽니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47917094",
+    "title": "Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
+    "url": "https://sites.google.com/view/elizagen-org/blog/parry-parries-again",
+    "discussion_url": "https://news.ycombinator.com/item?id=47917094",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-04-27T02:32:32+00:00",
+    "ai_summary": "유명한 편집증 챗봇 'Parry'를 단 하루 만에 재구현한 프로젝트에 대한 기사입니다.\n이는 초기 인공지능 연구의 역사와 현대 기술을 이용한 재해석을 보여줍니다.\n자연어 처리 및 챗봇 개발에 관심 있는 개발자들에게 흥미로운 영감을 줄 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47933208",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "discussion_url": "https://news.ycombinator.com/item?id=47933208",
+    "summary": "",
+    "score": 724,
+    "published_at": "2026-04-28T11:54:20+00:00",
+    "ai_summary": "AirDrop의 기능을 대체할 수 있는 오픈 소스 크로스 플랫폼 파일 전송 도구인 LocalSend에 대한 내용입니다.\n다양한 운영체제 간의 손쉬운 파일 공유를 지원하여 개발자 및 일반 사용자에게 유용합니다.\n개방형 대안을 찾는 사용자들에게 실용적인 솔루션을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47933236",
+    "title": "VibeVoice: Open-source frontier voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "discussion_url": "https://news.ycombinator.com/item?id=47933236",
+    "summary": "",
+    "score": 309,
+    "published_at": "2026-04-28T11:56:04+00:00",
+    "ai_summary": "음성 인공지능 분야의 최신 기술을 선보이는 오픈 소스 프로젝트, VibeVoice에 대한 기사입니다.\n이는 음성 인식, 합성 또는 음성 인터페이스 개발에 관심 있는 개발자들에게 큰 의미가 있습니다.\n인공지능 연구 및 개발의 최전선에서 오픈 소스 기여의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47938097",
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "discussion_url": "https://news.ycombinator.com/item?id=47938097",
+    "summary": "",
+    "score": 259,
+    "published_at": "2026-04-28T18:01:21+00:00",
+    "ai_summary": "Anthropic의 AI 챗봇 서비스 Claude.ai가 현재 접속 불가 상태이며, API에서 높은 오류율이 발생하고 있다는 소식입니다.\n이는 Claude API를 사용하는 개발자들에게 직접적인 영향을 미치며, LLM 서비스의 안정성 중요성을 보여줍니다.\n대규모 언어 모델 기반 서비스 운영 및 시스템 신뢰성에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47936312",
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "url": "https://github.com/trycua/cua",
+    "discussion_url": "https://news.ycombinator.com/item?id=47936312",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-04-28T16:03:34+00:00",
+    "ai_summary": "macOS 앱을 백그라운드에서 실행하면서도 커서 제어권을 빼앗지 않는 기술이 소개되었습니다.\n이는 macOS 개발자나 고급 사용자에게 자동화, 테스트 또는 특정 앱 제어에 매우 유용합니다.\n운영체제 수준의 UI 인터랙션과 백그라운드 처리 문제를 해결하는 데 중점을 둡니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47932422",
+    "title": "An update on GitHub availability",
+    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47932422",
+    "summary": "",
+    "score": 298,
+    "published_at": "2026-04-28T10:05:03+00:00",
+    "ai_summary": "GitHub 서비스 가용성에 대한 업데이트 소식이 발표되었습니다.\nGitHub의 서비스 중단은 개발자의 작업 흐름에 직접적인 영향을 미치므로 매우 중요합니다.\n주로 서비스 안정성, 클라우드 인프라, 그리고 DevOps 운영과 관련된 내용을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47933257",
+    "title": "GitHub Actions is the weakest link",
+    "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47933257",
+    "summary": "",
+    "score": 208,
+    "published_at": "2026-04-28T11:58:14+00:00",
+    "ai_summary": "GitHub Actions가 CI/CD 파이프라인의 가장 취약한 부분이 될 수 있다는 분석입니다.\n보안, 성능, 구성 복잡성 등 개발자들이 겪을 수 있는 문제점들을 다룹니다.\nCI/CD 전략을 수립하거나 GitHub Actions를 사용하는 개발자들에게 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47936347",
+    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "discussion_url": "https://news.ycombinator.com/item?id=47936347",
+    "summary": "",
+    "score": 166,
+    "published_at": "2026-04-28T16:06:01+00:00",
+    "ai_summary": "AISLE이 오픈소스 의료 소프트웨어 OpenEMR에서 38개의 CVE 취약점을 발견했습니다.\n이는 의료 분야 소프트웨어의 심각한 보안 문제와 취약점 발견의 중요성을 강조합니다.\n보안 개발 및 테스트 프로세스 강화의 필요성을 일깨우는 중요한 보안 이슈입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "title": "Microsoft OpenAI Partnership Update (2 minute read)",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "discussion_url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "summary": "OpenAI and Microsoft revised their agreement to increase flexibility, including non-exclusive IP licensing, multi-cloud support for OpenAI products, and capped revenue-sharing terms through 2030.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "OpenAI와 Microsoft 간 파트너십이 유연성을 높이는 방향으로 변경되었습니다. 이번 변경에는 비독점적 IP 라이선싱, OpenAI 제품에 대한 멀티 클라우드 지원, 그리고 2030년까지 수익 공유 상한선 설정이 포함됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=ko4FZN&reflink=desktopwebshare_permalink",
+    "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO (6 minute read)",
+    "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=ko4FZN&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=ko4FZN&reflink=desktopwebshare_permalink",
+    "summary": "OpenAI missed its own targets for new users and revenue, raising concern among company leaders about whether it will be able to support its massive spending on data centers. The company's Chief Financial Officer has said that she is worried that OpenAI may not be able to pay for future computing contracts if revenue doesn't grow fast enough. Board directors have been questioning CEO Sam Altman's efforts to secure even more computing power despite the business slowdown. Company executives are now",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "OpenAI가 신규 사용자 및 매출 목표를 달성하지 못하여 데이터 센터에 대한 막대한 지출을 감당할 수 있을지에 대한 우려가 커지고 있습니다. CFO는 매출이 충분히 빠르게 성장하지 않으면 향후 컴퓨팅 계약 비용을 지불하지 못할 수도 있다고 밝혔습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/mingchikuo/status/2048587389791269182",
+    "title": "OpenAI Smartphone Rumors (3 minute read)",
+    "url": "https://x.com/mingchikuo/status/2048587389791269182",
+    "discussion_url": "https://x.com/mingchikuo/status/2048587389791269182",
+    "summary": "Analyst Ming-Chi Kuo reported that OpenAI explored building a smartphone with partners like MediaTek and Qualcomm, potentially replacing app-centric interfaces with AI agents and hybrid on-device/cloud models.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "분석가 Ming-Chi Kuo에 따르면 OpenAI가 MediaTek, Qualcomm 등 파트너와 함께 스마트폰 개발을 모색했습니다. 이는 앱 중심 인터페이스를 AI 에이전트로 대체하고, 온디바이스/클라우드 하이브리드 모델을 활용할 가능성을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tanayj.com/p/to-train-or-not-to-train",
+    "title": "To Train or Not to Train (10 minute read)",
+    "url": "https://www.tanayj.com/p/to-train-or-not-to-train",
+    "discussion_url": "https://www.tanayj.com/p/to-train-or-not-to-train",
+    "summary": "The companies integrating down into the model layer are doing it because, at their scale, the economics and differentiation arguments work out. Almost all of them are doing post-training, not pre-training from scratch. Companies should start collecting data and build small, specialized models. The more data companies collect, the better models they can produce.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "모델 레이어에 통합하는 대규모 기업들은 경제성과 차별화 때문에 이를 진행하며, 대부분 처음부터 사전 훈련하는 대신 후처리 훈련을 합니다. 기업들은 데이터 수집을 시작하고 작고 특화된 모델을 구축해야 하며, 더 많은 데이터를 수집할수록 더 나은 모델을 생산할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent/",
+    "title": "Batch API is terrible for one agent. It might be great for a fleet (6 minute read)",
+    "url": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent/",
+    "discussion_url": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent/",
+    "summary": "Batch API offers a 50% discount but adds latency, making it less suitable for single-agent use. For fleets of agents where multiple requests can be pooled, the batching approach becomes economically viable. Optimal usage involves routing slower, costlier models through batches, while employing faster models via synchronous paths, potentially managed by intelligent proxies like the developing LunaRoute.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "Batch API는 50% 할인되지만 지연 시간이 추가되어 단일 에이전트 사용에는 적합하지 않습니다. 여러 요청을 모을 수 있는 에이전트 플릿에는 경제적으로 유리합니다. 최적의 사용은 느리고 비싼 모델을 배치로, 빠른 모델은 동기식 경로로 라우팅하는 것이며, LunaRoute와 같은 지능형 프록시로 관리할 수 있습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card/",
+    "title": "GPT 5.5: The System Card (20 minute read)",
+    "url": "https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card/",
+    "discussion_url": "https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card/",
+    "summary": "GPT-5.5 is a solid improvement and is competitive with Claude Opus. It seems to be better for factual queries, web searches, and straightforward, well-specified requests, while Claude Opus excels in more open-ended or interpretive purposes. The model is unlikely to pose new big risks, and its alignment seems similar to that of previous models. This post examines the system card for GPT-5.5.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "GPT-5.5는 Claude Opus와 경쟁할 만한 견고한 개선을 보였습니다. 사실 기반 질의, 웹 검색, 명확하게 명시된 요청에 더 적합하며, Claude Opus는 개방형 또는 해석적 목적에 강점을 보입니다. 이 모델은 새로운 큰 위험을 초래할 가능성이 낮고 이전 모델과 유사한 정렬 수준을 가집니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/open-source-codex-orchestration-symphony/",
+    "title": "Codex Symphony Agent Orchestration (28 minute read)",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony/",
+    "discussion_url": "https://openai.com/index/open-source-codex-orchestration-symphony/",
+    "summary": "OpenAI's Symphony is an open-source specification that turns issue trackers into control planes for coding agents, reducing context switching and increasing pull request throughput by up to 5x.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "OpenAI의 Symphony는 이슈 트래커를 코딩 에이전트의 제어 평면으로 전환하는 오픈소스 사양입니다. 이는 컨텍스트 전환을 줄이고 Pull Request 처리량을 최대 5배까지 증가시킵니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2604.22119",
+    "title": "Amazon's Risk Evaluation Framework (18 minute read)",
+    "url": "https://arxiv.org/abs/2604.22119",
+    "discussion_url": "https://arxiv.org/abs/2604.22119",
+    "summary": "Amazon researchers introduced ESRRSim, an agentic evaluation framework with a structured taxonomy to benchmark risks like deception and reward hacking, revealing wide variation in model behavior across 11 LLMs.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "Amazon이 LLM의 위험(기만, 보상 해킹 등)을 평가하는 에이전트 기반 프레임워크 ESRRSim을 공개했다. 이 프레임워크는 11개 LLM의 다양한 모델 행동을 분석하여 위험 평가에 활용된다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arkaung.github.io/interactive-turboquant/",
+    "title": "Compressing AI vectors to 2–4 bits per number without losing accuracy (54 minute read)",
+    "url": "https://arkaung.github.io/interactive-turboquant/",
+    "discussion_url": "https://arkaung.github.io/interactive-turboquant/",
+    "summary": "TurboQuant compresses each coordinate in large tables of high-dimensional vectors to 2-4 bits with provably near-optimal distortion, no memory overhead for scale factors, and no training or calibration. It is between four and six orders of magnitude faster than the alternatives at 4-bit indexing, with higher recall as well. This page explains how TurboQuant works.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "TurboQuant는 고차원 벡터의 각 좌표를 2-4비트로 압축하여 정확도 손실 없이 데이터 크기를 줄인다. 이 기술은 4비트 인덱싱에서 기존 방식보다 4-6배 빠르며, 메모리 오버헤드나 훈련/보정 과정이 필요 없다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/akshay_pachaar/status/2048757569775378858",
+    "title": "Recursive Language Models, clearly explained (3 minute read)",
+    "url": "https://x.com/akshay_pachaar/status/2048757569775378858",
+    "discussion_url": "https://x.com/akshay_pachaar/status/2048757569775378858",
+    "summary": "MIT researchers have introduced Recursive Language Models (RLMs) to solve \"context rot,\" a phenomenon where large language models experience reasoning degradation when processing massive context windows, even if they excel at basic retrieval tasks. Instead of forcing a model to ingest an entire document at once, an RLM loads the context into a Python REPL runtime memory slot.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "MIT 연구진이 '컨텍스트 로트(Context Rot)' 문제를 해결하기 위해 RLM(Recursive Language Models)을 개발했다. RLM은 대규모 문서를 한 번에 처리하는 대신, Python REPL 런타임 메모리 슬롯에 컨텍스트를 로드하여 추론 저하를 방지한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases/",
+    "title": "GPU Spot Prices Surge 114% in Six Weeks (2 minute read)",
+    "url": "https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases/",
+    "discussion_url": "https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases/",
+    "summary": "NVIDIA's B200 GPU's rental price soared 114% to $4.95 per hour due to demand from AI models like GPT-5.5.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "NVIDIA B200 GPU의 렌탈 가격이 GPT-5.5와 같은 AI 모델 수요로 인해 6주 만에 114% 급등하여 시간당 4.95달러에 달한다. 이는 AI 모델 개발 및 운영 비용에 큰 영향을 미칠 것으로 예상된다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mimo.xiaomi.com/mimo-v2-5-pro",
+    "title": "MiMo-V2.5-Pro (6 minute read)",
+    "url": "https://mimo.xiaomi.com/mimo-v2-5-pro",
+    "discussion_url": "https://mimo.xiaomi.com/mimo-v2-5-pro",
+    "summary": "Xiaomi's open-sourced MiMo-V2.5-Pro, a 1.02T-parameter Mixture-of-Experts model, shows significant advancements in agentic tasks, software engineering, and long-horizon coherence.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "샤오미가 1.02조 파라미터 규모의 MoE 모델인 MiMo-V2.5-Pro를 오픈 소스로 공개했다. 이 모델은 에이전트 작업, 소프트웨어 엔지니어링, 장기 일관성 측면에서 상당한 발전을 보였다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
+    "title": "DeepSeek cuts V4-Pro prices by 75% (5 minute read)",
+    "url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
+    "discussion_url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
+    "summary": "DeepSeek is offering a 75% discount on its V4-Pro model pricing and reducing input cache hits by 90%, challenging US AI giants in a tense geopolitical backdrop.",
+    "score": 0,
+    "published_at": "2026-04-28T23:55:34+00:00",
+    "ai_summary": "DeepSeek이 V4-Pro 모델 가격을 75% 인하하고 입력 캐시 히트를 90% 줄였다. 이는 미국 AI 거대 기업들과의 경쟁에서 가격과 성능 우위를 확보하려는 전략으로, AI 모델 사용자들에게 중요한 소식이다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  }
+]
