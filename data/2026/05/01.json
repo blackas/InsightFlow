@@ -1,0 +1,849 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29049",
+    "title": "Claude Code가 커밋에 &quot;OpenClaw&quot;가 언급되면 요청을 거부하거나 추가 요금을 부과함",
+    "url": "https://news.hada.io/topic?id=29049",
+    "discussion_url": "https://news.hada.io/topic?id=29049",
+    "summary": "최근 commit의 JSON blob에 OpenClaw가 있으면 Claude Code가 요청을 거부하거나 추가 요금 청구 메시지가 나타남\n아무것도 없는 빈 Repo에서 단지 커밋만 남겨도 발생함\n다른 사람도 테스트 해보니 신규 폴더에 커밋메시지로 &quot;'{\\&quot;schem...",
+    "score": 0,
+    "published_at": "2026-04-30T17:21:41+00:00",
+    "ai_summary": "Claude Code AI가 커밋 메시지에 'OpenClaw'가 포함된 JSON을 감지하면 요청을 거부하거나 추가 요금을 부과하는 문제가 발생합니다.\n빈 저장소에 단순 커밋만 남겨도 발생하는 문제로, 여러 개발자들에게 테스트를 통해 확인되었습니다.\n이는 AI 코드 어시스턴트의 오작동 또는 특정 키워드에 대한 정책 위반 가능성을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29045",
+    "title": "Show GN: k-sajja-agents - 하지만 진짜 전문가가 말아주는",
+    "url": "https://news.hada.io/topic?id=29045",
+    "discussion_url": "https://news.hada.io/topic?id=29045",
+    "summary": "사람들은 이제 문제가 생기면 전문가에게 상담받기 보다 AI에게 먼저 물어봅니다.\n전문가, 즉 사짜들이 설 자리가 사라지고 있죠.\n그런데 이걸 반대로 보면, 새로운 기회가 생기고 있다는 뜻이기도 합니다.\n내가 실제로 일하는 방식을 오픈소스 Agent Skill로 만들어두면 어떨까요?\n사용자",
+    "score": 0,
+    "published_at": "2026-04-30T09:12:09+00:00",
+    "ai_summary": "사람들이 문제 발생 시 전문가 대신 AI를 먼저 찾는 경향이 강해지면서, 기존 전문가의 입지가 줄어들고 있습니다.\n하지만 이는 개발자가 자신의 전문 지식을 오픈소스 AI 에이전트 스킬로 구현하여 새로운 기회를 창출할 수 있음을 의미합니다.\n개인의 실제 업무 방식을 AI 에이전트로 전환하는 아이디어를 제안합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29043",
+    "title": "spawn-agent: 로컬 코딩 에이전트를 Vercel AI SDK 모델처럼 다루는 어댑터",
+    "url": "https://news.hada.io/topic?id=29043",
+    "discussion_url": "https://news.hada.io/topic?id=29043",
+    "summary": "이 프로젝트는 사용자의 컴퓨터에 이미 설치된 여러 코딩 에이전트(Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Factory Droid, Pi)를 자식 프로세스로 띄워, Vercel AI SDK의 LanguageModelV3 인터페이스 뒤로 감추어 주는 어댑터 라이브러리입니다. 통신은 공개 명세인 Agent...",
+    "score": 0,
+    "published_at": "2026-04-30T08:05:08+00:00",
+    "ai_summary": "이 프로젝트는 로컬에 설치된 다양한 코딩 에이전트(Claude Code, Copilot 등)를 Vercel AI SDK의 LanguageModelV3 인터페이스와 통합하는 어댑터 라이브러리입니다.\n이를 통해 개발자는 여러 코딩 에이전트를 Vercel AI SDK 모델처럼 일관된 방식으로 다룰 수 있습니다.\n이는 AI 에이전트의 활용성과 개발 편의성을 크게 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29041",
+    "title": "VSCode에서 Copilot이 기본적으로 Git 공동 작성자로 추가되었습니다.",
+    "url": "https://news.hada.io/topic?id=29041",
+    "discussion_url": "https://news.hada.io/topic?id=29041",
+    "summary": "VS Code는 이제 Chat 또는 에이전트 모드 워크플로에 대해 Git AI 공동 작업 기능을 기본적으로 활성화합니다. Copilot이 파일을 변경하면 Copilot이 해당 커밋의 공동 작성자로 자동으로 추가됩니다.\n기본 동작은 다음을 사용하여 변경할 수 있습니다.\ngit.addAICoAuthor:\n\nc",
+    "score": 0,
+    "published_at": "2026-04-30T07:51:40+00:00",
+    "ai_summary": "VS Code가 Chat 또는 에이전트 모드에서 Git AI 공동 작업 기능을 기본으로 활성화했습니다.\nGitHub Copilot이 파일을 변경하면 해당 커밋의 공동 작성자로 자동으로 추가됩니다.\n이 기본 동작은 `git.addAICoAuthor` 설정을 통해 변경할 수 있어, 개발 워크플로에 AI의 기여를 명시적으로 기록합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29040",
+    "title": "Show GN: Geas - AI Agent가 실수하지 않도록 엄격한 업무 프로토콜을 지키게 하기",
+    "url": "https://news.hada.io/topic?id=29040",
+    "discussion_url": "https://news.hada.io/topic?id=29040",
+    "summary": "안녕하세요 Claude code를 업무에서 굉장히 많이 사용하고 있는 주니어 보안 연구원입니다.\n배경\n여느때와 같이 Claude code로 작업을 하고 있던 날이었습니다.\n크고 중요한 작업을 해야하는 터라 작업을 이해시키고 계획을 짜는 것에 굉장히 공을 들이고 있었습니다.\n열심히 토론을 한",
+    "score": 0,
+    "published_at": "2026-04-30T06:43:15+00:00",
+    "ai_summary": "이 프로젝트는 AI 에이전트, 특히 Claude Code가 업무 수행 중 실수를 하지 않도록 엄격한 프로토콜을 적용하는 방법을 다룹니다.\n주니어 보안 연구원이 중요한 작업을 위해 AI 에이전트의 신뢰성을 확보하려는 배경에서 시작되었습니다.\nAI 에이전트의 오작동을 방지하고 예측 가능한 결과를 얻기 위한 접근법을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29036",
+    "title": "바이브 코딩의 환상과 AI 코드 수준 그리고 미래",
+    "url": "https://news.hada.io/topic?id=29036",
+    "discussion_url": "https://news.hada.io/topic?id=29036",
+    "summary": "최근 AI 코딩은 “실행되는 코드”를 빠르게 만들지만, 사용자가 기대한 “좋은 제품”까지 자동으로 만들지는 못한다는 주장\n\n\n저자는 그 원인을 크게 2가지로 봄\n\nAI의 상식/암묵지 부족\nRLVR 기반 학습에서 “좋은 코드/제품”보다 “코드 실행 성공”이 보상되기",
+    "score": 0,
+    "published_at": "2026-04-30T02:52:40+00:00",
+    "ai_summary": "AI 코딩이 \"실행되는 코드\"는 빠르게 생성하지만, \"좋은 제품\"까지는 자동으로 만들지 못한다는 비판적 주장을 제기합니다.\n저자는 그 원인으로 AI의 상식 및 암묵지 부족과, RLVR 학습이 \"좋은 코드\"보다 \"코드 실행 성공\"을 보상하는 경향을 지목합니다.\n이는 AI 코드의 현재 수준과 미래 발전 방향에 대한 성찰을 담고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29032",
+    "title": "GLM-5 대규모 서비스 중 발견한 레이스 컨디션 버그 수정기 — Coding Agent 추론 인프라의 Scaling Pain",
+    "url": "https://news.hada.io/topic?id=29032",
+    "discussion_url": "https://news.hada.io/topic?id=29032",
+    "summary": "GLM-5 기반 Coding Agent를 수억 건 규모로 서비스하며 마주친 KV Cache 레이스 컨디션 버그 두 건의 재현·수정 과정과 처리량 개선 최적화를 공유한다.\n배경\n스케일링 법칙(Scaling Laws)은 모델 파라미터와 데이터 규모의 혁신만 이끈 게 아니라, 인프라 엔지니어링도 한계까지 밀어붙이고 있다. Z",
+    "score": 0,
+    "published_at": "2026-04-30T01:40:16+00:00",
+    "ai_summary": "GLM-5 기반 코딩 에이전트를 수억 건 규모로 서비스하면서 발생한 KV Cache 레이스 컨디션 버그 두 건의 재현 및 수정 과정을 공유합니다.\n이 글은 대규모 AI 추론 인프라 운영 시 겪는 스케일링 문제와 이에 대한 처리량 개선 최적화 방안을 다룹니다.\n모델 스케일링이 인프라 엔지니어링에 가하는 압력을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29031",
+    "title": "Copy Fail – CVE-2026-31431",
+    "url": "https://news.hada.io/topic?id=29031",
+    "discussion_url": "https://news.hada.io/topic?id=29031",
+    "summary": "비특권 로컬 사용자가 authencesn, AF_ALG, splice()를 연결해 읽기 가능한 파일의 페이지 캐시 4바이트 쓰기를 만들고, 이를 통해 root 권한까지 올릴 수 있음\n커널별 오프셋이나 레이스 조건 없이 732바이트 Pyt...",
+    "score": 0,
+    "published_at": "2026-04-30T01:18:57+00:00",
+    "ai_summary": "비특권 로컬 사용자가 authencesn, AF_ALG, splice() 취약점을 이용해 페이지 캐시에 4바이트 쓰기를 만듭니다.\n이를 통해 커널별 오프셋이나 레이스 조건 없이 root 권한으로 상승하는 것이 가능합니다.\n시스템 보안 및 커널 개발자에게 매우 중요한 취약점입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29027",
+    "title": "Rust가 잡지 못하는 버그들",
+    "url": "https://news.hada.io/topic?id=29027",
+    "discussion_url": "https://news.hada.io/topic?id=29027",
+    "summary": "메모리 안전성은 크게 개선되지만, Rust 프로덕션 코드에서도 시스템 경계 처리 문제는 그대로 남아 취약점으로 이어질 수 있음\n같은 경로를 여러 syscall에서 다시 해석하는 흐름, 생성 뒤 권한을 바꾸는 방식, 문자열 기반 경로 비교는 TOCTOU와...",
+    "score": 0,
+    "published_at": "2026-04-30T01:06:57+00:00",
+    "ai_summary": "Rust는 메모리 안전성을 크게 개선하지만, 시스템 경계 처리 문제는 여전히 남아 취약점으로 이어질 수 있습니다.\n같은 경로 재해석, 생성 후 권한 변경 등은 TOCTOU와 같은 버그를 유발합니다.\nRust 개발자는 이러한 시스템 수준의 보안 취약점을 인지하고 대비해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29025",
+    "title": "HERMES.md가 커밋 메시지에 들어가면 추가 사용량 과금으로 라우팅됨",
+    "url": "https://news.hada.io/topic?id=29025",
+    "discussion_url": "https://news.hada.io/topic?id=29025",
+    "summary": "최근 git 커밋 메시지에 HERMES.md 문자열이 들어가면 Claude Code 요청이 Max 플랜 쿼터 대신 extra usage 과금 경로로 보내짐\n이 트리거는 디스크의 파일 존재와 무관하고 커밋 메시지 내용 자체에서 발생하며, add HERMES....",
+    "score": 0,
+    "published_at": "2026-04-30T01:00:57+00:00",
+    "ai_summary": "Git 커밋 메시지에 'HERMES.md' 문자열이 포함되면 Claude Code 요청이 Max 플랜 대신 추가 과금 경로로 라우팅됩니다.\n이 문제는 파일 존재 여부와 관계없이 메시지 내용 자체로 발생합니다.\nClaude Code 사용자는 커밋 메시지 작성 시 주의가 필요합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29024",
+    "title": "Zed 1.0 릴리즈",
+    "url": "https://news.hada.io/topic?id=29024",
+    "discussion_url": "https://news.hada.io/topic?id=29024",
+    "summary": "Zed 1.0은 웹 기술 기반 편집기였던 Atom 이후 다시 처음부터 만든 데스크톱 편집기로, 애플리케이션 전체를 GPU 셰이더 중심으로 구성하고 Rust로 자체 UI 프레임워크 GPUI를 구현해 왔음\n기존 기반 기술의 한계를 넘기 위해 자체 스택 전 계층을...",
+    "score": 0,
+    "published_at": "2026-04-30T00:57:57+00:00",
+    "ai_summary": "Zed 1.0은 웹 기술 기반 Atom의 한계를 넘어 Rust와 자체 GPUI 프레임워크로 처음부터 다시 만든 데스크톱 편집기입니다.\n애플리케이션 전체를 GPU 셰이더 중심으로 구성하여 기존 편집기들의 성능 문제를 극복했습니다.\nRust 개발자 및 고성능 편집기를 찾는 이들에게 매력적인 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29022",
+    "title": "Claude-Ads - Claude Code로 광고 대행사를 대체하기",
+    "url": "https://news.hada.io/topic?id=29022",
+    "discussion_url": "https://news.hada.io/topic?id=29022",
+    "summary": "구글, 메타, 유튜브, 틱톡, 링크드인, 애플 광고등 7개 광고 플랫폼에서 250개 이상의 자동화된 감사 항목을 실행하는 오픈소스 Claude Code 스킬\n광고 대행사가 월 $5,000~$10,000에 2~4주 걸려 15~20개 항목만 점검하는 감사를, 3~5분 만에 250개 이상 무료로 수행",
+    "score": 0,
+    "published_at": "2026-04-30T00:46:02+00:00",
+    "ai_summary": "Claude-Ads는 Claude Code를 활용해 구글, 메타 등 7개 광고 플랫폼에서 250개 이상의 자동화된 감사 항목을 수행하는 오픈소스 스킬입니다.\n이는 광고 대행사가 2~4주 걸려 수행하는 감사를 3~5분 만에 무료로 제공합니다.\nLLM을 이용한 비즈니스 자동화 및 비용 절감 사례로 주목할 만합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29021",
+    "title": "GoModel - Go로 작성된 고성능 AI 게이트웨이",
+    "url": "https://news.hada.io/topic?id=29021",
+    "discussion_url": "https://news.hada.io/topic?id=29021",
+    "summary": "LiteLLM 과 유사한 경량 AI 게이트웨이로 Go 단일 바이너리라 컨테이너 이미지가 가볍고 콜드스타트가 빠름\nOpenAI, Anthropic, Gemini, Groq, xAI 등 11개 프로바이더를 단일 OpenAI 호환 API로 통합\nDocker 컨테이너 하나에 API 키만 환경 변수로 넘기면...",
+    "score": 0,
+    "published_at": "2026-04-30T00:31:02+00:00",
+    "ai_summary": "GoModel은 Go 언어로 구현된 고성능 경량 AI 게이트웨이로, 가벼운 컨테이너 이미지와 빠른 콜드스타트가 특징입니다.\nOpenAI, Anthropic 등 11개 프로바이더를 단일 OpenAI 호환 API로 통합하여 사용 편의성을 높였습니다.\n다양한 LLM 모델을 활용하는 백엔드 개발자에게 유용한 솔루션입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47951295",
+    "title": "Opus 4.7 knows the real Kelsey",
+    "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+    "discussion_url": "https://news.ycombinator.com/item?id=47951295",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-04-29T17:09:03+00:00",
+    "ai_summary": "최신 AI 모델 'Opus 4.7'이 특정 인물 'Kelsey'에 대한 깊은 이해를 보여줍니다.\n이 모델은 개인화된 데이터 분석과 복잡한 정보 처리를 통해 인물의 본질을 파악하는 능력을 갖추고 있습니다.\n이는 차세대 AI 시스템의 발전 방향과 개인 맞춤형 서비스의 가능성을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47965108",
+    "title": "CopyFail was not disclosed to distro developers?",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "discussion_url": "https://news.ycombinator.com/item?id=47965108",
+    "summary": "",
+    "score": 327,
+    "published_at": "2026-04-30T16:43:47+00:00",
+    "ai_summary": "'CopyFail'이라는 심각한 결함이 배포판 개발자들에게 적절히 공개되지 않았다는 의혹을 제기합니다.\n이는 시스템 보안 취약점의 관리 및 공개 절차에 대한 문제점을 부각시키며, 개발자 커뮤니티 내 투명성의 중요성을 강조합니다.\n해당 결함이 사용자 시스템에 미칠 잠재적 위험에 대한 우려를 표명합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47964617",
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47964617",
+    "summary": "",
+    "score": 304,
+    "published_at": "2026-04-30T16:09:26+00:00",
+    "ai_summary": "PyTorch Lightning AI 훈련 라이브러리에서 '샤이-훌루드' 테마의 악성코드가 발견되었습니다.\n이 악성코드는 AI 개발 환경의 보안 취약점을 악용하며, 머신러닝 공급망 공격의 심각성을 보여줍니다.\nAI 개발자들은 사용하는 라이브러리의 보안을 철저히 검증해야 함을 경고합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47965503",
+    "title": "I built a Game Boy emulator in F#",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47965503",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-04-30T17:14:21+00:00",
+    "ai_summary": "F# 언어를 사용하여 Game Boy 에뮬레이터를 직접 개발한 경험을 공유합니다.\n이 프로젝트는 시스템 프로그래밍, 하드웨어 에뮬레이션, 그리고 F#의 함수형 프로그래밍 특성을 효과적으로 활용하는 방법을 보여줍니다.\n에뮬레이터 개발 과정의 도전과 배운 점들을 상세히 설명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47963204",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "discussion_url": "https://news.ycombinator.com/item?id=47963204",
+    "summary": "",
+    "score": 895,
+    "published_at": "2026-04-30T14:36:58+00:00",
+    "ai_summary": "AI 코드 생성 도구 'Claude Code'가 커밋 메시지에 'OpenClaw' 언급 시 요청을 거부하거나 추가 요금을 부과하는 현상이 발견되었습니다.\n이는 AI 도구의 내부 정책, 데이터 필터링, 또는 잠재적 검열 문제에 대한 의문을 제기합니다.\n개발자들은 AI 도구 사용 시 예상치 못한 제한이나 비용 발생에 주의해야 함을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47968112",
+    "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+    "url": "https://pu.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47968112",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-04-30T20:55:12+00:00",
+    "ai_summary": "'Pu.sh'는 단 400줄의 쉘 스크립트로 구현된 완전한 코딩 에이전트 하네스 프로젝트입니다.\n이 도구는 AI 기반 코딩 에이전트를 개발하고 활용하기 위한 간결하면서도 강력한 프레임워크를 제공합니다.\n복잡한 시스템을 경량화된 방식으로 구현하는 쉘 스크립트의 잠재력을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47937814",
+    "title": "Reverse Engineering SimTower",
+    "url": "https://phulin.me/blog/simtower",
+    "discussion_url": "https://news.ycombinator.com/item?id=47937814",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-04-28T17:41:38+00:00",
+    "ai_summary": "SimTower 역공학 프로젝트는 고전 게임 SimTower의 내부 작동 방식과 코드를 분석하여, 게임 로직과 구현 세부 사항을 파악하는 과정을 다룹니다. 이를 통해 게임 엔진의 구조, 시뮬레이션 메커니즘, 그리고 레거시 소프트웨어의 설계 패턴에 대한 깊이 있는 이해를 얻을 수 있습니다.\n이 과정은 현대 소프트웨어 개발자들에게 과거 시스템의 지혜를 탐구하고 배울 수 있는 좋은 기회를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47924912",
+    "title": "You can beat the binary search",
+    "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47924912",
+    "summary": "",
+    "score": 231,
+    "published_at": "2026-04-27T17:52:12+00:00",
+    "ai_summary": "이 기사는 일반적인 이진 탐색 알고리즘보다 더 효율적인 특정 상황을 제시하며, 항상 이진 탐색이 최적의 선택은 아님을 논합니다. 캐시 최적화, 데이터 분포, 하드웨어 특성 등을 고려할 때 다른 검색 전략이 더 나은 성능을 보일 수 있음을 보여줍니다.\n이는 알고리즘 선택 시 이론적 복잡도뿐만 아니라 실제 환경적 요소를 고려하는 것이 중요함을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47963316",
+    "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+    "url": "https://honker.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47963316",
+    "summary": "",
+    "score": 163,
+    "published_at": "2026-04-30T14:43:02+00:00",
+    "ai_summary": "이 기사는 SQLite 데이터베이스 파일을 활용하여 영속적인 큐, 스트림, Pub/Sub 시스템 및 Cron 스케줄러 기능을 구현하는 방법을 탐구합니다. 이는 복잡한 메시징 및 스케줄링 솔루션을 외부 서비스 없이 단일 파일 기반으로 구축할 수 있음을 보여줍니다.\n개발자들에게 경량의 고성능 시스템을 설계할 수 있는 새로운 접근 방식을 제시하며, 분산 시스템 아키텍처를 단순화할 잠재력을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47966254",
+    "title": "Full-Text Search with DuckDB",
+    "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47966254",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-04-30T18:14:18+00:00",
+    "ai_summary": "DuckDB를 활용한 전문(Full-Text) 검색 구현 방법을 다루는 기사입니다. DuckDB는 임베디드 분석 데이터베이스로서, 효율적인 데이터 처리와 빠른 질의 응답 속도를 제공하며, 이를 통해 애플리케이션 내에서 직접 전문 검색 기능을 통합할 수 있습니다.\n이는 별도의 검색 엔진 없이도 강력한 검색 기능을 구축하고자 하는 개발자들에게 유용하며, 데이터베이스 활용의 폭을 넓혀줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47959463",
+    "title": "Mozilla's opposition to Chrome's Prompt API",
+    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+    "discussion_url": "https://news.ycombinator.com/item?id=47959463",
+    "summary": "",
+    "score": 572,
+    "published_at": "2026-04-30T07:43:55+00:00",
+    "ai_summary": "모질라가 구글 크롬의 'Prompt API' 도입에 반대 입장을 표명하며, 웹 표준과 사용자 경험에 미칠 잠재적 악영향을 우려합니다. 이는 특정 브라우저가 사실상의 표준을 주도하는 것에 대한 비판과 함께, 웹의 개방성과 상호운용성을 지키기 위한 노력의 일환입니다.\n이 논쟁은 웹 기술의 미래 방향과 개발자들이 마주할 브라우저 호환성 문제에 중요한 영향을 미칩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47967508",
+    "title": "The upsell game – Vercel upselling tactics revealed",
+    "url": "https://theupsellgame.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47967508",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-04-30T20:02:35+00:00",
+    "ai_summary": "Vercel의 비즈니스 모델과 공격적인 업셀링(upselling) 전술이 개발자 커뮤니티에서 논란이 되고 있습니다.\n이는 개발자들이 사용하는 클라우드 플랫폼의 비용 구조와 비즈니스 전략에 대한 이해를 높이는 계기가 됩니다.\n개발 도구 선택 시 단순 기능뿐만 아니라 서비스 제공사의 장기적인 전략을 고려하는 중요성을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Frontend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47967069",
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47967069",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-04-30T19:22:55+00:00",
+    "ai_summary": "Gitea의 포크 프로젝트인 Forgejo가 'Carrot disclosure'에 대한 후속 조치를 발표했습니다.\n이는 오픈소스 프로젝트의 보안 취약점 관리와 커뮤니티 투명성의 중요성을 강조합니다.\n개발자들은 코드 호스팅 플랫폼의 안정성과 신뢰성에 대한 깊은 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47966625",
+    "title": "Does Postgres Scale?",
+    "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "discussion_url": "https://news.ycombinator.com/item?id=47966625",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-04-30T18:45:22+00:00",
+    "ai_summary": "이 기사는 인기 있는 오픈소스 관계형 데이터베이스인 PostgreSQL의 확장성에 대해 심층적으로 다룹니다.\n수평 및 수직 확장성, 복제, 샤딩 등 다양한 스케일링 기법과 고려 사항을 분석합니다.\n대규모 서비스를 구축하려는 백엔드 개발자와 데이터베이스 관리자에게 매우 유용한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47961378",
+    "title": "I aggregated 28 US Government auction sites into one search",
+    "url": "https://bidprowl.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=47961378",
+    "summary": "",
+    "score": 222,
+    "published_at": "2026-04-30T12:24:53+00:00",
+    "ai_summary": "한 개발자가 28개의 미국 정부 경매 웹사이트를 하나의 통합 검색 엔진으로 만들었습니다.\n이는 분산된 데이터를 수집하고 검색 가능한 단일 인터페이스로 만드는 웹 스크래핑 및 데이터 통합 프로젝트의 좋은 예시입니다.\n개발자들에게 데이터 수집, API 연동, 검색 시스템 구축에 대한 실질적인 아이디어를 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47968035",
+    "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+    "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=47968035",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-04-30T20:49:21+00:00",
+    "ai_summary": "SimpleX Channels, SimpleX Network Consortium 및 커뮤니티 크라우드펀딩에 대한 내용입니다.\n이는 분산형, 프라이버시 중심 메시징 네트워크의 발전과 커뮤니티 기반 프로젝트의 자금 조달 방식을 보여줍니다.\n보안 통신, P2P 네트워크, 그리고 탈중앙화 기술에 관심 있는 개발자들에게 관련성이 높습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47964034",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47964034",
+    "summary": "",
+    "score": 386,
+    "published_at": "2026-04-30T15:31:40+00:00",
+    "ai_summary": "스페인 의회가 라리가(LaLiga)의 대규모 IP 차단 행위에 대해 조치를 취할 것이라고 발표했습니다.\n이는 콘텐츠 저작권 보호를 위한 네트워크 차단 정책과 시민들의 인터넷 접근 권한 사이의 갈등을 다룹니다.\n네트워크 인프라, 보안, 그리고 인터넷 거버넌스에 대한 법적, 기술적 논의에 관심을 가진 개발자들에게 의미가 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47947944",
+    "title": "10Gb/s Ethernet: what I did to get it working in my home",
+    "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+    "discussion_url": "https://news.ycombinator.com/item?id=47947944",
+    "summary": "",
+    "score": 128,
+    "published_at": "2026-04-29T13:15:46+00:00",
+    "ai_summary": "10Gb/s 이더넷을 가정에서 구축한 과정을 담은 기술 문서입니다.\n네트워크 하드웨어 선택, 케이블링, 소프트웨어 설정 등 실질적인 구축 노하우를 공유합니다.\n고속 네트워크 환경 구축에 관심 있는 개발자나 시스템 관리자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47946990",
+    "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
+    "url": "https://nik.digital/posts/compositing-blending",
+    "discussion_url": "https://news.ycombinator.com/item?id=47946990",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-04-29T11:46:05+00:00",
+    "ai_summary": "블렌드 모드의 수학적 원리와 직관적인 이해를 탐구하는 기술 문서입니다.\n다양한 블렌딩 알고리즘의 작동 방식과 그 적용 사례를 설명합니다.\n그래픽스, 프론트엔드 개발자 또는 이미지 처리 관련 지식을 원하는 이에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47965835",
+    "title": "Recovering files from beyond the grave using PhotoRec",
+    "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47965835",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-04-30T17:42:11+00:00",
+    "ai_summary": "PhotoRec 도구를 사용하여 손실된 파일을 복구하는 방법을 다룹니다.\n파일 시스템의 작동 방식과 데이터 복구 기술에 대한 실질적인 정보를 제공합니다.\n실수로 파일을 삭제했거나 저장 장치 손상 시 유용한 해결책을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
+    "title": "OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals (5 minute read)",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
+    "discussion_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
+    "summary": "Stargate's initial goal was to build 20 data centers. However, the partners in the project reportedly could not agree on who would have ultimate control of the planned data centers. OpenAI has started leasing compute instead. The startup has not made a profit since it was founded, and while many institutions believe in its potential, some analysts estimate that it could run out of cash by mid-2027.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "OpenAI는 Stargate 데이터센터 구축 대신 유연한 컴퓨팅 리스 계약으로 전략을 변경했습니다. 초기 데이터센터 구축 목표는 파트너 간 통제권 합의 불발로 포기되었습니다. OpenAI는 아직 수익을 내지 못하고 있으며, 일부 분석가들은 2027년 중반 현금 고갈 가능성을 예상합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
+    "title": "Google to sell TPU chips to 'select' customers in latest shot at Nvidia (2 minute read)",
+    "url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
+    "discussion_url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
+    "summary": "Alphabet plans to sell its custom Tensor Processing Units (TPUs) to select customers to install into their own data centers. The company recently announced two new TPUs for training and inference. Alphabet has already entered into deals with Anthropic and Meta for chips. Its TPU maneuvers put it into ever greater competition with Nvidia.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "Google은 자체 개발한 Tensor Processing Units(TPU) 칩을 일부 고객에게 판매하여 데이터센터에 직접 설치할 수 있도록 할 계획입니다. 이는 Nvidia와의 AI 칩 시장 경쟁을 심화시키는 움직임입니다. Google은 이미 Anthropic 및 Meta와 칩 공급 계약을 체결했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "title": "Mistral Medium 3.5 powers remote Vibe agents (6 minute read)",
+    "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "discussion_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "summary": "Mistral Medium 3.5, a 128B dense model, powers Vibe remote agents to run long asynchronous coding tasks in the cloud, starting from the CLI or Le Chat. The model combines instruction-following, reasoning, and coding capabilities, operating efficiently on four GPUs and scoring high on SWE-Bench Verified. Le Chat's new Work mode uses this model for executing complex, multi-step tasks across diverse tools and functions.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "Mistral Medium 3.5(128B 모델)은 Vibe 원격 에이전트를 구동하여 클라우드에서 긴 비동기 코딩 작업을 수행합니다. 이 모델은 명령어 준수, 추론 및 코딩 기능을 통합하며 SWE-Bench Verified에서 높은 성능을 보입니다. Le Chat의 새로운 Work 모드는 이 모델을 활용해 복잡한 다단계 작업을 실행합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "title": "Granite 4.1 LLMs: How They're Built (13 minute read)",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "discussion_url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "summary": "Granite 4.1 LLMs utilize a dense, decoder-only architecture with models of 3B, 8B, and 30B parameters, trained on 15 trillion tokens and using a five-phase pre-training approach. The 8B model matches the performance of the previous 32B Mixture-of-Experts model through a multi-stage reinforcement learning pipeline focused on data quality. These models, designed for efficient, reliable enterprise use, demonstrate competitive instruction-following and tool performance while maintaining cost efficie",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "Granite 4.1 LLM은 3B, 8B, 30B 파라미터의 디코더 전용 아키텍처를 사용하며 15조 토큰으로 5단계 사전 학습됩니다. 8B 모델은 다단계 강화 학습과 데이터 품질을 통해 이전 32B MoE 모델과 동일한 성능을 달성했습니다. 이 모델들은 효율적이고 신뢰할 수 있는 기업용으로, 비용 효율성을 유지하면서 경쟁력 있는 성능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "title": "AI evals are becoming the new compute bottleneck (19 minute read)",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "discussion_url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "summary": "AI evaluation costs have escalated, becoming a significant compute bottleneck comparable to or exceeding training costs, with some runs costing tens of thousands of dollars. The field faces uneven cost distributions across models and tasks, highlighting inefficiencies and the need for cost-effective approaches like standardized documentation and data reuse. Without addressing these issues, the evaluation process remains expensive, challenging equal access and hindering external validation in AI ",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "AI 평가 비용이 급증하여, 학습 비용과 비슷하거나 초과하는 주요 컴퓨팅 병목 현상이 되고 있습니다. 평가 비용은 모델과 작업에 따라 불균등하게 분포되어 있으며, 표준화된 문서화 및 데이터 재사용 같은 효율적인 접근 방식이 필요합니다. 이러한 문제를 해결하지 않으면, 높은 평가 비용이 AI 접근성과 외부 검증을 저해할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/introducing-autosp/",
+    "title": "Introducing AutoSP (6 minute read)",
+    "url": "https://pytorch.org/blog/introducing-autosp/",
+    "discussion_url": "https://pytorch.org/blog/introducing-autosp/",
+    "summary": "AutoSP automates converting standard transformer training code into sequence-parallel code for long-context LLM training, integrated with DeepSpeed. It enables longer sequence training on multiple GPUs without significant runtime overhead, eliminating the need for complex manual code changes. AutoSP also offers an advanced activation-checkpointing strategy for better memory management, enhancing performance with minimal cost.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "AutoSP는 표준 트랜스포머 학습 코드를 시퀀스 병렬 코드로 자동 변환하여 장문(long-context) LLM 학습을 최적화합니다. DeepSpeed와 통합되어 복잡한 수동 코드 변경 없이 여러 GPU에서 더 긴 시퀀스 학습을 가능하게 합니다. AutoSP는 향상된 활성화 체크포인팅 전략을 통해 메모리 관리를 개선하고 성능을 높입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://taoofmac.com/space/blog/2026/04/29/2341",
+    "title": "Lessons on Building MCP Servers (5 minute read)",
+    "url": "https://taoofmac.com/space/blog/2026/04/29/2341",
+    "discussion_url": "https://taoofmac.com/space/blog/2026/04/29/2341",
+    "summary": "This post discusses how to make MCP toolchains work using a framework where the MCP servers do most of the work while models walk breadcrumbs. Models don't plan - they look at the conversation, scan the tool list, and grab whatever looks most probable. Making effective chains means making sure the server makes the next call blindingly obvious at every step.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "이 게시물은 MCP 서버가 대부분의 작업을 수행하고 모델은 대화를 보고 도구 목록을 스캔하여 다음 단계를 결정하는 프레임워크를 설명합니다. 모델은 직접 계획하지 않고 가장 가능성 있는 도구를 선택합니다. 효과적인 체인을 구축하려면 서버가 각 단계에서 다음 호출을 명확하게 만들도록 설계해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://machinelearning.apple.com/research/ladir",
+    "title": "LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning (2 minute read)",
+    "url": "https://machinelearning.apple.com/research/ladir",
+    "discussion_url": "https://machinelearning.apple.com/research/ladir",
+    "summary": "LaDiR (Latent Diffusion Reasoner) is a novel reasoning framework that unifies the expressiveness of continuous latent representation with the iterative refinement capabilities of latent diffusion models for an existing LLM. The design allows efficient parallel generation of diverse reasoning trajectories, allowing models to plan and revise the reasoning process holistically. LaDiR consistently improves accuracy, diversity, and interpretability over existing autoregressive, diffusion-based, and l",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "LaDiR(Latent Diffusion Reasoner)은 연속 잠재 표현과 잠재 확산 모델의 반복적 개선 기능을 결합하여 LLM의 텍스트 추론 능력을 향상시키는 새로운 프레임워크입니다. 이 설계는 다양하고 효율적인 추론 경로의 병렬 생성을 가능하게 하여 모델이 추론 과정을 총체적으로 계획하고 수정할 수 있도록 합니다. LaDiR는 기존 방식 대비 정확성, 다양성, 해석 가능성을 지속적으로 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://microsoft.github.io/World-R1/",
+    "title": "Microsoft World-R1 for 3D-Consistent Video Generation (4 minute read)",
+    "url": "https://microsoft.github.io/World-R1/",
+    "discussion_url": "https://microsoft.github.io/World-R1/",
+    "summary": "World-R1 is a reinforcement learning framework that improves 3D consistency in video generation by leveraging feedback from 3D and vision-language models without modifying the base architecture.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "World-R1은 기본 아키텍처 변경 없이 3D 및 비전-언어 모델 피드백을 활용하여 3D 일관성 비디오 생성을 개선하는 강화 학습 프레임워크입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2604.24198",
+    "title": "Reliable Data Analysis Agents (16 minute read)",
+    "url": "https://arxiv.org/abs/2604.24198",
+    "discussion_url": "https://arxiv.org/abs/2604.24198",
+    "summary": "DataPRM is an environment-aware process reward model that detects silent errors and better supervises data analysis agents, improving downstream performance and generalization across benchmarks.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "DataPRM은 데이터 분석 에이전트의 '침묵 오류'를 탐지하여 다운스트림 성능 및 일반화를 개선하는 환경 인식 프로세스 보상 모델입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://tomtunguz.com/inference-market-segmentation/",
+    "title": "Darwinian Specialization in AI (3 minute read)",
+    "url": "https://tomtunguz.com/inference-market-segmentation/",
+    "discussion_url": "https://tomtunguz.com/inference-market-segmentation/",
+    "summary": "The inference market is fragmenting because workloads are different. The model ecosystem has fragmented into latency tiers, multimodal models, and edge models. Each model type has different serving requirements, which fragments into infrastructure. The fragmentation creates room for several winners.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "AI 추론 시장은 작업 부하의 차이로 인해 세분화되고 있으며, 모델 생태계가 지연 시간 계층, 멀티모달, 엣지 모델 등으로 파편화되어 인프라에도 영향을 미칩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/google-deepmind/proeval",
+    "title": "DeepMind ProEval for GenAI Evaluation (GitHub Repo)",
+    "url": "https://github.com/google-deepmind/proeval",
+    "discussion_url": "https://github.com/google-deepmind/proeval",
+    "summary": "ProEval is a framework that reduces generative AI evaluation costs while identifying failure modes using surrogate models and transfer learning across benchmarks.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "DeepMind의 ProEval은 대체 모델 및 전이 학습을 사용하여 생성형 AI 평가 비용을 절감하고 실패 모드를 식별하는 프레임워크입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "title": "OpenAI Codex system prompt includes explicit directive to “never talk about goblins” (3 minute read)",
+    "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "discussion_url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "summary": "OpenAI appears to be fighting a new problem in its latest model where the model focuses on goblins in completely unrelated conversations.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "OpenAI의 최신 모델에서 '고블린'에 대한 부적절한 언급 문제가 발생하여 시스템 프롬프트에 이에 대한 명시적 지시가 포함되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/joaomdmoura/status/2049562041007194275",
+    "title": "AI Agents That Builds Themselves (4 minute read)",
+    "url": "https://x.com/joaomdmoura/status/2049562041007194275",
+    "discussion_url": "https://x.com/joaomdmoura/status/2049562041007194275",
+    "summary": "CrewAI built Iris, a Slack-native internal AI employee that writes code, files PRs, reviews teammates' work, and modifies its own codebase across CrewAI's engineering org.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "CrewAI는 자체적으로 코드를 작성하고 PR을 제출하며 팀원 작업을 검토하고 자신의 코드베이스를 수정하는 AI 직원 'Iris'를 구축했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
+    "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug (4 minute read)",
+    "url": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
+    "discussion_url": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
+    "summary": "GitHub disclosed a high severity vulnerability, CVE-2026-3854, affecting GitHub Enterprise Server and other products, which allows remote code execution through manipulated git push options.",
+    "score": 0,
+    "published_at": "2026-04-30T23:54:05+00:00",
+    "ai_summary": "AI를 활용한 리버스 엔지니어링을 통해 GitHub Enterprise Server의 높은 심각도 취약점(CVE-2026-3854)이 발견되었으며, 이는 조작된 git push 옵션을 통한 원격 코드 실행을 허용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
