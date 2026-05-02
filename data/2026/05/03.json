@@ -1,0 +1,488 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29097",
+    "title": "pnpm v11 릴리즈",
+    "url": "https://news.hada.io/topic?id=29097",
+    "discussion_url": "https://news.hada.io/topic?id=29097",
+    "summary": "pnpm 11 주요 변경 사항\n\nNode.js 22+ 필요: 이제 Node.js 22 버전 이상이 필수입니다. Node 18, 19, 20, 21 버전에 대한 지원은 중단되었습니다. 독립 실행형(Standalone) 파일의 경우 glibc 2.27 이상이 필요합니다.\n공급망 보호(Supply-chain protection) 기본 활...",
+    "score": 0,
+    "published_at": "2026-05-02T05:47:46+00:00",
+    "ai_summary": "pnpm v11이 릴리즈되었으며, Node.js 22 이상이 필수 요구 사항으로 지정되었습니다.\nNode.js 구버전(18~21)에 대한 지원이 중단되었고, 독립 실행형 파일은 glibc 2.27+이 필요합니다.\n이 외에도 공급망 보호 기능이 기본으로 활성화되는 등 주요 변경 사항이 포함되어 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29096",
+    "title": "Show GN: Kubernetes 에서 eBPF 로 Copy Fail 이슈 회피하기",
+    "url": "https://news.hada.io/topic?id=29096",
+    "discussion_url": "https://news.hada.io/topic?id=29096",
+    "summary": "K8s 운영하다가 이 이슈에 대해서 긴급 대응 요청이 들어왔길레 적당히 하나 만들었습니다.\n\nCopy Fail 이라고 단순히 AF_ALG 를 사용하는 소켓을 여는 방식으로 K8s Pod 내부에서 호스트의 루트 권한을 탈취할 수 있는 취약점이 나왔습니다.\nhttps://news.hada.io/topic?id=29031\n커널 패",
+    "score": 0,
+    "published_at": "2026-05-02T05:44:39+00:00",
+    "ai_summary": "Kubernetes에서 AF_ALG 소켓을 이용해 호스트 루트 권한을 탈취하는 'Copy Fail' 취약점이 발견되었습니다.\n이 취약점은 K8s Pod 내부에서 호스트의 보안을 위협할 수 있는 심각한 문제로, 긴급한 대응이 필요합니다.\neBPF를 활용하여 해당 취약점을 회피하는 방안이 제시되었으며, 커널 패치 등이 언급되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29094",
+    "title": "Uber, Claude Code에 2026년 AI 예산을 4개월 만에 모두 태움",
+    "url": "https://news.hada.io/topic?id=29094",
+    "discussion_url": "https://news.hada.io/topic?id=29094",
+    "summary": "Uber는 Claude Code와 Cursor 사용 확대로 2026년 AI 예산 전체를 4개월 만에 소진했고, 생산성 실험이 곧바로 예산 재검토 문제로 이어짐\nUber CTO는 엔지니어 1인당 월간 API 비용이 500~2,000달러 수준이었다고 밝혔고, 엔지니어의 95...",
+    "score": 0,
+    "published_at": "2026-05-02T04:34:25+00:00",
+    "ai_summary": "우버가 Claude Code와 Cursor 같은 AI 코딩 도구 사용으로 2026년 AI 예산을 4개월 만에 모두 소진했습니다.\n엔지니어 1인당 월간 API 비용이 500~2,000달러에 달하며, AI 도구 도입의 높은 비용 문제가 드러났습니다.\nAI 기반 생산성 실험이 예산 재검토로 이어지며, 대규모 AI 도구 도입의 재정적 영향을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29092",
+    "title": "게이 jailbreak 기법",
+    "url": "https://news.hada.io/topic?id=29092",
+    "discussion_url": "https://news.hada.io/topic?id=29092",
+    "summary": "The Gay Jailbreak Technique는 GPT 4o에서 처음 발견된 기법으로, 성소수자 정체성이나 말투를 연기하는 프레이밍과 금지된 의도를 결합해 안전장치를 우회하는 방식임\n직접적인 유해 지침 요청을 “특정 정체성을 가진 사람이 어떻게 설명할지”를 묻는 간접 요청",
+    "score": 0,
+    "published_at": "2026-05-02T03:34:04+00:00",
+    "ai_summary": "'게이 Jailbreak 기법'은 GPT-4o에서 발견된 LLM 안전장치 우회 기술입니다.\n성소수자 정체성이나 말투를 모방하여 금지된 의도를 간접적으로 요청하는 방식으로 작동합니다.\n이는 LLM의 윤리적 사용과 안전성 연구에 중요한 시사점을 제공하며, 모델의 취약점을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29091",
+    "title": "Show GN: Don’t Git Afraid - 바이브코더를 위한 Git 공포 해소 에이전트 스킬",
+    "url": "https://news.hada.io/topic?id=29091",
+    "discussion_url": "https://news.hada.io/topic?id=29091",
+    "summary": "바이브코딩을 시작하는 사람들을 보면 항상 같은 데서 막힙니다. 코드는 AI가 잘 짜줘요. 근데 “이제 깃허브에 올려봐” 하는 순간 멈춰요.\n주변 지인한테 바이브코딩을 알려줄 때마다 느꼈는데, commit, push, pull 같은 말이 나오면 일단 겁부터 먹어요. “그게 뭔데?”, “눌러도 되는 거야?”, “내 코드",
+    "score": 0,
+    "published_at": "2026-05-02T02:48:52+00:00",
+    "ai_summary": "이 글은 '바이브 코더'와 같은 코딩 초보자들이 Git/GitHub 사용에 느끼는 어려움과 공포를 다룹니다.\nAI가 코드를 잘 생성해도, commit, push, pull 등 Git 명령어를 어려워하여 개발 흐름이 끊기는 현상을 지적합니다.\n이를 해결하기 위한 'Git 공포 해소 에이전트 스킬'의 필요성과 구체적인 접근 방식을 제안합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29090",
+    "title": "xAI Grok 4.3 공개",
+    "url": "https://news.hada.io/topic?id=29090",
+    "discussion_url": "https://news.hada.io/topic?id=29090",
+    "summary": "100만 토큰 컨텍스트 윈도우와 추론, 함수 호출 및 구조화된 출력 등 개발자 중심의 API 기능 제공\n이전 Grok 4.20과 달리 추론이 상시 활성화, 모든 쿼리에 대해 응답 전 사고 과정을 자동 수행",
+    "score": 0,
+    "published_at": "2026-05-02T00:33:36+00:00",
+    "ai_summary": "xAI가 Grok 4.3을 공개하며 100만 토큰 컨텍스트 윈도우를 지원합니다.\n개발자 중심의 API 기능으로 추론, 함수 호출, 구조화된 출력 등이 강화되었습니다.\nGrok 4.20과 달리 추론 기능이 상시 활성화되어 모든 쿼리에 대해 자동으로 사고 과정을 수행합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47989883",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "url": "https://github.com/microsoft/vscode/pull/310226",
+    "discussion_url": "https://news.ycombinator.com/item?id=47989883",
+    "summary": "",
+    "score": 544,
+    "published_at": "2026-05-02T19:57:26+00:00",
+    "ai_summary": "VS Code에서 GitHub Copilot 사용 여부와 관계없이 커밋 메시지에 'Co-Authored-by Copilot'이 자동으로 삽입되는 문제가 발생하고 있습니다.\n이는 개발자의 Git 커밋 기록에 원치 않는 공동 저자 정보가 포함될 수 있음을 의미합니다.\n버그로 추정되며, 코드 기여의 정확한 출처 표기에 영향을 미쳐 개발자들 사이에서 논의되고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47990606",
+    "title": "Six Years Perfecting Maps on WatchOS",
+    "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47990606",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-05-02T21:14:29+00:00",
+    "ai_summary": "Apple WatchOS용 지도 앱 개발의 6년간의 여정을 다룹니다.\n소형 기기에서의 지도 UX 개선, 성능 최적화 및 기능 추가 노력이 핵심입니다.\niOS/WatchOS 개발자에게 유용한 인사이트를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47990318",
+    "title": "This Month in Ladybird - April 2026",
+    "url": "https://ladybird.org/newsletter/2026-04-30/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47990318",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-05-02T20:46:30+00:00",
+    "ai_summary": "Ladybird 브라우저 엔진의 2026년 4월 개발 업데이트를 요약합니다.\n렌더링 엔진, JavaScript 엔진, 네트워크 스택 등 핵심 구성 요소의 진척 상황을 다룹니다.\n웹 기술 및 브라우저 개발에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47988504",
+    "title": "Dav2d",
+    "url": "https://code.videolan.org/videolan/dav2d",
+    "discussion_url": "https://news.ycombinator.com/item?id=47988504",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-05-02T17:32:29+00:00",
+    "ai_summary": "Dav2d는 비디오 압축 및 디코딩과 관련된 라이브러리 또는 기술을 다룰 것으로 예상됩니다.\n고효율 비디오 코덱, 스트리밍, 또는 멀티미디어 처리와 연관된 개발자들에게 중요합니다.\n성능 최적화 및 새로운 비디오 표준 구현에 대한 내용이 포함될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47988592",
+    "title": "Do_not_track",
+    "url": "https://donottrack.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47988592",
+    "summary": "",
+    "score": 164,
+    "published_at": "2026-05-02T17:40:55+00:00",
+    "ai_summary": "웹 브라우저의 'Do Not Track' 기능 및 표준에 대한 기사로, 사용자 개인 정보 보호와 추적 방지 메커니즘을 다룹니다.\n웹 개발자와 서비스 제공자가 고려해야 할 개인 정보 보호 기술 및 규제 준수 측면을 분석합니다.\n보안 및 데이터 프라이버시에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47990675",
+    "title": "The agent harness belongs outside the sandbox",
+    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "discussion_url": "https://news.ycombinator.com/item?id=47990675",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-05-02T21:21:27+00:00",
+    "ai_summary": "에이전트 시스템에서 '하네스'(제어 계층)가 샌드박스 외부에서 작동해야 한다는 보안 및 아키텍처 원칙에 대한 내용입니다.\n격리된 환경 내에서 에이전트를 실행할 때의 보안 및 관리 문제를 다루며, 안전하고 견고한 시스템 설계를 강조합니다.\nAI 에이전트 개발자, 보안 엔지니어, 시스템 아키텍트에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47990789",
+    "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47990789",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-05-02T21:34:49+00:00",
+    "ai_summary": "Clojure 언어 생태계를 위한 오픈 소스 프로젝트에 대한 2026년 2분기 자금 지원 발표입니다.\nClojure 커뮤니티의 주요 개발 프로젝트 및 지원받는 기술적 이니셔티브를 소개합니다.\nClojure 개발자 및 오픈 소스 기여자들에게 중요한 소식입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47991350",
+    "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+    "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47991350",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-05-02T22:45:23+00:00",
+    "ai_summary": "테슬라 FSD 기능의 과장 광고로 한 소비자가 소송에서 1만 달러 배상 판결을 받았습니다.\n테슬라는 법원의 판결에도 불구하고 항소하며 법적 분쟁을 이어가고 있습니다.\n이는 AI 기반 제품의 실제 성능과 마케팅 사이의 괴리, 그리고 법적 책임 문제를 조명합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47990708",
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "url": "https://hnup.date/hn-sota",
+    "discussion_url": "https://news.ycombinator.com/item?id=47990708",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-05-02T21:25:05+00:00",
+    "ai_summary": "해커 뉴스 커뮤니티에서 최신 코딩 모델들의 현황과 성능에 대한 심층 토론이 벌어졌습니다.\n다양한 AI 코딩 도구들의 장단점, 개발 생산성 영향, 그리고 미래 발전 방향이 논의되었습니다.\n개발자들이 코딩 보조 AI를 선택하고 활용하는 데 귀중한 통찰을 제공합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47981979",
+    "title": "A Physics Engine with Incremental Rollback for Multiplayer Games",
+    "url": "https://easel.games/blog/2026-rollback-physics",
+    "discussion_url": "https://news.ycombinator.com/item?id=47981979",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-05-02T00:12:00+00:00",
+    "ai_summary": "멀티플레이어 게임의 네트워크 지연 문제를 해결하는 '점진적 롤백' 기능을 갖춘 물리 엔진이 소개되었습니다.\n이 기술은 게임 상태를 효율적으로 동기화하여 부드러운 온라인 플레이 경험을 제공합니다.\n개발자들이 복잡한 멀티플레이어 환경에서 안정적인 게임을 구현하는 데 큰 도움이 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47984852",
+    "title": "How fast is a macOS VM, and how small could it be?",
+    "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47984852",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-05-02T09:30:49+00:00",
+    "ai_summary": "macOS 가상 머신(VM)의 성능과 최소 크기에 대한 기술적 분석을 다루는 기사입니다.\n가상화 환경에서 macOS를 효율적으로 운영하고 최적화하는 방법이 제시됩니다.\n개발자나 시스템 관리자가 macOS 개발/테스트 환경을 구축하고 관리하는 데 유용한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47988742",
+    "title": "California to begin ticketing driverless cars that violate traffic laws",
+    "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+    "discussion_url": "https://news.ycombinator.com/item?id=47988742",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-05-02T17:59:18+00:00",
+    "ai_summary": "캘리포니아 주가 교통 법규를 위반하는 무인 자율주행 차량에 벌금을 부과할 예정입니다.\n이는 자율주행 기술의 상용화와 함께 발생할 수 있는 책임 문제와 규제 도입의 중요성을 강조합니다.\nAI 기반 시스템의 실제 주행 능력과 법적, 윤리적 책임에 대한 논의를 촉발할 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47948526",
+    "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+    "url": "https://github.com/EnterpriseDB/barman",
+    "discussion_url": "https://news.ycombinator.com/item?id=47948526",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-04-29T13:54:48+00:00",
+    "ai_summary": "Barman은 PostgreSQL을 위한 강력한 백업 및 복구 관리 도구입니다.\n재해 복구 및 고가용성 환경 구축에 필수적인 기능을 제공하며 데이터 무결성을 보장합니다.\n데이터베이스 관리와 운영 안정성을 향상시키는 데 크게 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47988441",
+    "title": "Welcome to Hell Developer",
+    "url": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47988441",
+    "summary": "",
+    "score": 47,
+    "published_at": "2026-05-02T17:25:54+00:00",
+    "ai_summary": "이 기사는 개발자의 고된 현실과 직업적 어려움에 대한 솔직한 시각을 제시합니다.\n과도한 업무량, 끊임없는 학습 압박, 번아웃 등 개발자들이 직면하는 문제들을 다룹니다.\n개발 직무의 힘든 면모를 성찰하며, 이 분야 종사자들에게 공감을 불러일으킵니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47986136",
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "url": "https://arxiv.org/abs/2406.11717",
+    "discussion_url": "https://news.ycombinator.com/item?id=47986136",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-05-02T13:15:23+00:00",
+    "ai_summary": "이 연구는 언어 모델이 '거부' 반응을 보이는 메커니즘이 단일 방향성에 의해 매개된다고 밝힙니다.\n이는 LLM의 내부 작동 방식과 의사결정 과정을 이해하는 데 중요한 통찰을 제공합니다.\n모델의 안전성, 제어 가능성 및 편향성 연구에 핵심적인 기여를 할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47988501",
+    "title": "Flue is a TypeScript framework for building the next generation of agents",
+    "url": "https://flueframework.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47988501",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-05-02T17:32:07+00:00",
+    "ai_summary": "Flue는 차세대 에이전트를 구축하기 위한 강력한 TypeScript 프레임워크입니다.\n개발자들이 복잡한 에이전트 시스템을 효율적으로 설계하고 구현할 수 있도록 돕습니다.\nTypeScript 기반으로 높은 생산성과 견고한 아키텍처를 제공하며 AI 에이전트 개발에 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47987931",
+    "title": "Modern C++ Programming: Busato",
+    "url": "https://github.com/federico-busato/Modern-CPP-Programming",
+    "discussion_url": "https://news.ycombinator.com/item?id=47987931",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-05-02T16:40:29+00:00",
+    "ai_summary": "이 기사는 'Modern C++ Programming: Busato'를 통해 현대 C++ 프로그래밍을 조명합니다.\nC++의 최신 기능과 모범 사례를 활용하여 효율적이고 안정적인 코드를 작성하는 방법을 제시합니다.\nC++ 개발자들에게 언어의 깊이 있는 이해와 실질적인 개발 기법을 전달합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47950993",
+    "title": "The USB Situation",
+    "url": "https://randsinrepose.com/archives/the-usb-situation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47950993",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-04-29T16:49:13+00:00",
+    "ai_summary": "이 기사는 USB 표준과 관련된 현재의 복잡한 상황과 도전 과제들을 분석합니다.\n다양한 USB 버전, 커넥터 타입, 전력 공급 문제 등 기술적 혼란의 원인을 설명합니다.\n개발자들이 USB 기반 시스템을 설계하고 구현할 때 직면하는 실질적인 문제들을 다룹니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47987333",
+    "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+    "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+    "discussion_url": "https://news.ycombinator.com/item?id=47987333",
+    "summary": "",
+    "score": 115,
+    "published_at": "2026-05-02T15:38:17+00:00",
+    "ai_summary": "Uber가 드라이버들을 자율주행 회사를 위한 센서 그리드로 활용합니다.\n드라이버 스마트폰으로 도로 상태, 날씨 등 데이터를 수집해 지도 정확도를 높입니다.\n이는 새로운 데이터 수집 방법론과 자율주행 기술 발전에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47991018",
+    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+    "url": "https://github.com/mahimairaja/voiceai",
+    "discussion_url": "https://news.ycombinator.com/item?id=47991018",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-05-02T22:03:15+00:00",
+    "ai_summary": "개발자를 위한 음성 AI 학습 경로를 제공하는 가이드입니다.\n기본적인 개념부터 실제 구현까지 단계별로 안내하여 초보자도 쉽게 접근하도록 돕습니다.\n음성 인식 및 합성 기술을 배우고 싶은 개발자에게 유용한 자료입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47984522",
+    "title": "Why are there both TMP and TEMP environment variables? (2015)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+    "discussion_url": "https://news.ycombinator.com/item?id=47984522",
+    "summary": "",
+    "score": 186,
+    "published_at": "2026-05-02T08:23:23+00:00",
+    "ai_summary": "TMP와 TEMP 환경 변수가 모두 존재하는 이유를 설명합니다.\n이 변수들은 운영체제와 애플리케이션이 임시 파일을 저장하는 경로를 지정하는 데 사용됩니다.\n역사적 배경과 표준화 과정에서 파생된 두 변수의 차이점을 다룹니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47985750",
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "url": "https://github.com/nexu-io/open-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=47985750",
+    "summary": "",
+    "score": 164,
+    "published_at": "2026-05-02T12:16:16+00:00",
+    "ai_summary": "코딩 에이전트를 디자인 엔진으로 활용하는 '오픈 디자인' 개념을 소개합니다.\n에이전트가 개발 워크플로우 내에서 디자인 문제를 해결하고 대안을 제시하는 방법을 탐구합니다.\n개발자가 디자인 프로세스에 깊이 관여하고 효율성을 높이는 새로운 접근 방식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
