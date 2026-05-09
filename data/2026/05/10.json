@@ -1,0 +1,635 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29336",
+    "title": "ClojureScript에 Async/Await 도입",
+    "url": "https://news.hada.io/topic?id=29336",
+    "discussion_url": "https://news.hada.io/topic?id=29336",
+    "summary": "ClojureScript 1.12.145는 ^:async 힌트를 붙인 함수를 JavaScript async function으로 출력하도록 컴파일러가 변경됨\nawait로 Promise 값을 기다리는 ClojureScript 함수를 작성할 수 있어 JavaScript 상호운용성이 개선됨...",
+    "score": 0,
+    "published_at": "2026-05-09T21:33:24+00:00",
+    "ai_summary": "ClojureScript 1.12.145는 ^:async 힌트를 통해 JavaScript async function으로 컴파일됩니다.\nawait를 사용하여 Promise 값을 기다릴 수 있게 되어 JS 상호운용성이 크게 개선되었습니다.\n이는 ClojureScript 개발자가 비동기 코드를 더 쉽게 작성할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29332",
+    "title": "Mojo 1.0 베타",
+    "url": "https://news.hada.io/topic?id=29332",
+    "discussion_url": "https://news.hada.io/topic?id=29332",
+    "summary": "Mojo는 “Python처럼 쓰고, C++처럼 실행”하는 언어를 표방하며, 현재 안정 버전으로 1.0.0b1 (May 7) 을 제공함\nCPU부터 GPU까지 다양한 하드웨어에서 빠른 코드를 작성하되 특정 벤더에 종속되지 않는 것을 목표로 하며, 현대 AI 시스템을 위한...",
+    "score": 0,
+    "published_at": "2026-05-09T19:37:33+00:00",
+    "ai_summary": "Mojo는 \"Python처럼 쓰고, C++처럼 실행\"하는 언어를 표방하며, 현재 1.0.0b1 베타 버전이 제공됩니다.\nCPU부터 GPU까지 다양한 하드웨어에서 빠른 코드를 작성하되 특정 벤더에 종속되지 않는 것을 목표로 합니다.\n현대 AI 시스템 개발을 위한 고성능 언어로 주목받고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29325",
+    "title": "OpenAI의 WebRTC 문제",
+    "url": "https://news.hada.io/topic?id=29325",
+    "discussion_url": "https://news.hada.io/topic?id=29325",
+    "summary": "WebRTC는 회의 통화처럼 낮은 지연을 우선해 네트워크가 나쁠 때 오디오 패킷을 적극적으로 버리지만, Voice AI에서는 느린 응답보다 음성 프롬프트 손상이 응답 품질을 더 크게 해칠 수 있음\nTTS는 실시간보다 빠르게 오디오를 만들 수 있어 클라이언트 버퍼링으로...",
+    "score": 0,
+    "published_at": "2026-05-09T15:39:03+00:00",
+    "ai_summary": "WebRTC는 낮은 지연을 위해 오디오 패킷을 버리지만, Voice AI에서는 음성 프롬프트 손상이 더 치명적일 수 있습니다.\nTTS는 실시간보다 빠르게 오디오를 만들 수 있어 클라이언트 버퍼링으로 해결 가능성이 있습니다.\nOpenAI는 Voice AI와 WebRTC 통합 시 발생하는 기술적 문제와 해결 방안을 논의합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29323",
+    "title": "Show GN: LociTerm - AI 에이전트 SSH 세션이 계속 끊겨서 persistent 웹 터미널을 만들었습니다",
+    "url": "https://news.hada.io/topic?id=29323",
+    "discussion_url": "https://news.hada.io/topic?id=29323",
+    "summary": "노트북에서 클로드코드나 오픈코드를 돌리면, 작업하다가 노트북을 닫고 이동할 수가 없는 상황이 계속 불편했습니다.\nSSH + tmux 조합으로 버티고 있었지만, 모바일 접근성이나 브라우저 기반 사용 경험은 여전히 아쉬운 부분이 많았고, 브라우저 터미널들은 대부분 세션이 일회성처럼 느껴졌습니다.",
+    "score": 0,
+    "published_at": "2026-05-09T13:08:30+00:00",
+    "ai_summary": "AI 에이전트 작업을 위한 노트북 이동 불편함과 SSH + tmux의 모바일 접근성 한계를 해결하고자 LociTerm이 개발되었습니다.\n이는 세션이 유지되는 웹 기반 터미널로, AI 에이전트 개발 중 세션 단절 문제를 해소합니다.\n브라우저 기반으로 더 나은 사용 경험과 접근성을 제공하는 유용한 도구입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29321",
+    "title": "Show GN: ccinv - Claude Code에 뭐가 깔려있는지 한눈에 보는 CLI",
+    "url": "https://raw.githubusercontent.com/Sianmin/ccinv/main/assets/screenshot.png",
+    "discussion_url": "https://news.hada.io/topic?id=29321",
+    "summary": "[IMG] https://raw.githubusercontent.com/Sianmin/ccinv/main/assets/screenshot.png\nClaude Code의 command, skills, agents, hooks, mcp, plugins들을 한 번에 보는 도구가 필요했습",
+    "score": 0,
+    "published_at": "2026-05-09T11:55:43+00:00",
+    "ai_summary": "`ccinv`는 Claude Code 환경의 command, skills, agents, hooks, mcp, plugins 등을 한눈에 볼 수 있는 CLI 도구입니다.\nClaude Code 사용자들이 자신의 개발 환경을 효율적으로 관리하고 가시성을 높일 수 있도록 돕습니다.\nAI 에이전트 개발 환경을 빠르게 파악하고 제어하는 데 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29318",
+    "title": "모든 VPS 또는 클라우드 제공자에서 첫 SSH 연결의 MITM 막기",
+    "url": "https://github.com/JoachimSchipper/ssh-init-vm/blob/main/ssh-init-vm",
+    "discussion_url": "https://news.hada.io/topic?id=29318",
+    "summary": "ssh-init-vm은 새 VM의 첫 SSH 접속에서 중간자 공격을 막기 위해 cloud-init으로 임시 SSH 호스트 개인키를 주입하고, 장기 호스트 키를 생성·가져오는 동안만 신뢰하게 함\nHetzner Cloud처럼...",
+    "score": 0,
+    "published_at": "2026-05-09T06:02:06+00:00",
+    "ai_summary": "`ssh-init-vm`은 cloud-init을 활용하여 새 VM의 첫 SSH 연결 시 MITM 공격을 방지합니다.\n임시 SSH 호스트 개인키를 주입하고, 장기 키 생성 시까지 신뢰하여 보안을 강화합니다.\nHetzner Cloud 등 다양한 클라우드 환경에서 안전한 초기 SSH 연결을 보장하는 중요한 보안 솔루션입니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29317",
+    "title": "AI 시대, 0→1 서비스에서 오픈보다 운영이 더 중요한 이유",
+    "url": "https://news.hada.io/topic?id=29317",
+    "discussion_url": "https://news.hada.io/topic?id=29317",
+    "summary": "AI 시대 스타트업의 새로운 과제: 초고속 개발 vs 운영 구조화의 괴리\nAI 기반 개발 도구의 등장으로 제품 출시 속도는 획기적으로 단축되었습니다.\n그러나 병렬적으로 운영 안정화라는 새로운 병목이 대두되고 있습니다.\n핵심 문제는 다음과 같습니다:\n✔ 구조 vs 사람 의존성: 초기 서비",
+    "score": 0,
+    "published_at": "2026-05-09T05:02:02+00:00",
+    "ai_summary": "AI 시대 스타트업은 AI 개발 도구로 제품 출시가 빨라졌지만, 운영 안정화라는 새로운 병목에 직면합니다.\n초기 서비스에서 구조보다 사람 의존성이 높아 초고속 개발과 운영 구조화 사이의 괴리가 핵심 과제입니다.\n개발 속도만큼 안정적인 운영 구조화의 중요성이 부각됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29316",
+    "title": "GPT-5.5 low vs medium vs high vs xhigh: 오픈소스 저장소의 실제 작업 26개에서 본 추론 곡선",
+    "url": "https://news.hada.io/topic?id=29316",
+    "discussion_url": "https://news.hada.io/topic?id=29316",
+    "summary": "GPT-5.5 Codex를 GraphQL-go-tools의 실제 작업 26개에 low, medium, high, xhigh 설정으로 실행하자, 테스트 통과보다 사람 패치와의 의미적 동등성·코드 리뷰 통과율에서 추론 노력 차이가 더 크게 드러남\n테스트 통과는 low 21/26, medium 21/26, high 25/26, xhigh...",
+    "score": 0,
+    "published_at": "2026-05-09T02:42:52+00:00",
+    "ai_summary": "GPT-5.5 Codex를 오픈소스 작업 26개에 적용하여 low/medium/high/xhigh 설정별 추론 곡선을 분석했습니다.\n테스트 통과율은 높았으나, 사람 패치와의 의미적 동등성과 코드 리뷰 통과율에서 추론 노력 차이가 더 크게 나타났습니다.\n이는 LLM의 실제 개발 환경 적용 시 고려할 점과 잠재력을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29313",
+    "title": "브라우저가 알려준 모든 정보를 보여주는 웹페이지",
+    "url": "https://ip-api.com",
+    "discussion_url": "https://news.hada.io/topic?id=29313",
+    "summary": "이 페이지는 방문 직후 첫 밀리초 동안 브라우저가 넘긴 데이터만으로 위치, 기기, 브라우저, 언어, GPU, 배터리, 폰트, 사용자 선호 등을 보여주며, 익스플로잇이나 해킹 없이 공개 문서화된 표준 기능만 사용함\n모든 요청 헤더의 IP 주소를 ip-api.c...",
+    "score": 0,
+    "published_at": "2026-05-09T00:50:30+00:00",
+    "ai_summary": "이 웹페이지는 방문 시 브라우저가 제공하는 데이터를 활용, 위치, 기기, 브라우저, 언어, GPU, 배터리, 폰트 등 다양한 정보를 보여줍니다.\n익스플로잇 없이 공개 문서화된 표준 기능만을 사용하여 사용자 정보를 수집하는 방식이 시연됩니다.\n이는 웹 브라우저의 정보 노출 범위와 잠재적 프라이버시 문제를 명확히 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29312",
+    "title": "Google Cloud Fraud Defence는 포장만 바꾼 WEI일 뿐",
+    "url": "https://news.hada.io/topic?id=29312",
+    "discussion_url": "https://news.hada.io/topic?id=29312",
+    "summary": "Google Cloud Fraud Defense는 2026년 “reCAPTCHA의 다음 진화”로 발표됐지만, 핵심은 2023년 철회된 Web Environment Integrity와 같은 기기 증명 인프라에 있음\nFraud Defense의 QR 챌린지는 사용자가 휴대폰으로 코드를 스캔하면 Play Integrity API...",
+    "score": 0,
+    "published_at": "2026-05-09T00:47:30+00:00",
+    "ai_summary": "Google Cloud Fraud Defense는 reCAPTCHA의 진화로 발표되었으나, 핵심은 철회된 WEI와 유사한 기기 증명 인프라입니다.\n사용자가 휴대폰으로 QR을 스캔하면 Play Integrity API를 통해 기기 신뢰도를 확인하는 방식입니다.\n이는 구글의 플랫폼 통제 및 웹 개방성에 대한 개발자 커뮤니티의 우려를 다시 불러일으킵니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29310",
+    "title": "Camofox Browser - AI 에이전트를 위한 스텔스 헤드리스 브라우저",
+    "url": "https://news.hada.io/topic?id=29310",
+    "discussion_url": "https://news.hada.io/topic?id=29310",
+    "summary": "Cloudflare·봇 탐지 우회, Puppeteer/Playwright 대체 가능\nCamoufox(Firefox 포크) 기반으로 C++ 레벨에서 핑거프린트 스푸핑\n\nshim이나 wrapper 없이 Google, Cloudflare 등 대부분의 봇 탐지 우회\n\n\n접근성 스냅샷 이용: 원시 HTML ...",
+    "score": 0,
+    "published_at": "2026-05-09T00:31:01+00:00",
+    "ai_summary": "Camofox는 Cloudflare나 봇 탐지를 우회하고 Puppeteer/Playwright를 대체할 수 있는 AI 에이전트용 스텔스 헤드리스 브라우저입니다.\nFirefox 포크 기반으로 C++ 레벨에서 핑거프린트 스푸핑을 구현하며, shim 없이 대부분의 봇 탐지를 우회합니다.\n웹 자동화 및 데이터 수집에 특화된 강력한 도구로 활용될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29309",
+    "title": "그냥 빌어먹을 Go를 써라",
+    "url": "https://news.hada.io/topic?id=29309",
+    "discussion_url": "https://news.hada.io/topic?id=29309",
+    "summary": "Go는 백엔드 개발의 과도한 복잡성을 줄이는 선택지이며, 빠른 컴파일과 단일 바이너리 배포, 안정적인 의존성 관리가 핵심 장점임\nGo는 데코레이터, 메타클래스, 매크로, trait, monad 같은 복잡한 추상화 대신 struct, 함수, 인터페이스, gorou...",
+    "score": 0,
+    "published_at": "2026-05-09T00:02:14+00:00",
+    "ai_summary": "Go는 백엔드 개발의 과도한 복잡성을 줄이는 효과적인 언어로, 빠른 컴파일, 단일 바이너리 배포, 안정적인 의존성 관리가 핵심 장점입니다.\n복잡한 추상화 대신 struct, 함수, 인터페이스 등 단순한 기본 요소를 사용하며, 이는 높은 유지보수성과 생산성을 제공합니다.\nGo는 실용적이고 강력한 백엔드 개발 언어입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48073680",
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "discussion_url": "https://news.ycombinator.com/item?id=48073680",
+    "summary": "",
+    "score": 351,
+    "published_at": "2026-05-09T10:12:55+00:00",
+    "ai_summary": "Bun 런타임의 실험적인 Rust 재작성 버전이 Linux x64 glibc 환경에서 99.8%의 높은 테스트 호환성을 달성했습니다.\n이는 Bun의 성능과 안정성 향상에 기여할 중요한 진전으로, 개발자들에게 더 빠르고 견고한 런타임을 제공할 것입니다.\nRust로의 전환은 Bun의 미래 개발 방향과 잠재력을 명확히 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48074265",
+    "title": "Internet Archive Switzerland",
+    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48074265",
+    "summary": "",
+    "score": 510,
+    "published_at": "2026-05-09T12:00:30+00:00",
+    "ai_summary": "Internet Archive Switzerland는 웹사이트, 디지털 자료 등을 보존하는 분산형 아카이빙 프로젝트의 스위스 거점입니다.\n이는 인터넷 콘텐츠의 영구 보존과 접근성 확보를 목표로 하며, 디지털 유산 보호에 기여합니다.\n개발자에게는 데이터 아카이빙, 역사적 웹 자료 접근 등에 대한 정보를 제공할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48049828",
+    "title": "The Serial TTL connector we deserve",
+    "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48049828",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-05-07T14:19:55+00:00",
+    "ai_summary": "직렬 TTL 커넥터의 문제점과 표준화의 필요성을 논의합니다. 잘못된 핀아웃과 전압 사용으로 인한 위험을 지적하며, 개선된 표준 설계의 중요성을 강조합니다.\n임베디드 시스템 개발자들이 겪는 어려움을 해소하고 안정적인 연결을 위한 방안을 제안합니다.\n이는 하드웨어와 소프트웨어 간 인터페이스 개발에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48078575",
+    "title": "Rust but Lisp",
+    "url": "https://github.com/ThatXliner/rust-but-lisp",
+    "discussion_url": "https://news.ycombinator.com/item?id=48078575",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-05-09T21:46:27+00:00",
+    "ai_summary": "Rust의 성능과 안정성에 Lisp의 유연성과 매크로 시스템을 결합하려는 시도에 대한 글입니다. 강력한 타입 시스템과 시스템 프로그래밍 능력을 유지하면서도 코드 생성 및 추상화의 폭을 넓히고자 합니다.\n두 언어 패러다임의 장점을 융합하여 새로운 프로그래밍 언어 디자인의 가능성을 탐색합니다.\n언어 설계 및 시스템 프로그래밍에 깊은 관심이 있는 개발자에게 특히 흥미로운 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48076651",
+    "title": "Zed Editor Theme-Builder",
+    "url": "https://zed.dev/theme-builder",
+    "discussion_url": "https://news.ycombinator.com/item?id=48076651",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-05-09T17:30:39+00:00",
+    "ai_summary": "Zed 에디터 사용자를 위한 웹 기반 테마 빌더 도구가 소개됩니다. 사용자가 GUI를 통해 테마 요소를 실시간으로 변경하고 미리 볼 수 있으며, 최종적으로 JSON 형식으로 내보낼 수 있습니다.\n이를 통해 개인의 취향에 맞는 맞춤형 편집기 환경을 쉽게 만들 수 있습니다.\n개발 생산성과 시각적 경험을 개선하려는 Zed 에디터 사용자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48076815",
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "url": "https://github.com/nooga/let-go",
+    "discussion_url": "https://news.ycombinator.com/item?id=48076815",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-05-09T17:52:13+00:00",
+    "ai_summary": "Go 언어로 Clojure와 유사한 언어를 개발했으며, 7ms 만에 부팅하는 빠른 성능을 자랑합니다. 이 프로젝트는 함수형 프로그래밍과 Lisp의 아이디어를 Go의 효율성과 결합하려는 시도입니다.\n새로운 언어의 설계 철학, 구현 과정 및 성능 최적화에 대한 내용을 다룹니다.\n언어 구현, 컴파일러/인터프리터 디자인 또는 Go 언어에 관심 있는 개발자에게 흥미로운 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48076173",
+    "title": "I’ve banned query strings",
+    "url": "https://chrismorgan.info/no-query-strings",
+    "discussion_url": "https://news.ycombinator.com/item?id=48076173",
+    "summary": "",
+    "score": 233,
+    "published_at": "2026-05-09T16:28:36+00:00",
+    "ai_summary": "저자는 API 설계에서 쿼리 문자열 사용을 지양하고 경로 파라미터 사용을 선호하는 이유를 설명합니다. 이는 URL의 가독성과 예측 가능성을 높이고, 캐싱 효율성 및 SEO 이점을 가져온다고 주장합니다.\n명확하고 일관된 API 디자인을 통해 유지보수성과 확장성을 향상시키는 방법을 제안합니다.\n웹 개발자 및 API 설계자가 URL 구조화 및 RESTful 원칙 적용에 참고할 만한 견해를 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48048902",
+    "title": "Making your own programming language is easier than you think (but also harder)",
+    "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48048902",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-05-07T13:01:21+00:00",
+    "ai_summary": "프로그래밍 언어를 직접 만드는 것이 생각보다 쉬울 수도 있지만, 동시에 예상보다 훨씬 어렵다는 이중적인 측면을 다룹니다. 기본적인 인터프리터나 컴파일러를 구현하는 초기 단계는 접근하기 쉽습니다.\n하지만 실제 상용 수준의 언어로 발전시키기 위한 복잡성과 난이도를 설명합니다.\n언어 설계, 컴파일러 이론, 또는 자신만의 언어를 만들고자 하는 개발자에게 현실적인 조언과 동기를 부여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48076465",
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48076465",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-05-09T17:06:46+00:00",
+    "ai_summary": "CPanel에서 최근 발견된 3가지 새로운 취약점이 44,000개 이상의 서버에 대한 공격 이후 패치되었습니다. 심각한 제로데이 공격의 상세 내용과 CPanel의 신속한 대응 과정을 설명합니다.\n이러한 보안 사고는 서버 관리자와 시스템 엔지니어에게 중요한 경각심을 일깨워줍니다.\n보안 패치 관리 및 시스템 보호의 중요성을 강조하며, 관련 개발자와 운영자에게 필수적인 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48067786",
+    "title": "Production engineering when trading billions of dollars a day [video]",
+    "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=48067786",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-05-08T19:45:21+00:00",
+    "ai_summary": "매일 수십억 달러 규모의 거래를 처리하는 금융 환경에서의 프로덕션 엔지니어링에 대해 다룹니다. 높은 가용성, 신뢰성, 성능을 유지하기 위한 시스템 설계 및 운영 전략을 소개합니다.\n장애 발생 시의 신속한 복구 및 예방 조치, 대규모 시스템 관리의 복잡성에 대한 심층적인 내용을 포함합니다.\n고성능, 고가용성 시스템 운영 및 SRE(Site Reliability Engineering)에 관심 있는 개발자들에게 매우 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48075366",
+    "title": "Distributing Mac software is increasing my cortisol levels",
+    "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "discussion_url": "https://news.ycombinator.com/item?id=48075366",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-05-09T14:40:58+00:00",
+    "ai_summary": "macOS 소프트웨어 배포의 복잡성과 좌절감을 다룹니다.\n개발자들이 겪는 공증, 서명, 샌드박싱 등의 어려움으로 인해 스트레스가 증가하는 상황을 묘사합니다.\n이는 Mac 플랫폼 개발자들에게 공통적인 문제점입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48073246",
+    "title": "LLMs corrupt your documents when you delegate",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "discussion_url": "https://news.ycombinator.com/item?id=48073246",
+    "summary": "",
+    "score": 332,
+    "published_at": "2026-05-09T08:44:34+00:00",
+    "ai_summary": "LLM에 문서 처리나 생성 작업을 위임할 때 원본 문서가 손상될 수 있음을 지적합니다.\nLLM이 의도치 않은 오류나 변경을 발생시킬 수 있어 개발자의 주의가 필요합니다.\n이는 LLM 활용 시 발생할 수 있는 중요한 문제점입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48077966",
+    "title": "I caught the car",
+    "url": "https://undecidability.net/senior/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48077966",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-05-09T20:31:07+00:00",
+    "ai_summary": "이 기사는 저자가 오랜 기간 추구했던 목표를 달성했거나 복잡한 기술적 도전을 성공적으로 해결한 경험을 다룹니다.\n어려운 상황을 극복하고 마침내 원하는 결과를 얻어낸 개인적인 성취의 순간을 묘사합니다.\n개발자들이 겪는 난관 극복에 대한 공감을 얻을 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48071262",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48071262",
+    "summary": "",
+    "score": 586,
+    "published_at": "2026-05-09T02:41:42+00:00",
+    "ai_summary": "ChatGPT 5.5 Pro의 최근 사용 경험과 이에 대한 저자의 평가를 공유합니다.\n이 LLM 제품의 기능, 성능, 그리고 한계점 등 구체적인 사용 사례와 함께 자세히 분석합니다.\nLLM 사용자 및 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48077126",
+    "title": "Meta's embrace of A.I. is making its employees miserable",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48077126",
+    "summary": "",
+    "score": 222,
+    "published_at": "2026-05-09T18:33:36+00:00",
+    "ai_summary": "Meta가 인공지능(AI) 전략을 강화하면서 직원들이 불행해지고 있다는 내용을 다룹니다.\n회사의 AI 중심 전환이 내부 문화, 직원 사기, 그리고 업무 환경에 미치는 부정적인 영향을 분석합니다.\n기술 기업의 전략 변화가 직원들에게 미치는 영향을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48079114",
+    "title": "User just tricked Grok and Bankrbot to send tokens with Morse code",
+    "url": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48079114",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-05-09T23:00:56+00:00",
+    "ai_summary": "사용자가 모스 부호를 이용해 Grok과 Bankrbot이라는 AI 모델을 속여 토큰을 전송하게 만든 사건을 다룹니다.\n이는 AI 모델의 프롬프트 주입 취약성과 보안 문제를 드러냅니다.\nLLM 보안 및 안전성 연구자들에게 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48074952",
+    "title": "The hypocrisy of cyberlibertarianism",
+    "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48074952",
+    "summary": "",
+    "score": 244,
+    "published_at": "2026-05-09T13:48:32+00:00",
+    "ai_summary": "사이버 자유주의의 위선과 모순에 대해 비판적으로 분석하는 기사입니다.\n기술과 사회, 정치적 이념이 교차하는 지점에서 발생하는 딜레마를 탐구합니다.\n기술의 사회적 영향과 윤리적 측면에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48078811",
+    "title": "France Moves to Break Encrypted Messaging",
+    "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "discussion_url": "https://news.ycombinator.com/item?id=48078811",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-05-09T22:14:35+00:00",
+    "ai_summary": "프랑스 정부가 암호화된 메시징 서비스를 해독하려는 움직임을 보이고 있다는 기사입니다.\n이는 개인 정보 보호와 보안에 대한 중대한 위협이며, 암호화 기술의 미래에 대한 논란을 불러일으킵니다.\n보안 및 통신 관련 개발자들에게 중요한 사안입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48071940",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "discussion_url": "https://news.ycombinator.com/item?id=48071940",
+    "summary": "",
+    "score": 403,
+    "published_at": "2026-05-09T04:53:52+00:00",
+    "ai_summary": "Claude AI를 활용한 코드 생성, 특히 HTML의 놀라운 효율성을 탐구합니다.\nAI 기반 개발 도구와 프론트엔드 기술의 융합에 초점을 맞춥니다.\n개발자들이 AI를 코딩에 어떻게 활용할지 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48077395",
+    "title": "Surfel-based global illumination on the web",
+    "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48077395",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-05-09T19:09:34+00:00",
+    "ai_summary": "서펠 기반 전역 조명 기법을 웹 환경에서 구현하는 기술적 내용을 다룹니다.\n웹 그래픽스, 3D 렌더링 최적화 및 웹 성능 향상에 기여합니다.\n프론트엔드 개발자, 특히 웹 기반 3D 경험 구축에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48074087",
+    "title": "Forking the Web",
+    "url": "https://dillo-browser.org/lab/web-fork/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48074087",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-05-09T11:33:07+00:00",
+    "ai_summary": "웹의 '포크' 개념을 탐구하며, 웹 아키텍처의 대안이나 진화 방향을 논의합니다.\n분산 웹, 웹 표준의 변화, 또는 새로운 웹 기술 스택 개발과 연관될 수 있습니다.\n웹의 미래에 대한 넓은 시야를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48046436",
+    "title": "Mythical Man Month",
+    "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48046436",
+    "summary": "",
+    "score": 343,
+    "published_at": "2026-05-07T07:20:55+00:00",
+    "ai_summary": "소프트웨어 공학 고전 '맨먼스 미신'을 분석하며, 대규모 프로젝트 관리와 인력 투입의 함정을 다룹니다.\n효율적인 개발 프로세스, 팀 구성 및 프로젝트 실패 방지에 대한 심오한 통찰을 제공합니다.\n모든 개발자가 경력 전반에 걸쳐 참고할 만한 가치가 있습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48051951",
+    "title": "OpenAI’s WebRTC problem",
+    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48051951",
+    "summary": "",
+    "score": 465,
+    "published_at": "2026-05-07T17:11:59+00:00",
+    "ai_summary": "OpenAI가 WebRTC 기술 통합 과정에서 직면한 문제점들을 기술적으로 분석합니다.\nAI 서비스에 실시간 통신 기능을 결합할 때 발생할 수 있는 도전과 해결 방안을 제시합니다.\nAI/ML, 프론트엔드, 백엔드 개발자 모두에게 실질적인 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48072720",
+    "title": "All my clients wanted a carousel, now it's an AI chatbot",
+    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=48072720",
+    "summary": "",
+    "score": 161,
+    "published_at": "2026-05-09T07:23:40+00:00",
+    "ai_summary": "과거 웹사이트 구축 시 필수로 여겨지던 캐러셀 대신, 이제 고객들은 AI 챗봇을 요구하고 있습니다.\n이는 웹 개발 트렌드가 사용자 인터페이스를 넘어 인공지능 기반의 상호작용으로 변화하고 있음을 보여줍니다.\n개발자들은 AI 기술 통합 및 구현 능력을 갖추는 것이 중요해지고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Career"
+    ]
+  }
+]
