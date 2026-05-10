@@ -1,0 +1,539 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29364",
+    "title": "AWS로 돌아갔고, 내가 왜 떠났는지 다시 깨달았다",
+    "url": "https://news.hada.io/topic?id=29364",
+    "discussion_url": "https://news.hada.io/topic?id=29364",
+    "summary": "초기부터 AWS를 지지했지만, 클라이언트 라이브러리를 커뮤니티에 맡긴 기간, Python 3 전환 지연, 복잡한 과금과 IAM, AWS Lambda 락인 등이 쌓이며 더 이상 AWS를 좋아하지 않게 됨\nDynamoDB 사용 뒤 하루 75달러 청구를 겪었고, 데이터 송신 비용은 GB당 20센트...",
+    "score": 0,
+    "published_at": "2026-05-10T16:34:27+00:00",
+    "ai_summary": "AWS 사용 경험에 대한 비판적 회고 글로, 초기 지지에도 불구하고 복잡한 과금, IAM, Lambda 락인 등으로 실망했음을 밝힙니다.\n특히 DynamoDB 과금과 데이터 송신 비용의 비효율성을 지적하며 AWS 사용의 어려움을 토로합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29363",
+    "title": "GrapheneOS가 Google이 패치하지 않겠다고 한 Android VPN 유출을 수정",
+    "url": "https://news.hada.io/topic?id=29363",
+    "discussion_url": "https://news.hada.io/topic?id=29363",
+    "summary": "GrapheneOS가 Android의 “Always-On VPN”과 “Block connections without VPN”이 켜져 있어도 실제 IP 주소가 유출될 수 있는 VPN 우회 취약점을 새 업데이트에서 수정함\n취약점은 Android 16 네트워킹 스택의 QUIC 연결 종료 기능에서 비롯됐으며, 일반 앱이 표...",
+    "score": 0,
+    "published_at": "2026-05-10T15:33:51+00:00",
+    "ai_summary": "GrapheneOS가 Android의 'Always-On VPN' 설정에도 불구하고 실제 IP 주소가 유출될 수 있는 VPN 우회 취약점을 수정했습니다.\n이 취약점은 Android 16 네트워킹 스택의 QUIC 연결 종료에서 비롯되며, Google은 이를 패치하지 않겠다고 밝혔습니다.\nGrapheneOS는 자체 업데이트로 사용자의 보안을 강화했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29362",
+    "title": "Mac 소프트웨어 배포가 내 코르티솔 수치를 높이고 있다",
+    "url": "https://news.hada.io/topic?id=29362",
+    "discussion_url": "https://news.hada.io/topic?id=29362",
+    "summary": "Go 언어로 만든 간단한 개발자 유틸리티를 macOS에 배포하려다, 코드 서명과 Apple Developer Program의 벽에 부딪힌 개인 개발자의 경험담\nLinux과 Windows에서는 비교적 쉽게 배포 가능하지만, macOS에서는 격리(quarantine) 정책 때문에 서명되지 않은 바이너리...",
+    "score": 0,
+    "published_at": "2026-05-10T14:34:51+00:00",
+    "ai_summary": "Go 언어로 개발한 간단한 유틸리티를 macOS에 배포하려던 개발자가 코드 서명과 Apple Developer Program 요구사항 때문에 겪는 어려움을 토로합니다.\nLinux나 Windows와 달리 macOS의 격리 정책은 서명되지 않은 바이너리 실행을 어렵게 하여 개인 개발자에게 큰 부담이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29351",
+    "title": "LLM은 위임할 때 문서를 훼손한다",
+    "url": "https://news.hada.io/topic?id=29351",
+    "discussion_url": "https://news.hada.io/topic?id=29351",
+    "summary": "DELEGATE-52는 사용자가 LLM에 긴 문서 편집 작업을 맡기는 위임형 워크플로에서 문서가 얼마나 충실히 유지되는지 평가하는 벤치마크임\n이 벤치마크는 코딩, 결정학, 악보 표기 등 52개 전문 영역에서 깊이 있는 문서 편집이 필요한 작업을 다루며, 예시 시뮬레이...",
+    "score": 0,
+    "published_at": "2026-05-10T03:33:26+00:00",
+    "ai_summary": "DELEGATE-52 벤치마크는 LLM에 긴 문서 편집 작업을 위임할 때 문서의 충실도가 얼마나 유지되는지 평가합니다.\n이 벤치마크는 코딩, 결정학, 악보 등 52개 전문 분야의 깊이 있는 편집 작업을 다루며, LLM이 문서를 훼손할 수 있음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29348",
+    "title": "Bun의 실험적 Rust 재작성판이 Linux x64 glibc에서 99.8% 테스트 호환성에 도달",
+    "url": "https://news.hada.io/topic?id=29348",
+    "discussion_url": "https://news.hada.io/topic?id=29348",
+    "summary": "Bun의 Rust 재작성판은 Linux x64 glibc 환경에서 기존 테스트 스위트의 99.8% 를 통과함\n코드베이스는 “기본적으로 같은 코드베이스”이며, Rust 전환으로 컴파일러가 타입 생명주기를 강제하고 필요한 시점에 소멸자를 사용할 수 있게 됨...",
+    "score": 0,
+    "published_at": "2026-05-10T00:55:31+00:00",
+    "ai_summary": "Bun의 Rust 재작성 버전이 Linux x64 glibc 환경에서 기존 테스트 스위트의 99.8% 호환성을 달성했습니다.\n이는 코드베이스의 높은 일치도를 보여주며, Rust 전환을 통해 컴파일러가 타입 생명주기를 강제하고 필요한 시점에 소멸자를 사용할 수 있게 된 이점을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29347",
+    "title": "클로드 코드 사용하기: HTML의 놀라운 효율성",
+    "url": "https://news.hada.io/topic?id=29347",
+    "discussion_url": "https://news.hada.io/topic?id=29347",
+    "summary": "Claude Code에서 Markdown 대신 HTML을 출력 형식으로 쓰면 시각화, 색상, 다이어그램, 상호작용을 더 풍부하게 담아 사람이 읽고 검토하기 쉬운 결과물을 만들 수 있음\nHTML은 표, CSS, SVG, script, JavaScript 상호작용, 이미지, 캔버스와 절대 위...",
+    "score": 0,
+    "published_at": "2026-05-10T00:52:31+00:00",
+    "ai_summary": "Claude Code에서 마크다운 대신 HTML을 출력 형식으로 사용하면 시각화, 색상, 다이어그램, 상호작용 등 더 풍부한 결과물을 생성할 수 있습니다.\nHTML은 표, CSS, SVG, 스크립트 등을 포함할 수 있어 사람이 읽고 검토하기 쉬운 형태로 복잡한 정보를 전달하는 데 효과적입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29345",
+    "title": "확률적 엔지니어링과 24/7 직원",
+    "url": "https://news.hada.io/topic?id=29345",
+    "discussion_url": "https://news.hada.io/topic?id=29345",
+    "summary": "소프트웨어 개발이 결정론적 시스템에서 확률적 시스템으로 조용히 전환되고 있으며, AI 에이전트가 밤새 코드를 생성·리뷰·병합하는 시대에 개발자의 역할과 조직 구조가 근본적으로 변화 중\nAI 네이티브 팀 내부에서 역할이 상위로 이동하는 동시에 하위로 분화되...",
+    "score": 0,
+    "published_at": "2026-05-10T00:48:02+00:00",
+    "ai_summary": "소프트웨어 개발이 결정론적 시스템에서 확률적 시스템으로 변화하고 있으며, AI 에이전트가 24시간 코드를 생성, 리뷰, 병합하는 시대가 도래하고 있습니다.\n이로 인해 개발자의 역할과 조직 구조가 근본적으로 변하고 있으며, AI 네이티브 팀 내에서 역할이 상위 또는 하위로 분화될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29344",
+    "title": "ChatGPT 5.5 Pro를 최근 사용한 경험",
+    "url": "https://news.hada.io/topic?id=29344",
+    "discussion_url": "https://news.hada.io/topic?id=29344",
+    "summary": "Tim Gowers는 ChatGPT 5.5 Pro로 약 1시간 만에 조합론의 박사과정 수준 연구 결과를 얻었고, 자신의 수학적 입력은 사실상 없었다고 봄\nChatGPT 5.5 Pro는 Mel Nathanson의 덧셈적 정수론 문제에서 주어진 합집합 크기를 갖는 집합의 직경에 대해 최선일 수밖에 없...",
+    "score": 0,
+    "published_at": "2026-05-10T00:46:31+00:00",
+    "ai_summary": "Tim Gowers 교수가 ChatGPT 5.5 Pro를 활용하여 약 1시간 만에 조합론 분야의 박사 과정 수준 연구 결과를 도출했습니다.\n그는 자신의 수학적 입력이 거의 없었다고 평가하며, ChatGPT가 Mel Nathanson의 덧셈적 정수론 문제에서 최적의 해를 제시했음을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29343",
+    "title": "CodeBurn - AI 코딩 도구 토큰 사용량/비용 추적 TUI 대시보드",
+    "url": "https://news.hada.io/topic?id=29343",
+    "discussion_url": "https://news.hada.io/topic?id=29343",
+    "summary": "Claude Code, Codex, Cursor 등 18개 AI 코딩 도구의 토큰 사용량과 비용을 자동 추적하는 터미널 대시보드\n래퍼·프록시·API 키 없이 디스크의 세션 데이터를 직접 읽어 LiteLLM 가격 데이터로 비용 산정, 모든 처리가 로컬에서 실행\ncodeburn opti...",
+    "score": 0,
+    "published_at": "2026-05-10T00:31:02+00:00",
+    "ai_summary": "AI 코딩 도구의 토큰 사용량과 비용을 추적하는 TUI 대시보드입니다.\n18가지 AI 도구를 지원하며, 로컬 세션 데이터를 읽어 비용을 산정합니다.\n개발자들이 AI 도구 사용을 효율적으로 관리하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29340",
+    "title": "Steering Zig Fmt",
+    "url": "https://news.hada.io/topic?id=29340",
+    "discussion_url": "https://news.hada.io/topic?id=29340",
+    "summary": "zig fmt는 파일에 이미 있는 구문 형태를 반영해 같은 코드도 여러 레이아웃으로 배치할 수 있는 조종 가능한 포매터로 쓰일 수 있음\n함수 호출에서는 trailing comma 유무가 결과를 바꾸며, 쉼표가 없으면 한 줄로 합쳐지고 쉼표가 있으면 인자를 줄...",
+    "score": 0,
+    "published_at": "2026-05-10T00:04:51+00:00",
+    "ai_summary": "`zig fmt`는 구문 형태를 반영하여 다양한 레이아웃으로 코드를 배치합니다.\ntrailing comma 유무에 따라 함수 호출의 줄바꿈 등 포매팅이 달라집니다.\n개발자가 특정 언어의 코드 스타일을 유연하게 제어하는 데 활용됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29339",
+    "title": "AlphaEvolve: 여러 분야로 영향력을 확장하는 Gemini 기반 코딩 에이전트",
+    "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "discussion_url": "https://news.hada.io/topic?id=29339",
+    "summary": "AlphaEvolve는 Gemini 기반 코딩 에이전트로, 고급 알고리듬 설계에서 출발해 수학·컴퓨터 과학의 공개 문제, Google 인프라 최적화, 과학·산업 과제로 적용 범위...",
+    "score": 0,
+    "published_at": "2026-05-09T23:54:45+00:00",
+    "ai_summary": "AlphaEvolve는 Gemini 기반의 강력한 코딩 에이전트입니다.\n고급 알고리듬 설계부터 수학 문제, Google 인프라 최적화 등 광범위한 분야에 적용됩니다.\n개발 생산성과 문제 해결 방식을 혁신할 잠재력이 큽니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48086190",
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "discussion_url": "https://news.ycombinator.com/item?id=48086190",
+    "summary": "",
+    "score": 742,
+    "published_at": "2026-05-10T17:54:02+00:00",
+    "ai_summary": "이 기사는 하드웨어 증명이 독점력 강화 수단이 될 수 있음을 다룹니다.\n이는 보안 정책, 시장 경쟁 및 플랫폼 제약에 영향을 미칠 수 있습니다.\n개발자는 소프트웨어 배포 환경의 변화를 이해해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48085821",
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48085821",
+    "summary": "",
+    "score": 427,
+    "published_at": "2026-05-10T17:19:28+00:00",
+    "ai_summary": "이 기사는 로컬 AI의 보편화가 필요하다는 주장을 펼칩니다.\n클라우드 의존성을 줄이고 데이터 주권 및 개인 정보 보호를 강화하는 방안을 다룹니다.\n개발자는 로컬 환경에서 AI 모델 실행 및 최적화 기술에 주목해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48086082",
+    "title": "Incident Report: CVE-2024-YIKES",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48086082",
+    "summary": "",
+    "score": 341,
+    "published_at": "2026-05-10T17:43:10+00:00",
+    "ai_summary": "이 기사는 'CVE-2024-YIKES'라는 특정 취약점에 대한 사고 보고서입니다.\n해당 CVE의 상세 내용, 영향 범위 및 해결 방안을 다룹니다.\n개발자는 보안 패치 적용과 안전한 코딩 관행을 위해 이를 숙지해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48089091",
+    "title": "Running local models on an M4 with 24GB memory",
+    "url": "https://jola.dev/posts/running-local-models-on-m4",
+    "discussion_url": "https://news.ycombinator.com/item?id=48089091",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-05-10T23:09:10+00:00",
+    "ai_summary": "이 기사는 M4 칩과 24GB 메모리 환경에서 로컬 AI 모델 실행 방법을 다룹니다.\n모델 최적화, 성능 벤치마킹 및 실용적인 설정 팁을 제공합니다.\n개발자가 개인 기기에서 AI 모델을 효율적으로 활용하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48088576",
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48088576",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-05-10T22:02:43+00:00",
+    "ai_summary": "Obsidian 플러그인이 원격 접근 트로이목마 배포에 악용된 사례를 보고합니다.\n서드파티 플러그인 사용의 위험성과 보안 취약점을 강조합니다.\n개발자는 플러그인 의존성 및 보안 검토에 주의해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48085993",
+    "title": "Ask HN: What are you working on? (May 2026)",
+    "url": "https://news.ycombinator.com/item?id=48085993",
+    "discussion_url": "https://news.ycombinator.com/item?id=48085993",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-05-10T17:34:41+00:00",
+    "ai_summary": "2026년 5월 해커 뉴스 커뮤니티 회원들이 현재 개발 중인 다양한 프로젝트들을 공유하는 글입니다. AI/ML, 웹 개발, 모바일 앱, 인프라 등 광범위한 기술 분야의 흥미로운 아이디어와 진행 상황을 엿볼 수 있습니다. 다른 개발자들과 교류하며 영감을 얻고 기술 트렌드를 파악하기 좋은 기회입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48088151",
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "discussion_url": "https://news.ycombinator.com/item?id=48088151",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-05-10T21:16:58+00:00",
+    "ai_summary": "메릴랜드 시민들이 주 외부에 위치한 AI 데이터센터 전력 수요를 위한 20억 달러 규모의 전력망 업그레이드 비용을 부담해야 할 처지에 놓였습니다. 이는 AI 기술의 폭발적 성장이 야기하는 막대한 에너지 소비와 사회적 인프라 비용 문제를 보여주는 사례입니다. 개발자들은 AI 배포 시 에너지 효율성과 지속 가능한 인프라 구축의 중요성을 다시금 인식하게 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48073201",
+    "title": "I returned to AWS and was reminded why I left",
+    "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48073201",
+    "summary": "",
+    "score": 629,
+    "published_at": "2026-05-09T08:37:41+00:00",
+    "ai_summary": "한 개발자가 AWS를 다시 사용하면서 과거에 떠났던 이유를 다시금 절감했다는 경험담입니다. AWS의 복잡한 서비스 구조, 예상치 못한 비용, 혹은 특정 기능의 불편함이 주된 불만 사항이었을 것으로 예상됩니다. 이는 클라우드 플랫폼 선택과 관리의 어려움, 그리고 개발자 경험의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48061602",
+    "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+    "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48061602",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-05-08T11:26:38+00:00",
+    "ai_summary": "모든 VPS 및 클라우드 프로바이더에서 첫 SSH 연결 시 발생할 수 있는 중간자 공격(MitM)을 방지하는 방법을 다룹니다. 서버와의 초기 보안 통신 설정이 얼마나 중요한지 설명하고, 안전한 키 교환 및 인증 절차를 강조합니다. 개발자 및 시스템 관리자가 반드시 알아야 할 기본적인 네트워크 보안 수칙입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48061556",
+    "title": "Eight More 8-bit Era Microprocessors (2024)",
+    "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
+    "discussion_url": "https://news.ycombinator.com/item?id=48061556",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-05-08T11:21:26+00:00",
+    "ai_summary": "8비트 시대의 마이크로프로세서 8가지에 대해 설명하는 기사입니다.\n각 프로세서의 특징과 역사적 맥락을 다룹니다.\n임베디드 시스템 및 컴퓨터 구조에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48064789",
+    "title": "Lakebase architecture delivers faster Postgres writes",
+    "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+    "discussion_url": "https://news.ycombinator.com/item?id=48064789",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-05-08T15:46:12+00:00",
+    "ai_summary": "Lakebase 아키텍처가 PostgreSQL 쓰기 성능을 크게 향상시키는 방법을 설명합니다.\n새로운 데이터베이스 아키텍처와 최적화 기법을 다루고 있습니다.\n백엔드 개발자와 데이터베이스 관리자에게 매우 유용한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48047930",
+    "title": "Idempotency is easy until the second request is different",
+    "url": "https://blog.dochia.dev/blog/idempotency/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48047930",
+    "summary": "",
+    "score": 271,
+    "published_at": "2026-05-07T11:02:28+00:00",
+    "ai_summary": "멱등성(Idempotency) 개념이 두 번째 요청이 다를 때 복잡해지는 시나리오를 탐구합니다.\n분산 시스템 및 API 설계에서 멱등성 구현의 어려움을 논의합니다.\n백엔드 개발자와 시스템 설계자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48084432",
+    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "discussion_url": "https://news.ycombinator.com/item?id=48084432",
+    "summary": "",
+    "score": 438,
+    "published_at": "2026-05-10T14:47:05+00:00",
+    "ai_summary": "루이스 로스만(Louis Rossmann)이 위협받는 OrcaSlicer 개발자의 법률 비용을 지불하겠다고 제안했습니다.\n오픈소스 개발자의 권리와 커뮤니티 지원의 중요성을 강조하는 기사입니다.\n개발자 커뮤니티와 오픈소스 생태계에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48083580",
+    "title": "Show HN: An index of indie web/blog indexes",
+    "url": "https://theindex.fyi",
+    "discussion_url": "https://news.ycombinator.com/item?id=48083580",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-05-10T12:50:31+00:00",
+    "ai_summary": "인디 웹과 블로그 인덱스를 모아놓은 인덱스에 대한 글입니다.\n개인 웹사이트와 블로그 커뮤니티를 탐색하고 발견하는 데 유용합니다.\n웹 개발자나 콘텐츠 크리에이터에게 영감을 줄 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48082396",
+    "title": "Think Linear Algebra (2023)",
+    "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48082396",
+    "summary": "",
+    "score": 151,
+    "published_at": "2026-05-10T09:40:33+00:00",
+    "ai_summary": "선형대수학 개념을 쉽게 이해할 수 있도록 돕는 책 또는 자료에 대한 내용입니다.\n프로그래밍과 실제 문제 해결에 필요한 수학적 기반을 다루고 있습니다.\nAI/ML, 데이터 과학, 컴퓨터 그래픽스 분야 개발자에게 필수적인 지식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48081469",
+    "title": "Task Paralysis and AI",
+    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48081469",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-05-10T06:20:50+00:00",
+    "ai_summary": "AI가 업무 마비 현상을 극복하는 데 어떻게 도움을 줄 수 있는지 탐구합니다.\nAI 도구를 활용하여 작업을 분해하고, 우선순위를 정하며, 실행 가능한 단계로 나눌 수 있습니다.\n개발자의 생산성 향상 및 AI 활용에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48082968",
+    "title": "Space Cadet Pinball on Linux",
+    "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48082968",
+    "summary": "",
+    "score": 306,
+    "published_at": "2026-05-10T11:22:02+00:00",
+    "ai_summary": "윈도우 95의 고전 게임인 스페이스 카데트 핀볼을 리눅스에서 실행하는 방법에 대한 내용입니다.\n리눅스 환경에서의 게임 호환성 및 에뮬레이션 관련 기술을 다룹니다.\n리눅스 사용자나 게임 개발/포팅에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48088459",
+    "title": "Plex's price hikes prove I was right to switch to Jellyfin",
+    "url": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48088459",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-05-10T21:49:59+00:00",
+    "ai_summary": "Plex의 요금 인상에 대한 불만을 제기하며 오픈소스 미디어 서버인 Jellyfin으로 전환한 경험을 공유합니다.\n자가 호스팅, 오픈소스 소프트웨어의 장점, 그리고 서비스 비용 효율성에 대해 논의합니다.\n백엔드, 클라우드, 오픈소스 대안에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48085314",
+    "title": "YC's Biggest Scandals",
+    "url": "https://ycombinator.fyi/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48085314",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-05-10T16:30:34+00:00",
+    "ai_summary": "Y Combinator와 관련된 주요 스캔들 및 논란들을 정리한 기사입니다.\n스타트업 생태계, 투자 문화, 그리고 기업 윤리에 대한 비판적 시각을 제공합니다.\n스타트업 종사자, 예비 창업가, 그리고 업계의 이면에 관심 있는 개발자에게 흥미로운 내용입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48084547",
+    "title": "Shunting-Yard Animation",
+    "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48084547",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-05-10T15:00:40+00:00",
+    "ai_summary": "셔플 야드 알고리즘의 동작 과정을 시각적으로 보여주는 애니메이션에 대한 글입니다.\n중위 표기식을 후위 표기식으로 변환하는 과정을 쉽게 이해할 수 있도록 돕습니다.\n컴파일러, 인터프리터, 자료구조 및 알고리즘 학습에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  }
+]
