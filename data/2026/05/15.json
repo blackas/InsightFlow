@@ -1,0 +1,765 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29510",
+    "title": "네덜란드 자살 예방 웹사이트, 동의 없이 기술 기업과 데이터 공유",
+    "url": "https://news.hada.io/topic?id=29510",
+    "discussion_url": "https://news.hada.io/topic?id=29510",
+    "summary": "네덜란드 자살 예방 핫라인 113은 방문자가 쿠키에 동의하지 않아도 Google 등 제3자와 방문자 데이터를 공유함\n공유 데이터에는 위치, 브라우저, 기기, 직전 방문 웹사이트, 113 웹사이트 방문 화면 녹화가 포함됨\n윤리적 해커 Mick Beer는 113 페이지 열...",
+    "score": 0,
+    "published_at": "2026-05-14T22:35:39+00:00",
+    "ai_summary": "네덜란드 자살 예방 웹사이트가 방문자 동의 없이 Google 등 제3자와 민감한 데이터를 공유한 사실이 드러났습니다.\n공유된 데이터에는 위치, 브라우저, 웹사이트 방문 화면 녹화 등 프라이버시 침해 소지가 큰 정보가 포함되었습니다.\n이 사건은 웹 개발 시 사용자 데이터 보호와 윤리적 관행의 중요성을 강조하며 보안 및 개인 정보 처리의 심각성을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29508",
+    "title": "Tell HN: Claude Design 쓰지 마세요. 구독 해지 후 내 프로젝트 접근 권한을 잃었습니다",
+    "url": "https://news.hada.io/topic?id=29508",
+    "discussion_url": "https://news.hada.io/topic?id=29508",
+    "summary": "Claude Code Max를 5개월 구독한 뒤 codex를 시험해보고, 다시 Claude Design의 이전 프로젝트로 돌아갔지만 더는 접근할 수 없게 됨\n다른 LLM 앱에서는 구독 해지 때문에 과거 세션 접근 권한을 잃은 적이 없었고, 이전에도 Claude의 월간 문제 보상으로 받은 추가...",
+    "score": 0,
+    "published_at": "2026-05-14T20:00:11+00:00",
+    "ai_summary": "한 사용자가 Claude Design 구독 해지 후 이전 프로젝트에 접근할 수 없게 되어 서비스 정책에 불만을 표출했습니다.\n다른 LLM 앱들은 구독 해지 후에도 과거 세션 접근을 허용했으나, Claude는 이와 달랐습니다.\n이는 LLM 서비스를 이용하는 개발자들이 구독 모델 및 데이터 보존 정책을 신중히 검토해야 함을 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29502",
+    "title": "소프트웨어의 Emacs화",
+    "url": "https://news.hada.io/topic?id=29502",
+    "discussion_url": "https://news.hada.io/topic?id=29502",
+    "summary": "AI 에이전트 덕분에 개인용 네이티브 앱을 몇 시간 안에 만들 수 있게 되면서, 소프트웨어가 Emacs식 맞춤 구성의 영역으로 이동하고 있음\nMDV.app은 macOS용 Markdown 뷰어로, 검색·SQLite FTS 색인·책갈피·목차·위치 기억을 몇 시간 만에 구현함\nElect...",
+    "score": 0,
+    "published_at": "2026-05-14T16:49:33+00:00",
+    "ai_summary": "AI 에이전트의 발전으로 개인용 네이티브 앱을 몇 시간 만에 구축할 수 있게 되면서, 소프트웨어가 Emacs식 맞춤 구성 시대로 진입하고 있습니다.\nMDV.app 같은 macOS용 Markdown 뷰어는 AI를 활용해 검색, SQLite FTS 인덱싱, 북마크 등의 기능을 단시간에 구현했습니다.\n이는 개발자들이 AI를 통해 고도로 개인화된 도구를 빠르고 효율적으로 제작할 수 있음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29499",
+    "title": "Show GN: Fairydust - Fairy 후원 소식 readme 자동 기록 서비스",
+    "url": "https://news.hada.io/topic?id=29499",
+    "discussion_url": "https://news.hada.io/topic?id=29499",
+    "summary": "Fairy로 받은 후원 소식을 GitHub 프로젝트에 자동으로 남겨주는 서비스입니다.\nGitHub로 로그인한 뒤 후원 항목을 저장소와 연결해두면, 새로운 후원이 들어올 때마다 README나 원하는 파일에 후원자 이름, 후원 금액, 응원 메시지를 자동으로 기록할 수 있습니다. 어떤 정보를 공개할지는 프로젝트마다 직접",
+    "score": 0,
+    "published_at": "2026-05-14T07:07:00+00:00",
+    "ai_summary": "Fairydust는 Fairy를 통한 후원 소식을 GitHub 프로젝트 README에 자동으로 기록해주는 서비스입니다.\nGitHub 로그인 후 후원 항목을 저장소와 연결하면, 새로운 후원 발생 시 후원자 정보가 README나 원하는 파일에 자동으로 업데이트됩니다.\n이 서비스는 오픈소스 프로젝트의 후원 투명성을 높이고 관리 부담을 줄여 개발자들에게 편의를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29498",
+    "title": "쌍둥이 형제, 해고 몇 분 뒤 정부 데이터베이스 96개 삭제",
+    "url": "https://news.hada.io/topic?id=29498",
+    "discussion_url": "https://news.hada.io/topic?id=29498",
+    "summary": "Muneeb Akhter와 Sohaib Akhter는 해고 직후 남아 있던 계정 접근권을 이용해 미국 정부 데이터베이스 96개를 삭제한 혐의를 받음\n두 사람은 과거 전신사기·컴퓨터 범죄로 유죄를 인정한 뒤, 45개 연방 고객에 서비스를 파는 Washington, DC 회사에 입사함",
+    "score": 0,
+    "published_at": "2026-05-14T06:41:17+00:00",
+    "ai_summary": "쌍둥이 형제가 해고된 직후 기존 계정 접근권을 이용해 미국 정부 데이터베이스 96개를 삭제한 혐의를 받고 있습니다.\n이들은 과거에도 컴퓨터 범죄로 유죄 판결을 받은 전력이 있으며, 이번 사건은 기업 및 정부 시스템의 심각한 보안 취약성을 드러냈습니다.\n퇴사자 계정 관리 및 데이터베이스 접근 제어의 중요성을 강조하며, 철저한 보안 프로토콜 수립의 필요성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Database",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29494",
+    "title": "Claude, 프로그래밍 방식 사용을 &quot;월간 크레딧&quot; 구조로 변경",
+    "url": "https://news.hada.io/topic?id=29494",
+    "discussion_url": "https://news.hada.io/topic?id=29494",
+    "summary": "6월 15일부터 Claude 유료 플랜 사용자는 Agent SDK 등 프로그램 방식 사용량에 쓸 월간 전용 크레딧을 청구할 수 있음\n대상은 Claude Agent SDK, claude -p, Claude Code GitHub Actions, Agent SDK 기반 서드파티 앱임\nSDK와 claude...",
+    "score": 0,
+    "published_at": "2026-05-14T03:34:50+00:00",
+    "ai_summary": "6월 15일부터 Claude 유료 플랜 사용자는 Agent SDK 등 프로그래밍 방식 사용량에 대해 '월간 전용 크레딧' 구조로 변경됩니다.\n이 크레딧은 Claude Agent SDK, claude-p, Claude Code GitHub Actions 및 Agent SDK 기반 서드파티 앱 사용에 적용됩니다.\nLLM API를 활용하는 개발자들은 변경된 과금 모델을 숙지하고 프로젝트 비용 계획에 반영해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29493",
+    "title": "Code w/ Claude에서 발표한 모든 것들",
+    "url": "https://news.hada.io/topic?id=29493",
+    "discussion_url": "https://news.hada.io/topic?id=29493",
+    "summary": "Anthropic의 개발자 컨퍼런스: 온라인과 오프라인으로 진행되며, 오프라인 행사는 샌프란시스코 5/6, 런던 5/19, 도쿄 6/10에 열림. 샌프란 행사에서 19개 세션 영상이 공개됨\nClaude는 더 긴 작업 수행, 장기 메모리, 더 많은 도구 사용...",
+    "score": 0,
+    "published_at": "2026-05-14T02:50:02+00:00",
+    "ai_summary": "Anthropic의 개발자 컨퍼런스 'Code w/ Claude'에서 Claude의 새로운 기능과 개발자 도구들이 다수 발표되었습니다.\nClaude는 이제 더 긴 작업 수행, 향상된 장기 메모리, 그리고 더 많은 도구 사용 능력을 갖추게 되어 에이전트 개발에 유리해졌습니다.\n이번 발표는 LLM을 활용한 애플리케이션 개발의 새로운 가능성과 트렌드를 제시하며 개발자들에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29488",
+    "title": "코드 공장의 구성요소",
+    "url": "https://news.hada.io/topic?id=29488",
+    "discussion_url": "https://news.hada.io/topic?id=29488",
+    "summary": "제가 요즘 1인개발자 팀으로 일하고 있는 방식을 공유하고자 이 글을 써보았습니다. 한국에서도 Agentic Coding으로 토이 프로젝트가 아닌 큰 프로젝트를 수행할 때의 노하우가 활발히 공유되었으면 하는 생각입니다.\n가벼운 요약\n\nClaude Code, Ralph Loop, OpenClaw 등의 모든 도구는 하네스로",
+    "score": 0,
+    "published_at": "2026-05-14T01:30:51+00:00",
+    "ai_summary": "이 글은 1인 개발자가 Agentic Coding을 활용하여 대규모 프로젝트를 효율적으로 수행하는 자신만의 노하우를 공유합니다.\n저자는 Claude Code, Ralph Loop, OpenClaw와 같은 LLM 기반 도구들을 '하네스'로 묶어 활용하는 방식을 설명합니다.\n한국 개발 커뮤니티에서 Agentic Coding을 통한 실제 프로젝트 수행 노하우 공유가 활발해지기를 바라는 의도가 담겨 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29487",
+    "title": "중국 AI 연구소 내부에서 얻은 교훈",
+    "url": "https://news.hada.io/topic?id=29487",
+    "discussion_url": "https://news.hada.io/topic?id=29487",
+    "summary": "중국 주요 AI 연구소들을 직접 방문하고 연구자들과 대화한 경험을 바탕으로, 중미 AI 생태계의 문화적 차이와 그것이 모델 개발에 미치는 영향을 분석한 현장 보고\n중국 연구자들은 개인의 명성보다 최종 모델의 품질 최적화에 집중하는 문화적 성향을 보이며, 핵...",
+    "score": 0,
+    "published_at": "2026-05-14T01:13:02+00:00",
+    "ai_summary": "중국 AI 연구소 방문을 통해 중미 AI 생태계의 문화적 차이를 분석한 보고서입니다.\n중국 연구자들은 개인보다 최종 모델 품질 최적화에 집중하며, 핵심 기술 개발 방식도 다릅니다.\n이는 AI 모델 개발 과정과 결과에 큰 영향을 미칩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29486",
+    "title": "AI 분야의 다음 최대 해자는 &quot;조직&quot;이다",
+    "url": "https://news.hada.io/topic?id=29486",
+    "discussion_url": "https://news.hada.io/topic?id=29486",
+    "summary": "AI 업계에서 제품, 워크플로, 기술적 우위가 빠르게 수렴하고 복제 가능해지면서, 기업의 조직 구조 자체가 가장 강력한 경쟁 해자로 부상\n위대한 기업은 단순히 뛰어난 인재가 모이는 곳이 아니라, 특정 유형의 인재가 비로소 자신을 표현할 수 있게 해주는 조직적 발명품...",
+    "score": 0,
+    "published_at": "2026-05-14T01:01:01+00:00",
+    "ai_summary": "AI 업계에서 제품, 워크플로, 기술이 빠르게 복제 가능해지면서, 기업의 \"조직\" 자체가 강력한 경쟁 해자로 부상했습니다.\n위대한 기업은 단순히 인재를 모으는 것을 넘어, 특정 유형의 인재가 잠재력을 발휘하게 돕는 조직적 발명품입니다.\n효과적인 조직 구조가 AI 시대 성공의 핵심입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29485",
+    "title": "GitHub를 떠나 Forgejo로 이동하기",
+    "url": "https://news.hada.io/topic?id=29485",
+    "discussion_url": "https://news.hada.io/topic?id=29485",
+    "summary": "GitHub를 떠나는 직접 계기는 2026년 4월 장애가 아니라, GitHub 위에서 실행되는 코드와 워크플로의 소유권 문제임\nGitHub는 2025년 8월 이후 자체 CEO 없이 Microsoft CoreAI division에 편입됐고, 코드는 Microsoft AI 조직 산하에 놓이게 됨\nCopilot ...",
+    "score": 0,
+    "published_at": "2026-05-14T00:59:52+00:00",
+    "ai_summary": "사용자는 GitHub를 떠나 Forgejo로 이동했는데, 2026년 4월 장애보다 코드 소유권 문제가 주된 이유였습니다.\nGitHub가 Microsoft CoreAI division에 편입되어 코드가 MS AI 조직 산하에 놓인 점이 우려를 낳았습니다.\n개발 도구의 독립성과 데이터 주권의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29484",
+    "title": "내 디지털 스택을 유럽으로 옮겼다",
+    "url": "https://news.hada.io/topic?id=29484",
+    "discussion_url": "https://news.hada.io/topic?id=29484",
+    "summary": "디지털 주권은 데이터 위치와 도구 접근권을 직접 통제하려는 선택이며, 유럽 인프라 중심 스택은 두 달 뒤에도 문제 없이 운영됨\nGoogle Analytics는 Matomo 자체 호스팅으로, Google Workspace와 1Password는 Proton Mail·Proton Pass로 옮겨 데이터 소유권과 프...",
+    "score": 0,
+    "published_at": "2026-05-14T00:56:51+00:00",
+    "ai_summary": "사용자는 데이터 위치 및 도구 접근권을 직접 통제하는 '디지털 주권'을 위해 디지털 스택을 유럽으로 이전했습니다.\nGoogle Analytics를 Matomo 자체 호스팅으로, Google Workspace를 Proton Mail 등으로 대체하여 데이터 소유권과 프라이버시를 강화했습니다.\n유럽 인프라 중심 스택이 두 달 넘게 문제없이 운영되고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29481",
+    "title": "가장 Emacs다운 Bzr 사가",
+    "url": "https://news.hada.io/topic?id=29481",
+    "discussion_url": "https://news.hada.io/topic?id=29481",
+    "summary": "2008년 Emacs는 CVS 이후 후보로 Git과 Bazaar를 검토했고, 벤치마크에서는 Git이 압도적으로 빨랐음\nRichard Stallman은 Bazaar가 GNU 패키지라는 이유로 선택을 확정했고, 기술적 논의는 결정을 바꾸지 못함\n2008~2012년 GitHub가 성장...",
+    "score": 0,
+    "published_at": "2026-05-14T00:30:54+00:00",
+    "ai_summary": "2008년 Emacs는 VCS로 Git과 Bazaar를 검토했고, Git이 훨씬 빨랐습니다.\n그러나 Richard Stallman은 Bazaar가 GNU 패키지라는 이유로 선택을 결정했고, 기술적 논의는 이를 바꾸지 못했습니다.\n2008~2012년 GitHub가 성장할 때 Emacs는 Bazaar를 고수했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29480",
+    "title": "Ruflo - 클로드 코드를 위한 멀티 에이전트 AI 오케스트레이션 플랫폼",
+    "url": "https://news.hada.io/topic?id=29480",
+    "discussion_url": "https://news.hada.io/topic?id=29480",
+    "summary": "클로드 코드에 100개 이상의 특화 에이전트를 조율하는 능력을 부여하는 플랫폼으로, 기존 Claude Flow에서 리브랜딩\nnpx ruvflo init 한 줄이면 에이전트가 스웜으로 자기 조직화하고, 작업마다 학습하며, 세션 간 기억을 유지하고, 다른 머신의 에이...",
+    "score": 0,
+    "published_at": "2026-05-14T00:30:02+00:00",
+    "ai_summary": "Ruflo는 클로드 코드에 100개 이상의 특화 에이전트를 조율하는 능력을 부여하는 멀티 에이전트 AI 오케스트레이션 플랫폼입니다.\n`npx ruvflo init` 한 줄로 에이전트들이 스웜으로 자기 조직화하며, 작업마다 학습하고 세션 간 기억을 유지합니다.\n다른 머신 에이전트와도 통신하는 강력한 AI 개발 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48142251",
+    "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+    "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+    "discussion_url": "https://news.ycombinator.com/item?id=48142251",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-05-14T22:44:16+00:00",
+    "ai_summary": "영국 난민 시스템에서 팔란티어 기술을 교체하여 수백만 파운드를 절감했습니다.\n이는 정부 시스템에서 특정 상용 소프트웨어 의존도를 줄이고 대안을 모색한 사례입니다.\n기술 도입 및 교체 결정이 예산과 효율성에 미치는 중요성을 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48140730",
+    "title": "Amazonbot is finally respecting robots.txt",
+    "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48140730",
+    "summary": "",
+    "score": 115,
+    "published_at": "2026-05-14T20:22:35+00:00",
+    "ai_summary": "아마존 웹 크롤러인 Amazonbot이 마침내 `robots.txt` 파일을 존중하게 되었다는 소식입니다.\n이는 웹사이트 관리자와 개발자들에게 중요한 변화로, 크롤링 제어 및 SEO에 영향을 미칩니다.\n웹 개발자 및 서버 관리자에게 직접적인 관련이 있는 기술 뉴스입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48142108",
+    "title": "A few words on DS4",
+    "url": "https://antirez.com/news/165",
+    "discussion_url": "https://news.ycombinator.com/item?id=48142108",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-05-14T22:29:12+00:00",
+    "ai_summary": "DS4(듀얼쇼크 4) 컨트롤러에 대한 간략한 논평이나 정보로 추정되는 기사입니다.\n게임 개발자, 입력 장치 드라이버 개발자 또는 하드웨어 인터페이스에 관심 있는 개발자에게 관련성이 있습니다.\n컨트롤러 활용, 기능 또는 특정 문제점에 대한 내용일 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48139219",
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "discussion_url": "https://news.ycombinator.com/item?id=48139219",
+    "summary": "",
+    "score": 208,
+    "published_at": "2026-05-14T18:25:09+00:00",
+    "ai_summary": "애플 M5 칩 기반 macOS에서 처음으로 공개된 커널 메모리 손상 취약점 악용 사례에 대한 기사입니다.\nmacOS 보안 연구, 운영체제 개발자 및 시스템 보안 담당자에게 매우 중요한 정보입니다.\n심층적인 시스템 보안 및 취약점 분석 분야에 큰 영향을 미칩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48137145",
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48137145",
+    "summary": "",
+    "score": 454,
+    "published_at": "2026-05-14T15:47:31+00:00",
+    "ai_summary": "RTX 5090 그래픽 카드와 M4 맥북 에어를 사용한 게임 성능에 대한 분석 기사입니다.\n게임 개발자는 특정 하드웨어 환경에서의 성능 최적화 및 타겟 플랫폼 선정에 대한 통찰을 얻을 수 있습니다.\n하드웨어 성능, 게임 호환성 및 애플 플랫폼의 게임 잠재력에 관심 있는 독자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48140529",
+    "title": "Codex is now in the ChatGPT mobile app",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48140529",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-05-14T20:06:14+00:00",
+    "ai_summary": "OpenAI의 코드 생성 모델인 Codex가 ChatGPT 모바일 앱에 통합되었다는 소식입니다.\n개발자들이 모바일 환경에서도 AI 기반 코딩 지원을 더욱 편리하게 이용할 수 있게 됩니다.\nAI/ML, LLM 기술과 개발 생산성 향상에 직접적으로 관련된 매우 중요한 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48138268",
+    "title": "New Nginx Exploit",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "discussion_url": "https://news.ycombinator.com/item?id=48138268",
+    "summary": "",
+    "score": 267,
+    "published_at": "2026-05-14T17:17:48+00:00",
+    "ai_summary": "널리 사용되는 웹 서버인 Nginx의 새로운 취약점 악용 사례에 대한 경고입니다.\n백엔드 개발자, DevOps 엔지니어 및 보안 전문가는 즉각적인 패치 및 보안 강화에 주의해야 합니다.\n웹 서비스의 안정성과 보안에 치명적인 영향을 미칠 수 있는 중요한 보안 이슈입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48140953",
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "discussion_url": "https://news.ycombinator.com/item?id=48140953",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-05-14T20:41:48+00:00",
+    "ai_summary": "테슬라 월 커넥터의 부트로더에서 펌웨어 다운그레이드를 막는 보호 메커니즘을 우회하는 취약점이 발견되었습니다.\n이는 장치 관리 및 보안에 대한 심각한 우려를 제기하며, 펌웨어 수준의 깊은 이해를 요구합니다.\n임베디드 시스템 보안에 관심 있는 개발자에게 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48140541",
+    "title": "RISC-V Router",
+    "url": "https://router.start9.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48140541",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-05-14T20:06:53+00:00",
+    "ai_summary": "RISC-V 아키텍처를 기반으로 라우터를 구축하는 프로젝트는 오픈 소스 하드웨어의 잠재력을 보여줍니다.\n이는 임베디드 시스템, 네트워킹 및 운영체제 개발자에게 흥미로운 프로젝트로, 맞춤형 라우터 솔루션 구축에 대한 심층적인 기술 지식을 다룹니다.\n하드웨어와 소프트웨어의 통합을 통해 특정 요구사항을 충족하는 라우터를 설계하고 구현하는 과정을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48097786",
+    "title": "Porting 3D Movie Maker to Linux",
+    "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48097786",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-05-11T17:17:20+00:00",
+    "ai_summary": "오래된 '3D 무비 메이커' 소프트웨어를 리눅스 환경으로 포팅하는 과정은 기술적인 난관을 극복하는 도전적인 프로젝트입니다.\n이는 역공학, 그래픽스 API 이해, 그리고 크로스 플랫폼 개발 기술을 요구하며 레거시 소프트웨어 현대화에 기여합니다.\n오픈 소스 커뮤니티 기여 및 OS 내부 작동 방식에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48140922",
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+    "discussion_url": "https://news.ycombinator.com/item?id=48140922",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-05-14T20:39:12+00:00",
+    "ai_summary": "arXiv가 AI가 생성한 환각성 참조(hallucinated references)를 인용한 논문에 대해 1년 밴(ban) 정책을 도입했습니다.\n이는 AI를 사용한 연구 논문 작성의 윤리적 문제와 학술 정보의 신뢰성 유지를 강조하는 조치입니다.\n개발자와 연구자들에게 AI 도구 사용 시 정확성 검증의 중요성을 상기시킵니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48137553",
+    "title": "HDD Firmware Hacking",
+    "url": "https://icode4.coffee/?p=1465",
+    "discussion_url": "https://news.ycombinator.com/item?id=48137553",
+    "summary": "",
+    "score": 114,
+    "published_at": "2026-05-14T16:19:29+00:00",
+    "ai_summary": "HDD 펌웨어 해킹은 하드 드라이브의 깊은 내부 작동 방식과 보안 취약점을 탐구하는 기술입니다.\n이는 데이터 복구, 포렌식, 그리고 로우레벨 시스템 보안 연구에 중요한 통찰력을 제공합니다.\n임베디드 시스템 및 보안 전문가에게 매우 관련성이 높으며, 저장 장치의 근본적인 동작을 이해하는 데 필수적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48141732",
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "url": "https://www.openvehicles.com/home",
+    "discussion_url": "https://news.ycombinator.com/item?id=48141732",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-05-14T21:50:17+00:00",
+    "ai_summary": "OVMS는 전기차의 원격 모니터링, 진단 및 제어를 위한 오픈 소스 프로젝트입니다.\n이는 임베디드 시스템, IoT 통신 및 데이터 처리를 아우르는 다영역 기술을 포함하여 다양한 개발자에게 흥미롭습니다.\n자동차 산업 또는 IoT 솔루션 개발에 관심 있는 개발자에게 유용하며, 실제 적용 사례를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48108621",
+    "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+    "url": "https://gynvael.coldwind.pl/?id=372",
+    "discussion_url": "https://news.ycombinator.com/item?id=48108621",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-05-12T14:14:04+00:00",
+    "ai_summary": "이 질문은 `a++ + ++a`와 같은 표현식에서 C/C++ 언어의 미정의 동작(undefined behavior)을 다룹니다.\n연산자 우선순위, 부작용 및 시퀀스 포인트에 대한 깊은 이해를 요구하는 고전적인 문제입니다.\nC/C++ 개발자가 언어의 복잡성과 잠재적 오류를 이해하는 데 중요하며, 언어 설계 원리를 되짚어보게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48142188",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "discussion_url": "https://news.ycombinator.com/item?id=48142188",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-05-14T22:37:40+00:00",
+    "ai_summary": "온타리오 감사관은 의료진이 사용하는 AI 노트 필기 도구가 기본적인 사실을 자주 틀린다고 발표했습니다.\n이는 AI 시스템의 신뢰성과 정확성 문제, 그리고 중요한 분야에서의 AI 적용 한계를 명확히 보여줍니다.\nAI 개발자와 사용자들에게 AI 모델 검증의 중요성과 윤리적 배포의 필요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-05-13/ai-chipmaker-cerebras-said-poised-to-price-ipo-at-185-per-share?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODczNzQxMCwiZXhwIjoxNzc5MzQyMjEwLCJhcnRpY2xlSWQiOiJURVpBQ0RLR1pBTlYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.endVGzrG2TUoxAqNLMDSjsM6mb_EML5ttpWnDsQfXJw",
+    "title": "AI Chipmaker Cerebras Raises $5.55 Billion in Year's Biggest IPO (4 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-13/ai-chipmaker-cerebras-said-poised-to-price-ipo-at-185-per-share?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODczNzQxMCwiZXhwIjoxNzc5MzQyMjEwLCJhcnRpY2xlSWQiOiJURVpBQ0RLR1pBTlYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.endVGzrG2TUoxAqNLMDSjsM6mb_EML5ttpWnDsQfXJw",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-05-13/ai-chipmaker-cerebras-said-poised-to-price-ipo-at-185-per-share?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODczNzQxMCwiZXhwIjoxNzc5MzQyMjEwLCJhcnRpY2xlSWQiOiJURVpBQ0RLR1pBTlYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.endVGzrG2TUoxAqNLMDSjsM6mb_EML5ttpWnDsQfXJw",
+    "summary": "Cerebras raised $5.5 billion in its US IPO at a market valuation of about $40 billion. This was the largest IPO this year so far. The IPO drew orders for more than 20 times the number of shares available. The offering was led by Morgan Stanley, Citigroup, Barclays, and UBS.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "AI 칩 제조업체 Cerebras가 55억 달러 규모의 IPO를 통해 약 400억 달러의 기업 가치를 달성했습니다. 이는 올해 현재까지 가장 큰 규모의 IPO입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/claude-for-small-business",
+    "title": "Claude for Small Business (8 minute read)",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "discussion_url": "https://www.anthropic.com/news/claude-for-small-business",
+    "summary": "Anthropic launched Claude for Small Business, a package of connectors and workflows that embeds Claude into tools like QuickBooks, PayPal, HubSpot, Google Workspace, and Microsoft 365.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Anthropic이 소상공인을 위한 'Claude for Small Business'를 출시했습니다. 이 솔루션은 Claude를 QuickBooks, PayPal, HubSpot, Google Workspace, Microsoft 365 등 다양한 비즈니스 도구에 통합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://econlab.substack.com/p/anthropic-beats-openai",
+    "title": "Anthropic beats OpenAI on business adoption (4 minute read)",
+    "url": "https://econlab.substack.com/p/anthropic-beats-openai",
+    "discussion_url": "https://econlab.substack.com/p/anthropic-beats-openai",
+    "summary": "Anthropic has passed OpenAI in business adoption. More businesses used Anthropic than OpenAI in April. Anthropic has quadrupled business adoption over the last year, while OpenAI grew business adoption by only 0.3%. The pace of development in the AI industry is overriding the typical forces of vendor stickiness.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Anthropic이 비즈니스 채택률에서 OpenAI를 추월했습니다. 지난 1년간 Anthropic의 비즈니스 채택은 4배 증가한 반면, OpenAI는 0.3% 증가했습니다. AI 산업의 빠른 발전 속도가 기존 벤더 고착화 현상을 능가하고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html?unlocked_article_code=1.iVA.AOeV.mbXsnHhHx-oW&smid=url-share",
+    "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving AI (5 minute read)",
+    "url": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html?unlocked_article_code=1.iVA.AOeV.mbXsnHhHx-oW&smid=url-share",
+    "discussion_url": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html?unlocked_article_code=1.iVA.AOeV.mbXsnHhHx-oW&smid=url-share",
+    "summary": "Recursive Superintelligence has raised more than $650 million at a valuation of more than $4 billion to build AI that can improve itself with little or no help from human developers. Its seven co-founders include notable researchers from many of the industry's leading AI companies. Many of these researchers specialize in AI systems that can run for long periods in pursuit of goals. While the researchers are bullish on the idea of AIs recursively improving themselves, the current technology is a ",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Recursive Superintelligence가 40억 달러 이상의 가치로 6억 5천만 달러 이상을 유치했습니다. 이들은 인간 개발자의 도움 없이 스스로 개선할 수 있는 AI를 구축하는 것을 목표로 하며, 업계 선두 AI 기업의 저명한 연구자들이 공동 창업자로 참여하고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/building-codex-windows-sandbox/",
+    "title": "How OpenAI Built the Codex Windows Sandbox (19 minute read)",
+    "url": "https://openai.com/index/building-codex-windows-sandbox/",
+    "discussion_url": "https://openai.com/index/building-codex-windows-sandbox/",
+    "summary": "OpenAI detailed the engineering behind Codex's Windows sandbox, which constrained local commands, file access, and networking permissions while still allowing coding agents to operate effectively on developer machines.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "OpenAI는 Codex의 Windows 샌드박스 구축 과정을 상세히 설명했습니다. 이 샌드박스는 코딩 에이전트가 개발자 머신에서 효과적으로 작동하면서도 로컬 명령, 파일 접근, 네트워크 권한을 제한하도록 설계되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/ai-gateway-production-index",
+    "title": "AI Gateway Production Trends (8 minute read)",
+    "url": "https://vercel.com/blog/ai-gateway-production-index",
+    "discussion_url": "https://vercel.com/blog/ai-gateway-production-index",
+    "summary": "Vercel analyzed seven months of AI Gateway production traffic spanning hundreds of models and over 200,000 teams. The report showed rapid growth in agentic workloads, increasing adoption of open-source models, and heavy multi-model routing in large-scale deployments.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Vercel은 AI 게이트웨이의 7개월간 프로덕션 트래픽을 분석했습니다. 보고서는 에이전트 워크로드의 급속한 성장, 오픈소스 모델 채택 증가, 대규모 배포에서의 다중 모델 라우팅 사용을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers",
+    "title": "The economics of superstar AI researchers (12 minute read)",
+    "url": "https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers",
+    "discussion_url": "https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers",
+    "summary": "Superstar researchers at frontier labs can earn over a hundred times more than the average AI postdoc. Researcher quantity doesn't easily make up for quality in the field of AI. Even a 2x researcher can earn far more than the median because their contributions easily scale to billions of users. If they can add something that multiple 1x researchers can't, then it's worth paying a lot to capture it.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "최첨단 연구소의 슈퍼스타 AI 연구자는 일반 AI 박사후 연구원보다 100배 이상 더 많은 수입을 올릴 수 있습니다. AI 분야에서는 연구원의 양이 질을 쉽게 대체할 수 없으며, 소수의 고품질 연구자가 막대한 가치를 창출할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/",
+    "title": "Cline releases open-source agent runtime SDK for coding agents (3 minute read)",
+    "url": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/",
+    "discussion_url": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/",
+    "summary": "@cline/sdk is an open-source framework for building agentic applications. It has a plugin architecture that makes it easy to customize, and the framework has all the features expected from agents, like checkpoints, web fetch, MCPs, cron jobs, subagents, and more. The SDK can be used to run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside products.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "@cline/sdk는 에이전트 기반 애플리케이션 구축을 위한 오픈소스 프레임워크입니다. 플러그인 아키텍처와 체크포인트, 웹 페치 등 에이전트에 필요한 기능들을 제공하며, CI/CD 파이프라인 자동화 또는 제품 내 에이전트 포함 등에 활용될 수 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
+    "title": "Security Architecture Behind Perplexity Computer (2 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
+    "summary": "Perplexity outlined the security systems powering its autonomous Computer agent, including Firecracker microVM isolation, scoped connector permissions, and prompt injection defenses.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Perplexity의 자율 AI 에이전트 'Computer'의 보안 아키텍처를 공개했습니다. Firecracker microVM 격리, 스코프 기반 커넥터 권한, 프롬프트 인젝션 방어 기술이 핵심입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/pytorch-2-12-release-blog/",
+    "title": "PyTorch 2.12 Release Highlights (7 minute read)",
+    "url": "https://pytorch.org/blog/pytorch-2-12-release-blog/",
+    "discussion_url": "https://pytorch.org/blog/pytorch-2-12-release-blog/",
+    "summary": "PyTorch 2.12 shipped major infrastructure updates including faster CUDA eigendecomposition, a unified graph capture API, MX quantization export support, and fused Adagrad optimizers.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "PyTorch 2.12는 주요 인프라 업데이트를 포함합니다. 더 빠른 CUDA 고유값 분해, 통합 그래프 캡처 API, MX 양자화 내보내기 지원, 융합 Adagrad 최적화 기능이 추가되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+    "title": "Microsoft's multi-agent AI system tops Anthropic's Mythos on cybersecurity benchmark (3 minute read)",
+    "url": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+    "discussion_url": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+    "summary": "Microsoft's MDASH AI system uses more than 100 specialized AI agents to work together across multiple AI models to find real-world software vulnerabilities. A set of agents scans code for potential vulnerabilities, and then a separate group of agents debates whether each finding is real and exploitable. A final stage constructs proof-of-concept attacks to confirm the bugs exist. MDASH surpassed Anthropic's Mythos model on the CyberGym benchmark, a test that measures how well AI systems can repro",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Microsoft의 MDASH AI 시스템은 100개 이상의 전문 AI 에이전트가 협력하여 실제 소프트웨어 취약점을 찾아냅니다. 이 시스템은 CyberGym 벤치마크에서 Anthropic의 Mythos 모델을 능가했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash",
+    "title": "We Tested DeepSeek V4 Pro and Flash Against Claude Opus 4.7 and Kimi K2.6 (11 minute read)",
+    "url": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash",
+    "discussion_url": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash",
+    "summary": "DeepSeek V4 Pro scored 77/100 on the FlowGraph spec for $2.25 and lands between Opus 4.7 and Kimi K2.6 in terms of performance.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "DeepSeek V4 Pro와 Flash 모델을 Claude Opus 4.7 및 Kimi K2.6과 비교 테스트했습니다. DeepSeek V4 Pro는 FlowGraph spec에서 77/100점을 기록하며 성능 면에서 Opus 4.7과 Kimi K2.6 사이에 위치했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/ClaudeDevs/status/2054610152817619388",
+    "title": "Paid Claude plans can claim a dedicated monthly credit (2 minute read)",
+    "url": "https://x.com/ClaudeDevs/status/2054610152817619388",
+    "discussion_url": "https://x.com/ClaudeDevs/status/2054610152817619388",
+    "summary": "Paid Claude plans will be able to claim a dedicated monthly credit for programmatic usage starting on June 15.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "유료 Claude 플랜 사용자는 6월 15일부터 프로그램 사용을 위한 전용 월별 크레딧을 신청할 수 있습니다. 이는 Claude API를 사용하는 개발자 및 기업에게 비용 측면에서 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/jukan05/status/2054751022749278651",
+    "title": "Google plans to announce a new Gemini model (1 minute read)",
+    "url": "https://x.com/jukan05/status/2054751022749278651",
+    "discussion_url": "https://x.com/jukan05/status/2054751022749278651",
+    "summary": "The model, which will be announced at Google's annual I/O conference on Tuesday, will roughly be on par with GPT-5.5.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "Google은 연례 I/O 컨퍼런스에서 새로운 Gemini 모델을 발표할 예정입니다. 이 모델은 GPT-5.5와 거의 동등한 수준일 것으로 예상됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves (2 minute read)",
+    "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "discussion_url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "summary": "AutoScientist helps models learn specific capabilities quickly by using an automated approach to conventional fine-tuning.",
+    "score": 0,
+    "published_at": "2026-05-14T23:58:39+00:00",
+    "ai_summary": "AutoScientist는 AI 도구로, 자동화된 미세 조정을 통해 모델이 특정 기능을 빠르게 학습하도록 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
