@@ -1,0 +1,528 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29807",
+    "title": "AI는 기존 기술 역량에 곱셈 효과를 준다",
+    "url": "https://news.hada.io/topic?id=29807",
+    "discussion_url": "https://news.hada.io/topic?id=29807",
+    "summary": "AI 모델은 많은 프로그래밍 작업에서 충분히 쓸 만하지만, 개발자를 대체하기보다 기존 기술 역량을 증폭하는 도구에 가까움\nLLM이 모든 규모의 프로젝트를 완전히 설계·구축해 인간 개발자가 곧 필요 없어질 것이라는 증거는 보이지 않음\nMatt Perry는 M...",
+    "score": 0,
+    "published_at": "2026-05-23T19:35:21+00:00",
+    "ai_summary": "AI 모델은 개발자를 대체하기보다 기존 기술 역량을 증폭시키는 도구에 가깝습니다.\nLLM이 모든 규모의 프로젝트를 완전히 설계·구축하여 인간 개발자가 곧 불필요해질 것이라는 증거는 없습니다.\nAI는 개발자의 생산성과 효율성을 높이는 중요한 역할을 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29801",
+    "title": "블로그를 Ubuntu 16.04에서 10년 동안 운영하다가 FreeBSD로 마이그레이션함",
+    "url": "https://news.hada.io/topic?id=29801",
+    "discussion_url": "https://news.hada.io/topic?id=29801",
+    "summary": "Ubuntu 16.04 LTS 기반 DigitalOcean VPS는 지원 종료와 보안 부담이 있었지만, 종료 시점까지 1491일 업타임을 유지함\n새 서버는 독일 Hetzner VPS와 FreeBSD 14.3으로 옮겼고, 기존 월 $13 서버보다 강한 사양을 월 6유로 미만에 사용함\nJails...",
+    "score": 0,
+    "published_at": "2026-05-23T15:49:54+00:00",
+    "ai_summary": "10년 운영한 Ubuntu 16.04 기반 DigitalOcean VPS를 지원 종료와 보안 부담으로 마이그레이션했습니다.\n새 서버는 독일 Hetzner VPS에 FreeBSD 14.3을 사용하며, 기존 월 $13보다 저렴한 월 6유로 미만에 더 강력한 사양을 제공합니다.\n이는 시스템 관리, 비용 효율화, 그리고 다양한 OS 환경에 대한 인사이트를 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29800",
+    "title": "Microsoft, Claude Code 라이선스 취소 시작",
+    "url": "https://news.hada.io/topic?id=29800",
+    "discussion_url": "https://news.hada.io/topic?id=29800",
+    "summary": "Microsoft는 12월부터 내부 개발자 수천 명에게 Claude Code 접근을 열었지만, 6개월 만에 확대 흐름을 되돌리고 있음\nClaude Code는 프로젝트 매니저·디자이너·기타 직원의 코딩 실험에도 쓰이며 인기를 얻었지만, GitHub Copilot CLI와 경쟁하게 됨\nMic...",
+    "score": 0,
+    "published_at": "2026-05-23T15:46:53+00:00",
+    "ai_summary": "Microsoft는 12월부터 내부 개발자 수천 명에게 제공했던 Claude Code 접근을 6개월 만에 취소하기 시작했습니다.\nClaude Code는 프로젝트 매니저 등 비개발 직군에서도 인기를 얻었지만, GitHub Copilot CLI와 경쟁하게 되었습니다.\n이는 AI 코딩 도구 시장의 전략적 변화와 경쟁 구도를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29797",
+    "title": "DeepSeek이 V4 Pro 가격 할인을 영구화함",
+    "url": "https://news.hada.io/topic?id=29797",
+    "discussion_url": "https://news.hada.io/topic?id=29797",
+    "summary": "DeepSeek-V4-Pro API 가격은 75% 할인 프로모션 종료 뒤에도 공식적으로 기존 가격의 1/4 수준으로 유지됨\n과금은 100만 토큰당 가격을 기준으로 하며, 입력 토큰과 출력 토큰 사용량에 따라 잔액에서 직접 차감됨\n지원 모델은 ...",
+    "score": 0,
+    "published_at": "2026-05-23T12:51:15+00:00",
+    "ai_summary": "DeepSeek-V4-Pro API 가격은 75% 할인 프로모션 종료 후에도 기존 가격의 1/4 수준으로 영구 유지됩니다.\n과금은 100만 토큰당 가격을 기준으로 입력 및 출력 토큰 사용량에 따라 잔액에서 직접 차감됩니다.\n이는 개발자가 AI 서비스를 구축할 때 중요한 비용 효율성 측면에서 긍정적인 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29796",
+    "title": "Antigravity 2.0, OpenSCAD 건축 3D LLM 벤치마크에서 1위",
+    "url": "https://news.hada.io/topic?id=29796",
+    "discussion_url": "https://news.hada.io/topic?id=29796",
+    "summary": "OpenSCAD Pantheon 벤치마크는 참고 이미지 2장과 짧은 프롬프트만으로 AI 코딩 도구가 건축물을 파라메트릭 CAD 코드로 구현하는지 시험함\nGoogle Antigravity 2.0 / Gemini 3.5 Flash High는 품질 4.5/5로 최고점을 받았고, 실제 Pantheon 치수·비문·내부 코퍼 천...",
+    "score": 0,
+    "published_at": "2026-05-23T12:48:15+00:00",
+    "ai_summary": "OpenSCAD Pantheon 벤치마크는 AI 코딩 도구가 이미지와 프롬프트만으로 건축물을 파라메트릭 CAD 코드로 구현하는지 시험합니다.\nGoogle Antigravity 2.0 / Gemini 3.5 Flash High가 품질 4.5/5로 최고점을 받았습니다.\n이는 LLM의 복잡한 코드 생성 능력과 특정 도메인(CAD) 적용 가능성을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29790",
+    "title": "Project Glasswing: 초기 업데이트",
+    "url": "https://news.hada.io/topic?id=29790",
+    "discussion_url": "https://news.hada.io/topic?id=29790",
+    "summary": "Project Glasswing은 강력한 AI 모델 악용에 앞서 중요 소프트웨어를 보호하려는 협력 프로젝트로, 약 50개 파트너가 참여함\nClaude Mythos Preview는 파트너 코드에서 1만 개 이상의 높음·치명적 취약점을 찾았고, 여러 파트너의 발견 속도는 10배 이상 빨라짐",
+    "score": 0,
+    "published_at": "2026-05-23T08:45:51+00:00",
+    "ai_summary": "Project Glasswing은 강력한 AI 모델 악용에 대비하여 중요 소프트웨어를 보호하는 협력 프로젝트이며 약 50개 파트너가 참여합니다.\nClaude Mythos Preview는 파트너 코드에서 1만 개 이상의 높음·치명적 취약점을 발견했습니다.\n이는 AI가 보안 취약점 분석에 큰 도움을 주며 발견 속도를 10배 이상 높일 수 있음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29789",
+    "title": "미래를 위한 Firefox 디자인",
+    "url": "https://news.hada.io/topic?id=29789",
+    "discussion_url": "https://news.hada.io/topic?id=29789",
+    "summary": "Firefox의 새 디자인 Project Nova는 기존 브라우저를 대체하지 않고, 더 일관되고 깔끔한 기반으로 Firefox를 정비하는 작업임\n개인정보 보호 기능을 더 앞에 배치해 내장 무료 VPN, 사생활 보호 브라우징, 데이터 선택, AI 기능 끄기를 찾기 쉽게 만듦\n...",
+    "score": 0,
+    "published_at": "2026-05-23T07:02:49+00:00",
+    "ai_summary": "Firefox의 새 디자인 'Project Nova'는 기존 브라우저를 대체하지 않고 더 일관되고 깔끔한 기반을 제공합니다.\n개인정보 보호 기능을 전면에 배치하여 내장 무료 VPN, 사생활 보호 브라우징, 데이터 선택, AI 기능 끄기 등을 쉽게 찾을 수 있도록 만듭니다.\n이는 웹 브라우저의 UI/UX 개선과 개인정보 보호 강화에 대한 노력을 나타냅니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29787",
+    "title": "리걸 프롬프트에서 Boolean이 중요한 이유",
+    "url": "https://news.hada.io/topic?id=29787",
+    "discussion_url": "https://news.hada.io/topic?id=29787",
+    "summary": "리걸 프롬프트에서 Boolean은 단순한 검색 연산자가 아니라 법률 AI의 판단 구조를 통제하는 핵심 장치다. AND는 모든 필수 요건을 빠짐없이 검토하게 하고, OR는 선택적 요건을 과도하게 요구하지 않게 하며, NOT은 예외·면책·배제 사유를 놓치지 않게 한다. 또한 IF-THEN-ELSE 구조는 사실관계나 증거가 부족한 경우...",
+    "score": 0,
+    "published_at": "2026-05-23T02:46:57+00:00",
+    "ai_summary": "리걸 프롬프트에서 불리언 논리는 법률 AI의 판단 구조를 통제하는 핵심 요소입니다.\nAND, OR, NOT은 필수 요건 검토, 선택적 요구 방지, 예외 사유 누락 방지를 돕습니다.\nIF-THEN-ELSE는 사실관계나 증거 부족 시 AI의 대응 방식을 정의합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29785",
+    "title": "AI로 시장조사할 때 프롬프트에 넣어야 할 제약 조건 4가지",
+    "url": "https://news.hada.io/topic?id=29785",
+    "discussion_url": "https://news.hada.io/topic?id=29785",
+    "summary": "AI 시장조사 활용 시 신뢰도 검증의 중요성\nAI로 시장조사 업무를 빠르게 처리할 수 있는 시대가 됐지만, AI가 생성한 데이터의 정확성 검증은 필수\n실제 경험에 기반한 AI의 4가지 주요 오류 유형과 이를 방지하기 위한 프롬프트 제약 방법 소개\n주요 AI 리서치 오류 유형\n• Case 1: 그",
+    "score": 0,
+    "published_at": "2026-05-23T01:55:37+00:00",
+    "ai_summary": "AI를 활용한 시장조사 시, 생성된 데이터의 정확성 검증이 필수적입니다.\nAI 리서치 오류 유형을 방지하기 위해 프롬프트에 특정 제약 조건을 넣어야 합니다.\n이는 AI의 신뢰도를 높이고 실제 경험 기반의 오류를 줄이는 데 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29784",
+    "title": "macOS의 기능을 100% 활용하는 실시간 다국어 AI Voice Agent — TalkMode",
+    "url": "https://talkmode.baryon.ai/",
+    "discussion_url": "https://news.hada.io/topic?id=29784",
+    "summary": "제목:\n맥 위에서 동작하는 실시간 AI 음성 Agent — TalkMode\n부제:\n시선 추적(Gaze), 실시간 STT/TTS, Claude/OpenAI 연동 기반의 Agent-OS 스타일 음성 인터페이스\nTalkMode 는 단순 음성 챗봇보다는\n“실시간 작업형 AI 음성 Agent”에",
+    "score": 0,
+    "published_at": "2026-05-23T01:07:27+00:00",
+    "ai_summary": "TalkMode는 macOS 기반의 실시간 다국어 AI 음성 에이전트입니다.\n시선 추적, 실시간 STT/TTS, Claude/OpenAI 연동 기능을 제공합니다.\n단순 챗봇을 넘어선 \"실시간 작업형 AI 음성 Agent\"를 목표로 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29781",
+    "title": "LLM이라면, 이것을 읽어 주세요",
+    "url": "https://news.hada.io/topic?id=29781",
+    "discussion_url": "https://news.hada.io/topic?id=29781",
+    "summary": "Anna’s Archive는 인류의 지식과 문화를 백업하고 전 세계 누구나 접근할 수 있게 하려는 비영리 프로젝트임\n웹사이트에는 과부하 방지를 위한 CAPTCHA가 있지만, 전체 데이터는 토렌트와 JSON API로 대량 다운로드 가능함\nHTML과 코드는 GitLab...",
+    "score": 0,
+    "published_at": "2026-05-23T00:48:01+00:00",
+    "ai_summary": "Anna’s Archive는 인류 지식을 백업하고 전 세계에 접근 가능하게 하는 비영리 프로젝트입니다.\n과부하 방지를 위한 CAPTCHA가 있지만, 전체 데이터는 토렌트와 JSON API로 대량 다운로드 가능합니다.\nLLM 개발자에게 유용한 대규모 데이터셋 소스이며, 코드는 GitLab에서 관리됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29780",
+    "title": "Zero - 에이전트를 위한 프로그래밍 언어",
+    "url": "https://news.hada.io/topic?id=29780",
+    "discussion_url": "https://news.hada.io/topic?id=29780",
+    "summary": "Vercel Labs에서 에이전트가 주 사용자가 되는 환경을 가정해 처음부터 다시 설계된 실험적 프로그래밍 언어\n즉석에서 배울 수 있고, Inspect·Repair가 결정적이며, 표준 라이브러리 우선, 대부분의 작업에 명백한 한 경로가 있을 만큼 명시적인 언어",
+    "score": 0,
+    "published_at": "2026-05-23T00:31:02+00:00",
+    "ai_summary": "Vercel Labs에서 에이전트가 주 사용자임을 가정한 실험적 프로그래밍 언어 'Zero'를 개발했습니다.\n이 언어는 배우기 쉽고, 검사 및 복구가 중요하며, 표준 라이브러리 우선을 지향합니다.\n에이전트 개발을 위해 명시적이고 단일 경로를 제공하도록 설계되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29779",
+    "title": "SSH에서 REST로: 보안 중심의 Slack EMR 데이터 파이프라인 현대화",
+    "url": "https://news.hada.io/topic?id=29779",
+    "discussion_url": "https://news.hada.io/topic?id=29779",
+    "summary": "Slack 데이터 플랫폼에는 700개 이상의 SSH 기반 Operator가 일일 검색 인덱싱, 분석 작업 등 핵심 데이터 파이프라인을 운영, 모든 작업이 프로덕션 AWS EMR 클러스터에 직접 SSH 접속을 요구해 광범위한 보안 위협 표면 형성\n이 SSH 의존성은 보안 위험뿐 아니라...",
+    "score": 0,
+    "published_at": "2026-05-23T00:24:01+00:00",
+    "ai_summary": "Slack은 700개 이상의 SSH 기반 Operator를 사용하는 데이터 파이프라인을 현대화했습니다.\n기존 SSH 방식은 AWS EMR 직접 접속으로 광범위한 보안 위협 표면을 생성했습니다.\n보안 강화를 위해 SSH 의존성을 REST 기반으로 전환하는 과정입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29778",
+    "title": "5년과 500만 달러의 교훈: 웹 개발용 새 프로그래밍 언어를 만든 것은 실수였다 | Wasp",
+    "url": "https://news.hada.io/topic?id=29778",
+    "discussion_url": "https://news.hada.io/topic?id=29778",
+    "summary": "Y Combinator 출신 풀스택 웹 프레임워크 Wasp가 5년간 자체 DSL 기반 언어 개발을 시도한 끝에 이를 포기하고 TypeScript로 전환하는 결정을 공개\n&quot;JS판 Rails/Laravel&quot;을 지향하며 React·Node.js·Prisma 위에서 앱 사양을 선언적으로 기술하는 구조로 ...",
+    "score": 0,
+    "published_at": "2026-05-23T00:19:02+00:00",
+    "ai_summary": "Wasp는 5년간 자체 DSL 개발 시도 후 웹 개발 언어로 TypeScript 전환 결정을 발표했습니다.\nJS 생태계에서 Rails/Laravel 같은 풀스택 프레임워크를 지향했지만, DSL의 한계를 깨달은 것입니다.\n이는 개발 언어 선택의 중요성과 프레임워크 설계에 대한 귀중한 교훈을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29775",
+    "title": "LLM 아키텍처의 최근 동향: KV 공유, mHC, 그리고 압축 어텐션",
+    "url": "https://news.hada.io/topic?id=29775",
+    "discussion_url": "https://news.hada.io/topic?id=29775",
+    "summary": "최근 공개된 오픈 웨이트 LLM들이 장문 컨텍스트 효율성에 집중하면서, KV 캐시 크기·메모리 트래픽·어텐션 비용을 줄이기 위한 아키텍처 트릭이 빠르게 늘어나는 중\nGemma 4는 계층 간 KV 공유(cross-layer attention) 와 per-layer emb...",
+    "score": 0,
+    "published_at": "2026-05-23T00:15:02+00:00",
+    "ai_summary": "최근 LLM들은 장문 컨텍스트 효율성 개선을 위해 아키텍처 혁신에 집중하고 있습니다.\nKV 캐시 크기, 메모리 트래픽, 어텐션 비용 절감을 위한 다양한 트릭이 개발 중입니다.\nGemma 4의 계층 간 KV 공유 등이 대표적이며, 이는 LLM 성능 향상에 필수적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48252192",
+    "title": "Don't Roll Your Own",
+    "url": "https://susam.net/do-not-roll-your-own.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48252192",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-05-23T22:25:05+00:00",
+    "ai_summary": "\"직접 구현하지 말라\"는 조언은 소프트웨어 개발의 일반적인 지침입니다.\n이는 기존에 잘 만들어진 솔루션이 있다면 이를 활용하는 것이 더 효율적이고 안전하다는 의미입니다.\n개발자들이 아키텍처 설계나 라이브러리 선택 시 고려해야 할 중요한 원칙입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48247325",
+    "title": "On The <dl> (2021)",
+    "url": "https://benmyers.dev/blog/on-the-dl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48247325",
+    "summary": "",
+    "score": 335,
+    "published_at": "2026-05-23T13:03:43+00:00",
+    "ai_summary": "HTML의 `<dl>` 태그(정의 목록)에 대한 분석이나 사용법을 다루는 기사로 보입니다.\n프론트엔드 개발자들에게 웹 표준 및 마크업 사용에 대한 유용한 정보를 제공할 것입니다.\n올바른 HTML 구조와 시맨틱 웹 개발에 대한 논의가 포함될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48234954",
+    "title": ".NET (OK, C#) finally gets union types",
+    "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48234954",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-05-22T12:28:50+00:00",
+    "ai_summary": "C#에 드디어 유니온 타입이 도입되어 더욱 유연하고 강력한 타입 시스템을 제공합니다.\n이는 개발자들이 데이터를 다루는 방식을 개선하고 코드의 안정성을 높이는 데 기여할 것입니다.\n이 기능은 특히 F# 등 다른 언어에서 성공적으로 사용되던 패턴을 C#에서도 활용할 수 있게 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48252535",
+    "title": "My I3-Emacs Integration",
+    "url": "https://khz.ac/software/i3-integration.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48252535",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-05-23T23:13:42+00:00",
+    "ai_summary": "이 글은 i3 윈도우 매니저와 Emacs 에디터를 통합하여 개발 환경을 최적화하는 방법을 소개합니다.\n사용자의 생산성을 높이기 위한 맞춤형 설정과 스크립트 공유에 중점을 둡니다.\nEmacs 및 i3 사용자들에게 유용한 워크플로우 팁을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48252442",
+    "title": "Bun.Image",
+    "url": "https://bun.com/docs/runtime/image",
+    "discussion_url": "https://news.ycombinator.com/item?id=48252442",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-05-23T22:57:51+00:00",
+    "ai_summary": "Bun 런타임에 `Bun.Image` 기능이 추가되어 이미지 처리 작업을 더욱 효율적으로 수행할 수 있게 됩니다.\n이 새로운 API는 JavaScript/TypeScript 개발자들이 이미지 조작 기능을 손쉽게 활용하도록 돕습니다.\nBun의 빠른 성능과 결합되어 웹 개발에서 이미지 관련 작업을 최적화할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48248954",
+    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48248954",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-05-23T16:24:50+00:00",
+    "ai_summary": "1980년대 스페이스랩 컴퓨터의 회로를 역설계하는 과정을 다루며, 오래된 하드웨어 시스템의 작동 방식을 탐구합니다.\n이는 과거의 컴퓨팅 기술과 공학적 접근 방식에 대한 깊이 있는 이해를 제공합니다.\n임베디드 시스템 및 하드웨어 관련 지식에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48247004",
+    "title": "80386 microcode disassembled",
+    "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48247004",
+    "summary": "",
+    "score": 215,
+    "published_at": "2026-05-23T12:11:43+00:00",
+    "ai_summary": "80386 마이크로코드를 역어셈블하여 CPU의 내부 작동 방식과 명령어 처리 로직을 분석합니다.\n이는 하드웨어와 소프트웨어의 경계를 이해하고 시스템 성능 및 보안 취약점을 탐색하는 데 중요합니다.\n저수준 시스템 프로그래밍 및 컴퓨터 아키텍처에 대한 깊은 지식을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48228106",
+    "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+    "url": "https://uvic-aurora.github.io/acav-manual/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48228106",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-05-21T19:53:51+00:00",
+    "ai_summary": "C++ 추상 구문 트리(AST)를 탐색하는 데 유용한 새로운 도구를 소개하는 글입니다.\n컴파일러, 코드 분석, 언어 도구 개발자에게 매우 높은 관련성을 가집니다.\n새로운 기술 도구 공개 및 개발자 커뮤니티의 관심을 촉구하는 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48199314",
+    "title": "PHP's Oddities",
+    "url": "https://flowtwo.io/post/php%27s-oddities",
+    "discussion_url": "https://news.ycombinator.com/item?id=48199314",
+    "summary": "",
+    "score": 91,
+    "published_at": "2026-05-19T20:41:48+00:00",
+    "ai_summary": "PHP 프로그래밍 언어의 독특하거나 예외적인 특징들을 분석하는 기사입니다.\nPHP 개발자나 언어의 깊은 이해를 원하는 이들에게 유용한 정보가 될 것입니다.\n언어 설계의 미묘한 부분이나 흔한 오해를 다룰 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48246889",
+    "title": "Making deep learning go brrrr from first principles (2022)",
+    "url": "https://horace.io/brrr_intro.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48246889",
+    "summary": "",
+    "score": 145,
+    "published_at": "2026-05-23T11:50:22+00:00",
+    "ai_summary": "딥러닝의 기초 원리부터 시작하여 효율적인 성능 최적화 방법을 다루는 기사입니다.\n머신러닝 엔지니어 및 AI 개발자에게 핵심적인 지식과 실용적인 팁을 제공할 것입니다.\n'brrrr'는 빠른 처리 속도를 의미하며, 실제 구현에서의 성능 향상에 초점을 맞춥니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48246232",
+    "title": "-​-dangerously-skip-reading-code",
+    "url": "https://olano.dev/blog/dangerously-skip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48246232",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-05-23T09:37:16+00:00",
+    "ai_summary": "개발 도구에서 `--dangerously-skip-reading-code`와 같이 위험하게 코드 읽기를 건너뛰는 옵션에 대한 내용입니다.\n특정 개발 상황이나 자동화 스크립트에서 사용될 수 있는 기술적 기능입니다.\n이 옵션의 기능, 용도, 그리고 잠재적인 위험성에 대해 설명할 것으로 보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48207043",
+    "title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+    "url": "https://spader.zone/sp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48207043",
+    "summary": "",
+    "score": 182,
+    "published_at": "2026-05-20T13:05:46+00:00",
+    "ai_summary": "C 언어의 고질적인 문제를 해결하고자 고품질의 매우 이식성 좋은 표준 라이브러리 'sp.h'를 제안합니다. 이는 C 개발 환경 개선과 크로스 플랫폼 개발 편의성을 증대할 핵심적인 변화입니다. 저수준 시스템 프로그래밍 및 언어 개선에 관심 있는 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48251528",
+    "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+    "url": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48251528",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-05-23T21:06:37+00:00",
+    "ai_summary": "신용카드 크기(두께 약 1mm)의 초소형 자가 전원 컴퓨터 개발에 대한 기사입니다. 임베디드 시스템, IoT 장치 등 미래 컴퓨팅 환경에 큰 영향을 줄 수 있는 하드웨어 혁신을 다룹니다. 하드웨어 엔지니어링 및 저전력 시스템 개발에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48245262",
+    "title": "Rubish: A Unix shell written in pure Ruby",
+    "url": "https://github.com/amatsuda/rubish",
+    "discussion_url": "https://news.ycombinator.com/item?id=48245262",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-05-23T06:32:00+00:00",
+    "ai_summary": "순수 Ruby로 구현된 유닉스 쉘 'Rubish'에 대한 내용으로, Ruby 언어의 강력한 시스템 프로그래밍 능력을 보여줍니다. 쉘 개발 과정과 시스템 도구 구현의 실제 사례를 제공합니다. 언어 활용, 시스템 도구 개발 및 스크립팅에 관심 있는 개발자에게 매우 흥미롭습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48222492",
+    "title": "Highest Random Weight in Elixir",
+    "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+    "discussion_url": "https://news.ycombinator.com/item?id=48222492",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-05-21T13:48:29+00:00",
+    "ai_summary": "Elixir 언어에서 'Highest Random Weight(HRW)' 알고리즘의 구현과 활용 방안을 상세히 설명합니다. 이는 분산 시스템의 일관된 해싱 및 부하 분산 전략에 필수적인 기술입니다. 함수형 프로그래밍과 고가용성 시스템 개발에 관심 있는 Elixir 개발자에게 유익한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  }
+]
