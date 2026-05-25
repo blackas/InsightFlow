@@ -1,0 +1,447 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29817",
+    "title": "Google의 IBM화?",
+    "url": "https://news.hada.io/topic?id=29817",
+    "discussion_url": "https://news.hada.io/topic?id=29817",
+    "summary": "Google의 수직 통합은 TSMC 실리콘, TPU, 자체 데이터센터, 모델, 검색엔진까지 가진 강점에서 조직과 제품의 부담으로 바뀐 상태로 보임\nRailway의 GCP 계정 차단은 대형 고객도 예고 없는 자동 삭제와 연락 창구 부재를 겪을 수 있다는 Google Cloud 신뢰 문제를...",
+    "score": 0,
+    "published_at": "2026-05-24T01:46:04+00:00",
+    "ai_summary": "구글의 수직 통합 전략이 강점에서 조직 및 제품 부담으로 변모하고 있습니다.\nGCP의 고객 계정 예고 없는 차단 사례는 클라우드 신뢰성 문제와 소통 부재를 드러냈습니다.\n이는 대형 고객에게도 영향을 미치는 구글 클라우드 사용의 잠재적 위험을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29816",
+    "title": "AI는 아직 수익성이 있는가?",
+    "url": "https://news.hada.io/topic?id=29816",
+    "discussion_url": "https://news.hada.io/topic?id=29816",
+    "summary": "프런티어 AI 기업들의 누적 지출과 매출을 합산하면, 2026년 5월 현재 AI 산업 전체는 아직 수익을 내지 못하고 있음\n산업 전체 누적 지출은 1.4조 달러, 누적 매출은 6,130억 달러이며, 페이지는 로드 이후 AI 지출 카운터도 보여줌\nAm...",
+    "score": 0,
+    "published_at": "2026-05-24T01:04:49+00:00",
+    "ai_summary": "2026년 5월 현재, 주요 AI 기업들의 누적 지출과 매출을 분석한 결과 AI 산업 전체는 아직 수익을 내지 못하고 있습니다.\n전체 누적 지출은 1.4조 달러에 달하며, 누적 매출은 6,130억 달러로 상당한 격차를 보입니다.\n이는 AI 분야의 막대한 투자에도 불구하고 아직 상업적 성공으로 이어지지 않고 있음을 나타냅니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29815",
+    "title": "Electrobun 2.0은 Rust 재작성으로 인해 Bun에서 분리될 예정",
+    "url": "https://news.hada.io/topic?id=29815",
+    "discussion_url": "https://news.hada.io/topic?id=29815",
+    "summary": "Electrobun 2.0은 yt-dlp가 내린 결정과 비슷하게 Bun의 Rust 재작성 때문에, Bun 의존을 줄이는 방향으로 바뀌며, 런타임 의존 구조도 달라질 예정임\n분리 결정에는 Anthropic이 인간 리뷰, 합리적인 롤아웃, 안정화 과정을 충분히 거치지 않는다...",
+    "score": 0,
+    "published_at": "2026-05-24T01:00:45+00:00",
+    "ai_summary": "Electrobun 2.0은 Bun의 Rust 재작성으로 인한 변경 때문에 Bun 의존성을 줄이고 분리될 예정입니다.\n이는 yt-dlp의 이전 결정과 유사하며, 런타임 의존 구조에도 상당한 변화를 가져올 것입니다.\nAnthropic의 불충분한 안정화 과정이 이러한 분리 결정에 영향을 미쳤다는 언급도 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48258015",
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "url": "https://audiomass.co/?multitrack=1",
+    "discussion_url": "https://news.ycombinator.com/item?id=48258015",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-05-24T15:25:43+00:00",
+    "ai_summary": "Audiomass는 웹 기반의 무료 오픈소스 멀티트랙 오디오 편집기로, Hacker News에 소개되었습니다.\n웹 브라우저 내에서 다양한 오디오 트랙을 편집하고 관리할 수 있는 기능을 제공합니다.\n이는 웹 기술을 활용한 오디오 처리 및 편집 도구 개발에 관심 있는 개발자들에게 유용할 것입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48256953",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48256953",
+    "summary": "",
+    "score": 395,
+    "published_at": "2026-05-24T13:02:06+00:00",
+    "ai_summary": "DeepSeek reasonix는 높은 캐싱 효율과 낮은 비용을 특징으로 하는 DeepSeek의 네이티브 코딩 에이전트입니다.\n이 에이전트는 개발자들이 코딩 작업을 수행하는 데 도움을 주며, 효율성과 경제성을 동시에 제공합니다.\nAI 기반 코딩 도구의 발전을 보여주며, 개발 워크플로우를 개선하려는 사용자들에게 유용할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48259990",
+    "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+    "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48259990",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-05-24T18:56:09+00:00",
+    "ai_summary": "호주에서 진행된 4일 근무제 연구 결과, 생산성 향상이라는 긍정적인 데이터가 나타났습니다.\n이 연구는 근무 시간 단축이 직원들의 만족도와 업무 효율성 증대로 이어질 수 있음을 시사합니다.\n이는 개발자를 포함한 모든 직업군의 근무 환경 및 미래 노동 방식에 대한 중요한 논의점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48259861",
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48259861",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-05-24T18:39:10+00:00",
+    "ai_summary": "이 기사는 Git 사용의 엄격함으로 인한 피로감(Git Rigour Fatigue)을 줄이는 방법에 대해 다룹니다.\n새로운 버전 관리 시스템 또는 Git 대체 도구인 'Jujutsu'를 활용하여 이러한 문제를 해결할 수 있음을 제시합니다.\nGit의 복잡성에 지친 개발자들에게 효율적인 대안을 소개하며 워크플로우 개선에 도움을 줄 것입니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48258684",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "discussion_url": "https://news.ycombinator.com/item?id=48258684",
+    "summary": "",
+    "score": 266,
+    "published_at": "2026-05-24T16:31:29+00:00",
+    "ai_summary": "AI 칩 생산 비용에서 메모리가 차지하는 비중이 거의 2/3에 달하고 있습니다.\n이는 AI 하드웨어의 높은 비용을 설명하며, 메모리 기술의 중요성을 부각합니다.\nAI 모델 최적화 및 인프라 비용에 관심 있는 개발자에게 중요한 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48195698",
+    "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+    "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+    "discussion_url": "https://news.ycombinator.com/item?id=48195698",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-05-19T16:40:03+00:00",
+    "ai_summary": "Go 1.24에서 HTTP/2 Cleartext를 서버에 활용하는 방법에 대한 내용입니다.\n이는 Go 언어로 백엔드 서비스를 개발하는 개발자에게 유용한 기술 정보입니다.\n네트워크 프로토콜과 서버 구현에 대한 실질적인 가이드를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48256912",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "discussion_url": "https://news.ycombinator.com/item?id=48256912",
+    "summary": "",
+    "score": 156,
+    "published_at": "2026-05-24T12:55:53+00:00",
+    "ai_summary": "LLM 에이전트가 백엔드 코드 생성에서 겪는 '제약 조건 붕괴' 현상에 대한 분석입니다.\n이는 LLM을 활용한 코드 자동화의 한계와 취약성을 지적합니다.\nAI/ML 개발자 및 LLM 기반 도구를 사용하는 개발자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48256475",
+    "title": "Mastering Dyalog APL",
+    "url": "https://mastering.dyalog.com/README.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48256475",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-05-24T11:42:15+00:00",
+    "ai_summary": "고유한 배열 지향 프로그래밍 언어인 Dyalog APL을 마스터하는 방법에 대한 내용입니다.\nAPL의 특징과 강력한 기능을 학습하는 과정을 다룹니다.\n특정 언어에 깊이 파고들고자 하는 개발자에게 유용한 자료입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48253386",
+    "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+    "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48253386",
+    "summary": "",
+    "score": 410,
+    "published_at": "2026-05-24T01:21:13+00:00",
+    "ai_summary": "마이크로소프트가 \"현재까지 발견된 가장 초기 DOS 소스 코드\"를 오픈소스화했습니다.\n이는 운영체제 역사와 초기 컴퓨팅 시스템에 대한 귀중한 자료입니다.\n컴퓨터 과학 역사 및 저수준 시스템에 관심 있는 개발자들에게 흥미로운 소식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48231547",
+    "title": "Build Adafruit projects right from Firefox",
+    "url": "https://www.firefox.com/en-US/landing/adafruit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48231547",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-05-22T03:13:07+00:00",
+    "ai_summary": "Adafruit 프로젝트를 파이어폭스 브라우저에서 직접 빌드할 수 있는 기능에 대한 내용입니다.\n이는 임베디드 개발 워크플로우를 간소화하고 접근성을 높입니다.\n하드웨어 프로젝트와 브라우저 기반 개발 도구에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48236791",
+    "title": "Noroboto: Lying Fonts and Mitigation in Rust",
+    "url": "https://tritium.legal/blog/noroboto",
+    "discussion_url": "https://news.ycombinator.com/item?id=48236791",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-05-22T14:55:37+00:00",
+    "ai_summary": "폰트 보안 취약점 'Lying Fonts'를 설명하고, Rust 언어를 사용하여 이러한 위협을 완화하는 방법을 제시합니다.\n폰트의 오작동이나 악의적인 사용을 방지하기 위한 기술적 접근을 다룹니다.\n개발자들이 시스템 보안과 폰트 처리 시 주의해야 할 점을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48226697",
+    "title": "Getting an old Computer online with Android Ethernet tethering",
+    "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48226697",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-05-21T18:03:50+00:00",
+    "ai_summary": "오래된 컴퓨터를 안드로이드 폰의 이더넷 테더링 기능을 활용하여 인터넷에 연결하는 방법을 소개합니다.\n구형 하드웨어에서 네트워크 연결 문제를 해결하기 위한 실용적인 팁과 과정을 설명합니다.\n특별한 환경에서 인터넷 접근이 필요한 개발자나 기술 사용자에게 유용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48255593",
+    "title": "Greg Brockman interview [video]",
+    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48255593",
+    "summary": "",
+    "score": 166,
+    "published_at": "2026-05-24T08:29:38+00:00",
+    "ai_summary": "OpenAI의 공동 설립자 그렉 브록만의 인터뷰 영상으로, AI와 LLM 분야의 최신 동향 및 미래 비전에 대한 심층적인 통찰을 제공합니다.\n인공지능 기술의 발전 방향과 OpenAI의 전략, 그리고 관련 산업에 대한 견해를 들을 수 있습니다.\nAI/ML 개발자 및 업계 종사자에게 매우 유용한 정보가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48256597",
+    "title": "Childhood Computing",
+    "url": "https://susam.net/childhood-computing.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48256597",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-05-24T12:07:34+00:00",
+    "ai_summary": "어린 시절 컴퓨터와의 경험을 회상하며 초기 컴퓨팅 환경과 기술 발전의 역사를 탐구합니다.\n컴퓨터가 개인의 삶과 사회에 미친 영향을 다루며, 과거의 프로그래밍 학습 경험 등을 포함할 수 있습니다.\n현재 기술의 기반을 이해하고 영감을 얻으려는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48253186",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48253186",
+    "summary": "",
+    "score": 262,
+    "published_at": "2026-05-24T00:51:32+00:00",
+    "ai_summary": "사기꾼들이 마이크로소프트의 내부 계정을 악용하여 스팸 링크를 발송하고 있다는 보안 경고 기사입니다.\n이 사태는 주요 플랫폼의 보안 취약점과 피싱 공격의 심각성을 보여줍니다.\n개발자와 일반 사용자 모두에게 보안 의식을 높이고 경각심을 일깨우는 중요한 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48256565",
+    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "url": "https://apple.github.io/ml-pico/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48256565",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-05-24T12:01:24+00:00",
+    "ai_summary": "지각적 이미지 코덱과 학습 기반 이미지 압축 기술에서 실질적으로 중요한 요소들을 다루는 기술 기사입니다.\n효율적인 이미지 압축 알고리즘 개발 및 적용에 대한 깊이 있는 분석을 제공합니다.\nAI/ML, 컴퓨터 비전, 그래픽스 분야 개발자들에게 매우 유용한 정보가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48253060",
+    "title": "Wake up! 16b",
+    "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48253060",
+    "summary": "",
+    "score": 403,
+    "published_at": "2026-05-24T00:30:50+00:00",
+    "ai_summary": "이 기사는 'Wake up! 16b'라는 암시적인 제목으로, 새로운 기술 발전이나 중요한 소식을 알리는 것으로 보입니다.\n'16b'는 160억 매개변수와 같은 대규모 AI 모델 또는 새로운 하드웨어 아키텍처를 지칭할 수 있습니다.\n개발자들에게 새로운 트렌드나 성능 향상에 대한 중요성을 강조하며 주목할 것을 촉구하는 내용일 가능성이 높습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48258254",
+    "title": "Ruby for Good",
+    "url": "https://ti.to/codeforgood/rubyforgood",
+    "discussion_url": "https://news.ycombinator.com/item?id=48258254",
+    "summary": "",
+    "score": 108,
+    "published_at": "2026-05-24T15:49:19+00:00",
+    "ai_summary": "이 기사는 Ruby 프로그래밍 언어를 활용하여 사회적 선을 추구하는 프로젝트나 커뮤니티 활동을 다룹니다.\nRuby 개발자들이 재능을 기부하거나 협력하여 공공의 이익을 위한 소프트웨어를 만드는 데 초점을 맞출 것입니다.\n오픈 소스 기여와 개발자 커뮤니티의 사회적 영향력에 대한 내용을 포함할 것으로 예상됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48233398",
+    "title": "I keep bouncing off the Scheme language",
+    "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48233398",
+    "summary": "",
+    "score": 127,
+    "published_at": "2026-05-22T08:32:39+00:00",
+    "ai_summary": "이 기사는 개발자가 Scheme 프로그래밍 언어를 배우는 과정에서 겪는 어려움과 좌절감을 다룹니다.\nScheme의 독특한 문법, 패러다임 또는 학습 곡선으로 인해 발생하는 문제점들을 분석할 것으로 보입니다.\n언어 학습 전략이나 특정 프로그래밍 언어의 본질적인 어려움에 대한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48254309",
+    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+    "discussion_url": "https://news.ycombinator.com/item?id=48254309",
+    "summary": "",
+    "score": 294,
+    "published_at": "2026-05-24T04:14:52+00:00",
+    "ai_summary": "이 기사는 Xilinx의 Vivado 2026.1 버전에서 무료 티어에 대한 Linux 지원이 중단되는 이유를 분석합니다.\nFPGA 및 임베디드 시스템 개발자들에게 중요한 영향을 미칠 이 결정의 배경과 잠재적 파급 효과를 다룰 것입니다.\n사용자 커뮤니티의 반응과 대안 마련에 대한 논의도 포함될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48260140",
+    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+    "discussion_url": "https://news.ycombinator.com/item?id=48260140",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-05-24T19:12:46+00:00",
+    "ai_summary": "이 기사는 미국 CBP의 전자 기기 국경 수색 지침(3340-049B)에 대해 상세히 설명합니다.\n해당 지침이 개발자를 포함한 여행객들의 디지털 프라이버시와 보안에 미치는 영향을 분석합니다.\n수색 범위, 개인 데이터 보호의 한계, 그리고 여행 시 개발자들이 취할 수 있는 조치들을 다룰 것으로 예상됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48258194",
+    "title": "Usborne 1980s Computer Books",
+    "url": "https://usborne.com/us/books/computer-and-coding-books",
+    "discussion_url": "https://news.ycombinator.com/item?id=48258194",
+    "summary": "",
+    "score": 152,
+    "published_at": "2026-05-24T15:43:00+00:00",
+    "ai_summary": "이 기사는 1980년대 Usborne 출판사에서 나온 컴퓨터 책들을 회고하며 그 중요성을 다룹니다.\n당시 컴퓨터 교육에 미친 영향, 초창기 개발자들에게 영감을 준 방식 등을 조명할 것입니다.\n초기 컴퓨터 학습 자료와 그 시대의 기술 발전 과정을 엿볼 수 있는 흥미로운 내용이 예상됩니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48259158",
+    "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+    "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48259158",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-05-24T17:18:52+00:00",
+    "ai_summary": "이 기사는 데이터의 출처(좌표)를 모를 때 발생하는 문제를 해결하기 위한 베이즈 모델링 기법을 소개합니다.\n미지의 위치 정보를 추론하고 데이터의 불확실성을 관리하는 통계적 접근 방식을 설명합니다.\n데이터 과학자나 AI/ML 개발자들이 실제 문제 해결에 적용할 수 있는 유용한 방법론을 제시할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  }
+]
