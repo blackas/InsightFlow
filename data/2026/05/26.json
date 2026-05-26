@@ -1,0 +1,681 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29863",
+    "title": "내 최소 메모리 안전 Go rsync가 취약점을 피하는 방법",
+    "url": "https://news.hada.io/topic?id=29863",
+    "discussion_url": "https://news.hada.io/topic?id=29863",
+    "summary": "gokrazy/rsync는 Go로 작성한 최소 rsync 구현으로, 2025년 1월·2026년 5월 공개된 rsync 취약점 12개를 기준으로 검토됨\nGo의 경계 검사와 0 초기화는 힙 오버플로·스택 정보 유출을 panic 또는 무해한 값으로 바꾸지만, panic은 여전히 서비스 거부가 될 수 있음...",
+    "score": 0,
+    "published_at": "2026-05-25T15:23:19+00:00",
+    "ai_summary": "gokrazy/rsync는 Go로 작성한 최소 rsync 구현으로, rsync 취약점 12개를 기준으로 검토됨.\nGo의 경계 검사와 0 초기화는 힙 오버플로·스택 정보 유출을 panic 또는 무해한 값으로 바꾸지만,\npanic은 여전히 서비스 거부가 될 수 있어 주의가 필요함.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29862",
+    "title": "Claude는 당신의 아키텍트가 아니다. 그런 척하게 두지 말라",
+    "url": "https://news.hada.io/topic?id=29862",
+    "discussion_url": "https://news.hada.io/topic?id=29862",
+    "summary": "AI 에이전트의 아키텍처 제안은 유창하고 그럴듯하지만, 실제 판단이라기보다 훈련 데이터의 패턴을 조합한 응답에 가까움\nClaude는 아이디어를 쉽게 긍정하고 설계를 확장하지만, 좋은 아키텍트에게 필요한 “아니오”와 “왜?”를 충분히 수행하지 못함",
+    "score": 0,
+    "published_at": "2026-05-25T14:51:51+00:00",
+    "ai_summary": "AI 에이전트의 아키텍처 제안은 유창하고 그럴듯하지만, 실제 판단보다는 훈련 데이터 패턴 조합에 가까움.\nClaude는 아이디어를 쉽게 긍정하고 설계를 확장하지만, 좋은 아키텍트에게 필요한 '아니오'와 '왜?'를 충분히 수행하지 못함.\n따라서 AI를 실제 아키텍트로 믿기보다 보조 도구로 활용해야 함.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29861",
+    "title": "Constraint Decay: 백엔드 코드 생성에서 LLM 에이전트의 취약성",
+    "url": "https://news.hada.io/topic?id=29861",
+    "discussion_url": "https://news.hada.io/topic?id=29861",
+    "summary": "LLM 에이전트는 느슨한 명세의 코드 생성에는 강하지만, 운영급 백엔드가 요구하는 API 계약·아키텍처·DB·ORM 제약 준수에는 아직 취약함\n동일한 OpenAPI 명세로 기능 요구를 고정하고, 8개 웹 프레임워크의 80개 그린필드 과제와 20개 기능 구현 과제에 같은 동작...",
+    "score": 0,
+    "published_at": "2026-05-25T14:48:50+00:00",
+    "ai_summary": "LLM 에이전트는 느슨한 명세의 코드 생성에 강하지만, 운영급 백엔드의 엄격한 제약 준수에는 아직 취약함.\nAPI 계약, 아키텍처, DB, ORM 제약 등 복잡한 요구사항을 정확히 반영하는 데 어려움을 겪음.\n8개 웹 프레임워크와 100개 과제를 통해 LLM 에이전트의 '제약 조건 부패' 현상을 분석함.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29857",
+    "title": "Show GN: Ueditor - 대용량 파일지원, Markdown/html 미리보기와 AI 기능을 탑재한 Windows 텍스트 에디터",
+    "url": "https://news.hada.io/topic?id=29857",
+    "discussion_url": "https://news.hada.io/topic?id=29857",
+    "summary": "Windows용 텍스트 에디터 Ueditor를 만들고 있습니다.\nWinUI 3로 네이티브 UI를 만들고, 편집 영역은 WebView2 기반 커스텀 코어로 구현했습니다.\n목표는 notepad++ 처럼 강력하지만 보다 단순하고 최근 트렌드에 맞게 git과 마크다운, AI기능을 탑재한 Windows용 작업 에디터입니다.\n현재는 20",
+    "score": 0,
+    "published_at": "2026-05-25T12:23:54+00:00",
+    "ai_summary": "Windows용 텍스트 에디터 Ueditor를 WinUI 3와 WebView2 기반 커스텀 코어로 개발 중입니다.\nnotepad++처럼 강력하면서도 단순하고, git 및 마크다운, AI 기능을 통합한 현대적인 작업 에디터를 목표로 합니다.\n대용량 파일 지원, Markdown/HTML 미리보기, AI 기능 등을 갖춘 편리한 개발 도구입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29854",
+    "title": "‘AI 워싱’: 기업들이 기술 중심으로 리브랜딩하려고 분주함",
+    "url": "https://news.hada.io/topic?id=29854",
+    "discussion_url": "https://news.hada.io/topic?id=29854",
+    "summary": "영국 기업들은 기술 유행에 올라타기 위해 평범한 자동화나 저기술 사업까지 인공지능 전문 기업처럼 포장하려 함\n생성형 AI를 쓰지 않는 기업도 언론에서 AI 기업으로 보이길 원하며, 약한 연결에도 AI 라벨을 붙이려는 압력이 커짐\nAI 워싱",
+    "score": 0,
+    "published_at": "2026-05-25T08:55:04+00:00",
+    "ai_summary": "영국 기업들은 기술 유행에 편승하고자 평범한 자동화나 저기술 사업까지 인공지능 전문 기업처럼 포장하려 합니다.\n생성형 AI를 쓰지 않아도 언론에서 AI 기업으로 보이길 원하며, 약한 연결에도 AI 라벨을 붙이려는 압력이 큽니다.\n이는 'AI 워싱' 현상으로, 기술의 본질과 기업의 실제 역량 간 괴리를 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29850",
+    "title": "Greg Brockman 인터뷰: AI가 곧 폭발적으로 성장할 것! 앞으로 어떤 일이 벌어질까?",
+    "url": "https://news.hada.io/topic?id=29850",
+    "discussion_url": "https://news.hada.io/topic?id=29850",
+    "summary": "Greg Brockman은 OpenAI가 AGI 미션을 달성하려면 비영리 한계를 넘어 영리 법인과 대규모 컴퓨트를 확보해야 했다고 봄\nOpenAI의 기술 전환점은 Dota의 PPO 확장, 언어 모델의 의미 학습, GPT-4 이후 AGI 기준 재검토로 이어짐\nAI 개발은 이미 AI로 가속...",
+    "score": 0,
+    "published_at": "2026-05-25T01:43:33+00:00",
+    "ai_summary": "Greg Brockman은 OpenAI가 AGI 달성을 위해 비영리 한계를 넘어 영리 법인과 대규모 컴퓨트를 확보해야 했다고 설명합니다.\n기술 전환점은 Dota의 PPO 확장, 언어 모델의 의미 학습, GPT-4 이후 AGI 기준 재검토로 이어졌습니다.\nAI 개발은 이미 AI 자체로 가속화되고 있으며, 곧 폭발적인 성장이 예상됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29849",
+    "title": "Flue - 샌드박스 에이전트 프레임워크",
+    "url": "https://news.hada.io/topic?id=29849",
+    "discussion_url": "https://news.hada.io/topic?id=29849",
+    "summary": "TypeScript 기반 에이전트 하네스 프레임워크로, Claude Code·Codex 같은 코딩 에이전트의 사용 경험을 100% 헤드리스·프로그래머블 방식으로 재구성\n사용자가 구축한 에이전트가 클로드 코드를 사용하는 것처럼 자율적으로 문제를 해결하고 작업 완료",
+    "score": 0,
+    "published_at": "2026-05-25T01:01:02+00:00",
+    "ai_summary": "Flue는 TypeScript 기반의 샌드박스 에이전트 하네스 프레임워크입니다.\nClaude Code나 Codex 같은 코딩 에이전트의 사용 경험을 100% 헤드리스, 프로그래머블 방식으로 재구성합니다.\n사용자가 구축한 에이전트가 자율적으로 문제를 해결하고 작업을 완료하도록 돕는 개발 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29847",
+    "title": "Codex, 활용 사례 모음 대폭 확장",
+    "url": "https://news.hada.io/topic?id=29847",
+    "discussion_url": "https://news.hada.io/topic?id=29847",
+    "summary": "OpenAI가 Codex의 활용 사례 페이지를 대폭 개편해, 기존 12개에서 52개의 유스케이스로 확장 공개\n이제 단순한 코딩 보조를 넘어 엔지니어링·디자인·데이터·재무·운영·QA·세일즈 등 전사 팀이 일감을 위임하는 플랫폼으로 포지셔닝이 이동...",
+    "score": 0,
+    "published_at": "2026-05-25T00:51:02+00:00",
+    "ai_summary": "OpenAI가 Codex의 활용 사례 페이지를 대폭 개편하여 기존 12개에서 52개로 확장 공개했습니다.\n단순한 코딩 보조를 넘어 엔지니어링, 디자인, 데이터, 재무 등 전사 팀이 일감을 위임하는 플랫폼으로 포지셔닝이 변경되었습니다.\n이는 Codex가 다양한 산업 분야에서 AI 도구로서 활용될 잠재력을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29845",
+    "title": "Amazon Web Services - 4년 그리고 퇴사",
+    "url": "https://news.hada.io/topic?id=29845",
+    "discussion_url": "https://news.hada.io/topic?id=29845",
+    "summary": "AWS에서의 4년을 보냈고, 조직 변화속에서 해고당했지만, 회사가 예전 모습과 달라져 오히려 다행이라고 생각\nAmazon의 대체 가능한 인력 관점은 물류센터 운영에는 맞을 수 있어도, 시간이 쌓여야 하는 IT 조직 지식과는 잘 맞지 않음\nAWS의 초점은 고객...",
+    "score": 0,
+    "published_at": "2026-05-25T00:45:35+00:00",
+    "ai_summary": "AWS에서 4년간 근무 후 해고되었으나, 변해버린 회사 모습에 오히려 홀가분함을 느낀다는 경험담입니다.\nAmazon의 인력 관리는 물류에는 적합하나, IT 조직의 지식 축적과는 맞지 않아 개발자들에게 좋지 않습니다.\n대규모 클라우드 기업의 조직 문화와 개발자 경력 관리에 대한 중요한 시사점을 던져줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48272354",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "discussion_url": "https://news.ycombinator.com/item?id=48272354",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-05-25T21:45:57+00:00",
+    "ai_summary": "Microsoft Copilot이 잠재적으로 파일을 유출할 수 있는 보안 취약점 또는 오용 사례를 다루는 기사입니다.\nAI 기반 도구가 기업 환경에서 민감한 데이터를 다룰 때 발생할 수 있는 보안 위험을 경고합니다.\n개발자들이 LLM 및 AI 도구를 통합할 때 반드시 고려해야 할 보안 문제의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48273030",
+    "title": "Nobody cracks open a programming book anymore",
+    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48273030",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-05-25T23:21:57+00:00",
+    "ai_summary": "요즘 개발자들이 더 이상 전통적인 프로그래밍 서적을 잘 읽지 않는다는 현상을 탐구하는 기사입니다.\n현대 개발 학습 방식이 온라인 자료, 튜토리얼, 문서, AI 도구 등으로 변화했음을 지적합니다.\n새로운 기술 학습 트렌드와 개발자 교육 및 성장 경로에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48270770",
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "discussion_url": "https://news.ycombinator.com/item?id=48270770",
+    "summary": "",
+    "score": 128,
+    "published_at": "2026-05-25T19:37:57+00:00",
+    "ai_summary": "노르웨이가 2페타바이트 규모의 화웨이 플래시 스토리지를 활용하여 LLM을 훈련하는 프로젝트를 다룹니다.\n대규모 언어 모델 학습을 위한 고성능 스토리지 인프라의 중요성과 실제 구축 사례를 보여줍니다.\nAI/ML 개발자들이 대규모 데이터를 효율적으로 관리하고 LLM을 훈련하는 데 필요한 기술적 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48269580",
+    "title": "Exit IP VPN servers mitigation rollout",
+    "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+    "discussion_url": "https://news.ycombinator.com/item?id=48269580",
+    "summary": "",
+    "score": 239,
+    "published_at": "2026-05-25T17:45:11+00:00",
+    "ai_summary": "VPN 서비스의 'Exit IP'와 관련된 보안 또는 운영 문제를 완화하기 위한 새로운 솔루션 배포에 대한 내용입니다.\nVPN 사용 시 발생할 수 있는 트래킹 및 익명성 이슈를 해결하기 위한 기술적 접근 방식을 설명합니다.\n네트워크 보안, 인프라 관리, 그리고 사용자 프라이버시 보호에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48269961",
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "discussion_url": "https://news.ycombinator.com/item?id=48269961",
+    "summary": "",
+    "score": 560,
+    "published_at": "2026-05-25T18:19:58+00:00",
+    "ai_summary": "캘리포니아의 연령 확인 법안이 리눅스 시스템에 의도치 않은 영향을 주어 논란이 된 사건입니다.\n법안 시행 후 발생한 반발에 따라, 캘리포니아 주가 리눅스를 해당 법안 적용에서 제외하려 합니다.\n기술 정책 및 법률이 오픈소스 소프트웨어 생태계에 미치는 영향과 법적 규제의 중요성을 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48225338",
+    "title": "Show HN: Write your BPF programs in Go, not C",
+    "url": "https://github.com/boratanrikulu/gobee",
+    "discussion_url": "https://news.ycombinator.com/item?id=48225338",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-05-21T16:25:46+00:00",
+    "ai_summary": "BPF(Berkeley Packet Filter) 프로그램을 기존의 C 대신 Go 언어로 작성할 수 있게 해주는 프로젝트를 소개합니다.\nGo 언어의 장점을 활용하여 BPF 개발의 복잡성을 줄이고 생산성을 높이는 새로운 방법을 제시합니다.\n네트워크 프로그래밍, 커널 모듈 개발, 성능 모니터링에 관심 있는 개발자에게 유용한 도구와 접근 방식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48271127",
+    "title": "Hacker News front page as a site",
+    "url": "https://thefrontpage.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48271127",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-05-25T20:12:29+00:00",
+    "ai_summary": "이 프로젝트는 개발자들이 즐겨 찾는 Hacker News의 첫 페이지를 웹사이트 형태로 보여줍니다.\n기술 뉴스, 토론, 프로젝트를 보다 접근하기 쉬운 방식으로 제공합니다.\n개발자들이 최신 정보를 얻고 커뮤니티와 소통하는 데 유용한 도구입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48272393",
+    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+    "url": "https://github.com/tantara/openbrief",
+    "discussion_url": "https://news.ycombinator.com/item?id=48272393",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-05-25T21:50:03+00:00",
+    "ai_summary": "OpenBrief는 로컬 우선(local-first) 방식으로 작동하는 비디오 다운로드 및 요약 도구입니다.\n사용자가 비디오를 다운로드하고, AI/ML 기반으로 핵심 내용을 빠르게 파악하도록 돕습니다.\n개발자에게 유용한 생산성 향상 도구이자 AI 활용 사례를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48240356",
+    "title": "Jensen–Shannon Divergence",
+    "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+    "discussion_url": "https://news.ycombinator.com/item?id=48240356",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-05-22T19:27:27+00:00",
+    "ai_summary": "젠슨-섀넌 발산(Jensen–Shannon Divergence)은 두 확률 분포 간의 유사도를 측정하는 수학적 개념입니다.\n정보 이론, 통계학, 머신러닝 분야에서 데이터 분석 및 모델 비교에 널리 활용됩니다.\nAI/ML 개발자들이 모델 성능 평가와 데이터 이해에 사용하는 중요한 기초 지식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48271270",
+    "title": "Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
+    "url": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48271270",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-05-25T20:24:16+00:00",
+    "ai_summary": "제9순회항소법원이 DOE 대 메타 사건에서 인터넷 플랫폼 면책 조항인 Section 230에 의문을 제기했습니다.\n이는 온라인 플랫폼의 콘텐츠 책임과 규제에 대한 법적 논의를 재점화시켰습니다.\n개발자들이 구축하는 서비스의 법적 프레임워크와 운영 방식에 중대한 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48267126",
+    "title": "C extensions, portability, and alternative compilers",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48267126",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-05-25T14:15:19+00:00",
+    "ai_summary": "C 확장 기능, 이식성 및 대체 컴파일러에 대한 논의는 개발자에게 핵심적인 주제입니다.\nC 언어 코드의 플랫폼 간 호환성과 성능 최적화 방안을 다룹니다.\n시스템 프로그래밍, 라이브러리 개발 및 저수준 최적화에 관심 있는 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48271632",
+    "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
+    "url": "https://github.com/ghetea-patrick/riscrithm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48271632",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-05-25T21:01:10+00:00",
+    "ai_summary": "Riscrithm은 Go 언어로 개발된 직관적인 RISC-V 어셈블러이자 최적화 도구입니다.\nRISC-V 아키텍처를 위한 어셈블리 코드 작성 및 성능 최적화 과정을 지원합니다.\nGo 언어와 저수준 시스템 개발의 결합을 보여주는 유용한 개발자 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48271327",
+    "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+    "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48271327",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-05-25T20:30:25+00:00",
+    "ai_summary": "Yoti의 연령 확인 서비스가 사용자의 얼굴 사진과 기기 지문을 포함한 개인 정보를 제3자와 공유한다는 논란입니다.\n이는 사용자 프라이버시 침해 및 데이터 보안에 대한 심각한 우려를 제기합니다.\n개발자들은 이러한 서비스 통합 시 데이터 처리 방식을 신중히 고려해야 함을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48267829",
+    "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+    "url": "https://www.trychert.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48267829",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-05-25T15:12:33+00:00",
+    "ai_summary": "Y Combinator 스타트업 Chert가 'iMessage용 Twilio'를 표방하며 출시되었습니다.\n이 서비스는 개발자들이 iMessage 플랫폼을 통해 프로그램적으로 메시지를 보내고 받을 수 있도록 API를 제공합니다.\n커뮤니케이션 기능을 앱에 통합하려는 개발자들에게 유용한 새로운 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48231247",
+    "title": "Gnutella: A Protocol Outliving the World That Created It",
+    "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48231247",
+    "summary": "",
+    "score": 201,
+    "published_at": "2026-05-22T02:24:48+00:00",
+    "ai_summary": "Gnutella 프로토콜의 역사와 그것이 탄생한 시대를 넘어 현재까지 지속되는 이유를 분석하는 기사입니다.\n이 분산형 P2P 네트워크 프로토콜의 설계 원칙과 기술적 의미를 조명합니다.\n네트워크 아키텍처 및 분산 시스템에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48248778",
+    "title": "The Skeuomorphism Nobody Talks About [video]",
+    "url": "https://www.youtube.com/watch?v=3Q-G9x315-g",
+    "discussion_url": "https://news.ycombinator.com/item?id=48248778",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-05-23T16:03:08+00:00",
+    "ai_summary": "일반적으로 잘 다루어지지 않는 스큐어모피즘의 형태에 대해 탐구하는 비디오입니다.\n소프트웨어 및 UI 디자인에서 나타나는 숨겨진 스큐어모피즘의 사례와 그 의미를 분석합니다.\n프론트엔드 개발자와 UI/UX 디자이너에게 디자인 철학에 대한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48265056",
+    "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+    "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48265056",
+    "summary": "",
+    "score": 136,
+    "published_at": "2026-05-25T09:43:03+00:00",
+    "ai_summary": "IBM이 세계 최초의 양자 칩 전문 파운드리를 분사합니다.\n이는 양자 컴퓨팅 하드웨어 생산을 전문화하고 가속화하는 중요한 단계입니다.\n미래 컴퓨팅 기술과 양자 컴퓨터 아키텍처에 관심 있는 개발자들에게 주목할 만한 소식입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48221122",
+    "title": "CPPL: A Circuit Prompt Programming Language",
+    "url": "https://arxiv.org/abs/2605.17892",
+    "discussion_url": "https://news.ycombinator.com/item?id=48221122",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-05-21T11:50:56+00:00",
+    "ai_summary": "CPPL은 회로 프롬프트 프로그래밍을 위한 새로운 언어로 보입니다.\n이는 하드웨어 설계 또는 특정 컴퓨팅 회로를 제어하고 프로그래밍하는 데 사용될 수 있습니다.\n저수준 프로그래밍, 하드웨어 가속기 또는 임베디드 시스템 개발자에게 특히 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48272749",
+    "title": "Canada losing top talent as workers head to the U.S.",
+    "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48272749",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-05-25T22:42:41+00:00",
+    "ai_summary": "캐나다의 우수 인재들이 더 나은 기회를 찾아 미국으로 이동하고 있습니다.\n이는 캐나다 기술 산업의 인력 부족을 심화시키고 경쟁력을 약화시킬 수 있습니다.\n개발자들에게는 해외 취업 기회와 시장 동향을 이해하는 데 중요한 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48266906",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48266906",
+    "summary": "",
+    "score": 261,
+    "published_at": "2026-05-25T13:56:39+00:00",
+    "ai_summary": "네덜란드 당국이 사이버 공격을 지원한 혐의로 800대 서버를 압수하고 2명을 체포했습니다.\n이는 사이버 범죄와의 전쟁에서 중요한 성과이며, 서버 보안과 인프라 관리가 얼마나 중요한지를 보여줍니다.\n개발자들은 보안 위협과 방어 전략에 대해 인지해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48270111",
+    "title": "The bootstrapper's EU stack for under €10 per month",
+    "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48270111",
+    "summary": "",
+    "score": 192,
+    "published_at": "2026-05-25T18:37:05+00:00",
+    "ai_summary": "이 기사는 월 10유로 미만으로 유럽에서 서비스를 운영할 수 있는 부트스트래퍼를 위한 기술 스택을 제안합니다.\n저렴한 비용으로 효율적인 개발 및 운영 환경을 구축하는 방법을 다룹니다.\n클라우드 서비스, 인프라, 비용 절감 전략에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/",
+    "title": "Anthropic prepares Mythos 1 for Claude Code and Claude Security (2 minute read)",
+    "url": "https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/",
+    "discussion_url": "https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/",
+    "summary": "Anthropic appears to be moving Claude Mythos to broader availability, with the model now helping protect a wider range of organizations. Traces of the model have already surfaced on Google Cloud and AWS through vulnerability discovery programs. A release for Mythos 1 seems imminent. Claude Opus 4.8 is also rumored to be in the works for release.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Anthropic의 Claude Mythos 1 모델이 곧 출시될 예정이며, Google Cloud 및 AWS를 통해 이미 사용 흔적이 발견되었습니다. 이 모델은 보안 및 코드 관련 작업을 지원하여 더 넓은 범위의 조직을 보호하는 데 기여할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+    "title": "The 2026-07-28 MCP Specification Release Candidate (9 minute read)",
+    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+    "discussion_url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+    "summary": "The release candidate for the next Model Context Protocol (MCP) specification is now available. It is the largest revision of the protocol since launch. The candidate introduces a stateless core that scales on ordinary HTTP infrastructure, extensions, authorization that aligns more closely with OAuth and OpenID Connect deployments, a formal deprecation policy, and many other changes. It contains breaking changes. The final specification will ship on July 28.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "차세대 Model Context Protocol(MCP) 사양의 릴리스 후보가 발표되었습니다. 이 개정판은 HTTP 인프라에서 확장 가능한 무상태 코어, 확장 기능 및 OAuth/OpenID Connect와 연동되는 인증 기능을 도입합니다. 최종 사양은 7월 28일에 출시될 예정이며, 주요 변경 사항들이 포함됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/bytedance-research/Lance",
+    "title": "Lance (Hugging Face Repo)",
+    "url": "https://huggingface.co/bytedance-research/Lance",
+    "discussion_url": "https://huggingface.co/bytedance-research/Lance",
+    "summary": "Lance is a lightweight native unified multimodal model that supports image and video understanding, generation, and editing. It delivers strong performance across image generation, image editing, and video generation benchmarks with just 3B active parameters. The model was trained entirely from scratch within a 128-A100-GPU budget. Examples of clips generated by the model are available in the repository.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Lance는 경량의 네이티브 통합 멀티모달 모델로, 이미지 및 비디오 이해, 생성, 편집을 지원합니다. 30억 개의 파라미터로 이미지 및 비디오 생성 벤치마크에서 뛰어난 성능을 보입니다. 128개의 A100 GPU 예산으로 처음부터 훈련되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems",
+    "title": "Evaluating Multi-Agent Systems at Scale (48 minute read)",
+    "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems",
+    "discussion_url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems",
+    "summary": "OpenAI outlined a macro-evaluation workflow for agentic systems that analyzes patterns across entire populations of traces rather than isolated failures.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "OpenAI는 에이전트 시스템을 위한 매크로 평가 워크플로우를 발표했습니다. 이 워크플로우는 개별 오류가 아닌 전체 트레이스(trace) 집합에서 패턴을 분석합니다. 이를 통해 대규모 에이전트 시스템의 성능을 효과적으로 평가할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "title": "Reasonix (Website)",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "discussion_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "summary": "Reasonix is a DeepSeek-native coding agent for the terminal. It is engineered around prefix-cache stability and designed to be left running. Token costs stay low across long sessions.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Reasonix는 터미널용 DeepSeek 기반 코딩 에이전트입니다. 이 에이전트는 프리픽스 캐시 안정성을 중심으로 설계되어 장시간 실행 가능하며, 긴 세션 동안 토큰 비용을 낮게 유지합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability",
+    "title": "Anthropic's march to profitability (3 minute read)",
+    "url": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability",
+    "discussion_url": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability",
+    "summary": "Anthropic is on track to do $10.9 billion in Q2 revenue, up from $4.8 billion in Q1, growing faster right now than Zoom did at the peak of the pandemic. The thing that flipped them to profit is compute getting cheaper, 71 cents of compute per revenue dollar in Q1, 56 cents in Q2. Claude Code on its own is at $2.5 billion in revenue, and the company expects to clear $559 million in profit just in time for its October IPO. The \"AI labs burn money forever\" story finally has a hole in it.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Anthropic은 2분기 매출 109억 달러를 기록하며 빠르게 성장하고 있으며, 10월 IPO를 앞두고 5억 5천9백만 달러의 이익을 예상합니다. 컴퓨팅 비용 하락이 수익성 전환의 핵심 요인으로 작용했으며, 특히 Claude Code가 25억 달러의 매출을 기여했습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
+    "title": "Bumblebee Goes Open Source (1 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
+    "summary": "Perplexity open-sourced Bumblebee, a read-only security scanner that identifies risky packages, extensions, and AI tool configurations on developer machines.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Perplexity가 개발자 머신용 보안 스캐너 'Bumblebee'를 오픈소스화했습니다. 이 스캐너는 개발자 머신의 위험한 패키지, 확장 기능, AI 도구 구성을 식별합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/",
+    "title": "Anthropic plans Claude memory update with new Memory Files (2 minute read)",
+    "url": "https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/",
+    "discussion_url": "https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/",
+    "summary": "Memory Files distributes notes across multiple structured documents organized by topic, project, or context.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Anthropic의 Claude에 'Memory Files' 업데이트가 계획 중입니다. 이 기능은 노트를 주제, 프로젝트 또는 맥락별로 정리된 여러 구조화된 문서에 분산 저장합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/_mohansolo/status/2058740603563966758",
+    "title": "Gemini 3.5 Flash (Low) (1 minute read)",
+    "url": "https://x.com/_mohansolo/status/2058740603563966758",
+    "discussion_url": "https://x.com/_mohansolo/status/2058740603563966758",
+    "summary": "Gemini 3.5 Flash (Low) generates around 45% fewer tokens than Gemini 3.5 Flash (Medium) and generally outperforms Gemini 3.5 Flash (High) on SWE tasks.",
+    "score": 0,
+    "published_at": "2026-05-26T00:06:45+00:00",
+    "ai_summary": "Gemini 3.5 Flash (Low)는 Gemini 3.5 Flash (Medium)보다 토큰 생성량이 약 45% 적습니다. 이 모델은 SWE(소프트웨어 엔지니어링) 작업에서 Gemini 3.5 Flash (High)보다 일반적으로 더 나은 성능을 보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
