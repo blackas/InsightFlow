@@ -1,0 +1,573 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29882",
+    "title": "중국 딥시크, V4-Pro API 75% 영구 가격 인하 단행",
+    "url": "https://news.hada.io/topic?id=29882",
+    "discussion_url": "https://news.hada.io/topic?id=29882",
+    "summary": "중국 AI 스타트업 딥시크가 주력 AI 모델인 'V4-Pro'의 이용 가격을 75% 영구 인하하면서 글로벌 AI 가격 전쟁과 시장 변화를 예고하고 있습니다.\n\n\n전문 번역\n중국의 AI 스타트업 딥시크(DeepSeek)가 지금까지의 인공지능 경쟁 중 가장 대담한 가격 책정 조치를 단",
+    "score": 0,
+    "published_at": "2026-05-26T02:02:03+00:00",
+    "ai_summary": "중국 AI 스타트업 딥시크가 주력 AI 모델 'V4-Pro'의 API 가격을 75% 영구 인하했습니다.\n이는 글로벌 AI 모델 시장의 가격 경쟁을 심화시키며, 서비스 비용 효율성에 큰 변화를 예고합니다.\n개발자들은 더 저렴한 비용으로 강력한 AI 모델을 활용할 기회를 얻게 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29879",
+    "title": "영원한 Sloptember",
+    "url": "https://news.hada.io/topic?id=29879",
+    "discussion_url": "https://news.hada.io/topic?id=29879",
+    "summary": "AI 에이전트는 프로그래밍을 수행하기보다 프로그래밍의 분포를 흉내 내며, 깨진 출력은 점점 더 알아보기 어려워짐\ntinygrad 일부 작성과 USB &lt;-&gt; PCIe 칩 리버스에 써봤지만, 직접 했을 때 더 낫고 빨랐을 수 있다는 의심이 남음\n에이전트는 초반...",
+    "score": 0,
+    "published_at": "2026-05-26T01:38:50+00:00",
+    "ai_summary": "AI 에이전트가 프로그래밍 수행보다 분포를 흉내 내며 부정확하고 깨진 출력을 생성하는 문제점을 지적합니다.\ntinygrad 작성 등 실제 사용 경험에서, 직접 코딩하는 것이 더 낫고 빠를 수 있다는 의구심이 제기됩니다.\nAI 에이전트의 현 실용성에 대한 비판적 시각을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29875",
+    "title": "한글 점자 변환 도구 braillify, 2024 개정 한국 점자 규정 100% 준수",
+    "url": "https://news.hada.io/topic?id=29875",
+    "discussion_url": "https://news.hada.io/topic?id=29875",
+    "summary": "braillify가 드디어\n2024 개정 한국 점자 규정 테스트 케이스 2,419개를 모두 통과했습니다\n전체 테스트 100% 통과\n한글점자와 수학점자 테스트 모두 성공입니다\n물론 아직 완벽하다고 말하기는 어렵습니다\n현실에는 언제나 edge case가 있고, 규정 예제 자체가 애매하거나 수정이 필",
+    "score": 0,
+    "published_at": "2026-05-26T01:32:02+00:00",
+    "ai_summary": "한글 점자 변환 도구 'braillify'가 2024 개정 한국 점자 규정의 2,419개 테스트 케이스를 100% 통과했습니다.\n한글 점자와 수학 점자 변환에서 높은 정확성을 확보하여, 점자 정보 접근성 향상에 기여할 것으로 기대됩니다.\n아직 완벽하다고는 할 수 없지만, 중요한 진전을 이룬 오픈소스 프로젝트입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29873",
+    "title": "CodeGraph - AI 코딩 에이전트를 위한 코드 지식 그래프",
+    "url": "https://news.hada.io/topic?id=29873",
+    "discussion_url": "https://news.hada.io/topic?id=29873",
+    "summary": "사전 인덱싱된 시맨틱 코드 지식 그래프로 Claude Code, Codex, Cursor 등의 코드 탐색을 가속화\n평균 35% 저렴하고, 토큰을 59% 적게 사용하며, 49% 빠르고, 도구 호출을 70% 적게 함\n기존 방식에서...",
+    "score": 0,
+    "published_at": "2026-05-26T00:31:02+00:00",
+    "ai_summary": "CodeGraph는 AI 코딩 에이전트를 위한 사전 인덱싱된 시맨틱 코드 지식 그래프 솔루션입니다.\nClaude Code, Codex, Cursor 등 기존 에이전트의 코드 탐색을 가속화하며, 비용은 35% 절감하고 토큰 사용량은 59% 줄입니다.\n이는 AI 기반 개발 도구의 효율성과 성능을 크게 향상시킬 잠재력을 가집니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29872",
+    "title": "병목은 &quot;조직&quot;에 있다",
+    "url": "https://news.hada.io/topic?id=29872",
+    "discussion_url": "https://news.hada.io/topic?id=29872",
+    "summary": "AI 코딩 도구 도입으로 코드 작성 속도는 빨라졌지만, 조직이 실제로 가치를 더 빠르게 전달하는지는 분명하지 않음\n마이크로서비스 성공을 위한 기반인 엔지니어링 인에이블먼트, 가드레일, 자동화 테스트, 적극적 오너십, 가벼운 거버넌스가 AI...",
+    "score": 0,
+    "published_at": "2026-05-26T00:23:02+00:00",
+    "ai_summary": "AI 코딩 도구 도입에도 불구하고 조직이 가치를 더 빠르게 전달하는지는 불분명하다.\n마이크로서비스 성공의 기반인 엔지니어링 인에이블먼트, 가드레일 등이 중요하다.\n기술적 속도 향상과 조직적 병목 현상 사이의 간극을 다루는 기사이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29871",
+    "title": "nb-cli - AI 에이전트와 노트북 자동화를 위한 CLI",
+    "url": "https://news.hada.io/topic?id=29871",
+    "discussion_url": "https://news.hada.io/topic?id=29871",
+    "summary": "AI 코딩 에이전트가 Jupyter 노트북을 아티팩트로 다룰 수 있도록 설계된 실험적 오픈소스 CLI 도구로, Rust 기반으로 구현되어 빠르고 안정적인 노트북 조작을 지원\n.ipynb JSON 구조가 자동화·LLM 처리에 적합하지 않다는 문제를 해결하기 위해, nbformat 사...",
+    "score": 0,
+    "published_at": "2026-05-26T00:20:01+00:00",
+    "ai_summary": "`nb-cli`는 AI 에이전트와 노트북 자동화를 위한 Rust 기반의 실험적 CLI 도구이다.\nJupyter 노트북을 아티팩트로 다루며, 빠르고 안정적인 노트북 조작을 지원한다.\n`.ipynb` JSON 구조의 자동화 및 LLM 처리 문제를 해결하고자 설계되었다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29870",
+    "title": "AI를 사용해 더 나은 코드를 더 천천히 작성하기",
+    "url": "https://news.hada.io/topic?id=29870",
+    "discussion_url": "https://news.hada.io/topic?id=29870",
+    "summary": "AI 코딩은 저품질 코드를 빠르게 대량 생성하는 방식뿐 아니라, PR을 깊게 검토해 고품질 코드를 천천히 만드는 데도 활용 가능함\nLLM 에이전트는 코드베이스에서 버그 탐지에 강하지만, 실제 난점은 발견한 항목의 우선순위 지정과 검증에 있음\n여러 모델...",
+    "score": 0,
+    "published_at": "2026-05-26T00:15:42+00:00",
+    "ai_summary": "AI 코딩은 빠른 저품질 코드 생성보다, 고품질 코드를 천천히 만드는 데 활용될 수 있다.\nLLM 에이전트는 버그 탐지에 강하지만, 우선순위 지정과 검증이 관건이다.\nAI를 활용하여 코드 품질을 향상시키는 새로운 개발 패러다임을 제안한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48238703",
+    "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+    "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48238703",
+    "summary": "",
+    "score": 145,
+    "published_at": "2026-05-22T17:17:43+00:00",
+    "ai_summary": "제공된 기사 요약이 없어 구체적인 내용 파악이 어렵습니다.\n제목은 Adobe 및 Microsoft를 우회한 Git 기반 책 생산 파이프라인 구축에 대한 내용입니다.\nDevOps, 툴링, 자동화 등 개발자에게 매우 흥미로운 주제일 것으로 예상됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48285592",
+    "title": "Big tech's anti-labor playbook has come for Wikipedia",
+    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+    "discussion_url": "https://news.ycombinator.com/item?id=48285592",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-05-26T20:33:24+00:00",
+    "ai_summary": "거대 기술 기업의 반노동 정책이 위키백과에도 영향을 미치고 있습니다.\n이는 기술 기업들이 비영리 플랫폼에서도 노동 관행을 어떻게 적용하는지 보여줍니다.\n결과적으로 위키백과의 운영 방식과 자원봉사자 커뮤니티에 변화를 가져올 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48263560",
+    "title": "C array types are weird",
+    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48263560",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-05-25T05:05:11+00:00",
+    "ai_summary": "이 기사는 C 언어의 배열 타입이 가진 독특하고 혼란스러운 특성들을 다룹니다.\nC 배열의 동작 방식에 대한 심층적인 분석을 제공하여 개발자들이 흔히 겪는 오해를 해소합니다.\nC 언어 개발자에게 매우 유용한 기술적 통찰을 제공합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48285344",
+    "title": "The worst job interview I ever had",
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "discussion_url": "https://news.ycombinator.com/item?id=48285344",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-05-26T20:11:49+00:00",
+    "ai_summary": "이 글은 필자가 경험했던 최악의 면접 경험을 자세히 공유합니다.\n부적절한 면접 관행과 지원자가 겪을 수 있는 어려움을 생생하게 보여줍니다.\n이는 개발자들이 면접을 준비하거나 면접관이 더 나은 면접 환경을 만드는 데 시사하는 바가 큽니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48287007",
+    "title": "Colorado and California Exempt Open Source from Age Attestation",
+    "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+    "discussion_url": "https://news.ycombinator.com/item?id=48287007",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-05-26T22:42:59+00:00",
+    "ai_summary": "콜로라도와 캘리포니아 주가 오픈 소스 프로젝트에 대한 연령 증명 의무를 면제했습니다.\n이는 오픈 소스 개발자들이 법적 부담 없이 활동할 수 있는 환경을 조성합니다.\n해당 법안은 오픈 소스 커뮤니티의 활성화를 돕는 긍정적인 변화입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48222600",
+    "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+    "url": "https://github.com/logannye/rosalind",
+    "discussion_url": "https://news.ycombinator.com/item?id=48222600",
+    "summary": "",
+    "score": 114,
+    "published_at": "2026-05-21T13:55:13+00:00",
+    "ai_summary": "Rosalind는 Rust로 개발된 유전체학 툴킷으로, 노트북에서도 전체 유전체 파이프라인을 실행할 수 있습니다.\n이는 Rust의 고성능 컴퓨팅 능력을 활용하여 복잡한 유전체 분석을 가능하게 합니다.\n과학 컴퓨팅 분야에서 Rust의 잠재력을 보여주는 중요한 사례입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48279453",
+    "title": "Dropbox CEO Drew Houston to step down",
+    "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48279453",
+    "summary": "",
+    "score": 271,
+    "published_at": "2026-05-26T13:18:33+00:00",
+    "ai_summary": "Dropbox의 CEO인 드루 휴스턴이 자리에서 물러난다는 소식입니다.\n이는 클라우드 스토리지 거대 기업의 리더십 변화를 의미하며, 회사의 전략과 문화에 큰 영향을 미칠 수 있습니다.\n기술 업계 리더십 변동에 관심 있는 개발자들에게 흥미로운 소식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48280729",
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+    "url": "https://www.minicor.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48280729",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-05-26T14:57:27+00:00",
+    "ai_summary": "Minicor는 대규모 윈도우 데스크톱 자동화를 위한 도구로, YC P26에서 출시되었습니다.\n개발자는 이를 통해 반복적인 작업을 자동화하고 복잡한 워크플로우를 스크립팅할 수 있습니다.\n생산성 향상, 테스트 자동화 및 비즈니스 프로세스 최적화에 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48281515",
+    "title": "What color is your function? (2015)",
+    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48281515",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-05-26T15:58:32+00:00",
+    "ai_summary": "이 기사는 함수의 '색깔'이라는 은유를 사용하여 동기 및 비동기 함수의 구분을 설명합니다.\n특정 부작용(예: I/O, 예외 발생)을 가진 함수와 그렇지 않은 함수를 명확히 구분하는 중요성을 강조합니다.\n코드의 예측 가능성과 유지보수성을 높이는 프로그래밍 패턴 이해에 필수적인 개념입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48279842",
+    "title": "C64 Basic: Game Map Overhead “Camera View”",
+    "url": "https://retrogamecoders.com/overhead-camera-view/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48279842",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-05-26T13:47:39+00:00",
+    "ai_summary": "C64 베이직을 활용하여 게임 맵의 오버헤드 '카메라 뷰'를 구현하는 방법을 설명합니다.\n제한된 시스템 자원 내에서 타일 기반 맵 데이터를 처리하고 화면에 렌더링하는 기술을 다룹니다.\n레트로 게임 개발의 기초적인 그래픽 처리 원리와 프로그래밍 기법을 이해하는 데 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48278610",
+    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48278610",
+    "summary": "",
+    "score": 236,
+    "published_at": "2026-05-26T12:08:33+00:00",
+    "ai_summary": "아웃소싱과 로컬 AI 솔루션의 결합이 대규모 프론티어 AI 연구소보다 경제적 효율성 면에서 우위에 설 것이라는 주장입니다.\nAI 개발 비용 절감 및 기술 접근성 향상을 위한 새로운 전략적 방향을 제시합니다.\n기업들이 AI 기술을 활용하는 방식의 변화와 관련 시장의 진화를 예측합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48237012",
+    "title": "Use boring languages with LLMs",
+    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48237012",
+    "summary": "",
+    "score": 159,
+    "published_at": "2026-05-22T15:10:22+00:00",
+    "ai_summary": "LLM과 함께 '지루한' (안정적이고 검증된) 프로그래밍 언어를 사용할 것을 권장하는 기사입니다.\n최신 유행 언어보다 안정성, 예측 가능성, 풍부한 생태계가 LLM 통합 프로젝트에 더 유리함을 강조합니다.\n장기적인 유지보수, 팀 협업 및 시스템 안정성 관점에서 언어 선택의 중요성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48229776",
+    "title": "Are we self-sovereign PKI yet?",
+    "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48229776",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-05-21T22:49:37+00:00",
+    "ai_summary": "PKI(공개 키 기반 구조)는 디지털 신원 확인의 핵심이며, 웹 신뢰 모델은 여전히 중앙 집중적입니다.\n자기 주권 PKI는 개인이 자신의 디지털 신원을 완전히 통제하고 관리하는 분산된 시스템을 목표로 합니다.\n현재 기술 발전에도 불구하고 완전한 자기 주권 PKI로 가기까지는 기술적, 거버넌스적 도전 과제가 남아있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48247416",
+    "title": "Opaque Types in Python",
+    "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48247416",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-05-23T13:17:39+00:00",
+    "ai_summary": "파이썬의 '불투명 타입(Opaque Types)'은 함수의 반환 타입을 명확히 드러내지 않고 추상화하는 기법입니다.\n이는 주로 타입 힌트와 함께 사용되어 실제 구현 세부 사항을 숨기고 인터페이스에 집중하게 만듭니다.\n결과적으로 코드를 더 유연하고 유지보수하기 쉽게 만들며, 대규모 프로젝트에서 타입 의존성을 줄이는 데 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48258271",
+    "title": "RescueRadar – UK Emergency Services Flight Tracking Since 2013",
+    "url": "https://rescueradar.co.uk/about",
+    "discussion_url": "https://news.ycombinator.com/item?id=48258271",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-05-24T15:51:29+00:00",
+    "ai_summary": "RescueRadar는 2013년부터 영국의 응급 서비스 항공기 운항을 추적하고 대중에게 실시간 정보를 제공하는 서비스입니다.\n이 시스템은 비행 데이터 수집 및 분석 기술을 활용하여 긴급 구조 활동에 대한 가시성을 높입니다.\n이를 통해 시민들은 구조 헬리콥터나 에어 앰뷸런스 등의 활동을 실시간으로 파악할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48275059",
+    "title": "The user is visibly frustrated",
+    "url": "https://pscanf.com/s/354/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48275059",
+    "summary": "",
+    "score": 269,
+    "published_at": "2026-05-26T04:39:03+00:00",
+    "ai_summary": "이 글은 사용자 경험(UX) 디자인에서 사용자의 명백한 좌절감을 이해하고 해결하는 것의 중요성을 강조합니다.\n사용자가 불편함을 느낄 때 보이는 행동과 반응을 분석하여, 제품 및 서비스 개선의 중요한 기회로 삼아야 합니다.\n개발자는 이러한 사용자 피드백을 통해 더 나은 인터페이스와 기능을 구축하는 데 직접적으로 기여할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48282709",
+    "title": "Stack Overflow’s forum is dead but the company’s still kicking",
+    "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48282709",
+    "summary": "",
+    "score": 137,
+    "published_at": "2026-05-26T17:17:12+00:00",
+    "ai_summary": "개발자 커뮤니티의 핵심인 스택 오버플로우의 질문/답변 포럼 활동이 예전 같지 않다는 분석이 나왔습니다.\nAI 챗봇의 등장 등 정보 습득 방식의 변화가 주요 원인으로 지목되지만, 스택 오버플로우 회사는 여전히 건재합니다.\n개발자들은 여전히 스택 오버플로우를 참고하지만, 참여 및 활용 방식은 변화하고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48284939",
+    "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+    "url": "https://deepswe.datacurve.ai/blog",
+    "discussion_url": "https://news.ycombinator.com/item?id=48284939",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-05-26T19:40:59+00:00",
+    "ai_summary": "DeepSWE는 복잡하고 장기적인 코딩 작업을 수행하는 AI 에이전트의 성능을 평가하기 위한 새로운 벤치마크입니다.\n이 벤치마크는 기존 데이터셋의 오염 문제를 해결하여, 더욱 신뢰할 수 있는 AI 모델 성능 측정을 가능하게 합니다.\n개발자들은 이를 통해 AI 기반 코딩 도구의 실제 역량을 정확히 파악하고, 차세대 코딩 에이전트 개발에 기여할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+    "title": "On AI Hardware (7 minute read)",
+    "url": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+    "discussion_url": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+    "summary": "The market is becoming a stack of memory problems. Hardware changes slowly, while software and model architectures can move quickly. Hardware companies will need to build architectures that remain useful as the bottleneck shifts.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "AI 시장은 메모리 병목 현상에 직면해 있습니다. 하드웨어는 느리게 변화하지만, 소프트웨어 및 모델 아키텍처는 빠르게 발전하고 있습니다. 하드웨어 기업은 병목 현상 변화에 유연하게 대응할 수 있는 아키텍처를 구축해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is/",
+    "title": "Gemini 3.5 Flash Looks Good For How Fast It Is (8 minute read)",
+    "url": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is/",
+    "discussion_url": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is/",
+    "summary": "Zvi judges Gemini 3.5 Flash the best model at its speed point but unconvincing against Opus 4.7 or GPT-5.5 outside latency-sensitive workloads, with Google positioning it as a daily driver for agentic workflows that outscores 3.1 Pro on Terminal-Bench and MCP Atlas while running 4x faster.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "Gemini 3.5 Flash는 속도 면에서 뛰어나지만, Opus 4.7이나 GPT-5.5만큼 강력하지는 않습니다. Google은 이를 에이전트 워크플로우를 위한 빠른 '데일리 드라이버'로 포지셔닝하며, 벤치마크에서 기존 모델을 능가합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/anomalyco/models.dev",
+    "title": "Models.dev (GitHub Repo)",
+    "url": "https://github.com/anomalyco/models.dev",
+    "discussion_url": "https://github.com/anomalyco/models.dev",
+    "summary": "Models.dev consolidates specifications and pricing of various models, accessible via an API.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "Models.dev는 다양한 AI 모델의 사양과 가격 정보를 통합하여 제공하는 GitHub 저장소입니다. 이 정보는 API를 통해 접근할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://paperswithcode.co/methods/on-policy-distillation",
+    "title": "On-Policy Distillation (5 minute read)",
+    "url": "https://paperswithcode.co/methods/on-policy-distillation",
+    "discussion_url": "https://paperswithcode.co/methods/on-policy-distillation",
+    "summary": "On-policy distillation trains a student model on trajectories sampled from its own policy while a teacher provides dense token-level supervision through KL-based regularization, closing the train-inference distribution mismatch that off-policy methods suffer. The canonical formulation unifies forward-KL, reverse-KL, and JSD losses with reverse-KL emerging as the default for mode-seeking smaller students, and a one-line code swap of the regularizer model on top of an RL stack like Tinker implemen",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "온-폴리시 증류는 학생 모델이 자체 정책에서 샘플링된 궤적을 기반으로 훈련되며, 교사는 KL 기반 정규화를 통해 세밀한 토큰 수준의 감독을 제공합니다. 이는 훈련과 추론 간의 분포 불일치를 해소하는 기술입니다. 리버스-KL이 모드 탐색형 소형 학생 모델의 기본값으로 부상했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.strangeloopcanon.com/p/introducing-benchbench",
+    "title": "Introducing BenchBench (5 minute read)",
+    "url": "https://www.strangeloopcanon.com/p/introducing-benchbench",
+    "discussion_url": "https://www.strangeloopcanon.com/p/introducing-benchbench",
+    "summary": "BenchBench is a benchmark that tests how well models can create a benchmark. It works as a great benchmark for model abilities as well as a test of models' self-awareness. The benchmark tests creativity and not just problem-solving ability. In tests, GPT 5.2 was the only winner, with every other model, from Opus 4.6 to GPT 5.5, struggling to create an actually useful benchmark that others had a hard time solving.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "BenchBench는 모델이 다른 벤치마크를 얼마나 잘 생성할 수 있는지를 테스트하는 새로운 벤치마크입니다. 이는 모델의 창의성과 자기 인식을 평가하며, 테스트에서 GPT 5.2만이 유일하게 성공했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "title": "Google DeepMind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars (7 minute read)",
+    "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "discussion_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "summary": "Google DeepMind's AlphaProof Nexus autonomously solved nine out of 353 open Erdős problems, including questions unanswered for decades, at inference costs of a few hundred dollars per problem.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "Google DeepMind의 AlphaProof Nexus가 수십 년간 미해결이었던 353개의 Erdős 문제 중 9개를 자율적으로 해결했습니다. 이 시스템은 문제당 몇백 달러의 추론 비용으로 복잡한 수학 문제 해결 능력을 시연했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://in.mashable.com/tech/110086/apples-genmoji-and-image-playground-set-for-major-visual-overhaul-in-ios-27-ahead-of-wwdc-2026",
+    "title": "Apple's Genmoji and Image Playground Set for Major Visual Overhaul in iOS 27 Ahead of WWDC 2026 (2 minute read)",
+    "url": "https://in.mashable.com/tech/110086/apples-genmoji-and-image-playground-set-for-major-visual-overhaul-in-ios-27-ahead-of-wwdc-2026",
+    "discussion_url": "https://in.mashable.com/tech/110086/apples-genmoji-and-image-playground-set-for-major-visual-overhaul-in-ios-27-ahead-of-wwdc-2026",
+    "summary": "Apple plans to upgrade AI image tools, Genmoji and Image Playground, in iOS 27, enhancing visual quality and realism.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "Apple이 iOS 27에서 AI 이미지 도구인 Genmoji와 Image Playground를 대폭 업그레이드할 예정입니다. 이번 업그레이드는 시각적 품질과 사실성 향상에 중점을 둘 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2058194939264307638.html",
+    "title": "GPT-5.6 Leaks: Coming in June (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2058194939264307638.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2058194939264307638.html",
+    "summary": "GPT-5.6 seems heavily focused on stronger multi-step reasoning, better agentic workflows, and improved frontend generation capabilities.",
+    "score": 0,
+    "published_at": "2026-05-27T00:05:59+00:00",
+    "ai_summary": "GPT-5.6이 6월 출시를 앞두고 있으며 주요 기능이 유출되었습니다. 멀티스텝 추론, 에이전트 워크플로, 프런트엔드 생성 기능이 크게 강화될 것으로 보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Frontend"
+    ]
+  }
+]
