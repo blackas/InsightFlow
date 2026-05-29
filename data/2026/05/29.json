@@ -1,0 +1,613 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29971",
+    "title": "The Orchestration Tax",
+    "url": "https://news.hada.io/topic?id=29971",
+    "discussion_url": "https://news.hada.io/topic?id=29971",
+    "summary": "AI 에이전트 시대의 ‘오케스트레이션 세금’과 인간 주의력의 병목\nAddy Osmani의 글은 여러 AI 에이전트를 동시에 실행하는 일이 실제 생산성 향상으로 곧장 이어지지 않을 수 있다는 문제를 다룹니다. 에이전트는 병렬로 움직일 수 있지만, 결과를 이해하고 검토하고 병합하는 사람의 판단은 병렬화되지 ...",
+    "score": 0,
+    "published_at": "2026-05-28T23:34:20+00:00",
+    "ai_summary": "AI 에이전트 시대의 ‘오케스트레이션 세금’은 여러 에이전트를 동시에 실행해도 인간 주의력의 병목 때문에 생산성 향상이 어렵다는 문제입니다.\n에이전트 결과 이해, 검토, 병합 과정은 병렬화되지 않아 AI 시스템 설계에 중요한 과제로 남습니다.\n이는 개발자가 AI 솔루션 도입 시 고려해야 할 실질적인 도전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29969",
+    "title": "Stack Overflow의 포럼은 죽었지만 회사는 여전히 버티고 있음",
+    "url": "https://news.hada.io/topic?id=29969",
+    "discussion_url": "https://news.hada.io/topic?id=29969",
+    "summary": "Stack Overflow는 개발자 Q&amp;A의 대표 공간이었지만 ChatGPT, Cursor, Claude 같은 코드 작성 AI 도우미 확산 뒤 질문과 트래픽이 급감함\n지난달 질문 수는 6,866개로 2008년 출시 초기 수준까지 내려갔고, Elon Musk는 이를 “LLM에 의한 죽음”이라고 부름",
+    "score": 0,
+    "published_at": "2026-05-28T22:57:54+00:00",
+    "ai_summary": "Stack Overflow는 개발자 Q&A의 대표 공간이었으나 ChatGPT 같은 AI 도우미 확산으로 질문과 트래픽이 급감했습니다.\n지난달 질문 수는 2008년 초기 수준까지 내려갔고, 이는 Elon Musk가 \"LLM에 의한 죽음\"이라 부른 현상입니다.\n개발자 커뮤니티와 정보 습득 방식의 큰 변화를 시사합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29968",
+    "title": "Rust에서 Ruby로",
+    "url": "https://news.hada.io/topic?id=29968",
+    "discussion_url": "https://news.hada.io/topic?id=29968",
+    "summary": "Rust 웹앱 크레이트를 Ruby on Rails로 옮겨보는 개인 프로젝트 실험이며, 대상은 Tera와 Axum 기반 14,943줄 코드임\n기존 Rust 구성은 Playwright E2E, 격리 DB 네임스페이스, 모킹 서비스, 내부 API 크레이트까지 필요해 테스트 비용이 큼\nLLM 비교에서...",
+    "score": 0,
+    "published_at": "2026-05-28T22:54:56+00:00",
+    "ai_summary": "Rust 웹앱 크레이트를 Ruby on Rails로 옮겨보는 개인 프로젝트 실험으로, Tera와 Axum 기반 14,943줄 코드가 대상입니다.\n기존 Rust 구성은 Playwright E2E, 격리 DB 등으로 테스트 비용이 컸던 점이 전환의 이유 중 하나입니다.\n개발 언어 및 프레임워크 선택, 유지보수 비용에 대한 실용적 고민을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29967",
+    "title": "자체 AI 모델 학습하기",
+    "url": "https://news.hada.io/topic?id=29967",
+    "discussion_url": "https://news.hada.io/topic?id=29967",
+    "summary": "PostHog는 AI installation wizard, PostHog AI, MCP에 이어 더 능동적이고 자율적인 제품을 만들기 위해 내부 데이터로 모델 학습을 시도함\n핵심 대상은 PostHog Code이며, 답과 해결책을 대신 찾아 실행하고 시간이 지나며 개선되는 제품 방향을 뒷받침함\n...",
+    "score": 0,
+    "published_at": "2026-05-28T22:52:52+00:00",
+    "ai_summary": "PostHog는 더 능동적이고 자율적인 제품을 만들기 위해 내부 데이터로 AI 모델 학습을 시도합니다.\n핵심 대상은 PostHog Code이며, 답과 해결책을 찾아 실행하고 시간이 지나며 개선되는 제품 방향을 목표합니다.\n이는 기업의 AI 도입 전략과 커스텀 모델 개발의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29965",
+    "title": "다음 토큰 예측은 우리에게 어떤 의미를 갖는 것일까?",
+    "url": "https://news.hada.io/topic?id=29965",
+    "discussion_url": "https://news.hada.io/topic?id=29965",
+    "summary": "다음 토큰 예측을 둘러싼 AI 낙관론은 기술 진보를 넘어 인간의 창의성·전문성·노동이 무가치해지는 상황을 즐기는 부족주의에 가까움\nAI의 초기 약속은 기후·질병·빈곤 해결에서 노동 절감으로 빠르게 옮겨갔고, 기업은 노동자가 가진 협상 카드를 빼앗는 데 수십...",
+    "score": 0,
+    "published_at": "2026-05-28T22:46:30+00:00",
+    "ai_summary": "다음 토큰 예측을 둘러싼 AI 낙관론은 기술 진보를 넘어 인간의 창의성, 전문성, 노동의 가치를 깎아내리는 부족주의에 가깝다는 비판입니다.\nAI의 초기 약속은 노동 절감으로 빠르게 옮겨갔고, 기업은 이를 노동자 협상 카드 빼앗기에 활용합니다.\nAI가 사회와 노동에 미치는 광범위한 영향에 대한 심층적 고찰을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29962",
+    "title": "Apple과 Google은 푸시 알림에 무엇을 하고 있나",
+    "url": "https://news.hada.io/topic?id=29962",
+    "discussion_url": "https://news.hada.io/topic?id=29962",
+    "summary": "푸시 알림은 단순 전달 계층이 아니라 Apple과 Google이 파싱·순위화·요약·재작성하는 플랫폼 편집 채널로 바뀌고 있음\nAPNs와 FCM은 배터리 절약을 위한 중앙 중개 구조로 출발했고, 모든 iPhone·Android 알림은 처음부터 플랫폼 서버를 거쳤음\nAndroid...",
+    "score": 0,
+    "published_at": "2026-05-28T20:50:00+00:00",
+    "ai_summary": "푸시 알림은 Apple과 Google이 파싱, 순위화, 요약, 재작성하는 플랫폼 편집 채널로 변화하고 있습니다.\nAPNs와 FCM은 배터리 절약을 위한 중앙 중개 구조로 시작했으며, 모든 알림은 플랫폼 서버를 거칩니다.\n이는 모바일 알림 작동 방식의 변화와 개발자의 구현 전략에 영향을 미칩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29960",
+    "title": "Anthropic, Claude Opus 4.8 출시",
+    "url": "https://news.hada.io/topic?id=29960",
+    "discussion_url": "https://news.hada.io/topic?id=29960",
+    "summary": "Anthropic이 자사의 최상위 모델인 Claude Opus의 업그레이드 버전인 Claude Opus 4.8을 출시했습니다. 이전 버전인 4.7을 기반으로 벤치마크 성능을 개선하고 협업 능력을 강화했으며, 가격은 동일하게 유지됩니다.\n주요 개선 사항 및 특징\n\n성능 향상: 코딩",
+    "score": 0,
+    "published_at": "2026-05-28T17:58:17+00:00",
+    "ai_summary": "Anthropic이 자사의 최상위 모델인 Claude Opus의 업그레이드 버전인 Claude Opus 4.8을 출시했습니다.\n이전 버전 4.7을 기반으로 벤치마크 성능을 개선하고 특히 코딩 성능을 강화했으며, 가격은 동일하게 유지됩니다.\n개발자들에게 LLM 활용 및 코딩 작업에 큰 영향을 줄 수 있는 새로운 모델입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29957",
+    "title": "Claude Code를 일상 도구로 쓰기: Claude.md, Skills, Subagents, Plugins, MCP",
+    "url": "https://news.hada.io/topic?id=29957",
+    "discussion_url": "https://news.hada.io/topic?id=29957",
+    "summary": "Claude Code 생산성은 프롬프트보다 메모리, 커스텀 명령, 병렬 세션, 프로젝트 설정을 누적하고 검증하는 방식에서 크게 갈림\nCLAUDE.md는 짧고 검증 중심인 누적 인프라로 운영해야 하며, 실수 뒤 규칙을 추가하면 같은 실수를 줄일 수 있음\n...",
+    "score": 0,
+    "published_at": "2026-05-28T14:04:41+00:00",
+    "ai_summary": "Claude Code 생산성은 단순 프롬프트보다 메모리, 커스텀 명령, 병렬 세션, 프로젝트 설정을 누적하고 검증하는 방식에서 크게 좌우됩니다.\nCLAUDE.md를 통해 짧고 검증 중심의 누적 인프라를 운영하며, 실수를 통해 규칙을 추가하여 동일한 실수를 줄일 수 있습니다.\n이는 AI 코딩 도구 활용도를 극대화하고 개발 워크플로우를 효율적으로 개선하는 데 핵심적인 방법론을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29955",
+    "title": "Show GN: Devflow Native - AI 코딩 에이전트 작업 흐름을 repo 안에 남기는 CLI",
+    "url": "https://news.hada.io/topic?id=29955",
+    "discussion_url": "https://news.hada.io/topic?id=29955",
+    "summary": "Devflow Native는 Codex, Claude Code 같은 AI 코딩 에이전트를 대체하는 도구가 아니라, 그 주변에 붙는 local-first workflow harness입니다.\nAI coding을 하다 보면 코드 생성 자체보다 “작업이 어디까지 왔는지”, “무엇을 실제로 검증했는지”, “다음 세션이 어디서 이어가야 하는지”가 더 자주 문제",
+    "score": 0,
+    "published_at": "2026-05-28T13:36:00+00:00",
+    "ai_summary": "Devflow Native는 AI 코딩 에이전트 자체를 대체하는 대신, 그 주변에 붙는 로컬-우선 워크플로우를 제공하는 CLI 도구입니다.\nAI 코딩 시 코드 생성보다 작업 진행 상황, 검증 여부, 다음 세션 연속성에 대한 문제 해결에 중점을 둡니다.\n이 도구는 AI 코딩 에이전트를 사용하는 개발자의 작업 흐름 관리와 협업 효율성을 크게 향상시키는 데 기여합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29954",
+    "title": "Ask GN: 일전에 한국어 다중화자 관련 질문을 올렸는데요! 그 후속 진행사항 업데이트!",
+    "url": "https://news.hada.io/topic?id=29954",
+    "discussion_url": "https://news.hada.io/topic?id=29954",
+    "summary": "이게 ASK GN에 맞는지는 모르겠네요..! 근데 뉴스나 Show는 아닌거 같아서 여기에 올립니다.\n일전에 주셨던 의견들 기반으로 만들어보고 있습니다.\n우연히도 같이 근무하는 사업 담당자 친구도 그런 아이디어가 있어서 비개발자 둘이서 MVP 해보자고 삽질 중이예요.\n(클로드 코드 5X + API 비용 모",
+    "score": 0,
+    "published_at": "2026-05-28T11:39:34+00:00",
+    "ai_summary": "한국어 다중화자 관련 질문의 후속 진행사항으로, 비개발자 두 명이 아이디어를 기반으로 MVP를 개발 중입니다.\n이들은 클로드 코드 5X와 API 비용을 활용하여 프로젝트를 진행하며 삽질 중임을 밝힙니다.\n개인적인 프로젝트 진행 상황과 AI 도구 활용 사례를 공유하는 내용으로, 개발자에게는 도구 사용 경험 측면에서 관련성이 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29950",
+    "title": "Show GN: 매일 쏟아지는 새 IT 서비스, 넷플릭스처럼 둘러보기 - newflix",
+    "url": "https://news.hada.io/topic?id=29950",
+    "discussion_url": "https://news.hada.io/topic?id=29950",
+    "summary": "넷플릭스처럼 둘러보고, Product Hunt처럼 발견하는 신규 IT 서비스 디스커버리 플랫폼 newflix를 만들었습니다.\n매일 새로운 AI·개발 도구·서비스가 쏟아지는데, 정작 &quot;한눈에 둘러보고 골라 담는&quot; 경험은 마땅치 않다고 느꼈습니다. 그래서 OTT의 둘러보기 UX와 큐레이션을 IT 서비스 발견에 가져",
+    "score": 0,
+    "published_at": "2026-05-28T06:47:38+00:00",
+    "ai_summary": "신규 IT 서비스 디스커버리 플랫폼 'newflix'는 넷플릭스처럼 둘러보고, Product Hunt처럼 새로운 서비스를 발견하도록 돕습니다.\n매일 쏟아지는 새로운 AI 및 개발 도구를 한눈에 둘러보고 선택할 수 있는 경험을 제공합니다.\n개발자들이 최신 기술 트렌드와 유용한 도구를 효율적으로 탐색하고 발견하는 데 도움을 주는 유용한 플랫폼입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29944",
+    "title": "기술 CEO들은 AI 정신증을 겪고 있는 듯하다",
+    "url": "https://news.hada.io/topic?id=29944",
+    "discussion_url": "https://news.hada.io/topic?id=29944",
+    "summary": "AI 과대망상은 CEO가 프로토타입·계약서 생성 경험만으로 에이전트가 실제 업무까지 대체한다고 성급히 믿을 때 생김\nAaron Levie는 AI 낙관론자이자 엔젤 투자자지만, CEO가 현장 업무의 마지막 구간을 모른 채 자동화 범위를 과대평가한다고 봄\n2026년 ...",
+    "score": 0,
+    "published_at": "2026-05-28T01:08:49+00:00",
+    "ai_summary": "일부 기술 CEO들이 프로토타입 경험만으로 AI가 실제 업무를 대체할 수 있다고 믿는 'AI 과대망상'을 겪고 있습니다.\nAI 낙관론자이자 투자자조차도 CEO들이 현장 업무의 마지막 구간을 모른 채 자동화 범위를 과대평가한다고 지적합니다.\n이는 개발자들이 AI 프로젝트의 현실적인 범위와 기대를 설정하고 관리하는 데 있어 중요한 맥락을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=29942",
+    "title": "Anthropic과 OpenAI가 제품-시장 적합성을 찾았다고 생각한다",
+    "url": "https://news.hada.io/topic?id=29942",
+    "discussion_url": "https://news.hada.io/topic?id=29942",
+    "summary": "Anthropic과 OpenAI의 코딩·범용 에이전트는 소비자 구독보다 엔터프라이즈 사용량 과금에서 더 큰 매출 가능성을 드러냄\nClaude Code와 Codex 헤비 유저는 월 $200 구독으로 API 기준 $2,180.16어치 토큰을 쓰지만, 기업 고객은 비슷한 할인에서 제외됨\n...",
+    "score": 0,
+    "published_at": "2026-05-28T01:02:49+00:00",
+    "ai_summary": "Anthropic과 OpenAI는 소비자 구독보다 엔터프라이즈 사용량 과금에서 더 큰 매출 가능성을 찾고 있습니다.\nClaude Code와 Codex의 헤비 유저는 기업 고객과 달리 월 $200 구독으로 API 기준 $2,180 상당의 토큰을 사용할 수 있습니다.\n이는 주요 LLM 제공업체의 비즈니스 모델 변화를 보여주며, 향후 개발 도구 및 서비스 접근성에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48313530",
+    "title": "Building durable workflows on Postgres",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "discussion_url": "https://news.ycombinator.com/item?id=48313530",
+    "summary": "",
+    "score": 248,
+    "published_at": "2026-05-28T18:41:46+00:00",
+    "ai_summary": "PostgreSQL을 활용하여 견고하고 확장 가능한 워크플로우를 구축하는 방법을 다룹니다. 데이터베이스를 활용한 작업 큐 및 상태 관리 패턴을 소개하며, 시스템 안정성 향상에 기여합니다. 백엔드 개발 및 데이터베이스 아키텍처에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48276598",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48276598",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-05-26T08:02:52+00:00",
+    "ai_summary": "Raspberry Pi 6 및 마이크로컨트롤러 개발에 대한 최신 소식을 전달합니다. 새로운 하드웨어 사양, 성능 개선 사항, 그리고 개발자들이 활용할 수 있는 잠재적 애플리케이션을 다룹니다. 임베디드 시스템 및 IoT 개발자에게 흥미로운 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48280451",
+    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+    "url": "https://coalton-lang.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48280451",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-05-26T14:36:20+00:00",
+    "ai_summary": "Coalton은 Haskell과 OCaml의 아이디어를 차용한 효율적인 정적 타입 Lisp 언어입니다. Lisp의 유연성과 정적 타입의 안정성을 결합하여 개발 생산성과 코드 신뢰성을 높이는 것을 목표로 합니다. 함수형 프로그래밍 및 언어 설계에 관심 있는 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48315968",
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "discussion_url": "https://news.ycombinator.com/item?id=48315968",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-05-28T21:45:54+00:00",
+    "ai_summary": "GitHub이 제로데이 Windows 취약점을 공개한 보안 연구원의 계정을 정지시킨 사건에 대한 내용입니다. 이는 책임 있는 공개, 윤리적 해킹, 그리고 플랫폼 정책의 경계에 대한 논의를 촉발합니다. 보안 커뮤니티와 모든 개발자에게 중요한 시사점을 던집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48308376",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "url": "https://llmgame.scalex.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=48308376",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-05-28T13:02:00+00:00",
+    "ai_summary": "AI 에이전트의 권한 요청 피로감(permission fatigue)을 주제로 한 60초짜리 게임 'Continue? Y/N'을 소개합니다. 사용자가 AI와 상호작용할 때 겪을 수 있는 불편함과 과도한 권한 요청 문제를 풍자합니다. AI/ML 및 UI/UX 개발자에게 사용자 경험 디자인에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48317093",
+    "title": "Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48317093",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-05-28T23:42:47+00:00",
+    "ai_summary": "한 로봇 회사가 프로토타입 로봇으로 에어비앤비 숙소를 엉망으로 만들었다는 의혹에 대한 기사입니다. 로봇 개발의 실생활 적용 시 발생할 수 있는 윤리적, 법적 문제 및 사용자 동의의 중요성을 강조합니다. 로봇공학 및 IoT 개발자에게 중요한 고려사항을 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48312616",
+    "title": "Bitburner, programming-based incremental game",
+    "url": "https://bitburner-official.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48312616",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-05-28T17:43:36+00:00",
+    "ai_summary": "프로그래밍 기술을 활용하여 게임을 진행하는 독특한 증분 게임입니다.\n코딩 실력을 향상시키거나 새로운 개념을 학습하는 데 도움을 줄 수 있습니다.\n개발자들이 재미있게 프로그래밍을 연습할 수 있는 게임으로 주목받고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48313048",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "url": "https://www.anthropic.com/news/series-h",
+    "discussion_url": "https://news.ycombinator.com/item?id=48313048",
+    "summary": "",
+    "score": 236,
+    "published_at": "2026-05-28T18:09:44+00:00",
+    "ai_summary": "선도적인 AI 기업 Anthropic이 시리즈 H 펀딩으로 650억 달러를 유치했습니다.\n기업 가치는 9,650억 달러로 평가되며, 이는 AI 산업의 막대한 성장세를 보여줍니다.\nLLM 개발 및 AI 분야의 기술 트렌드와 시장 동향에 큰 영향을 미칠 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48309986",
+    "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+    "url": "https://github.com/Kaelio/ktx",
+    "discussion_url": "https://news.ycombinator.com/item?id=48309986",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-05-28T15:05:06+00:00",
+    "ai_summary": "데이터 에이전트들을 위한 오픈소스 실행 컨텍스트 레이어 Ktx 프로젝트가 공개되었습니다.\n데이터 처리 및 AI 에이전트 개발 시 필요한 환경 설정을 간소화할 수 있습니다.\n개발자들이 데이터 기반 애플리케이션을 구축하는 데 유용한 새로운 도구가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48282180",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT",
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "discussion_url": "https://news.ycombinator.com/item?id=48282180",
+    "summary": "",
+    "score": 201,
+    "published_at": "2026-05-26T16:41:58+00:00",
+    "ai_summary": "오픈소스 펌웨어 OpenWRT를 활용하여 실내 Wi-Fi 로밍을 구현하는 방법을 다룹니다.\n여러 액세스 포인트 간의 원활한 전환을 통해 안정적인 무선 네트워크를 구축할 수 있습니다.\n네트워크 관리자나 고급 사용자에게 유용한 설정 가이드와 최적화 팁을 제공할 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48311490",
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "url": "https://github.com/bytecodealliance/endive",
+    "discussion_url": "https://news.ycombinator.com/item?id=48311490",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-05-28T16:40:33+00:00",
+    "ai_summary": "JVM에서 WebAssembly 코드를 네이티브 성능으로 실행할 수 있는 런타임 'Endive'에 대한 기사입니다.\nJava 개발자들이 WebAssembly의 성능과 활용 범위를 넓히는 데 기여할 수 있습니다.\n크로스 플랫폼 및 고성능 애플리케이션 개발에 중요한 기술적 진전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48315440",
+    "title": "Protestware for Coding Agents",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48315440",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-05-28T21:03:24+00:00",
+    "ai_summary": "AI 코딩 에이전트에 적용될 수 있는 '프로테스트웨어'에 대한 논의를 담고 있습니다.\nAI 도구의 윤리적 사용, 보안 취약점 또는 사회적 메시지 전달 방식에 대한 문제를 제기합니다.\n개발자와 AI 연구자들이 고려해야 할 중요한 보안 및 윤리적 이슈를 다룰 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48313142",
+    "title": "The Lone Lisp Heap",
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "discussion_url": "https://news.ycombinator.com/item?id=48313142",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-05-28T18:16:20+00:00",
+    "ai_summary": "Lisp 언어의 힙 메모리 관리 방식과 내부 동작에 대한 깊이 있는 분석을 다룹니다.\n가비지 컬렉션, 메모리 할당, 그리고 Lisp 런타임 환경의 복잡성에 초점을 맞춥니다.\n개발자가 Lisp 시스템을 최적화하고 이해하는 데 도움을 줄 수 있는 내용을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48272545",
+    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "url": "https://github.com/highpost/tailscale-macos-vm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48272545",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-05-25T22:10:08+00:00",
+    "ai_summary": "macOS에서 OrbStack 가상 머신(VM)을 사용하여 Tailscale을 설정하고 활용하는 방법을 안내합니다.\n로컬 개발 환경에서 안전하고 효율적인 네트워크 연결을 구축하는 실용적인 팁과 과정을 제공합니다.\n개발자들이 복잡한 네트워크 구성 없이 VM 간의 연결성을 확보하는 데 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48314069",
+    "title": "Announcing Rust 1.96",
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48314069",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-05-28T19:20:06+00:00",
+    "ai_summary": "프로그래밍 언어 Rust의 최신 버전인 1.96의 출시를 알리는 공식 발표입니다.\n새로운 기능, 개선 사항, 버그 수정 및 성능 최적화 등 이번 릴리즈에 포함된 주요 변경 사항들을 상세히 다룹니다.\nRust 개발자들이 최신 언어 기능을 활용하고 프로젝트를 업데이트하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.nvidia.com/labs/lpr/locate-anything/",
+    "title": "NVIDIA's LocateAnything for Faster Grounding (8 minute read)",
+    "url": "https://research.nvidia.com/labs/lpr/locate-anything/",
+    "discussion_url": "https://research.nvidia.com/labs/lpr/locate-anything/",
+    "summary": "NVIDIA's LocateAnything is a vision-language grounding framework that decodes bounding boxes in parallel rather than token-by-token.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "NVIDIA의 LocateAnything은 비전-언어 접지(grounding) 프레임워크입니다. 이 프레임워크는 바운딩 박스를 토큰 단위가 아닌 병렬 방식으로 디코딩하여 처리 속도를 향상시킵니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native",
+    "title": "Introducing Apex: A Fast, Specialized Model for React Native (6 minute read)",
+    "url": "https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native",
+    "discussion_url": "https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native",
+    "summary": "Apex is a React Native coding model trained to build apps by analyzing architecture decisions, fixing framework-specific issues, and reasoning about constraints. While it doesn't match frontier models on coding benchmarks, the optimized model significantly alters the performance-to-cost ratio within its specific domain. The model is still in development. It is now available in a private beta with selected teams.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "Apex는 React Native 앱 개발을 위해 훈련된 빠르고 특화된 코딩 모델입니다. 이 모델은 아키텍처 분석 및 프레임워크 특정 문제 해결을 통해 개발 효율성을 높입니다. 현재 일부 팀을 대상으로 비공개 베타 테스트 중입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cryptobriefing.com/trajectory-ai-startup-google-apple-researchers/",
+    "title": "Former Google and Apple researchers launch Trajectory to enhance AI feedback loops (3 minute read)",
+    "url": "https://cryptobriefing.com/trajectory-ai-startup-google-apple-researchers/",
+    "discussion_url": "https://cryptobriefing.com/trajectory-ai-startup-google-apple-researchers/",
+    "summary": "The new Palo Alto-based startup aims to make AI systems that can actually see and interpret the physical world.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "전 Google 및 Apple 연구원들이 AI 피드백 루프 강화를 목표로 Trajectory 스타트업을 설립했습니다. 이들은 물리적 세계를 보고 해석할 수 있는 AI 시스템 개발을 목표로 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/RampLabs/status/2059678575939273091",
+    "title": "Finding high-severity security issues with publicly available models (8 minute read)",
+    "url": "https://x.com/RampLabs/status/2059678575939273091",
+    "discussion_url": "https://x.com/RampLabs/status/2059678575939273091",
+    "summary": "Ramp pointed roughly 10,000 Inspect coding-agent sessions at its backend in an 8-hour run with a minimal \"find security issues\" prompt.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "Ramp는 공개적으로 사용 가능한 모델을 활용하여 백엔드에서 심각한 보안 문제를 발견했습니다. 최소한의 프롬프트로 약 10,000개의 코딩 에이전트 세션을 8시간 동안 실행했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2605.22391",
+    "title": "Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings (1 minute read)",
+    "url": "https://arxiv.org/abs/2605.22391",
+    "discussion_url": "https://arxiv.org/abs/2605.22391",
+    "summary": "Epicure is a family of three sibling skip-gram ingredient embeddings retrained from scratch on a multilingual recipe corpus.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "Epicure는 다국어 레시피 코퍼스에 대해 처음부터 재훈련된 세 가지 스킵-그램 성분 임베딩(embedding) 모델 제품군입니다. 이 모델은 음식 재료의 관계를 파악하고 활용하는 데 사용될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-expands-gemini-for-business-with-shareable-projects/",
+    "title": "Google expands Gemini for Business with shareable Projects (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-expands-gemini-for-business-with-shareable-projects/",
+    "discussion_url": "https://www.testingcatalog.com/google-expands-gemini-for-business-with-shareable-projects/",
+    "summary": "Google enhances Gemini for Business with the introduction of shareable Projects, which allow team members to collaborate within dedicated multi-surface workspaces.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "Google Gemini for Business 기능이 강화되었습니다. 팀원들이 전용 협업 공간에서 함께 작업할 수 있는 'Shareable Projects' 기능이 도입되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/",
+    "title": "Anthropic to expand Claude Voice Mode to more languages (2 minute read)",
+    "url": "https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/",
+    "discussion_url": "https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/",
+    "summary": "Anthropic plans to expand Claude's voice mode to 18 new languages.",
+    "score": 0,
+    "published_at": "2026-05-29T00:11:52+00:00",
+    "ai_summary": "Anthropic이 Claude의 음성 모드를 확장할 계획입니다. 18개의 새로운 언어로 음성 모드 지원이 확대됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  }
+]
