@@ -1,0 +1,889 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30128",
+    "title": "OpenAI, Codex에서 웹사이트를 만들어 배포하는 Sites 플러그인 공개",
+    "url": "https://news.hada.io/topic?id=30128",
+    "discussion_url": "https://news.hada.io/topic?id=30128",
+    "summary": "프롬프트/프로젝트에서 OpenAI가 호스팅하는 웹 사이트를 제작 가능\n별도 배포 워크플로 구성 없이 웹사이트, 웹 앱, 게임을 프롬프트만으로 생성·저장·배포·점검할 수 있음\n@Sites 로 호출해서 신규 사이트·대시보드·내부 도구",
+    "score": 0,
+    "published_at": "2026-06-03T00:16:01+00:00",
+    "ai_summary": "OpenAI가 Codex 기반 웹사이트 제작 및 배포 플러그인 'Sites'를 공개했습니다.\n개발자는 복잡한 배포 없이 프롬프트만으로 웹사이트, 웹 앱, 게임 등을 만들 수 있습니다.\n신규 사이트, 대시보드, 내부 도구 구축을 간소화할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30127",
+    "title": "슬롭 시대의 품질",
+    "url": "https://news.hada.io/topic?id=30127",
+    "discussion_url": "https://news.hada.io/topic?id=30127",
+    "summary": "Maw는 AI가 소프트웨어 공학의 미덕과 품질 구분을 삼킬 수 있다는 불안으로, “작동하는 코드/작동하지 않는 코드”만 남는 세계를 두려움의 핵심으로 만듦\nZAMM은 오토바이 정비를 물리노동보다 관찰과 정밀한 사고로 보며, 결함 디버깅과 추상화 유지라는 점에서",
+    "score": 0,
+    "published_at": "2026-06-03T00:08:40+00:00",
+    "ai_summary": "AI 시대에 소프트웨어 품질이 '작동 여부'로만 단순화될 수 있다는 우려가 제기됩니다.\n이는 AI가 소프트웨어 공학의 미덕과 품질 구분을 삼킬 수 있다는 불안감에서 비롯됩니다.\n결함 디버깅과 추상화 유지의 중요성이 강조됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30120",
+    "title": "Chipotlai Max - Chipotle Pepper AI를 기본 모델로 쓰는 밈 AI 코딩 에이전트",
+    "url": "https://news.hada.io/topic?id=30120",
+    "discussion_url": "https://news.hada.io/topic?id=30120",
+    "summary": "Chipotle의 고객 지원 챗봇 Pepper를 코딩 모델로 써서 OpenCode포크 위에서 무료 추론을 돌리는 밈(meme) 프로젝트\nPepper가 LeetCode 문제 풀이, Python 작성, 링크드 리스트 뒤집기까지 처리하는 것이 발견되며 대규모 바이럴 되었음",
+    "score": 0,
+    "published_at": "2026-06-02T16:32:52+00:00",
+    "ai_summary": "Chipotle 고객 지원 챗봇 'Pepper'를 코딩 모델로 활용한 'Chipotlai Max' 밈 프로젝트가 화제입니다.\nPepper가 LeetCode 문제 풀이, Python 코드 작성 등 코딩 작업을 수행하여 바이럴되었습니다.\n이는 LLM의 예상치 못한 코딩 능력을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30119",
+    "title": "OpenAI 프런티어 모델과 Codex가 이제 AWS에서 제공됨",
+    "url": "https://news.hada.io/topic?id=30119",
+    "discussion_url": "https://news.hada.io/topic?id=30119",
+    "summary": "OpenAI 프런티어 모델과 Codex가 AWS에서 정식 제공되며, 수백만 AWS 고객이 이미 비즈니스를 운영하는 플랫폼에서 OpenAI로 구축할 수 있음\n기업은 기존 보안·컴플라이언스·조달·청구·거버넌스 워크플로를 통해 프런티어 AI를 프로덕션에 도입할 수 있어 평가에서...",
+    "score": 0,
+    "published_at": "2026-06-02T15:40:14+00:00",
+    "ai_summary": "OpenAI 프런티어 모델과 Codex가 AWS에서 공식적으로 제공되기 시작했습니다.\n수백만 AWS 고객이 기존 플랫폼에서 OpenAI 기술을 비즈니스에 활용할 수 있게 되었습니다.\n기업들은 기존 보안, 컴플라이언스 워크플로를 통해 AI를 프로덕션에 쉽게 도입 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30114",
+    "title": "MiniMax-M3 데뷔, 주요 벤치마크 성능에서 GPT-5.5와 Gemini 3.1 Pro를 능가하며 비용은 단 5-10% 수준",
+    "url": "https://news.hada.io/topic?id=30114",
+    "discussion_url": "https://news.hada.io/topic?id=30114",
+    "summary": "중국 AI 스타트업 미니맥스(MiniMax)가 기존 미국의 상용 모델 대비 5~10% 수준의 파격적인 비용으로 GPT-5.5와 제미나이 3.1 프로를 능가하는 오픈 가중치 기반 멀티모달 대형언어모델 'M3'를 전격 출시했습니다.\n\n\n전문 번역\n중국 AI 스타트업 미니맥스가 프론티어",
+    "score": 0,
+    "published_at": "2026-06-02T07:30:35+00:00",
+    "ai_summary": "중국 미니맥스가 GPT-5.5와 Gemini 3.1 Pro를 능가하는 멀티모달 LLM 'M3'를 출시했습니다.\nM3는 주요 벤치마크에서 뛰어난 성능을 보이며, 기존 상용 모델 대비 5~10% 수준의 파격적인 비용을 자랑합니다.\n개발자들에게 새로운 고성능/저비용 LLM 옵션을 제공합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30113",
+    "title": "스탠퍼드 CS336을 위한 AI 에이전트 지침",
+    "url": "https://news.hada.io/topic?id=30113",
+    "discussion_url": "https://news.hada.io/topic?id=30113",
+    "summary": "AI 코딩 보조 도구는 CS336 학생에게 과제 해법을 만들어주는 생성기가 아니라 설명, 안내, 피드백으로 학습을 돕는 조교 역할을 맡아야 함\nCS336은 제공되는 틀이 제한된 상태에서 학생이 상당한 Python/PyTorch 코드를 직접 작성하도록 설계되어, AI 도움도 구현...",
+    "score": 0,
+    "published_at": "2026-06-02T06:33:50+00:00",
+    "ai_summary": "스탠퍼드 CS336 강의는 AI 코딩 보조 도구를 학습 보조 도구로 활용할 것을 지침으로 제시합니다.\nAI는 과제 해결 생성기가 아닌 설명, 안내, 피드백을 제공하는 조교 역할을 수행해야 합니다.\n학생들은 Python/PyTorch 코드를 직접 작성하며 AI 도움은 구현 과정에 집중하도록 권장됩니다.",
+    "relevance_score": 0.78,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30111",
+    "title": "Show GN: Velith — AI 기반 장문 콘텐츠 제작 파이프라인",
+    "url": "https://news.hada.io/topic?id=30111",
+    "discussion_url": "https://news.hada.io/topic?id=30111",
+    "summary": "안녕하세요.\n원래는 책을 만들려고 시작한 프로젝트가 아니었습니다.\n평소에 Obsidian으로 지식을 관리하면서 Claude Code 같은 AI 에이전트와 연결해 문서 정리나 기술 리포트 생성에 활용하고 있었습니다. 노트들을 분석해서 연결 관계를 정리하거나, 특정 주제에 대한 기술 문서를 자동으로 생성하는",
+    "score": 0,
+    "published_at": "2026-06-02T05:42:21+00:00",
+    "ai_summary": "Obsidian 사용자가 AI 에이전트를 활용해 지식 관리 및 기술 리포트를 자동 생성하는 프로젝트입니다.\n노트 간 연결 관계를 분석하고 특정 주제에 대한 문서를 자동으로 만들어줍니다.\nAI 기반의 장문 콘텐츠 제작 파이프라인을 구축하는 것을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30107",
+    "title": "CS336: 처음부터 만드는 언어 모델링",
+    "url": "https://news.hada.io/topic?id=30107",
+    "discussion_url": "https://news.hada.io/topic?id=30107",
+    "summary": "언어 모델은 현대 NLP 애플리케이션의 기반이며, 하나의 범용 시스템으로 다양한 하위 작업을 다루는 새 패러다임을 연다\n이 과정은 사전학습용 데이터 수집·정제, Transformer 구축, 학습, 배포 전 평가까지 언어 모델 개발 전 과정을 직접 구현하게 함\n...",
+    "score": 0,
+    "published_at": "2026-06-02T03:33:33+00:00",
+    "ai_summary": "언어 모델은 현대 NLP 애플리케이션의 핵심 기반이며 새로운 패러다임을 제시합니다.\n이 과정은 사전 학습 데이터 수집부터 Transformer 구축 및 학습까지 언어 모델 개발 전 과정을 다룹니다.\n개발자가 직접 언어 모델을 처음부터 구현하도록 돕는 교육 콘텐츠입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30106",
+    "title": "설계상 불법: 생성형 AI의 인권 비용 드러내기",
+    "url": "https://news.hada.io/topic?id=30106",
+    "discussion_url": "https://news.hada.io/topic?id=30106",
+    "summary": "독립형 생성형 AI 시스템은 불법 웹 스크래핑에 기반할 때 설계·개발·배포 전 과정에서 국제인권법(IHRL) 및 기준과 충돌함\n이 기술은 정교한 자동화와 효율성을 약속하지만, 데이터 수집과 모델 학습 관행이 프라이버시 권리를 남용하는 구조에 ...",
+    "score": 0,
+    "published_at": "2026-06-02T03:01:31+00:00",
+    "ai_summary": "생성형 AI 시스템은 불법 웹 스크래핑에 기반할 경우 인권법과 충돌할 수 있습니다.\n설계, 개발, 배포 전 과정에서 국제 인권법 및 기준 위반 가능성이 제기됩니다.\n데이터 수집 및 모델 학습 관행이 개인 프라이버시 권리를 침해할 수 있음을 지적합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30105",
+    "title": "Nvidia Cosmos 3",
+    "url": "https://news.hada.io/topic?id=30105",
+    "discussion_url": "https://news.hada.io/topic?id=30105",
+    "summary": "NVIDIA Cosmos 3는 물리 AI를 위한 단일 오픈 기반 모델로, 물리 추론·월드 생성·행동 생성을 하나의 모델 안에서 결합함\nMixture-of-Transformers 구조는 Reasoner tower와 Generator tower를 나눠 입력 이해와 물리 인식 생성 출력을 연결하며, 여러 모델과 추론...",
+    "score": 0,
+    "published_at": "2026-06-02T02:59:35+00:00",
+    "ai_summary": "NVIDIA Cosmos 3는 물리 AI를 위한 단일 오픈 기반 모델입니다.\n물리 추론, 월드 생성, 행동 생성을 하나의 모델에서 통합합니다.\nMixture-of-Transformers 구조를 통해 입력 이해와 물리 인식 생성을 처리합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30103",
+    "title": "SRE에서의 AI: Google은 어떻게 신뢰성 있는 운영의 미래를 설계하는가",
+    "url": "https://news.hada.io/topic?id=30103",
+    "discussion_url": "https://news.hada.io/topic?id=30103",
+    "summary": "AI 코딩 어시스턴트가 코드 생성·배포 속도를 끌어올리면서(생산성 최대 4배 목표) 사람이 일일이 검토하는 전통적 SRE 관행은 더 이상 확장 불가능 — Google이 SRE를 AI 시대에 맞게 재설계한 방법을 정리한 글\n단순히 기존 작업을 AI로 자동화하는 게 아니라, 자율 완화 에이전트(AI Operator), 실...",
+    "score": 0,
+    "published_at": "2026-06-02T02:08:38+00:00",
+    "ai_summary": "AI 코딩 어시스턴트의 발전으로 전통적인 SRE 관행이 한계에 부딪혔습니다.\nGoogle은 AI 시대를 맞아 SRE를 재설계하며 생산성 향상을 목표로 합니다.\n단순 자동화를 넘어 자율 완화 에이전트와 실시간 통찰력을 활용하는 새로운 운영 모델을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30102",
+    "title": "NVIDIA, RTX Spark 공개",
+    "url": "https://news.hada.io/topic?id=30102",
+    "discussion_url": "https://news.hada.io/topic?id=30102",
+    "summary": "NVIDIA가 소비자용 PC 칩 시장에 처음 진입하며 공개한 RTX Spark Superchip은 최대 6,144 코어 Blackwell RTX GPU와 20 코어 Arm 기반 Grace CPU를 결합한 형태\n올가을 Windows 노트북·소형 데스크톱에 탑재 예정으로 창작·AI 개발·게이밍을 동시에 가능케 하며, ...",
+    "score": 0,
+    "published_at": "2026-06-02T02:03:12+00:00",
+    "ai_summary": "NVIDIA는 소비자용 PC 칩 시장에 처음 진출하는 RTX Spark Superchip을 공개했습니다.\n블랙웰 RTX GPU와 Arm 기반 Grace CPU를 결합한 형태로 구성됩니다.\n올가을 윈도우 노트북 등에 탑재되어 창작, AI 개발, 게이밍을 지원할 예정입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30100",
+    "title": "Show GN: oh-my-harness - AI 코딩 에이전트를 위한 훅 제너레이터 CLI",
+    "url": "https://news.hada.io/topic?id=30100",
+    "discussion_url": "https://news.hada.io/topic?id=30100",
+    "summary": "안녕하세요. Claude Code랑 Codex를 쓰면서, 프롬프트에 배신당해(?) 훅 제너레이터인 oh-my-harness라는 CLI를 만들고 있습니다.\n처음에는 그냥 CLAUDE.md나 AGENTS.md에 지침들을 아래처럼 추가했었습니다.\n\n테스트 먼저 고쳐줘\n커밋 전에 테스트 돌려줘\nmain 브랜치에는 커",
+    "score": 0,
+    "published_at": "2026-06-02T01:31:31+00:00",
+    "ai_summary": "AI 코딩 에이전트 사용 시 프롬프트 문제를 해결하기 위한 훅 제너레이터 CLI, 'oh-my-harness'입니다.\nClaude Code, Codex 같은 AI 에이전트와 함께 사용되며 지침 관리를 돕습니다.\n테스트 수정 및 커밋 전 테스트 실행 등 개발 워크플로우를 효율화하는 데 초점을 맞춥니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30099",
+    "title": "Show GN: AI가 쓴 티 나는 문장, 패턴으로 잡아서 고쳐주는 도구를 만들었습니다",
+    "url": "https://news.hada.io/topic?id=30099",
+    "discussion_url": "https://news.hada.io/topic?id=30099",
+    "summary": "GPT로 초안을 만들면 글이 편해지는 대신 비슷한 티가 남습니다.\n한국어에서는 &quot;~적인&quot;, &quot;~하고 있다&quot;, 과하게 높아진 한자어, 너무 반듯한 목록이 자주 보입니다.\npatina는 이런 버릇을 패턴으로 잡고, 바꾼 이유를 남기면서 문장을 다듬는 오픈소스 도구입니다. 한국어, 영어, 중",
+    "score": 0,
+    "published_at": "2026-06-02T01:20:44+00:00",
+    "ai_summary": "AI가 생성한 글에서 흔히 나타나는 패턴을 찾아 고쳐주는 오픈소스 도구 'patina'입니다.\n한국어에서 \"~적인\", \"~하고 있다\" 등 AI 특유의 문장 표현을 식별하고 개선합니다.\n생성형 AI의 초안을 사람이 쓴 것처럼 자연스럽게 다듬는 데 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30096",
+    "title": "10년 된 Xeon이면 충분하다",
+    "url": "https://news.hada.io/topic?id=30096",
+    "discussion_url": "https://news.hada.io/topic?id=30096",
+    "summary": "Gemma 4 26B-A4B를 2016년형 단일 Intel Xeon E5-2620 v4, DDR3 128GB, GPU 없는 서버에서 ik_llama.cpp 최적화로 읽기 속도 수준까지 실행함\nLLM 디코더 패스는 연산보다 메모리 대역폭이 병목이며, CPU는 다음 가중치를 RAM에서 캐시로 가져오길 기...",
+    "score": 0,
+    "published_at": "2026-06-02T00:54:38+00:00",
+    "ai_summary": "2016년형 Xeon CPU와 DDR3 128GB만으로 Gemma 4 26B-A4B LLM을 GPU 없이 실행하는 데 성공했습니다.\nik_llama.cpp 최적화를 통해 LLM 디코더 패스의 메모리 대역폭 병목 현상을 해결한 사례입니다.\n이는 오래된 CPU 기반 시스템에서도 LLM을 효율적으로 구동할 수 있음을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30095",
+    "title": "Red Hat Cloud Services 전반에서 악성 npm 패키지 발견",
+    "url": "https://news.hada.io/rss/&quot;https:/www.step...",
+    "discussion_url": "https://news.hada.io/topic?id=30095",
+    "summary": "이슈는 열린 상태이며, 본문 기준으로 담당자·마일스톤·연결된 브랜치나 PR은 없음\n@redhat-cloud-services/ 범위의 여러 npm 릴리스에서 악성 버전이 발견됐다는 보안 이슈로 등록됨\n참고 자료로 StepSecurity의",
+    "score": 0,
+    "published_at": "2026-06-02T00:51:38+00:00",
+    "ai_summary": "Red Hat Cloud Services의 여러 npm 패키지에서 악성 버전이 발견되어 보안 이슈가 제기되었습니다.\n현재 이 문제는 해결되지 않은 상태이며, 담당자나 관련 작업 현황은 공개되지 않았습니다.\n이는 npm 생태계와 클라우드 서비스 사용 시 패키지 보안의 중요성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30094",
+    "title": "최신 Instagram “익스플로잇”은 내가 본 것 중 가장 어이없다",
+    "url": "https://news.hada.io/topic?id=30094",
+    "discussion_url": "https://news.hada.io/topic?id=30094",
+    "summary": "인스타그램 계정 username만으로 Meta 고객지원 AI를 속여 비밀번호 재설정과 계정 탈취가 가능한 취약점으로, Obama White House 계정 등 유명 계정 다수가 피해를 입음\n공격자는 피해자 도시 인근의 VPN·프록시로 접속해 보안 알고리듬의 의심을 회피한 뒤, 지원...",
+    "score": 0,
+    "published_at": "2026-06-02T00:48:38+00:00",
+    "ai_summary": "인스타그램 사용자 이름만으로 Meta 고객지원 AI를 속여 계정 탈취가 가능한 취약점이 발견되었습니다.\n이 취약점으로 오바마 백악관 등 유명 계정 다수가 피해를 입었으며, 공격자는 VPN/프록시로 보안 알고리즘을 회피했습니다.\nAI 기반 고객 지원 시스템의 보안 설계와 소셜 엔지니어링 방어의 중요성을 부각합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30091",
+    "title": "geo-seo-claude - Claude Code용 GEO 우선 SEO 스킬",
+    "url": "https://news.hada.io/topic?id=30091",
+    "discussion_url": "https://news.hada.io/topic?id=30091",
+    "summary": "AI 검색 엔진(ChatGPT, Claude, Perplexity, Google AI 오버뷰)을 겨냥한 웹사이트 최적화를 수행하면서 전통 SEO 기반도 함께 유지하는 Claude Code용 스킬\nGEO-first, SEO-supported 방식으로, AI가 참조하는 콘텐츠 구조·크롤러 접근성·브랜드 노출을 통합 점검...",
+    "score": 0,
+    "published_at": "2026-06-02T00:31:02+00:00",
+    "ai_summary": "Claude Code용 'geo-seo-claude' 스킬은 AI 검색 엔진을 겨냥한 웹사이트 최적화를 목표로 합니다.\n전통적인 SEO 기반을 유지하며 AI가 참조하는 콘텐츠 구조, 크롤러 접근성, 브랜드 노출을 통합 관리합니다.\n이는 AI 시대에 SEO 전략이 어떻게 변화하고 적용되어야 하는지를 보여주는 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30090",
+    "title": "단순히 X가 아니라, Y다",
+    "url": "https://news.hada.io/topic?id=30090",
+    "discussion_url": "https://news.hada.io/topic?id=30090",
+    "summary": "LLM이 즐겨 쓰는 &quot;It's not X, it's Y&quot; 부정 대조 구문은 본래 대비를 설정하고 기존 가정을 재구성하는 데 유용한 수사 기법\n최근 모델의 과용으로 이 구문이 나쁜 글쓰기로 낙인찍혔으나, 수사 장치는 담는 내용에 따라 가치가 달라짐\nAI 탐지...",
+    "score": 0,
+    "published_at": "2026-06-02T00:28:36+00:00",
+    "ai_summary": "LLM이 자주 사용하는 \"X가 아니라 Y다\" 구문은 본래 효과적인 수사 기법입니다.\n최근 모델들의 과도한 사용으로 부정적 인식이 생겼으나, 이는 내용에 따라 가치가 달라질 수 있습니다.\n이 현상은 LLM의 언어 사용 패턴과 그로 인한 글쓰기 품질에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48377404",
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "url": "https://github.com/c0dejedi/nbd-vram",
+    "discussion_url": "https://news.ycombinator.com/item?id=48377404",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-06-02T22:55:33+00:00",
+    "ai_summary": "Linux 시스템에서 Nvidia GPU의 VRAM을 스왑 공간으로 활용하는 방법에 대한 기사입니다.\n이는 시스템 메모리가 부족할 때 GPU 메모리를 보조 저장소로 사용하여 성능을 개선하는 기술입니다.\n특히 메모리 집약적인 애플리케이션이나 ML 모델 개발 시 유용하게 활용될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48374466",
+    "title": "MAI-Code-1-Flash",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48374466",
+    "summary": "",
+    "score": 368,
+    "published_at": "2026-06-02T18:47:07+00:00",
+    "ai_summary": "'MAI-Code-1-Flash'는 코드 생성 또는 관련 작업에 특화된 AI 모델일 것으로 예상됩니다.\n'Flash'라는 이름은 모델의 빠른 처리 속도나 효율성에 초점을 맞췄음을 시사합니다.\n개발자가 코딩 작업에 AI를 활용하는 데 기여할 수 있는 중요한 발전입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48367223",
+    "title": "California’s university system went all in on AI, now it's tearing itself apart",
+    "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48367223",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-06-02T07:46:20+00:00",
+    "ai_summary": "캘리포니아 대학 시스템이 AI 도입 후 학문적 무결성, 공정성 문제 등으로 심각한 내부 갈등을 겪고 있습니다.\nAI 활용과 윤리적 문제 사이의 복잡한 균형을 찾는 것이 주요 쟁점입니다.\n개발자들에게는 AI 교육 도구 개발 및 AI 거버넌스 설계에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375016",
+    "title": "Gmail thinks I'm stupid, so I left",
+    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375016",
+    "summary": "",
+    "score": 565,
+    "published_at": "2026-06-02T19:27:40+00:00",
+    "ai_summary": "사용자가 Gmail의 과도한 AI 기반 자동화 기능에 불만을 느껴 다른 서비스로 전환한 경험을 공유합니다.\n이는 사용자 경험(UX) 디자인과 AI 기능의 적절한 활용에 대한 비판적 시각을 제시합니다.\n개발자들에게는 제품 기획 시 사용자 통제권과 개인화를 존중하는 중요성을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375393",
+    "title": "My thoughts after using Clojure for about a month",
+    "url": "https://www.acdw.net/clojure/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375393",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-06-02T19:56:46+00:00",
+    "ai_summary": "한 달간 Clojure를 사용한 개인적인 경험과 소감을 공유하며, 언어의 장점과 학습 난이도에 대한 통찰을 제공합니다.\n함수형 프로그래밍과 Lisp 계열 언어에 관심 있는 개발자들에게 유용합니다.\n새로운 기술 스택을 고려하는 개발자에게 좋은 참고 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375150",
+    "title": "Open Repair Data Standard – Open Repair Alliance",
+    "url": "https://openrepair.org/open-data/open-standard/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375150",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-06-02T19:37:10+00:00",
+    "ai_summary": "Open Repair Alliance가 제품 수리 데이터의 공유와 분석을 위한 개방형 데이터 표준을 개발했습니다.\n이 표준은 제품 수명 연장과 지속 가능한 소비를 목표로 합니다.\n개발자들은 데이터 모델링, API 개발, 환경 관련 프로젝트에 기여할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48377631",
+    "title": "LLMs are not the black box you were promised",
+    "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+    "discussion_url": "https://news.ycombinator.com/item?id=48377631",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-06-02T23:27:30+00:00",
+    "ai_summary": "LLM이 단순히 '블랙박스'가 아니며, 내부 작동 방식과 의사결정 과정을 이해하고 해석할 수 있다는 주장을 다룹니다.\n이는 LLM의 투명성과 설명 가능성 연구의 중요성을 강조합니다.\nAI/ML 개발자들에게 LLM 연구 및 적용에 대한 심도 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48372239",
+    "title": "How we index images for RAG",
+    "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+    "discussion_url": "https://news.ycombinator.com/item?id=48372239",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-06-02T16:13:41+00:00",
+    "ai_summary": "RAG 시스템에서 이미지를 효과적으로 인덱싱하는 방법을 다룹니다.\n텍스트와 이미지 데이터의 연관성을 높여 검색 및 생성 성능을 향상시키는 기술을 설명합니다.\n개발자들이 멀티모달 RAG 시스템을 구축하는 데 필요한 접근 방식을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375673",
+    "title": "Now AI agents need what RSS does",
+    "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375673",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-06-02T20:19:11+00:00",
+    "ai_summary": "AI 에이전트가 인터넷에서 정보를 효과적으로 수집하고 처리하는 방법의 필요성을 강조합니다.\nRSS와 같은 표준화된 정보 구독 메커니즘이 AI 에이전트에게도 중요하다고 주장합니다.\n이는 AI 시스템의 정보 접근성과 효율성을 높이는 데 기여할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48377761",
+    "title": "AI Outperforms Law Professors in Stanford Law Study",
+    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48377761",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-06-02T23:43:12+00:00",
+    "ai_summary": "스탠퍼드 법대 연구에서 AI가 법학 교수보다 특정 법률 과제에서 더 나은 성능을 보였습니다.\n이는 AI의 추론 능력과 정보 처리 능력이 전문가 수준에 도달했음을 시사합니다.\n향후 법률 분야와 다른 전문직군에서 AI의 역할 변화에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48377080",
+    "title": "Gleam v1.17.0",
+    "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48377080",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-06-02T22:16:20+00:00",
+    "ai_summary": "함수형 프로그래밍 언어 Gleam의 v1.17.0 버전이 출시되었습니다.\n이번 업데이트에는 새로운 기능과 성능 개선, 버그 수정 등이 포함되어 있습니다.\nGleam 개발자와 관심 있는 이들에게 중요한 언어 업데이트 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48343901",
+    "title": "Multicore suppport for DOS is real – partly",
+    "url": "https://www.vogons.org/viewtopic.php?t=111336",
+    "discussion_url": "https://news.ycombinator.com/item?id=48343901",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-05-31T08:06:33+00:00",
+    "ai_summary": "오래된 운영체제인 DOS에서 멀티코어 지원이 부분적으로 가능해졌다는 흥미로운 기술 소식입니다.\n매우 낮은 수준의 시스템 프로그래밍과 하드웨어 제어를 통해 구현된 사례입니다.\n레거시 시스템이나 임베디드 개발, 혹은 컴퓨터 아키텍처에 깊은 관심이 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375175",
+    "title": "The advertising cartel coming to your web browser",
+    "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375175",
+    "summary": "",
+    "score": 119,
+    "published_at": "2026-06-02T19:39:25+00:00",
+    "ai_summary": "웹 브라우저에서 광고 기술 및 개인 정보 보호 정책의 변화에 대한 논의를 다룹니다.\n브라우저 제조사들이 새로운 광고 표준이나 추적 방지 기술을 도입하며 발생하는 변화를 설명합니다.\n웹 개발자와 사용자 프라이버시에 미치는 영향에 대해 이해할 필요가 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48367907",
+    "title": "Why Janet? (2023)",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48367907",
+    "summary": "",
+    "score": 423,
+    "published_at": "2026-06-02T09:34:31+00:00",
+    "ai_summary": "Janet은 Lisp에서 영감을 받은 경량의 임베딩 가능한 프로그래밍 언어입니다.\n주요 사용 사례와 다른 언어 대비 장점을 설명하며, 개발자들이 Janet을 고려해야 하는 이유를 다룹니다.\n스크립팅, 시스템 프로그래밍, DSL 구축에 적합하며 간결성과 성능을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48337000",
+    "title": "MP3s from Google Drive in Music Assistant on Home Assistant",
+    "url": "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48337000",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-05-30T15:01:45+00:00",
+    "ai_summary": "Home Assistant의 Music Assistant에서 Google Drive에 저장된 MP3 파일을 재생하는 방법을 설명합니다.\nAPI 연동 및 설정 단계를 거쳐 개인 미디어 라이브러리를 통합하는 과정을 안내합니다.\n스마트 홈 환경에서 개인 클라우드 저장소의 음악을 활용하는 실용적인 팁을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48377250",
+    "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+    "url": "https://github.com/getpaseo/paseo",
+    "discussion_url": "https://news.ycombinator.com/item?id=48377250",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-06-02T22:34:42+00:00",
+    "ai_summary": "Paseo는 아름다운 UI를 가진 오픈소스 코딩 에이전트 인터페이스를 소개합니다.\n개발자들이 AI 에이전트를 통해 코딩 작업을 효율적으로 수행하도록 돕는 도구입니다.\n오픈소스 프로젝트로서 커뮤니티 기여와 확장을 기대하며, 생산성 향상에 초점을 맞춥니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48373442",
+    "title": "QBE – Compiler Backend – 1.3",
+    "url": "https://c9x.me/compile/release/qbe-1.3.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48373442",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-06-02T17:37:32+00:00",
+    "ai_summary": "QBE는 경량의 재타겟팅 가능한 컴파일러 백엔드의 1.3 버전 출시를 알립니다.\n주요 업데이트와 개선 사항을 다루며, 컴파일러 개발자들에게 중요한 도구입니다.\n저수준 코드 생성 및 최적화에 초점을 맞춰 다양한 언어 및 아키텍처 지원을 목표로 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48373675",
+    "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+    "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48373675",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-06-02T17:52:48+00:00",
+    "ai_summary": "DeepSeek-V4-Flash라는 대규모 언어 모델을 AMD MI300X 가속기에서 구동하는 과정을 다룹니다.\n성능 최적화, 설정 및 배포에 대한 기술적 세부 사항을 제공합니다.\n최신 LLM을 특정 하드웨어에서 효율적으로 운영하는 방법을 탐구하는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48370588",
+    "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+    "url": "https://blog.davidedmundson.co.uk/blog/596/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48370588",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-06-02T14:16:30+00:00",
+    "ai_summary": "KDE Plasma가 X11을 지원하는 마지막 릴리스를 준비하고 있으며, Wayland로의 전환을 다룹니다.\n개발자와 사용자에게 X11 환경의 종료와 Wayland 기반으로의 마이그레이션을 위한 정보를 제공합니다.\n디스플레이 서버 기술 변화에 따른 시스템 및 애플리케이션 개발 방향을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48367904",
+    "title": "Love systemd timers",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48367904",
+    "summary": "",
+    "score": 338,
+    "published_at": "2026-06-02T09:34:11+00:00",
+    "ai_summary": "systemd 타이머는 기존 cron 작업의 현대적인 대안으로, Linux 시스템에서 작업 스케줄링을 관리합니다.\n명확한 구성, 강력한 로깅, 의존성 관리 등 여러 장점을 제공하여 효율성을 높입니다.\n백엔드 개발자 및 DevOps 엔지니어가 시스템 관리 작업을 자동화하는 데 매우 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48372036",
+    "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
+    "url": "https://github.com/shiihaa-app/shiihaa-breath-detection",
+    "discussion_url": "https://news.ycombinator.com/item?id=48372036",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-06-02T16:02:47+00:00",
+    "ai_summary": "휴대폰 마이크를 사용하여 실시간으로 호흡을 감지하고 사용자에게 바이오피드백을 제공하는 프로젝트입니다.\n음성 신호 처리 기술과 잠재적으로 AI/ML 기법을 활용하여 호흡 패턴을 분석하는 것이 핵심입니다.\n모바일 애플리케이션 개발, 헬스케어 기술 또는 AI/ML 분야에 관심 있는 개발자에게 유용한 참고 자료입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://qwen.ai/blog?id=qwen3.7-plus&amp%3Butm_source=tldrai",
+    "title": "Qwen3.7-Plus: Multimodal Agent Intelligence (36 minute read)",
+    "url": "https://qwen.ai/blog?id=qwen3.7-plus&amp%3Butm_source=tldrai",
+    "discussion_url": "https://qwen.ai/blog?id=qwen3.7-plus&amp%3Butm_source=tldrai",
+    "summary": "Qwen3.7-Plus is a multimodal agent model that unifies vision and language into a single, versatile agent foundation. It can operate as a multimodal interactive hybrid agent, seamlessly blending GUI and CLI interactions within a single agent loop. The model performs consistently across scaffolds and frameworks. Qwen3.7-Plus is now available via Alibaba Cloud Model Studio.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Qwen3.7-Plus는 비전과 언어를 통합한 다재다능한 멀티모달 에이전트 모델입니다. GUI와 CLI 상호작용을 매끄럽게 결합하여 활용할 수 있으며, Alibaba Cloud Model Studio를 통해 이용 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "title": "OpenAI and Codex Reach AWS (3 minute read)",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "discussion_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "summary": "OpenAI announced the general availability of its frontier models and Codex on AWS. The integration allows enterprises to access OpenAI capabilities through existing AWS security, governance, procurement, and billing workflows.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "OpenAI의 주요 모델과 Codex가 AWS에서 공식적으로 일반 공개되었습니다. 이제 기업들은 기존 AWS 보안, 거버넌스, 구매, 청구 워크플로우를 통해 OpenAI 기능에 접근할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2061304911565144230.html",
+    "title": "NVIDIA just announced the release of Nemotron 3 Ultra (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2061304911565144230.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2061304911565144230.html",
+    "summary": "Nemotron 3 Ultra features 550B parameters (55B active). It is the most intelligent open weights model from the US. The model will be made available in NVFP4 quantization for higher inference performance. It scores 48 on the Artificial Analysis Intelligence Index, well ahead of the next strongest model, Gemma 4 31B, which scored 39. Nemotron 3 Ultra serves over 300 tokens per second on a pre-release Deep Infra endpoint.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "NVIDIA는 550B 파라미터(55B 활성)를 가진 가장 지능적인 오픈 웨이트 모델인 Nemotron 3 Ultra를 출시했습니다. 이 모델은 NVFP4 양자화를 통해 높은 추론 성능을 제공하며, 인공 분석 지능 지수에서 높은 점수를 받았습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/video-agents",
+    "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine (98 minute read)",
+    "url": "https://www.latent.space/p/video-agents",
+    "discussion_url": "https://www.latent.space/p/video-agents",
+    "summary": "Ethan He was the lead on Nvidia's Cosmos World Model. He then joined xAI and built Grok Image in three months. He has been in the center of some of the most important work in video generation, multimodal models, and real-time world models. This post contains an interview with He where he unpacks what it actually takes to build frontier image and video systems.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Nvidia Cosmos World Model의 리더였던 Ethan He가 xAI에서 Grok Image를 구축했으며, 비디오 생성, 멀티모달 모델 분야의 핵심 인물입니다. 이 게시물은 최첨단 이미지 및 비디오 시스템 구축에 대한 그의 심층적인 인터뷰를 담고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI (5 minute read)",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+    "discussion_url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+    "summary": "Nvidia Cosmos 3 is a new leaderboard-topping open physical AI foundation model. It is a fully open omnimodel with native vision reasoning and multimodal generation across text, image, video, ambient sound, and action. The model is built on a mixture-of-transformer architecture, which pairs a reasoning transformer with an expert generation transformer. It gives developers a powerful pretrained foundation for building physical AI systems with less data and lower training costs.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "NVIDIA는 새로운 오픈 물리 AI 파운데이션 모델인 Cosmos 3를 출시했습니다. 이 모델은 텍스트, 이미지, 비디오, 사운드, 액션 전반에 걸친 멀티모달 생성 기능을 제공하며, 개발자들이 더 적은 데이터와 낮은 훈련 비용으로 물리 AI 시스템을 구축할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2605.31268",
+    "title": "JetBrains's Mellum 2 (49 minute read)",
+    "url": "https://arxiv.org/abs/2605.31268",
+    "discussion_url": "https://arxiv.org/abs/2605.31268",
+    "summary": "JetBrains introduced Mellum 2, a 12B-parameter MoE language model optimized for coding, reasoning, tool use, and agentic workflows.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "JetBrains는 코딩, 추론, 도구 사용 및 에이전트 워크플로우에 최적화된 12B 파라미터 MoE 언어 모델 Mellum 2를 소개했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock",
+    "title": "Running OpenAI Models on Amazon Bedrock (58 minute read)",
+    "url": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock",
+    "discussion_url": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock",
+    "summary": "OpenAI cookbook walks through building production workflows with OpenAI models hosted on Amazon Bedrock using the Responses API. It covers structured outputs, tool calling, file inputs, state management, prompt caching, and operational best practices.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Amazon Bedrock에서 OpenAI 모델을 운영하는 프로덕션 워크플로우 구축 가이드입니다. Responses API를 활용하여 구조화된 출력, 툴 호출, 파일 입력, 상태 관리, 프롬프트 캐싱 등 기술적 모범 사례를 다룹니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+    "title": "Rethinking Search as Code Generation (25 minute read)",
+    "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+    "discussion_url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+    "summary": "Perplexity introduces Search as Code (SaC) to modernize search architectures by allowing models direct control over the search process via an SDK. This approach lets AI models configure search pipelines tailored to specific tasks, improving performance and efficiency over traditional monolithic systems. SaC outperformed competitors in benchmarks, especially in complex tasks like WANDR, demonstrating its robust, cost-effective agentic search capabilities.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Perplexity가 모델이 SDK를 통해 검색 프로세스를 직접 제어하는 Search as Code(SaC)를 도입하여 검색 아키텍처를 현대화합니다. AI 모델이 특정 작업에 맞춰 검색 파이프라인을 구성하여 성능과 효율성을 향상시킵니다. SaC는 벤치마크에서 경쟁사들을 능가하며 강력하고 비용 효율적인 에이전트형 검색 기능을 입증했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/search-toolkit/",
+    "title": "Mistral Search Toolkit for Production AI Pipelines (4 minute read)",
+    "url": "https://mistral.ai/news/search-toolkit/",
+    "discussion_url": "https://mistral.ai/news/search-toolkit/",
+    "summary": "Mistral released Search Toolkit in public preview, an open-source framework that unifies data ingestion, retrieval, and evaluation within a shared interface.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Mistral이 프로덕션 AI 파이프라인을 위한 오픈소스 프레임워크인 Search Toolkit을 공개 프리뷰로 출시했습니다. 이 툴킷은 데이터 수집, 검색, 평가를 단일 인터페이스에서 통합합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2061513383287882111.html",
+    "title": "Opus 4.8 just broke ARC-AGI-3 (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2061513383287882111.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2061513383287882111.html",
+    "summary": "It tripled GPT-5.5's score.",
+    "score": 0,
+    "published_at": "2026-06-03T00:27:29+00:00",
+    "ai_summary": "Opus 4.8이 ARC-AGI-3 벤치마크에서 GPT-5.5의 점수를 3배 뛰어넘으며 기록을 경신했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
