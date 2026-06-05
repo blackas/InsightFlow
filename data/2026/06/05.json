@@ -1,0 +1,676 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30186",
+    "title": "제품 전반에서 Claude를 격리하는 방식들",
+    "url": "https://news.hada.io/topic?id=30186",
+    "discussion_url": "https://news.hada.io/topic?id=30186",
+    "summary": "Claude 격리는 에이전트의 능력과 접근 권한이 커질수록 실패 가능성보다 이론적 피해 범위인 폭발 반경을 제한하는 문제로 이동함\n휴먼 인 더 루프 방식은 Claude Code 권한 프롬프트의 약 93%가 승인되면서 승인 피로가 드러났고, 확률적 모델 방어만으로는 100%...",
+    "score": 0,
+    "published_at": "2026-06-05T00:02:38+00:00",
+    "ai_summary": "Claude와 같은 AI 에이전트의 능력과 접근 권한이 커짐에 따라, 이들의 실패 시 잠재적 피해를 제한하는 방식이 중요해졌습니다.\n'휴먼 인 더 루프' 방식은 승인 피로를 보였고, 순수한 확률적 모델 방어만으로는 100% 안전하지 않습니다.\n이는 AI 에이전트의 안전한 통합 및 운영에 대한 중요한 과제를 제기합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30184",
+    "title": "VoidZero가 Cloudflare에 합류",
+    "url": "https://news.hada.io/topic?id=30184",
+    "discussion_url": "https://news.hada.io/topic?id=30184",
+    "summary": "VoidZero는 Vite, Vitest, Rolldown, Oxc, Vite+를 만든 회사이며, 이제 VoidZero 팀 전원이 Cloudflare에 합류\n하지만, 개발중인 프로젝트는 오픈소스·벤더 중립·커뮤니티 주도로 계속 유지될 것\nVite는 Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router...",
+    "score": 0,
+    "published_at": "2026-06-04T23:55:27+00:00",
+    "ai_summary": "Vite, Vitest 등을 개발한 VoidZero 팀이 Cloudflare에 합류했습니다.\n하지만 개발 중인 프로젝트들은 기존과 같이 오픈소스, 벤더 중립, 커뮤니티 주도로 계속 유지될 예정입니다.\nVite는 Vue, SvelteKit, React 등 다양한 프레임워크에서 널리 사용되는 중요한 개발 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30181",
+    "title": "32GB DDR5가 이제 최소 $375 — AI발 공급 부족이 PC 조립을 계속 압박",
+    "url": "https://news.hada.io/topic?id=30181",
+    "discussion_url": "https://news.hada.io/topic?id=30181",
+    "summary": "DDR5 32GB는 2026년 게이밍 PC와 고성능 PC 구성의 적정 용량으로 여겨지지만, AI 수요가 PC 하드웨어 공급망의 제조 역량을 소모하면서 최저가가 $374.97까지 상승함\nRAM 가격 추적 기준으로 1년 전 $100 미만이던 키트가 이제 16GB는 $240 이상이고, 32GB는 한동안 $320 안팎에서 ...",
+    "score": 0,
+    "published_at": "2026-06-04T15:36:17+00:00",
+    "ai_summary": "AI 수요가 PC 하드웨어 공급망의 제조 역량을 소모하면서, DDR5 32GB RAM 가격이 $375까지 급등했습니다.\n이는 2026년 게이밍 및 고성능 PC의 적정 용량으로 여겨지는 32GB RAM의 조립 비용을 크게 증가시키고 있습니다.\nAI발 공급 부족으로 RAM 가격이 전반적으로 상승하여 PC 구성에 압박을 주고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30179",
+    "title": "AI와 함께 일하는 디자이너의 하루는 어떻게 달라졌을까?",
+    "url": "https://news.hada.io/topic?id=30179",
+    "discussion_url": "https://news.hada.io/topic?id=30179",
+    "summary": "Gstack·Claude·Figma AI까지, 디자이너의 새로운 업무 방식과 아직 남아있는 현실적인 과제들\nAI와 함께 일하는 디자이너의 실무 변화를 분석한 글.\n도구의 속도는 빨라졌으나 실제 업무 효율성 향상은 기대 이하라는 현실을 조명하고 있음.\n문제 정의 영역에서의 AI 활용:\n• Gstack 스킬",
+    "score": 0,
+    "published_at": "2026-06-04T13:49:31+00:00",
+    "ai_summary": "Gstack, Claude, Figma AI 등 AI 도구들이 디자이너의 업무 방식에 변화를 가져왔습니다.\n도구의 속도는 빨라졌으나, 실제 업무 효율성 향상은 기대에 미치지 못하는 현실적인 과제가 남아있습니다.\n이는 문제 정의 영역에서의 AI 활용과 같은 새로운 협업 방식의 모색을 필요로 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30171",
+    "title": "Show GN: VLM은 한국 공공기관 문서를 얼마나 잘 읽을까? KOLongDoc 벤치마크 공개",
+    "url": "https://github.com/Marker-Inc-Korea/KOLongDoc",
+    "discussion_url": "https://news.hada.io/topic?id=30171",
+    "summary": "🔥 한국어 Long-Document VLM 벤치마크, KOLongDoc를 공개했습니다!\n최근 ChatGPT, Claude, Gemini 같은 멀티모달 AI가 공공·행정 업무에도 활용되기 시작했지만, 정작 &quot;긴 한국어 문서를 얼마나 잘 이해하는가?&quot; 를 평가할 수 있는 벤",
+    "score": 0,
+    "published_at": "2026-06-04T06:38:24+00:00",
+    "ai_summary": "한국어 Long-Document VLM 벤치마크인 KOLongDoc이 공개되었습니다.\n이는 ChatGPT, Claude 등 멀티모달 AI가 긴 한국어 공공기관 문서를 얼마나 잘 이해하는지 평가하기 위함입니다.\nAI의 한국어 문서 처리 능력 검증 및 개선에 중요한 기여를 할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30170",
+    "title": "Show GN: TxtAIEditor - AI 에이전트와 Markdown/html 미리보기를 탑재한 Windows 텍스트 에디터",
+    "url": "https://news.hada.io/topic?id=30170",
+    "discussion_url": "https://news.hada.io/topic?id=30170",
+    "summary": "TxtAIEditor는 .NET 10.0 및 WinUI 3의 강력한 윈도우 네이티브 성능 위에, WebView2 기반의 커스텀 코어를 융합하여 유연한 렌더링 기능을 결합한 프리미엄 데스크톱 에디터입니다.마크다운 작성, AI 협업, 간단한 CSV 편집까지 개발자와 파워 유저에게 필요한 유용한 기능들을 유기적으로 통합했습니다.\n🌟",
+    "score": 0,
+    "published_at": "2026-06-04T05:43:56+00:00",
+    "ai_summary": "TxtAIEditor는 .NET 10.0 및 WinUI 3 기반의 Windows용 프리미엄 텍스트 에디터입니다.\nAI 에이전트와의 협업, 마크다운 작성, HTML 미리보기, CSV 편집 등 개발자와 파워 유저를 위한 기능들을 통합했습니다.\n개발 워크플로우에 AI 기능을 결합하여 생산성을 높이는 새로운 유형의 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30169",
+    "title": "Show GN: Project Capture - 웹 프로젝트 화면 캡처를 자동화하는 AI 에이전트용 스킬",
+    "url": "https://news.hada.io/topic?id=30169",
+    "discussion_url": "https://news.hada.io/topic?id=30169",
+    "summary": "웹 프로젝트 화면 캡처를 반복해서 하다 보니, 라우트 확인, 로그인 처리, 캡처 범위 선택, 결과 정리를 매번 수동으로 하는 게 번거로워서 만들었습니다.\nproject-capture는 AI 코딩 에이전트가 프로젝트를 먼저 분석한 뒤, 어떤 화면을 캡처할지 사용자에게 확인하고 Playwright로 스크린샷과",
+    "score": 0,
+    "published_at": "2026-06-04T05:42:11+00:00",
+    "ai_summary": "Project Capture는 AI 코딩 에이전트용 스킬로, 웹 프로젝트 화면 캡처 작업을 자동화합니다.\nAI 에이전트가 프로젝트를 분석한 뒤 Playwright를 사용하여 스크린샷을 생성하며, 반복적인 수동 작업을 줄여줍니다.\n웹 개발자들의 작업 효율성을 크게 향상시킬 수 있는 유용한 자동화 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30168",
+    "title": "DaVinci Resolve 21",
+    "url": "https://news.hada.io/topic?id=30168",
+    "discussion_url": "https://news.hada.io/topic?id=30168",
+    "summary": "DaVinci Resolve 21은 정지 사진용 Photo page를 추가하고 AI, 편집, 컬러, Fusion, Fairlight, 몰입형·VR 워크플로를 함께 확장한 대규모 업데이트임\nAI 도구는 콘텐츠·대사·얼굴 검색, 10초 음성 샘플 기반 음성 생성, 초점 조정, 얼굴 나이·형상 변경, 잡티 제거...",
+    "score": 0,
+    "published_at": "2026-06-04T02:38:11+00:00",
+    "ai_summary": "DaVinci Resolve 21은 정지 사진용 Photo page를 추가하고 AI, 편집 등 워크플로를 확장한 대규모 업데이트입니다.\nAI 도구는 콘텐츠 및 대사 검색, 음성 생성, 초점 조정, 얼굴 편집 등 다양한 기능을 포함합니다.\n이는 미디어 편집 분야에서 AI 기술의 광범위한 적용을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30166",
+    "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
+    "url": "https://news.hada.io/topic?id=30166",
+    "discussion_url": "https://news.hada.io/topic?id=30166",
+    "summary": "The Cathedral, the Bazaar, and the Winchester Mystery House\n1998년 에릭 레이먼드가 발표한 '대성당과 바자르'는 오픈소스 운동의 출발점이 된 문서입니다. 폐쇄적이고 통제된 '대성당' 방식과 개방적이고 분산된 '바자르' 방식을 대비시킨 이 글은, 인터넷이 코드 협업 비용을 낮추면서 바자르 모델이 한",
+    "score": 0,
+    "published_at": "2026-06-04T01:55:40+00:00",
+    "ai_summary": "이 기사는 '대성당과 바자르'를 인용하여 소프트웨어 개발 모델을 분석하고, AI 시대의 새로운 모델을 모색합니다.\n폐쇄적 '대성당'과 개방적 '바자르' 방식을 비교하며 오픈소스 운동의 중요성을 강조합니다.\nAI 기술이 코드 협업 및 개발 방식에 미치는 영향에 대해 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48405931",
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "discussion_url": "https://news.ycombinator.com/item?id=48405931",
+    "summary": "",
+    "score": 47,
+    "published_at": "2026-06-04T23:11:56+00:00",
+    "ai_summary": "이 기사는 트랜스포머 아키텍처에서 Q(Query), K(Key), V(Value) 세 가지 프로젝션의 필요성에 대해 체계적으로 연구합니다.\n다양한 QKV 변형에 대한 심층 분석을 통해 트랜스포머 모델의 효율성과 성능 최적화 방안을 탐구합니다.\n이는 AI/ML 모델 개발자 및 연구자에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48403980",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "discussion_url": "https://news.ycombinator.com/item?id=48403980",
+    "summary": "",
+    "score": 224,
+    "published_at": "2026-06-04T20:11:20+00:00",
+    "ai_summary": "Anthropic은 AI 기반 취약점 발견을 위한 오픈소스 프레임워크를 공개했습니다.\n이 프레임워크는 인공지능을 활용하여 소프트웨어의 잠재적 보안 취약점을 식별하는 데 도움을 줍니다.\n개발자들은 이를 통해 애플리케이션 보안을 강화하고 개발 프로세스를 개선할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48405019",
+    "title": "IPv6 zones in URLs are a mistake",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48405019",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-06-04T21:42:34+00:00",
+    "ai_summary": "이 기사는 URL에서 IPv6 존(zone) 식별자를 사용하는 것이 문제의 소지가 있다고 주장합니다.\nIPv6 존의 복잡성과 잠재적 오류 발생 가능성을 지적하며, URL 표준에서 해당 기능의 설계적 결함을 논합니다.\n이는 네트워크 및 백엔드 개발자들에게 중요한 고려 사항을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48398055",
+    "title": "VoidZero Is Joining Cloudflare",
+    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48398055",
+    "summary": "",
+    "score": 550,
+    "published_at": "2026-06-04T13:00:51+00:00",
+    "ai_summary": "VoidZero가 Cloudflare에 합류한다는 소식입니다. Cloudflare는 CDN, 보안 및 엣지 컴퓨팅 분야의 선두 기업입니다.\n이번 합병은 양사의 기술 시너지를 통해 개발자들에게 더 나은 서비스를 제공할 것으로 예상됩니다.\n이는 클라우드 인프라와 보안 기술 발전에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48400842",
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "discussion_url": "https://news.ycombinator.com/item?id=48400842",
+    "summary": "",
+    "score": 292,
+    "published_at": "2026-06-04T16:20:17+00:00",
+    "ai_summary": "이 기사는 인공지능의 재귀적 자기 개선(recursive self-improvement)에 대한 현재 진행 상황을 다룹니다.\nAI가 스스로를 구축하고 발전시키는 개념을 탐구하며, 미래 AI 시스템의 잠재력과 도전 과제를 제시합니다.\nAI/ML 연구 및 개발 분야의 핵심적인 논의를 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375445",
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "url": "https://tiki.li/blog/blqsort",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375445",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-06-02T20:00:54+00:00",
+    "ai_summary": "이 기사는 기존 std::sort 및 pdqsort보다 빠른 '브랜치리스 퀵정렬' 구현을 소개합니다.\nC 및 C++ API를 제공하여 개발자들이 쉽게 활용할 수 있도록 하며, 분기 예측 실패를 줄여 성능을 극대화하는 방법을 설명합니다.\n시스템 및 알고리즘 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48399974",
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "discussion_url": "https://news.ycombinator.com/item?id=48399974",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-06-04T15:18:00+00:00",
+    "ai_summary": "화웨이가 개발한 KVarN은 vLLM 백엔드를 위한 KV-캐시 양자화 기술입니다. 이는 대규모 언어 모델(LLM)의 메모리 사용량과 추론 속도를 최적화하는 데 기여합니다. LLM 배포 및 성능 개선에 관심 있는 AI/ML 및 백엔드 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48404224",
+    "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+    "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+    "discussion_url": "https://news.ycombinator.com/item?id=48404224",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-06-04T20:32:18+00:00",
+    "ai_summary": "FFmpeg WebCLI는 브라우저 내에서 FFmpeg의 모든 기능을 제공하는 도구입니다. WebAssembly(WASM) 기반으로 작동하며, 오프라인 PWA를 지원하고 파일 업로드 없이 처리합니다. 프론트엔드, WASM, 웹 기반 미디어 처리 도구에 관심 있는 개발자에게 큰 가치를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48403753",
+    "title": "Castor: CERN Advanced STORage Manager",
+    "url": "https://castor.web.cern.ch/content/home.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48403753",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-06-04T19:52:02+00:00",
+    "ai_summary": "CERN의 Castor는 대규모 과학 데이터를 효율적으로 관리하는 고급 스토리지 시스템입니다. 수 페타바이트에 달하는 데이터를 저장, 검색, 보관하는 데 필요한 기술적 도전을 해결합니다. 대용량 데이터베이스, 클라우드 인프라, 백엔드 시스템을 다루는 개발자에게 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48405841",
+    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "url": "https://arxiv.org/abs/2604.24881",
+    "discussion_url": "https://news.ycombinator.com/item?id=48405841",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-06-04T23:01:40+00:00",
+    "ai_summary": "Latent Agents는 학습 후 절차를 통해 모델 내부에 다중 에이전트 토론을 내재화하는 방법입니다. 이를 통해 인공지능 모델의 추론 능력, 일관성 및 의사 결정 품질을 향상시킬 수 있습니다. 최신 AI/ML 연구 및 LLM 시스템의 성능 개선에 관심 있는 개발자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48379580",
+    "title": "External Clock Generation on RTX 50 Series",
+    "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+    "discussion_url": "https://news.ycombinator.com/item?id=48379580",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-06-03T03:35:54+00:00",
+    "ai_summary": "RTX 50 시리즈 GPU의 외부 클럭 생성에 대한 기술적 분석입니다.\n하드웨어 수준의 타이밍 및 동기화 구현을 다룹니다.\n임베디드 시스템 또는 드라이버 개발자에게 유용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48375064",
+    "title": "JLink JTAG Access on the Pinecil",
+    "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48375064",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-06-02T19:30:44+00:00",
+    "ai_summary": "Pinecil 장치에 대한 JLink JTAG 접근 방법을 설명하는 기사입니다.\n하드웨어 디버깅 및 펌웨어 개발에 유용한 정보를 제공합니다.\n임베디드 시스템 개발자나 하드웨어 해킹에 관심 있는 이들에게 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48360414",
+    "title": "Making Debian or Fedora persistent live images",
+    "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48360414",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-06-01T18:02:10+00:00",
+    "ai_summary": "Debian 또는 Fedora의 영구 라이브 이미지를 만드는 방법을 다룹니다.\nUSB 드라이브에 설치 없이 운영체제를 구동하고 변경사항을 저장하는 기술입니다.\n시스템 관리자나 개발자에게 유용한 포터블 환경 구축 팁을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48402082",
+    "title": "Show HN: Hitoku Draft – Context aware local assistant",
+    "url": "https://hitoku.me/draft/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48402082",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-06-04T17:48:58+00:00",
+    "ai_summary": "Hitoku Draft는 문맥을 이해하는 로컬 기반의 개인 비서 애플리케이션입니다.\n사용자 데이터를 로컬에서 처리하여 개인 정보 보호에 강점을 가집니다.\nAI/ML, LLM 기술을 활용한 새로운 생산성 도구로 개발자들에게 흥미로울 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48403588",
+    "title": "Meta's ships facial recognition on smart glasses",
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48403588",
+    "summary": "",
+    "score": 202,
+    "published_at": "2026-06-04T19:36:48+00:00",
+    "ai_summary": "Meta가 스마트 안경에 안면 인식 기능을 탑재하여 출시했습니다.\n이는 사용자 경험을 향상시키지만 개인 정보 보호에 대한 논의를 촉발할 수 있습니다.\nAI/ML 기술의 상업적 적용 사례로, 관련 분야 개발자들에게 시사점을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48404732",
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+    "url": "https://www.mercek.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48404732",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-06-04T21:15:16+00:00",
+    "ai_summary": "Mercek은 AWS ECS(Elastic Container Service)를 위한 데스크톱 IDE를 소개합니다.\n컨테이너 배포 및 관리를 로컬 환경에서 더 쉽게 할 수 있도록 돕습니다.\nAWS 클라우드 및 컨테이너 개발자들에게 매우 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48403377",
+    "title": "WSL 2 is getting faster Windows file system access",
+    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48403377",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-06-04T19:21:18+00:00",
+    "ai_summary": "WSL 2의 윈도우 파일 시스템 접근 속도가 크게 향상됩니다. 이는 윈도우 환경에서 리눅스 개발 작업을 하는 개발자들에게 성능 이점을 제공합니다. 특히 대규모 프로젝트나 I/O 집약적인 작업에서 개발 효율성이 증대될 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48396792",
+    "title": "Gaussian Point Splatting",
+    "url": "https://momentsingraphics.de/Siggraph2026.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48396792",
+    "summary": "",
+    "score": 173,
+    "published_at": "2026-06-04T10:48:13+00:00",
+    "ai_summary": "Gaussian Point Splatting은 3D 그래픽 렌더링을 위한 새로운 기술입니다. 이는 실제와 같은 장면을 매우 효율적으로 생성하고 조작할 수 있게 합니다. 특히 실시간 렌더링 및 XR/VR 분야 개발자들에게 중요한 영향을 미칠 잠재력이 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48399528",
+    "title": "AI, Ashby Engineering, and the future",
+    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+    "discussion_url": "https://news.ycombinator.com/item?id=48399528",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-06-04T14:48:44+00:00",
+    "ai_summary": "본 기사는 인공지능과 Ashby의 공학 원칙(시스템 제어 및 복잡성)의 결합을 탐구합니다. 미래의 AI 시스템 설계 및 제어 방식에 대한 깊은 통찰력을 제공합니다. 이는 복잡한 AI 시스템을 구축하고 관리하는 개발자들에게 중요한 시사점을 줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48397731",
+    "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
+    "url": "https://news.ycombinator.com/item?id=48397731",
+    "discussion_url": "https://news.ycombinator.com/item?id=48397731",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-06-04T12:32:40+00:00",
+    "ai_summary": "페이스북의 \"localhost\" 트래킹에 대한 질문으로, 이 기술의 현재 상태와 영향을 묻고 있습니다. 이는 웹 개발자, 보안 전문가 및 개인 정보 보호에 관심 있는 개발자들에게 중요한 이슈입니다. 웹 애플리케이션의 동작 방식과 잠재적 보안 취약점에 대한 논의를 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c?st=q9zW6D&reflink=desktopwebshare_permalink",
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers (7 minute read)",
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c?st=q9zW6D&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c?st=q9zW6D&reflink=desktopwebshare_permalink",
+    "summary": "Meta doesn't have a planned date to release its newest AI models to developers. The company is testing its API with partners and had plans to release it this month. The Muse Spark model is reportedly competitive with OpenAI and Anthropic's offerings, but it has yet to be evaluated by outside firms. The delay raises questions about how quickly Meta can monetize its massive investments in building frontier AI models.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "메타가 새로운 AI 모델(Muse Spark)의 개발자용 출시를 지연하고 있습니다. 이 모델은 OpenAI 및 Anthropic 제품과 경쟁력이 있을 것으로 보이나, 외부 평가는 아직 이루어지지 않았습니다. 개발자 API 출시가 지연되면서 메타의 AI 투자 수익화에 대한 의문이 제기됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/",
+    "title": "Meet Dreambeans, an app that connects you with what matters (3 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/",
+    "summary": "Google Labs introduces Dreambeans, an app using AI to curate personalized stories based on Google apps data like Gmail and Calendar. It aims to inspire by cutting through digital clutter with content tailored to user interests, such as recommending dog-friendly restaurants based on calendar events.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "구글 랩스가 AI를 활용하여 개인화된 스토리를 제공하는 앱 'Dreambeans'를 소개했습니다. 이 앱은 Gmail, 캘린더 등 사용자 데이터를 기반으로 관심사에 맞는 콘텐츠를 큐레이션합니다. 디지털 혼란 속에서 사용자에게 영감을 주는 것을 목표로 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-makes-its-next-hardware-move-with-opal-electronics/",
+    "title": "OpenAI makes its next hardware move with Opal Electronics (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-makes-its-next-hardware-move-with-opal-electronics/",
+    "discussion_url": "https://www.testingcatalog.com/openai-makes-its-next-hardware-move-with-opal-electronics/",
+    "summary": "OpenAI leads a funding round for Opal Electronics, focusing on a new product line extending beyond webcams into AI-native devices for creative work. This aligns with OpenAI's push into hardware, despite delays in its own ambient computing project.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "OpenAI가 Opal Electronics에 투자하며 AI 네이티브 장치 분야로 하드웨어 확장을 추진합니다. 웹캠을 넘어 창의적 작업을 위한 AI 기반 장치 개발에 집중합니다. 이는 OpenAI의 컴퓨팅 프로젝트 지연에도 불구하고 하드웨어 진출 의지를 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it (9 minute read)",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "discussion_url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "summary": "This developer created a vulnerable book review app to see if LLMs could find a flag in users' private reviews by reproducing a common class of exploits. GPT-5.5 performed the best, solving the task in seven out of 10 runs. DeepSeek-V4-Pro was the runner-up with only three successful runs. Claude Sonnet 4.6 was the most expensive model to run, and it only solved the task on two runs, but five of the runs stopped because of the max budget. Many models could not complete the task due to security g",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "한 개발자가 취약한 앱을 만들어 LLM이 이를 해킹할 수 있는지 실험했습니다. GPT-5.5가 10번 중 7번 성공하며 가장 좋은 성능을 보였습니다. 이 실험은 LLM이 일반적인 취약점을 재현하고 악용할 수 있음을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/ideogram-oss/ideogram4",
+    "title": "Ideogram 4 (GitHub Repo)",
+    "url": "https://github.com/ideogram-oss/ideogram4",
+    "discussion_url": "https://github.com/ideogram-oss/ideogram4",
+    "summary": "Ideogram 4 is an open-weight text-to-image model. It was trained from scratch and not a fine-tune of any existing model. The model introduces a new structured JSON prompting interface. It features best-in-class multilingual text rendering, deep language understanding, explicit bounding-box layout and color-palette controls, and native 2k resolution images.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "Ideogram 4는 스크래치부터 학습된 오픈 가중치 텍스트-이미지 모델로 GitHub에 공개되었습니다. 새로운 구조화된 JSON 프롬프팅 인터페이스를 도입했으며, 다국어 텍스트 렌더링 및 언어 이해에 강점을 보입니다. 네이티브 2k 해상도 이미지와 레이아웃/색상 제어 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2606.03979",
+    "title": "Sleep for Continual Learning (24 minute read)",
+    "url": "https://arxiv.org/abs/2606.03979",
+    "discussion_url": "https://arxiv.org/abs/2606.03979",
+    "summary": "Google researchers propose a new “Sleep” paradigm that helps models consolidate short-term in-context knowledge into longer-term parameters through distillation and replay. The approach also uses a “Dreaming” stage with reinforcement learning to generate synthetic curricula for self-improvement.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "구글 연구진은 모델이 단기 지식을 장기 파라미터로 통합하는 새로운 '수면(Sleep)' 패러다임을 제안합니다. 이 접근 방식은 증류 및 리플레이를 통해 지식을 강화하며, '꿈(Dreaming)' 단계를 통해 자체 개선을 위한 합성 커리큘럼을 생성합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://tomtunguz.com/tokens-per-result/",
+    "title": "Intelligence Per Dollar (2 minute read)",
+    "url": "https://tomtunguz.com/tokens-per-result/",
+    "discussion_url": "https://tomtunguz.com/tokens-per-result/",
+    "summary": "Microsoft introduces \"average token usage\" on model release cards, emphasizing intelligence per dollar. Models are now benchmarked on performance and the cost of achieving that intelligence. This new metric forces companies to compete on efficiency, aligning pricing with tangible outcomes like completed support cases.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "마이크로소프트는 모델 출시 카드에 '토큰 평균 사용량' 지표를 도입하여 '투자 대비 지능'을 강조합니다. 이는 모델 성능뿐만 아니라 비용 효율성도 벤치마킹하는 새로운 표준입니다. 기업들이 AI 모델의 효율성으로 경쟁하고 실제 성과에 따라 가격을 책정하도록 유도합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82?st=SkNT6W&reflink=desktopwebshare_permalink&mod=tldr",
+    "title": "Anthropic Bulks Up Its Enterprise Partner Program Amid IPO Plans (4 minute read)",
+    "url": "https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82?st=SkNT6W&reflink=desktopwebshare_permalink&mod=tldr",
+    "discussion_url": "https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82?st=SkNT6W&reflink=desktopwebshare_permalink&mod=tldr",
+    "summary": "Anthropic's Claude Partner Network is a program for third-party sellers of its AI products that helps them move more product. Firms participating in the program must meet a slate of requirements, but joining it gives companies a great deal of credibility when selling Claude to businesses. The move helps Anthropic demonstrate to the market that it is thinking about scale during a time when investors are looking for signs of business maturity. Anthropic recently filed confidentially for an IPO, pu",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "Anthropic이 AI 제품(Claude) 판매를 위한 기업 파트너 프로그램을 확장합니다. 이는 Anthropic이 IPO를 앞두고 규모 확장과 비즈니스 성숙도를 시장에 보여주기 위함입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+    "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents (4 minute read)",
+    "url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+    "discussion_url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+    "summary": "Morgan Stanley will allow AI agents from thousands of corporations to access its wealth management platforms like ShareWorks and Equity Edge.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "모건 스탠리가 수조 달러 규모의 자산 관리 플랫폼을 AI 에이전트에 개방할 예정입니다. 이는 수많은 기업의 AI 에이전트가 Morgan Stanley의 ShareWorks 및 Equity Edge 플랫폼에 접근할 수 있게 됨을 의미합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "title": "Be There for Every Customer With Meta Business Agent (3 minute read)",
+    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "discussion_url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "summary": "Meta Business Agent, a new AI tool, allows businesses to efficiently manage customer interactions on WhatsApp, Messenger, and Instagram.",
+    "score": 0,
+    "published_at": "2026-06-05T00:09:09+00:00",
+    "ai_summary": "메타가 새로운 AI 도구인 'Meta Business Agent'를 출시했습니다. 이 도구는 기업들이 WhatsApp, Messenger, Instagram에서 고객 상호작용을 효율적으로 관리할 수 있도록 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
