@@ -1,0 +1,439 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30227",
+    "title": "Ask HN: GenAI를 보며 “아, 큰일 났다”라고 느낀 순간은 언제였나요?",
+    "url": "https://news.hada.io/topic?id=30227",
+    "discussion_url": "https://news.hada.io/topic?id=30227",
+    "summary": "DALL-E와 ChatGPT를 처음엔 한물간 장난으로 치부했지만, 실사용 과정에서 능력의 한계를 깨닫고 충격받은 구체적 경험담을 공유하는 스레드\n가장 인기 좋은 사례는 구형·폐기 하드웨어의 펌웨어 리버스 엔지니어링으로, 신디사이저·피아노·파이어스틱 등을 Claude...",
+    "score": 0,
+    "published_at": "2026-06-06T06:57:01+00:00",
+    "ai_summary": "DALL-E와 ChatGPT의 초기 회의론을 넘어, 실제 사용 중 GenAI의 능력에 충격받은 개발자들의 경험담을 공유하는 스레드입니다.\n특히 오래된 하드웨어의 펌웨어 리버스 엔지니어링 등 구체적인 활용 사례와 그 한계가 논의됩니다.\n개발자들이 GenAI를 업무에 적용하며 느끼는 복잡한 감정과 실용적 가치를 엿볼 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30225",
+    "title": "pg_durable - PostgreSQL을 위한 내구성 SQL 함수",
+    "url": "https://news.hada.io/topic?id=30225",
+    "discussion_url": "https://news.hada.io/topic?id=30225",
+    "summary": "PostgreSQL 내부에서 재시도, 스케줄링, 병렬 fan-out, 조건 분기를 작은 SQL DSL만으로 처리하는 durable function 확장\n컨테이너나 외부 서비스 없이 Postgres와 백그라운드 워커만으로 동작\n모든 단계가 PostgreSQL에 상태를 체크포인...",
+    "score": 0,
+    "published_at": "2026-06-06T02:29:05+00:00",
+    "ai_summary": "pg_durable은 PostgreSQL 내부에서 재시도, 스케줄링, 병렬 처리 등 내구성 있는 함수를 SQL DSL만으로 구현할 수 있는 확장입니다.\n컨테이너나 외부 서비스 없이 PostgreSQL과 백그라운드 워커만으로 동작하며, 모든 단계의 상태를 DB에 체크포인트합니다.\n백엔드 개발자들이 복잡한 비즈니스 로직을 DB 레벨에서 안정적으로 처리할 수 있게 돕는 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30222",
+    "title": "한국의 포럼/커뮤니티는 이제 모든 이미지를 AI 검열 도구로 검사해야 함",
+    "url": "https://news.hada.io/topic?id=30222",
+    "discussion_url": "https://news.hada.io/topic?id=30222",
+    "summary": "전기통신사업법 변경으로 한국 인터넷 커뮤니티와 포럼 운영자에게 사용자가 업로드하는 모든 이미지와 영상을 AI로 검사하도록 요구함\nAI 모델 실행용 하드웨어는 정부가 제공하지 않으며, 웹사이트 운영자가 데이터센터급 Nvidia GPU를 직접 구매해야 해 소규모 ...",
+    "score": 0,
+    "published_at": "2026-06-06T00:51:31+00:00",
+    "ai_summary": "한국의 전기통신사업법 변경으로 국내 인터넷 포럼 및 커뮤니티 운영자들은 사용자 업로드 이미지/영상을 AI 검열 도구로 검사해야 합니다.\n정부가 AI 모델 실행용 하드웨어를 제공하지 않아, 웹사이트 운영자가 데이터센터급 GPU를 직접 구매해야 하는 부담이 있습니다.\n이는 특히 소규모 커뮤니티에 큰 기술적, 재정적 도전 과제를 안겨줄 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30217",
+    "title": "Odysseus - 셀프 호스팅 AI 워크스페이스",
+    "url": "https://news.hada.io/topic?id=30217",
+    "discussion_url": "https://news.hada.io/topic?id=30217",
+    "summary": "ChatGPT/Claude의 UI 경험을 자체 하드웨어에서 직접 운영하는 로컬 퍼스트 통합 AI 워크스페이스\n구독자 1.1억명 유튜버인 PewDiePie가 12개월간 개발해 출시, 일주일만에 GitHub 스타 5만 개 돌파\nChat: vLLM/llama.cpp/Ollama/OpenRo...",
+    "score": 0,
+    "published_at": "2026-06-06T00:31:02+00:00",
+    "ai_summary": "Odysseus는 ChatGPT/Claude와 유사한 UI 경험을 제공하며, 사용자의 자체 하드웨어에서 직접 운영 가능한 로컬 퍼스트 AI 워크스페이스입니다.\n1.1억 구독자 유튜버 PewDiePie가 개발하여 GitHub에서 일주일 만에 5만 개 스타를 돌파하는 등 큰 주목을 받고 있습니다.\nvLLM, llama.cpp 등 다양한 LLM 백엔드를 지원하며, AI 개발자와 사용자에게 유연하고 통합된 환경을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30216",
+    "title": "Claude가 rsync의 버그를 늘렸는가?",
+    "url": "https://news.hada.io/topic?id=30216",
+    "discussion_url": "https://news.hada.io/topic?id=30216",
+    "summary": "Claude 보조 릴리스는 rsync v3.4.2와 v3.4.3 두 건뿐이며, 심각도 가중 버그/10커밋 기준으로 과거 릴리스보다 유난히 버그가 많다는 증거가 없음\nsev/10c는 버그 심각도 점수를 0~1로 정규화해 릴리스별로 합산하고 커밋 수로 나눈 뒤 10커밋당 값으로 환산하는 ...",
+    "score": 0,
+    "published_at": "2026-06-06T00:13:33+00:00",
+    "ai_summary": "이 기사는 Claude AI가 rsync의 버그를 증가시켰다는 주장을 반박합니다.\nrsync의 Claude 보조 릴리스는 v3.4.2와 v3.4.3 두 건에 불과하며, 심각도 가중 버그/10커밋 기준으로는 이전 릴리스보다 유난히 버그가 많다는 증거가 없습니다.\n이는 소프트웨어 개발에서 버그 트래킹과 릴리스 품질 평가에 대한 논의와 관련이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30215",
+    "title": "코드는 더 싸졌다",
+    "url": "https://news.hada.io/topic?id=30215",
+    "discussion_url": "https://news.hada.io/topic?id=30215",
+    "summary": "AI 코딩 도구 확산으로 코드 작성 비용은 급격히 낮아졌지만, 정작 생성된 코드를 이해하는 비용은 더 커진 현실\nLLM은 비결정적이고 원본 소스를 보존하지 않으며 출력 범위가 일반 소프트웨어 전체로 넓어, 컴파일러 출력과 동일시할 수 없음\nLLM은 사람...",
+    "score": 0,
+    "published_at": "2026-06-06T00:10:33+00:00",
+    "ai_summary": "AI 코딩 도구의 확산으로 코드 작성 비용은 크게 낮아졌지만, 생성된 코드를 이해하고 유지보수하는 비용은 오히려 증가하는 현실을 지적합니다.\nLLM은 비결정적이고 원본 소스를 보존하지 않아 컴파일러 출력과 다르게 취급해야 하며, 인간 개발자의 역할 변화를 강조합니다.\nAI 시대 개발자들의 고민과 새로운 역할에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30214",
+    "title": "Ladybird 개발 방식 변경",
+    "url": "https://news.hada.io/topic?id=30214",
+    "discussion_url": "https://news.hada.io/topic?id=30214",
+    "summary": "Ladybird는 첫 alpha release와 실제 사용자용 브라우저 출시 준비에 맞춰 공개 pull request 수락을 중단하고, 코드 변경을 프로젝트 유지관리자만 도입하기로 함\nAI 도구로 진지한 기여처럼 보이는 작업을 더 빠르고 싸게 만들 수 있게 되면서, 큰 패치가 선의나...",
+    "score": 0,
+    "published_at": "2026-06-06T00:07:33+00:00",
+    "ai_summary": "Ladybird 브라우저 프로젝트가 첫 알파 릴리즈와 사용자용 출시를 준비하며 개발 방식을 변경합니다.\n공개 풀 리퀘스트 수락을 중단하고, 코드 변경은 이제 프로젝트 유지관리자만 도입하게 됩니다.\n이는 AI 도구를 사용한 기여가 늘어나면서 발생할 수 있는 문제에 대한 대응의 일환입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48428025",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+    "url": "https://ntsc.rs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48428025",
+    "summary": "",
+    "score": 231,
+    "published_at": "2026-06-06T19:17:46+00:00",
+    "ai_summary": "Ntsc-rs는 아날로그 TV와 VHS 영상의 특성을 에뮬레이션하는 오픈소스 프로젝트입니다.\n개발자들은 이를 통해 복고풍 비디오 효과를 구현하거나 영상 처리 기술을 연구할 수 있습니다.\n특히 그래픽, 게임, 미디어 분야의 개발자들에게 유용한 도구로 활용될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48427643",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48427643",
+    "summary": "",
+    "score": 351,
+    "published_at": "2026-06-06T18:35:27+00:00",
+    "ai_summary": "메타는 수천 개의 인스타그램 계정이 AI 챗봇 악용으로 해킹당했음을 확인했습니다.\n공격자들은 챗봇의 특정 기능을 이용해 사용자 계정에 접근한 것으로 보입니다.\n이는 AI 시스템의 보안 취약성과 잠재적 악용 가능성에 대한 경각심을 일깨웁니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48425528",
+    "title": "Moving beyond fork() + exec()",
+    "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48425528",
+    "summary": "",
+    "score": 226,
+    "published_at": "2026-06-06T14:34:20+00:00",
+    "ai_summary": "이 기사는 전통적인 유닉스 `fork()` 및 `exec()` 시스템 호출의 한계를 탐구합니다.\n프로세스 생성 및 실행을 위한 현대적이고 효율적인 대안들을 모색하는 내용을 다룹니다.\n시스템 프로그래밍, 운영체제 개발, 고성능 애플리케이션 최적화에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48425723",
+    "title": "Zeroserve: A zero-config web server you can script with eBPF",
+    "url": "https://su3.io/posts/introducing-zeroserve",
+    "discussion_url": "https://news.ycombinator.com/item?id=48425723",
+    "summary": "",
+    "score": 180,
+    "published_at": "2026-06-06T14:59:43+00:00",
+    "ai_summary": "Zeroserve는 설정이 필요 없는(zero-config) 웹 서버로, eBPF를 이용해 스크립팅할 수 있습니다.\n이를 통해 개발자는 복잡한 설정 없이 웹 서비스를 빠르게 배포하고, eBPF로 네트워크 동작을 정교하게 제어할 수 있습니다.\n백엔드 개발자, DevOps 엔지니어, 그리고 고성능 네트워킹 및 시스템 모니터링에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48424605",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "discussion_url": "https://news.ycombinator.com/item?id=48424605",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-06-06T12:52:18+00:00",
+    "ai_summary": "엔비디아가 윈도우 PC용으로 매우 강력한 CPU 시스템을 제안하고 있습니다.\n이는 엔비디아가 GPU를 넘어 CPU 시장에서도 영향력을 확대하려는 전략으로 보입니다.\n고성능 컴퓨팅, 게임, AI/ML 분야에서 작업하는 개발자들에게 하드웨어 환경 변화의 신호가 될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48428763",
+    "title": "New U.S. college grads now have higher unemployment than the average worker",
+    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48428763",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-06-06T20:35:40+00:00",
+    "ai_summary": "미국 신규 대졸자들의 실업률이 이제 전체 평균 노동자 실업률보다 높아졌습니다.\n이는 최근 졸업생들이 취업 시장에서 더 큰 어려움을 겪고 있음을 시사합니다.\n특히 주니어 개발자를 포함한 구직자들은 경쟁 심화에 대비하고 경력 개발 전략을 신중히 세워야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48426202",
+    "title": "You Can Run",
+    "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+    "discussion_url": "https://news.ycombinator.com/item?id=48426202",
+    "summary": "",
+    "score": 91,
+    "published_at": "2026-06-06T15:55:46+00:00",
+    "ai_summary": "이 기사는 'You Can Run'이라는 모호한 제목으로, 코드 실행, 성능 최적화, 또는 프로젝트 관리와 관련된 내용을 다룰 것으로 추정됩니다.\n개발자가 자신의 코드를 효율적으로 실행하거나 배포하는 데 필요한 개념을 설명할 수 있습니다.\n구체적인 내용 없이 추정되는 기술적 주제를 다루고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48428475",
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48428475",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-06-06T20:03:55+00:00",
+    "ai_summary": "이 기사는 'Sem'이라는 새로운 코드 이해 원시 요소를 소개하며, 기존 LSP와 달리 Git 기반 엔티티를 활용합니다.\n코드 구조와 관계를 깊이 분석하여 개발자 도구의 인텔리전스를 향상시키는 것을 목표로 합니다.\n이는 개발자가 코드를 더 잘 이해하고 작업하는 방식을 변화시킬 잠재력을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48428647",
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48428647",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-06-06T20:24:29+00:00",
+    "ai_summary": "Computex 2026을 주제로, 'Agentic PC 시대'의 도래 여부를 탐색하는 기사입니다.\nAI 에이전트와 고급 컴퓨팅 아키텍처가 미래 개인용 컴퓨터에 미칠 영향을 논의합니다.\n개발자들이 애플리케이션 설계 및 시스템 통합에 접근하는 방식을 근본적으로 바꿀 수 있는 트렌드를 다룹니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48423762",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "url": "https://pokeemerald.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48423762",
+    "summary": "",
+    "score": 259,
+    "published_at": "2026-06-06T11:12:58+00:00",
+    "ai_summary": "이 기사는 '포켓몬 에메랄드'가 WebAssembly로 포팅되어 10만 FPS를 달성한 사례를 다룹니다.\nWebAssembly의 강력한 성능과 웹 환경에서의 복잡한 애플리케이션 처리 능력을 보여줍니다.\n브라우저 기반 게임 에뮬레이션과 성능 최적화 기술의 발전을 입증합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48358339",
+    "title": "PyTorch Custom Operation",
+    "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48358339",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-06-01T15:39:29+00:00",
+    "ai_summary": "PyTorch에서 사용자 정의 연산을 구현하는 방법을 설명하는 기사입니다.\n특정 계산 요구사항이나 새로운 모델 아키텍처를 위해 PyTorch 기능을 확장하는 가이드를 제공합니다.\n개발자들이 자신만의 최적화된 커널이나 데이터 변환을 PyTorch 워크플로우에 통합하는 방법을 배울 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48372138",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+    "url": "https://uonr.github.io/poincake/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48372138",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-06-02T16:08:26+00:00",
+    "ai_summary": "비유클리드 푸앵카레 원판을 기반으로 한 무한 캔버스 노트 앱을 'Show HN'으로 공개합니다.\n정보를 시각적으로 정리하기 위한 독특한 UI/UX와 복잡한 수학적 렌더링 기술을 선보입니다.\n새로운 정보 시각화 및 인터랙티브 디자인에 관심 있는 개발자에게 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48428356",
+    "title": "Home alone: Remote work, isolation, and mental health",
+    "url": "https://www.science.org/doi/10.1126/science.aec7671",
+    "discussion_url": "https://news.ycombinator.com/item?id=48428356",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-06-06T19:51:10+00:00",
+    "ai_summary": "원격 근무 환경에서 발생하는 고립감과 정신 건강 문제를 다루는 기사입니다.\n재택근무의 심리적 영향과 함께 건강한 삶을 유지하기 위한 전략을 탐구합니다.\n분산된 팀 환경에서 일하는 개발자와 기업에게 매우 중요한 주제를 논의합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48417490",
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48417490",
+    "summary": "",
+    "score": 120,
+    "published_at": "2026-06-05T20:06:36+00:00",
+    "ai_summary": "구글이 xAI 데이터센터의 컴퓨팅 용량에 대해 스페이스X에 매달 9억 2천만 달러를 지불할 것이라는 기사입니다.\n이는 고급 AI 프로젝트를 위한 고성능 컴퓨팅 리소스의 엄청난 수요를 보여줍니다.\n급성장하는 인공지능 분야의 막대한 비용과 인프라 과제를 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48395370",
+    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48395370",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-06-04T07:32:20+00:00",
+    "ai_summary": "WoofWare.PawPrint는 .NET 환경을 위한 결정론적 런타임으로, 동일한 입력에 대해 항상 같은 출력을 보장합니다.\n이는 코드의 재현성, 디버깅 및 테스트 용이성을 극대화하여 예측 가능한 동작이 중요한 시스템에 적합합니다.\n특히 분산 시스템, 시뮬레이션, 병렬 처리 등 고신뢰성 애플리케이션 개발에 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48348876",
+    "title": "Building Rust Procedural Macros from the Grounds Up",
+    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48348876",
+    "summary": "",
+    "score": 82,
+    "published_at": "2026-05-31T19:28:49+00:00",
+    "ai_summary": "이 기사는 Rust 언어의 강력한 메타프로그래밍 기능인 절차적 매크로(Procedural Macros)를 처음부터 구축하는 과정을 설명합니다.\n개발자가 상용구 코드를 줄이고 코드 생성 능력을 향상시킬 수 있도록 돕는 실용적인 가이드입니다.\nRust의 심층적인 동작 원리와 고급 기능을 이해하려는 개발자에게 매우 유익한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48420827",
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "url": "https://news.ycombinator.com/item?id=48420827",
+    "discussion_url": "https://news.ycombinator.com/item?id=48420827",
+    "summary": "",
+    "score": 369,
+    "published_at": "2026-06-06T02:31:51+00:00",
+    "ai_summary": "Hacker News 커뮤니티에서 AI 기술에 대한 회의적이거나 부정적인 시각이 두드러지는 이유에 대해 토론하는 글입니다.\nAI의 윤리적 문제, 과도한 기대, 실제 적용의 한계 등 다양한 관점에서 개발자들의 우려와 견해를 살펴봅니다.\n기술 커뮤니티 내 AI에 대한 복합적인 감정과 그 배경을 이해하는 데 도움이 되는 주제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48412708",
+    "title": "How to make firecracker faster to start Chromium in < 20ms",
+    "url": "https://www.kernel.sh/blog/firecracker-faster",
+    "discussion_url": "https://news.ycombinator.com/item?id=48412708",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-06-05T14:01:57+00:00",
+    "ai_summary": "Firecracker 마이크로VM 환경에서 Chromium 브라우저를 20ms 미만의 시간 내에 빠르게 시작시키는 최적화 기법을 다룹니다.\n이 기술은 서버리스 및 컨테이너 기반 환경에서 웹 애플리케이션의 시작 지연 시간을 획기적으로 줄이는 데 중요합니다.\n클라우드 인프라, 가상화, 웹 성능 최적화에 관심 있는 개발자들에게 실질적인 기술적 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  }
+]
