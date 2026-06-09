@@ -1,0 +1,144 @@
+[
+  {
+    "source": "tldrai",
+    "source_id": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs (4 minute read)",
+    "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+    "discussion_url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+    "summary": "Amazon Bedrock has introduced a new console optimized for Anthropic and OpenAI-compatible APIs, facilitating easier model selection and deployment. It features a comprehensive model catalog, project-based workflows, and live documentation with automatic code snippets. Available in multiple AWS Regions, the console simplifies the transition from AI model evaluation to production.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "Amazon Bedrock이 Anthropic 및 OpenAI 호환 API에 최적화된 새로운 콘솔을 출시했습니다. 이 콘솔은 모델 선택 및 배포를 용이하게 하며, 종합적인 모델 카탈로그와 자동 코드 스니펫을 제공합니다. AI 모델 평가부터 프로덕션까지의 전환을 간소화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+    "title": "OpenAI Adds Lockdown Mode (3 minute read)",
+    "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+    "discussion_url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+    "summary": "OpenAI introduced Lockdown Mode to reduce exposure to prompt injection attacks from webpages and external content. The feature disables live browsing, web image retrieval, deep research, and agent mode while keeping some cached content and image-generation functionality available.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "OpenAI가 프롬프트 인젝션 공격 노출을 줄이기 위해 Lockdown Mode를 도입했습니다. 이 기능은 라이브 브라우징, 웹 이미지 검색 등을 비활성화하여 외부 콘텐츠로부터의 공격에 대한 보안을 강화합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/itsreallyvivek/status/2062924410588406118",
+    "title": "Some notes on getting into frontier AI labs (5 minute read)",
+    "url": "https://x.com/itsreallyvivek/status/2062924410588406118",
+    "discussion_url": "https://x.com/itsreallyvivek/status/2062924410588406118",
+    "summary": "Proven research and trench engineering are not separate skills at frontier labs, but two expressions of the same ability: operating without a map. Research output is not the paper but a refined ability to make progress when certainty is unavailable, and trench engineering at modern AI infrastructure scale is less about accumulating every detail and more about compressing complexity into useful abstractions that predict reality.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "최첨단 AI 연구소에서는 검증된 연구와 엔지니어링이 지도 없이 작동하는 동일한 능력의 표현입니다. 연구 성과는 불확실성 속에서 진전을 이루는 능력이며, 엔지니어링은 복잡성을 유용한 추상화로 압축하는 데 중점을 둡니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.implicator.ai/anthropic-embeds-engineers-in-the-nsa-to-deploy-mythos-for-offensive-cyber/",
+    "title": "Anthropic Embeds Engineers in the NSA to Deploy Mythos for Offensive Cyber (3 minute read)",
+    "url": "https://www.implicator.ai/anthropic-embeds-engineers-in-the-nsa-to-deploy-mythos-for-offensive-cyber/",
+    "discussion_url": "https://www.implicator.ai/anthropic-embeds-engineers-in-the-nsa-to-deploy-mythos-for-offensive-cyber/",
+    "summary": "Anthropic has placed about six engineers inside the US National Security Agency (NSA) to help deploy Mythos for offensive operations. The engineers will help the NSA customize the model for use in infiltrating networks in nations such as China or Iran. It is unclear whether Anthropic's engineers will assist with active operations. Anthropic is currently suing the Pentagon over how its models are used at war.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "Anthropic이 NSA에 엔지니어들을 파견하여 공격적인 사이버 작전을 위해 Mythos 모델 배포를 돕고 있습니다. 이들은 네트워크 침투를 위한 모델 맞춤화를 지원할 예정이며, Anthropic은 현재 모델 사용 방식에 대해 국방부와 소송 중입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models (6 minute read)",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "discussion_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "summary": "The hackathon's Thousand Token Wood v2 game uses small models from OpenAI, NVIDIA, OpenBMB, and Qwen, creating diverse agent behaviors.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "해커톤 게임 'Thousand Token Wood v2'는 OpenAI, NVIDIA 등의 소형 모델들을 활용하여 다양한 에이전트 행동을 생성합니다. 이는 다양한 모델을 통합하여 복잡한 시뮬레이션을 구축하는 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work (26 minute read)",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "discussion_url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "summary": "Modern large language models are mostly built by stacking transformer blocks over and over - the differences come from what each one was trained on, the scale and configuration choices, and the post-training done on top.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "현대 대규모 언어 모델(LLM)은 대부분 트랜스포머 블록을 반복적으로 쌓아 만들어집니다. 모델 간의 차이는 훈련 데이터, 규모, 구성 선택 및 추가 후처리에서 비롯되며, 이는 LLM의 기본 아키텍처와 작동 원리를 설명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/design-mode",
+    "title": "Cursor's Updated Design Mode (3 minute read)",
+    "url": "https://cursor.com/blog/design-mode",
+    "discussion_url": "https://cursor.com/blog/design-mode",
+    "summary": "Cursor updated Design Mode so users can point, draw, click elements, or narrate changes directly on a running product.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "Cursor가 디자인 모드를 업데이트하여 사용자가 실행 중인 제품 위에서 직접 변경 사항을 지정할 수 있게 했습니다. 사용자는 요소를 가리키거나, 그리거나, 클릭하거나, 변경 사항을 설명하여 UI/UX 변경 사항을 신속하게 반영할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+    "title": "OpenAI reportedly has a major ChatGPT overhaul in store (2 minute read)",
+    "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+    "discussion_url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+    "summary": "OpenAI wants to attract more enterprise users with its upcoming overhaul, which features agents that can perform multiple tasks rather than just answer questions.",
+    "score": 0,
+    "published_at": "2026-06-09T00:06:54+00:00",
+    "ai_summary": "OpenAI가 기업 사용자 유치를 위해 ChatGPT의 대대적인 개편을 준비하고 있습니다. 개편에는 단순히 질문에 답하는 것을 넘어 여러 작업을 수행할 수 있는 '에이전트' 기능이 포함될 예정입니다. 이는 ChatGPT의 활용성을 크게 높일 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
