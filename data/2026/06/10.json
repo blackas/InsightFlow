@@ -1,0 +1,428 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30333",
+    "title": "검색 엔진의 쇠퇴는 기회다",
+    "url": "https://news.hada.io/topic?id=30333",
+    "discussion_url": "https://news.hada.io/topic?id=30333",
+    "summary": "검색 엔진 품질 저하는 오래된 웹 탐색 방식인 하이퍼링크와 개인 링크 페이지를 다시 활용할 계기가 됨\nGoogle은 수년간 제대로 사용할 수 없었고, DuckDuckGo/Bing은 꾸준히 나빠지고 있으며, Yandex는 상대적으로 인상적이지만 여전히 최첨단 수준에는 못 미침\nYouTube ...",
+    "score": 0,
+    "published_at": "2026-06-10T00:09:54+00:00",
+    "ai_summary": "검색 엔진 품질 저하로 인해 하이퍼링크와 개인 링크 페이지 같은 오래된 웹 탐색 방식이 재조명되고 있습니다.\nGoogle 등 주류 검색 엔진의 성능이 꾸준히 저하되고 있으며, Yandex도 만족스러운 수준은 아닙니다.\n이는 웹 정보 탐색 및 공유 방식에 대한 새로운 기회를 시사하며 개발자들에게도 영향을 미칩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30332",
+    "title": "AI 록스타 개발자들의 뒷정리",
+    "url": "https://news.hada.io/topic?id=30332",
+    "discussion_url": "https://news.hada.io/topic?id=30332",
+    "summary": "과거 ‘록스타 개발자’가 남긴 이해하기 어려운 코드베이스 문제가 LLM 생성 코드 확산으로 팀 전체의 유지보수 부담으로 커짐\n록스타 개발자는 새 기술, 새 패러다임, 새 아키텍처를 빠르게 도입하고 어려운 일을 빠르게 끝냈지만, 다른 사람이 이해하고 함께 작업할 수 있는 코드...",
+    "score": 0,
+    "published_at": "2026-06-10T00:06:54+00:00",
+    "ai_summary": "과거 록스타 개발자가 남긴 복잡한 코드베이스 문제가 AI 생성 코드 확산으로 팀의 유지보수 부담을 가중시키고 있습니다.\n록스타 개발자들은 새로운 기술과 아키텍처를 빠르게 도입했지만, 다른 개발자들이 이해하고 협업하기 어려운 코드를 남기는 경우가 많았습니다.\n이는 코드 품질, 팀 협업, 기술 부채 관리의 중요성을 다시 한번 상기시키며 개발 문화에 대한 고민을 요구합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30330",
+    "title": "Ask HN: AI 등장 이후, 스스로를 위해 만든 도구는 무엇인가요?",
+    "url": "https://news.hada.io/topic?id=30330",
+    "discussion_url": "https://news.hada.io/topic?id=30330",
+    "summary": "AI 코딩 도구의 보급으로 개발자 개인이 자신만의 도구를 직접 제작하는 흐름이 확산되며, 과거라면 시간 대비 효용이 낮아 포기했을 소규모·맞춤형 유틸리티가 대량으로 등장\n음악·오디오 실험, 미디어 변환, 홈 자동화, 건강 추적 등 취미와 일상 영역에 특화된 도구",
+    "score": 0,
+    "published_at": "2026-06-09T20:35:52+00:00",
+    "ai_summary": "AI 코딩 도구의 보급으로 개발자들이 개인의 필요에 맞춰 자신만의 맞춤형 유틸리티를 직접 제작하는 추세가 확산되고 있습니다.\n과거에는 시간 대비 효용이 낮아 포기했을 소규모 프로젝트들이 AI 덕분에 실현 가능해졌습니다.\n음악, 미디어 변환, 홈 자동화 등 다양한 취미 및 일상 영역에서 특화된 AI 기반 도구들이 등장하고 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30329",
+    "title": "Firefox 루트 인증서 저장소에 다시 한 번 등록 시도중인 대한민국 정부 (GPKI)",
+    "url": "https://news.hada.io/topic?id=30329",
+    "discussion_url": "https://news.hada.io/topic?id=30329",
+    "summary": "GPKI 루트 인증서는 주로 정부에서 .go.kr TLD를 비롯한 여러 국공립 웹 사이트의 도메인에 인증서를 발급하는데 주로 사용돼었습니다. (과거형임에 유의, 현재는 정부 사이트들이 각자 다른 업체로부터 인증서를 발급 받아서 HTTPS 서비스 제공 중)\n타 브라우저와 달리 Firefo",
+    "score": 0,
+    "published_at": "2026-06-09T18:29:07+00:00",
+    "ai_summary": "대한민국 정부가 GPKI 루트 인증서를 Firefox 저장소에 다시 등록하려 시도하고 있으며, 과거에도 논란이 있었습니다.\nGPKI는 주로 정부 웹사이트에 사용되었으나, 현재는 정부 사이트들이 다른 업체의 인증서를 사용하는 추세입니다.\n이 문제는 웹 보안, 인증서 신뢰성, 브라우저 호환성에 대한 중요한 시사점을 가지며 개발자들에게도 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30328",
+    "title": "Claude Fable 5/Mythos 5 공개, Anthropic의 5세대 프런티어 모델",
+    "url": "https://news.hada.io/topic?id=30328",
+    "discussion_url": "https://news.hada.io/topic?id=30328",
+    "summary": "Anthropic이 며칠 단위의 장기, 비동기 작업을 위한 5세대 모델을 출시함. Fable 5는 Mythos급 모델을 일반 사용자용으로 안전하게 만든 버전이고, Mythos 5는 같은 모델에서 일부 안전장치를 푼 버전임\nMythos급은 Opus급보다 위에 있는 새 모델 티어. 첫 모델인 Mythos Preview가 4월 Project Glass...",
+    "score": 0,
+    "published_at": "2026-06-09T17:46:30+00:00",
+    "ai_summary": "Anthropic이 며칠 단위의 장기, 비동기 작업을 위한 5세대 프런티어 모델인 Fable 5와 Mythos 5를 공개했습니다.\nMythos 5는 기존 Opus급을 뛰어넘는 새로운 모델 티어로, Fable 5는 Mythos급 모델의 안전한 일반 사용자 버전입니다.\n이번 출시는 LLM의 활용 범위를 넓히고 복잡한 작업을 자동화하는 데 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.99,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30327",
+    "title": "Show GN: Claude Code에 Hermes Agent식 자기개선 루프를 붙이는 플러그인",
+    "url": "https://news.hada.io/topic?id=30327",
+    "discussion_url": "https://news.hada.io/topic?id=30327",
+    "summary": "복잡한 작업에서 배운 절차를 자동으로 SKILL.md로 증류하고, 다음 세션에서 Claude Code가 다시 활용하게 만드는 플러그인입니다.\nHermes Agent의 self-improving skills/curator 아이디어를 Claude Code의 hooks, subagents, slash commands로 이식했습니다.",
+    "score": 0,
+    "published_at": "2026-06-09T14:12:48+00:00",
+    "ai_summary": "Claude Code에 Hermes Agent의 자기개선 아이디어를 적용하여, 복잡한 작업에서 배운 절차를 자동으로 SKILL.md로 저장하고 재활용하는 플러그인이 공개되었습니다.\n이 플러그인은 Claude Code의 훅, 서브 에이전트, 슬래시 명령을 활용해 자동 학습 및 기술 증류를 가능하게 합니다.\nAI 코드 생성 도구의 학습 능력과 효율성을 크게 향상시켜 개발자의 작업 흐름을 더욱 스마트하게 만듭니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30317",
+    "title": "Show GN: korean-bank-tx-crawler – 국내 개인은행 거래내역을 파이썬 3줄로 가져오기",
+    "url": "https://news.hada.io/topic?id=30317",
+    "discussion_url": "https://news.hada.io/topic?id=30317",
+    "summary": "국내 은행은 개인용 API가 없어서 거래내역 자동화가 필요할 때마다 매번 손으로 엑셀 내보내기를 하고 있었습니다.\n코드 3줄로 거래내역을 가져오는 파이썬 라이브러리입니다.\n개인 통장을 동아리 통장이나 모임 통장 등으로 쓰신다면 유용하실 겁니다.\n현재 KB국민은행, 우리은행을 지원합니다",
+    "score": 0,
+    "published_at": "2026-06-09T04:43:21+00:00",
+    "ai_summary": "국내 은행의 개인용 API 부재로 인한 거래내역 자동화의 어려움을 해결하기 위해 파이썬 라이브러리가 개발되었습니다.\n이 라이브러리는 3줄의 코드로 KB국민은행, 우리은행의 개인 통장 거래내역을 가져올 수 있도록 지원합니다.\n개인 통장을 동아리나 모임 통장 등으로 활용하는 개발자들에게 특히 유용하며, 데이터 자동화에 기여합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30316",
+    "title": "Apple, Google Gemini 모델을 중심으로 구축한 새 AI 아키텍처 공개",
+    "url": "https://news.hada.io/topic?id=30316",
+    "discussion_url": "https://news.hada.io/topic?id=30316",
+    "summary": "Apple Intelligence가 Google과 공동 개발한 Apple Foundation Models 기반 새 아키텍처로 개편됨\n새 모델은 Gemini 계열 기술을 바탕으로 하며, 기기 내 실행과 Private Cloud Compute 서버 실행 모두에 맞게 조정됨\n업그레이드된 모델은 이미지 이해·생...",
+    "score": 0,
+    "published_at": "2026-06-09T04:33:25+00:00",
+    "ai_summary": "Apple이 Google Gemini 모델을 중심으로 구축된 'Apple Intelligence' 기반의 새로운 AI 아키텍처를 공개했습니다.\n새 모델은 Gemini 계열 기술을 바탕으로 온디바이스 및 프라이빗 클라우드 컴퓨트 서버에서 실행되도록 최적화되었습니다.\n이는 이미지 이해, 생성 등 다양한 AI 기능을 포함하며, Apple 생태계 내 개발자들에게 중요한 변화를 가져올 것입니다.",
+    "relevance_score": 0.99,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30315",
+    "title": "Show GN: 로컬에서 작동하는 회의녹취 및 Decision Wiki 검색 시스템",
+    "url": "https://news.hada.io/topic?id=30315",
+    "discussion_url": "https://news.hada.io/topic?id=30315",
+    "summary": "한국어 회의를 로컬에서 녹음하고, 전사·요약·Decision Wiki 정리하고 검색 (AI 챗)할 수 있는 오픈소스 도구를 만들어봤습니다.\n저처럼 업무 환경상 외부AI나 회의 녹취/전사 서비스를 사용할 수 없는 분들에게 도움이 되지 않을까 합니다.\n하루에 회의가 10개 이상 있는 날은 회의에서 나온 회의록과",
+    "score": 0,
+    "published_at": "2026-06-09T02:59:41+00:00",
+    "ai_summary": "로컬에서 한국어 회의 녹취, 전사, 요약, Decision Wiki 정리를 지원하는 오픈소스 도구입니다.\n외부 AI 사용이 어려운 업무 환경을 가진 개발자들에게 특히 유용합니다.\nAI 챗 기능을 포함하며, 회의록 관리 및 검색을 효율적으로 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30313",
+    "title": "애플, Siri AI 공개",
+    "url": "https://news.hada.io/topic?id=30313",
+    "discussion_url": "https://news.hada.io/topic?id=30313",
+    "summary": "개인형 AI 비서가 앱과 사용자 맥락에 통합되어 자연어 대화, 앱 작업, 글쓰기, 시각 검색을 지원하며, Siri AI는 올해 말 영어로 제공 예정\nSiri AI는 공개형 질문, 아이디어 브레인스토밍, 개인 맥락 검색, 앱 내 작업 실행, 온라인 정보 기반 답변을 지원하는 Apple Inte...",
+    "score": 0,
+    "published_at": "2026-06-09T01:40:21+00:00",
+    "ai_summary": "애플이 개인형 AI 비서 'Siri AI'를 공개하며 앱과 사용자 맥락에 통합됩니다.\n자연어 대화, 앱 작업 실행, 글쓰기 지원, 시각 검색 등 다양한 기능을 제공합니다.\n올해 말 영어로 먼저 출시될 예정이며, Apple Intelligence의 핵심 요소입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30310",
+    "title": "DeepSeek V4 Pro, 정밀도에서 GPT-5.5 Pro를 앞서다",
+    "url": "https://news.hada.io/topic?id=30310",
+    "discussion_url": "https://news.hada.io/topic?id=30310",
+    "summary": "사전 준비가 불가능하도록 즉석 생성된 4개 텍스트 과제 1:1 비교에서 DeepSeek V4 Pro가 38.0점, GPT-5.5 Pro가 33.0점 기록\n두 모델 모두 강력했으나, DeepSeek는 더 엄격하고 직역적이며 제약 조건 하 신뢰성이 높았고, GPT-5.5 Pro는 불필요한...",
+    "score": 0,
+    "published_at": "2026-06-09T01:24:47+00:00",
+    "ai_summary": "DeepSeek V4 Pro가 즉석 생성된 텍스트 과제 1:1 비교에서 GPT-5.5 Pro를 38.0점 대 33.0점으로 앞섰습니다.\nDeepSeek은 더 엄격하고 직역적이며 제약 조건 하에서 높은 신뢰성을 보였습니다.\nLLM 모델 선택 및 평가에 중요한 정보를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30304",
+    "title": "Show HN: Performative-UI – 디자인 트로프 기반 React 컴포넌트 라이브러리",
+    "url": "https://news.hada.io/topic?id=30304",
+    "discussion_url": "https://news.hada.io/topic?id=30304",
+    "summary": "AI 스타트업용 AI-native React 컴포넌트 모음으로, 27개 컴포넌트와 MIT 라이선스를 제공\n일반 공개 상태이며, 설치 명령은 npm install performative-ui\n구성은 Atoms, Primitives, Banners, Heroes, Backgrounds, Surfaces, Conversa...",
+    "score": 0,
+    "published_at": "2026-06-09T01:06:46+00:00",
+    "ai_summary": "AI 스타트업을 위한 AI-native React 컴포넌트 모음인 Performative-UI 라이브러리가 공개되었습니다.\n27개 컴포넌트와 MIT 라이선스를 제공하며, `npm install performative-ui`로 설치 가능합니다.\nAtoms, Primitives 등 다양한 UI 구성 요소를 포함합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30302",
+    "title": "mq - jq 스타일 Markdown 쿼리 언어",
+    "url": "https://news.hada.io/topic?id=30302",
+    "discussion_url": "https://news.hada.io/topic?id=30302",
+    "summary": "jq와 유사한 문법으로 Markdown 문서를 질의·필터링·변환하는 CLI 도구로, JSON에서 jq가 하던 역할을 Markdown으로 옮겨옴\n마크다운을 구조화된 데이터로 만들어 슬라이스, 필터, 매핑, 변환하는 작업을 손쉽게 배치 처리 가능\nLLM이 Markdown을 기본 입...",
+    "score": 0,
+    "published_at": "2026-06-09T00:33:16+00:00",
+    "ai_summary": "`jq`와 유사한 문법으로 Markdown 문서를 질의, 필터링, 변환하는 CLI 도구 `mq`가 공개되었습니다.\n마크다운을 구조화된 데이터로 처리하여 슬라이스, 필터, 매핑 등 배치를 손쉽게 자동화합니다.\nLLM이 Markdown을 기본 입력으로 사용하는 환경에서 특히 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30301",
+    "title": "Loop Engineering - Addy Osmani",
+    "url": "https://news.hada.io/topic?id=30301",
+    "discussion_url": "https://news.hada.io/topic?id=30301",
+    "summary": "AI 코딩 에이전트의 다음 단계로 제시된 ‘루프 엔지니어링’\n이 글은 Addy Osmani가 쓴 “Loop engineering”을 중심으로, 코딩 에이전트를 사람이 매번 직접 지시하는 방식에서 벗어나, 에이전트에게 일을 찾고, 나누고, 검증하고, 다음 작업을 정하게 하는 반복 시스템을 설계하는 방식으로 전환될 수 있다",
+    "score": 0,
+    "published_at": "2026-06-09T00:22:48+00:00",
+    "ai_summary": "Addy Osmani가 제시한 '루프 엔지니어링'은 AI 코딩 에이전트의 다음 단계를 의미합니다.\n에이전트가 직접 작업을 찾고, 나누고, 검증하며, 다음 작업을 스스로 결정하는 반복 시스템 설계로 전환합니다.\n사람의 직접적인 지시 없이 자율적으로 개발 작업을 수행하는 방식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "title": "Apple Introduced Siri AI (4 minute read)",
+    "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "discussion_url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "summary": "Apple announced a long-delayed Apple Intelligence update for Siri, now branded “Siri AI,” with a more conversational assistant planned for OS releases this fall. The update was said to include Google-powered changes to Apple's on-device Foundation Models and deeper AI integration across Apple platforms.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "Apple이 Siri AI 업데이트를 발표하며 올 가을 OS 릴리스에서 더 대화적인 비서 기능을 선보일 예정이다. 이 업데이트는 Google 기반 온디바이스 모델 변경과 Apple 플랫폼 전반의 AI 통합을 포함한다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+    "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude (4 minute read)",
+    "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+    "discussion_url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+    "summary": "Xiaomi and inference partner TileRT have created a 1-trillion-parameter model, MiMo-V2.5-Pro-UltraSpeed, with an inference speed of 1,000 tokens per second on a standard 8-GPU commodity node. The speed was achieved through FP4 quantization on the model's expert layers and DFlash speculative decoding, which proposes a full block of tokens in one pass instead of one at a time. The model is available through a limited API trial from June 9 to June 23. It costs three times the standard MiMo-V2.5-Pro",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "Xiaomi와 TileRT는 FP4 양자화 및 DFlash 추측 디코딩을 통해 초당 1,000토큰의 추론 속도를 달성한 1조 파라미터 모델 MiMo-V2.5-Pro-UltraSpeed를 개발했다. 이 모델은 ChatGPT 및 Claude보다 15배 빠르며, 제한된 API 시험판으로 제공된다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
+    "title": "OpenAI's Database Change Analysis (28 minute read)",
+    "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
+    "discussion_url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
+    "summary": "SchemaFlow demonstrates an AI-assisted workflow for database change requests, covering structured request parsing, impact analysis, SQL generation, guardrails, artifact creation, and evals. The cookbook used a retail loyalty-tier example, but the architecture applies broadly to structured data workflows across enterprise domains.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "OpenAI의 SchemaFlow는 AI 기반 데이터베이스 변경 요청 워크플로를 시연하며, 요청 파싱, 영향 분석, SQL 생성 등을 다룬다. 이 아키텍처는 기업 도메인의 구조화된 데이터 워크플로에 광범위하게 적용될 수 있다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering",
+    "title": "AI's Measured Impact on Engineering Velocity (4 minute read)",
+    "url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering",
+    "discussion_url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering",
+    "summary": "Early research suggests that AI adoption has increased pull request throughput by roughly 10 to 15 percent for many organizations, with a median gain closer to 8 percent. Coding is only a small part of developer work, so bottlenecks in reviews, planning, testing, and coordination continue to limit overall velocity.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "AI 도입이 조직의 pull request 처리량을 10-15% 증가시켰지만, 코딩은 개발 업무의 작은 부분에 불과하다. 따라서 코드 리뷰, 계획, 테스트, 조율 등의 병목 현상이 여전히 전체 개발 속도를 제한한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
+    "title": "How AI Agents Reshape Knowledge Work (18 minute read)",
+    "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
+    "discussion_url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
+    "summary": "AI agents like Perplexity's \"Computer\" enhance knowledge work by executing tasks autonomously, reducing time by 87% and costs by 94% compared to traditional search and human execution. Autonomous execution allows users to focus on goal-setting and oversight, enabling complex and cross-disciplinary tasks that span specific expertise areas.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "AI 에이전트는 자율적으로 작업을 실행하여 지식 작업을 혁신하며, 기존 방식 대비 시간과 비용을 크게 절감한다. 이를 통해 사용자는 목표 설정과 감독에 집중하여 복잡하고 학제적인 작업을 수행할 수 있다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cognition.ai/blog/frontier-code",
+    "title": "Introducing FrontierCode (18 minute read)",
+    "url": "https://cognition.ai/blog/frontier-code",
+    "discussion_url": "https://cognition.ai/blog/frontier-code",
+    "summary": "FrontierCode is a benchmark that measures how well models can truly meet the standards of high-quality production databases. It is the first benchmark to measure code mergeability. The benchmark was crafted by open-source maintainers and features an extensive QC pipeline with adversarial testing, calibration, and multi-stage review. It provides the strongest signal of a model's ability to write high-quality, maintainable code.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "FrontierCode는 모델이 고품질 프로덕션 데이터베이스 표준을 얼마나 잘 충족하는지 측정하는 벤치마크로, 코드 병합 가능성을 측정하는 최초의 도구이다. 이는 모델의 고품질, 유지보수 가능한 코드 작성 능력을 평가하는 강력한 지표를 제공한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-06-09/musk-s-xai-taps-starlink-staffer-to-run-grok-training-team?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDk3OTk1MywiZXhwIjoxNzgxNTg0NzUzLCJhcnRpY2xlSWQiOiJUR0M2V05LSzNOWjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ysxC7gnHB7ETI79WzQ61RRwK1coWmWn3bGm9V0TKyrE",
+    "title": "Musk's xAI Taps Starlink Staffer to Run Grok Training Team (2 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-09/musk-s-xai-taps-starlink-staffer-to-run-grok-training-team?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDk3OTk1MywiZXhwIjoxNzgxNTg0NzUzLCJhcnRpY2xlSWQiOiJUR0M2V05LSzNOWjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ysxC7gnHB7ETI79WzQ61RRwK1coWmWn3bGm9V0TKyrE",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-06-09/musk-s-xai-taps-starlink-staffer-to-run-grok-training-team?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDk3OTk1MywiZXhwIjoxNzgxNTg0NzUzLCJhcnRpY2xlSWQiOiJUR0M2V05LSzNOWjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ysxC7gnHB7ETI79WzQ61RRwK1coWmWn3bGm9V0TKyrE",
+    "summary": "Jack Garabedian, a Starlink engineer who's been with SpaceX since 2021, is taking over the team that trains xAI's Grok chatbot, displacing college-aged engineer Diego Pasini, who has been with the company for a year and a half. Garabedian helped with the deployment of Starlink during the war between Russia and Ukraine, and he also helped work with the Starlink customer team and integrated Grok into customer support. A group of Starlink executives has taken over xAI in policy, operations, and lea",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "xAI의 Grok 챗봇 훈련 팀을 Starlink 엔지니어 Jack Garabedian이 이끌게 됩니다. Garabedian은 Starlink 배포와 고객 지원에 기여했으며, Grok을 고객 지원에 통합한 경험이 있습니다. Starlink 임원진이 xAI의 정책, 운영, 리더십을 맡고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab (5 minute read)",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "discussion_url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "summary": "xAI's new partnerships with Anthropic and Google provide these rivals with a huge amount of capacity, with the revenue flowing back to SpaceX, which is about to go public. Both agreements have cancellation clauses that allow either party to cancel with 90 days' notice after an initial lock-in period, but this is still a ludicrously profitable deal for xAI on face value. If the deals continue for 18 months, xAI would recoup all of the capex it spent, and it still has many hundreds of MW of GPUs a",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "xAI는 Anthropic 및 Google과의 파트너십을 통해 대규모 컴퓨팅 용량을 제공하며, 수익은 SpaceX로 돌아갑니다. 이 계약은 xAI에 매우 수익성이 높아 18개월 내에 모든 초기 투자 자본을 회수할 것으로 예상됩니다. xAI는 여전히 수백 MW 규모의 GPU 용량을 보유하고 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/akshay_pachaar/status/2064051835636498924",
+    "title": "Your Agent Harness Should Repair Itself (8 minute read)",
+    "url": "https://x.com/akshay_pachaar/status/2064051835636498924",
+    "discussion_url": "https://x.com/akshay_pachaar/status/2064051835636498924",
+    "summary": "Most agent observability ends at the trace and leaves the actual debugging loop entirely to humans, so every model upgrade forces engineers to manually walk traces, form theories, write patches, and hope nothing else breaks.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "대부분의 에이전트 관찰성은 추적(trace)으로 끝나 디버깅을 인간에게 전적으로 맡깁니다. 모델 업그레이드 시 엔지니어는 수동으로 추적을 검토하고 패치를 작성해야 합니다. 에이전트 시스템이 스스로 문제를 진단하고 복구하는 기능이 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck",
+    "title": "The Model Is No Longer the Bottleneck (6 minute read)",
+    "url": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck",
+    "discussion_url": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck",
+    "summary": "The bottleneck has moved from the model to the workflow around it.",
+    "score": 0,
+    "published_at": "2026-06-10T00:15:03+00:00",
+    "ai_summary": "AI 개발에서 병목 현상은 더 이상 모델 자체가 아닙니다. 이제는 모델을 둘러싼 워크플로우가 주요 병목 현상을 일으키는 원인이 되었습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  }
+]
