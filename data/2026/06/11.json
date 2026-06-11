@@ -1,0 +1,105 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "48446532",
+    "title": "World Capitals Voronoi",
+    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48446532",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-06-08T15:20:08+00:00",
+    "ai_summary": "세계 수도를 중심으로 보로노이 다이어그램을 생성하는 프로젝트입니다.\n지리 데이터 시각화 및 분석에 프로그래밍이 활용될 수 있습니다.\n데이터 처리 및 알고리즘 구현 관련성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48478469",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "url": "https://www.extend.ai/ui",
+    "discussion_url": "https://news.ycombinator.com/item?id=48478469",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-06-10T16:09:26+00:00",
+    "ai_summary": "현대적인 문서 앱을 위한 오픈소스 UI 키트인 Extend UI가 공개되었습니다.\n개발자들이 UI 컴포넌트를 재사용하여 효율적으로 프론트엔드 개발을 할 수 있도록 돕습니다.\n프론트엔드 개발자와 UI/UX 엔지니어에게 특히 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48483854",
+    "title": "Unix GC Remastered",
+    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48483854",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-06-10T22:48:58+00:00",
+    "ai_summary": "유닉스 환경에서의 가비지 컬렉션(GC)을 재해석하고 개선하는 프로젝트입니다.\n시스템 수준의 메모리 관리 및 성능 최적화에 대한 깊이 있는 논의를 다룹니다.\n운영체제 개발자, 시스템 프로그래머에게 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48478148",
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "discussion_url": "https://news.ycombinator.com/item?id=48478148",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-06-10T15:47:31+00:00",
+    "ai_summary": "객체 스토리지를 기반으로 구축된 새로운 그래프 데이터베이스인 HelixDB가 공개되었습니다.\n대규모 데이터 처리 및 관계형 데이터 모델링에 새로운 접근 방식을 제시합니다.\n데이터베이스 설계자 및 백엔드 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48475483",
+    "title": "Building an HTML-first site doubled our users overnight",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48475483",
+    "summary": "",
+    "score": 970,
+    "published_at": "2026-06-10T12:45:47+00:00",
+    "ai_summary": "HTML 중심의 웹사이트 구축 전략을 통해 사용자 수가 하룻밤 사이에 두 배로 증가한 사례를 공유합니다.\n복잡한 자바스크립트 없이 성능과 사용자 경험을 개선하는 방법을 제시합니다.\n프론트엔드 및 백엔드 개발자에게 웹 아키텍처 선택에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48479452",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "discussion_url": "https://news.ycombinator.com/item?id=48479452",
+    "summary": "",
+    "score": 323,
+    "published_at": "2026-06-10T17:11:56+00:00",
+    "ai_summary": "Claude 데스크톱 앱이 단순 채팅에도 매번 1.8GB의 Hyper-V VM을 생성하여 리소스를 많이 소모하는 문제가 발견되었습니다.\nAI 애플리케이션의 데스크톱 통합 방식과 성능 최적화에 대한 이슈를 제기합니다.\nAI/ML 개발자 및 데스크톱 앱 개발자에게 중요한 고려사항입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  }
+]
