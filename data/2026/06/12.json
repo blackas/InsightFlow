@@ -1,0 +1,893 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30405",
+    "title": "Anthropic의 모델명, 외삽(extrapolation)해 보기",
+    "url": "https://news.hada.io/topic?id=30405",
+    "discussion_url": "https://news.hada.io/topic?id=30405",
+    "summary": "Claude Fable 출시를 계기로, Anthropic이 시(poem)에서 기업용 내러티브 객체로 진화 중이라는 설정 위에 향후 모델 작명을 풍자적으로 확장해 봄\n기존 모델들 사이와 앞에 더 짧거나 긴, 또는 다양한 확장이 가능할 것으로 예상\nHaiku 보다 작은 Aphorism은 한 문장이지만...",
+    "score": 0,
+    "published_at": "2026-06-11T22:34:52+00:00",
+    "ai_summary": "Anthropic의 Claude Fable 출시를 계기로, 향후 모델명을 풍자적으로 외삽해 보는 글입니다.\n기존 모델들 사이와 앞에 다양한 길이와 형태의 이름이 가능할 것으로 예상하며,\nHaiku보다 작은 Aphorism 등의 모델명을 예로 들어 흥미로운 상상을 펼칩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30403",
+    "title": "AWS Bedrock, Mythos 및 향후 모델에서 Anthropic과 데이터 공유 요구 예정",
+    "url": "https://news.hada.io/topic?id=30403",
+    "discussion_url": "https://news.hada.io/topic?id=30403",
+    "summary": "Mythos급 모델 트래픽은 단일 교환에서 보이지 않는 오용 패턴 탐지를 위해 30일 보관 대상이 됨\nBedrock의 Fable 5, Mythos 5, 그리고 유사하거나 더 높은 역량 수준의 향후 모델에 해당 조건이 적용됨\n제한된 기간의 데이터 보관은 단일 교환만으로는 보...",
+    "score": 0,
+    "published_at": "2026-06-11T18:37:35+00:00",
+    "ai_summary": "AWS Bedrock에서 Anthropic의 Mythos급 모델 이용 시 30일간의 데이터 보관 및 공유가 요구됩니다.\n이는 단일 교환에서 보이지 않는 오용 패턴 탐지를 목적으로 하며, Fable 5, Mythos 5 등 고성능 모델에 적용됩니다.\n제한된 기간의 데이터 보관은 사용자 데이터 보호와 모델 악용 방지 사이의 균형을 맞춥니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30401",
+    "title": "Claude Desktop이 채팅 전용 사용에도 실행 때마다 1.8GB Hyper-V VM을 생성",
+    "url": "https://news.hada.io/topic?id=30401",
+    "discussion_url": "https://news.hada.io/topic?id=30401",
+    "summary": "Claude Desktop Windows 앱이 채팅만 사용할 때도 실행마다 Hyper-V VM을 띄우고, Task Manager에서 Vmmem이 약 1,796~1,846MB RAM을 사용하는 현상\n재현 조건은 Windows 11에서 VirtualMachinePlatform을 켠 상태로 Claude Desktop을 설치하고, ...",
+    "score": 0,
+    "published_at": "2026-06-11T17:35:13+00:00",
+    "ai_summary": "Claude Desktop Windows 앱이 채팅만 사용해도 실행 때마다 약 1.8GB RAM을 사용하는 Hyper-V VM을 생성합니다.\nWindows 11에서 VirtualMachinePlatform이 켜진 상태로 앱을 설치하면 이 현상이 발생합니다.\n이는 불필요한 리소스 소모를 야기하여 사용자들에게 불편함을 줄 수 있는 성능 문제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30400",
+    "title": "Show GN: turbo-graph – turbovec에 그래프 메모리/필터 캐시를 얹은 constrained RAG 인덱스",
+    "url": "https://news.hada.io/topic?id=30400",
+    "discussion_url": "https://news.hada.io/topic?id=30400",
+    "summary": "안녕하세요. turbovec/TurboQuant 기반으로 constrained RAG용 graph memory layer를 붙인 turbo-graph를 만들었습니다.\nturbovec은 flat top-k나 cheap allowlist가 있는 경우에 이미 좋습니다. 그런데 실제 RAG에서는 쿼리가 자주 이런 모양이 됩니다.\ntenant ACL ∩ tag ∩ source ∩ time window ∩",
+    "score": 0,
+    "published_at": "2026-06-11T16:00:55+00:00",
+    "ai_summary": "turbovec/TurboQuant 기반으로 constrained RAG를 위한 그래프 메모리 레이어를 붙인 turbo-graph가 소개되었습니다.\nturbovec의 한계를 보완하여, 실제 RAG 쿼리의 복잡한 제약 조건(ACL, 태그, 소스, 시간 등)을 효율적으로 처리합니다.\n이는 RAG 시스템 개발자들에게 매우 유용한 성능 및 기능 개선 솔루션입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30397",
+    "title": "PgDog이 투자 유치를 완료하고 가까운 데이터베이스로 찾아옵니다",
+    "url": "https://news.hada.io/topic?id=30397",
+    "discussion_url": "https://news.hada.io/topic?id=30397",
+    "summary": "PgDog은 PostgreSQL 앞단에 두는 프록시로, 애플리케이션 재작성 없이 연결 풀링·로드 밸런싱·샤딩을 통해 Postgres를 수평 확장하게 함\nMongo나 Dynamo 같은 데이터베이스가 존재하는 이유를 Postgres의 확장 문제로 보고, 100TB 이상 테이블과 초당 100만 쿼리를...",
+    "score": 0,
+    "published_at": "2026-06-11T09:37:12+00:00",
+    "ai_summary": "PgDog은 PostgreSQL 앞단에 두는 프록시로, 애플리케이션 재작성 없이 연결 풀링, 로드 밸런싱, 샤딩을 제공합니다.\nPostgres의 확장성 문제를 해결하여 Mongo나 DynamoDB 같은 대규모 데이터베이스의 역할을 할 수 있도록 돕습니다.\n100TB 이상 테이블과 초당 100만 쿼리 처리를 목표로 하는 고성능 솔루션입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30396",
+    "title": "Show GN: LLM으로 월드컵 경기 시뮬레이션하기",
+    "url": "https://news.hada.io/topic?id=30396",
+    "discussion_url": "https://news.hada.io/topic?id=30396",
+    "summary": "2026년 월드컵 데이터 (진출 국가, 감독, 선수단 정보, 예선 경기 내용 등)를 바탕으로 월드컵 시뮬레이션을 만들었습니다.\n여러 에이전트가 개입하여 시뮬레이션을 진행합니다.\n\n감독 에이전트: 라인업 구축 및 맞춤형 경기 전술 수립\n메인 에이전트: 경기 맥락 기반 분 단위 실시간 시",
+    "score": 0,
+    "published_at": "2026-06-11T09:33:54+00:00",
+    "ai_summary": "2026년 월드컵 데이터를 활용하여 LLM 기반의 월드컵 경기 시뮬레이션 프로젝트가 공개되었습니다.\n여러 에이전트(감독, 메인 에이전트)가 개입하여 라인업, 전술 수립, 실시간 경기 진행을 시뮬레이션합니다.\n이는 LLM의 다이내믹한 시뮬레이션 및 에이전트 기반 활용 가능성을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30395",
+    "title": "Claude Fable 5의 고신호 활용 사례 저장소에 오신 것을 환영합니다.",
+    "url": "https://news.hada.io/topic?id=30395",
+    "discussion_url": "https://news.hada.io/topic?id=30395",
+    "summary": "공개 크리에이터, 개발자, 벤치마크 팀, 도구 제작자가 공유한 선별된 Claude Fable 5 사례 60개.\n코딩 에이전트, 장시간 자동화, 게임, 비주얼 디자인, 3D 시뮬레이션, 지식 작업, 튜토리얼, API 통합, 벤치마크, 가격, 출시 시점의 제한을 다룹니다.\n각 사례에는 원본 소스, 크리에이터 출처, 간결한",
+    "score": 0,
+    "published_at": "2026-06-11T09:11:14+00:00",
+    "ai_summary": "Claude Fable 5 모델의 다양한 고신호 활용 사례 60개가 공개된 저장소에 대한 안내입니다.\n코딩 에이전트, 자동화, 게임, 디자인, 시뮬레이션 등 광범위한 분야의 구체적인 사례를 다룹니다.\n각 사례는 원본 소스와 크리에이터 출처를 포함하여, 개발자들에게 실질적인 아이디어를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30392",
+    "title": "Show GN: Claude Code, Codex 스킬이 잘 작동하는지 rubric evaluator로 검증 해보기",
+    "url": "https://toss.tech/article/skill-quality-rubric",
+    "discussion_url": "https://news.hada.io/topic?id=30392",
+    "summary": "내가 작성한 Claude Code, Codex의 스킬이 적절하게 작동하는지, 원하는대로 작동하는지, 불필요하게 만든 것이 아닌지 테스트할 수 있는 방법이 최근에 토스 기술 블로그에 올라왔는데요\n이 방식에 대해서 과연 내가 만든 스킬이 적절한지 궁금...",
+    "score": 0,
+    "published_at": "2026-06-11T07:16:02+00:00",
+    "ai_summary": "Claude Code, Codex 등 LLM 기반 코드 생성 스킬의 성능을 rubric evaluator로 검증하는 방법을 소개합니다.\n개발자가 만든 스킬이 적절하고 의도대로 작동하며, 불필요한 부분이 없는지 테스트하는 데 유용합니다.\n이는 LLM 기반 개발 도구의 품질을 높이고 효율적인 검증 프로세스를 구축하는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30390",
+    "title": "Fable 5로 루프 설계하기",
+    "url": "https://news.hada.io/topic?id=30390",
+    "discussion_url": "https://news.hada.io/topic?id=30390",
+    "summary": "Anthropic 내부 작업 방식을 바꾼 Mythos-class 모델 Claude Fable 5를 잘 활용하기 위한 두 가지 핵심 기법으로 self-correction loop와 memory 제시\n잘 설계된 goal·rubric이 환경에 피드백을 주입해, Claude가 실행→피드백 수집→자가 수정을...",
+    "score": 0,
+    "published_at": "2026-06-11T04:48:01+00:00",
+    "ai_summary": "Anthropic의 Claude Fable 5 활용을 위한 핵심 기법으로 self-correction loop와 memory가 제시되었습니다.\n잘 설계된 목표와 평가 기준은 Claude가 실행, 피드백 수집, 자가 수정하는 루프를 가능하게 합니다.\n이를 통해 LLM의 성능을 향상시키고 복잡한 작업을 더 효과적으로 수행할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30388",
+    "title": "Apache Burr: 신뢰할 수 있는 AI 에이전트와 애플리케이션 구축",
+    "url": "https://news.hada.io/topic?id=30388",
+    "discussion_url": "https://news.hada.io/topic?id=30388",
+    "summary": "Apache Burr는 간단한 챗봇부터 복잡한 멀티 에이전트 시스템까지 의사결정형 AI 애플리케이션을 Python으로 구성하는 프레임워크임\n애플리케이션은 액션과 전이 집합으로 정의되며, DSL이나 YAML 없이 Python 함수와 데코레이터로 작성됨\nBurr UI는 실행...",
+    "score": 0,
+    "published_at": "2026-06-11T01:53:38+00:00",
+    "ai_summary": "Apache Burr는 Python으로 의사결정형 AI 애플리케이션을 구축하는 프레임워크입니다.\n간단한 챗봇부터 복잡한 멀티 에이전트 시스템까지 액션과 전이 집합으로 정의됩니다.\nDSL이나 YAML 없이 Python 함수와 데코레이터로 작성되며, Burr UI로 실행을 시각화할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30387",
+    "title": "Rich Sutton의 AI 창의성과 발견",
+    "url": "https://news.hada.io/topic?id=30387",
+    "discussion_url": "https://news.hada.io/topic?id=30387",
+    "summary": "지도학습으로 훈련된 생성 AI는 사례와 비슷하게 행동하는 모방 모델로, 유용하더라도 과학·수학의 새로운 발견에는 한계가 있음\n인터넷 답변이나 문서 요약에서는 새로움이 오히려 환각이 되며, 좋은 답변은 원천 자료의 품질에서 나옴\n소설·이미지 생성...",
+    "score": 0,
+    "published_at": "2026-06-11T01:51:39+00:00",
+    "ai_summary": "Rich Sutton은 지도학습 기반 생성 AI가 모방 모델로서 과학·수학의 새로운 발견에는 한계가 있다고 주장합니다.\n새로움이 환각으로 이어질 수 있으며, 좋은 답변은 원천 자료의 품질에 달려있다고 지적합니다.\n이는 AI의 창의성과 진정한 발견 능력에 대한 근본적인 질문을 던지며, AI 개발의 방향성을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30386",
+    "title": "DiffusionGemma: 4배 빠른 텍스트 생성",
+    "url": "https://news.hada.io/topic?id=30386",
+    "discussion_url": "https://news.hada.io/topic?id=30386",
+    "summary": "DiffusionGemma는 텍스트 확산 방식으로 전체 텍스트 블록을 동시에 생성하는 Apache 2.0 라이선스의 26B MoE 실험용 공개 모델임\n일반적인 자기회귀 LLM의 순차적 토큰 생성 대신 256토큰 병렬 생성을 사용해 전용 GPU에서 최대 4배 빠른 텍스트 생성을 제공함",
+    "score": 0,
+    "published_at": "2026-06-11T01:49:27+00:00",
+    "ai_summary": "DiffusionGemma는 텍스트 확산 방식으로 전체 텍스트 블록을 동시에 생성하는 26B MoE 실험용 모델입니다.\n일반 LLM의 순차적 토큰 생성 대신 256토큰 병렬 생성을 사용하여 텍스트 생성을 가속화합니다.\n전용 GPU에서 최대 4배 빠른 속도를 제공하며, Apache 2.0 라이선스로 공개되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30385",
+    "title": "소프트웨어 해커톤이여 안녕. 하드웨어 해커톤이여 영원하라",
+    "url": "https://news.hada.io/topic?id=30385",
+    "discussion_url": "https://news.hada.io/topic?id=30385",
+    "summary": "48시간 해커톤에서 오래된 회전식 전화기에 Raspberry Pi를 연결해 양방향 오디오, 벨, 수화기 스위치를 서버와 연동하는 데모를 구현함\n데모는 AI 에이전트가 음악을 조사하고 Spotify API로 재생목록을 만들며, 사용자의 음악 요청을 처리하도록 구성\n참...",
+    "score": 0,
+    "published_at": "2026-06-11T01:46:59+00:00",
+    "ai_summary": "48시간 하드웨어 해커톤에서 오래된 전화기에 Raspberry Pi를 연결하여 데모를 구현했습니다.\nAI 에이전트가 Spotify API를 통해 음악을 조사하고 재생 목록을 만드는 기능을 포함합니다.\n하드웨어와 소프트웨어, AI를 결합한 실제 개발 사례를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30380",
+    "title": "독일 판결, Google이 AI Overviews의 오답에 책임 있다고 선언",
+    "url": "https://news.hada.io/topic?id=30380",
+    "discussion_url": "https://news.hada.io/topic?id=30380",
+    "summary": "AI Overviews는 검색 결과 목록이 아니라 Google이 자체 구조와 문장으로 생성한 콘텐츠로 분류돼, 허위 주장에 대해 Google의 직접 책임이 인정됨\n뮌헨 지방법원은 AI 요약이 두 출판사를 사기, 구독 함정, 수상한 영업 관행과 잘못 연결했고, 연결된 출처 어디에도 그런 연결이 없...",
+    "score": 0,
+    "published_at": "2026-06-11T00:47:37+00:00",
+    "ai_summary": "독일 뮌헨 지방법원은 Google의 AI Overviews가 생성한 허위 주장에 대해 Google의 직접 책임을 인정했습니다.\nAI 요약이 검색 결과 목록이 아닌 Google 자체 콘텐츠로 분류되어, 잘못된 정보에 대한 법적 책임이 발생합니다.\n이는 AI 시스템 개발자들이 콘텐츠의 정확성과 법적 문제에 대해 깊이 고려해야 함을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30378",
+    "title": "Supermemory - AI를 위한 메모리 &amp; 컨텍스트 엔진",
+    "url": "https://news.hada.io/topic?id=30378",
+    "discussion_url": "https://news.hada.io/topic?id=30378",
+    "summary": "대화에서 사실(facts)을 자동 추출하고 사용자 프로필을 구축하는 AI용 메모리·컨텍스트 레이어로, 대화 간 정보를 기억하지 못하는 AI의 한계를 보완\n지식을 업데이트하고, 모순을 처리하고, 만료된 정보를 삭제(자동 망각) 까지 처리함\n\n&quot;방금 SF로...",
+    "score": 0,
+    "published_at": "2026-06-11T00:31:01+00:00",
+    "ai_summary": "Supermemory는 AI의 대화 간 정보 기억 한계를 보완하는 메모리 및 컨텍스트 엔진입니다.\n대화에서 사실을 자동 추출하고 사용자 프로필을 구축하며, 지식을 업데이트하고 모순을 처리합니다.\n자동 망각 기능으로 만료된 정보를 삭제하는 등 AI의 장기 기억 및 컨텍스트 관리를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30377",
+    "title": "Show GN: 개발자에게 돈을 안 받는 호스팅, 서버비는 누가 낼까 — 방문자에게 비용을 부과하는 호스팅 플랫폼 cod...",
+    "url": "https://news.hada.io/topic?id=30377",
+    "discussion_url": "https://news.hada.io/topic?id=30377",
+    "summary": "claude mcp add coders --transport http https://mcp.coders.kr/mcp\n&quot;2048게임 만들어서 coders.kr에 배포해줘&quot;\n비용 구조\n\n개발자는 무료로 사이트를 배포하고 방문자에게 사용하는 만큼의 비용을 충당하는 구조입니다.\n방문자에게는 사이트당 약간의 크레딧이 주어",
+    "score": 0,
+    "published_at": "2026-06-11T00:30:59+00:00",
+    "ai_summary": "개발자가 무료로 웹사이트를 배포하고 방문자 사용량에 따라 비용을 충당하는 새로운 호스팅 플랫폼 'coders.kr'이 소개되었습니다.\n`claude mcp` 명령어로 2048 게임을 배포하는 예시를 보여주며, 개발자는 서버 비용 부담 없이 서비스를 제공할 수 있습니다.\n방문자에게는 사이트당 소량의 크레딧이 제공되어 플랫폼의 독특한 비용 구조를 이루고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48496539",
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+    "url": "https://fablepool.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48496539",
+    "summary": "",
+    "score": 190,
+    "published_at": "2026-06-11T21:17:30+00:00",
+    "ai_summary": "FablePool은 사용자들이 특정 프롬프트에 자금을 모으고, 'Fable' 팀이 해당 아이디어를 공개적으로 개발하는 플랫폼입니다.\n이는 커뮤니티 주도형 프로젝트 개발 및 자금 조달의 새로운 방식을 제시합니다.\n특히 AI/ML 기반의 아이디어를 현실화하는 데 초점을 맞추는 것으로 보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48490024",
+    "title": "Show HN: Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48490024",
+    "summary": "",
+    "score": 922,
+    "published_at": "2026-06-11T13:24:29+00:00",
+    "ai_summary": "macOS 및 Linux용 인기 패키지 관리자인 Homebrew가 6.0.0 버전으로 업데이트되었습니다.\n이 새로운 버전은 다양한 개선 사항과 버그 수정을 포함하여 사용자 경험을 향상시킬 것입니다.\n개발자들은 더 안정적이고 효율적인 환경에서 소프트웨어를 관리할 수 있게 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48497609",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48497609",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-06-11T23:01:55+00:00",
+    "ai_summary": "인간의 주의를 얻고자 한다면, 그에 합당한 인간적인 노력을 보여주라는 메시지를 담고 있습니다.\n이는 자신의 작업이나 요청에 진정성과 성의를 담아야 한다는 의미로 해석됩니다.\n특히 개발 커뮤니티에서 피드백이나 도움을 요청할 때 중요한 원칙이 될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48490826",
+    "title": "MiMo Code is now released and open-source",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "discussion_url": "https://news.ycombinator.com/item?id=48490826",
+    "summary": "",
+    "score": 409,
+    "published_at": "2026-06-11T14:27:19+00:00",
+    "ai_summary": "MiMo Code가 공식적으로 출시되었으며 오픈 소스 프로젝트로 공개되었습니다.\n이 새로운 코드 관련 도구 또는 프레임워크는 개발자들이 특정 작업을 더 효율적으로 수행하도록 돕기 위해 개발되었습니다.\n오픈 소스인 만큼 커뮤니티 기여를 통해 지속적으로 발전할 것으로 기대됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48489229",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "discussion_url": "https://news.ycombinator.com/item?id=48489229",
+    "summary": "",
+    "score": 266,
+    "published_at": "2026-06-11T12:05:02+00:00",
+    "ai_summary": "AI 기업 Anthropic이 자사의 LLM 'Claude Fable'의 보이지 않는 가드레일(안전 장치) 문제에 대해 사과했습니다.\n이는 모델의 특정 제한이나 필터링 메커니즘이 사용자에게 명확히 전달되지 않았음을 의미합니다.\nAI 시스템의 투명성과 사용자 경험에 대한 중요한 논의를 촉발할 것으로 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48474274",
+    "title": "Emacs appearances in pop culture",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48474274",
+    "summary": "",
+    "score": 236,
+    "published_at": "2026-06-10T10:37:45+00:00",
+    "ai_summary": "Emacs는 개발자들에게 사랑받는 텍스트 편집기로, 대중문화에 여러 차례 등장하며 단순한 도구를 넘어선 상징적 의미를 가집니다.\n이는 개발 도구가 사회 및 문화 전반에 미치는 영향력을 보여주며, 개발 문화의 한 단면을 탐구합니다.\nEmacs 사용자나 소프트웨어 문화에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48492215",
+    "title": "The RCE that AMD wouldn't fix",
+    "url": "https://mrbruh.com/amd2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492215",
+    "summary": "",
+    "score": 213,
+    "published_at": "2026-06-11T16:03:40+00:00",
+    "ai_summary": "AMD가 해결을 거부한 원격 코드 실행(RCE) 취약점에 대한 기사입니다.\n이는 AMD 하드웨어를 사용하는 모든 시스템에 심각한 보안 위협을 제기하며, 개발자들은 시스템 보안 강화의 필요성을 인지해야 합니다.\n보안 문제의 심각성과 하드웨어 공급사의 책임에 대한 중요한 논의를 담고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48496250",
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "url": "https://github.com/coder/boo",
+    "discussion_url": "https://news.ycombinator.com/item?id=48496250",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-06-11T20:52:26+00:00",
+    "ai_summary": "`Boo`는 `libghostty` 기반의 새로운 `Screen` 스타일 터미널 멀티플렉서입니다.\n개발자들이 터미널 환경에서 여러 작업을 효율적으로 관리하고 생산성을 높이는 데 도움을 주는 유용한 도구입니다.\nCLI 중심의 개발 작업에 종사하는 개발자들에게 특히 매력적인 신규 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48487829",
+    "title": "Making a vintage LLM from scratch",
+    "url": "https://crlf.link/log/entries/260525-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48487829",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-06-11T08:38:00+00:00",
+    "ai_summary": "이 기사는 최신 기술 없이 '빈티지' 방식으로 대규모 언어 모델(LLM)을 처음부터 구축하는 과정을 다룹니다.\nLLM의 근본적인 원리와 구현 방식을 깊이 이해하려는 AI/ML 개발자들에게 훌륭한 학습 기회를 제공합니다.\n복잡한 시스템의 기본을 탐구하는 독특한 접근법을 제시합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48492177",
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492177",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-06-11T16:01:01+00:00",
+    "ai_summary": "`MTG Bench`는 LLM이 복잡한 카드 게임인 매직 더 개더링을 얼마나 잘 플레이하는지 평가하는 벤치마크 도구입니다.\nLLM의 복잡한 추론 능력과 전략적 사고를 테스트하며, 게임 AI 및 인공지능 연구 분야에 기여합니다.\nAI/ML 개발자들에게 LLM의 실제 적용 능력과 한계를 보여주는 흥미로운 연구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48462070",
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "discussion_url": "https://news.ycombinator.com/item?id=48462070",
+    "summary": "",
+    "score": 215,
+    "published_at": "2026-06-09T15:01:43+00:00",
+    "ai_summary": "macOS 27 베타가 Apple Silicon Mac에서 Asahi Linux 부팅을 방해하는 문제를 다룹니다.\n이는 특정 하드웨어에서 리눅스 운영체제를 사용하려는 개발자들에게 직접적인 영향을 미치며, OS 호환성과 시스템 수준 개발의 어려움을 부각시킵니다.\n플랫폼 간 개발 및 OS 포팅에 관심 있는 개발자들에게 중요한 정보입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48489402",
+    "title": "Lines of code got a better publicist",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48489402",
+    "summary": "",
+    "score": 344,
+    "published_at": "2026-06-11T12:26:42+00:00",
+    "ai_summary": "이 기사는 코드 라인 수(LOC)를 소프트웨어 개발 생산성 측정 지표로 삼는 방식에 대한 비판적 시각을 제시합니다.\n단순한 양적 지표의 한계를 지적하며, 개발 성과를 더 효과적으로 평가하기 위한 질적 접근의 중요성을 강조합니다.\n개발자들에게 생산성 측정과 관련된 기존 관념을 재고하게 만듭니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48495575",
+    "title": "Shall we play a game? My AI nuclear simulation",
+    "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "discussion_url": "https://news.ycombinator.com/item?id=48495575",
+    "summary": "",
+    "score": 177,
+    "published_at": "2026-06-11T19:54:54+00:00",
+    "ai_summary": "AI를 활용한 핵 시뮬레이션 게임 개발 경험을 공유합니다.\n복잡한 시스템 모델링과 AI 에이전트 설계가 주요 내용입니다.\n개발 과정에서의 기술적 도전과 해결 방안을 상세히 설명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48452001",
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "discussion_url": "https://news.ycombinator.com/item?id=48452001",
+    "summary": "",
+    "score": 207,
+    "published_at": "2026-06-08T21:02:01+00:00",
+    "ai_summary": "개발자가 구형 Nokia N95에서 Half-Life를 30 FPS로 구동한 사례를 다룹니다.\n하드웨어 제약 속에서의 최적화와 임베디드 시스템 포팅 기술이 핵심입니다.\n이는 레거시 플랫폼 개발의 어려움과 성취를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48492210",
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492210",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-06-11T16:03:21+00:00",
+    "ai_summary": "Claude Fable 5 모델이 코딩 작업에서 중간 수준의 성능을 보였습니다.\n벤치마크 테스트를 통해 특정 코딩 챌린지에서의 결과를 분석합니다.\n다른 대규모 언어 모델과의 비교를 통해 장단점을 평가합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48492304",
+    "title": "Waymo Premier",
+    "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492304",
+    "summary": "",
+    "score": 143,
+    "published_at": "2026-06-11T16:10:02+00:00",
+    "ai_summary": "Waymo의 프리미어 서비스 출시와 자율주행 기술의 상업적 적용을 다룹니다.\n서비스의 운영 방식, 기술적 기반, 그리고 미래 발전 방향을 제시합니다.\n자율주행 시스템 개발 및 배포에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48491486",
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "url": "https://github.com/icitry/FPS.cob",
+    "discussion_url": "https://news.ycombinator.com/item?id=48491486",
+    "summary": "",
+    "score": 99,
+    "published_at": "2026-06-11T15:13:57+00:00",
+    "ai_summary": "COBOL 언어로 구현된 독특한 1인칭 슈팅 게임(FPS)을 소개합니다.\n비즈니스 로직에 주로 쓰이는 COBOL로 게임을 개발한 창의적인 시도입니다.\n특정 언어의 잠재력과 개발자의 도전 정신을 엿볼 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48494716",
+    "title": "Finding Optimal Tokenizers",
+    "url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48494716",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-06-11T18:46:22+00:00",
+    "ai_summary": "대규모 언어 모델(LLM)을 위한 최적의 토크나이저를 찾는 방법을 탐구합니다.\n토크나이저가 LLM 성능에 미치는 중요성을 설명하고 다양한 설계 원리를 제시합니다.\n효율적인 토크나이징 기법과 평가 기준을 상세히 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48493564",
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48493564",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-06-11T17:35:19+00:00",
+    "ai_summary": "전력 공급 장치 혁명은 애플이 아닌 새로운 트랜지스터 기술 덕분입니다. 더 작고 효율적인 질화갈륨(GaN) 트랜지스터는 고주파에서 전력을 처리하며 전력 손실을 줄입니다. 이는 전력 어댑터를 소형화하고 발열을 줄이는 데 기여하여 전자기기 발전에 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48489151",
+    "title": "A Commons of Software Productive Infrastructure, by and for Capital",
+    "url": "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48489151",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-06-11T11:56:17+00:00",
+    "ai_summary": "이 기사는 소프트웨어 생산 인프라가 자본의 이해관계에 의해 어떻게 형성되고 활용되는지 비판적으로 분석합니다. 오픈 소스와 공유 자원이 자본주의적 생산 방식에 통합되는 과정을 탐구합니다. 이는 개발자들이 사용하는 도구와 인프라의 경제적, 사회적 맥락을 이해하는 데 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48490939",
+    "title": "How a new DSL may survive in the era of LLMs",
+    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "discussion_url": "https://news.ycombinator.com/item?id=48490939",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-06-11T14:35:41+00:00",
+    "ai_summary": "이 기사는 LLM 시대에 새로운 도메인 특화 언어(DSL)가 어떻게 생존할 수 있을지 탐구합니다. LLM이 코드 생성에 능숙해지면서 DSL의 필요성에 대한 의문이 제기되지만, DSL은 특정 도메인의 복잡성을 간결하게 표현하는 데 여전히 강점이 있습니다. LLM과의 통합 및 협력을 통해 DSL의 가치를 재정의하는 방안을 모색합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48456637",
+    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
+    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48456637",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-06-09T04:58:49+00:00",
+    "ai_summary": "이 기사는 '뮤온(Muon)'을 위한 빠르고 하드웨어 인지적인 뉴턴-슐츠 알고리즘인 '그램 뉴턴-슐츠'를 소개합니다. 이 새로운 알고리즘은 행렬 역행렬 계산의 효율성을 높여 고성능 컴퓨팅 환경에 적합합니다. 하드웨어 특성을 고려하여 최적화되어, 복잡한 계산을 요구하는 분야에 큰 이점을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+    "title": "Policy on the AI Exponential (28 minute read)",
+    "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+    "discussion_url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+    "summary": "AI advances rapidly, outpacing slow policy-making, leading to potential risks in cybersecurity and job displacement. Anthropic recommends a regulatory approach like the FAA for AI, mandatory testing, and stronger security standards to address these risks. Additional policy areas include adapting macroeconomics and tax systems for AI-driven growth, reforming regulations to enhance AI's biomedical impacts, and ensuring AI aligns with democratic values globally.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "AI 발전이 정책 수립 속도를 앞질러 사이버 보안 및 일자리 감소 등의 잠재적 위험을 초래하고 있습니다. Anthropic은 FAA와 같은 규제 접근 방식, 의무적 테스트 및 강화된 보안 기준을 제안합니다. AI 주도 성장을 위한 거시 경제 및 세금 시스템 조정과 AI의 생물의학적 영향 증진을 위한 규제 개혁도 필요합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "title": "DiffusionGemma: 4x faster text generation (5 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "summary": "DiffusionGemma, a 26B Mixture of Experts model, uses text diffusion for faster text generation, offering up to 4x speed increase on GPUs by generating text blocks simultaneously. It targets speed-critical applications, providing advantages like low latency and bi-directional attention, and fits in high-end consumer GPUs when quantized. While it trades some quality for speed compared to standard models, it allows for efficient local inference and is optimized for NVIDIA hardware.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "DiffusionGemma는 텍스트 확산(text diffusion)을 사용하여 텍스트 생성 속도를 4배까지 향상시키는 26B Mixture of Experts 모델입니다. 낮은 지연 시간과 양방향 어텐션 등의 이점을 제공하며, 양자화 시 고성능 소비자 GPU에서도 효율적인 로컬 추론을 가능하게 합니다. 일부 품질을 희생하지만 속도에 민감한 애플리케이션에 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/sahar__zadeh/status/2064759511253176398",
+    "title": "Moats Need Models (6 minute read)",
+    "url": "https://x.com/sahar__zadeh/status/2064759511253176398",
+    "discussion_url": "https://x.com/sahar__zadeh/status/2064759511253176398",
+    "summary": "The model, harness, workflow, and evaluation loop are no longer separate stack pieces but co-design surfaces that compound together. Defensibility comes from owning the full feedback loop rather than renting frontier capability that can be restricted, repriced, or reclaimed on the supplier's terms.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "모델, 하네스, 워크플로우, 평가 루프는 더 이상 분리된 구성 요소가 아니라 통합된 공동 설계 영역입니다. 경쟁 우위는 외부 최신 기술에 의존하기보다 전체 피드백 루프를 소유하는 데서 발생합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+    "title": "Don't let the LLM speak, just probe it (8 minute read)",
+    "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+    "discussion_url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+    "summary": "Answers often already exist in LLMs' hidden state before they generate a single token. It's possible to skip generation entirely by grabbing the hidden state at the last prompt token, feeding it to a tiny multilayer perceptron, and calibrating the output. This results in a frozen model that acts as any classifier that can be written in English.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "LLM의 답변은 토큰을 생성하기 전 숨겨진 상태에 이미 존재할 수 있습니다. 마지막 프롬프트 토큰의 숨겨진 상태를 tiny multilayer perceptron에 연결하여 전체 생성 과정 없이 LLM을 분류기처럼 사용할 수 있습니다. 이 기술은 동결된 모델을 통해 영어로 작성된 어떤 분류기처럼 작동하게 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://red.anthropic.com/2026/n-days/",
+    "title": "Measuring LLMs' impact on N-day exploits (18 minute read)",
+    "url": "https://red.anthropic.com/2026/n-days/",
+    "discussion_url": "https://red.anthropic.com/2026/n-days/",
+    "summary": "N-days are vulnerabilities that have already been publicly disclosed, but only patched on some devices. They can be more dangerous than zero-day vulnerabilities as the patches provide a roadmap to the bugs. The process of reverse-engineering a vulnerability from a patch has historically been slow and specialized work, but AI can accelerate and automate the process. This means anyone in the patch gap today faces a much larger threat than before.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "N-day 취약점은 이미 공개되었지만 일부 장치에만 패치된 것으로, 패치가 버그를 찾는 로드맵을 제공하여 제로데이보다 더 위험할 수 있습니다. 과거에는 패치에서 취약점을 리버스 엔지니어링하는 작업이 느리고 전문적이었으나, AI가 이 과정을 가속화하고 자동화할 수 있습니다. 이는 현재 패치 미적용 상태의 시스템들이 이전보다 훨씬 더 큰 위협에 직면했음을 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/bugbot-updates-june-2026",
+    "title": "Faster Code Review with Cursor's Bugbot (3 minute read)",
+    "url": "https://cursor.com/blog/bugbot-updates-june-2026",
+    "discussion_url": "https://cursor.com/blog/bugbot-updates-june-2026",
+    "summary": "Cursor updated Bugbot to run over 3x faster, cost 22% less, and find 10% more bugs per review. Most runs now finished in under three minutes, shortening the review loop for developers.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "Cursor의 Bugbot이 3배 이상 빨라지고 비용은 22% 절감되었으며, 버그 발견율은 10% 증가했습니다. 대부분의 코드 리뷰가 3분 이내에 완료되어 개발자의 리뷰 루프를 단축시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/elder_plinius/status/2064478648057610422",
+    "title": "Fable-5 system prompt leak (27 minute read)",
+    "url": "https://x.com/elder_plinius/status/2064478648057610422",
+    "discussion_url": "https://x.com/elder_plinius/status/2064478648057610422",
+    "summary": "The system prompt for Anthropic's Fable 5 model has been leaked. It comes to a total of around 120,000 characters. The entire leaked prompt is available in the thread.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "Anthropic의 Fable 5 모델 시스템 프롬프트가 유출되었습니다. 유출된 프롬프트는 총 약 120,000자 분량입니다. 전체 유출 프롬프트는 관련 스레드에서 확인 가능합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "title": "Palantir's Karp says businesses are ‘unhappy' with the frontier AI labs (5 minute read)",
+    "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "discussion_url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "summary": "Palantir's CEO, Alex Karp, says the company's enterprise customers are unhappy with how frontier AI labs are operating. He claims these labs only care about burning through AI tokens to signal productivity. Accelerating costs are raising alarm among businesses and fueling efficiency concerns.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "Palantir CEO Alex Karp는 기업 고객들이 최첨단 AI 연구소들의 운영 방식에 불만을 표하고 있다고 밝혔습니다. AI 토큰 소모를 통해 생산성을 과시하는 경향과 가속화되는 비용이 기업들의 우려를 증폭시키고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
+    "title": "EU Orders Meta To Stop Blocking Rival AI Chatbots On WhatsApp (2 minute read)",
+    "url": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
+    "discussion_url": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
+    "summary": "The EU has ordered Meta to open up WhatsApp to chatbots from rival companies for free. Meta banned third-party AI chatbots from the WhatsApp for Business API in October last year. The EU said Meta was abusing its dominant position in the European messaging app by preventing competing assistants from using the WhatsApp API. Meta plans to appeal the decision, saying the order is a regulatory overreach that would grant some of the world's largest companies access to the API without paying.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "EU가 Meta에게 WhatsApp에서 경쟁사 AI 챗봇의 무료 접근을 허용하라고 명령했습니다. Meta는 작년 10월부터 WhatsApp Business API에서 서드파티 AI 챗봇을 금지했으며, 규제 과잉이라며 항소할 계획입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
+    "title": "OpenAI weighs Nvidia-backed lease for 10 GW Ohio data center campus (4 minute read)",
+    "url": "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
+    "discussion_url": "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
+    "summary": "OpenAI would control the computing equipment at the site, which is expected to begin operating in 2028, under a 20-year lease.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "OpenAI가 Nvidia 지원을 받아 10 GW 규모의 오하이오 데이터센터 캠퍼스 임대를 검토 중입니다. 이 데이터센터는 2028년부터 20년간 운영되며, OpenAI가 컴퓨팅 장비를 제어할 예정입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/using-codex-to-simulate-black-holes/",
+    "title": "Codex for Black Hole Simulations (4 minute read)",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes/",
+    "discussion_url": "https://openai.com/index/using-codex-to-simulate-black-holes/",
+    "summary": "Astrophysicist Chi-kwan Chan used Codex to refine and test algorithms for simulating plasma and particle behavior around black holes.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "천체물리학자 Chi-kwan Chan은 Codex를 사용하여 블랙홀 주변의 플라즈마 및 입자 동작 시뮬레이션 알고리즘을 개선했습니다. Codex는 알고리즘의 정제 및 테스트에 활용되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ramp.com/blog/introducing-ramp-applied-ai-solutions",
+    "title": "Introducing Ramp Applied AI Solutions (4 minute read)",
+    "url": "https://ramp.com/blog/introducing-ramp-applied-ai-solutions",
+    "discussion_url": "https://ramp.com/blog/introducing-ramp-applied-ai-solutions",
+    "summary": "Ramp Applied AI Solutions enables companies to deploy AI effectively by embedding engineers in finance teams to create custom solutions.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "Ramp Applied AI Solutions는 기업이 AI를 효과적으로 배포하도록 돕는 새로운 서비스입니다. 이 솔루션은 금융 팀에 엔지니어를 배치하여 맞춤형 AI 솔루션을 구축합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/blog/building-with-claude-managed-agents",
+    "title": "The evolution of agentic surfaces: building with Claude Managed Agents (13 minute read)",
+    "url": "https://claude.com/blog/building-with-claude-managed-agents",
+    "discussion_url": "https://claude.com/blog/building-with-claude-managed-agents",
+    "summary": "Claude Managed Agents streamline building production-grade agents by offering composable APIs with integrated infrastructure.",
+    "score": 0,
+    "published_at": "2026-06-12T00:19:28+00:00",
+    "ai_summary": "Claude Managed Agents는 생산 등급 에이전트 구축 과정을 간소화하는 도구입니다. 이들은 통합 인프라를 갖춘 구성 가능한 API를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
