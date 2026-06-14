@@ -1,0 +1,567 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30464",
+    "title": "AUR 패키지가 정보 탈취기와 루트킷에 감염됨",
+    "url": "https://news.hada.io/topic?id=30464",
+    "discussion_url": "https://news.hada.io/topic?id=30464",
+    "summary": "AUR 패키지 저장소는 관리되지 않는 패키지를 누구나 채택해 PKGBUILD와 관련 파일 변경을 제출할 수 있는 구조이며, 이번 사건에서 408개 이상 패키지가 감염된 정황이 있음\n새 AUR 패키지 maintainer가 신뢰받는 maintainer를 사칭해 패키지를 채택했고, 다른 AUR maintainer들이 ...",
+    "score": 0,
+    "published_at": "2026-06-13T21:37:36+00:00",
+    "ai_summary": "AUR 패키지 저장소에서 신뢰받는 maintainer를 사칭한 공격으로 408개 이상 패키지가 정보 탈취기 및 루트킷에 감염되었습니다. 이는 AUR의 관리되지 않는 구조와 새 maintainer의 악용으로 발생했으며, 개발자들에게 심각한 보안 위험을 초래합니다. 리눅스 사용자, 특히 아치 리눅스 개발자들에게 패키지 소스 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30461",
+    "title": "macOS에서 로컬 코딩 에이전트 설정하는 방법",
+    "url": "https://news.hada.io/topic?id=30461",
+    "discussion_url": "https://news.hada.io/topic?id=30461",
+    "summary": "로컬 코딩 에이전트 구성은 인터넷 장애 때도 macOS에서 OpenAI 호환 API로 모델을 실행하고 Pi에서 텍스트와 이미지 입력을 처리하도록 만드는 설정임\nApple M1 Max 64GB, macOS 15.7.7에서 llama.cpp Metal과 Gemma 4 26B-A4B GGUF 모델을 사용했으며, 기본 생성...",
+    "score": 0,
+    "published_at": "2026-06-13T13:45:09+00:00",
+    "ai_summary": "macOS에서 인터넷 없이 OpenAI 호환 API 모델을 로컬로 실행하고 텍스트/이미지 입력을 처리하는 코딩 에이전트 설정 방법을 다룹니다. Apple M1 Max에서 llama.cpp Metal과 Gemma 4 26B-A4B GGUF 모델을 활용하여 로컬 AI 개발 환경 구축을 상세히 설명합니다. 이는 개발자들이 개인 장비에서 AI 모델을 효율적으로 운영하고 커스터마이징하는 데 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30460",
+    "title": "악성코드 개발자들이 스파이웨어에 핵·생물무기 문구를 추가함",
+    "url": "https://news.hada.io/topic?id=30460",
+    "discussion_url": "https://news.hada.io/topic?id=30460",
+    "summary": "AI 보안 스캐너의 분석을 막기 위해 스파이웨어에 LLM 안전 거부를 유발하는 핵·생물무기 문구가 삽입됨\n1차 안전 정렬에 과도하게 의존하면 실제 보안 분석에서 공격자가 악용할 수 있는 맹점이 생김\n폐쇄형 모델과 오픈 모델이 공격적으로 거부하도록 배...",
+    "score": 0,
+    "published_at": "2026-06-13T13:42:08+00:00",
+    "ai_summary": "악성코드 개발자들이 AI 보안 스캐너를 우회하기 위해 스파이웨어에 LLM 안전 거부를 유발하는 핵·생물무기 관련 문구를 삽입합니다. 이는 1차 안전 정렬에 과도하게 의존하는 AI 모델의 맹점을 악용하는 사례로, 실제 보안 분석에 치명적인 약점을 만듭니다. 개발자들은 AI 기반 보안 시스템 설계 시 이러한 우회 공격에 대비해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30456",
+    "title": "Show GN: 다 푼 문제지를 깨끗하게 만들어주는 AI",
+    "url": "https://news.hada.io/topic?id=30456",
+    "discussion_url": "https://news.hada.io/topic?id=30456",
+    "summary": "중학생, 초등학생 남자애들 키우는 아빠입니다.\n매번 문제지 풀고 나서 오답 다시 풀게 시키는데\n지우개로 지우고 하다 보니 문제지가 너덜너덜해지고\n답 자국 보고 애들이 뱃기더라구요 ㅎㅎ\n그래서 불현듯 생각이 나서 주말 바이브 코딩으로\n만들어 봤습니다.\n다 푼 문제지 사",
+    "score": 0,
+    "published_at": "2026-06-13T09:25:58+00:00",
+    "ai_summary": "한 아버지가 자녀들의 오답 문제지를 깨끗하게 만들어주는 AI 도구를 주말 코딩으로 개발했습니다. 이는 아이들이 이전에 푼 답을 보지 않고 문제지를 다시 풀 수 있도록 돕는 서비스입니다. 실생활 문제를 AI로 해결한 개인 프로젝트로, 개발자들의 창의적인 아이디어 구현 사례를 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30454",
+    "title": "Moonshot AI가 Kimi K2.7-Code를 출시했습니다.",
+    "url": "https://news.hada.io/topic?id=30454",
+    "discussion_url": "https://news.hada.io/topic?id=30454",
+    "summary": "문샷 AI가 이전 모델 대비 코딩 성능을 대폭 향상시키고 추론 토큰 소모량을 30% 줄인 에이전트 중심의 오픈 가중치 코딩 모델 '키미 K2.7-Code'를 출시했습니다.\n\n\n전문 번역\n이번 주, 문샷 AI(Moonshot AI)가 키미 K2.7-Code(Kimi K2.7-Code)를 출시했습니다. 이는",
+    "score": 0,
+    "published_at": "2026-06-13T08:54:48+00:00",
+    "ai_summary": "Moonshot AI가 이전 모델 대비 코딩 성능이 대폭 향상되고 추론 토큰 소모량을 30% 줄인 에이전트 중심의 오픈 가중치 코딩 모델 '키미 K2.7-Code'를 출시했습니다. 이 모델은 개발자들이 AI 기반 코딩 작업을 더 효율적으로 수행할 수 있도록 설계되었습니다. 새로운 LLM의 성능 개선과 오픈 소스 정책은 AI 개발 커뮤니티에 중요한 영향을 미칠 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30451",
+    "title": "“그냥 ChatGPT에 업로드하면 되는 거 아니에요?”",
+    "url": "https://news.hada.io/topic?id=30451",
+    "discussion_url": "https://news.hada.io/topic?id=30451",
+    "summary": "프리랜서 번역은 문서를 AI에 넣는 단순 변환이 아니라, 문맥 이해, 현지화, 용어 조사, 일관성 확인이 필요한 전문 작업임\nChatGPT는 번역 문서를 출력할 수 있지만, 서식 문제가 생길 수 있고 번역 품질도 의심스러울 수 있음\nAI는 맞춤법 확인, 문장 수...",
+    "score": 0,
+    "published_at": "2026-06-13T07:41:09+00:00",
+    "ai_summary": "프리랜서 번역은 단순한 AI 번역이 아닌 문맥 이해, 현지화, 용어 조사 및 일관성 확인이 필요한 전문 작업임을 강조합니다. ChatGPT와 같은 AI는 서식 문제나 품질 문제가 발생할 수 있어 전문 번역에는 한계가 있음을 지적합니다. 이는 AI 도구의 현재 능력과 한계를 이해하고 개발 및 적용 시 고려해야 할 중요한 관점을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30450",
+    "title": "Show GN: EncBird - AI 코치와 쓰는 영어 일기, 쓸수록 똑똑해지는 GenAI 플라이휠",
+    "url": "https://news.hada.io/topic?id=30450",
+    "discussion_url": "https://news.hada.io/topic?id=30450",
+    "summary": "예전에 한 번 올렸던 잉크버드(EncBird) 영어 작문 서비스가, 그동안 사용자들의 직/간접적인 피드백을 거치며 완전히 다른\n서비스가 되어서 다시 공유해봅니다.\n누구를 위한 서비스인가?\n잉크버드는 20~40대 직장인을 대상으로 만든 서비스로, 아래와 같은 경우에 잘 맞습니다.",
+    "score": 0,
+    "published_at": "2026-06-13T07:39:56+00:00",
+    "ai_summary": "EncBird는 사용자 피드백을 반영하여 개선된 AI 코치 기반 영어 작문 서비스로, 20-40대 직장인을 대상으로 합니다. 이 서비스는 사용자의 활용이 늘어날수록 AI가 똑똑해지는 GenAI 플라이휠 개념을 적용했습니다. 실용적인 AI 애플리케이션 개발 사례와 지속적인 개선 모델을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30446",
+    "title": "Anthropic, 미국 정부 지시로 Fable 5·Mythos 5 모델 전면 차단",
+    "url": "https://news.hada.io/topic?id=30446",
+    "discussion_url": "https://news.hada.io/topic?id=30446",
+    "summary": "Anthropic이 미국 정부의 수출통제(export control) 지시에 따라 최신 AI 모델인 Fable 5와 Mythos 5의 사용을 전면 중단.\n정부는 “국가안보(National Security)“를 이유로 들었지만 구체적인 사유는 공개하지 않음.\n명령 내용은 “미국 내외를 불문하고 모든 외국인(Foreign Nationals)에...",
+    "score": 0,
+    "published_at": "2026-06-13T01:50:28+00:00",
+    "ai_summary": "Anthropic이 미국 정부의 국가안보 관련 수출통제 지시에 따라 최신 AI 모델인 Fable 5 및 Mythos 5의 사용을 전면 중단했습니다. 구체적인 사유는 공개되지 않았으나, 전 세계 모든 외국인에게 적용되는 이 조치는 AI 모델 접근성에 큰 영향을 미칩니다. 이는 AI 개발 및 활용에 있어 정책적, 규제적 리스크가 있음을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30444",
+    "title": "OpenAI, Codex에 원할때 토큰 리밋 리셋이 가능한 기능 도입",
+    "url": "https://news.hada.io/topic?id=30444",
+    "discussion_url": "https://news.hada.io/topic?id=30444",
+    "summary": "월간 1회 정도의 레이트 리밋 리셋 기능을 기본으로 제공, 저장해 뒀다가 필요할 때 리셋을 사용 가능\n친구 추천 기능을 도입, 초대를 보내서 referal이 가입하면 양쪽에 1회씩 추가로 지급\n\n앞으로 2주간, 최대 3명까지 가능. 기존에 2달...",
+    "score": 0,
+    "published_at": "2026-06-13T01:31:02+00:00",
+    "ai_summary": "OpenAI가 개발자용 Codex에 토큰 리밋 리셋 기능을 도입합니다.\n월 1회 기본 제공되며, 필요할 때 사용 가능하고 친구 초대 시 추가 리셋을 받을 수 있습니다.\n이는 Codex를 활용하는 개발자들의 생산성 관리에 도움이 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30443",
+    "title": "기획서 작성에 하루 쓰는 PM, AI로 10분 수준으로 단축해본 이야기",
+    "url": "https://news.hada.io/topic?id=30443",
+    "discussion_url": "https://news.hada.io/topic?id=30443",
+    "summary": "PM(프로덕트 매니저)들이 기획서 작성에 소비하는 시간을 AI로 단축할 수 있을까?\n최근 AI 기술의 발전으로 PRD 초안 작성, 요구사항 정리, 화면 목업까지 자동화되고 있지만, 실제 업무에 적용하려면 문제가 발생함.\n주요 문제점\n• AI가 생성하는 초안은 「인터넷 어딘가의 평균적인 PRD」에 가",
+    "score": 0,
+    "published_at": "2026-06-13T01:02:14+00:00",
+    "ai_summary": "PM이 AI를 활용하여 기획서 작성 시간을 하루에서 10분으로 단축하려 시도한 경험담입니다.\nAI가 PRD 초안, 요구사항 정리, 목업까지 자동화하지만, 실제 업무 적용에는 한계가 있음을 지적합니다.\nAI 생성물이 「인터넷 어딘가의 평균적인 PRD」에 그치는 문제점 등이 언급되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30439",
+    "title": "Claude Fable은 끊임없이 적극적으로 움직인다",
+    "url": "https://news.hada.io/topic?id=30439",
+    "discussion_url": "https://news.hada.io/topic?id=30439",
+    "summary": "2일간의 실험 결과 Claude Fable 5는 &quot;relentlessly proactive&quot; 하다고 표현하는게 적절함\n스크린샷과 한 줄 프롬프트만으로 로컬 개발 서버 실행, 실제 브라우저 조작, 측정 코드 삽입까지 수행해 CSS 버그 원인을 추적함\nFable은 Playwright, Firefox, WebKit,...",
+    "score": 0,
+    "published_at": "2026-06-13T00:46:30+00:00",
+    "ai_summary": "Claude Fable 5가 '끊임없이 적극적(relentlessly proactive)'인 AI 에이전트임을 2일간의 실험으로 보여줍니다.\n스크린샷과 한 줄 프롬프트만으로 로컬 개발 서버 실행, 브라우저 조작, 측정 코드 삽입을 통해 CSS 버그를 추적했습니다.\nPlaywright, Firefox, WebKit 등을 활용하며 개발자에게 매우 유용한 기능입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30438",
+    "title": "Cate - 무한 줌이 가능한 코딩용 캔버스 IDE",
+    "url": "https://news.hada.io/topic?id=30438",
+    "discussion_url": "https://news.hada.io/topic?id=30438",
+    "summary": "무한 캔버스 위에 에디터/터미널/브라우저/문서/AI 에이전트를 자유롭게 펼쳐 배치하는 데스크톱 IDE\n창과 탭 대신 자유로운 공간형(freeform space) 작업 영역 제공\n패널을 플로팅 하거나 탭/분할로 도킹 또는 별도 OS 창으로 분리 가능하고, 폴더를 다시...",
+    "score": 0,
+    "published_at": "2026-06-13T00:31:02+00:00",
+    "ai_summary": "Cate는 에디터, 터미널, 브라우저, 문서, AI 에이전트를 무한 캔버스 위에 자유롭게 배치하는 코딩용 데스크톱 IDE입니다.\n창과 탭 대신 자유로운 공간형 작업 영역을 제공하여 개발자가 직관적으로 작업할 수 있도록 돕습니다.\n패널 도킹, 분리 등 유연한 UI를 강조하며 새로운 개발 환경을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48518684",
+    "title": "GLM 5.2 Is Out",
+    "url": "https://twitter.com/jietang/status/2065784751345287314",
+    "discussion_url": "https://news.ycombinator.com/item?id=48518684",
+    "summary": "",
+    "score": 268,
+    "published_at": "2026-06-13T16:18:31+00:00",
+    "ai_summary": "'GLM 5.2 버전'이 새로 출시되었다는 내용의 기사입니다.\nGLM이 구체적으로 어떤 라이브러리인지는 명시되지 않았으나, 일반적으로 새로운 버전 출시는 성능 개선, 버그 수정 또는 새로운 기능 추가를 의미합니다.\n관련 개발자들은 업데이트된 내용을 확인하여 프로젝트에 적용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48516251",
+    "title": "Every Frame Perfect",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48516251",
+    "summary": "",
+    "score": 499,
+    "published_at": "2026-06-13T11:40:20+00:00",
+    "ai_summary": "'모든 프레임을 완벽하게(Every Frame Perfect)'라는 제목의 기사입니다.\n이는 아마도 게임 개발, 그래픽 렌더링 품질, 사용자 인터페이스 애니메이션 또는 시스템 성능 최적화와 관련된 주제를 다룰 것으로 추정됩니다.\n시각적 경험의 부드러움과 품질 향상에 초점을 맞추는 내용일 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48462759",
+    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48462759",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-06-09T15:54:31+00:00",
+    "ai_summary": "Pyodide 314.0 출시로 Python 패키지들이 PyPI에 WebAssembly(WASM) wheels를 게시할 수 있게 되었습니다. 이를 통해 브라우저나 WASM 런타임에서 Python 패키지를 쉽게 설치하고 실행할 수 있습니다. Python 생태계를 웹 환경으로 확장하는 중요한 진전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48520080",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48520080",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-06-13T18:32:22+00:00",
+    "ai_summary": "Behringer DDX3216 디지털 믹서에 DIY x86 BIOS를 직접 만들어 DOS를 구동시킨 프로젝트입니다. 임베디드 시스템의 하드웨어와 펌웨어를 깊이 이해하고 조작하는 과정을 다룹니다. 저수준 프로그래밍 및 리버스 엔지니어링에 관심 있는 개발자에게 흥미로운 내용입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48519092",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://news.ycombinator.com/item?id=48519092",
+    "summary": "",
+    "score": 488,
+    "published_at": "2026-06-13T16:57:49+00:00",
+    "ai_summary": "아마존 CEO의 미국 정부 관계자들과의 대화가 Anthropic AI 모델에 대한 단속을 촉발했다는 내용입니다. 이는 AI 기술의 규제와 기업 간 경쟁, 그리고 정부의 개입 가능성을 시사합니다. AI 산업의 정책적, 사업적 측면에 대한 분석 기사입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48497195",
+    "title": "Codex for open source",
+    "url": "https://openai.com/form/codex-for-oss/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48497195",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-06-11T22:20:03+00:00",
+    "ai_summary": "OpenAI의 코드 생성 AI 모델 'Codex'를 오픈소스 환경에서 활용하거나 오픈소스 대안을 모색하는 내용입니다. AI 기반 코드 자동화가 오픈소스 개발에 미치는 영향과 협력 방안을 탐구합니다. 개발 생산성 및 LLM 활용에 대한 중요한 논의를 담고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48519011",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48519011",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-06-13T16:49:42+00:00",
+    "ai_summary": "인텔 8087 부동 소수점 칩의 핵심인 가산기(adder)의 내부 작동 방식과 설계에 대해 설명합니다.\n이는 1980년대 컴퓨터의 정밀 연산 능력을 혁신한 핵심 기술입니다.\n하드웨어 아키텍처와 저수준 최적화에 대한 깊은 이해를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48467437",
+    "title": "Appreciating Exif",
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48467437",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-06-09T20:41:44+00:00",
+    "ai_summary": "Exif(교환 이미지 파일 형식)는 디지털 카메라 사진에 촬영 정보와 메타데이터를 포함하는 표준입니다.\n이 기술이 어떻게 이미지 관리를 돕고, 개발자들이 이미지 데이터를 다룰 때 어떤 이점을 제공하는지 설명합니다.\n사진 메타데이터의 중요성과 활용 방안을 조명합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48515336",
+    "title": "A low-carbon computing platform from your retired phones",
+    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48515336",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-06-13T09:38:32+00:00",
+    "ai_summary": "퇴역한 스마트폰을 재활용하여 저탄소 컴퓨팅 플랫폼을 구축하는 아이디어를 제시합니다.\n이는 환경 지속 가능성을 높이고, 저전력 엣지 컴퓨팅 또는 분산 시스템에 활용될 수 있습니다.\n낡은 기기들을 새로운 용도로 재탄생시키는 창의적인 접근 방식을 다룹니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48522237",
+    "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+    "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
+    "discussion_url": "https://news.ycombinator.com/item?id=48522237",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-06-13T22:43:30+00:00",
+    "ai_summary": "더비셔 경찰관이 AI를 사용하여 '증거를 생성'했다는 혐의를 받고 있어 논란이 되고 있습니다.\n이 사건은 AI 기술의 오용 가능성과 윤리적 문제, 그리고 법적 책임을 조명합니다.\nAI 개발자들에게 기술의 사회적 영향과 책임감 있는 사용의 중요성을 일깨워줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48515454",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48515454",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-06-13T09:55:32+00:00",
+    "ai_summary": "RTX 5080 및 RTX 3090 GPU를 활용하여 Qwen 3.6 27B Q8 모델에서 초당 80토큰의 높은 성능을 달성한 설정을 다룹니다.\n이는 대규모 언어 모델(LLM)의 로컬 추론 성능을 최적화하는 방법을 보여줍니다.\n하드웨어 구성과 모델 양자화 기법이 LLM 성능에 미치는 영향을 분석합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48516710",
+    "title": "The experience of rendering Arabic typography and its technical debt",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48516710",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-06-13T12:40:16+00:00",
+    "ai_summary": "아랍어 타이포그래피 렌더링 과정에서 발생하는 복잡한 문제와 기술 부채에 대한 경험을 공유합니다.\n아랍어의 복잡한 서체 규칙, 양방향 텍스트 지원 등 프론트엔드 개발자들이 겪는 어려움을 설명합니다.\n다국어 지원 및 국제화(i18n) 작업의 중요성을 강조합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48517412",
+    "title": "Orthodox C++ (2016)",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48517412",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-06-13T13:58:46+00:00",
+    "ai_summary": "'Orthodox C++'는 2016년 시점을 기준으로 C++ 언어를 사용하는 모범 사례와 철학을 제시합니다.\n이는 C++의 핵심 원칙에 충실하며, 간결하고 유지보수하기 쉬운 코드를 작성하는 방법을 강조합니다.\nC++ 개발자들이 코딩 스타일과 설계 원칙을 개선하는 데 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48518969",
+    "title": "AI coding at home without going broke",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48518969",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-06-13T16:45:03+00:00",
+    "ai_summary": "AI 코딩 도구를 집에서 비용 효율적으로 활용하는 방안을 다룹니다.\n클라우드 비용 절감을 위한 로컬 AI 모델 실행 전략을 제시합니다.\n개발자들의 생산성 향상과 AI 기술 접근성을 높이는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48516504",
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "discussion_url": "https://news.ycombinator.com/item?id=48516504",
+    "summary": "",
+    "score": 234,
+    "published_at": "2026-06-13T12:10:47+00:00",
+    "ai_summary": "730만 달러 투자를 유치한 AI 오픈소스 도구 저장소가 갑자기 아카이브되었습니다.\n이는 AI 스타트업과 오픈소스 프로젝트의 예측 불가능성을 보여주는 사례입니다.\n개발자 커뮤니티에 경각심을 주며 오픈소스 거버넌스에 대한 논의를 촉발했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48493637",
+    "title": "Rust-like compiler pipeline to resolve Matlab language semantics",
+    "url": "https://runmat.com/blog/inside-runmat-runtime-compiler-pipeline",
+    "discussion_url": "https://news.ycombinator.com/item?id=48493637",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-06-11T17:39:00+00:00",
+    "ai_summary": "Matlab 언어의 복잡한 의미론을 해결하기 위해 Rust와 유사한 컴파일러 파이프라인을 구축합니다.\n이는 효율적인 코드 분석 및 최적화에 새로운 접근 방식을 제시합니다.\n컴파일러 설계 및 언어 구현에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48479008",
+    "title": "The state of building user interfaces in Rust",
+    "url": "https://areweguiyet.com/#ecosystem",
+    "discussion_url": "https://news.ycombinator.com/item?id=48479008",
+    "summary": "",
+    "score": 163,
+    "published_at": "2026-06-10T16:44:23+00:00",
+    "ai_summary": "Rust를 활용한 사용자 인터페이스 개발의 현재 상태와 주요 도전 과제를 분석합니다.\n다양한 UI 프레임워크의 장단점을 비교하고 미래 발전 방향을 제시합니다.\nRust 생태계에서 UI 개발에 관심 있는 개발자에게 필수적인 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48521709",
+    "title": "Human Routers of Machine Words",
+    "url": "https://borretti.me/article/human-routers-of-machine-words",
+    "discussion_url": "https://news.ycombinator.com/item?id=48521709",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-06-13T21:35:24+00:00",
+    "ai_summary": "기계가 생성한 텍스트를 검토하고 개선하는 \"인간 라우터\"의 역할을 조명합니다.\nAI 모델의 정확성과 편향성 문제 해결에 인간 개입의 중요성을 강조합니다.\nAI와 인간 협업의 미래 및 노동 시장에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48494270",
+    "title": "The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)",
+    "url": "https://taoofmac.com/space/reviews/2026/06/11/1830",
+    "discussion_url": "https://news.ycombinator.com/item?id=48494270",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-06-11T18:14:58+00:00",
+    "ai_summary": "MilkV Jupiter 2/SpacemiT K3는 RISC-V 기반의 벡터 컴퓨팅 칩입니다.\n이 고성능 하드웨어는 임베디드 시스템 및 특정 연산 집약적 작업에 새로운 가능성을 제공합니다.\n저수준 프로그래밍 및 하드웨어 개발자에게 중요한 기술적 진보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48515385",
+    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "url": "https://github.com/Paca-AI/paca",
+    "discussion_url": "https://news.ycombinator.com/item?id=48515385",
+    "summary": "",
+    "score": 129,
+    "published_at": "2026-06-13T09:44:25+00:00",
+    "ai_summary": "Paca는 인간과 AI의 협업을 위한 경량 Jira 대체 솔루션으로 소개되었습니다.\n이 도구는 AI 기반 워크플로우 통합을 통해 팀의 생산성 향상에 중점을 둡니다.\nAI 프로젝트 관리나 AI 어시스턴트와의 협업이 필요한 개발자에게 특히 유용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
