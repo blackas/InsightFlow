@@ -1,0 +1,526 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30486",
+    "title": "Show GN: 맥북을 덮어도 클램쉘 모드로 AI 에이전트를 계속 돌리는 앱 — Electronic Clam",
+    "url": "https://news.hada.io/topic?id=30486",
+    "discussion_url": "https://news.hada.io/topic?id=30486",
+    "summary": "안녕하세요. 맥북을 덮어도(클램쉘 모드) AI 에이전트가 멈추지 않고 계속 돌아가게 하는\nmacOS 메뉴바 앱을 만들어 공유합니다.\n최근 'AI 코딩 열풍에 노트북을 닫지 못한 채 이동하는 개발자들'(이른바\n'노트북 열고 걷기' 밈) 같은 뉴스들이 나왔습니다.\n(https://www.donga.com/news/Ec",
+    "score": 0,
+    "published_at": "2026-06-15T00:09:29+00:00",
+    "ai_summary": "맥북 클램쉘 모드에서도 AI 에이전트가 계속 작동하게 하는 macOS 메뉴바 앱 'Electronic Clam'이 개발되었습니다.\n이는 최근 '노트북 열고 걷기' 밈처럼 AI 코딩 중단 없이 이동하려는 개발자들의 불편함을 해소합니다.\n개발자 본인이 만든 앱을 공유하는 글로, AI 코딩 환경을 개선하는 유용한 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30483",
+    "title": "회사처럼 돈 쓰지 않고 집에서 AI 코딩하기",
+    "url": "https://news.hada.io/topic?id=30483",
+    "discussion_url": "https://news.hada.io/topic?id=30483",
+    "summary": "개인용 AI 코딩 비용을 줄이는 선택지는 자가 호스팅, 오픈소스 모델 API 대여, 프런티어 구독 최적화의 세 가지로 나뉨\n자가 호스팅은 장비를 구매해 로컬에서 오픈소스 모델을 돌리며 이후 토큰당 비용을 내지 않지만, 초기 비용이 크고 집에서 돌릴 수 있는 모델...",
+    "score": 0,
+    "published_at": "2026-06-14T19:39:19+00:00",
+    "ai_summary": "개인용 AI 코딩 비용을 절감하는 방법으로 자가 호스팅, 오픈소스 모델 API 대여, 구독 최적화가 제시됩니다.\n자가 호스팅은 초기 장비 구매 비용이 크지만 장기적으로 토큰당 비용이 없고 로컬에서 모델을 운영합니다.\n이는 개발자가 AI 모델을 효율적으로 활용하고 비용을 관리하는 실질적인 방법을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30477",
+    "title": "이메일의 미래",
+    "url": "https://news.hada.io/topic?id=30477",
+    "discussion_url": "https://news.hada.io/topic?id=30477",
+    "summary": "AI가 받은편지함을 읽고 요약하며 작업까지 수행하는 환경에서는 발신자 검증이 이메일 신뢰의 핵심 조건이 됨\nSPF, DKIM, DMARC는 서버 권한, 메시지 무결성, 실패 시 처리 방침을 결합해 이메일 인증의 기본 구조를 이룸\nAI 필터와 AI 보조 도구가 이메...",
+    "score": 0,
+    "published_at": "2026-06-14T01:49:22+00:00",
+    "ai_summary": "AI가 이메일 요약 및 작업 수행하는 미래에는 발신자 검증이 이메일 신뢰의 핵심 요소가 됩니다.\nSPF, DKIM, DMARC는 서버 권한, 메시지 무결성, 실패 처리 방침을 결합하여 이메일 인증의 기본 구조를 이룹니다.\nAI 필터와 보조 도구가 이메일 환경을 변화시키면서 보안과 인증 기술의 중요성이 부각됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30475",
+    "title": "repo-slopscore: 커밋 기록 분석으로 Git 저장소의 AI/LLM 기여 감지",
+    "url": "https://news.hada.io/topic?id=30475",
+    "discussion_url": "https://news.hada.io/topic?id=30475",
+    "summary": "repo-slopscore는 Git 저장소의 커밋 기록을 분석해 AI/LLM 기여를 감지하는 도구로 소개됨\n서비스는 홈, 저장소 스캔, 소스 코드 링크를 제공하며 소스 코드는 codeberg.org/polyphony/repo-slopscore에 공개됨\n스캔된 전체 저장소 수는 3058개...",
+    "score": 0,
+    "published_at": "2026-06-14T01:04:51+00:00",
+    "ai_summary": "'repo-slopscore'는 Git 저장소의 커밋 기록을 분석하여 AI/LLM 관련 기여를 감지하는 도구입니다.\n이 서비스는 저장소 스캔 기능을 제공하며 소스 코드가 공개되어 투명성을 확보하고 있습니다.\n개발자들이 자신의 프로젝트에서 AI/LLM 활용 정도를 파악하고 관리하는 데 유용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30470",
+    "title": "오픈소스 AI는 반드시 이겨야 한다",
+    "url": "https://news.hada.io/topic?id=30470",
+    "discussion_url": "https://news.hada.io/topic?id=30470",
+    "summary": "AI는 업무, 교육, 과학, 소프트웨어, 창작, 공공 서비스, 국가 역량을 위한 문명적 인프라이며, 접근이 소수 기업의 조건과 가격에 좌우되지 않아야 함\n지능 시스템을 허가 없이 연구, 구축, 수리, 배포, 감사, 조정, 교육, 보존, 실행할 수 있는 능력은 운영의 자유",
+    "score": 0,
+    "published_at": "2026-06-14T00:50:03+00:00",
+    "ai_summary": "AI는 문명적 인프라이므로 소수 기업의 통제나 가격 조건에 묶이지 않고 접근이 자유로워야 한다고 주장됩니다.\n오픈소스 AI를 통해 지능 시스템을 자유롭게 연구, 구축, 배포, 감사, 실행할 수 있는 능력이 중요합니다.\n이는 AI의 발전 방향과 개발자 커뮤니티의 참여 방식에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30469",
+    "title": "murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시",
+    "url": "https://news.hada.io/topic?id=30469",
+    "discussion_url": "https://news.hada.io/topic?id=30469",
+    "summary": "AI 추론 워크로드를 겨냥한 RocksDB 기반 NVMe/S3 캐시로 Redis를 대체 가능\n\n배치 처리 방식의 low-latency 제로 카피 읽기 및 쓰기에 최적화\n\n\n배치 데이터 파이프라인과 추론 앱 사이에 위치하는 데이터 서빙 계층으로 Parquet 입력...",
+    "score": 0,
+    "published_at": "2026-06-14T00:31:02+00:00",
+    "ai_summary": "'murrdb/murr'는 AI 추론 워크로드를 위한 RocksDB 기반의 서브 밀리초 NVMe/S3 캐시로 Redis를 대체할 수 있습니다.\n이 캐시는 배치 처리 방식의 낮은 지연 시간과 제로 카피 읽기/쓰기에 최적화되어 있습니다.\n데이터 파이프라인과 추론 앱 사이의 데이터 서빙 계층에 위치하여 Parquet 입력 등을 효율적으로 처리합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48533848",
+    "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48533848",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-06-14T22:54:55+00:00",
+    "ai_summary": "이 기사는 Kobo와 Adobe 간의 ePub 처리 불일치 문제를 다룹니다. 사용자의 ePub 파일이 표준을 준수하더라도, Kobo 기기에서 제대로 작동하지 않는 경우가 Adobe DRM 구현 방식 때문이라고 지적합니다. 디지털 콘텐츠 표준, DRM, 그리고 플랫폼 간 호환성 문제에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48529990",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "discussion_url": "https://news.ycombinator.com/item?id=48529990",
+    "summary": "",
+    "score": 370,
+    "published_at": "2026-06-14T17:25:38+00:00",
+    "ai_summary": "Kage는 어떤 웹사이트든 오프라인에서 볼 수 있도록 단일 실행 파일로 저장하는 'Show HN' 프로젝트입니다. 웹사이트의 모든 콘텐츠를 캡처하여 휴대 가능한 바이너리 형태로 만들어 오프라인 접근성을 제공합니다. 웹 스크래핑, 콘텐츠 패키징, 오프라인 애플리케이션 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48528371",
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "discussion_url": "https://news.ycombinator.com/item?id=48528371",
+    "summary": "",
+    "score": 261,
+    "published_at": "2026-06-14T15:37:31+00:00",
+    "ai_summary": "리우데자네이루 시에서 '자체 개발'했다고 발표한 LLM이 실제로는 기존 모델을 병합한 것으로 밝혀졌습니다. 이 사건은 LLM 개발의 투명성과 출처 표기 문제, 그리고 '자체 개발' 주장의 진정성에 대한 논란을 불러일으킵니다. AI/ML, 특히 LLM 개발 윤리와 관련하여 시사하는 바가 큽니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48482951",
+    "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48482951",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-06-10T21:27:10+00:00",
+    "ai_summary": "이 기사는 해시 함수의 역사, 기본 원리, 그리고 컴퓨터 과학 전반에 걸친 다양한 응용 분야를 설명합니다. 데이터 무결성, 보안, 암호화, 데이터베이스 색인 등 해시 함수가 어떻게 핵심적인 역할을 하는지 다룹니다. 모든 개발자에게 필수적인 기초 개념을 깊이 있게 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48531449",
+    "title": "Chaosnet (1981)",
+    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48531449",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-06-14T19:14:21+00:00",
+    "ai_summary": "Chaosnet은 1981년에 개발된 초기 컴퓨터 네트워크 프로토콜에 대한 상세한 내용을 제공합니다. 패킷 기반 통신과 분산 시스템에 대한 초기 접근 방식을 보여주며, 현대 네트워크 기술의 기반이 된 역사적 맥락을 이해하는 데 중요합니다. 네트워킹 역사와 시스템 아키텍처에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48521236",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "url": "https://traceapp.info",
+    "discussion_url": "https://news.ycombinator.com/item?id=48521236",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-06-13T20:41:58+00:00",
+    "ai_summary": "Trace는 macOS용 오프라인 회의 기록 도구로, 통화 중 중요한 순간을 표시할 수 있는 기능을 제공하는 'Show HN' 프로젝트입니다. 모든 음성 처리 및 기록 과정이 로컬에서 이루어져 높은 개인 정보 보호를 보장합니다. AI 기반 음성 인식, 데스크톱 앱 개발, 생산성 도구에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48528779",
+    "title": "Ask HN: What are you working on? (June 2026)",
+    "url": "https://news.ycombinator.com/item?id=48528779",
+    "discussion_url": "https://news.ycombinator.com/item?id=48528779",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-06-14T16:05:28+00:00",
+    "ai_summary": "개발자들이 현재 어떤 프로젝트를 진행하고 있는지, 어떤 기술적 도전에 직면해 있는지 공유하는 토론 게시물입니다. 다양한 개발 분야의 최신 트렌드와 개인 프로젝트를 엿볼 수 있습니다. 동료 개발자들의 아이디어와 진행 상황을 통해 영감을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48533504",
+    "title": "Did Anthropic ask for this?",
+    "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+    "discussion_url": "https://news.ycombinator.com/item?id=48533504",
+    "summary": "",
+    "score": 129,
+    "published_at": "2026-06-14T22:23:05+00:00",
+    "ai_summary": "이 기사는 AI 기업 Anthropic과 관련된 특정 이슈나 논란에 대해 다루며, 그 배경과 의미를 탐색합니다. Anthropic의 제품, 정책 또는 특정 행동이 시장이나 커뮤니티에 미친 영향에 대한 질문을 제기합니다. LLM 및 AI 윤리, 방향성 등에 대한 개발자들의 관심사를 자극할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48533736",
+    "title": "The Jqwik Anti-AI Affair",
+    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48533736",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-06-14T22:43:49+00:00",
+    "ai_summary": "Jqwik이라는 자바 테스트 프레임워크와 관련된 '반(反) AI' 논란 또는 사건을 다룹니다. AI가 소프트웨어 개발, 특히 테스트 코드 생성에 미치는 영향에 대한 논쟁을 보여줄 수 있습니다. 개발 커뮤니티 내에서 AI의 역할과 윤리적 사용에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48526633",
+    "title": "Formal methods and the future of programming",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "discussion_url": "https://news.ycombinator.com/item?id=48526633",
+    "summary": "",
+    "score": 176,
+    "published_at": "2026-06-14T12:35:27+00:00",
+    "ai_summary": "이 기사는 소프트웨어의 정확성과 신뢰성을 높이는 데 사용되는 '형식 방법론'의 중요성과 미래 프로그래밍에 미칠 영향을 탐구합니다. 수학적 증명 기반의 접근 방식이 복잡한 시스템 개발에 어떻게 적용될 수 있는지 설명합니다. 소프트웨어 공학의 심화된 이해와 미래 개발 패러다임에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48527145",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "discussion_url": "https://news.ycombinator.com/item?id=48527145",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-06-14T13:43:08+00:00",
+    "ai_summary": "이 기사는 Caddy 웹 서버와 zeroserve의 호환성 개선에 따른 성능 향상에 대해 다룹니다. 해당 통합을 통해 처리량(throughput)이 3배 증가하고, 응답 지연 시간(latency)이 70% 감소했음을 강조합니다. 백엔드 개발자 및 DevOps 엔지니어에게 웹 서비스 성능 최적화에 대한 실질적인 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48527820",
+    "title": "Perlisisms (1982)",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48527820",
+    "summary": "",
+    "score": 91,
+    "published_at": "2026-06-14T14:56:56+00:00",
+    "ai_summary": "이 기사는 컴퓨터 과학의 선구자인 앨런 펄리스의 명언, 즉 '펄리시즘'들을 모아 소개합니다. 1982년에 발표된 이 격언들은 프로그래밍의 본질, 개발자의 사고방식, 소프트웨어 설계에 대한 깊은 통찰을 담고 있습니다. 시대를 초월하는 지혜를 통해 개발자들에게 영감을 주고 사고를 확장시켜 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48476539",
+    "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+    "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=48476539",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-06-10T14:08:36+00:00",
+    "ai_summary": "TorchCodec 0.14 버전은 HDR 비디오 디코딩 기능을 CPU와 CUDA(GPU) 환경 모두에서 지원합니다. 이를 통해 고성능 멀티미디어 처리 능력을 제공하며, 빠른 WAV 오디오 디코딩 기능도 포함되었습니다. AI/ML 모델 학습을 위한 데이터 전처리나 고성능 미디어 애플리케이션 개발에 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48491048",
+    "title": "Lisp's Influence on Ruby",
+    "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "discussion_url": "https://news.ycombinator.com/item?id=48491048",
+    "summary": "",
+    "score": 214,
+    "published_at": "2026-06-11T14:43:11+00:00",
+    "ai_summary": "Lisp의 설계 원칙과 사상이 Ruby 언어 개발에 미친 영향을 분석합니다. 함수형 프로그래밍, 동적 타입, 메타프로그래밍 등 Ruby의 핵심 특성이 Lisp에서 유래했음을 설명합니다. 언어 설계와 프로그래밍 패러다임에 관심 있는 개발자에게 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48532178",
+    "title": "AI is code – and can't be prompted into being smarter",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "discussion_url": "https://news.ycombinator.com/item?id=48532178",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-06-14T20:17:54+00:00",
+    "ai_summary": "AI의 본질이 코드이며, 단순히 프롬프트만으로 AI를 근본적으로 똑똑하게 만들 수 없다는 주장을 다룹니다. 진정한 AI 지능 향상은 모델 아키텍처, 데이터, 학습 알고리즘 개선에 달려있음을 강조합니다. AI 시스템의 한계와 발전 방향에 대한 개발자적 관점을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48507039",
+    "title": "Write for One Person",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48507039",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-06-12T17:36:10+00:00",
+    "ai_summary": "글쓰기 시 특정 한 사람을 독자로 상정하여 글을 작성하는 전략의 중요성을 강조합니다. 이는 글의 초점을 명확히 하고 메시지를 더 효과적으로 전달하는 데 큰 도움을 줍니다. 기술 문서, 코드 주석, 팀 커뮤니케이션 등 개발자의 글쓰기 능력 향상에 기여합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48492822",
+    "title": "The only scalable delete in Postgres is DROP TABLE",
+    "url": "https://planetscale.com/blog/the-only-scalable-delete",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492822",
+    "summary": "",
+    "score": 120,
+    "published_at": "2026-06-11T16:48:49+00:00",
+    "ai_summary": "PostgreSQL에서 대량의 데이터를 효율적으로 삭제하는 방법에 대한 심층 분석을 제공합니다. `TRUNCATE`나 `DELETE` 대신 `DROP TABLE`이 대규모 삭제 작업에서 가장 확장성 있는 솔루션임을 주장합니다. 데이터베이스 성능 최적화 및 관리에 중요한 실용적 조언을 담고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48527360",
+    "title": "FarOutCompany",
+    "url": "https://faroutcompany.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48527360",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-06-14T14:09:29+00:00",
+    "ai_summary": "FarOutCompany는 혁신적인 기술 솔루션 또는 서비스를 시장에 선보이는 것으로 추정됩니다. 특정 분야의 문제를 해결하거나 새로운 가치를 제공하는 것을 목표로 합니다. 개발자들은 새로운 기술 트렌드와 잠재적 협업 기회를 탐색할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48528029",
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "url": "https://news.ycombinator.com/item?id=48528029",
+    "discussion_url": "https://news.ycombinator.com/item?id=48528029",
+    "summary": "",
+    "score": 257,
+    "published_at": "2026-06-14T15:13:57+00:00",
+    "ai_summary": "M1 Max 컴퓨터와 로컬 ML 모델을 활용해 669GB GoPro 비디오를 인덱싱한 개인 프로젝트 경험을 공유합니다. 온디바이스 ML의 실용적인 적용 가능성과 대용량 미디어 처리 기술을 탐구한 사례입니다. 로컬 환경에서의 ML 프로젝트 구현 및 성능 최적화에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48530382",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "url": "https://www.orangecrumbs.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48530382",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-06-14T17:54:17+00:00",
+    "ai_summary": "해커 뉴스에서 인기를 얻은 위키피디아 문서를 탐색할 수 있는 새로운 웹 도구를 소개하는 'Show HN' 프로젝트입니다. 해커 뉴스 사용자들의 관심사를 데이터 기반으로 파악하고, 정보 탐색을 효율화하는 데 초점을 맞춥니다. 데이터 분석 및 정보 큐레이션 도구 개발 사례를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48489309",
+    "title": "USB Power Delivery: Plugging into the Benefits",
+    "url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
+    "discussion_url": "https://news.ycombinator.com/item?id=48489309",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-06-11T12:15:22+00:00",
+    "ai_summary": "USB Power Delivery(USB-PD) 기술의 장점을 다루며, 다양한 장치 간의 전력 공급 표준을 이해하는 데 중요합니다.\n빠른 충전과 범용성을 제공하여 하드웨어 및 임베디드 관련 개발자에게 유용합니다.\n이 기술 표준은 다양한 기기 연결성을 향상시키는 핵심 요소입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48531394",
+    "title": "Yserver: A modern X11 server written in Rust",
+    "url": "https://github.com/joske/yserver",
+    "discussion_url": "https://news.ycombinator.com/item?id=48531394",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-06-14T19:10:35+00:00",
+    "ai_summary": "Rust 언어로 작성된 현대적인 X11 서버인 Yserver를 소개하는 기사입니다.\n시스템 프로그래밍, 그래픽 환경 개발 및 Rust 언어 활용에 관심 있는 개발자에게 매우 유용합니다.\n오픈소스 X11 구현의 새로운 대안을 제시하며 기술적 깊이가 높은 내용을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48526661",
+    "title": "The Birth and Death of JavaScript (2014)",
+    "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "discussion_url": "https://news.ycombinator.com/item?id=48526661",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-06-14T12:38:31+00:00",
+    "ai_summary": "2014년 시점에서 자바스크립트의 역사, 현재, 그리고 미래 전망을 깊이 있게 다룬 기사입니다.\n웹 개발의 핵심 언어인 자바스크립트의 진화 과정과 중요한 특성을 이해하는 데 필수적입니다.\n모든 자바스크립트 개발자에게 언어의 근본을 이해하는 유의미한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48527700",
+    "title": "Not everyone is using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "discussion_url": "https://news.ycombinator.com/item?id=48527700",
+    "summary": "",
+    "score": 409,
+    "published_at": "2026-06-14T14:44:29+00:00",
+    "ai_summary": "AI 기술에 대한 과도한 기대를 경계하고 현실적인 활용 방안을 모색하는 비판적 기사입니다.\n모든 문제에 AI가 최적의 해결책은 아님을 지적하며, 개발자들에게 균형 잡힌 시각을 제시합니다.\nAI/ML 기술의 실질적인 가치와 적용 한계를 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  }
+]
