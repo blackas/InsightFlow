@@ -1,0 +1,444 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30556",
+    "title": "취업 면접이 Kubernetes에 대해 알려준 것",
+    "url": "https://news.hada.io/topic?id=30556",
+    "discussion_url": "https://news.hada.io/topic?id=30556",
+    "summary": "Kubernetes는 소규모 회사에서도 기술적 확장성보다 배포 방식 통일과 조직 운영 문제를 해결하는 기준으로 채택되고 있음\n최근 구직 과정에서 대화한 회사들은 모두 Kubernetes를 쓰고 있었고, 5년 전의 VM·serverless·K8s 병존 구도와 달랐음\nCTO들이 꼽...",
+    "score": 0,
+    "published_at": "2026-06-17T00:13:36+00:00",
+    "ai_summary": "취업 면접 경험에 따르면 소규모 회사에서도 Kubernetes는 배포 통일과 조직 운영 문제 해결을 위해 보편적으로 채택됨.\n과거 VM·serverless·K8s 병존 구도와 달리 현재는 모든 면접 회사가 Kubernetes를 활용하며 사실상 업계 표준이 되었음.\n이는 기술적 확장성보다 운영 효율성과 표준화의 가치를 인정받고 있음을 시사함.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30554",
+    "title": "Google Chrome의 다음 업데이트, 인기 광고 차단기의 종말을 알릴 예정",
+    "url": "https://news.hada.io/topic?id=30554",
+    "discussion_url": "https://news.hada.io/topic?id=30554",
+    "summary": "Manifest V3 전환으로 Chrome 확장 프로그램의 권한 구조가 바뀌었고, Manifest V2 기반 광고 차단 도구 다수가 더 이상 유지되기 어려워짐\nManifest V3 변경은 수년간 진행됐으며, 사용자 비판의 핵심은 새 권한 구조와 Google의 개인정보 보호 초점이 대부분의 광고 차단기...",
+    "score": 0,
+    "published_at": "2026-06-17T00:07:36+00:00",
+    "ai_summary": "Google Chrome의 Manifest V3 전환으로 확장 프로그램의 권한 구조가 변경되어 기존 Manifest V2 기반 광고 차단 도구들이 유지되기 어려워짐.\n이 변화는 수년간 진행되었으며, 새로운 권한 구조와 Google의 개인정보 보호 초점이 광고 차단기 기능에 제약을 가함.\n결과적으로 많은 인기 광고 차단기들이 더 이상 효과적으로 작동하기 어려워질 것으로 예상됨.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30551",
+    "title": "SpaceX, 90조원에 Cursor 인수",
+    "url": "https://news.hada.io/topic?id=30551",
+    "discussion_url": "https://news.hada.io/topic?id=30551",
+    "summary": "Elon Musk의 SpaceX가 AI 코딩 에이전트 Cursor의 개발사 Anysphere를 600억 달러($60B) 전액 주식 교환 방식으로 인수, 기업용 AI 도구 시장 진입 강화\n이번 인수로 지난 2월 SpaceX에 인수된 xAI가 AI 코딩 분야에서 입지 확보, 해당 분야는 기...",
+    "score": 0,
+    "published_at": "2026-06-16T23:32:38+00:00",
+    "ai_summary": "SpaceX가 AI 코딩 에이전트 개발사 Anysphere를 600억 달러에 인수하며 기업용 AI 도구 시장 진입을 강화했음.\n이는 Elon Musk의 xAI가 AI 코딩 분야에서 입지를 확보하는 계기가 될 것이며, 관련 시장의 성장 가능성을 보여줌.\n개발자 생산성 향상을 위한 AI 도구의 중요성이 부각되는 가운데, 대규모 자본의 투입이 이루어지고 있음.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30550",
+    "title": "Apple이 Hide My Email을 쓸모없게 만들려 하고 있음",
+    "url": "https://news.hada.io/topic?id=30550",
+    "discussion_url": "https://news.hada.io/topic?id=30550",
+    "summary": "Sign in with Apple과 iCloud+ Hide My Email 별칭이 앞으로 @private.icloud.com 하위 도메인에서 발급될 예정임\n이 변경으로 서비스가 iCloud의 일반 메일함에 영향을 주지 않고 릴레이 별칭만 더 쉽게 차단할 수 있게 됨\n기존에는 Ap...",
+    "score": 0,
+    "published_at": "2026-06-16T23:25:18+00:00",
+    "ai_summary": "Apple의 'Sign in with Apple' 및 'Hide My Email' 별칭이 이제 @private.icloud.com 하위 도메인에서 발급될 예정임.\n이 변화로 서비스 제공자는 iCloud 일반 메일함에 영향을 주지 않고 릴레이 별칭만 더 쉽게 차단할 수 있게 됨.\n이는 Apple의 개인정보 보호 기능이 서비스 제공자 측면에서 관리하기 더 용이해지지만, 사용자 관점에서는 별칭의 익명성 일부가 저해될 수 있음을 시사함.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30548",
+    "title": "로컬 모델 실행이 이제 좋아졌다",
+    "url": "https://news.hada.io/topic?id=30548",
+    "discussion_url": "https://news.hada.io/topic?id=30548",
+    "summary": "2022년형 M2 Mac 환경에서도 로컬 LLM이 개발 질문, 코드 작업, 문서 확인에 실용적으로 쓰일 만큼 성능이 좋아졌음\n초기 로컬 모델은 느리고 쓰기 어렵고 프로그래밍 작업 정확도도 낮았지만, GPT-OSS 이후 API 모델로 재확인하는 빈도가 줄어듦\nGemma 4...",
+    "score": 0,
+    "published_at": "2026-06-16T23:21:51+00:00",
+    "ai_summary": "2022년형 M2 Mac 환경에서도 로컬 LLM의 성능이 개발 질문, 코드 작업, 문서 확인 등에 실용적으로 활용될 만큼 크게 향상되었음.\n초기 로컬 모델의 한계(느린 속도, 낮은 정확도)를 극복하고, GPT-OSS 이후 API 모델 의존도를 줄일 수 있게 됨.\n이는 개발 워크플로우에 LLM을 직접 통합하여 생산성을 높일 수 있는 새로운 기회를 제공함.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30542",
+    "title": "Show GN: Anf - 새로운 macOS Finder",
+    "url": "https://news.hada.io/topic?id=30542",
+    "discussion_url": "https://news.hada.io/topic?id=30542",
+    "summary": "안녕하세요. macOS 를 쓰면서도 finder가 꽤 많이 불편했는데\n제가 써보면서 불편한 것들을 개선해보았습니다.\n최근 업무를 하면서 claude를 많이 쓰는데요.\n웹은 어느정도 제가 생각한 대로 잘 만들어 주는데 GUI 어플리케이션은 어느정도 될까 궁금해서\n지난주말부터 계속 만들어 봤습",
+    "score": 0,
+    "published_at": "2026-06-16T13:46:51+00:00",
+    "ai_summary": "macOS의 불편한 Finder를 개선한 새로운 도구 'Anf'를 개발자가 직접 소개하고 있음.\n개발 과정에서 Claude와 같은 LLM을 활용하여 웹 개발 외 GUI 애플리케이션 개발에 LLM이 얼마나 유용한지 탐색하며 만들었음.\n이는 LLM을 활용한 GUI 개발 가능성과 개인 생산성 도구 개발에 대한 관심을 보여주는 사례임.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30540",
+    "title": "페일오버가 안전하지 않을 때: Kubernetes 기반 고가용성 PostgreSQL 구축",
+    "url": "https://news.hada.io/topic?id=30540",
+    "discussion_url": "https://news.hada.io/topic?id=30540",
+    "summary": "k8s 기반 PostgreSQL 클러스터에서 네트워크 장애 시 복제 지연(replication lag) 이 누적되며 안전한 페일오버가 불가능해지는 구조적 약점을 해결한 방법\n기존 구조는 가용성(availability) 을 내구성(durability) 보다 우선시해, 프라이머리가...",
+    "score": 0,
+    "published_at": "2026-06-16T12:26:01+00:00",
+    "ai_summary": "Kubernetes 기반 PostgreSQL 클러스터에서 네트워크 장애 시 복제 지연으로 인해 안전한 페일오버가 불가능해지는 구조적 약점을 해결하는 방법을 제시함.\n기존 시스템이 가용성을 내구성보다 우선시하여 발생할 수 있는 데이터 무결성 문제를 분석하고 개선 방안을 모색함.\n이는 고가용성 데이터베이스 시스템을 구축하고 운영하는 DevOps 및 데이터베이스 엔지니어에게 매우 중요한 기술적 통찰을 제공함.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30537",
+    "title": "OpenRouter Fusion API",
+    "url": "https://news.hada.io/topic?id=30537",
+    "discussion_url": "https://news.hada.io/topic?id=30537",
+    "summary": "여러 모델의 결과를 종합(synthesize) 하면 개별 모델 단독 성능을 크게 능가할 수 있다는 발견에서 출발\n단일 프롬프트를 여러 전문가 모델이 병렬로 분석한 뒤 심판 모델(judge model) 이 결과를 종합해 최종 답변을 작성하는 멀티 모델...",
+    "score": 0,
+    "published_at": "2026-06-16T07:25:29+00:00",
+    "ai_summary": "OpenRouter Fusion API는 여러 LLM의 결과를 종합하여 개별 모델 단독 성능을 뛰어넘는 혁신적인 접근 방식을 제안함.\n단일 프롬프트를 여러 전문가 모델이 병렬로 분석한 뒤 '심판 모델'이 결과를 종합하여 최종 답변을 생성하는 멀티 모델 시스템임.\n이는 LLM 기반 애플리케이션 개발자가 더 높은 품질과 정확도를 얻기 위해 활용할 수 있는 고급 기술 및 도구를 제공함.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30531",
+    "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "url": "https://news.hada.io/topic?id=30531",
+    "discussion_url": "https://news.hada.io/topic?id=30531",
+    "summary": "PyTorchKR🔥🇰🇷 🤔💭\n이번 주에 선정된 10편의 논문을 살펴보면, 인공지능 연구가 단순한 모델 성능 향상을 넘어 자율성, 신뢰성, 그리고 효율성의 한계를 돌파하려는 세 가지 뚜렷한 트렌드를 확인할 수 있습니다.\n1️⃣ 자율적 자가 개선 및 멀티에이전트 시스템의 진화: 이번",
+    "score": 0,
+    "published_at": "2026-06-16T02:23:02+00:00",
+    "ai_summary": "이번 주 AI/ML 논문들은 모델 성능 향상 너머 자율성, 신뢰성, 효율성 증대를 집중 조명합니다. 특히 자율적 자가 개선 및 멀티에이전트 시스템 진화 트렌드가 두드러집니다. 개발자들은 최신 AI 연구 동향을 통해 미래 기술 방향성을 파악할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48561654",
+    "title": "GrapheneOS has been ported to Android 17",
+    "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "discussion_url": "https://news.ycombinator.com/item?id=48561654",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-06-16T20:34:35+00:00",
+    "ai_summary": "보안 강화 안드로이드 OS인 GrapheneOS가 최신 Android 17 버전으로 포팅되었습니다. 이는 모바일 보안 및 OS 개발 분야의 중요한 진전을 의미합니다. 안드로이드 시스템 개발자와 보안에 관심 있는 사용자에게 주목할 만한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48555993",
+    "title": "Running local models is good now",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48555993",
+    "summary": "",
+    "score": 966,
+    "published_at": "2026-06-16T14:36:57+00:00",
+    "ai_summary": "이제 인공지능 모델을 로컬 환경에서 효율적으로 실행할 수 있게 되어 개발 편의성이 크게 향상되었습니다. 클라우드 의존도를 줄이고 개인 장비에서 AI/ML 작업을 수행할 새 시대가 열립니다. AI/ML 모델 개발 및 테스트 환경에 혁신적인 변화를 가져올 소식입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48563394",
+    "title": "Humiliating IIS servers for fun and jail time",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48563394",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-06-16T22:53:34+00:00",
+    "ai_summary": "이 기사는 IIS 서버의 보안 취약점과 잠재적 악용 가능성에 대해 경고합니다. 서버 관리 및 백엔드 개발자들이 보안 위협에 대한 경각심을 가지고 대응하도록 합니다. 윤리적 해킹 및 보안 침해의 심각성에 대한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48553224",
+    "title": "SpaceX to buy Cursor for $60B",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48553224",
+    "summary": "",
+    "score": 831,
+    "published_at": "2026-06-16T10:44:24+00:00",
+    "ai_summary": "SpaceX가 AI 기반 코드 편집기 Cursor를 600억 달러에 인수한다는 소식입니다. 이는 AI 개발 도구 시장의 가치와 잠재력을 보여주며, 개발 환경 및 관련 커뮤니티에 변화를 가져올 수 있습니다. AI 및 개발 도구 분야에 관심 있는 개발자들에게 주목할 만한 뉴스입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48563609",
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48563609",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-06-16T23:15:44+00:00",
+    "ai_summary": "Wolfram Language와 Mathematica 15 버전이 AI 어시스턴트, 심볼릭 음악 등 혁신적인 기능과 함께 출시되었습니다. 고급 연산 및 개발 환경에 새로운 가능성을 열어주며, AI, 데이터 분석 분야 개발자에게 매우 유용합니다. 복잡한 문제 해결 역량을 크게 향상시킬 것으로 기대됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48558018",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48558018",
+    "summary": "",
+    "score": 234,
+    "published_at": "2026-06-16T16:40:58+00:00",
+    "ai_summary": "Bash의 `/dev/TCP`를 활용하여 `curl` 없이도 HTTP 요청을 보낼 수 있는 유용한 기술 팁이 소개되었습니다. 이는 스크립팅, 네트워크 진단, 임시 HTTP 통신 등에 매우 효과적으로 활용될 수 있습니다. DevOps 엔지니어와 시스템 관리자에게 실용적인 업무 효율성 향상 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48558147",
+    "title": "Stop Using JWTs",
+    "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "discussion_url": "https://news.ycombinator.com/item?id=48558147",
+    "summary": "",
+    "score": 217,
+    "published_at": "2026-06-16T16:49:46+00:00",
+    "ai_summary": "JWT(JSON Web Token) 사용의 문제점과 그에 대한 대안을 제시합니다.\n보안 취약성과 관리 복잡성 등 JWT의 단점을 분석하고 개선 방안을 모색합니다.\n백엔드 및 보안 개발자에게 중요한 토큰 관리 전략에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48559188",
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48559188",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-06-16T17:54:02+00:00",
+    "ai_summary": "네덜란드를 위한 주권형 언어 모델 GPT-NL 개발에 대한 기사입니다.\n특정 국가의 데이터와 문화적 맥락을 반영한 LLM 구축의 중요성을 강조합니다.\nAI/ML, 특히 LLM 개발 및 지역화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48558489",
+    "title": "Has AI already killed self-help nonfiction books?",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48558489",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-06-16T17:11:05+00:00",
+    "ai_summary": "AI가 자기계발 서적 시장에 미치는 영향에 대한 분석 기사입니다.\nAI가 콘텐츠 생성 능력을 통해 출판 및 지식 산업을 어떻게 변화시키는지 탐구합니다.\nAI 개발자에게 AI의 사회적, 경제적 파급 효과에 대한 이해를 돕습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48555838",
+    "title": "But yak shaving is fun (2019)",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48555838",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-06-16T14:26:26+00:00",
+    "ai_summary": "개발 과정에서 발생하는 '야크 셰이빙' 현상에 대한 탐구입니다.\n주 목표를 달성하기 위해 예상치 못한 부수적인 작업들을 연속적으로 수행하는 과정을 다룹니다.\n개발자들의 일상적인 문제 해결 방식과 생산성에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48559083",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "discussion_url": "https://news.ycombinator.com/item?id=48559083",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-06-16T17:48:42+00:00",
+    "ai_summary": "10기가비트 이더넷 환경에서 브로드컴 SFP+ 모듈로 전환하는 과정입니다.\n네트워크 성능 향상 및 하드웨어 구성에 대한 실질적인 정보를 제공합니다.\nDevOps, Cloud 엔지니어 및 백엔드 시스템 관리자에게 유용한 네트워크 지식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48552844",
+    "title": "Correlated randomness in Slay the Spire 2",
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48552844",
+    "summary": "",
+    "score": 272,
+    "published_at": "2026-06-16T09:46:49+00:00",
+    "ai_summary": "Slay the Spire 2의 무작위성 설계에 대한 분석입니다.\n게임 내 이벤트와 카드 드로우의 예측 불가능성을 만드는 방법을 탐구합니다.\n게임 개발에서의 난수 생성 및 확률 제어에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48563569",
+    "title": "NLnet announces funding for 67 more open-source projects",
+    "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48563569",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-06-16T23:12:09+00:00",
+    "ai_summary": "NLnet이 67개의 새로운 오픈소스 프로젝트에 자금 지원을 발표했습니다.\n이는 다양한 분야에서 혁신적인 오픈소스 기술 개발을 촉진할 것입니다.\n오픈소스 커뮤니티와 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48559935",
+    "title": "Apple is about to make Hide My Email useless",
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48559935",
+    "summary": "",
+    "score": 362,
+    "published_at": "2026-06-16T18:37:21+00:00",
+    "ai_summary": "Apple이 '나의 이메일 가리기(Hide My Email)' 기능을 무용지물로 만들려는 움직임을 보인다는 분석입니다.\n이는 Apple 사용자의 프라이버시 보호에 큰 영향을 미칠 수 있습니다.\niOS/macOS 개발자와 개인 정보 보호에 관심 있는 개발자들에게 중요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48561402",
+    "title": "Frood, an Alpine Initramfs NAS (2024)",
+    "url": "https://words.filippo.io/frood/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48561402",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-06-16T20:17:04+00:00",
+    "ai_summary": "Alpine Linux와 Initramfs를 기반으로 하는 경량 NAS(Network Attached Storage) 프로젝트 'Frood'에 대한 설명입니다.\n임베디드 시스템, 홈 서버 또는 맞춤형 스토리지 솔루션 구축에 관심 있는 개발자에게 유용합니다.\n시스템 관리 및 백엔드 인프라 지식과 관련이 깊습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48561410",
+    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "url": "https://github.com/nvlabs/cutile-rs",
+    "discussion_url": "https://news.ycombinator.com/item?id=48561410",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-06-16T20:17:42+00:00",
+    "ai_summary": "Rust를 사용하여 안전하고 데이터 경합이 없는 GPU 커널을 개발할 수 있게 해주는 'cuTile Rust' 프로젝트입니다.\nGPU 프로그래밍의 안정성과 효율성을 높이는 중요한 진전입니다.\n고성능 컴퓨팅 및 시스템 프로그래밍에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  }
+]
