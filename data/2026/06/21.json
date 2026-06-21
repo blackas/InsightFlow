@@ -1,0 +1,516 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30675",
+    "title": "LLM이 작성한 인시던트 보고서의 미래가 두렵다",
+    "url": "https://news.hada.io/topic?id=30675",
+    "discussion_url": "https://news.hada.io/topic?id=30675",
+    "summary": "인시던트 보고서에서 LLM은 자료 수집과 정리를 돕는 데 유용하지만, 보고서 본문까지 맡기면 검증 과정이 약해짐\n직접 쓰는 과정은 증거와 설명의 일관성을 확인하게 만들며, 글쓰기 자체가 이해 부족을 드러내는 장치로 작동함\nLLM 보고서는 그럴듯해 보...",
+    "score": 0,
+    "published_at": "2026-06-21T00:02:56+00:00",
+    "ai_summary": "LLM은 인시던트 보고서 작성 시 자료 수집 및 정리에 유용하지만, 본문 작성은 검증 과정을 약화시킵니다.\n직접 작성하며 증거와 설명의 일관성을 확인하고 이해 부족을 드러내는 것이 중요합니다.\nLLM 보고서는 그럴듯해 보여도 깊은 이해를 방해할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30674",
+    "title": "AI가 우리의 능력을 망치고 있는가? 초기 연구 결과는 부정적",
+    "url": "https://news.hada.io/topic?id=30674",
+    "discussion_url": "https://news.hada.io/topic?id=30674",
+    "summary": "업무 현장에서 AI 도구 의존이 커지면서, 의료·컴퓨터과학 등 숙련이 중요한 분야에서 사람이 쌓은 역량이 약해질 수 있다는 초기 근거가 나오고 있음\n폴란드 내시경 전문의 대상 연구에서 AI 미사용 시 선종 발견율이 28.4%에서 22.4%로...",
+    "score": 0,
+    "published_at": "2026-06-20T23:35:10+00:00",
+    "ai_summary": "AI 도구 의존이 심화되면서 의료, 컴퓨터 과학 등 숙련 분야에서 인간의 역량이 약화될 수 있다는 초기 연구 결과가 나옵니다.\n폴란드 내시경 전문의 연구에서 AI 미사용 시 선종 발견율이 28.4%에서 22.4%로 감소했습니다.\nAI가 생산성 증대와 함께 인간의 핵심 역량 저하를 초래할 수 있음을 경고합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30673",
+    "title": "John Jumper, Google DeepMind 떠나 Anthropic 합류",
+    "url": "https://news.hada.io/topic?id=30673",
+    "discussion_url": "https://news.hada.io/topic?id=30673",
+    "summary": "AlphaFold를 만든 핵심 인물이자, 단백질 구조 예측 연구를 이끌어온 노벨화학상 수상자 John Jumper가 Google DeepMind을 떠나 Anthropic 합류를 발표\n거의 9년간 GDM에 몸담았으며, 합류에 앞서 얼마간의 재충전 기간을 가질 ...",
+    "score": 0,
+    "published_at": "2026-06-20T23:11:23+00:00",
+    "ai_summary": "AlphaFold 개발의 핵심 인물이자 노벨화학상 수상자인 John Jumper가 Google DeepMind를 떠나 Anthropic에 합류했습니다.\n거의 9년간 GDM에 몸담았던 그는 재충전 기간을 거쳐 새로운 AI 연구 환경에 기여할 예정입니다.\n이는 거대 AI 연구 기업 간 인재 이동의 한 단면을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30672",
+    "title": "머신러닝 연구의 선(Zen)과 예술",
+    "url": "https://news.hada.io/topic?id=30672",
+    "discussion_url": "https://news.hada.io/topic?id=30672",
+    "summary": "세계적 수준의 AI 연구는 재능만으로 이어지지 않으며, 읽기와 만들기를 반복하면서 오래 버티는 기질이 성과를 가름함\n주제 선택은 6개월짜리 유행어보다 cross-entropy, SVD, policy gradients 같은 기초 개념을 깊게 이해하는 데서 출발해야 함...",
+    "score": 0,
+    "published_at": "2026-06-20T23:11:22+00:00",
+    "ai_summary": "세계적 수준의 AI 연구는 재능을 넘어 읽고 만들기를 반복하며 오래 버티는 기질이 중요합니다.\n주제 선택은 유행어보다 cross-entropy, SVD 등 기초 개념을 깊게 이해하는 데서 출발해야 합니다.\n성공적인 ML 연구를 위해서는 깊이 있는 통찰력과 꾸준한 노력이 필수적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30669",
+    "title": "정부의 합법적 온라인 발언 침묵 압박을 겨냥한 새 법안",
+    "url": "https://news.hada.io/topic?id=30669",
+    "discussion_url": "https://news.hada.io/topic?id=30669",
+    "summary": "Ted Cruz와 Ron Wyden 상원의원의 JAWBONE Act는 정부 공무원이 방송사·인터랙티브 컴퓨터 서비스·AI 제공자에게 합법적 발언 제한을 강요할 때 연방 소송 근거를 만들려 함\n법안은 사용자 표현을 둘러싼 정부-중개자 커뮤니케이션에 투명성 시스템을 도입해, 드러...",
+    "score": 0,
+    "published_at": "2026-06-20T16:41:19+00:00",
+    "ai_summary": "Ted Cruz와 Ron Wyden 상원의원의 JAWBONE Act는 정부 공무원이 합법적 발언 제한을 강요할 때 연방 소송 근거를 만듭니다.\n이 법안은 사용자 표현에 대한 정부와 중개자 간 커뮤니케이션에 투명성 시스템을 도입하려 합니다.\n이는 온라인 플랫폼 및 AI 서비스 개발자들에게 중요한 규제 환경 변화를 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30668",
+    "title": "GPT-5.5, MIT 라이선스 GLM-5.2보다 환각률 3배",
+    "url": "https://news.hada.io/topic?id=30668",
+    "discussion_url": "https://news.hada.io/topic?id=30668",
+    "summary": "대형 AI 연구소들 사이에서 무한 확장 전략에 대한 회의가 커지는 가운데, 모델 크기가 현실 정확성을 보장하지 않는다는 사례가 제시됨\nMIT 라이선스 오픈 웨이트 모델인 GLM-5.2는 753B 파라미터, 약 40B 활성 파라미터로 GPT-5.5와 4점 차이까지 접근함",
+    "score": 0,
+    "published_at": "2026-06-20T15:41:19+00:00",
+    "ai_summary": "거대 AI 연구소들 사이에서 모델 크기가 현실 정확성을 보장하지 않는다는 회의론이 커지고 있습니다.\nMIT 라이선스 GLM-5.2 모델은 GPT-5.5보다 환각률이 3배 낮으며, GPT-5.5와 근접한 성능을 보였습니다.\n이는 무한 확장 전략의 한계를 지적하며 효율적인 LLM 개발의 중요성을 강조합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30667",
+    "title": "Show GN: Klorn – 중요한 것만 빼고 다 조용히 시키는 오픈소스 이메일 방화벽",
+    "url": "https://news.hada.io/topic?id=30667",
+    "discussion_url": "https://news.hada.io/topic?id=30667",
+    "summary": "요즘 나오는 AI 메일 도구들을 보면 공통점이 하나 있습니다.\n문제를 줄이기보다, 화면을 더 늘리고 메일마다 제안 카드가 붙거나 “AI가 답장하라고 추천합니다” 같은 배지가 생기고, 검토 안 한 초안이 계속 쌓입니다.\n그래서 인박스가 조용해지냐고 하면, 오히려 더 시끄러워집니다.\n그래서",
+    "score": 0,
+    "published_at": "2026-06-20T14:50:50+00:00",
+    "ai_summary": "기존 AI 메일 도구들이 오히려 인박스를 시끄럽게 만드는 문제를 지적합니다.\nKlorn은 중요한 메일만 남기고 나머지를 조용히 시키는 오픈소스 이메일 방화벽입니다.\n이는 불필요한 알림과 AI 추천에 지친 사용자들을 위한 실용적인 해결책을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30663",
+    "title": "AI 시대에 K-공문서(HWP)를 못 여는 진짜 이유, 그리고 해법을 논의합니다",
+    "url": "https://news.hada.io/topic?id=30663",
+    "discussion_url": "https://news.hada.io/topic?id=30663",
+    "summary": "표준 명세만 있으면 호환 앱이든 렌더러든 어떻게든 만들어내는 게 AI 시대입니다. 그런데 왜 공문서 HWP는 못 열까요?\n한컴오피스(아래아한글)가 처음 나온 1989년은 '오픈소스'라는 용어조차 없던 시절입니다. 오픈소스 폰트요? 당연히 없었습니다. 그래서 지난 30여 년간 정부가 생성한 모든 문서가 저작권",
+    "score": 0,
+    "published_at": "2026-06-20T11:51:06+00:00",
+    "ai_summary": "AI 시대에도 K-공문서(HWP) 파일을 열기 어려운 근본적인 이유는 오픈소스 개념 부재와 저작권 문제 때문입니다.\n1989년 아래아한글 출시 당시 오픈소스 폰트 개념이 없어 정부 문서에 사용된 폰트의 저작권 문제가 복잡합니다.\n표준 명세 부재와 지적 재산권 문제가 HWP 호환성 확보를 어렵게 만듭니다.",
+    "relevance_score": 0.78,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Language",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30662",
+    "title": "atproto에는 인스턴스가 없다",
+    "url": "https://news.hada.io/topic?id=30662",
+    "discussion_url": "https://news.hada.io/topic?id=30662",
+    "summary": "“Bluesky 인스턴스”를 찾는 질문은 Mastodon의 인스턴스 모델을 atproto에 그대로 대입한 것으로, atproto는 호스팅과 앱 집계를 분리해 설계됨\nRSS와 Google Reader처럼 데이터는 앱 안에 갇히지 않고 호스팅된 저장소에 있으며, 여러 앱이 그 데이터를 가져와 ...",
+    "score": 0,
+    "published_at": "2026-06-20T08:41:18+00:00",
+    "ai_summary": "atproto는 Mastodon과 달리 인스턴스 개념이 없으며, 호스팅과 앱 집계를 분리하여 설계되었습니다.\n데이터는 특정 앱에 갇히지 않고 호스팅된 저장소에 있어, 여러 앱이 자유롭게 데이터를 활용할 수 있습니다.\n이는 RSS나 Google Reader와 유사하게 데이터를 앱으로부터 독립시키는 모델입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30660",
+    "title": "토큰 압축의 착시: RTK에 회의적인 이유",
+    "url": "https://news.hada.io/topic?id=30660",
+    "discussion_url": "https://news.hada.io/topic?id=30660",
+    "summary": "RTK는 코딩 에이전트의 터미널 출력을 압축해 비용을 낮추겠다고 약속하지만, 원시 출력 감소가 곧 더 저렴하고 안전하며 정확한 소프트웨어 엔지니어링을 뜻하지는 않음\n“60~90% 절감”은 LLM 청구액이 그만큼 줄었다는 뜻이 아니라, RTK가 제거한 명령줄 출력 비...",
+    "score": 0,
+    "published_at": "2026-06-20T06:21:18+00:00",
+    "ai_summary": "RTK는 코딩 에이전트의 터미널 출력을 압축하여 LLM 비용을 절감한다고 주장하지만, 원시 출력 감소가 더 저렴하고 안전한 소프트웨어 개발로 이어지지는 않습니다.\n\"60~90% 절감\"은 LLM 사용료 자체가 줄어든 것이 아니라, RTK가 제거한 명령줄 출력 부분의 비용 감소를 의미합니다.\n저자는 토큰 압축이 LLM 활용에 있어 착시를 일으킬 수 있다고 회의적인 시각을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30651",
+    "title": "glojure - Go 위에 호스팅된 Clojure 인터프리터",
+    "url": "https://news.hada.io/topic?id=30651",
+    "discussion_url": "https://news.hada.io/topic?id=30651",
+    "summary": "다른 Go 기반 Clojure 구현과 달리 &quot;호스티드(hosted)&quot; 언어로 설계된 Clojure 인터프리터\n확장 가능한 상호운용(interop)을 지원해 모든 Go 값을 Glojure 값으로, 반대로도 사용 가능\nClojure가 Java 프레임워크에 접근하듯 Go 라이브...",
+    "score": 0,
+    "published_at": "2026-06-20T00:31:02+00:00",
+    "ai_summary": "glojure는 Go 언어 위에 호스팅된 Clojure 인터프리터로, 다른 Go 기반 구현과 달리 '호스티드 언어'로 설계되었습니다.\n이 설계 덕분에 Go 값과 Glojure 값 간의 확장 가능한 상호운용을 지원하며, 양방향으로 자유롭게 변환하여 사용할 수 있습니다.\n이는 Clojure가 Java 프레임워크에 접근하는 방식과 유사하게 Go 라이브러리를 활용할 수 있게 해줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48613872",
+    "title": "Epoll vs. Io_uring in Linux",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48613872",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-06-20T23:07:09+00:00",
+    "ai_summary": "Epoll과 io_uring은 Linux에서 고성능 비동기 I/O를 처리하는 핵심 메커니즘입니다.\nio_uring은 epoll보다 더 효율적이고 다양한 I/O 작업을 지원하여 현대적인 고성능 애플리케이션 개발에 유리합니다.\n시스템 프로그래밍, 백엔드 개발 및 클라우드 환경의 성능 최적화에 중요한 기술입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48608570",
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "url": "https://townsquare.cauenapier.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48608570",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-06-20T11:55:03+00:00",
+    "ai_summary": "TownSquare는 웹사이트에 사용자 실시간 존재(presence) 기능을 손쉽게 추가할 수 있는 경량 레이어입니다.\n이를 통해 사용자 활동 표시, 온라인 상태 확인 등 실시간 상호작용 기능을 빠르게 구현할 수 있습니다.\n프론트엔드 및 백엔드 개발자들이 웹 애플리케이션에 동적인 요소를 통합하는 데 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48612740",
+    "title": "Alice is impatient",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48612740",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-06-20T20:32:54+00:00",
+    "ai_summary": "이 글은 'Alice'라는 비유를 통해 사용자 경험에서 인내심 부족의 문제를 다룹니다.\n시스템 응답 지연이 사용자 이탈로 이어질 수 있음을 강조하며 빠른 반응성 설계의 중요성을 역설합니다.\n개발자들이 성능 최적화와 사용자 경험 개선에 집중해야 함을 시사하는 내용입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48610853",
+    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+    "url": "https://www.lispm.net/apps/uhf-x11/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48610853",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-06-20T17:04:24+00:00",
+    "ai_summary": "UHF X11은 전통적인 X11 디스플레이 시스템을 Apple Vision Pro 및 VisionOS 환경에 맞게 구현한 프로젝트입니다.\n이를 통해 VisionOS에서 Linux/Unix 기반의 X11 애플리케이션을 실행할 수 있는 가능성을 열었습니다.\n공간 컴퓨팅 플랫폼에서 레거시 그래픽 소프트웨어를 활용하는 기술적 도전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48609766",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48609766",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-06-20T15:10:03+00:00",
+    "ai_summary": "DOS 게임 \"F-15 Strike Eagle II\"의 리버스 엔지니어링 프로젝트가 진행 중이며, DOS 테스트 참여자를 찾고 있습니다.\n오래된 게임의 코드와 아키텍처를 분석하고 현대 시스템에서 재구현하는 흥미로운 작업입니다.\n저수준 시스템, 리버스 엔지니어링 및 레거시 코드 분석에 관심 있는 개발자에게 적합한 프로젝트입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48611942",
+    "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+    "url": "https://clickhouse.com/blog/postgresbench",
+    "discussion_url": "https://news.ycombinator.com/item?id=48611942",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-06-20T19:01:10+00:00",
+    "ai_summary": "PostgreSQL 서비스의 성능을 재현 가능하게 벤치마킹하는 도구입니다.\n데이터베이스 성능 분석 및 최적화에 기여하며, 개발자와 DBA에게 유용합니다.\n신뢰할 수 있는 벤치마크 환경을 제공하여 시스템 개선에 도움을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48608223",
+    "title": "CSSQuake",
+    "url": "https://cssquake.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48608223",
+    "summary": "",
+    "score": 443,
+    "published_at": "2026-06-20T10:49:53+00:00",
+    "ai_summary": "CSS를 활용하여 웹 페이지에 동적이고 파괴적인 시각 효과를 구현하는 프로젝트입니다.\n웹 개발자가 창의적인 인터랙션을 만들 수 있도록 돕습니다.\n프론트엔드 기술의 가능성을 보여주는 흥미로운 예시입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48560227",
+    "title": "Inference cost at scale with napkin math",
+    "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48560227",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-06-16T18:57:29+00:00",
+    "ai_summary": "대규모 AI 모델의 추론 비용을 간략하게 계산하고 분석하는 방법에 대한 내용입니다.\n머신러닝 모델 운영 시 발생하는 비용 효율성을 예측하고 최적화하는 데 중요합니다.\nAI/ML 시스템을 설계하고 확장하는 개발자에게 필수적인 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48608645",
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "discussion_url": "https://news.ycombinator.com/item?id=48608645",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-06-20T12:08:23+00:00",
+    "ai_summary": "iOS 네이티브 앱이 사용자 데이터에 접근하는 방식을 시각화하여 개인 정보 보호 인식을 높이는 앱 'Loupe'입니다.\n모바일 앱 개발자와 사용자 모두에게 프라이버시 문제의 중요성을 일깨웁니다.\n앱 보안 및 사용자 동의 관련 개발 시 고려 사항을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48612502",
+    "title": "Unauthorized alert sent to cell phones across Brazil",
+    "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+    "discussion_url": "https://news.ycombinator.com/item?id=48612502",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-06-20T20:05:03+00:00",
+    "ai_summary": "브라질 전역의 휴대폰으로 권한 없는 비상 경보 메시지가 발송된 사건에 대한 내용입니다.\n대규모 통신 시스템의 보안 취약성 또는 운영 오류와 관련될 수 있습니다.\n시스템 안정성, 보안, 대규모 알림 서비스 개발에 대한 시사점을 제공할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48613008",
+    "title": "Supermarket giant Tesco sues VMware for breach of contract",
+    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+    "discussion_url": "https://news.ycombinator.com/item?id=48613008",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-06-20T21:09:39+00:00",
+    "ai_summary": "영국 슈퍼마켓 체인 테스코가 VM웨어에 계약 위반 혐의로 소송을 제기했습니다.\n이는 VM웨어의 과도한 소프트웨어 라이선스 청구 주장에 따른 것으로, 브로드컴의 VM웨어 인수 이후 발생했습니다.\n이 소송은 기업용 가상화 솔루션 시장과 VM웨어 사용자들에게 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48610841",
+    "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+    "url": "https://github.com/oven-sh/WebKit/pull/249",
+    "discussion_url": "https://news.ycombinator.com/item?id=48610841",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-06-20T17:02:49+00:00",
+    "ai_summary": "자바스크립트 런타임 Bun이 JavaScriptCore 엔진에 공유 메모리 스레드 기능을 추가하는 PR을 오픈했습니다.\n이는 자바스크립트 애플리케이션의 병렬 처리 성능을 크게 향상시킬 잠재력을 가집니다.\n웹 및 서버 측 자바스크립트 개발자들에게 중요한 성능 개선 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48608394",
+    "title": "Temporary Cloudflare accounts for AI agents",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48608394",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-06-20T11:19:05+00:00",
+    "ai_summary": "클라우드플레어가 AI 에이전트를 위한 임시 계정 서비스를 제공한다고 발표했습니다.\n이 기능은 AI 봇이나 자동화된 시스템이 웹 콘텐츠에 안전하게 접근하도록 지원합니다.\nAI 개발자들이 웹 기반 AI 애플리케이션 구축 및 배포에 활용할 수 있는 중요한 인프라 소식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48609231",
+    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+    "url": "https://www.argusred.com/cli",
+    "discussion_url": "https://news.ycombinator.com/item?id=48609231",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-06-20T13:49:03+00:00",
+    "ai_summary": "한 팀이 거부하지 않고 침투 테스트를 수행하는 AI 모델을 후속 훈련했다고 발표했습니다.\n이 모델은 기존 LLM의 안전 장치로 인해 수행이 어려웠던 보안 취약점 탐지 작업을 가능하게 합니다.\nAI 기반 보안 도구 개발에 중요한 진전이며, 보안 및 AI/ML, 특히 LLM 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48611513",
+    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "discussion_url": "https://news.ycombinator.com/item?id=48611513",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-06-20T18:17:58+00:00",
+    "ai_summary": "PDF 문서를 스캔한 것처럼 보이게 만드는 CLI 도구와 브라우저 기반(WASM) 도구가 출시되었습니다.\n이 도구는 문서 처리 자동화, 시각적 효과 적용 또는 특정 웹 애플리케이션 개발에 활용될 수 있습니다.\n개발자들이 스크립팅, 유틸리티 구축 또는 웹 프로젝트에 유용하게 사용할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48611857",
+    "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+    "url": "https://github.com/confh/Tiny",
+    "discussion_url": "https://news.ycombinator.com/item?id=48611857",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-06-20T18:53:46+00:00",
+    "ai_summary": "Tiny는 Go 네이티브 함수를 인라인으로 사용할 수 있는 새로운 동적 인터프리트 언어입니다.\n이는 Go 프로젝트에 스크립팅 기능을 추가하거나, Go의 성능 이점을 활용하는 데 유용합니다.\n언어 설계와 구현에 관심 있는 개발자에게 특히 흥미로울 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48612095",
+    "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+    "url": "https://mitchivin.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48612095",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-06-20T19:18:48+00:00",
+    "ai_summary": "한 개발자가 작동하는 게임보이와 아이팟 기능을 통합한 Windows XP 테마의 포트폴리오를 공개했습니다.\n이는 복고풍 디자인과 현대 웹 기술 또는 에뮬레이션의 결합을 보여줍니다.\n창의적인 프로젝트 구현과 기술적인 숙련도를 엿볼 수 있는 흥미로운 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48602683",
+    "title": "Coding a Brick Tower [video]",
+    "url": "https://www.youtube.com/watch?v=DAMiS2PGTEE",
+    "discussion_url": "https://news.ycombinator.com/item?id=48602683",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-06-19T20:07:14+00:00",
+    "ai_summary": "벽돌 타워를 코딩하는 과정을 담은 비디오 튜토리얼 또는 프로젝트 시연입니다.\n게임 개발, 물리 시뮬레이션, 그래픽스 프로그래밍 분야에 관심 있는 개발자에게 유용합니다.\n코딩을 통해 복잡한 구조를 만들고 시각화하는 방법을 배울 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  }
+]
