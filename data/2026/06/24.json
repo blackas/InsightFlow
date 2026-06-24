@@ -1,0 +1,459 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30768",
+    "title": "Show GN: AI 에이전트를 내 걸로 만드는 방법",
+    "url": "https://news.hada.io/topic?id=30768",
+    "discussion_url": "https://news.hada.io/topic?id=30768",
+    "summary": "AI 코딩 에이전트랑 매일 작업하는 개발자라면 이 기분 안다.\n어제 분명히 우리가 같이 정한 컨벤션인데, 새 세션 열면 백지다. 내가 TypeScript에서 항상 interface 말고 type 쓰는 거, PR 리뷰에서 저 패턴 별로라고 했던 거, 지난주에 겨우 잡은 그 버그의 근본 원인 — 전부 처음 듣는 이",
+    "score": 0,
+    "published_at": "2026-06-23T21:55:53+00:00",
+    "ai_summary": "AI 코딩 에이전트가 개발자의 작업 컨벤션이나 선호 패턴을 새 세션마다 잊어버리는 문제를 지적합니다.\n이는 개발자가 에이전트를 개인화하고 영구적으로 학습시키는 과정의 어려움을 나타냅니다.\n개발자에게 최적화된 AI 에이전트 환경 구축의 필요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30766",
+    "title": "Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님",
+    "url": "https://news.hada.io/topic?id=30766",
+    "discussion_url": "https://news.hada.io/topic?id=30766",
+    "summary": "Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block에는 실제 추론 텍스트 대신 600자 길이의 signature만 남아 있었음\nClaude의 추론은 signature로 암호화되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음...",
+    "score": 0,
+    "published_at": "2026-06-23T17:35:11+00:00",
+    "ai_summary": "Claude Code의 \"Extended Thinking\" 출력이 실제 추론이 아닌 600자 길이의 암호화된 시그니처임이 밝혀졌습니다.\nClaude의 추론 과정은 Anthropic이 보유한 키로 암호화되어 사용자에게 전달되지 않습니다.\n이는 LLM의 내부 작동 투명성에 대한 의문을 제기합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30761",
+    "title": "Show GN: GWEB: Go 언어를 위한 문학적 프로그래밍 도구",
+    "url": "https://news.hada.io/topic?id=30761",
+    "discussion_url": "https://news.hada.io/topic?id=30761",
+    "summary": "GWEB은 Go 언어를 위한 문학적 프로그래밍(Literate Programming) 시스템입니다. 도널드 커누스(Donald Knuth)의 CWEB 구조를 긴밀하게 모델링하여 개발되었습니다.\n개발자는 하나의 .w 소스 파일에 TeX 문서(설명)와 Go 코드를 병행하여 작성합니다. 이 파일은 기계와 사람을 위...",
+    "score": 0,
+    "published_at": "2026-06-23T12:15:22+00:00",
+    "ai_summary": "GWEB은 도널드 커누스의 CWEB을 모델링하여 Go 언어를 위한 문학적 프로그래밍 시스템을 제공합니다.\n개발자는 하나의 `.w` 파일에 TeX 문서 형태의 설명과 Go 코드를 병행하여 작성합니다.\n이 도구는 코드의 이해도를 높여 사람과 기계 모두에게 유용한 결과물을 만듭니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30760",
+    "title": "GLM-5.2를 로컬에서 실행하는 방법",
+    "url": "https://news.hada.io/topic?id=30760",
+    "discussion_url": "https://news.hada.io/topic?id=30760",
+    "summary": "744B 파라미터와 40B 활성 파라미터, 1M 컨텍스트 윈도우를 갖춘 Z.ai의 새 오픈 모델로, 롱 호라이즌 코딩·추론·에이전트 작업에서 SOTA 성능 제공\nUnsloth Dynamic GGUF를 통해 로컬 하드웨어에서 실행 가능하며, Claude 4.8 Opus·GPT-5.5·Gemi...",
+    "score": 0,
+    "published_at": "2026-06-23T10:44:31+00:00",
+    "ai_summary": "Z.ai의 새로운 오픈 모델 GLM-5.2는 744B 파라미터, 1M 컨텍스트 윈도우로 SOTA 코딩·추론 성능을 자랑합니다.\n이 모델은 Unsloth Dynamic GGUF를 활용하여 로컬 하드웨어에서도 실행 가능합니다.\n강력한 로컬 LLM 솔루션으로 Claude 4.8 Opus 등과 경쟁할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30746",
+    "title": "컴퓨터는 어떻게 작동해야 하는가",
+    "url": "https://news.hada.io/topic?id=30746",
+    "discussion_url": "https://news.hada.io/topic?id=30746",
+    "summary": "운영체제는 사용자가 의식하지 않는 곳에서 프로그램 실행을 도와야 하지만, 현재 운영체제는 이 목표에서 벗어나 있어 오프라인 우선 어플라이언스가 필요함\n시스템과 애플리케이션은 저자원 머신과 무료 최저 단계 CI/CD에서도 빌드될 만큼 작아야 하며, 새 기기...",
+    "score": 0,
+    "published_at": "2026-06-23T00:26:00+00:00",
+    "ai_summary": "현재 운영체제는 프로그램 실행 보조라는 본래 목표에서 벗어나 오프라인 우선 어플라이언스가 필요하다고 주장합니다.\n시스템과 애플리케이션은 저자원 환경에서도 빌드될 만큼 작고 효율적이어야 합니다.\n이는 새로운 기기 설정 시 복잡성 없이 즉시 사용 가능한 이상적인 컴퓨팅 환경을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30741",
+    "title": "구글을 AI로 해킹해서 7억원 벌기",
+    "url": "https://news.hada.io/topic?id=30741",
+    "discussion_url": "https://news.hada.io/topic?id=30741",
+    "summary": "AI를 시켜 Google의 API를 끊임없이 자동으로 찔러보게 한 결과, 3개월 만에 50만 달러의 버그 바운티 수익을 올린 보안 연구 사례\n60,000개 이상의 Android 앱에서 긁어모은 API 키와 Google의 API 명세서(discovery document)...",
+    "score": 0,
+    "published_at": "2026-06-23T00:15:02+00:00",
+    "ai_summary": "AI를 활용한 보안 연구로 Google API 취약점을 찾아 3개월 만에 50만 달러의 버그 바운티 수익을 올린 사례입니다.\nAI는 6만 개 이상의 Android 앱 API 키와 Google API 명세서를 학습하여 자동으로 취약점을 탐색했습니다.\n이는 AI가 보안 연구 및 자동화된 취약점 발견에 매우 효과적으로 활용될 수 있음을 입증합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48648619",
+    "title": "FUTO Swipe – A new swipe typing model",
+    "url": "https://swipe.futo.tech/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48648619",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-06-23T17:50:22+00:00",
+    "ai_summary": "새로운 스와이프 타이핑 모델인 FUTO Swipe에 대한 설명입니다.\n이 모델은 모바일 입력 편의성과 정확도 향상을 목표로 합니다.\n모바일 앱 개발자나 입력 기술 연구자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48648779",
+    "title": "Swift Package Index joins Apple",
+    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "discussion_url": "https://news.ycombinator.com/item?id=48648779",
+    "summary": "",
+    "score": 158,
+    "published_at": "2026-06-23T18:00:58+00:00",
+    "ai_summary": "Swift 개발 생태계의 핵심 도구인 Swift Package Index가 애플에 합류합니다.\n이는 Swift 개발자들에게 패키지 관리와 접근 방식에 중요한 변화를 예고합니다.\nSwift 언어 및 Apple 플랫폼 개발자에게 매우 관련성 높은 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48618481",
+    "title": "Printing Gaussian Splats",
+    "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+    "discussion_url": "https://news.ycombinator.com/item?id=48618481",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-06-21T12:49:02+00:00",
+    "ai_summary": "최신 3D 렌더링 기술인 Gaussian Splats를 물리적 또는 디지털로 출력하는 방법을 다룹니다.\n이는 3D 모델링, 그래픽스, 컴퓨터 비전 분야에 새로운 활용 가능성을 제시합니다.\n그래픽스 개발자나 VR/AR 연구자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48648959",
+    "title": "In memory of the man who put red and green squiggles under words",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "discussion_url": "https://news.ycombinator.com/item?id=48648959",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-06-23T18:10:47+00:00",
+    "ai_summary": "단어 아래 빨간색과 녹색 밑줄로 표시되는 맞춤법/문법 검사 기능의 발명가를 기리는 기사입니다.\n현대 소프트웨어 개발 도구와 텍스트 처리 시스템의 근간이 되는 기술의 역사를 다룹니다.\n개발 도구의 진화와 그 영향을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48645437",
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+    "url": "https://tikz.dev/editor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48645437",
+    "summary": "",
+    "score": 308,
+    "published_at": "2026-06-23T14:24:21+00:00",
+    "ai_summary": "LaTeX 문서 내 그림 작성을 위한 WYSIWYG 편집기인 TikZ Editor를 소개합니다.\n개발자, 연구원들이 LaTeX에서 복잡한 다이어그램을 쉽게 만들 수 있도록 돕습니다.\n기술 문서 작성 및 출판 과정의 효율성을 크게 향상시킬 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48631511",
+    "title": "Inventing the Future, One Lisp Machine at a Time",
+    "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48631511",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-06-22T15:24:40+00:00",
+    "ai_summary": "인공지능과 컴퓨팅 역사에서 Lisp 머신의 중요한 역할과 영향력을 탐구합니다.\n이 기계들이 현대 AI 및 프로그래밍 패러다임 발전에 어떻게 기여했는지 설명합니다.\n컴퓨터 과학 역사와 AI 개발에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48585852",
+    "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48585852",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-06-18T14:23:38+00:00",
+    "ai_summary": "A12/A13 칩의 SecureROM을 표적으로 하는 USB 기반 취약점, Usbliter8에 대한 기사입니다.\n하드웨어 수준의 보안 취약점과 익스플로잇 메커니즘을 상세히 다룹니다.\n보안 연구원, 임베디드 개발자 및 역공학자에게 매우 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48622433",
+    "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+    "url": "https://github.com/dmtrKovalenko/ffs",
+    "discussion_url": "https://news.ycombinator.com/item?id=48622433",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-06-21T20:44:33+00:00",
+    "ai_summary": "F* 파일 시스템은 OS 커널을 우회하여 SSD를 직접 읽음으로써 파일 검색 속도를 혁신적으로 향상시킵니다.\n이는 기존 시스템의 병목 현상을 해결하고, 대규모 데이터 처리 및 고성능 컴퓨팅 환경에 최적화된 솔루션을 제공합니다.\n시스템 프로그래밍 및 백엔드 개발자에게 매우 유용한 기술입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48650837",
+    "title": "Don't verify email addresses by sending spam to them",
+    "url": "https://milek7.pl/mailverifyspam/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48650837",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-06-23T20:23:49+00:00",
+    "ai_summary": "이메일 주소 유효성 검증 시 무작위 메일 발송은 스팸으로 간주되어 서비스 신뢰도를 떨어뜨립니다.\n대신, 포맷 검증이나 SMTP 서버 연결 테스트와 같은 안전하고 효과적인 방법을 사용해야 합니다.\n이는 사용자 경험을 존중하고 데이터 프라이버시를 보호하는 중요한 개발 원칙입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48643426",
+    "title": "Unlimited OCR: One-shot long-horizon parsing",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "discussion_url": "https://news.ycombinator.com/item?id=48643426",
+    "summary": "",
+    "score": 430,
+    "published_at": "2026-06-23T11:35:05+00:00",
+    "ai_summary": "이 기술은 OCR 분야에서 '원샷 장기 파싱'을 통해 한 번의 시도로 복잡하고 긴 문서를 인식합니다.\n대규모 데이터 없이도 뛰어난 성능을 보여주며, 다양한 산업 분야에 혁신적인 문서 처리 솔루션을 제공합니다.\nAI/ML 연구 및 응용 분야에 큰 진전을 가져올 잠재력이 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion (4 minute read)",
+    "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "discussion_url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "summary": "SpaceX signed a deal worth up to $6.3 billion with Reflection AI for access to its supercomputer Project Colossus. This agreement allows Reflection to use Nvidia GB300s for training open-source AI models, reflecting a shift toward increased demand for compute power in AI development. SpaceX aims to capitalize on this by offering its infrastructure to outside AI companies, bolstering its position in the AI and data center space.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "SpaceX와 Reflection AI의 63억 달러 규모 슈퍼컴퓨터 사용 계약은 AI 모델 학습을 위한 컴퓨팅 파워의 중요성 증가를 보여줍니다. Reflection AI는 오픈소스 AI 모델 훈련을 위해 Nvidia GB300을 활용하며, SpaceX는 AI 및 데이터 센터 분야에서 인프라를 활용하여 입지를 강화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/",
+    "title": "OpenAI launches new security tools and updates GPT-5.5-Cyber (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/",
+    "discussion_url": "https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/",
+    "summary": "OpenAI recently launched an updated Codex Security plugin, GPT-5.5-Cyber (in limited release), a Daybreak Cyber Partner Program, and an open source security initiative called Patch the Planet. Daybreak is a defensive cyber stack for the AI era. OpenAI is promoting Daybreak through a partner model rather than direct broad model access. It aims to embed GPT-5.5 with Trusted Access for Cyber into existing security products and services while keeping access governed through partner systems.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "OpenAI는 업데이트된 Codex Security 플러그인과 GPT-5.5-Cyber를 출시했습니다. 또한, AI 시대를 위한 방어 사이버 스택인 Daybreak Cyber Partner Program과 오픈소스 보안 이니셔티브 Patch the Planet을 발표했습니다. Daybreak는 파트너 모델을 통해 기존 보안 제품 및 서비스에 GPT-5.5를 통합하는 것을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+    "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away (14 minute read)",
+    "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+    "discussion_url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+    "summary": "Alibaba's HappyHorse 1.1 AI video generation model delivers production-ready video through an API built for integration into enterprise software stacks. It is now live on Alibaba Cloud Model Studio with a 40% sitewide launch discount for the first two weeks. HappyHorse supports text-to-video, image-to-video, and subject-to-video generation, as well as video editing. Its abilities cover the full spectrum of commercial video needs, from ideation through production to post-production.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "Alibaba의 HappyHorse 1.1 AI 비디오 생성 모델은 API를 통해 엔터프라이즈 소프트웨어 스택에 통합 가능한 프로덕션급 비디오를 제공합니다. 이 모델은 Alibaba Cloud Model Studio에서 사용 가능하며, 텍스트-비디오, 이미지-비디오, 주제-비디오 생성 및 비디오 편집을 지원합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "The text in Claude Code's “Extended Thinking” output is not authentic (3 minute read)",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "discussion_url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "summary": "Claude Code's 'Extended Thinking' reasoning is encrypted. Anthropic holds the key, and users' machines never receive it. The API returns a summary of the reasoning, and not the reasoning itself. Receiving the full thinking output requires an enterprise agreement.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "Claude Code의 'Extended Thinking' 추론은 암호화되어 있으며, 사용자는 추론 자체가 아닌 요약만 받습니다. 전체 추론 출력은 기업 계약이 있어야만 제공됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models",
+    "title": "Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)",
+    "url": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models",
+    "discussion_url": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models",
+    "summary": "Anthropic pulled its Mythos model, while the article's author developed smaller agentic models called \"knowledge agents\" to match larger frontier models. These agents enhance AI by injecting specific, relevant knowledge, performing well even with smaller models like Qwen 3.6 27B. The methodology involves embedding, structuring data, and multiple search passes, successfully augmenting LLMs for specialized queries and proprietary data.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "이 기사는 더 작은 '지식 에이전트' 모델이 특정 관련 지식을 주입하여 대형 프론티어 모델에 필적할 수 있음을 제시합니다. 이 방법론은 임베딩, 데이터 구조화 및 다중 검색을 통해 LLM을 전문화된 쿼리 및 독점 데이터에 성공적으로 활용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Database"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model/",
+    "title": "GLM-5.2 Raises the Bar for Open Models (14 minute read)",
+    "url": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model/",
+    "discussion_url": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model/",
+    "summary": "TheZvi examined GLM-5.2's capabilities and benchmark results, arguing it represents a significant improvement over previous open models. The analysis positioned it as one of the strongest openly available models while still trailing the leading frontier systems.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "GLM-5.2는 오픈 모델 중 상당한 개선을 보여주며, 현재 사용 가능한 가장 강력한 오픈 모델 중 하나로 평가됩니다. 그러나 여전히 선도적인 프론티어 시스템에는 뒤쳐집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031",
+    "title": "Model Size Scaling in 2023-2031 (21 minute read)",
+    "url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031",
+    "discussion_url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031",
+    "summary": "Targeting a particular speed of token generation puts a constraint on the total parameters of the model. If there isn't enough pretraining compute, models will remain smaller. This article looks at these considerations and estimates model sizes feasible for each year between 2023 and 2031. There are many assumptions that go into the estimates, which predict total parameters for models to reach 1.4 quadrillion in 2031.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "토큰 생성 속도에 따라 모델의 총 파라미터 수가 제한되며, 충분한 사전 훈련 컴퓨팅이 없으면 모델은 더 작게 유지됩니다. 이 기사는 2023년부터 2031년까지 모델 크기 추정치를 제시하며, 2031년에는 모델 파라미터가 1.4조 개에 이를 것으로 예측합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://hustvl.github.io/Moebius/",
+    "title": "Moebius (4 minute read)",
+    "url": "https://hustvl.github.io/Moebius/",
+    "discussion_url": "https://hustvl.github.io/Moebius/",
+    "summary": "Moebius is a highly efficient lightweight inpainting framework. The 0.22B model rivals and even surpasses the generation quality of the 11.9B industrial generalist FLUX.1-Fill-Dev. It does this with an under 15x acceleration in total inference time. Moebius liberates real-world image inpainting and AI object removal from parameter bloat.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "Moebius는 0.22B 모델임에도 불구하고 11.9B 규모의 산업용 모델 FLUX.1-Fill-Dev와 유사하거나 능가하는 이미지 생성 품질을 제공합니다. 이 프레임워크는 15배 미만의 추론 시간 가속으로 이미지 인페인팅 및 AI 객체 제거에서 모델 크기 비대화를 해결합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/codex-maxxing-long-running-work/",
+    "title": "Using Codex for Long-Running Projects (18 minute read)",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work/",
+    "discussion_url": "https://openai.com/index/codex-maxxing-long-running-work/",
+    "summary": "This guide outlines strategies for treating Codex as a persistent workspace that can maintain context across extended projects. It covers workflow management, task decomposition, and techniques for balancing autonomous execution with human oversight.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "Codex를 장기 프로젝트의 지속적인 작업 공간으로 활용하는 전략을 제시합니다. 워크플로우 관리, 작업 분해, 자율 실행과 인간 감독의 균형 유지 기술을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/akshay_pachaar/status/2069118430582866051",
+    "title": "Loop Engineering Clearly Explained (7 minute read)",
+    "url": "https://x.com/akshay_pachaar/status/2069118430582866051",
+    "discussion_url": "https://x.com/akshay_pachaar/status/2069118430582866051",
+    "summary": "Loop engineering shifts AI development from manually prompting agents to designing autonomous systems that decide what to work on, execute tasks, verify outcomes, and improve over time. The core agent loop is simple, but the hard problems are defining reliable stopping conditions, preventing context rot, designing agent-friendly tools, and building verification mechanisms that can independently judge success.",
+    "score": 0,
+    "published_at": "2026-06-23T23:58:32+00:00",
+    "ai_summary": "루프 엔지니어링은 AI 개발을 수동 프롬프트에서 자율 시스템 설계로 전환합니다. AI 에이전트가 스스로 작업을 결정, 실행, 검증, 개선하도록 하며, 신뢰할 수 있는 중단 조건, 컨텍스트 손상 방지, 검증 메커니즘 구축이 주요 과제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
