@@ -1,0 +1,530 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30800",
+    "title": "VibeThinker-3B: SFT+GRPO로 Opus 4.5 추론 성능을 넘긴 3B 모델",
+    "url": "https://news.hada.io/topic?id=30800",
+    "discussion_url": "https://news.hada.io/topic?id=30800",
+    "summary": "VibeThinker-3B는 3B 파라미터만으로 검증 가능한 추론을 어디까지 압축할 수 있는지 실험한 소형 밀집 모델임\n학습 파이프라인은 Spectrum-to-Signal 사후학습을 바탕으로 커리큘럼 지도 미세조정, 다중 도메인 강화학습, 오프라인 자기증류를 결합함\nAI...",
+    "score": 0,
+    "published_at": "2026-06-24T20:41:04+00:00",
+    "ai_summary": "VibeThinker-3B는 3B 파라미터만으로 Opus 4.5 수준의 추론 성능을 넘긴 소형 밀집 AI 모델입니다.\nSpectrum-to-Signal 사후학습 기반의 커리큘럼 지도 미세조정, 다중 도메인 강화학습 등을 결합한 학습 파이프라인을 사용했습니다.\n이는 소형 모델의 효율성과 성능 한계를 탐구하는 중요한 발전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30790",
+    "title": "Google Workspace CLI를 만든 개발자, 구글에서 해고됨",
+    "url": "https://news.hada.io/topic?id=30790",
+    "discussion_url": "https://news.hada.io/topic?id=30790",
+    "summary": "gws는 Google Drive, Gmail, Calendar 등 모든 Workspace API를 다루며 사람과 에이전트 양쪽을 위해 설계된 오픈소스 CLI\n공개 며칠 만에 Hacker News 1위에 오르고 수천 개의 GitHub 스타와 수천 명의 실사용자 확보\n구글 내부 반응은 두갈래 였음: 여러...",
+    "score": 0,
+    "published_at": "2026-06-24T06:34:01+00:00",
+    "ai_summary": "Google Workspace CLI(gws)는 Drive, Gmail 등 Workspace API를 다루는 오픈소스 CLI로, 개발자가 재직 중 개발했습니다.\n공개 후 큰 인기를 얻었으나, 개발자는 회사 정책 위반으로 구글에서 해고되었습니다.\n이는 오픈소스 활동과 기업 정책, 개발자 커리어 간의 갈등을 보여주는 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30788",
+    "title": "Typescript 7.0 RC버전이 배포되었습니다.",
+    "url": "https://news.hada.io/topic?id=30788",
+    "discussion_url": "https://news.hada.io/topic?id=30788",
+    "summary": "제목: TypeScript 7.0 RC 발표 - Go로 새로 작성되어 약 10배 빨라짐\n본문:\nMicrosoft가 TypeScript 7.0의 Release Candidate를 발표함. 기존 코드베이스를 지난 1년간 TypeScript(JS로 컴파일되던 부트스트랩 코드베이스)에서 Go로 포팅한 것이 핵심\n네이티브 코드 속도와 공유 메모리 병렬 처리",
+    "score": 0,
+    "published_at": "2026-06-24T03:45:43+00:00",
+    "ai_summary": "TypeScript 7.0 Release Candidate가 발표되었으며, 핵심은 기존 JavaScript 기반 코드를 Go 언어로 포팅한 것입니다.\n이로 인해 TypeScript 컴파일러의 성능이 약 10배 향상되어, 개발자들이 더 빠르게 개발할 수 있게 됩니다.\n네이티브 코드 속도와 공유 메모리 병렬 처리를 활용하는 것이 주요 특징입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30786",
+    "title": "LLM Wiki와 본유적 부하",
+    "url": "https://news.hada.io/topic?id=30786",
+    "discussion_url": "https://news.hada.io/topic?id=30786",
+    "summary": "LLM Wiki 가 유행하고 있는데, 사용에서 가장 크게 우려되는 부분은 PKM 사용시 본유적 부하를 줄이는데에 있다.",
+    "score": 0,
+    "published_at": "2026-06-24T02:03:11+00:00",
+    "ai_summary": "LLM Wiki는 LLM을 활용한 지식 관리 시스템으로, 사용 시 '본유적 부하(Intrinsic Cognitive Load)'를 줄이는 것이 관건입니다.\n이는 LLM 기반 PKM(Personal Knowledge Management) 시스템 설계 및 활용 시 사용자의 인지적 부담을 관리하는 것이 중요함을 시사합니다.\n개발자들은 LLM 기반 솔루션 설계 시 사용자 경험과 효율성을 고려해야 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30781",
+    "title": "Mistral OCR 4 공개",
+    "url": "https://news.hada.io/topic?id=30781",
+    "discussion_url": "https://news.hada.io/topic?id=30781",
+    "summary": "Mistral AI가 공개한 Mistral OCR 4는 문서에서 텍스트만 뽑는 OCR을 넘어 바운딩 박스, 블록 분류, 인라인 신뢰도 점수까지 함께 반환하는 문서 이해 모델임\n10개 언어 그룹의 170개 언어와 단일 컨테이너 자체 호스팅을 지원해, 데이터 주권·컴플라이언스가 중요...",
+    "score": 0,
+    "published_at": "2026-06-24T00:52:24+00:00",
+    "ai_summary": "Mistral AI가 Mistral OCR 4를 공개했으며, 이는 단순 텍스트 추출을 넘어 문서 이해 기능을 제공합니다.\n바운딩 박스, 블록 분류, 인라인 신뢰도 점수를 반환하며 170개 언어를 지원하고 자체 호스팅이 가능합니다.\n데이터 주권 및 컴플라이언스가 중요한 환경에서 유용하며, AI 기반 문서 처리 솔루션 개발에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30778",
+    "title": "memcached 예찬",
+    "url": "https://news.hada.io/topic?id=30778",
+    "discussion_url": "https://news.hada.io/topic?id=30778",
+    "summary": "캐시는 데이터베이스 부하를 줄이기 위해 들어오지만, Redis처럼 쓰기 쉬운 도구는 시간이 지나며 영속 저장소처럼 의존되기 쉬움\n문제는 Redis의 영속성 기능이 아니라, 처음에는 휘발성 캐시로 도입된 구성 요소가 애플리케이션의 핵심 상태와 엮이는 운영 흐름임...",
+    "score": 0,
+    "published_at": "2026-06-24T00:39:36+00:00",
+    "ai_summary": "캐시는 DB 부하를 줄이지만, Redis처럼 쓰기 쉬운 도구는 영속 저장소처럼 오용될 위험이 있습니다.\n이 글은 캐시를 휘발성으로 유지하고 애플리케이션 핵심 상태와 분리하는 운영의 중요성을 강조합니다.\nmemcached는 본연의 캐시 역할에 충실하여 이러한 문제를 방지할 수 있음을 역설합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30775",
+    "title": "Unlimited OCR — Baidu의 원샷 장문 파싱 모델",
+    "url": "https://news.hada.io/topic?id=30775",
+    "discussion_url": "https://news.hada.io/topic?id=30775",
+    "summary": "DeepSeek OCR를 기반으로 디코더의 모든 어텐션을 교체해, 수십 페이지 문서를 한 번의 순전파(forward pass) 로 전사하는 E2E OCR 모델\n핵심은 참조 슬라이딩 윈도우 어텐션(R-SWA) 으로, 디코딩 길이가 늘어도 KV 캐시를 상수로 유지...",
+    "score": 0,
+    "published_at": "2026-06-24T00:26:40+00:00",
+    "ai_summary": "Baidu의 Unlimited OCR은 DeepSeek OCR 기반으로, 수십 페이지 문서를 단 한 번의 순전파로 전사하는 E2E 모델입니다.\n핵심 기술인 참조 슬라이딩 윈도우 어텐션(R-SWA)은 디코딩 길이 증가에도 KV 캐시를 상수로 유지합니다.\n이는 긴 문서 처리에 혁신적인 효율성을 제공하는 AI 기반 OCR 기술의 발전입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48666433",
+    "title": "PostgreSQL Is Enough",
+    "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "discussion_url": "https://news.ycombinator.com/item?id=48666433",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-06-24T22:39:37+00:00",
+    "ai_summary": "\"PostgreSQL Is Enough\"는 많은 경우 복잡한 데이터베이스 대신 PostgreSQL 하나만으로도 충분하다는 주장을 펼칩니다.\n이는 PostgreSQL의 강력한 기능, 확장성 및 다양한 사용 사례에 대한 적합성을 강조합니다.\n개발자들에게 데이터베이스 선택에 있어 실용적인 관점과 아키텍처 단순화의 이점을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48663324",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48663324",
+    "summary": "",
+    "score": 468,
+    "published_at": "2026-06-24T17:47:00+00:00",
+    "ai_summary": "OpenAI가 브로드컴과 협력하여 AI 훈련 및 추론을 위한 자체 맞춤형 칩을 공개했습니다.\n이는 엔비디아 의존도를 줄이고 AI 인프라 비용 효율성을 높이려는 전략의 일환입니다.\n향후 AI 모델 개발 및 배포 환경에 큰 영향을 미칠 수 있는 중요한 하드웨어 발전입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48659798",
+    "title": "Qualcomm to Acquire Modular",
+    "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48659798",
+    "summary": "",
+    "score": 117,
+    "published_at": "2026-06-24T13:49:16+00:00",
+    "ai_summary": "퀄컴이 AI 모델 배포 및 최적화를 위한 소프트웨어 플랫폼 제공업체인 Modular를 인수합니다.\n이는 퀄컴의 온디바이스 AI 역량을 강화하고, 개발자들에게 더 나은 도구를 제공하려는 전략입니다.\n모바일 및 엣지 AI 개발 생태계와 관련 도구에 중요한 변화를 가져올 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48660711",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48660711",
+    "summary": "",
+    "score": 333,
+    "published_at": "2026-06-24T14:41:41+00:00",
+    "ai_summary": "RubyLLM은 Ruby 개발자를 위한 프레임워크로, 주요 AI 제공업체의 LLM을 쉽게 통합할 수 있게 합니다.\nLangChain이나 LlamaIndex와 유사하게, 다양한 LLM 서비스와의 상호작용을 추상화하여 개발을 간소화합니다.\nRuby 생태계에서 LLM 애플리케이션을 구축하려는 개발자들에게 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48657030",
+    "title": "We’re making Bunny DNS free",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48657030",
+    "summary": "",
+    "score": 837,
+    "published_at": "2026-06-24T08:50:41+00:00",
+    "ai_summary": "CDN 제공업체 Bunny.net이 자사의 DNS 서비스를 무료로 전환한다고 발표했습니다.\n이는 더 많은 사용자들이 안정적이고 빠른 DNS 서비스를 부담 없이 이용할 수 있게 하려는 목적입니다.\n웹 서비스 인프라 비용 절감 및 접근성 향상에 기여할 수 있는 중요한 변화입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48662999",
+    "title": "Computer use in Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48662999",
+    "summary": "",
+    "score": 152,
+    "published_at": "2026-06-24T17:21:34+00:00",
+    "ai_summary": "Google Gemini 3.5 Flash가 외부 도구 및 컴퓨터 환경을 활용하는 능력에 대한 내용입니다.\n이는 LLM이 단순히 텍스트를 생성하는 것을 넘어, 실제 작업을 수행하는 에이전트로 발전하는 방향을 보여줍니다.\n개발자들이 LLM 기반 애플리케이션을 구축할 때 중요한 고려사항이 될 기능 개선입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48662452",
+    "title": "Big AI labs are hiring philosophers",
+    "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+    "discussion_url": "https://news.ycombinator.com/item?id=48662452",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-06-24T16:40:13+00:00",
+    "ai_summary": "주요 AI 연구소들이 기술 개발의 윤리적, 사회적 함의를 깊이 이해하기 위해 철학자들을 고용하고 있습니다.\n이는 AI 시스템의 가치 정렬, 안전성, 책임성 문제를 해결하고 편향을 줄이는 데 중요합니다.\n개발자들은 이러한 학제간 접근 방식이 미래 AI 프로젝트 및 경력 경로에 영향을 미칠 수 있음을 인식해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48666100",
+    "title": "Elastic lays off 7% of employees",
+    "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+    "discussion_url": "https://news.ycombinator.com/item?id=48666100",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-06-24T21:57:30+00:00",
+    "ai_summary": "Elastic이 전체 직원의 7%를 해고한다고 발표했습니다.\n이는 경제 상황과 회사의 재정 구조 조정의 일환으로 보입니다.\n개발자들은 Elastic 제품의 향후 개발 및 지원에 미칠 잠재적 영향을 주시하고, 기술 업계의 고용 불안정성을 인지해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/ocr-4/",
+    "title": "Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)",
+    "url": "https://mistral.ai/news/ocr-4/",
+    "discussion_url": "https://mistral.ai/news/ocr-4/",
+    "summary": "Mistral released OCR 4, a document intelligence tool providing structured content extraction, including bounding boxes and confidence scores. It supports 170 languages, is deployable in a single container, and integrates into enterprise search and structured data pipelines. OCR 4 outperforms other systems with a 4x speed advantage and high accuracy, especially with low-resource languages.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Mistral OCR 4는 170개 언어를 지원하며, 문서에서 구조화된 콘텐츠를 추출하는 최첨단 도구입니다. 단일 컨테이너 배포 및 기업 시스템 통합이 용이하며, 기존 시스템 대비 4배 빠른 속도와 높은 정확도를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/introducing-claude-tag",
+    "title": "Claude Tag (2 minute read)",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "discussion_url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "summary": "Anthropic introduced Claude Tag, a Slack-based workflow that lets teams assign tasks to Claude, connect it to tools and codebases, and have it retain context across channels. The company said the system had become a core part of internal operations, with its product team using it to generate much of their code and assist with analytics, support, and debugging tasks.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Anthropic의 Claude Tag는 Slack 기반의 워크플로우 도구로, Claude에 작업을 할당하고 도구 및 코드베이스와 연결할 수 있습니다. 이 시스템은 Claude가 채널 간 컨텍스트를 유지하게 하여, 제품 팀이 코드 생성, 분석, 디버깅 등에 활용하며 내부 운영의 핵심이 되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/",
+    "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)",
+    "url": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/",
+    "discussion_url": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/",
+    "summary": "ByteDance's new Seedance 2.5 AI video generation model can generate 30-second, 4K videos with a single prompt. Users are able to provide up to 50 images, videos, or audio clips as reference pieces. Increasing the number of references gives users more control over the video creation process. The model will be available in China next month. ByteDance has not announced a release time window for other countries.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "ByteDance의 Seedance 2.5는 단일 프롬프트로 최대 30초 길이의 4K 비디오를 생성하는 AI 모델입니다. 사용자는 최대 50개의 이미지, 비디오, 오디오 클립을 참조로 제공하여 비디오 생성 과정을 더 세밀하게 제어할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/gray-swan",
+    "title": "Insights on Indirect Prompt Injection (12 minute read)",
+    "url": "https://www.latent.space/p/gray-swan",
+    "discussion_url": "https://www.latent.space/p/gray-swan",
+    "summary": "This deep dive explores the growing focus on jailbreaks and indirect prompt injection attacks, featuring insights from Gray Swan's founders and their research. It also covered the company's role in evaluating advanced AI systems and developing security benchmarks.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "이 기사는 Gray Swan의 연구를 바탕으로 LLM의 탈옥(jailbreak) 및 간접 프롬프트 인젝션 공격에 대한 심층 분석을 제공합니다. 고급 AI 시스템 평가 및 보안 벤치마크 개발에서 Gray Swan의 역할을 다루며, AI 보안의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "discussion_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "summary": "CUGA, IBM's open-source agent harness, simplifies developing agentic apps by managing the complexities of planning, execution, and state management, allowing developers to focus on tool selection and prompts. CUGA's efficient system maintains state and corrects errors, outperforming others in benchmarks like AppWorld. Its unique features include configurable reasoning modes and integrated policy systems, enabling quick deployment from development to production while maintaining governance and fl",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "IBM의 오픈소스 에이전트 하네스 CUGA는 기획, 실행, 상태 관리의 복잡성을 처리하여 개발자가 에이전트 앱을 쉽게 구축하도록 돕습니다. CUGA는 효율적인 시스템으로 상태를 유지하고 오류를 수정하며, 구성 가능한 추론 모드와 통합 정책 시스템을 통해 빠른 배포를 지원합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "title": "How Businesses Are Building Specialized AI They Can Trust (3 minute read)",
+    "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "discussion_url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "summary": "NVIDIA's Agent Toolkit empowers businesses to build specialized, customizable AI agents using open models, tools, skills, and secure runtime. These agents accelerate complex workflows across industries like life sciences, healthcare, cybersecurity, and industrial operations by integrating with existing tools and data. Companies like Cadence, Synopsys, and CrowdStrike are leveraging this technology to enhance efficiency and accuracy in specific domains.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "NVIDIA의 Agent Toolkit은 기업이 오픈 모델, 도구, 스킬을 활용하여 맞춤형 AI 에이전트를 구축하도록 지원합니다. 이 에이전트들은 기존 도구 및 데이터와 통합되어 다양한 산업 분야에서 복잡한 워크플로우를 가속화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://role-confusion.github.io/",
+    "title": "Prompt Injection as Role Confusion (17 minute read)",
+    "url": "https://role-confusion.github.io/",
+    "discussion_url": "https://role-confusion.github.io/",
+    "summary": "Modern large language models use role tags as both a security architecture and cognitive scaffolding. Prompt injections are driven by a flaw in how AI models perceive roles. For LLMs, everything arrives through the same channel as one long token soup, so they can't distinguish between their own thoughts and speech. Unless AI models achieve genuine role perception, injection defense will remain a perpetual whack-a-mole game.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "LLM의 역할 태그는 보안 아키텍처이자 인지 스캐폴딩으로 사용되지만, 프롬프트 인젝션은 AI 모델이 역할을 인식하는 방식의 결함에서 비롯됩니다. LLM은 모든 입력이 하나의 토큰 스트림으로 들어오기 때문에 자신의 생각과 외부 입력을 구분하지 못하며, 이 문제 해결 없이는 인젝션 방어가 어렵습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/graphsignal/graphsignal-profiler",
+    "title": "Graphsignal (GitHub Repo)",
+    "url": "https://github.com/graphsignal/graphsignal-profiler",
+    "discussion_url": "https://github.com/graphsignal/graphsignal-profiler",
+    "summary": "Graphsignal is a production-scale inference profiling platform that provides essential visibility across the inference stack. It helps engineers optimize AI performance across models, engines, GPUs, and other accelerators. Graphsignal can be used with coding agents for analysis. The profiler has minimal impact on production performance, and content data is not recorded.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Graphsignal은 생산 규모의 AI 추론을 위한 프로파일링 플랫폼으로, 추론 스택 전반에 걸쳐 가시성을 제공합니다. 이 도구는 엔지니어가 모델, 엔진, GPU 등에서 AI 성능을 최적화하고, 프로덕션 성능에 미치는 영향이 최소화되도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2 Technical Report (59 minute read)",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "discussion_url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "summary": "Krea 2 introduces expansive, expressive image generation models designed for creative exploration, overcoming limitations of default aesthetics. It employs a multi-stage training process with advanced architectures and extensive data curation to enhance stylistic diversity and user control. Key innovations include a prompt expander and style-reference system, allowing nuanced text and image inputs to generate diverse visual outputs.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Krea 2는 창의적 탐색을 위한 이미지 생성 모델로, 기존 미학적 한계를 극복합니다. 고급 아키텍처와 데이터 큐레이션을 통해 스타일 다양성과 사용자 제어 기능을 강화했습니다. 프롬프트 확장기와 스타일 참조 시스템이 주요 혁신입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/baidu/Unlimited-OCR",
+    "title": "Unlimited OCR Works (GitHub Repo)",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "discussion_url": "https://github.com/baidu/Unlimited-OCR",
+    "summary": "Unlimited OCR is a model designed to emulate human parsing working memory. It uses DeepSeek OCR as a baseline and combines it with a constant KV cache design. Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. The technique used to develop Unlimited OCR is equally applicable to tasks such as ASR and translation.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Unlimited OCR은 딥시크 OCR을 기반으로 인간의 작업 기억을 모방하는 모델입니다. 일정한 KV 캐시 설계로 32K 최대 길이 내에서 수십 페이지의 문서를 단일 포워드 패스로 전사할 수 있습니다. 이 기술은 ASR 및 번역 작업에도 적용 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/",
+    "title": "OpenAI prepares bidirectional voice mode for rollout on ChatGPT (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/",
+    "discussion_url": "https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/",
+    "summary": "OpenAI has started rolling out Bidirectional Voice Mode for ChatGPT. The company's new audio generation model, Bidi 1, lets the assistant speak, hear, and listen at the same time. It is able to hold the thread of a whole conversation and switch tasks on the fly if interrupted. The model can sing and beatbox, but there are some tight copyright restrictions. OpenAI has yet to make a formal announcement about the model, but some users are already seeing it in their model selectors.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "OpenAI가 ChatGPT용 양방향 음성 모드를 출시합니다. 새로운 오디오 생성 모델 Bidi 1은 동시에 말하고 듣고 경청할 수 있으며, 대화의 흐름을 유지하고 작업을 전환합니다. 이 모델은 노래와 비트박스도 가능하지만 저작권 제한이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/fluree/db",
+    "title": "Fluree DB (GitHub Repo)",
+    "url": "https://github.com/fluree/db",
+    "discussion_url": "https://github.com/fluree/db",
+    "summary": "Fluree DB is a graph database for data with integrated vector, text, and geo search.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Fluree DB는 벡터, 텍스트, 지리 검색 기능이 통합된 그래프 데이터베이스입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/EngramLab/status/2069465879696576844",
+    "title": "Introducing Engram: Scaling Compute on Your Context (4 minute read)",
+    "url": "https://x.com/EngramLab/status/2069465879696576844",
+    "discussion_url": "https://x.com/EngramLab/status/2069465879696576844",
+    "summary": "Engram is building AI models that continuously learn from a user's private context, such as documents, chats, code, and knowledge bases, instead of repeatedly rereading the same information in every session.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Engram은 사용자의 개인 컨텍스트(문서, 채팅, 코드 등)에서 지속적으로 학습하는 AI 모델을 구축합니다. 이는 매 세션마다 동일한 정보를 반복해서 다시 읽는 대신 컴퓨팅 효율성을 높입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://momentic.ai/blog/a-new-era-of-software-quality",
+    "title": "A New Era of Software Quality Starts Today (5 minute read)",
+    "url": "https://momentic.ai/blog/a-new-era-of-software-quality",
+    "discussion_url": "https://momentic.ai/blog/a-new-era-of-software-quality",
+    "summary": "Momentic's new platform update offers autonomous QA testing, enabling teams to define product behavior and adapt tests to changes automatically.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "Momentic의 새로운 플랫폼 업데이트는 자율 QA 테스트를 제공합니다. 이를 통해 팀은 제품 동작을 정의하고 변경 사항에 맞춰 테스트를 자동으로 조정할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale (4 minute read)",
+    "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+    "discussion_url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+    "summary": "NVIDIA and AWS teamed up to optimize AI deployment at scale with new NVIDIA RTX PRO 4500 Blackwell GPUs in EC2 G7 instances, offering up to 4.6x AI inference performance.",
+    "score": 0,
+    "published_at": "2026-06-25T00:13:58+00:00",
+    "ai_summary": "NVIDIA와 AWS는 새로운 NVIDIA RTX PRO 4500 Blackwell GPU를 EC2 G7 인스턴스에 도입하여 AI 배포를 최적화했습니다. 이는 AI 추론 성능을 최대 4.6배 향상시킵니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  }
+]
