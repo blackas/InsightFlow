@@ -1,0 +1,654 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30862",
+    "title": "Apple, 고급형 M6 Mac 칩 건너뛰고 AI 중심 M7 라인으로 전환 예정",
+    "url": "https://news.hada.io/topic?id=30862",
+    "discussion_url": "https://news.hada.io/topic?id=30862",
+    "summary": "Apple은 Mac용 자체 실리콘 전략을 조정해 다음 최상위 프로세서를 AI 중심 M7 세대로 앞당기려 함\n현재 M5 시리즈를 쓰는 가운데, 보급형 Mac용 기본 M6 프로세서는 이르면 올해 공개될 계획임\n기존 세대 흐름과 달리 고급형 M6 버전은...",
+    "score": 0,
+    "published_at": "2026-06-26T21:36:13+00:00",
+    "ai_summary": "Apple이 Mac용 자체 실리콘 전략을 AI 중심의 M7 세대로 전환할 계획입니다.\n고급형 M6 칩을 건너뛰고 바로 AI 성능을 강화한 M7 라인으로 넘어갈 예정입니다.\n이는 개발자들이 AI 관련 작업을 수행하는 데 중요한 하드웨어 변화를 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30860",
+    "title": "Show HN: OpenKnowledge – Obsidian/Notion의 오픈소스 AI 우선 대안",
+    "url": "https://news.hada.io/topic?id=30860",
+    "discussion_url": "https://news.hada.io/topic?id=30860",
+    "summary": "개인 노트, 지식 베이스, 스펙, LLM 위키를 위한 로컬 우선 WYSIWYG Markdown 편집기이며 Claude, Codex 등 하네스와의 통합을 제공함\nMarkdown 파일 편집을 Google Doc이나 Notion 페이지 편집처럼 느끼게 하는 true WYSIWYG 편집 경험을 목표로 함\nClau...",
+    "score": 0,
+    "published_at": "2026-06-26T17:34:20+00:00",
+    "ai_summary": "OpenKnowledge는 Obsidian/Notion의 오픈소스 AI 우선 대안으로, 로컬 우선 WYSIWYG Markdown 편집기입니다.\nClaude 등 LLM과의 통합을 제공하여 개인 노트, 지식 베이스, 스펙 작성을 돕습니다.\n개발자들의 지식 관리 및 문서화 워크플로우를 개선할 수 있는 새로운 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30856",
+    "title": "Vibecoding 공개로 Emacs 패치가 거절됨",
+    "url": "https://news.hada.io/topic?id=30856",
+    "discussion_url": "https://news.hada.io/topic?id=30856",
+    "summary": "macOS용 Emacs 성능 개선을 위해 만든 작은 패치가 emacs-devel에 제출됐지만, LLM 보조 작업을 받지 않는 GNU 정책 때문에 받아들여지지 않음\n작업자는 GLM 5.2가 이슈를 찾고 초안을 만들었다고 공개하면서도, 본인이 정확성·영향 분석, 수정, 수동 테스트, ...",
+    "score": 0,
+    "published_at": "2026-06-26T14:04:12+00:00",
+    "ai_summary": "macOS용 Emacs 성능 개선 패치가 LLM 보조 작업에 대한 GNU 정책으로 거절되었습니다.\n패치 제출자는 GLM 5.2의 도움을 받았음을 공개했으나, GNU는 AI 보조 작업을 받지 않는다는 엄격한 정책을 고수했습니다.\n이는 AI를 활용한 개발 생산성에 대한 중요한 논의를 촉발합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30855",
+    "title": "AI에게 주도권을 빼앗기지 마세요 — 두 번의 자동화 실패에서 배운 것",
+    "url": "https://news.hada.io/topic?id=30855",
+    "discussion_url": "https://news.hada.io/topic?id=30855",
+    "summary": "Claude Code로 자동매매 시스템과 블로그 자동발행을 직접 운영하다 겪은 두 번의 실패에서 출발한 글입니다.\n\n자동매매: 매매 도메인 지식이 부족해 AI가 짠 코드를 검증하지 못했고, 결과는 0승 8패·자산 3% 손실\n블로그 자동발행: 검수 없이 내보낸 부정확한 글로 독자 피드백을 받음\n...",
+    "score": 0,
+    "published_at": "2026-06-26T11:49:18+00:00",
+    "ai_summary": "Claude Code를 활용한 자동매매 및 블로그 자동발행 시스템 운영 중 두 번의 실패 경험을 공유합니다.\n도메인 지식 부족으로 AI 코드 검증에 실패하고, 검수 없는 발행으로 부정확한 정보 문제가 발생했습니다.\nAI 자동화 시 인간의 검증과 도메인 지식의 중요성을 강조하는 교훈을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30854",
+    "title": "Show GN: SongRyeon Core - LLM이 쓴 말과 코드가 검증한 정보를 분리하는 로컬 에이전트 런타임 실험",
+    "url": "https://news.hada.io/topic?id=30854",
+    "discussion_url": "https://news.hada.io/topic?id=30854",
+    "summary": "안녕하세요. 코딩을 배우면서 AI 에이전트 런타임을 직접 실험하고 있는 정후입니다.\nSongRyeon Core는 “LLM이 말한 판단”과 “코드가 실제로 확인한 사실”을 분리해서 다루는 작은 로컬 우선(agent runtime) 실험입니다.\n요즘 LLM 기반 에이전트를 만들다 보면 다음 문제가 자주 생긴다고 느꼈습니",
+    "score": 0,
+    "published_at": "2026-06-26T06:28:52+00:00",
+    "ai_summary": "SongRyeon Core는 LLM이 생성한 '판단'과 코드가 '실제로 확인한 사실'을 분리하여 다루는 로컬 에이전트 런타임 실험입니다.\nLLM 기반 에이전트 개발 시 발생하는 정보의 신뢰성 문제를 해결하려는 시도입니다.\n개발자가 AI 에이전트의 불확실성을 관리하는 방법에 대한 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30846",
+    "title": "새로운 HTTP QUERY 메소드",
+    "url": "https://news.hada.io/topic?id=30846",
+    "discussion_url": "https://news.hada.io/topic?id=30846",
+    "summary": "RFC 10008로 새롭게 정의된 HTTP QUERY 메소드에 대한 설명\n기존 RESTful API에서 복잡한 검색을 처리할 때 GET과 POST 모두 한계가 있었는데, 이를 해결하기 위해 오랜 논의 끝에 QUERY 메소드가 표준화됨\nGET의 한계\n\n복잡한 필터나 관계형 쿼리를 URL 파라미터로 보내면 URL이 지나치게",
+    "score": 0,
+    "published_at": "2026-06-26T01:28:50+00:00",
+    "ai_summary": "RFC 10008로 새로운 HTTP QUERY 메소드가 정의되어 복잡한 검색 처리를 개선합니다.\n기존 GET/POST의 한계를 극복하기 위해 표준화되었으며, 복잡한 필터나 관계형 쿼리를 더 효율적으로 전송할 수 있게 합니다.\n이는 RESTful API 설계 및 구현에 중요한 변화를 가져올 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30845",
+    "title": "모든 고객을 위한 Cloudflare OAuth",
+    "url": "https://news.hada.io/topic?id=30845",
+    "discussion_url": "https://news.hada.io/topic?id=30845",
+    "summary": "Cloudflare는 고객이 직접 self-managed OAuth 앱을 만들 수 있게 해, Cloudflare API 접근을 표준 위임 승인 흐름으로 제공할 수 있게 함\n예전에는 일부 수동 온보딩된 파트너만 타사 OAuth를 쓸 수 있었고, 자체 통합 개발자는 위임형 앱 흐름에 맞지 않는 API 토큰",
+    "score": 0,
+    "published_at": "2026-06-26T01:11:49+00:00",
+    "ai_summary": "Cloudflare가 모든 고객이 자체 OAuth 앱을 만들어 Cloudflare API에 접근할 수 있도록 기능을 확장했습니다.\n이는 개발자가 표준 위임 승인 흐름을 통해 Cloudflare API와 더욱 쉽게 통합할 수 있게 합니다.\n보안 및 인증 측면에서 개발 편의성을 크게 향상시킬 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30843",
+    "title": "Ford, AI 품질검사 차질로 ‘gray beard’ 검사관 재고용",
+    "url": "https://news.hada.io/topic?id=30843",
+    "discussion_url": "https://news.hada.io/topic?id=30843",
+    "summary": "Ford Motor Co.는 고질적인 품질 문제를 줄이기 위해 “gray beard”로 불리는 베테랑 엔지니어들을 다시 불러 젊은 직원 교육과 AI 도구 보완에 투입함\n지난 3년간 350명의 베테랑 엔지니어를 채용했으며, 다수는 전직 Ford 직원이고 일부는 공급업체 출신임...",
+    "score": 0,
+    "published_at": "2026-06-26T01:05:49+00:00",
+    "ai_summary": "Ford Motor Co.는 AI 품질 검사 시스템의 한계로 인해 숙련된 베테랑 엔지니어들을 재고용하고 있습니다.\n이들은 젊은 직원 교육과 AI 도구 보완에 투입되어 고질적인 품질 문제 해결에 기여합니다.\nAI 기술 도입에도 불구하고 인간 전문가의 경험과 지식이 여전히 중요함을 보여주는 사례입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30841",
+    "title": "도구와 대화하는 것의 피로감",
+    "url": "https://news.hada.io/topic?id=30841",
+    "discussion_url": "https://news.hada.io/topic?id=30841",
+    "summary": "LLM은 키보드나 자동차처럼 몸에 익는 좋은 도구가 아니라, 요청과 협상을 요구하는 상대처럼 작동해 사용자의 사회적 에너지를 소모함\n좋은 도구는 일관성과 속도 덕분에 뇌가 신체의 확장처럼 받아들이지만, Claude나 Cursor 같은 LLM은 아직 그 수준에 미치지 못...",
+    "score": 0,
+    "published_at": "2026-06-26T01:02:23+00:00",
+    "ai_summary": "LLM은 단순 도구가 아닌 요청과 협상을 요구하여 사용자의 사회적 에너지를 소모합니다.\n좋은 도구는 몸에 익지만 LLM은 아직 그 일관성과 속도에 미치지 못합니다.\n이는 LLM 활용에 있어 새로운 인터랙션 디자인과 기대 관리가 필요함을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30839",
+    "title": "Herculaneum 두루마리 전체를 처음으로 해독",
+    "url": "https://news.hada.io/topic?id=30839",
+    "discussion_url": "https://news.hada.io/topic?id=30839",
+    "summary": "서기 79년 Vesuvius 분화 뒤 열 수 없었던 PHerc. 1667이 물리적으로 펼쳐지지 않은 채 가상으로 복원돼, 보존된 텍스트가 처음부터 끝까지 읽힘\n고해상도 X선 스캔과 표면 재구성, 평탄화, 머신러닝 잉크 검출을 결합해 탄화된 두루마리를 읽을 수 있는 페이지로 ...",
+    "score": 0,
+    "published_at": "2026-06-26T00:56:49+00:00",
+    "ai_summary": "기원전 79년 베수비오 화산 폭발로 타버린 헤르쿨라네움 두루마리(PHerc. 1667)가 완전히 해독되었습니다.\n물리적으로 펼치지 않고 고해상도 X선 스캔과 머신러닝을 활용해 텍스트를 가상으로 복원했습니다.\n이는 고대 문헌 연구와 보존 기술 발전에 큰 기여를 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48689028",
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48689028",
+    "summary": "",
+    "score": 776,
+    "published_at": "2026-06-26T17:06:55+00:00",
+    "ai_summary": "OpenAI가 차세대 모델인 GPT-5.6 Sol의 프리뷰를 공개했습니다.\n이 모델은 기존 LLM의 성능을 뛰어넘는 향상된 기능을 제공할 것으로 예상됩니다.\n개발자와 연구자들은 이 새로운 모델을 통해 더 복잡하고 정교한 애플리케이션을 구축할 수 있을 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692090",
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692090",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-06-26T21:18:28+00:00",
+    "ai_summary": "C++에서 홉스카치 해싱(hopscotch hashing)을 사용하여 빠르고 효율적인 해시 맵과 해시 셋 구현에 대해 다룹니다.\n이는 데이터 구조의 성능 최적화를 위한 고급 기법을 제시합니다.\n시스템 프로그래밍이나 고성능 컴퓨팅 분야 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692995",
+    "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692995",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-06-26T22:48:28+00:00",
+    "ai_summary": "미국 정부가 Anthropic의 새로운 AI 모델 'Mythos'를 '신뢰할 수 있는 파트너'에게 공개하도록 승인했습니다.\n이는 AI 모델 배포 및 활용에 대한 규제 당국의 개입을 보여줍니다.\n앞으로 AI 기술 상용화 및 보안 관련 논의가 활발해질 것으로 예상됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48690101",
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48690101",
+    "summary": "",
+    "score": 747,
+    "published_at": "2026-06-26T18:23:14+00:00",
+    "ai_summary": "미국 정부가 GPT-5.6 모델의 사용 권한을 결정할 것이라는 소식입니다.\n이는 강력한 AI 모델의 접근성과 활용에 대한 정부의 직접적인 통제를 시사합니다.\nAI 기술의 안전한 개발과 배포에 대한 중요성이 더욱 부각될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692058",
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692058",
+    "summary": "",
+    "score": 91,
+    "published_at": "2026-06-26T21:14:47+00:00",
+    "ai_summary": "오픈 웨이트(open weights) LLM과 클로즈드 소스(closed source) LLM 간의 격차에 대해 분석합니다.\n성능, 투명성, 커뮤니티 기여도 등 여러 측면에서 두 모델 유형의 장단점을 비교합니다.\n개발자들이 프로젝트에 적합한 LLM을 선택하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48642510",
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48642510",
+    "summary": "",
+    "score": 239,
+    "published_at": "2026-06-23T09:39:35+00:00",
+    "ai_summary": "MicroVM을 사용하여 완전히 격리된 샌드박스를 실행하고 전체 수명 주기를 제어하는 기술을 다룹니다.\n이는 보안, 효율성 및 리소스 격리 측면에서 컨테이너나 서버리스 환경에 유용한 솔루션입니다.\n클라우드 인프라 및 데브옵스 엔지니어에게 특히 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692051",
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692051",
+    "summary": "",
+    "score": 146,
+    "published_at": "2026-06-26T21:13:50+00:00",
+    "ai_summary": "캘리포니아주의 3D 프린터 감시 계획에 반대하는 내용을 다루고 있습니다.\n이 기술 정책은 개인 정보 보호, 기술 윤리, 정부 규제와 관련된 중요한 쟁점을 제기합니다.\n개발자에게는 기술의 사회적 영향 측면에서 관련성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48673115",
+    "title": "A Tiny Compiler for Data-Parallel Kernels",
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "discussion_url": "https://news.ycombinator.com/item?id=48673115",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-06-25T13:32:12+00:00",
+    "ai_summary": "데이터 병렬 커널을 위한 소형 컴파일러 개발에 대한 기술 기사입니다.\n고성능 컴퓨팅 및 병렬 처리 시스템 최적화와 깊이 연관되어 있습니다.\n컴파일러 설계 및 시스템 수준 프로그래밍에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48688700",
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "discussion_url": "https://news.ycombinator.com/item?id=48688700",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-06-26T16:40:11+00:00",
+    "ai_summary": "Claude, Codex, Cursor 같은 대규모 언어 모델(LLM)에서 스마트 모델 라우팅 기술을 구현하는 HN 프로젝트를 소개합니다.\n여러 LLM을 효율적으로 활용하고 최적의 모델을 동적으로 선택하는 데 중점을 둡니다.\nAI/ML 및 LLM 관련 개발자에게 매우 중요한 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692474",
+    "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+    "url": "https://news.ycombinator.com/item?id=48692474",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692474",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-06-26T21:54:59+00:00",
+    "ai_summary": "몇 주 전 Hacker News에 공개되었던 오픈 소스 DOCX 에디터 프로젝트가 삭제되었다는 소식입니다.\n오픈 소스 프로젝트의 유지 관리, 커뮤니티 참여, 그리고 프로젝트의 생명 주기와 관련된 시사점을 제공합니다.\n문서 처리 및 오픈 소스 개발에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48692883",
+    "title": "AI in mathematics is forcing big questions",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "discussion_url": "https://news.ycombinator.com/item?id=48692883",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-06-26T22:36:51+00:00",
+    "ai_summary": "인공지능이 수학 연구와 발견 방식에 근본적인 변화를 가져오고 있으며, 새로운 질문을 던지고 있습니다.\nAI가 수학적 추론과 증명에 기여하면서 수학자들의 역할과 미래 연구 방향에 대한 논의가 활발합니다.\nAI와 수학의 상호작용은 AI 개발자들에게도 새로운 연구 기회와 도전 과제를 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48660522",
+    "title": "A human postmortem of the 1996 AOL outage",
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "discussion_url": "https://news.ycombinator.com/item?id=48660522",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-06-24T14:29:17+00:00",
+    "ai_summary": "1996년 AOL 서비스 중단 사태에 대한 인간적 관점의 사후 분석으로, 당시 기술적 한계와 대응 과정을 조명합니다.\n이 사건은 대규모 인터넷 서비스의 안정성 유지와 장애 복구의 중요성을 일깨우는 사례입니다.\n과거의 실패 사례를 통해 현대 시스템 설계와 DevOps 관행에 대한 교훈을 얻을 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48690231",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+    "url": "https://gossamer-lang.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48690231",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-06-26T18:32:22+00:00",
+    "ai_summary": "Gossamer는 Rust의 영향을 받은 새로운 프로그래밍 언어로, 진정한 고루틴과 중단 없는 메모리 관리를 특징으로 합니다.\n이 언어는 동시성 처리와 고성능 시스템 개발에 초점을 맞추어 설계되어, 개발자들에게 새로운 대안을 제시합니다.\nRust와 Go의 장점을 결합하여 시스템 프로그래밍 분야에서 효율성과 안정성을 동시에 추구합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48673527",
+    "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+    "url": "https://github.com/neospe/autofit2",
+    "discussion_url": "https://news.ycombinator.com/item?id=48673527",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-06-25T13:58:21+00:00",
+    "ai_summary": "Autofit2는 다국어 텍스트 분류를 위한 엔드투엔드 파이프라인을 제공하는 새로운 도구입니다.\n자연어 처리(NLP) 분야의 개발자들이 다양한 언어의 텍스트 데이터를 효율적으로 분석하고 분류하는 데 도움을 줍니다.\nAI/ML 엔지니어들에게 유용하며, 특히 다국어 지원이 필요한 프로젝트에 적용될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48643459",
+    "title": "Modern GPU Programming for MLSys",
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48643459",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-06-23T11:38:25+00:00",
+    "ai_summary": "현대 ML 시스템을 위한 GPU 프로그래밍 기술을 다루며, 최적화 및 성능 향상 기법을 탐구합니다.\n개발자가 GPU의 병렬 처리 능력을 활용하여 복잡한 ML 워크로드를 효율적으로 처리하는 방법을 제시합니다.\nAI/ML 모델 훈련 및 배포의 성능 병목 현상을 해결하는 데 중점을 둡니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48650550",
+    "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+    "url": "https://www.swiftlatex.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48650550",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-06-23T20:04:33+00:00",
+    "ai_summary": "WebAssembly 기술을 활용하여 LaTeX 엔진을 브라우저에서 직접 실행하는 방법을 소개합니다.\n이를 통해 웹 환경에서 복잡한 문서 작성 및 렌더링이 가능해져 사용자 접근성을 높입니다.\n프론트엔드 개발자들이 웹 애플리케이션 내에서 고급 문서 처리 기능을 구현할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48690200",
+    "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
+    "url": "https://github.com/skx/slisp",
+    "discussion_url": "https://news.ycombinator.com/item?id=48690200",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-06-26T18:30:11+00:00",
+    "ai_summary": "Linux/amd64 환경을 위한 간단한 Lisp 컴파일러인 Slisp에 대해 소개합니다.\n이 컴파일러는 Lisp 언어의 구현과 작동 방식을 이해하는 데 도움을 줍니다.\n언어 설계, 컴파일러 개발 및 시스템 프로그래밍에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.liquid.ai/blog/lfm2-5-230m",
+    "title": "Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)",
+    "url": "https://www.liquid.ai/blog/lfm2-5-230m",
+    "discussion_url": "https://www.liquid.ai/blog/lfm2-5-230m",
+    "summary": "Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. Liquid AI가 LFM 2.5를 출시했는데, 2억 3천만 개의 파라미터를 가진 비-트랜스포머 모델입니다.\n2. 이 모델은 매우 작은 크기에도 불구하고, 3배 큰 트랜스포머 모델과 동등한 성능을 보입니다.\n3. 엣지 컴퓨팅 및 시퀀스 생성 벤치마크에서 뛰어난 효율성을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/ai-sdk-7",
+    "title": "Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)",
+    "url": "https://vercel.com/blog/ai-sdk-7",
+    "discussion_url": "https://vercel.com/blog/ai-sdk-7",
+    "summary": "Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. Vercel이 AI SDK 7을 출시하여 멀티스텝 툴 호출 및 스트리밍 AI UI 상태 처리를 간소화합니다.\n2. 프론트엔드 프레임워크에서 AI 통합을 위한 개발자 경험을 크게 향상시킵니다.\n3. 토큰 사용량, 모델 선택, 툴 실행 지연 시간을 추적하는 통합 텔레메트리 레이어를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "title": "Scaling Laws, Carefully (25 minute read)",
+    "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "discussion_url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "summary": "Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. 스케일링 법칙은 딥러닝에서 컴퓨팅 자원, 손실, 모델 크기, 데이터 간의 관계를 설명하는 중요한 경험적 발견입니다.\n2. 이는 모델 학습 및 배포 시 자원을 최적으로 할당하고 성능을 예측하는 데 매우 유용합니다.\n3. 스케일링 법칙의 실용적 가치와 함께 그 한계점 또한 다루고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2606.25996",
+    "title": "Agents That Build Better Training Data (25 minute read)",
+    "url": "https://arxiv.org/abs/2606.25996",
+    "discussion_url": "https://arxiv.org/abs/2606.25996",
+    "summary": "Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. Meta Autodata는 AI 에이전트를 훈련시켜 데이터 과학자처럼 고품질 학습 및 평가 데이터셋을 생성합니다.\n2. Agentic Self-Instruct 구현을 통해 코딩, 법률 추론, 수학적 추론 작업에서 결과가 개선되었습니다.\n3. AI 에이전트가 데이터 준비 과정을 자동화하고 AI 모델의 성능을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/",
+    "title": "DeepReinforce releases Ornith-1.0 open-source coding models (2 minute read)",
+    "url": "https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/",
+    "discussion_url": "https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/",
+    "summary": "Ornith-2.0 is a coding model family that can write RL scaffolds. Each variant of the self-improving family of models is trained on top of pretrained Gemma 4 and Qwen 3.5 foundations. Ornith-1.0 is state-of-the-art among open source models of comparable size. The weights and a technical report are available on Hugging Face for teams that want to run or study the models directly.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. DeepReinforce가 오픈소스 코딩 모델인 Ornith-1.0을 출시했습니다.\n2. 이 모델은 강화 학습(RL) 스캐폴드를 작성할 수 있으며, Gemma 4 및 Qwen 3.5 기반으로 훈련되었습니다.\n3. 동일 규모의 오픈소스 모델 중 최첨단 성능을 제공하며, 모델 가중치와 기술 보고서가 공개되어 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+    "title": "Measuring Exploits in LLM Agents with Tool Use (4 minute read)",
+    "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+    "discussion_url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+    "summary": "Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "1. 연구자들은 툴 사용 LLM 에이전트의 '보상 해킹(Reward Hacking)' 경향을 측정하는 RHB(Reward Hacking Benchmark)를 도입했습니다.\n2. RL(강화 학습)로 튜닝된 모델은 검증 단계를 우회하거나 채점 스크립트를 수정하는 등 최대 13.9%의 악용률을 보였습니다.\n3. 이는 LLM 에이전트의 신뢰성과 안전성을 높이기 위해 RL 튜닝 시 발생할 수 있는 취약점을 이해하는 것이 중요함을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "title": "Surprising lessons from my research scientist job search (11 minute read)",
+    "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "discussion_url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "summary": "This post shines a light on the job search experience for a research scientist position in Silicon Valley. The author is a fifth-year PhD student at Brown University. Some of the surprising things about the job search were that only one or two of their research papers really mattered, there were very diverse interview rounds, and the importance of timing. A lot of interviews came from a lot of places outside of the author's expertise - many places were evaluating them on how well-rounded an AI r",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "실리콘밸리 연구 과학자 직무 탐색 경험 공유. 1-2개의 연구 논문만 중요했으며 면접이 다양하고 타이밍이 중요했음을 깨달았습니다. AI 연구 과학자에게 필요한 다재다능함을 평가하는 면접이 많았습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2070181051801235463.html",
+    "title": "We removed an LM's ability to speak German (3 minute read)",
+    "url": "https://threadreaderapp.com/thread/2070181051801235463.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2070181051801235463.html",
+    "summary": "The team at Goodfire AI removed a 67-parameter language model's ability to predict German text by fine-tuning on only 4 German tokens.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "Goodfire AI 팀이 67개 매개변수 언어 모델의 독일어 예측 능력을 제거했습니다. 오직 4개의 독일어 토큰으로 미세 조정(fine-tuning)하여 이를 달성했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/vllm-jobs",
+    "title": "Run a vLLM Server on HF Jobs in One Command (3 minute read)",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "discussion_url": "https://huggingface.co/blog/vllm-jobs",
+    "summary": "Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "Hugging Face가 vLLM 서버를 HF Jobs에 배포하는 원-커맨드 워크플로우를 출시했습니다. 개발자들이 OpenAI 호환 vLLM 엔드포인트를 Hugging Face의 서버리스 인프라에 쉽게 구축할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/gen_intuition/status/2070177308539818005",
+    "title": "The Future of AI is Intuitive (1 minute read)",
+    "url": "https://x.com/gen_intuition/status/2070177308539818005",
+    "discussion_url": "https://x.com/gen_intuition/status/2070177308539818005",
+    "summary": "Generative Intuition showcased a real-time behavioral tracking pipeline designed to monitor and visualize fine-grained physical human interactions across multimodal computing interfaces.",
+    "score": 0,
+    "published_at": "2026-06-27T00:08:46+00:00",
+    "ai_summary": "Generative Intuition이 실시간 행동 추적 파이프라인을 시연했습니다. 다중 모드 컴퓨팅 인터페이스 전반에 걸쳐 정밀한 물리적 인간 상호작용을 모니터링하고 시각화하도록 설계되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  }
+]
