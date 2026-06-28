@@ -1,0 +1,439 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30896",
+    "title": "오픈 웨이트 LLM과 폐쇄형 LLM의 격차",
+    "url": "https://news.hada.io/topic?id=30896",
+    "discussion_url": "https://news.hada.io/topic?id=30896",
+    "summary": "Artificial Analysis Intelligence Index에서는 오픈 웨이트 LLM이 폐쇄형 LLM의 과거 성능을 따라잡는 시간이 2024년 여름부터 꾸준히 줄어드는 흐름을 보임\n이 단일 지표에 추세선을 그으면 격차가 2026년 12월 3일 0개월이 되어, 오픈 모델이 지표상 최전선 폐쇄...",
+    "score": 0,
+    "published_at": "2026-06-27T23:35:27+00:00",
+    "ai_summary": "오픈 웨이트 LLM과 폐쇄형 LLM 간 성능 격차가 빠르게 줄어들고 있습니다. 2024년 여름부터 격차가 꾸준히 감소하는 추세이며, 2026년 12월에는 오픈 모델이 폐쇄형 모델의 성능을 따라잡을 것으로 예측됩니다. 이는 AI 모델 개발 및 활용 방향에 중요한 시사점을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30891",
+    "title": "AI가 RFIC 설계의 “흑마술”을 배우다",
+    "url": "https://news.hada.io/topic?id=30891",
+    "discussion_url": "https://news.hada.io/topic?id=30891",
+    "summary": "RFIC는 5G, 자동차 레이더, 위성 통신 같은 무선 기술의 기반이지만, 전자기·열·패키징 신뢰성을 함께 맞춰야 해 수작업 중심의 난제로 남아 있음\nPrinceton 연구진은 인간 설계 템플릿을 출발점으로 삼지 않고, 강화학습과 역설계를 결합해 아키텍처·회로 토폴로지...",
+    "score": 0,
+    "published_at": "2026-06-27T22:37:52+00:00",
+    "ai_summary": "AI가 5G, 자동차 레이더 등에 필수적인 RFIC 설계의 난제를 해결합니다. 기존 수작업 중심의 설계와 달리, AI가 강화학습과 역설계를 통해 새로운 아키텍처와 회로 토폴로지를 찾아냅니다. 이는 AI가 복잡한 물리 시스템 설계에도 적용될 수 있음을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30889",
+    "title": "익명 GitHub 계정이 미공개 0-day를 대량 공개",
+    "url": "https://news.hada.io/topic?id=30889",
+    "discussion_url": "https://news.hada.io/topic?id=30889",
+    "summary": "Exploitarium은 공개 proof-of-concept와 취약점 연구 글을 한곳에 모은 GitHub 저장소이며, 새 연구 항목은 자체 완결형 폴더로 추가됨\n저장소에는 7-Zip, AnyDesk, Docker, Firefox, FFmpeg, Ghidra, Gitea, ImageMagick, libssh2, Nmap, OpenVPN, PHP, RustDesk, VLC 등 여러 프로...",
+    "score": 0,
+    "published_at": "2026-06-27T22:33:13+00:00",
+    "ai_summary": "Exploitarium이라는 GitHub 저장소가 7-Zip, Docker, Firefox 등 다양한 소프트웨어의 미공개 0-day 취약점과 PoC를 대량 공개했습니다. 이 저장소는 자체 완결형 폴더 형태로 연구 항목을 추가하며, 여러 프로젝트의 보안 문제에 대한 정보를 제공합니다. 개발자들은 이 정보를 통해 자신의 프로젝트 보안을 강화할 필요가 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30881",
+    "title": "2천 명이 내 AI 어시스턴트를 해킹하려 한 뒤 벌어진 일",
+    "url": "https://news.hada.io/topic?id=30881",
+    "discussion_url": "https://news.hada.io/topic?id=30881",
+    "summary": "hackmyclaw.com은 이메일로 AI 어시스턴트 Fiu를 속여 secrets.env를 유출시키는 공개 실험이었고, Hacker News 1위 이후 2,000명 이상이 6,000건 넘게 시도했지만 비밀은 새지 않음\n방어는 VPS에서 동작하는 어시스턴트에 몇 줄짜리 프롬프트 인젝션 방지 규칙...",
+    "score": 0,
+    "published_at": "2026-06-27T15:36:13+00:00",
+    "ai_summary": "한 개발자의 AI 어시스턴트 Fiu를 해킹하려는 2천 명 이상의 시도가 있었지만, 비밀 유출 없이 성공적으로 방어되었습니다. 이는 몇 줄의 프롬프트 인젝션 방지 규칙만으로도 충분한 보안을 달성할 수 있음을 보여줍니다. 개발자들은 AI 서비스 구축 시 보안 메커니즘을 미리 고려해야 합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30878",
+    "title": "미국, Anthropic의 Mythos AI를 ‘신뢰된’ 미국 조직에 공개 허용",
+    "url": "https://news.hada.io/topic?id=30878",
+    "discussion_url": "https://news.hada.io/topic?id=30878",
+    "summary": "미국 정부가 Anthropic의 강력한 Claude Mythos 5 차단을 풀면서, 100곳이 넘는 미국 기관·대기업·정부기관이 접근할 수 있게 됨\n2주 전 Mythos 수출통제와 Mythos·Fable 5 중단으로 커졌던 Trump 행정부와 Anthropic의 대립이 이번 조치로 완화됨\n상무장...",
+    "score": 0,
+    "published_at": "2026-06-27T07:34:59+00:00",
+    "ai_summary": "미국 정부가 Anthropic의 강력한 AI 모델인 Claude Mythos 5에 대한 접근 제한을 해제했습니다. 이로써 100곳 이상의 미국 기관, 대기업, 정부기관이 해당 모델을 사용할 수 있게 되었습니다. 이는 Anthropic과 정부 간의 대립 완화를 의미하며, 고성능 AI 모델의 상업적 및 전략적 활용에 영향을 미칠 것입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30873",
+    "title": "실패한 국가 배후 추정 공격 해부",
+    "url": "https://news.hada.io/topic?id=30873",
+    "discussion_url": "https://news.hada.io/topic?id=30873",
+    "summary": "캐나다의 한 개발자가 가짜 VC 인터뷰를 가장한 백도어 유도 공격을 받았고, 공격 흐름은 crates.io 패키지 관리자를 노린 것으로 의심될 만큼 개발자 업무에 맞춰져 있었음\n미끼 저장소는 “Ticket Harbor”라는 TypeScript 앱처럼 보였지만, patch-package와 t...",
+    "score": 0,
+    "published_at": "2026-06-27T02:03:59+00:00",
+    "ai_summary": "캐나다 개발자가 가짜 VC 인터뷰를 가장한 국가 배후 추정 백도어 공격을 받았습니다. 공격은 개발자 업무에 맞춰 crates.io 패키지 관리자를 노린 것으로 의심되며, 미끼 저장소는 TypeScript 앱으로 위장했습니다. 이는 개발 환경 및 공급망 보안의 중요성을 강조합니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30870",
+    "title": "&#039;기획 하네스(planning harness)&#039;로 완성하는 상세기획 워크플로우 자동화",
+    "url": "https://news.hada.io/topic?id=30870",
+    "discussion_url": "https://news.hada.io/topic?id=30870",
+    "summary": "기획자들이 AI를 활용할 때 상위기획은 잘 자동화하면서도 상세기획에서는 여전히 수작업으로 고생하는 문제를 다루고 있음.\n주변 개발자의 조언으로 '기획 하네스(Planning Harness)' 개념을 도입해 이를 해결한 사례 중심의 내용.\n기획 하네스(planning harness)란?\n. AI가 일관된 규칙과 컨텍스",
+    "score": 0,
+    "published_at": "2026-06-27T01:03:14+00:00",
+    "ai_summary": "기획자들이 AI를 활용하여 상위기획은 자동화하나, 상세기획에서 수작업으로 어려움을 겪는 문제를 다룹니다. '기획 하네스(Planning Harness)' 개념을 도입하여 AI가 일관된 규칙과 컨텍스트에 따라 상세기획을 자동화하는 워크플로우를 완성한 사례를 제시합니다. 이는 AI를 활용한 협업 및 생산성 향상에 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30869",
+    "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
+    "url": "https://news.hada.io/topic?id=30869",
+    "discussion_url": "https://news.hada.io/topic?id=30869",
+    "summary": "AI 기반 취약점 발견이 유지관리자의 대응 속도를 앞지르면서, Akrites는 핵심 오픈소스 소프트웨어를 공동으로 보강하기 위한 산업계 협력으로 출범함\n심각한 취약점 발견은 과거 전문가에게 몇 주 걸리던 작업이었지만, 이제는 AI 모델이 몇 분 만에 여러 취약점...",
+    "score": 0,
+    "published_at": "2026-06-27T01:03:05+00:00",
+    "ai_summary": "AI 기반 취약점 발견 속도가 유지보수자의 대응 속도를 앞지르면서, 오픈소스 보안에 대한 우려가 커지고 있습니다. Akrites는 핵심 오픈소스 소프트웨어를 공동으로 보강하기 위한 산업계 협력으로 출범했습니다. 과거 몇 주 걸리던 심각한 취약점 발견이 이제 AI로 몇 분 만에 가능해져, 공동 대응이 시급합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30867",
+    "title": "미국 정부가 GPT-5.6 사용자를 결정할 예정",
+    "url": "https://news.hada.io/topic?id=30867",
+    "discussion_url": "https://news.hada.io/topic?id=30867",
+    "summary": "트럼프 행정부가 최신 AI 기술에 접근하려는 기업을 정부가 직접 심사하는 정책을 확대하며, OpenAI와 Anthropic 양사 모두에 규제를 적용 중\nOpenAI는 최신 모델 Sol 출시와 함께 미국 정부 승인을 받은 기업만 접근할 수 있도록 했으며, 개인 사용자 접근 절차는...",
+    "score": 0,
+    "published_at": "2026-06-27T00:57:05+00:00",
+    "ai_summary": "미국 정부가 최신 AI 기술에 대한 접근 규제를 확대하며, OpenAI와 Anthropic 등 주요 AI 기업에 규제를 적용하고 있습니다.\nOpenAI는 최신 모델 Sol 출시와 함께 미국 정부 승인을 받은 기업만 접근할 수 있도록 제한하며, 이는 개발자들에게 중요한 정책 변화입니다.\n이러한 규제는 AI 모델의 활용 방식과 접근성에 직접적인 영향을 미쳐 개발 환경에 변화를 가져올 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30866",
+    "title": "GPT‑5.6 Sol 프리뷰: 차세대 모델",
+    "url": "https://news.hada.io/topic?id=30866",
+    "discussion_url": "https://news.hada.io/topic?id=30866",
+    "summary": "OpenAI가 GPT‑5.6 시리즈를 제한 프리뷰로 열며, 플래그십 Sol과 일상 업무용 Terra, 저비용 Luna를 함께 내놓음\nSol은 코딩·생물학·사이버보안에서 에이전트 능력을 강화했고, max reasoning effort와 ultra 모드로 더 깊은 추론과 서...",
+    "score": 0,
+    "published_at": "2026-06-27T00:54:05+00:00",
+    "ai_summary": "OpenAI가 차세대 GPT‑5.6 시리즈 모델인 플래그십 Sol, 일상 업무용 Terra, 저비용 Luna를 제한 프리뷰로 공개했습니다.\nSol은 코딩, 생물학, 사이버보안 분야에서 에이전트 능력을 강화했으며, 더 깊은 추론과 탐색을 위한 새로운 모드가 추가되었습니다.\n이는 LLM 기반 애플리케이션 개발자들에게 새로운 기능과 강력한 성능을 제공하여 개발 가능성을 확장할 중요한 발전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30865",
+    "title": "새로운 산업혁명의 잠금 해제",
+    "url": "https://news.hada.io/topic?id=30865",
+    "discussion_url": "https://news.hada.io/topic?id=30865",
+    "summary": "AI는 인간 수준 지능 도달과 그 이상을 목표로 하지만, 산업 인프라와 물리적 한계가 그 잠재력을 가둬두고 있음\n의미 있는 생활수준 변화에는 전력 + 지능 + 조정된 행동(coordinated action) 세 가지 요소의 결합이 필수\n미국은 지능은 갖췄으나",
+    "score": 0,
+    "published_at": "2026-06-27T00:38:02+00:00",
+    "ai_summary": "AI는 인간 수준 지능 이상을 목표로 하지만, 현재 산업 인프라와 물리적 한계가 그 잠재력을 가로막고 있다고 분석합니다.\n의미 있는 생활수준 변화를 위해서는 전력, 지능, 그리고 조율된 행동이라는 세 가지 요소의 결합이 필수적이라고 강조합니다.\n이 기사는 AI 기술의 장기적인 잠재력과 이를 실현하기 위한 거시적인 인프라 및 사회적 조건에 대해 논합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30864",
+    "title": "gofumpt- gofmt보다 더 엄격한 Go 코드 포매터",
+    "url": "https://news.hada.io/topic?id=30864",
+    "discussion_url": "https://news.hada.io/topic?id=30864",
+    "summary": "기존 gofmt와 하위 호환되면서 더 엄격한 규칙을 강제하는 포매터\ngofmt가 허용하는 포맷의 부분집합으로 드롭인 교체가 가능해, gofumpt 실행 후 gofmt를 돌려도 변경 사항 없음\ngofmt",
+    "score": 0,
+    "published_at": "2026-06-27T00:31:02+00:00",
+    "ai_summary": "`gofumpt`는 기존 `gofmt`와 하위 호환되면서도 Go 코드에 더 엄격한 포맷팅 규칙을 강제하는 유용한 도구입니다.\n이는 `gofmt`가 허용하는 포맷의 부분집합으로, 드롭인 교체가 가능하며 `gofumpt` 실행 후 `gofmt`를 돌려도 변경 사항이 없습니다.\nGo 개발자들의 코드 일관성을 높이고 가독성을 개선하는 데 직접적으로 기여하며 개발 워크플로우를 효율적으로 만듭니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48700834",
+    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+    "url": "https://ipcrawl.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48700834",
+    "summary": "",
+    "score": 202,
+    "published_at": "2026-06-27T19:09:49+00:00",
+    "ai_summary": "이 기사는 공개 인터넷에서 발견된 오픈 웹캠들의 \"살아있는 지도\"인 IP Crawl에 대한 내용으로 추정됩니다.\n이는 잠재적으로 수많은 네트워크 장비의 보안 취약점과 데이터 수집 문제를 드러낼 수 있는 중요한 이슈입니다.\n네트워크 보안, 데이터 프라이버시, IoT 관련 개발자들에게 중요한 시사점을 제공하며 보안 경각심을 높일 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48698617",
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "discussion_url": "https://news.ycombinator.com/item?id=48698617",
+    "summary": "",
+    "score": 618,
+    "published_at": "2026-06-27T14:31:00+00:00",
+    "ai_summary": "익명의 GitHub 계정이 공개되지 않은 다수의 제로데이 취약점(0-days)을 대량으로 공개하고 있다는 매우 심각한 보안 이슈입니다.\n이는 해당 취약점에 노출된 시스템에 즉각적인 위험을 초래하며, 신속한 대응과 패치가 필요함을 강력히 시사합니다.\n보안 엔지니어와 개발자들은 이러한 동향에 각별히 주의하고, 시스템의 보안 취약점을 점검하며 방어 전략을 강화해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48697560",
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48697560",
+    "summary": "",
+    "score": 551,
+    "published_at": "2026-06-27T12:10:27+00:00",
+    "ai_summary": "OpenRA는 Command & Conquer 등 고전 실시간 전략(RTS) 게임들을 현대적인 오픈 소스 엔진으로 재구현한 프로젝트입니다.\n이는 원작 게임의 팬들에게는 새로운 경험을 제공하며, 개발자들에게는 게임 엔진 구현 및 오픈 소스 프로젝트 기여 기회를 제공합니다.\n주로 게임 개발자, 오픈 소스 기여자, 그리고 C# 또는 MonoGame 개발자들에게 흥미로운 프로젝트가 될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48696585",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=48696585",
+    "summary": "",
+    "score": 714,
+    "published_at": "2026-06-27T09:18:52+00:00",
+    "ai_summary": "DSpark는 추측성 디코딩을 활용하여 LLM 추론 속도를 대폭 향상시키는 기술입니다.\n이를 통해 대규모 언어 모델의 처리 효율성을 높여 성능 개선에 기여합니다.\n개발자는 LLM 애플리케이션 최적화에 이 기술을 적용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48701936",
+    "title": "Enhancing X11 Application Security with LXC",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48701936",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-06-27T21:27:36+00:00",
+    "ai_summary": "이 기사는 LXC (Linux Containers)를 사용하여 X11 애플리케이션의 보안을 강화하는 방법을 설명합니다.\n컨테이너 기반 격리를 통해 X11 앱의 잠재적 취약점으로부터 시스템을 보호합니다.\n개발자와 DevOps 엔지니어에게 보안 컨테이너 활용법을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48702273",
+    "title": "Choosing a Public DNS Resolver",
+    "url": "https://evilbit.de/dns-resolver-guide.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48702273",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-06-27T22:11:28+00:00",
+    "ai_summary": "공개 DNS 리졸버를 선택하는 기준과 중요성을 다룹니다.\n성능, 보안 및 프라이버시 측면을 고려하여 최적의 DNS 서비스를 선택하는 방법을 안내합니다.\n네트워크 인프라를 이해하고 관리하는 개발자 및 시스템 관리자에게 유용한 정보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48660021",
+    "title": "AI learns the “dark art” of RFIC design",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=48660021",
+    "summary": "",
+    "score": 169,
+    "published_at": "2026-06-24T14:02:16+00:00",
+    "ai_summary": "인공지능이 복잡한 RFIC(무선 주파수 집적회로) 설계의 '어려운 기술'을 습득하는 내용을 다룹니다.\nAI가 고도로 전문화된 하드웨어 설계 분야에서 인간 전문가의 능력을 보조하거나 대체할 가능성을 보여줍니다.\nAI 연구자와 특정 하드웨어 관련 개발자에게 혁신적인 적용 사례를 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48696982",
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48696982",
+    "summary": "",
+    "score": 450,
+    "published_at": "2026-06-27T10:28:53+00:00",
+    "ai_summary": "핀테크 엔지니어링의 모범 사례와 주요 기술, 아키텍처 패턴을 담은 핸드북입니다.\n금융 기술 분야의 개발자들이 안전하고 효율적인 시스템을 구축하는 데 필요한 지식과 가이드라인을 제공합니다.\n핀테크 도메인에 특화된 개발 전문성을 높이는 데 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48699928",
+    "title": "Turn your site into a place people can bump into each other",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48699928",
+    "summary": "",
+    "score": 135,
+    "published_at": "2026-06-27T17:11:20+00:00",
+    "ai_summary": "웹사이트를 사람들이 서로 '우연히 마주칠' 수 있는 공간으로 만드는 아이디어를 제시합니다.\n실시간 상호작용 및 소셜 기능을 웹사이트에 통합하여 사용자 간의 연결을 강화하는 방안을 모색합니다.\n프런트엔드 및 백엔드 개발자들에게 새로운 형태의 웹 커뮤니티 구현을 위한 영감을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48702104",
+    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+    "url": "https://starglyphs.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48702104",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-06-27T21:50:32+00:00",
+    "ai_summary": "오일러 경로 기반의 별자리 퍼즐 게임 \"Starglyphs\"가 HN에 공개되었습니다.\n개발자가 직접 만든 이 게임은 알고리즘과 게임 개발의 교차점을 보여줍니다.\n흥미로운 프로그래밍 프로젝트이자 논리 퍼즐 구현의 좋은 예시입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48688438",
+    "title": "One man, two kernels, and a lot of RISC-V",
+    "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+    "discussion_url": "https://news.ycombinator.com/item?id=48688438",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-06-26T16:20:06+00:00",
+    "ai_summary": "한 개발자가 두 개의 커널과 RISC-V 아키텍처를 다루는 심층적인 기술 프로젝트에 대한 이야기입니다.\n이는 시스템 프로그래밍과 하드웨어-소프트웨어 인터페이스에 대한 깊은 이해를 보여줍니다.\n임베디드 시스템 및 OS 개발자에게 특히 흥미로운 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48698188",
+    "title": "Running a software jam in a world of slop",
+    "url": "https://foxmoss.com/blog/radish/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48698188",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-06-27T13:36:45+00:00",
+    "ai_summary": "품질이 저하된 소프트웨어 개발 환경 속에서 \"소프트웨어 잼\"을 운영하는 방법에 대한 기사입니다.\n이는 개발 효율성, 코드 품질 향상, 그리고 개발 프로세스 개선에 대한 통찰을 제공합니다.\n개발 문화와 생산성에 관심 있는 개발자에게 유용한 내용을 담고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48668747",
+    "title": "Linux on Older Hardware: The Complete Revival Guide",
+    "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48668747",
+    "summary": "",
+    "score": 199,
+    "published_at": "2026-06-25T04:06:29+00:00",
+    "ai_summary": "오래된 하드웨어에 리눅스를 설치하여 성능을 최적화하고 재활용하는 방법을 다룹니다.\n경량 데스크톱 환경, 스왑 파티션 관리, 시스템 서비스 최소화 등 구체적인 팁을 제공합니다.\n이를 통해 비용 절감 및 환경 보호에 기여하며, 리소스 제한 환경에서의 개발 효율성을 높일 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  }
+]
