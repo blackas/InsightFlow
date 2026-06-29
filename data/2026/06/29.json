@@ -1,0 +1,471 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30916",
+    "title": "Show GN: 아이디어부터 앱스토어까지 — Flutter/Flame 게임 출시 하네스 (Claude Code 플러그인)",
+    "url": "https://news.hada.io/topic?id=30916",
+    "discussion_url": "https://news.hada.io/topic?id=30916",
+    "summary": "Flutter/Flame 게임을 &quot;아이디어 → 기획 → 개발 → QA → 스토어 제출&quot;까지 끌고 가는 Claude Code 플러그인을 오픈소스로 공개합니다.\nFlame 게임을 직접 여러 개 만들어 스토어에 올리면서, 매번 반복하던 절차와 매번 다시 밟던 함정을 하네스로 코드화했습니다. &quot;바이브 코딩&quot;이 아",
+    "score": 0,
+    "published_at": "2026-06-29T00:08:25+00:00",
+    "ai_summary": "Flutter/Flame 게임 개발부터 앱스토어 출시까지 전 과정을 돕는 Claude Code 플러그인이 오픈소스로 공개되었습니다.\n개발자가 게임을 직접 만들며 반복했던 절차와 함정을 코드화한 '하네스'입니다.\n이는 개발 과정을 효율화하여 개발자들이 '바이브 코딩'에 집중할 수 있도록 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30915",
+    "title": "아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시",
+    "url": "https://news.hada.io/topic?id=30915",
+    "discussion_url": "https://news.hada.io/topic?id=30915",
+    "summary": "미국 정부의 Mythos·Fable 5 접근 제한이 길어지면서, 일본 Sakana AI와 중국 360이 각각 Fugu와 Tulongfeng/Yitianzhen으로 생긴 공백을 겨냥함\nSakana AI의 Fugu는 Fable 5·Mythos Preview와 경쟁 가능한 모델로 소개되며, 여러 모델 API를 조율하는 에이전트용 ...",
+    "score": 0,
+    "published_at": "2026-06-28T22:44:13+00:00",
+    "ai_summary": "미국 정부의 Mythos·Fable 5 접근 제한이 길어지면서 아시아 AI 스타트업들이 대체 모델을 출시했습니다.\n일본 Sakana AI의 Fugu와 중국 360의 Tulongfeng/Yitianzhen이 이 공백을 겨냥합니다.\nSakana AI의 Fugu는 특히 여러 모델 API를 조율하는 에이전트용 모델로 소개됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30902",
+    "title": "DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]",
+    "url": "https://news.hada.io/topic?id=30902",
+    "discussion_url": "https://news.hada.io/topic?id=30902",
+    "summary": "DSpark: 준자기회귀(semi-autoregressive) 생성과 신뢰도 스케줄링을 결합한 추측 디코딩(speculative decoding) 프레임워크\n병렬 드래프터(parallel drafter) 가 한 번의 순전파로 긴 토큰 블록을 제안하지만 토큰 간 의존성 부재로 후반부 수락률 급감(acceptance decay)...",
+    "score": 0,
+    "published_at": "2026-06-28T00:35:01+00:00",
+    "ai_summary": "DSpark는 준자기회귀 생성과 신뢰도 스케줄링을 결합한 LLM 추측 디코딩 프레임워크입니다.\n병렬 드래프터가 한 번에 긴 토큰 블록을 제안하지만, 토큰 간 의존성 부족으로 후반부 수락률이 급감하는 문제를 다룹니다.\n이는 LLM 추론 속도 가속화를 위한 기술적 개선 방안을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30901",
+    "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
+    "url": "https://news.hada.io/topic?id=30901",
+    "discussion_url": "https://news.hada.io/topic?id=30901",
+    "summary": "AI 네이티브 셀프 호스팅 프로젝트 관리 플랫폼으로, Jira/Trello/ClickUp/Monday의 무료 오픈소스 대체제\nAI 에이전트가 챗봇 애드온이 아니라 Scrum 팀의 동등한 팀원으로 참여\n\n스프린트에 배정되어 통합 Scrumban 보드에 인간과 함께...",
+    "score": 0,
+    "published_at": "2026-06-28T00:31:02+00:00",
+    "ai_summary": "Paca는 인간과 AI 에이전트의 협업을 위한 오픈소스, AI 네이티브 프로젝트 관리 플랫폼입니다.\nJira, Trello 등을 대체할 수 있으며, AI 에이전트가 단순한 챗봇이 아닌 Scrum 팀의 동등한 일원으로 참여합니다.\nAI 에이전트는 스프린트에 배정되어 통합 Scrumban 보드에서 인간과 함께 작업을 수행합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30900",
+    "title": "Go에서 과도한 nil 포인터 검사",
+    "url": "https://news.hada.io/topic?id=30900",
+    "discussion_url": "https://news.hada.io/topic?id=30900",
+    "summary": "Go의 nil 검사는 패닉을 막을 수 있지만, 반복되는 위치가 잘못되면 코드가 “무엇이 nil일 수 있는가”를 스스로 설명하지 못함\nRedis 클라이언트 같은 필수 의존성을 내부 메서드에서 검사하면, 생성 실패를 정상 실행 경로처럼 취급하게 됨\n생성자에서...",
+    "score": 0,
+    "published_at": "2026-06-28T00:18:07+00:00",
+    "ai_summary": "Go에서 과도한 nil 포인터 검사는 패닉을 막지만, 잘못된 위치에 반복되면 코드의 의미를 모호하게 합니다.\nRedis 클라이언트 같은 필수 의존성을 내부 메서드에서 검사하면 생성 실패를 정상 실행 경로처럼 취급하게 됩니다.\n생성자에서 초기 nil 검사를 수행하여 코드의 명확성과 안정성을 높일 것을 제안합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30899",
+    "title": "Reddit 안티스팸 내부를 엿보다",
+    "url": "https://news.hada.io/topic?id=30899",
+    "discussion_url": "https://news.hada.io/topic?id=30899",
+    "summary": "2021년 Reddit의 일시적 오류로 보이는 현상 때문에, Relay for reddit에서 평소 Removed: Auto로 숨겨지던 사이트 전체 스팸 제거 사유와 내부 판단 데이터가 노출됨\n공개 아카이브 코드상 제거 정보는 ban_info.banner를 거쳐 전달되며, Relay는 API의 ...",
+    "score": 0,
+    "published_at": "2026-06-28T00:15:07+00:00",
+    "ai_summary": "2021년 Reddit의 일시적 오류로 인해 안티스팸 시스템의 내부 데이터가 노출되는 사건이 있었습니다.\nRelay for reddit 앱을 통해 평소 숨겨지던 'Removed: Auto' 사유와 내부 판단 정보가 밝혀졌습니다.\n이는 Reddit의 대규모 스팸 방지 시스템 내부 작동 방식에 대한 단편적인 통찰을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=30898",
+    "title": "NLnet Labs의 LLM 사용 정책",
+    "url": "https://news.hada.io/topic?id=30898",
+    "discussion_url": "https://news.hada.io/topic?id=30898",
+    "summary": "NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 LLM 사용을 제한하며, 정책 위반 제출물은 사전 통지 없이 닫히거나 삭제될 수 있음\n코드와 문서 기여는 사람이 직접 작성해야 하며, LLM이나 다른 확률적 도구가 생성한 내용은 포함할 수 없음\n취약점·버...",
+    "score": 0,
+    "published_at": "2026-06-28T00:12:07+00:00",
+    "ai_summary": "NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 LLM 사용을 엄격히 제한하는 정책을 발표했습니다.\n코드와 문서 기여는 사람이 직접 작성해야 하며, LLM이 생성한 내용은 포함할 수 없습니다.\n정책 위반 제출물은 사전 통지 없이 닫히거나 삭제될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48709670",
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48709670",
+    "summary": "",
+    "score": 347,
+    "published_at": "2026-06-28T17:50:47+00:00",
+    "ai_summary": "GLM 5.2 모델이 벤치마크 테스트 결과 Claude 모델보다 우수한 성능을 보였습니다.\n이는 LLM 성능 비교에 있어 중요한 데이터로, 특정 사용 사례에서 GLM 5.2가 더 효율적인 대안이 될 수 있음을 시사합니다.\n개발자들이 애플리케이션에 적합한 LLM을 선택할 때 참고할 수 있는 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48712324",
+    "title": "Xonaly – Canada's Independent Search Engine",
+    "url": "https://xonaly.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48712324",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-06-28T22:20:56+00:00",
+    "ai_summary": "캐나다의 독립 검색 엔진 Xonaly는 사용자 프라이버시를 최우선으로, 추적 없는 검색 경험을 제공합니다.\n기존 거대 검색 엔진의 대안을 목표로 하며, 캐나다 내 정보를 중심으로 성장하고 있습니다.\n검색 기술 및 프라이버시에 관심 있는 백엔드/프론트엔드 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48712338",
+    "title": "A QNX-inspired operating system with selectable kernels",
+    "url": "https://qsoe.net",
+    "discussion_url": "https://news.ycombinator.com/item?id=48712338",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-06-28T22:21:51+00:00",
+    "ai_summary": "QNX에서 영감을 받은 새로운 운영체제가 선택 가능한 커널 아키텍처를 특징으로 개발 중입니다.\n이는 개발자가 특정 애플리케이션 요구사항에 맞춰 커널 기능을 유연하게 선택하고 최적화할 수 있게 합니다.\n시스템 프로그래밍, 임베디드, 실시간 OS 개발자에게 매우 유용하고 흥미로운 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48712420",
+    "title": "Knowledge Distillation of Black-Box Large Language Models",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "discussion_url": "https://news.ycombinator.com/item?id=48712420",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-06-28T22:32:04+00:00",
+    "ai_summary": "블랙박스 대규모 언어 모델(LLM)의 지식 증류(Knowledge Distillation)에 대한 연구입니다.\n큰 모델의 성능을 유지하면서 더 작고 효율적인 모델을 만드는 기술을 다룹니다.\nLLM 개발 및 최적화에 관심 있는 AI/ML 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48708991",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48708991",
+    "summary": "",
+    "score": 176,
+    "published_at": "2026-06-28T16:41:12+00:00",
+    "ai_summary": "브라운 대학에서 인공지능을 이용한 대규모 시험 부정행위가 적발되어 교수가 이를 비판한 사건입니다.\nAI, 특히 LLM의 확산이 교육 및 평가 시스템에 미치는 윤리적, 실질적 문제를 제기합니다.\nAI 기술의 사회적 영향과 책임감 있는 사용에 대해 고민하게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48708941",
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "discussion_url": "https://news.ycombinator.com/item?id=48708941",
+    "summary": "",
+    "score": 312,
+    "published_at": "2026-06-28T16:35:19+00:00",
+    "ai_summary": "사용자가 Claude Code를 활용하여 자신의 MRI 결과에 대한 두 번째 의견을 얻은 경험담입니다.\n이는 LLM이 복잡한 정보를 해석하고 실제 문제 해결에 어떻게 활용될 수 있는지 보여줍니다.\nAI 및 LLM 개발자들에게 실제 적용 사례와 잠재적 위험성에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48710775",
+    "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+    "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "discussion_url": "https://news.ycombinator.com/item?id=48710775",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-06-28T19:38:00+00:00",
+    "ai_summary": "ISC’26 행사에서 새로운 1위 슈퍼컴퓨터가 TOP500 목록에 올랐다는 소식입니다.\n이는 최첨단 고성능 컴퓨팅(HPC) 기술의 발전과 그 한계를 보여줍니다.\n대규모 병렬 처리 및 과학 컴퓨팅 개발자에게는 하드웨어와 시스템 아키텍처의 트렌드를 파악하는 데 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48710232",
+    "title": "Librepods: AirPods liberated",
+    "url": "https://github.com/librepods-org/librepods",
+    "discussion_url": "https://news.ycombinator.com/item?id=48710232",
+    "summary": "",
+    "score": 245,
+    "published_at": "2026-06-28T18:48:53+00:00",
+    "ai_summary": "Librepods는 애플 에어팟의 제한적인 환경에서 벗어나 사용자가 기기를 더 자유롭게 제어하도록 돕는 프로젝트입니다. 펌웨어 해킹이나 커스텀 솔루션을 통해 에어팟 기능을 확장하거나 다른 운영체제에서 활용하는 방안을 모색합니다. 이는 하드웨어 개방성과 사용자 주권에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48708182",
+    "title": "Show HN: Zanagrams",
+    "url": "https://zanagrams.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48708182",
+    "summary": "",
+    "score": 156,
+    "published_at": "2026-06-28T15:26:14+00:00",
+    "ai_summary": "Zanagrams는 사용자가 문자를 조합하여 다양한 단어를 찾아내는 아나그램 게임 또는 도구입니다. 이 프로젝트는 개발자가 직접 만들고 Hacker News에 선보인 것으로, 웹 개발 또는 알고리즘 구현 사례가 될 수 있습니다. 단어 퍼즐을 좋아하는 개발자나 프론트엔드/백엔드 기술에 관심 있는 이들에게 유용할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48709187",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48709187",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-06-28T16:58:59+00:00",
+    "ai_summary": "이 기사는 Lemote Yeeloong 노트북에 OpenBSD 운영체제를 설치하고 사용하는 과정을 다룹니다. 특히 오래된 하드웨어의 제한 사항과 호환성 문제를 해결하며 발생하는 어려움에 대한 경험담을 공유합니다. 시스템 레벨에서 하드웨어와 소프트웨어의 상호작용을 이해하고 트러블슈팅하는 개발자에게 유익합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48711403",
+    "title": "POSIX Is Not a Shell",
+    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48711403",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-06-28T20:39:50+00:00",
+    "ai_summary": "이 기사는 POSIX가 쉘 자체가 아니라, 쉘과 다른 시스템 구성 요소들이 따라야 할 표준 인터페이스 집합임을 명확히 합니다. 많은 개발자들이 POSIX와 쉘을 혼동하는 경우가 있는데, 이 글은 그 차이점을 설명하고 POSIX 표준의 중요성을 강조합니다. 유닉스 계열 시스템에서 스크립트 작성 및 시스템 프로그래밍을 하는 개발자에게 필수적인 지식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48710827",
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48710827",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-06-28T19:43:10+00:00",
+    "ai_summary": "Bash4LLM+는 LLM API를 Bash 스크립트에서 쉽고 가볍게 사용할 수 있도록 돕는 종속성 없는 래퍼입니다. 이 도구는 개발자들이 복잡한 설치 없이도 터미널에서 직접 LLM의 강력한 기능을 활용하게 해줍니다. AI/ML, 특히 LLM을 활용한 자동화나 스크립트 개발에 관심 있는 개발자들에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48708795",
+    "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+    "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+    "discussion_url": "https://news.ycombinator.com/item?id=48708795",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-06-28T16:24:10+00:00",
+    "ai_summary": "토큰 최적화 전략이 변화하고 있음을 시사하는 글입니다.\nLLM 시대에 토큰 관리의 중요성과 새로운 접근 방식이 논의될 것입니다.\n개발자들이 LLM 비용 및 성능 최적화에 참고할 만한 내용입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48710778",
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "discussion_url": "https://news.ycombinator.com/item?id=48710778",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-06-28T19:38:14+00:00",
+    "ai_summary": "GPT-2 규모의 언어 모델을 순수 C/CUDA로 바닥부터 구현한 프로젝트입니다.\nLLM의 내부 작동 방식과 저수준 최적화에 대한 깊은 이해를 제공합니다.\nAI/ML 및 시스템 프로그래밍에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48708700",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+    "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48708700",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-06-28T16:16:07+00:00",
+    "ai_summary": "우주왕복선의 I/O 프로세서 회로 기판을 분석하는 내용입니다.\n하드웨어 설계, 임베디드 시스템, 고신뢰 시스템에 대한 통찰을 제공합니다.\n저수준 컴퓨팅 및 시스템 엔지니어링에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48673450",
+    "title": "Model Training as Code",
+    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48673450",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-06-25T13:54:06+00:00",
+    "ai_summary": "모델 훈련 과정을 코드로 관리하는 접근 방식에 대해 다룹니다.\nMLOps, 재현 가능한 머신러닝, 훈련 파이프라인 버전 관리의 중요성을 강조합니다.\nAI/ML 개발자 및 MLOps 엔지니어에게 매우 유용한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48706714",
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "discussion_url": "https://news.ycombinator.com/item?id=48706714",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-06-28T12:27:33+00:00",
+    "ai_summary": "OpenAI Codex에서 민감한 파일을 제외하는 문제점이 아직 해결되지 않았음을 지적합니다.\nAI 코드 생성 도구 사용 시 보안 및 개인정보 보호에 대한 중요한 고려사항을 제시합니다.\nAI 도구를 사용하는 개발자 및 보안 전문가에게 필수적인 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48710082",
+    "title": "The cost YAGNI was never about",
+    "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+    "discussion_url": "https://news.ycombinator.com/item?id=48710082",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-06-28T18:31:54+00:00",
+    "ai_summary": "YAGNI(You Ain't Gonna Need It) 원칙의 본질적인 비용과 오해를 다룹니다.\n과도한 일반화나 불필요한 기능 추가를 피하는 중요성을 강조합니다.\n실제 개발 과정에서 YAGNI를 현명하게 적용하는 방법에 대해 논의합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48706814",
+    "title": "The curious case of the disappearing Polish S (2015)",
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48706814",
+    "summary": "",
+    "score": 200,
+    "published_at": "2026-06-28T12:44:24+00:00",
+    "ai_summary": "폴란드어 'ś' 문자가 소프트웨어 시스템에서 사라지거나 잘못 표시되는 문제를 탐구합니다.\n문자 인코딩, 폰트 렌더링, 국제화 처리의 복잡성을 다룹니다.\n다국어 환경에서 정확한 문자 표시를 위한 기술적 과제와 해결책을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48706560",
+    "title": "The KIDS Act would require age checks to get online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "discussion_url": "https://news.ycombinator.com/item?id=48706560",
+    "summary": "",
+    "score": 273,
+    "published_at": "2026-06-28T11:56:16+00:00",
+    "ai_summary": "온라인 접속에 연령 확인을 의무화하는 'KIDS Act' 법안을 다룹니다.\n법안이 통과될 경우 온라인 서비스 제공업체에 미칠 영향과 기술적 과제를 분석합니다.\n개인 정보 보호, 사용자 경험, 그리고 광범위한 연령 확인 시스템 구축의 복잡성을 논의합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  }
+]
