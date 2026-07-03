@@ -1,0 +1,811 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31053",
+    "title": "그래픽스 프로그래머가 되려면 무엇을 배워야 하는가",
+    "url": "https://news.hada.io/topic?id=31053",
+    "discussion_url": "https://news.hada.io/topic?id=31053",
+    "summary": "실시간 그래픽스 채용 역량은 CPU 측 명시적 그래픽스 API와 GPU 측 조명·셰이딩을 함께 요구하며, 두 영역을 동시에 깊게 익히기는 어려움\nCPU 측은 DirectX12, Vulkan, Metal 같은 현대적 API와 애셋 로딩·엔진 지원 작업을 다루고, GPU 측은 그림자, 앰비언트 오...",
+    "score": 0,
+    "published_at": "2026-07-02T17:46:46+00:00",
+    "ai_summary": "그래픽스 프로그래머는 CPU 측 현대 API(DirectX12, Vulkan 등)와 GPU 측 조명/셰이딩 기술을 모두 요구합니다.\n두 영역을 동시에 깊이 익히는 것은 어려우며, 채용 시 두 가지 능력이 모두 중요하게 다뤄집니다.\n애셋 로딩, 엔진 지원, 그림자, 앰비언트 오클루전 등 다양한 기술 학습이 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31051",
+    "title": "AI가 일자리보다 먼저 가져가는 것",
+    "url": "https://news.hada.io/topic?id=31051",
+    "discussion_url": "https://news.hada.io/topic?id=31051",
+    "summary": "AI 시대의 최대 수혜자를 자처하는 개발자가, AI와만 일한 지 1년이 넘은 시점에 느낀 위화감을 소설 《삼체》의 '지자(智子)' 비유로 풀어낸 에세이\n핵심 주장: AI는 일자리를 가져가기 한참 전에, 몰입·소유감·성장의 사다리 같은 &quot;일자리보다 먼저 없어지는 것들&quot;을 조용히 먼저...",
+    "score": 0,
+    "published_at": "2026-07-02T16:09:54+00:00",
+    "ai_summary": "이 에세이는 AI가 일자리를 없애기 전에, 개발자에게 몰입감, 소유감, 성장의 사다리 같은 \"일자리보다 먼저 없어지는 것들\"을 가져간다고 주장합니다.\nAI와 1년 이상 일한 개발자가 느낀 위화감을 소설 《삼체》의 '지자' 비유로 설명합니다.\n개발자로서의 경험과 동기 부여에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31049",
+    "title": "OpenAI, Codex 전용 미니 키보드 ‘Codex Micro’ 티저 공개",
+    "url": "https://news.hada.io/topic?id=31049",
+    "discussion_url": "https://news.hada.io/topic?id=31049",
+    "summary": "OpenAI가 Codex 사용자를 위한 전용 하드웨어 Codex Micro를 예고했습니다.\nOpenAI Developers 계정에 올라온 티저에는 “Your favorite Codex shortcuts are getting an upgrade”라는 문구와 함께 작은 매크로패드 형태의 장치가 등장했으며, 정식 공개일은 2026년 7월 15일",
+    "score": 0,
+    "published_at": "2026-07-02T16:02:31+00:00",
+    "ai_summary": "OpenAI가 Codex 사용자를 위한 전용 하드웨어 'Codex Micro'의 티저 이미지를 공개했습니다.\n이 미니 키보드는 \"가장 좋아하는 Codex 단축키를 업그레이드한다\"는 문구와 함께 매크로패드 형태로 등장했습니다.\n2026년 7월 15일에 정식 공개될 예정이며, 개발자 생산성 향상을 목표로 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31047",
+    "title": "ZCode: GLM-5.2용 공식 하네스",
+    "url": "https://news.hada.io/topic?id=31047",
+    "discussion_url": "https://news.hada.io/topic?id=31047",
+    "summary": "ZCode는 개발 도구와 AI 에이전트를 묶어 계획, 코딩, 리뷰, 배포를 한 흐름에서 처리하려는 GLM-5.2 공식 하네스임\nZCode 3.0은 GLM-5.2 최적화와 멀티 에이전트 협업 개선을 내세우며, 추론·코딩 작업 전반에서 GLM과의 통합을 강조함\n예시 작업은 브라...",
+    "score": 0,
+    "published_at": "2026-07-02T12:36:04+00:00",
+    "ai_summary": "ZCode는 GLM-5.2를 위한 공식 하네스로, 개발 도구와 AI 에이전트를 결합하여 계획, 코딩, 리뷰, 배포 과정을 통합합니다.\nZCode 3.0은 GLM-5.2 최적화 및 멀티 에이전트 협업 개선에 중점을 둡니다.\n추론 및 코딩 작업 전반에서 GLM과의 통합을 강조하며 개발 효율성을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31046",
+    "title": "Show GN: AI를 위한, 대한민국 대중교통 경로 &amp; 비용 탐색 CLI, MCP 서버",
+    "url": "https://news.hada.io/topic?id=31046",
+    "discussion_url": "https://news.hada.io/topic?id=31046",
+    "summary": "대중교통 경로 &amp; 비용을 알려주는 CLI 및 MCP 서버입니다\nhttps://github.com/GyeongHoKim/naeryeo\nhomebrew, scoop, npm으로 설치가 가능합니다.\n사용예시 다음과 같습니다.\n# API 키를 OS 키체인에 등록  \nnaeryeo setup  \n# 경로 출력  \nnaeryeo ro",
+    "score": 0,
+    "published_at": "2026-07-02T10:11:59+00:00",
+    "ai_summary": "'naeryeo'는 대한민국 대중교통의 경로와 비용을 탐색하는 CLI 및 MCP 서버입니다.\nhomebrew, scoop, npm을 통해 쉽게 설치할 수 있으며, API 키 등록 및 경로 출력 등 다양한 기능을 제공합니다.\nAI 관련 프로젝트나 데이터 분석에 활용될 수 있는 오픈소스 개발 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31041",
+    "title": "&quot;프론티어 AI가 의료 전문 툴 이겼다&quot;는 논문 재검증해보니 — 채점자간 일치도 0.10, 채점자가 곧 참가자",
+    "url": "https://news.hada.io/topic?id=31041",
+    "discussion_url": "https://news.hada.io/topic?id=31041",
+    "summary": "간략 요약\n\nNature Medicine에 2026년 6월 12일 게재된 논문 &quot;General-purpose large language models outperform specialized clinical AI tools on medical benchmarks&quot;에서 GPT-5.2, Gemini 3.1 Pro, Claude Opus 4.6 같은 범용 프론티어 모델이 OpenEvidence, UpToDate AI 같은 의료 전용...",
+    "score": 0,
+    "published_at": "2026-07-02T05:58:33+00:00",
+    "ai_summary": "Nature Medicine 논문 \"General-purpose large language models outperform specialized clinical AI tools on medical benchmarks\"의 재검증 결과가 나왔습니다.\nGPT-5.2, Gemini 3.1 Pro 등이 의료 전문 AI를 능가한다는 주장에 대해, 채점자 간 일치도가 0.10에 불과하고 채점자가 곧 참가자였다는 문제가 제기되었습니다.\nAI 모델 평가의 신뢰성과 방법에 대한 중요한 시사점을 던집니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31038",
+    "title": "Show GN: 내부 사용자용 페이지 배포 플랫폼",
+    "url": "https://news.hada.io/topic?id=31038",
+    "discussion_url": "https://news.hada.io/topic?id=31038",
+    "summary": "회사에서 일하다 보면 사내 유저들에게만 문서를 공유하고 싶은 경우가 꽤 자주 있습니다.\n백오피스용 API 문서라던가, 내부 데이터가 포함된 분석 리포트 같은건 외부인들에게 공개되기 찝찝하니까요.\n그럴 때마다 보안을 고민하게 됩니다.\n인증을 붙이자니 귀찮고, 인증을 붙이지 않는다면 사내망...",
+    "score": 0,
+    "published_at": "2026-07-02T04:19:41+00:00",
+    "ai_summary": "이 프로젝트는 사내 사용자에게만 문서나 리포트를 공유할 때 발생하는 보안 및 인증 문제를 해결하는 배포 플랫폼입니다.\n백오피스 API 문서나 내부 데이터 리포트 등 민감한 정보를 안전하게 공유할 수 있도록 돕습니다.\n복잡한 인증 절차 없이 내부 배포의 편리성과 보안성을 동시에 제공하는 것이 목표입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31037",
+    "title": "Box3D - 오픈소스 3D 물리 엔진 공개",
+    "url": "https://news.hada.io/topic?id=31037",
+    "discussion_url": "https://news.hada.io/topic?id=31037",
+    "summary": "게임 서버에서 대규모 3D 물리 시뮬레이션을 직접 제어해야 하는 요구가 커지면서, Box3D가 Box2D 계열의 오픈소스 3D 물리 엔진으로 공개됨\n구조는 Box2D와 가깝고 C API, C17 소스, 서브스테핑 솔버, 연속 충돌, 그래프 컬러링, wide SIMD 접촉 솔버, 멀티스레딩...",
+    "score": 0,
+    "published_at": "2026-07-02T03:36:23+00:00",
+    "ai_summary": "대규모 3D 물리 시뮬레이션 제어 요구 증가에 따라 Box3D가 오픈소스 3D 물리 엔진으로 공개되었습니다.\nBox2D 계열로, C API, C17 소스, 서브스테핑 솔버, 연속 충돌 등 다양한 기능을 제공합니다.\n게임 서버나 시뮬레이션 분야에서 활용될 수 있는 고성능 물리 엔진입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31036",
+    "title": "Show GN: Ship - 로컬 프로젝트를 내 도메인에 바로 띄우는 오픈소스 배포 도구",
+    "url": "https://news.hada.io/topic?id=31036",
+    "discussion_url": "https://news.hada.io/topic?id=31036",
+    "summary": "Ship은 로컬에 있는 작은 웹 서비스를 내 도메인에 바로 띄우기 위해 만들고 있는 오픈소스 배포 도구입니다.\n제가 원했던 흐름은 단순했습니다.\n\nSSR 서버 프로젝트를 하나 스캐폴딩합니다.\nDockerfile을 둡니다.\nship --service demo를 실행합니다.\n<c",
+    "score": 0,
+    "published_at": "2026-07-02T03:32:07+00:00",
+    "ai_summary": "Ship은 로컬 웹 서비스를 내 도메인에 즉시 배포하는 오픈소스 도구입니다.\nDockerfile 기반으로 SSR 서버 프로젝트를 쉽게 배포할 수 있도록 설계되었습니다.\n개발자가 단순하고 빠른 배포 흐름으로 생산성을 높일 수 있게 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31032",
+    "title": "Asahi Linux 7.1 진행 보고서",
+    "url": "https://news.hada.io/topic?id=31032",
+    "discussion_url": "https://news.hada.io/topic?id=31032",
+    "summary": "Linux 7.1 기준 Asahi Linux는 M3 지원 확대, macOS 27 베타 호환성, AVD 비디오 디코딩, m1n1 1.6.0 변화가 동시에 진행 중임\nmacOS 27 Golden Gate 개발자 베타에서는 Asahi 부팅 항목이 Startup Disk와 부트 피커에서 사라졌지만, 파티션과 데이터는 남아 있었고 APFS 부...",
+    "score": 0,
+    "published_at": "2026-07-02T01:16:42+00:00",
+    "ai_summary": "Asahi Linux 7.1은 M3 지원 확대와 macOS 27 베타 호환성을 개선합니다.\nAVD 비디오 디코딩 및 m1n1 1.6.0 업데이트가 동시에 진행 중입니다.\nmacOS 27 베타에서 부팅 항목 문제는 발생했으나 파티션은 안전했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31031",
+    "title": "Godot, AI 작성 코드 기여를 더 이상 받지 않기로 함",
+    "url": "https://news.hada.io/topic?id=31031",
+    "discussion_url": "https://news.hada.io/topic?id=31031",
+    "summary": "오픈소스 게임 엔진 Godot는 AI 생성 Pull Request가 리뷰 부담을 키우자, AI 작성 코드와 AI 에이전트 제출을 기여 정책에서 금지하기로 함\n유지보수자들은 AI 생성 PR 검토가 이미 지루한 리뷰 작업을 더 소모적으로 만들고, 새 기여자를 미래 유지보수자...",
+    "score": 0,
+    "published_at": "2026-07-02T01:13:42+00:00",
+    "ai_summary": "Godot 엔진은 AI 생성 Pull Request의 증가로 인한 리뷰 부담 때문에,\nAI 작성 코드와 AI 에이전트 제출을 기여 정책에서 금지하기로 결정했습니다.\n이는 유지보수자의 피로도를 줄이고 새 기여자 양성을 위한 조치입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31025",
+    "title": "supertree - 디시젼 트리 인터랙티브 시각화 도구",
+    "url": "https://news.hada.io/topic?id=31025",
+    "discussion_url": "https://news.hada.io/topic?id=31025",
+    "summary": "의사결정 트리를 Jupyter, JupyterLab, Google Colab 노트북 안에서 인터랙티브하게 시각화하는 Python 패키지\n노드 확대(Zoom)·이동(Pan)·접기(collapse) 와 샘플 경로 추적을 노트북 내부에서 바로 수행\nscikit-learn, XGBoost, LightGBM, ONNX...",
+    "score": 0,
+    "published_at": "2026-07-02T00:31:01+00:00",
+    "ai_summary": "supertree는 Jupyter 노트북에서 의사결정 트리를 인터랙티브하게 시각화하는 Python 패키지입니다.\n노드 확대·이동·접기 및 샘플 경로 추적 기능을 제공하여 모델 해석을 돕습니다.\nscikit-learn, XGBoost 등 주요 ML 라이브러리와 호환됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48767347",
+    "title": "Virginia bans sale of geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "discussion_url": "https://news.ycombinator.com/item?id=48767347",
+    "summary": "",
+    "score": 334,
+    "published_at": "2026-07-02T21:03:45+00:00",
+    "ai_summary": "버지니아주가 위치 정보 데이터 판매를 금지하는 법안을 통과시켰습니다.\n이는 사용자 개인 정보 보호를 강화하고 데이터 판매 관행을 규제하기 위함입니다.\n위치 정보를 다루는 개발 및 서비스에 중요한 영향을 미칠 것입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48768464",
+    "title": "crustc: entirety of `rustc`, translated to C",
+    "url": "https://github.com/FractalFir/crustc",
+    "discussion_url": "https://news.ycombinator.com/item?id=48768464",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-07-02T22:57:35+00:00",
+    "ai_summary": "'crustc'는 Rust 컴파일러(rustc) 전체를 C 언어로 번역한 프로젝트입니다.\n이는 Rust의 컴파일 원리를 탐구하거나 C 환경에서 Rust 활용을 목표로 합니다.\n시스템 프로그래밍 및 컴파일러 개발 분야에 큰 의미를 가질 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48763035",
+    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+    "discussion_url": "https://news.ycombinator.com/item?id=48763035",
+    "summary": "",
+    "score": 385,
+    "published_at": "2026-07-02T15:25:16+00:00",
+    "ai_summary": "Linux 6.9부터 LUKS 서스펜드 시 디스크 암호화 키가 메모리에서 지워지지 않게 되어 보안상 변경이 발생했습니다.\n이는 잠재적인 보안 위험을 내포하므로, 시스템 관리자와 보안 개발자는 이를 인지해야 합니다.\n이로 인해 특정 공격 시나리오에서 데이터 보호에 영향을 줄 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48762098",
+    "title": "Podman v6.0.0",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48762098",
+    "summary": "",
+    "score": 363,
+    "published_at": "2026-07-02T14:23:09+00:00",
+    "ai_summary": "컨테이너 런타임 및 관리 도구인 Podman의 v6.0.0이 정식 출시되었습니다.\n이 버전은 컨테이너 개발 및 배포를 위한 여러 새로운 기능과 중요한 개선 사항을 포함합니다.\nDocker 대안으로 주목받는 Podman 사용자들에게 중요한 업데이트입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48759634",
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "discussion_url": "https://news.ycombinator.com/item?id=48759634",
+    "summary": "",
+    "score": 489,
+    "published_at": "2026-07-02T11:17:45+00:00",
+    "ai_summary": "PeerTube는 무료이며 분산형 및 연합형으로 운영되는 비디오 플랫폼입니다.\n중앙 집중식 서비스의 대안으로, 사용자가 독립적인 인스턴스를 운영하고 상호 연결할 수 있도록 지원합니다.\n웹 및 분산 시스템 개발자에게 새로운 플랫폼 아키텍처를 탐색하는 데 흥미로울 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48765607",
+    "title": "This is my attempt to get Vulkan going on NetBSD",
+    "url": "https://github.com/segaboy/vulkan-netbsd",
+    "discussion_url": "https://news.ycombinator.com/item?id=48765607",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-07-02T18:36:09+00:00",
+    "ai_summary": "NetBSD 운영체제에서 Vulkan 그래픽 API를 구동하려는 개인적인 시도와 과정에 대한 글입니다.\n이는 저수준 시스템 프로그래밍, 그래픽 드라이버 개발, 그리고 운영체제 포팅과 관련된 기술적 도전 과제를 다룹니다.\n시스템 및 그래픽 프로그래머에게 깊은 통찰력을 제공할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48765639",
+    "title": "Postgres transactions are a distributed systems superpower",
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "discussion_url": "https://news.ycombinator.com/item?id=48765639",
+    "summary": "",
+    "score": 94,
+    "published_at": "2026-07-02T18:38:32+00:00",
+    "ai_summary": "PostgreSQL의 트랜잭션 기능이 분산 시스템에서 강력한 역할을 하는 방법을 설명합니다.\n이는 데이터 일관성과 내구성을 보장하는 핵심 메커니즘을 강조하며, 분산 환경에서의 데이터 관리 전략에 대한 통찰을 제공합니다.\n백엔드 및 데이터베이스 엔지니어에게 중요한 지식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48766598",
+    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+    "url": "http://www.lmdb.tech/doc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48766598",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-07-02T20:01:20+00:00",
+    "ai_summary": "고성능 임베디드 데이터베이스인 LMDB(Lightning Memory-Mapped Database Manager)가 버전 1.0으로 정식 출시되었습니다.\n메모리 맵 파일을 활용하여 뛰어난 읽기/쓰기 성능을 제공하며, 작고 빠른 데이터 스토리지가 필요한 애플리케이션에 적합합니다.\n저수준 데이터베이스 활용 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48761118",
+    "title": "How to ask for help from people who don't know you",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48761118",
+    "summary": "",
+    "score": 371,
+    "published_at": "2026-07-02T13:19:22+00:00",
+    "ai_summary": "모르는 사람에게 도움을 요청하는 효과적인 방법을 다룹니다.\n네트워킹 및 멘토링 관계 구축에 유용한 전략을 제공합니다.\n개발자의 커뮤니케이션 능력 향상에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48763291",
+    "title": "Flexible metaprogramming with Rhombus",
+    "url": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48763291",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-07-02T15:43:39+00:00",
+    "ai_summary": "새로운 프로그래밍 언어 Rhombus를 이용한 유연한 메타프로그래밍 기법을 소개합니다.\n코드 생성 및 변환을 통해 개발 생산성을 높이는 방법을 탐구합니다.\n언어 설계 및 고급 프로그래밍 기술에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48763222",
+    "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
+    "url": "https://kendal.codeberg.page/inkwell/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48763222",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-07-02T15:38:19+00:00",
+    "ai_summary": "전자잉크 기기 전용 RSS 리더인 Inkwell 프로젝트를 선보입니다.\n독서 경험 향상을 위한 사용자 인터페이스 및 기능을 제공합니다.\n특정 하드웨어에 최적화된 앱 개발 사례를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48750402",
+    "title": "Show HN: Pieces – Social network for people",
+    "url": "https://try.piecesof.me/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48750402",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-07-01T17:30:56+00:00",
+    "ai_summary": "사람들을 위한 소셜 네트워크 서비스인 Pieces 프로젝트를 소개합니다.\n사용자 간 소통 및 관계 형성을 위한 기능을 제공합니다.\n웹 서비스 개발 전반에 대한 인사이트를 얻을 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48762372",
+    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+    "url": "https://apple.github.io/foundationdb/flow.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48762372",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-07-02T14:41:56+00:00",
+    "ai_summary": "FoundationDB의 Flow 라이브러리를 통해 C++11에 액터 기반 동시성을 도입합니다.\n고성능 분산 시스템 개발을 위한 새로운 접근 방식을 제시합니다.\n시스템 프로그래밍 및 고급 C++ 기술에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48739459",
+    "title": "Superpowers 6",
+    "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48739459",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-06-30T21:28:32+00:00",
+    "ai_summary": "게임 개발 도구 'Superpowers'의 여섯 번째 버전을 소개합니다.\n새로운 기능과 개선 사항을 통해 개발 효율성을 높입니다.\n인디 게임 개발자 및 2D/3D 게임 제작에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48766286",
+    "title": "Great Salt Lake Tracker – Grow the Flow",
+    "url": "https://growtheflowutah.org/laketracker/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48766286",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-07-02T19:33:55+00:00",
+    "ai_summary": "그레이트 솔트 레이크의 수위를 추적하고 관리하는 프로젝트를 소개합니다.\n환경 데이터 수집 및 시각화를 위한 기술적 접근 방식을 다룹니다.\n데이터 기반 환경 문제 해결에 관심 있는 이들에게 참고가 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48763462",
+    "title": "Show HN: ctx – Search the coding agent history already on your machine",
+    "url": "https://github.com/ctxrs/ctx",
+    "discussion_url": "https://news.ycombinator.com/item?id=48763462",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-07-02T15:58:32+00:00",
+    "ai_summary": "코딩 에이전트의 로컬 기록을 검색하는 도구 'ctx'를 선보입니다.\n개발자의 과거 작업 컨텍스트를 빠르게 찾아 생산성을 높입니다.\nAI 기반 개발 도구 활용 및 효율성 증대에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48766026",
+    "title": "The short leash AI coding method for beating Fable",
+    "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48766026",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-07-02T19:11:57+00:00",
+    "ai_summary": "짧은 고삐 AI 코딩 방식은 특정 문제를 해결하기 위해 AI를 활용하는 새로운 코딩 방법론을 제안합니다.\n개발자가 AI의 생성 능력을 엄격하게 제어하여 원하는 결과물을 효율적으로 얻도록 돕습니다.\n이는 AI 코딩의 정확성과 효율성을 높이는 데 기여할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48766005",
+    "title": "Claude-real-video － any LLM can watch a video",
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "discussion_url": "https://news.ycombinator.com/item?id=48766005",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-07-02T19:10:12+00:00",
+    "ai_summary": "'Claude-real-video'는 모든 LLM이 비디오 콘텐츠를 이해하고 처리할 수 있게 하는 기술을 소개합니다.\n이는 LLM의 멀티모달 능력을 확장하여 텍스트뿐 아니라 시각 정보까지 분석 가능하게 합니다.\n다양한 애플리케이션에서 LLM 활용 범위를 넓힐 잠재력이 큽니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48765830",
+    "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+    "url": "https://openjdk.org/jeps/539",
+    "discussion_url": "https://news.ycombinator.com/item?id=48765830",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-07-02T18:56:33+00:00",
+    "ai_summary": "JEP 539는 JVM에서 엄격한 필드 초기화 기능을 미리보기 상태로 도입하는 내용을 다룹니다.\n이는 Java 개발자가 객체의 필드를 보다 명확하고 안전하게 초기화하도록 강제하여 잠재적 버그를 줄입니다.\n코드의 안정성과 예측 가능성을 높이는 데 기여할 중요한 언어/플랫폼 변경입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48761944",
+    "title": "Immich 3.0",
+    "url": "https://github.com/immich-app/immich/discussions/29439",
+    "discussion_url": "https://news.ycombinator.com/item?id=48761944",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-07-02T14:13:26+00:00",
+    "ai_summary": "Immich 3.0은 인기 있는 오픈소스 자가 호스팅 사진 및 비디오 관리 솔루션의 주요 업데이트입니다.\n사용자 인터페이스 개선, 성능 향상 및 새로운 기능을 통해 Google 포토와 같은 중앙화된 서비스의 대안을 제공합니다.\n개발자나 프라이버시를 중시하는 사용자들에게 매력적인 옵션을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48726792",
+    "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+    "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48726792",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-06-29T23:45:38+00:00",
+    "ai_summary": "Memora는 추상화와 구체성 사이의 균형을 맞추는 조화로운 메모리 표현 방식을 제안합니다.\n이는 복잡한 데이터와 정보를 효율적으로 저장하고 검색하기 위한 새로운 접근 방식을 탐구합니다.\n특히 AI 시스템의 장기 기억 또는 복잡한 데이터 구조 관리에 중요한 의미를 가질 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48762862",
+    "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+    "url": "https://manufact.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48762862",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-07-02T15:11:20+00:00",
+    "ai_summary": "Manufact(YC S25)가 MCP Cloud라는 새로운 서비스를 출시하며 Hacker News에 공개되었습니다.\n이 스타트업은 멀티 클라우드 관리 또는 특정 클라우드 솔루션을 제공하는 것으로 예상됩니다.\n개발자들이 새로운 클라우드 도구를 탐색하거나 스타트업 동향을 파악하는 데 흥미로울 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48752948",
+    "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+    "url": "https://github.com/clidey/deptrust",
+    "discussion_url": "https://news.ycombinator.com/item?id=48752948",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-07-01T20:51:47+00:00",
+    "ai_summary": "AI 에이전트 개발자들이 취약한 의존성을 피하도록 돕는 커맨드 라인 인터페이스(CLI) 도구입니다.\n이 도구는 AI 시스템의 공급망 보안을 강화하고 잠재적인 위험을 사전에 방지합니다.\n개발자들이 보다 안전하고 안정적인 AI 애플리케이션을 구축하도록 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/",
+    "title": "Google might be testing Gemini Flash upgrade on LM Arena (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/",
+    "discussion_url": "https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/",
+    "summary": "Google is testing a new Gemini Flash upgrade on LM Arena, reportedly offering incremental improvements over the current Flash version. Despite no official confirmation, past Arena tests have often preceded public launches, drawing attention to potential new labels like \"Gemini 3.6 Flash\" or \"Gemini 4 Flash.\" The Flash tier attracts interest due to its importance for everyday users and cost-conscious developers, handling most free and pay-as-you-go traffic faster than pricier Pro models.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "Google이 LM Arena에서 Gemini Flash 업그레이드를 테스트 중이며, 기존 Flash보다 개선될 예정입니다. 이 Flash 티어는 일상 사용자 및 비용에 민감한 개발자에게 중요하며, 더 빠르고 저렴하게 AI 모델을 활용할 수 있도록 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MTY0NiwiZXhwIjoxNzgzNTc2NDQ2LCJhcnRpY2xlSWQiOiJUSEVOTzNUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.JdV2iInClRiKWZeNwiRnBwLP9ejcOSYmI1fPZwd0AuA",
+    "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power (3 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MTY0NiwiZXhwIjoxNzgzNTc2NDQ2LCJhcnRpY2xlSWQiOiJUSEVOTzNUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.JdV2iInClRiKWZeNwiRnBwLP9ejcOSYmI1fPZwd0AuA",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MTY0NiwiZXhwIjoxNzgzNTc2NDQ2LCJhcnRpY2xlSWQiOiJUSEVOTzNUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.JdV2iInClRiKWZeNwiRnBwLP9ejcOSYmI1fPZwd0AuA",
+    "summary": "Meta Platforms is developing an internal cloud infrastructure initiative to sell access to its surplus AI computing power and hosted models to external developers. This strategic pivot aims to generate a new revenue stream from the company's massive multi-billion-dollar investments in data centers and chips, directly challenging dominant hyperscalers like Amazon Web Services, Microsoft Azure, and Google Cloud.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "Meta가 자체 AI 컴퓨팅 파워와 호스팅 모델을 외부 개발자에게 판매하는 클라우드 사업을 추진 중입니다. 이는 Meta의 대규모 AI 인프라 투자에서 새로운 수익원을 창출하고, Amazon AWS, Microsoft Azure, Google Cloud와 같은 기존 클라우드 기업들과 경쟁하게 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/autoresearch-introspection",
+    "title": "Autoresearch: The feedback loop behind self-improving agents (11 minute read)",
+    "url": "https://www.latent.space/p/autoresearch-introspection",
+    "discussion_url": "https://www.latent.space/p/autoresearch-introspection",
+    "summary": "Autoresearch involves building an 'outer loop' where agents help maintain and improve the primary system using feedback signals, evals, and human input to make progress over time. One of the startups building infrastructure for these self-improving systems is Introspection. This post features an interview with Introspection's co-founder and CEO, Roland Gavrilescu. The discussion covers the shift from agent harnesses to feedback loops, the role of the open-source Pi framework, and why autonomous ",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "Autoresearch는 에이전트가 피드백 루프를 통해 시스템을 유지하고 개선하는 '외부 루프'를 구축하는 개념입니다. 스타트업 Introspection은 이러한 자가 개선 시스템을 위한 인프라를 구축 중이며, 에이전트 하네스에서 피드백 루프로의 전환이 중요하게 다루어집니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/sethkarten/status/2072034978112889328",
+    "title": "Continual Harness: An Efficient Self-Improving Agent on ARC-AGI-3 (3 minute read)",
+    "url": "https://x.com/sethkarten/status/2072034978112889328",
+    "discussion_url": "https://x.com/sethkarten/status/2072034978112889328",
+    "summary": "The ARC-AGI-3 benchmark tests agents' ability to form and update an internal world model through ongoing learning. Continual Harness aims to efficiently enhance agents' self-improvement capabilities on this challenging IQ test.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "ARC-AGI-3 벤치마크는 에이전트가 지속적인 학습을 통해 내부 세계 모델을 형성하고 업데이트하는 능력을 테스트합니다. Continual Harness는 이 어려운 IQ 테스트에서 에이전트의 자가 개선 능력을 효율적으로 향상시키는 것을 목표로 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/Zai_org/status/2072349453361557898",
+    "title": "ZCode (1 minute read)",
+    "url": "https://x.com/Zai_org/status/2072349453361557898",
+    "discussion_url": "https://x.com/Zai_org/status/2072349453361557898",
+    "summary": "ZCode is now available on macOS, Windows, and Linux. It combines the best AI agents with existing tools so developers can plan, code, review, and deploy without friction. GLM-5.2 is tuned for ZCode, making agentic coding faster and steadier. GLM Coding Plan subscribers now have 1.5x usage quota in ZCode.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "ZCode는 macOS, Windows, Linux에서 사용 가능한 새로운 개발 도구입니다. 최고의 AI 에이전트를 기존 도구와 결합하여 개발자가 계획, 코딩, 검토, 배포를 마찰 없이 수행할 수 있도록 지원하며, GLM-5.2는 ZCode에 최적화되어 에이전트 코딩을 빠르고 안정적으로 만듭니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/",
+    "title": "Learning to Replicate Expert Judgment in Financial Tasks (14 minute read)",
+    "url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/",
+    "discussion_url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/",
+    "summary": "Frontier models struggle with relatively simple financial tasks. Custom models fine-tuned on high-quality proprietary datasets labeled by expert investors perform better. They are also substantially cheaper. Models of the future will probably feature differentiated intelligence - organizations will have custom models tuned to their specific needs that outperform frontier models.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "프론티어 모델은 간단한 금융 작업에도 어려움을 겪는 반면, 전문 투자자가 라벨링한 고품질 데이터셋으로 미세 조정된 맞춤형 모델이 더 우수한 성능을 보이고 비용도 저렴합니다. 미래에는 조직의 특정 요구에 맞춰진 맞춤형 AI 모델이 중요해질 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/RampLabs/status/2072381992285647280",
+    "title": "PorTAL: Portable Task Adapters for LLMs (3 minute read)",
+    "url": "https://x.com/RampLabs/status/2072381992285647280",
+    "discussion_url": "https://x.com/RampLabs/status/2072381992285647280",
+    "summary": "PorTAL is an innovative architecture designed to decouple task fine-tuning from specific base model weights. As the accelerating cadence of foundation model releases creates a compounding financial and engineering burden to re-tune capabilities from scratch, PorTAL offers a way to pay for task adaptation once and amortize it across all future models.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "PorTAL은 LLM의 태스크 미세 조정을 특정 기본 모델 가중치와 분리하는 혁신적인 아키텍처입니다. 이는 파운데이션 모델의 잦은 업데이트로 인한 재조정 부담을 줄여, 한 번의 태스크 적응 비용으로 미래의 모든 모델에 적용할 수 있도록 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ramp.com/data/ai-jobs-impact",
+    "title": "A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment (4 minute read)",
+    "url": "https://ramp.com/data/ai-jobs-impact",
+    "discussion_url": "https://ramp.com/data/ai-jobs-impact",
+    "summary": "A joint study by Ramp and Revelio Labs analyzed the relationship between firm-level generative AI investments and employment outcomes across over 21,000 companies in the US. The research reveals that companies with high-intensity AI spending grew their overall headcount by 10.2 percent and entry-level positions by 12 percent over the two years following adoption.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "AI 투자 확대 기업들은 전체 인력 및 신입 채용을 늘려, 생성형 AI 투자가 고용 성장에 긍정적인 영향을 미친 것으로 나타났다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/redeploying-fable-5",
+    "title": "Redeploying Fable 5 (18 minute read)",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "discussion_url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "summary": "Claude Fable 5 and Mythos 5 have been redeployed. Fable 5 will be included for up to 50% of weekly usage limits until July 7, after which it will be available via usage credits. Mythos 5 has been restored for some organizations in the US. Anthropic is continuing to coordinate with the US government to expand Mythos access to the broader set of domestic and international partners in the Glasswing program.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "Claude Fable 5와 Mythos 5 모델이 재배포되었으며, Fable 5는 7월 7일까지 주간 사용량 제한이 있고 Mythos 5는 미국 내 일부 기관에 복원되었다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/scottastevenson/status/2072336746327458178",
+    "title": "Product Shape is the Moat (3 minute read)",
+    "url": "https://x.com/scottastevenson/status/2072336746327458178",
+    "discussion_url": "https://x.com/scottastevenson/status/2072336746327458178",
+    "summary": "Application layer AI companies cannot build sustainable moats against model providers through simple technical adjustments like fine tuning or model routing.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "애플리케이션 계층 AI 기업은 단순한 파인튜닝이나 모델 라우팅만으로는 모델 제공업체에 대한 지속 가능한 해자를 구축할 수 없으므로, AI 제품 개발 시 차별화된 제품 전략이 중요하다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users (17 minute read)",
+    "url": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "discussion_url": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "summary": "This article looks at how OpenAI uses WebRTC to run voice for its 900 million users.",
+    "score": 0,
+    "published_at": "2026-07-03T00:06:04+00:00",
+    "ai_summary": "OpenAI는 9억 명 사용자에게 저지연 음성 AI를 제공하기 위해 WebRTC를 활용하며, 이는 대규모 음성 AI 서비스 구현 기술에 대한 중요한 인사이트를 제공한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  }
+]
