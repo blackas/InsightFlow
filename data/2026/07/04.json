@@ -1,0 +1,283 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "48775921",
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "url": "https://github.com/jamesob/local-llm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48775921",
+    "summary": "",
+    "score": 256,
+    "published_at": "2026-07-03T15:03:43+00:00",
+    "ai_summary": "최신 SOTA LLM을 로컬 환경에서 효율적으로 실행하는 방법을 안내하는 가이드입니다.\n하드웨어 요구사항, 소프트웨어 설정, 최적화 팁 등 실용적인 정보를 제공합니다.\n개발자들이 개인 장비에서 LLM을 실험하고 배포하는 데 도움을 줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48780417",
+    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "discussion_url": "https://news.ycombinator.com/item?id=48780417",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-07-03T21:49:06+00:00",
+    "ai_summary": "GLM5.2 모델이 AMD MI355X 하드웨어에서 노드당 2626 토큰/초의 성능을 달성했습니다.\n이는 엔비디아 블랙웰 대비 2배 이상 낮은 비용으로 유사하거나 더 나은 성능을 제공합니다.\n고성능 AI 모델 배포 및 비용 최적화에 관심 있는 개발자에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48744546",
+    "title": "We put a Redis server inside our runtime",
+    "url": "https://encore.dev/blog/redis-runtime",
+    "discussion_url": "https://news.ycombinator.com/item?id=48744546",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-07-01T10:11:12+00:00",
+    "ai_summary": "애플리케이션 런타임 내부에 Redis 서버를 통합한 경험과 그 이유를 설명합니다.\n데이터 스토리지 접근 방식의 혁신과 성능 최적화에 대한 내용을 다룹니다.\n백엔드 개발자 및 시스템 아키텍트에게 새로운 아키텍처 패턴을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48778757",
+    "title": "FreeBSD ate my RAM",
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48778757",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-07-03T19:08:31+00:00",
+    "ai_summary": "FreeBSD 운영체제에서 예상치 못하게 메모리 사용량이 높아지는 문제에 대한 분석입니다.\n메모리 관리 메커니즘과 잠재적인 \"메모리 누수\" 또는 오해에 대해 탐구합니다.\n시스템 관리자, DevOps 엔지니어 및 OS 레벨 개발자에게 유용한 디버깅 정보입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48780056",
+    "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+    "url": "https://epoch.ai/data-insights/cve-severity-spike",
+    "discussion_url": "https://news.ycombinator.com/item?id=48780056",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-07-03T21:16:16+00:00",
+    "ai_summary": "클로드 마이소스 프리뷰 출시 시점에 새로운 심각한 보안 취약점들이 급증했다는 보고입니다.\nAI 모델 및 서비스와 관련된 잠재적 보안 위협과 공격 벡터를 조명합니다.\n보안 전문가, AI 개발자 및 서비스 운영자에게 경각심을 주고 대비를 촉구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48776035",
+    "title": "Factories are just rooms",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "discussion_url": "https://news.ycombinator.com/item?id=48776035",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-07-03T15:13:43+00:00",
+    "ai_summary": "소프트웨어 아키텍처나 시스템 디자인에 대한 추상적인 관점을 제시합니다.\n복잡한 시스템을 단순한 구성 요소로 이해하는 새로운 시각을 제공합니다.\n개발자가 시스템 본질을 파악하고 설계하는 데 도움을 줄 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48780224",
+    "title": "Software, from First Principles",
+    "url": "https://fazamhd.com/mental-models/software/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48780224",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-07-03T21:28:55+00:00",
+    "ai_summary": "소프트웨어 개발의 근본 원리와 핵심적인 사상에 대해 심도 깊게 탐구합니다.\n복잡한 시스템을 구축하는 데 필요한 기본적인 개념과 접근 방식을 제시합니다.\n개발자들이 더 견고하고 효율적인 소프트웨어를 설계하는 데 영감을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48730953",
+    "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+    "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+    "discussion_url": "https://news.ycombinator.com/item?id=48730953",
+    "summary": "",
+    "score": 162,
+    "published_at": "2026-06-30T11:07:38+00:00",
+    "ai_summary": "16년간 숨겨져 있던 SQLite WAL(Write-Ahead Logging) 버그를 추적하고 해결한 과정을 다룹니다.\nTLA+와 같은 형식 검증 도구를 활용하여 복잡한 동시성 문제를 분석하는 방법을 보여줍니다.\n데이터베이스 내부 동작 및 고급 디버깅 기술에 대한 귀중한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48780812",
+    "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+    "url": "https://gitfut.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48780812",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-07-03T22:34:16+00:00",
+    "ai_summary": "GitHub 활동 통계를 월드컵 선수 카드처럼 시각화하여 보여주는 GitFut 도구를 소개합니다.\n개발자들이 자신의 기여도와 프로필을 재미있게 확인하고 공유할 수 있게 돕습니다.\n개인의 개발 활동을 매력적으로 표현하는 새로운 방식을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48777144",
+    "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+    "url": "https://github.com/kerlenton/mcpsnoop",
+    "discussion_url": "https://news.ycombinator.com/item?id=48777144",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-07-03T16:53:50+00:00",
+    "ai_summary": "MCP 트래픽을 모니터링하고 분석하는 Wireshark 유사 도구인 Mcpsnoop을 소개합니다.\n투명 프록시 기능과 실시간 TUI(Text User Interface)를 통해 네트워크 활동을 심층적으로 파악합니다.\n시스템 및 네트워크 문제 해결에 매우 유용한 전문 진단 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48772573",
+    "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+    "url": "https://wordgard.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48772573",
+    "summary": "",
+    "score": 255,
+    "published_at": "2026-07-03T08:50:47+00:00",
+    "ai_summary": "ProseMirror 개발자가 새로 선보인 브라우저 기반의 강력한 리치 텍스트 에디터, Wordgard를 소개합니다.\n뛰어난 성능과 유연성을 바탕으로 웹 애플리케이션의 텍스트 편집 기능을 혁신합니다.\n프런트엔드 개발자들에게 고품질 에디터 솔루션의 새로운 대안을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48774509",
+    "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "discussion_url": "https://news.ycombinator.com/item?id=48774509",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-07-03T13:00:31+00:00",
+    "ai_summary": "PostgreSQL과 Linux OOM killer의 복잡한 상호작용 및 메모리 관리 전략을 분석합니다.\n데이터베이스의 안정성과 성능을 위해 엄격한 메모리 오버커밋 설정을 사용하는 이유를 설명합니다.\n시스템 엔지니어와 DBA에게 필수적인 데이터베이스 서버 운영 지침을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48777728",
+    "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+    "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+    "discussion_url": "https://news.ycombinator.com/item?id=48777728",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-07-03T17:46:10+00:00",
+    "ai_summary": "프레젠테이션 중 ChatGPT 사용이 금지되어 차별을 느꼈다는 주장을 다룹니다.\nAI 도구 활용의 윤리적 문제와 공정성에 대한 논의를 제기합니다.\n개발 현장에서 AI 사용 정책의 중요성을 시사하는 기사입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48699010",
+    "title": "A peek into Reddit's anti-spam internals",
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48699010",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-06-27T15:18:03+00:00",
+    "ai_summary": "레딧의 스팸 방지 시스템 내부 작동 방식을 자세히 살펴봅니다.\n대규모 서비스에서 스팸을 감지하고 차단하는 기술적 접근법을 설명합니다.\n백엔드 개발, 시스템 설계 및 보안에 대한 통찰력을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48774518",
+    "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+    "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48774518",
+    "summary": "",
+    "score": 525,
+    "published_at": "2026-07-03T13:01:49+00:00",
+    "ai_summary": "Valve가 스팀 머신용 전자잉크 화면 기술을 오픈소스로 공개했습니다.\n이를 통해 사용자들이 직접 유사한 장치를 만들 수 있도록 지원합니다.\n하드웨어 개발 및 DIY 프로젝트에 관심 있는 이들에게 유용한 정보입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48771515",
+    "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+    "url": "https://news.ycombinator.com/item?id=48771515",
+    "discussion_url": "https://news.ycombinator.com/item?id=48771515",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-07-03T06:21:44+00:00",
+    "ai_summary": "LLM을 코딩에 활용하는 다양한 방식에 대한 실험과 경험을 묻는 질문입니다.\n개발자들이 LLM을 통해 코드 생성, 리팩토링, 디버깅 등을 어떻게 개선하는지 탐구합니다.\n코딩 생산성 향상을 위한 LLM의 잠재력과 실제 적용 사례에 주목합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
