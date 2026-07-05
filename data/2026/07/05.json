@@ -1,0 +1,513 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31127",
+    "title": "Fable 비용 60% 절감: 코드를 이미지로 변환하고 모델이 OCR하게 하기",
+    "url": "https://news.hada.io/topic?id=31127",
+    "discussion_url": "https://news.hada.io/topic?id=31127",
+    "summary": "pxpipe는 Claude Code 요청의 큰 컨텍스트를 로컬 프록시에서 PNG 이미지로 바꿔 입력 토큰을 줄이며, Fable 현재 정가 기준 엔드투엔드 청구액을 약 59~70% 낮춘다고 밝힘\n핵심 원리는 이미지 토큰 비용이 안에 들어간 텍스트 양이 아니라 픽셀 크기",
+    "score": 0,
+    "published_at": "2026-07-04T22:35:00+00:00",
+    "ai_summary": "pxpipe는 Claude Code 요청의 방대한 컨텍스트를 PNG 이미지로 변환하여 입력 토큰 비용을 획기적으로 줄였습니다.\n이 방법은 Fable 사용 시 엔드투엔드 청구액을 약 59~70% 절감하며, 이미지 토큰 비용이 텍스트 양이 아닌 픽셀 크기에 비례하는 원리를 활용합니다.\n개발자들이 AI 모델 사용 비용을 최적화하는 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31124",
+    "title": "Leanstral 1.5: 모두를 위한 증명 풍요",
+    "url": "https://news.hada.io/topic?id=31124",
+    "discussion_url": "https://news.hada.io/topic?id=31124",
+    "summary": "형식 검증을 실제 개발 작업에 더 가깝게 쓰려는 흐름 속에서, Mistral AI가 Lean 4용 Apache-2.0 모델 Leanstral 1.5를 공개함\n모델은 119B 총 파라미터 중 6B만 활성화하며, 중간 학습·지도 미세조정·CISPO 강화학습을 거쳐 증명 작성과 코드 저장소 작업을 함께...",
+    "score": 0,
+    "published_at": "2026-07-04T16:44:33+00:00",
+    "ai_summary": "형식 검증을 실제 개발에 접목하려는 흐름 속에 Mistral AI가 Lean 4용 Apache-2.0 모델 Leanstral 1.5를 공개했습니다.\n모델은 119B 파라미터 중 6B만 활성화하며, 중간 학습, 지도 미세조정, 강화 학습을 거쳐 증명 작성과 코드 저장소 작업을 지원합니다.\n이는 형식 검증과 AI를 결합하여 개발 생산성을 향상시키려는 중요한 시도입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31121",
+    "title": "최신 수준 LLM 로컬 실행 가이드",
+    "url": "https://news.hada.io/topic?id=31121",
+    "discussion_url": "https://news.hada.io/topic?id=31121",
+    "summary": "로컬에서 최신 수준 LLM과 음성-텍스트 변환을 돌리기 위한 하드웨어 구성, PCIe 스위치 설정, Docker 실행 구성을 한 저장소에 정리함\n약 $2k 예산은 2× RTX 3090으로 48GB VRAM을 확보해 Qwen3.6-27B와 whisper-large-v3 기반 로컬 STT를 실행하는 ...",
+    "score": 0,
+    "published_at": "2026-07-04T15:40:46+00:00",
+    "ai_summary": "최신 LLM과 음성-텍스트 변환 모델을 로컬에서 구동하기 위한 하드웨어 구성, PCIe 스위치 설정, Docker 실행 구성을 정리한 가이드입니다.\n약 $2k 예산으로 2× RTX 3090 (48GB VRAM)을 활용하여 Qwen3.6-27B와 whisper-large-v3 기반 로컬 STT를 실행하는 방법을 소개합니다.\n온프레미스 AI 개발 환경 구축에 관심 있는 개발자에게 실용적인 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31119",
+    "title": "PM의 채용 공고가 바뀌었다 (이력서 대신 60초 데모를 내는 시대)",
+    "url": "https://news.hada.io/topic?id=31119",
+    "discussion_url": "https://news.hada.io/topic?id=31119",
+    "summary": "PM 채용 공고의 패러다임이 급변하고 있음.\n기존의 PRD 작성과 요구사항 정의 중심에서 AI 네이티브 빌더로 진화하는 중\n주요 변화:\n• Amazon Ring: 'Builder PM' 포지션 신설. Cursor, Claude, Replit 같은 AI 코딩 툴을 사용해 직접 프로토타입을 빌드하고, GenAI 툴로 개발 타임라인을 가속화",
+    "score": 0,
+    "published_at": "2026-07-04T07:45:55+00:00",
+    "ai_summary": "PM 채용 공고의 패러다임이 요구사항 정의 중심에서 AI 네이티브 빌더로 급변하고 있습니다.\nAmazon Ring은 'Builder PM' 포지션을 신설, AI 코딩 툴로 직접 프로토타입을 빌드하고 GenAI 툴로 개발 타임라인을 가속화할 인재를 찾습니다.\n이는 AI 시대에 PM에게 직접적인 빌딩 능력이 요구되며, 개발자와 PM 간의 경계가 모호해지고 있음을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31113",
+    "title": "Fable을 이기는 ‘짧은 목줄’ AI 코딩 방법",
+    "url": "https://news.hada.io/topic?id=31113",
+    "discussion_url": "https://news.hada.io/topic?id=31113",
+    "summary": "보안 중요 소프트웨어에서 AI 코딩 에이전트를 쓰려면 자율 실행을 맡기기보다, 개발자가 변경을 계속 통제하는 Short Leash 방식이 필요함\n여러 에이전트가 병렬로 코드를 만들고 검토하는 “vibe”식 접근은 코드베이스 이해를 약화시키고, AI가 off the rails 상...",
+    "score": 0,
+    "published_at": "2026-07-04T01:55:43+00:00",
+    "ai_summary": "보안 중요 소프트웨어에서 AI 코딩 에이전트를 쓸 때, 완전 자율 실행보다 개발자가 변경을 지속 통제하는 'Short Leash' 방식이 필요합니다.\n여러 에이전트가 병렬로 코드를 만드는 방식은 코드베이스 이해도를 약화시키고 AI가 예상치 못한 방향으로 흐를 위험이 있습니다.\n개발자가 AI를 효과적으로 활용하면서도 통제권을 유지하는 방법을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31111",
+    "title": "Show GN: Retry-now, 지금 바로 윤회 - 완전 자율 루프 에이전트",
+    "url": "https://news.hada.io/topic?id=31111",
+    "discussion_url": "https://news.hada.io/topic?id=31111",
+    "summary": "AI 코딩 에이전트를 반복 실행해서 코드베이스를 점진적으로 개선하는 에이전트 retry-now를 만들었습니다.\n핵심 아이디어는 &quot;매 이터레이션마다 완전히 새로운 컨텍스트 0 세션에서 코드를 다시 보게 하자&quot;입니다.\n기존 장기 실행 에이전트는 이전 판단을 방어하거나, 이미 시도",
+    "score": 0,
+    "published_at": "2026-07-04T01:50:23+00:00",
+    "ai_summary": "코드베이스를 점진적으로 개선하는 완전 자율 루프 에이전트 'retry-now'가 개발되었습니다.\n핵심 아이디어는 매 이터레이션마다 완전히 새로운 컨텍스트 0 세션에서 코드를 다시 보게 하는 것입니다.\n이는 기존 장기 실행 에이전트가 이전 판단을 고집하거나 이미 시도한 경로를 반복하는 문제를 해결하여 효율성을 높입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31107",
+    "title": "Fable 필드 가이드: 나의 미지(Unknowns) 찾기",
+    "url": "https://news.hada.io/topic?id=31107",
+    "discussion_url": "https://news.hada.io/topic?id=31107",
+    "summary": "Claude Fable 5 작업의 핵심은 사용자가 주는 지도(map, 프롬프트·스킬·컨텍스트) 와 작업이 실제 일어나는 영토(territory, 코드베이스·현실·제약) 의 간극, 즉 미지(unknowns) 를 찾아 좁히는 것\nFable은 작업 품질이 미지를 명확히 하...",
+    "score": 0,
+    "published_at": "2026-07-04T01:03:02+00:00",
+    "ai_summary": "Claude Fable 5 작업의 핵심은 사용자 지도(프롬프트, 스킬, 컨텍스트)와 실제 영토(코드베이스, 현실, 제약) 사이의 간극, 즉 '미지'를 찾아 좁히는 것입니다.\nFable은 작업 품질이 미지를 명확히 하는 능력에 달려 있음을 강조합니다.\n이는 AI 에이전트에게 효과적인 지시를 내리고 예상치 못한 문제를 관리하는 데 중요한 원칙을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31106",
+    "title": "루프 엔지니어링의 미학 (The Art of Loop Engineering)",
+    "url": "https://news.hada.io/topic?id=31106",
+    "discussion_url": "https://news.hada.io/topic?id=31106",
+    "summary": "에이전트를 안정적으로 유용한 작업에 활용하려면 좋은 모델만으로는 부족하며, 작업 집합에 맞게 설계된 하네스(harness) 가 필요함\n가장 기본이 되는 에이전트 루프는 LLM에 컨텍스트를 주고 작업이 끝날 때까지 도구를 반복 호출하는 구조\n여기에 검증...",
+    "score": 0,
+    "published_at": "2026-07-04T00:36:02+00:00",
+    "ai_summary": "AI 에이전트를 유용한 작업에 안정적으로 활용하려면 좋은 모델만으로는 부족하며, 작업 집합에 맞게 설계된 '하네스'가 필요합니다.\n가장 기본적인 에이전트 루프는 LLM에 컨텍스트를 주고 작업이 끝날 때까지 도구를 반복 호출하는 구조입니다.\n여기에 검증, 재시도, 회귀 방지 등 추가 기능을 통합하여 에이전트의 신뢰성과 효율성을 높이는 방법을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31102",
+    "title": "ActivityPub 구현이 어려운 이유, 그리고 그럴 필요가 없는 이유",
+    "url": "https://news.hada.io/topic?id=31102",
+    "discussion_url": "https://news.hada.io/topic?id=31102",
+    "summary": "ActivityPub 서버를 직접 만들면 첫 Follow 요청부터 설명 없는 401 Unauthorized에 막히기 쉽고, Fedify는 서명·JSON-LD·전달·보안 부담을 애플리케이션 코드 밖으로 옮기는 TypeScript 프레임워크임\n페디버스 인증은 만료 초안 draft-cavage-http...",
+    "score": 0,
+    "published_at": "2026-07-04T00:22:48+00:00",
+    "ai_summary": "ActivityPub 서버 구현은 401 Unauthorized 오류 등 복잡한 문제로 개발자에게 어려움을 줍니다.\nFedify는 서명, JSON-LD, 전달, 보안 등 ActivityPub의 복잡한 부분을 애플리케이션 외부로 추상화하여 구현을 돕는 TypeScript 프레임워크입니다.\n이를 통해 개발자는 페디버스 프로토콜 구현의 부담을 줄이고 핵심 로직에 집중할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48788283",
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "discussion_url": "https://news.ycombinator.com/item?id=48788283",
+    "summary": "",
+    "score": 302,
+    "published_at": "2026-07-04T19:41:10+00:00",
+    "ai_summary": "고전 게임 '커맨드 앤 컨커 제너럴'이 Fable을 활용하여 macOS, iPhone, iPad로 네이티브 포팅되었습니다.\n이는 F#으로 작성된 코드를 JavaScript로 변환하여 다양한 플랫폼에서 실행 가능하게 만든 사례입니다.\n크로스 플랫폼 개발의 가능성을 보여주며, Fable과 F# 언어의 활용성을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48789428",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "discussion_url": "https://news.ycombinator.com/item?id=48789428",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-07-04T21:51:09+00:00",
+    "ai_summary": "GPT-5.5 Codex 모델에서 추론 토큰 클러스터링 방식이 성능 저하의 원인이 될 수 있다는 분석이 제기되었습니다.\n이는 모델이 복잡한 추론 과정에서 토큰을 비효율적으로 그룹화하여 결과물의 품질이 떨어질 가능성을 시사합니다.\nLLM의 내부 작동 방식과 최적화, 그리고 특정 모델의 성능 이슈에 관심 있는 개발자에게 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48786781",
+    "title": "Leaking YouTube creators' private videos",
+    "url": "https://javoriuski.com/post/youtube",
+    "discussion_url": "https://news.ycombinator.com/item?id=48786781",
+    "summary": "",
+    "score": 446,
+    "published_at": "2026-07-04T16:45:10+00:00",
+    "ai_summary": "유튜브 크리에이터들의 비공개 영상이 유출되는 보안 문제가 발생했습니다.\n이는 플랫폼의 개인정보 보호 및 보안 시스템에 심각한 결함이 있었음을 시사합니다.\n보안 엔지니어, 개인정보 보호 전문가 및 대규모 플랫폼 개발자들에게 중요한 보안 사고 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48788599",
+    "title": "Better Models: Worse Tools",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48788599",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-07-04T20:16:22+00:00",
+    "ai_summary": "이 기사는 더 나은 모델(주로 AI/ML)이 개발되고 있음에도 불구하고, 이를 활용하는 도구들의 품질이나 유용성이 오히려 나빠지고 있다는 역설을 다룹니다.\n모델 자체의 발전 속도가 도구 개발 및 통합의 복잡성을 앞질러 사용자 경험을 저해하는 현상을 지적합니다.\nAI/ML 엔지니어, LLM 개발자 및 관련 도구 생태계 구축에 관심 있는 개발자에게 중요한 논의 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48785485",
+    "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+    "url": "https://github.com/anthropics/claude-code/issues/74066",
+    "discussion_url": "https://news.ycombinator.com/item?id=48785485",
+    "summary": "",
+    "score": 266,
+    "published_at": "2026-07-04T14:03:40+00:00",
+    "ai_summary": "워크스페이스 인스턴스 또는 사용자 계정 간에 세션 또는 캐시 정보가 유출될 가능성이 있는 보안 취약점이 발견되었습니다.\n이는 멀티테넌트 환경에서 데이터 격리 및 사용자 인증 메커니즘에 심각한 문제를 야기할 수 있습니다.\n보안 엔지니어, 백엔드 개발자, 클라우드 아키텍트 등 시스템 보안 및 데이터 격리를 담당하는 모든 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48787329",
+    "title": "Verizon is About to Break our Watches",
+    "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "discussion_url": "https://news.ycombinator.com/item?id=48787329",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-07-04T17:52:36+00:00",
+    "ai_summary": "버라이즌의 새로운 네트워크 정책이나 기술 변경이 스마트워치 기능에 영향을 줄 수 있다는 내용입니다.\n이는 스마트워치 앱 개발자나 기기 제조사에게 중요한 이슈가 될 수 있습니다.\n기기 연결성 및 호환성 문제가 발생할 가능성을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48784777",
+    "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+    "url": "https://peteris.rocks/blog/htop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48784777",
+    "summary": "",
+    "score": 371,
+    "published_at": "2026-07-04T12:00:57+00:00",
+    "ai_summary": "리눅스 시스템 모니터링 도구인 htop과 top 명령어를 통해 볼 수 있는 모든 정보들을 상세히 설명합니다.\nCPU 사용량, 메모리, 프로세스 상태 등 시스템 자원 관리에 필수적인 지식들을 다룹니다.\n개발자 및 시스템 관리자가 서버 성능을 이해하고 문제를 진단하는 데 큰 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48786638",
+    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+    "discussion_url": "https://news.ycombinator.com/item?id=48786638",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-07-04T16:30:10+00:00",
+    "ai_summary": "Zig 언어의 패키지 관리 기능이 컴파일러에서 빌드 시스템으로 완전히 이전되었다는 소식입니다.\n이는 Zig 프로젝트의 의존성 관리 및 빌드 프로세스에 중대한 변화를 의미합니다.\n개발자는 이제 빌드 시스템을 통해 더욱 유연하고 강력하게 패키지를 관리할 수 있게 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48747762",
+    "title": "Can you build a recognizable World Map in under 500 bytes?",
+    "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+    "discussion_url": "https://news.ycombinator.com/item?id=48747762",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-07-01T14:48:40+00:00",
+    "ai_summary": "500바이트 미만의 용량으로 인식 가능한 세계 지도를 만들 수 있는지 탐구하는 기술적 도전입니다.\n데이터 압축, 그래픽 렌더링 최적화, 그리고 창의적인 알고리즘 설계 능력을 요구합니다.\n프론트엔드 최적화나 임베디드 시스템 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48785840",
+    "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+    "url": "https://github.com/maximqaxd/wince-dc",
+    "discussion_url": "https://news.ycombinator.com/item?id=48785840",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-07-04T14:52:25+00:00",
+    "ai_summary": "세가 드림캐스트 콘솔에 Windows CE를 포팅하는 커뮤니티 프로젝트인 \"wince-dc\"에 대한 내용입니다.\n이는 임베디드 시스템 개발, 운영체제 포팅, 역공학 및 레트로 컴퓨팅 분야에 대한 깊은 이해를 요구합니다.\n낮은 수준의 하드웨어 상호작용에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48789325",
+    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+    "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48789325",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-07-04T21:35:30+00:00",
+    "ai_summary": "AI가 Rust로 PHP 엔진을 구축하여 PHP 소스 테스트의 17%를 통과하고 워드프레스를 렌더링할 수 있게 했다는 내용입니다.\nAI를 활용한 언어 구현, 컴파일러/인터프리터 개발, 그리고 성능 최적화에 대한 깊은 통찰을 제공합니다.\nAI의 코드 생성 능력을 보여주는 혁신적인 사례입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48743462",
+    "title": "It's not me, it's the compiler",
+    "url": "https://parsa.wtf/cast/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48743462",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-07-01T07:41:04+00:00",
+    "ai_summary": "개발 과정에서 발생하는 오류의 원인이 자신의 코드가 아닌 컴파일러에 있을 수 있음을 시사하는 내용입니다.\n컴파일러의 동작 방식, 오류 메시지 해석, 또는 특정 컴파일러 버그에 대한 심층 분석을 다룰 것으로 보입니다.\n개발자가 디버깅 과정에서 마주칠 수 있는 심도 있는 기술적 문제를 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48788849",
+    "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+    "url": "https://arxiv.org/abs/2606.26967",
+    "discussion_url": "https://news.ycombinator.com/item?id=48788849",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-07-04T20:38:39+00:00",
+    "ai_summary": "AirDrop과 Quick Share와 같은 파일 공유 프로토콜의 취약점 연구에 대한 내용을 다룹니다.\n해당 프로토콜의 내부 동작을 분석하고 잠재적인 보안 결함을 파헤치는 과정을 설명할 것입니다.\n이는 무선 통신 보안 및 개인 정보 보호에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48775412",
+    "title": "Heuristics for lab robotics, and where its future may go",
+    "url": "https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where",
+    "discussion_url": "https://news.ycombinator.com/item?id=48775412",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-07-03T14:20:39+00:00",
+    "ai_summary": "실험실 로봇 공학에서 사용되는 휴리스틱(발견법)과 그 미래 방향에 대한 내용을 다룹니다.\n로봇의 효율적인 작동과 문제 해결을 위한 알고리즘적 접근 방식에 초점을 맞출 것입니다.\n이는 AI, 자동화 및 로봇 제어 시스템 개발에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48753160",
+    "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48753160",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-07-01T21:10:16+00:00",
+    "ai_summary": "상호작용적이고 미분 가능한 조명 효과를 위한 신경 렌더 프록시 기술에 대한 내용을 다룹니다.\nAI/ML을 활용하여 실시간 렌더링 및 그래픽스에서 복잡한 조명 계산을 효율적으로 처리하는 방법을 제시할 것입니다.\n이는 게임, VFX, VR/AR 등 고급 그래픽스 개발에 중요한 기술입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48746090",
+    "title": "Designing DB partitions you don't have to babysit",
+    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48746090",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-07-01T13:05:16+00:00",
+    "ai_summary": "유지보수가 적고 안정적인 데이터베이스 파티션을 설계하는 방법에 대한 내용을 다룹니다.\n데이터베이스 성능 최적화, 확장성 확보, 그리고 관리 부담을 줄이는 효과적인 파티셔닝 전략을 제시할 것입니다.\n대규모 시스템을 다루는 백엔드 개발자와 DBA에게 매우 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48787201",
+    "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+    "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+    "discussion_url": "https://news.ycombinator.com/item?id=48787201",
+    "summary": "",
+    "score": 47,
+    "published_at": "2026-07-04T17:37:21+00:00",
+    "ai_summary": "콜드 부트 공격 실험을 위한 베어메탈 x86 툴인 RAM Dumper가 소개되었습니다.\n이 툴은 시스템 종료 후 잔류하는 RAM 데이터를 덤프하여 민감 정보를 추출하는 데 사용됩니다.\n하드웨어 수준의 보안 취약점을 연구하고 방어하는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48786245",
+    "title": "Fable created novel 4D splat format",
+    "url": "https://adamraudonis.github.io/splats4D/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48786245",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-07-04T15:49:08+00:00",
+    "ai_summary": "Fable이 혁신적인 4D 스플랫 포맷을 개발하여 발표했습니다.\n이 포맷은 3D 그래픽 및 실시간 렌더링 분야에 새로운 가능성을 제시합니다.\n특히 가상현실, 증강현실, 메타버스 관련 개발자에게 흥미로운 기술입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48745855",
+    "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "discussion_url": "https://news.ycombinator.com/item?id=48745855",
+    "summary": "",
+    "score": 161,
+    "published_at": "2026-07-01T12:48:56+00:00",
+    "ai_summary": "PostgreSQL 데이터를 Parquet 형식으로 S3에 저장하는 LTAP(Logical Transaction Analytics Processing) 아키텍처가 설명됩니다.\n이는 OLTP와 OLAP의 장점을 결합하여 실시간 트랜잭션과 대규모 분석을 동시에 지원합니다.\n데이터베이스, 클라우드, 데이터 파이프라인 개발자에게 중요한 최적화 전략을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48786970",
+    "title": "EndBASIC 0.14: Are we multimedia yet?",
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48786970",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-07-04T17:08:18+00:00",
+    "ai_summary": "EndBASIC 0.14 버전이 출시되었으며, 멀티미디어 기능 지원 여부에 초점을 맞추고 있습니다.\n이는 BASIC 언어를 사용하여 게임, 애니메이션 등 다양한 멀티미디어 애플리케이션 개발을 가능하게 합니다.\n교육용, 취미용 프로그래밍 및 임베디드 시스템 개발자에게 유용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  }
+]
