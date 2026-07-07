@@ -1,0 +1,770 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31182",
+    "title": "Rust에서 WIP 코드를 경고로 남기기",
+    "url": "https://news.hada.io/topic?id=31182",
+    "discussion_url": "https://news.hada.io/topic?id=31182",
+    "summary": "Rust 개발 중 모든 오류 경로와 소유권 문제를 즉시 정리하면 구현 흐름이 끊기기 쉬워, happy path를 먼저 만들고 남은 일을 경고로 추적하는 전략이 유용함\n표준 Rust만으로도 unwrap, clone, todo!, 기본 컴파일러 경고...",
+    "score": 0,
+    "published_at": "2026-07-06T16:04:28+00:00",
+    "ai_summary": "Rust 개발 시 모든 오류 및 소유권 문제를 즉시 해결하기보다 happy path를 먼저 구현하고, 남은 WIP 코드를 경고로 추적하는 전략이 효과적입니다.\n표준 Rust의 `unwrap`, `clone`, `todo!` 및 컴파일러 경고를 활용하여 개발 흐름을 끊지 않고 효율적으로 작업할 수 있습니다.\n이는 개발 생산성을 높이는 실용적인 방법론을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31178",
+    "title": "Show GN: k-vote-cli : 한국 선거 공개 데이터를 API 키 없이 한 명령으로 받는 CLI",
+    "url": "https://news.hada.io/topic?id=31178",
+    "discussion_url": "https://news.hada.io/topic?id=31178",
+    "summary": "개표결과·여론조사·투표율은 법에 따라 공개되어 있지만, 직접 받아보면 접근성이 좋지 않습니다.\n선거통계시스템(info.nec.go.kr)은 robots.txt로 자동 접근을 전면 차단하고, 파일은 EUC-KR 인코딩에 선거마다 엑셀 양식이 제각각이고, 여론조사는 공식 API 없이 게시판 PDF뿐이고, OpenAPI는 데이터마다 활",
+    "score": 0,
+    "published_at": "2026-07-06T12:57:23+00:00",
+    "ai_summary": "한국 선거 통계 데이터는 법적으로 공개되지만, 접근성이 매우 좋지 않아 수동으로 처리하기 어렵습니다.\n이 `k-vote-cli` 도구는 API 키 없이도 개표 결과, 여론조사, 투표율 등 공개된 선거 데이터를 한 명령으로 쉽게 받아볼 수 있게 합니다.\n비표준 인코딩과 제각각인 엑셀 양식 등 복잡한 데이터 처리 문제를 해결하여 개발자의 데이터 접근성을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31177",
+    "title": "Show GN: Fable5는 비싸지고, 로컬 GPU는 부족하다: LLM 하나를 Mac &amp; CUDA로 나눠 돌리는 DRIFT",
+    "url": "https://news.hada.io/topic?id=31177",
+    "discussion_url": "https://news.hada.io/topic?id=31177",
+    "summary": "LLM이 개인에게서 멀어지고 있고, DRIFT는 LLM 하나를 여러 개인 기기로 나눠 돌려 이에 맞섭니다.\nDRIFT는 하나의 LLM을 여러 개인 기기에 레이어 단위로 나눠 실행하는 오픈소스 프로젝트입니다.\n요즘 개인 개발자가 AI를 직접 다뤄보려 하면 양쪽 모두 쉽지 않습니다. Fable5 같은 최상위 모델은",
+    "score": 0,
+    "published_at": "2026-07-06T12:28:41+00:00",
+    "ai_summary": "고성능 LLM 모델은 비싸고 로컬 GPU 자원 부족으로 개인 개발자 접근이 어려워지면서 AI가 멀어지는 경향이 있습니다.\nDRIFT는 이러한 문제에 대응하여 하나의 LLM을 여러 개인 기기(Mac, CUDA 등)에 레이어 단위로 분산시켜 실행하는 오픈소스 프로젝트입니다.\n이 기술은 개인 개발자들이 비싼 자원 없이도 대규모 LLM을 다룰 수 있는 새로운 방법을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31176",
+    "title": "의미가 보이는 프로젝트를 작성하기",
+    "url": "https://news.hada.io/topic?id=31176",
+    "discussion_url": "https://news.hada.io/topic?id=31176",
+    "summary": "AI 시대의 모델링\n\nAI 시대에는 코드 한 줄의 값이 압도적으로 저렴해짐\n그러나 AI는 데이터 모델을 만들지 않는 판단을 하는 데 종종 어려움을 겪음\n\nTODO 앱 예시\n\nTODO 앱에 2주 동안만, 인터벌을 가지고 반복되는 알람을 추가하려면 자연스럽게 반복을 위한 데...",
+    "score": 0,
+    "published_at": "2026-07-06T11:35:15+00:00",
+    "ai_summary": "AI 시대에는 코드 작성 비용이 매우 저렴해졌지만, AI는 의미 있는 데이터 모델을 생성하고 복잡한 판단을 내리는 데 어려움을 겪습니다.\n따라서 개발자는 단순히 코드를 작성하는 것을 넘어, AI가 효과적으로 작동할 수 있도록 의미가 명확한 데이터 모델을 설계하고 프로젝트의 핵심 가치를 이해하는 데 집중해야 합니다.\n이는 AI 시대에 성공적인 프로젝트를 위한 중요한 설계 원칙을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31173",
+    "title": "많이 조회되지 않은 콘텐츠",
+    "url": "https://news.hada.io/topic?id=31173",
+    "discussion_url": "https://news.hada.io/topic?id=31173",
+    "summary": "Art Institute of Chicago API는 웹사이트에서 거의 보이지 않은 작품을 찾을 수 있도록 has_not_been_viewed_much 불리언 필드를 제공함\n이 값은 작품 데이터의 artwork 항목에 포함되며, API 문서의 artworks 필드에서 확인 가능함\n실제 기...",
+    "score": 0,
+    "published_at": "2026-07-06T08:33:49+00:00",
+    "ai_summary": "Art Institute of Chicago API는 `has_not_been_viewed_much`라는 불리언 필드를 제공하여 웹사이트에서 많이 조회되지 않은 작품을 쉽게 찾을 수 있도록 돕습니다.\n이 필드는 작품 데이터의 `artwork` 항목에 포함되어 있으며, API 문서를 통해 그 활용법을 확인할 수 있습니다.\n개발자가 API를 활용해 특정 기준에 맞는 데이터를 필터링하고 검색하는 방법을 보여주는 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31170",
+    "title": "덜한 것이 더 낫다, 대체로",
+    "url": "https://news.hada.io/topic?id=31170",
+    "discussion_url": "https://news.hada.io/topic?id=31170",
+    "summary": "AI로 무엇이든 빠르게 만들 수 있는 시대에, 양을 늘리는 것이 더 나은 결과로 이어지지 않으며 의도와 극도의 세심함으로 만든 제품만이 오래 살아남음\n뛰어난 제품의 핵심은 단순함과 명료함이며, 이는 뇌의 인지 부하를 줄이...",
+    "score": 0,
+    "published_at": "2026-07-06T02:20:02+00:00",
+    "ai_summary": "AI가 무엇이든 빠르게 만들 수 있는 시대이지만, 단순히 양을 늘리는 것이 더 나은 결과로 이어지지 않는다는 점을 강조합니다.\n진정으로 뛰어난 제품은 의도와 세심함을 바탕으로 단순하고 명료하게 만들어졌을 때 오래 살아남습니다.\n이는 사용자의 인지 부하를 줄여주는 핵심적인 디자인 원칙이며, AI 시대에도 변치 않는 제품 개발의 본질을 역설합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31169",
+    "title": "AI 시대, Figma를 다시 생각하다",
+    "url": "https://news.hada.io/topic?id=31169",
+    "discussion_url": "https://news.hada.io/topic?id=31169",
+    "summary": "Config 2026에서 Figma는 AI 압박에 대응해 캔버스를 코드, 모션, 셰이더, 에이전트 워크플로로 확장하며 생존을 건 승부수를 던지는 중\n10여 년간 제품 디자인의 기본 작업 공간이었으나, AI가 기획·프로토타이핑·출시 방식을 재편하며 캔버스가 여전히 중심축인지",
+    "score": 0,
+    "published_at": "2026-07-06T02:05:02+00:00",
+    "ai_summary": "Figma는 AI 시대의 압박에 대응하기 위해 Config 2026에서 캔버스를 코드, 모션, 셰이더, 에이전트 워크플로 등으로 대폭 확장하는 전략을 발표했습니다.\n이는 지난 10년간 제품 디자인의 핵심 도구였던 Figma가 AI가 기획, 프로토타이핑, 출시 방식을 재편하는 상황에서 생존을 위한 승부수를 던진 것입니다.\nAI 기술이 디자인 도구와 개발 프로세스에 미치는 영향을 보여주는 중요한 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31168",
+    "title": "메모리 아끼면서 Cross Entropy Loss 계산하기",
+    "url": "https://news.hada.io/topic?id=31168",
+    "discussion_url": "https://news.hada.io/topic?id=31168",
+    "summary": "긴 context, 큰 vocab의 LLM 학습에서 LM head + cross entropy가 왜 가장 큰 메모리 소비처 중 하나가 되는지 짚어본 글. 128K context에서는 logits 텐서 하나가 40GB에 육박해서, 모델 weight보다도 커진다.\n16B 모델을 128K context로 학습하다 실제로 겪은 OOM에서 출발해, cross entropy의 forward/back",
+    "score": 0,
+    "published_at": "2026-07-06T01:42:39+00:00",
+    "ai_summary": "LLM 학습 시 Cross Entropy Loss 계산이 가장 큰 메모리 소비처 중 하나임을 지적합니다.\n특히 128K 컨텍스트에서 logits 텐서가 40GB에 달해 모델 가중치보다 커질 수 있습니다.\nOOM 문제 해결을 위한 효율적인 Cross Entropy 계산 방법을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31165",
+    "title": "AI 코딩 시대의 개발자 역할 변화: 코딩 실행자에서 맥락·검증·제품화 설계자로",
+    "url": "https://news.hada.io/topic?id=31165",
+    "discussion_url": "https://news.hada.io/topic?id=31165",
+    "summary": "요약 개요\n\n\n핵심 주장\n\nAI가 코드를 직접 작성·수정·테스트하는 수준에 도달하면서, 개발자의 역할은 단순 코딩 중심에서 문제 정의, 작업 설계, 검증, 맥락 관리, 제품화 지원으로 이동하고 있다.\n\n\n\n구조적 원인...",
+    "score": 0,
+    "published_at": "2026-07-06T01:13:13+00:00",
+    "ai_summary": "AI가 코드를 직접 작성 및 테스트하는 수준에 도달하며 개발자 역할이 변화하고 있습니다.\n단순 코딩 실행자를 넘어 문제 정의, 작업 설계, 검증 및 맥락 관리로 중심이 이동합니다.\n개발자는 AI 시대에 제품화를 지원하는 설계자로서의 역할을 수행해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31159",
+    "title": "dbtrail - 모든 행 변경을 기억하고 되돌리기 가능한 MySQL용 타임머신",
+    "url": "https://news.hada.io/topic?id=31159",
+    "discussion_url": "https://news.hada.io/topic?id=31159",
+    "summary": "MySQL의 바이너리 로그(binary log) 를 tail 하여 모든 행 변경을 완전한 before/after 이미지와 함께 검색 가능한 인덱스로 보관\nLock/스키마 변경/복원 대기 없이 특정 시점으로 되돌리는 point-in-time recovery 지원\n모든 변...",
+    "score": 0,
+    "published_at": "2026-07-06T00:50:02+00:00",
+    "ai_summary": "dbtrail은 MySQL의 바이너리 로그를 분석하여 모든 행 변경 내역을 완전한 before/after 이미지와 함께 저장합니다.\n이는 검색 가능한 인덱스로 보관되며, Lock 대기 없이 특정 시점으로 되돌리는 Point-in-time Recovery를 지원합니다.\n데이터 변경 추적 및 복구에 매우 유용한 'MySQL용 타임머신'입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31158",
+    "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
+    "url": "https://news.hada.io/topic?id=31158",
+    "discussion_url": "https://news.hada.io/topic?id=31158",
+    "summary": "Slack 스레드를 읽고 답변하며 도구를 호출해 결과를 대화창에 바로 렌더링하는 셀프 호스팅 AI 에이전트\n락인없이 런타임을 소유하며, 원하는 모델을 자신의 도구에 연동 가능\nCopilotKit의 오픈 SDK인 @copilotkit/bot 위에 구축되어, 동일 코드가 Slac...",
+    "score": 0,
+    "published_at": "2026-07-06T00:35:02+00:00",
+    "ai_summary": "OpenTag는 Slack 스레드를 읽고 답변하며 도구를 호출하는 셀프 호스팅 AI 에이전트입니다.\n락인 없이 런타임을 소유하고 원하는 모델을 자신의 도구에 연동할 수 있는 유연성을 제공합니다.\nCopilotKit의 오픈 SDK 위에 구축되어 확장 가능한 AI 대화 시스템을 만듭니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48808482",
+    "title": "OpenWrt One – Open Hardware Router",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "discussion_url": "https://news.ycombinator.com/item?id=48808482",
+    "summary": "",
+    "score": 390,
+    "published_at": "2026-07-06T18:23:12+00:00",
+    "ai_summary": "OpenWrt One은 오픈 하드웨어 기반의 라우터 프로젝트를 소개합니다.\n이는 개발자들이 커스터마이징 가능한 네트워크 장비를 구축하고 펌웨어 개발에 참여할 수 있도록 합니다.\n하드웨어와 소프트웨어의 통합을 통해 유연한 네트워킹 솔루션을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48808928",
+    "title": "CoMaps – FOSS Offline Maps",
+    "url": "https://www.comaps.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48808928",
+    "summary": "",
+    "score": 273,
+    "published_at": "2026-07-06T18:55:07+00:00",
+    "ai_summary": "CoMaps는 무료 오픈소스 소프트웨어(FOSS) 기반의 오프라인 지도 프로젝트입니다.\n이 기사는 오프라인 지도 데이터 처리 및 렌더링 방식, 그리고 관련 기술 스택을 다룰 것으로 예상됩니다.\n개발자들이 커스텀 지도 애플리케이션을 구축하고 활용하는 데 유용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48811644",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "url": "https://ternlight-demo.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48811644",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-07-06T23:06:31+00:00",
+    "ai_summary": "Ternlight는 브라우저에서 WebAssembly(WASM)를 통해 실행되는 7MB 크기의 경량 임베딩 모델입니다.\n웹 환경에서 온디바이스 머신러닝을 구현하는 중요한 기술적 진보를 보여줍니다.\n프론트엔드 개발자에게 효율적인 AI 기능 통합 및 배포 기회를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48809877",
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48809877",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-07-06T20:14:55+00:00",
+    "ai_summary": "GLM 5.2는 AI 모델의 최신 버전을 의미하며, AI 시장의 수익성 감소 가능성을 논합니다.\n이는 AI 개발 및 상업화 전략에 중요한 영향을 미칠 수 있습니다.\n개발자들은 기술 발전과 함께 시장 변화를 이해해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48808002",
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "discussion_url": "https://news.ycombinator.com/item?id=48808002",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-07-06T17:44:08+00:00",
+    "ai_summary": "이 기사는 언어 모델 내부의 '글로벌 작업 공간' 개념을 탐구합니다.\n이는 LLM이 정보를 처리하고 통합하는 방식에 대한 근본적인 이해를 돕습니다.\nLLM 아키텍처 및 성능 개선에 기여할 수 있는 심층 연구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48809354",
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "discussion_url": "https://news.ycombinator.com/item?id=48809354",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-07-06T19:28:24+00:00",
+    "ai_summary": "RAG(검색 증강 생성) 시스템에서 답변에 필요한 정보만을 남기는 효율적인 컨텍스트 가지치기 방법을 다룹니다.\n이는 LLM의 응답 품질을 높이고 비용을 절감하는 데 중요한 최적화 기술입니다.\nLLM 기반 애플리케이션 개발자에게 매우 유용한 실용적 전략입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48782248",
+    "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+    "url": "https://arxiv.org/abs/2607.02112",
+    "discussion_url": "https://news.ycombinator.com/item?id=48782248",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-07-04T02:51:57+00:00",
+    "ai_summary": "이 기사는 2048-스핀 벌크 음향파 아이징 머신을 이용한 최적화 문제 해결에 대해 설명합니다.\n이는 수 파티셔닝 및 스도쿠와 같은 문제에 적용될 수 있는 새로운 컴퓨팅 하드웨어입니다.\n양자 컴퓨팅 및 고성능 연산 분야의 개발자들에게 흥미로운 기술입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48811081",
+    "title": "Full Writeup of the Windows GDID",
+    "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "discussion_url": "https://news.ycombinator.com/item?id=48811081",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-07-06T22:02:24+00:00",
+    "ai_summary": "이 문서는 윈도우 운영체제의 GDID(Graphical Device Interface Identifier 또는 Global Device ID)에 대한 심층 분석을 제공합니다.\n윈도우 내부 작동 방식이나 시스템 보안 관련 문제를 이해하는 데 도움을 줍니다.\n시스템 프로그래머나 보안 연구원에게 매우 유용할 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48810533",
+    "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+    "discussion_url": "https://news.ycombinator.com/item?id=48810533",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-07-06T21:09:23+00:00",
+    "ai_summary": "이 기사는 기술 분야 외부에서 AI 투자에 대한 ROI(투자 수익률) 달성까지 오랜 시간이 걸릴 수 있음을 분석합니다.\n이는 AI 프로젝트의 기획 및 자금 조달에 영향을 미치며, 비즈니스 관점의 이해를 요구합니다.\nAI 개발자들은 기술뿐만 아니라 비즈니스 전략도 이해해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48757619",
+    "title": "Evaluation order and nontermination in query languages",
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48757619",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-07-02T07:08:58+00:00",
+    "ai_summary": "쿼리 언어에서 표현식의 평가 순서와 비종료(무한 루프) 발생 가능성을 심층적으로 다룹니다.\n이는 데이터베이스 쿼리 처리 및 언어 설계의 근본적인 이론적 측면을 설명합니다.\n데이터베이스 시스템 개발자나 언어 설계자에게 필수적인 내용입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48805624",
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "discussion_url": "https://news.ycombinator.com/item?id=48805624",
+    "summary": "",
+    "score": 264,
+    "published_at": "2026-07-06T15:01:18+00:00",
+    "ai_summary": "AMD Ryzen AI Halo는 $4,000 상당의 고성능 AI 개발 키트입니다.\n차세대 AI 및 머신러닝 애플리케이션 구축을 위한 강력한 하드웨어 플랫폼을 제공합니다.\n엣지 AI 및 복잡한 AI 모델 개발에 이상적인 솔루션입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48811494",
+    "title": "Vessel",
+    "url": "https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e",
+    "discussion_url": "https://news.ycombinator.com/item?id=48811494",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-06T22:48:02+00:00",
+    "ai_summary": "\"Vessel\"은 특정 개발 도구나 프레임워크를 지칭하는 이름으로 보입니다.\n컨테이너 런타임이나 시스템 관리 도구일 가능성이 높습니다.\n개발자는 이를 통해 애플리케이션 배포 및 시스템 관리를 효율화할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48807225",
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "discussion_url": "https://news.ycombinator.com/item?id=48807225",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-07-06T16:47:44+00:00",
+    "ai_summary": "OfficeCLI는 AI 에이전트가 마이크로소프트 오피스 파일을 읽고 편집할 수 있게 돕는 도구입니다.\n개발자는 AI 기반 문서 처리 및 자동화 애플리케이션을 구축할 수 있습니다.\nLLM 에이전트가 오피스 문서를 활용하는 데 핵심적인 역할을 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48783175",
+    "title": "The LLVM Compiler Infrastructure",
+    "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48783175",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-07-04T06:43:29+00:00",
+    "ai_summary": "LLVM은 다양한 프로그래밍 언어의 컴파일러 백엔드 및 최적화를 위한 핵심 인프라입니다.\n개발자는 새로운 언어 구현, 성능 개선, 그리고 컴파일러 및 디버거 개발에 활용합니다.\n소프트웨어 개발의 근간을 이루는 중요한 기술 스택입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48811373",
+    "title": "OpenSSH 10.4/10.4p1 Released",
+    "url": "https://www.openssh.org/txt/release-10.4",
+    "discussion_url": "https://news.ycombinator.com/item?id=48811373",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-06T22:32:58+00:00",
+    "ai_summary": "OpenSSH 10.4/10.4p1이 출시되어 보안 및 기능이 개선되었습니다.\n이 업데이트는 개발자들이 서버에 안전하게 접속하고 파일을 전송하며 원격 작업을 수행하는 데 필수적입니다.\n개발 환경의 보안과 효율성을 높이는 중요한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48809810",
+    "title": "M/PC – A Concatenative OS",
+    "url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48809810",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-07-06T20:08:46+00:00",
+    "ai_summary": "M/PC는 연결형(Concatenative) 패러다임을 기반으로 하는 새로운 운영체제입니다.\n시스템 프로그래밍 및 저수준 개발에 관심 있는 개발자들에게 흥미로운 접근 방식을 제공합니다.\n새로운 OS 아키텍처와 언어 디자인을 탐구하는 데 중요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48807908",
+    "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "url": "https://github.com/V4bel/Januscape",
+    "discussion_url": "https://news.ycombinator.com/item?id=48807908",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-07-06T17:35:03+00:00",
+    "ai_summary": "KVM/x86 가상화 환경에서 게스트 VM이 호스트 시스템으로 탈출할 수 있는 심각한 보안 취약점 'Januscape'가 발견되었습니다.\nCVE-2026-53359로 지정된 이 취약점은 클라우드 및 서버 인프라의 보안을 위협합니다.\n가상화 기술을 사용하는 개발자와 시스템 관리자는 즉각적인 대응이 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48806410",
+    "title": "Kani: A Model Checker for Rust",
+    "url": "https://arxiv.org/abs/2607.01504",
+    "discussion_url": "https://news.ycombinator.com/item?id=48806410",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-07-06T15:53:24+00:00",
+    "ai_summary": "Kani는 Rust 언어를 위한 강력한 모델 체커로, 코드의 형식적 검증을 통해 잠재적 버그와 안전 문제를 조기에 발견합니다.\n안전이 중요한 시스템을 개발하는 Rust 개발자에게 필수적인 도구입니다.\n높은 신뢰성과 견고한 소프트웨어를 구축하는 데 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48811317",
+    "title": "Poly/ML – A Standard ML Implementation",
+    "url": "https://github.com/polyml/polyml",
+    "discussion_url": "https://news.ycombinator.com/item?id=48811317",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-07-06T22:28:06+00:00",
+    "ai_summary": "Poly/ML은 정적 타입과 함수형 패러다임을 강조하는 Standard ML 언어의 구현체입니다.\n이는 함수형 프로그래밍 연구, 교육 및 특정 고신뢰성 시스템 개발에 활용됩니다.\n함수형 언어와 언어 구현에 관심 있는 개발자에게 적합합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48803364",
+    "title": "Road to Elm 1.0",
+    "url": "https://elm-lang.org/news/faster-builds",
+    "discussion_url": "https://news.ycombinator.com/item?id=48803364",
+    "summary": "",
+    "score": 297,
+    "published_at": "2026-07-06T11:47:37+00:00",
+    "ai_summary": "이 기사는 웹 프론트엔드 개발을 위한 함수형 언어 Elm의 1.0 버전 출시를 향한 여정을 다룹니다.\nElm은 안정적이고 유지보수가 용이한 웹 애플리케이션 구축에 중점을 둡니다.\n프론트엔드 개발자와 함수형 UI에 관심 있는 이들에게 중요한 소식입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48802535",
+    "title": "Real-time map of Great Britain's rail network",
+    "url": "https://www.map.signalbox.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=48802535",
+    "summary": "",
+    "score": 379,
+    "published_at": "2026-07-06T09:38:36+00:00",
+    "ai_summary": "이 프로젝트는 영국 철도망의 실시간 운행 상황을 보여주는 지도 개발에 관한 내용입니다.\n실시간 데이터 스트리밍, 대규모 데이터 처리, 지리 정보 시스템(GIS) 및 웹 기반 시각화 기술을 포함합니다.\n백엔드와 프론트엔드 개발자 모두에게 흥미로운 도전 과제를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/",
+    "title": "ByteDance set to launch Seedance 2.5 with 3-minute AI video output (2 minute read)",
+    "url": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/",
+    "discussion_url": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/",
+    "summary": "ByteDance is rumored to be launching its Dreamina Seedance 2.5 model on July 9. Availability is expected across Dreamina, CapCut, and other ByteDance partner platforms. The new model can output 180-second-long videos, but it is unclear whether it can keep character identity, motion, camera logic, and prompt intent stable.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "ByteDance는 Dreamina Seedance 2.5 모델을 7월 9일 출시할 예정입니다. 이 모델은 최대 180초 길이의 AI 비디오를 생성할 수 있으며, Dreamina, CapCut 등 다양한 플랫폼에서 사용 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "title": "Alibaba Reportedly Restricted Claude Code (1 minute read)",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "discussion_url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "summary": "Alibaba reportedly planned to prohibit employee use of Claude Code from July 10 after classifying it as high-risk software. Employees were instead directed toward Alibaba's Qoder tool amid Anthropic's efforts to prevent unauthorized access and model distillation.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "알리바바는 7월 10일부터 직원의 Claude Code 사용을 고위험 소프트웨어로 분류하여 금지할 계획입니다. 대신 직원들에게 알리바바의 Qoder 툴 사용을 지시했습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/",
+    "title": "OpenAI might be preparing GPT-5.6 for next week's release (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/",
+    "discussion_url": "https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/",
+    "summary": "OpenAI has moved GPT-5.6 into a narrow preview, splitting it into three tiers: Sol, Terra, and Luna. A notable change includes a new reasoning-effort control slider and an \"ultra\" mode for handling complex tasks. The release has implications for Codex users, amid Anthropic's Fable 5 changes, while broad access depends on US government review approvals.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "OpenAI는 GPT-5.6을 Sol, Terra, Luna 세 가지 티어로 나누어 비공개 프리뷰 중입니다. 새로운 추론 노력 제어 슬라이더와 복잡한 작업을 위한 '울트라' 모드가 주요 변경 사항입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+    "title": "Closing the Verification Loop (14 minute read)",
+    "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+    "discussion_url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+    "summary": "Agents have made building cheap, but the cost just moved to verifying whether things actually work. The verification loop is the distance between a claim and its proof. Most teams close this loop with humans, but agents are starting to outpace humans. Compound Engineering is a plugin with skills for coding agents. This post discusses how /ce-dogfood, a skill within Compound Engineering, closes the loop and the persona strategy that gives it eyes.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "AI 에이전트 개발로 인한 비용 절감에도 불구하고, 에이전트의 작동 여부를 검증하는 비용이 증가했습니다. Compound Engineering은 코딩 에이전트용 플러그인이며, 'ce-dogfood' 스킬이 이 검증 루프를 닫는 방법을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of",
+    "title": "Clouded Judgement 7.3.26 - The End of Compute Scarcity? Not So Fast (14 minute read)",
+    "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of",
+    "discussion_url": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of",
+    "summary": "Meta and SpaceX selling compute capacity could mean that there's excess compute capacity that two of the largest buyers no longer need. This may result in downward capex revisions for the hyperscalers. It's possible demand simply isn't there for what's being built with AI. However, this is unlikely, as anyone willing to sell capacity finds buyers immediately.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "Meta와 SpaceX가 컴퓨팅 용량을 판매하는 것은 AI 컴퓨팅 용량의 초과 공급 가능성을 시사할 수 있습니다. 하지만 실제로는 판매하려는 용량은 즉시 구매자를 찾고 있어 컴퓨팅 부족 현상은 아직 끝나지 않았을 가능성이 높습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/jamesob/local-llm",
+    "title": "jamesob's guide to running SOTA LLMs locally (12 minute read)",
+    "url": "https://github.com/jamesob/local-llm",
+    "discussion_url": "https://github.com/jamesob/local-llm",
+    "summary": "This guide discusses the hardware used to run SOTA AI models locally and how to run speech-to-text (STT) locally. It also provides a ready-to-run configuration for running models within Docker containers. A budget of $2,000 can get you a setup that runs Qwen and good STT. $40,000 can get you a machine that can run almost-Opus-level models.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "이 가이드는 SOTA AI 모델과 음성-텍스트(STT) 모델을 로컬에서 실행하기 위한 하드웨어 및 설정 방법을 설명합니다. Docker 컨테이너 내에서 모델을 실행할 수 있는 즉시 사용 가능한 구성도 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://map.currentai.org/",
+    "title": "Open Source AI Gap Map (Website)",
+    "url": "https://map.currentai.org/",
+    "discussion_url": "https://map.currentai.org/",
+    "summary": "The Gap Map maps out the open-source AI stack so people can collectively build what's missing. The current open source AI stack is seriously robust, but fragmented, duplicative, and hard to see as a coherent whole. The Gap Map helps people identify where to build new, where to invest in capability, and where to open up the tools. It is an invitation for greater collaboration and coordination across the space.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "Gap Map은 오픈소스 AI 스택을 시각화하여 누락된 부분을 파악하고 공동으로 구축하도록 돕는 웹사이트입니다. 파편화되고 중복된 현재 오픈소스 AI 스택 내에서 새로운 빌드 영역과 투자 필요 영역을 식별하는 데 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/trq212/status/2073100352921215386",
+    "title": "A Field Guide to Fable: Finding Your Unknowns (12 minute read)",
+    "url": "https://x.com/trq212/status/2073100352921215386",
+    "discussion_url": "https://x.com/trq212/status/2073100352921215386",
+    "summary": "The difference between the map and the territory is the unknown. When Claude runs into an unknown, it needs to make a decision based on its best guess. The more work that is done, the more unknowns Claude might run into. This post discusses how to use Claude to help discover unknowns. Discovering your unknowns before starting a project is a cheap way to find out what you didn't know before it gets expensive to fix.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "Claude(AI)를 활용하여 프로젝트 시작 전 '미지의 요소'를 발견하는 방법에 대한 내용입니다. 미지의 요소를 미리 파악하는 것은 비용이 많이 들기 전에 문제를 해결하는 저렴한 방법입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/aparnadhinak/status/2073079029624943040",
+    "title": "Own the Loop: A Field Guide to Agent Harnesses (5 minute read)",
+    "url": "https://x.com/aparnadhinak/status/2073079029624943040",
+    "discussion_url": "https://x.com/aparnadhinak/status/2073079029624943040",
+    "summary": "As coding models commoditize, the real differentiator is the harness: the control loop that manages tools, workflows, orchestration, and model routing. Vendor-native harnesses offer the best performance today, but owning a portable, model-agnostic loop may become the more durable advantage as models evolve and costs fall.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "코딩 모델에서 '하네스'(제어 루프)가 툴 관리, 워크플로우, 오케스트레이션 및 모델 라우팅을 담당하는 핵심 차별화 요소입니다. 모델 진화와 비용 하락에 따라 휴대 가능하고 모델에 구애받지 않는 루프를 소유하는 것이 유리할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/SergioPaniego/status/2073066275819991472",
+    "title": "A brief history of distillation in AI (4 minute read)",
+    "url": "https://x.com/SergioPaniego/status/2073066275819991472",
+    "discussion_url": "https://x.com/SergioPaniego/status/2073066275819991472",
+    "summary": "Distillation started as a way to compress large models into smaller, cheaper ones, but has evolved into a core post-training technique for transferring instruction-following and reasoning abilities from frontier models. Methods used by DeepSeek, Qwen, and GLM now sit at the center of both open model development and ongoing disputes over whether training on proprietary model outputs constitutes unauthorized copying.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "AI 증류(Distillation)는 대규모 모델 압축에서 시작하여, 지시 따르기 및 추론 능력을 전이하는 핵심 후처리 기술로 발전했습니다. 이 기술은 독점 모델 출력 학습의 저작권 문제와 관련하여 논쟁의 중심에 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/mistralai/LeanstralSafeVerify/blob/main/LeanstralReport.pdf",
+    "title": "Leanstral (12 minute read)",
+    "url": "https://github.com/mistralai/LeanstralSafeVerify/blob/main/LeanstralReport.pdf",
+    "discussion_url": "https://github.com/mistralai/LeanstralSafeVerify/blob/main/LeanstralReport.pdf",
+    "summary": "Leanstral is an open-source 119B-parameter theorem-proving and code-verification agent built on Mistral's general-purpose coding framework.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "Leanstral은 Mistral의 범용 코딩 프레임워크를 기반으로 구축된 오픈소스 119B 매개변수 정리 증명 및 코드 검증 에이전트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Jul/3/judgement/",
+    "title": "Let Fable use its own judgement rather than dictating how it should work (2 minute read)",
+    "url": "https://simonwillison.net/2026/Jul/3/judgement/",
+    "discussion_url": "https://simonwillison.net/2026/Jul/3/judgement/",
+    "summary": "It's better to tell Fable to use its own judgment when deciding to write tests and when choosing other models for smaller tasks.",
+    "score": 0,
+    "published_at": "2026-07-07T00:08:30+00:00",
+    "ai_summary": "Fable(AI)에게 테스트 작성 및 다른 모델 선택과 같은 작업에서 자체 판단을 맡기는 것이 좋습니다. 이는 AI의 자율적인 판단을 신뢰하고 활용하는 방식에 대한 조언입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
