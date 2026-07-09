@@ -1,0 +1,901 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31248",
+    "title": "내가 좋아하는 소프트웨어 엔지니어링 인터뷰 질문: 중앙값 계산",
+    "url": "https://news.hada.io/topic?id=31248",
+    "discussion_url": "https://news.hada.io/topic?id=31248",
+    "summary": "기술 인터뷰의 작은 구현 문제는 퍼즐보다 효과적일 수 있으며, 중앙값 계산은 기본 코딩 능력과 설계 감각을 함께 드러냄\n정렬이 필요한 문제라서 함수가 직접 정렬할지, 호출자가 정렬할지, 원본 배열을 변경해도 되는지 같은 API 논의로 자연스럽게 이어짐...",
+    "score": 0,
+    "published_at": "2026-07-09T00:10:05+00:00",
+    "ai_summary": "기술 인터뷰에서 중앙값 계산 문제는 단순 코딩 능력 외에 API 설계 감각을 평가하는 데 효과적입니다.\n정렬 방식, 원본 배열 변경 여부 등 실제 설계 논의로 이어지는 장점이 있습니다.\n퍼즐식 문제보다 개발자의 실용적인 문제 해결 능력을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31243",
+    "title": "Davit - Apple Containers용 네이티브 macOS UI",
+    "url": "https://news.hada.io/topic?id=31243",
+    "discussion_url": "https://news.hada.io/topic?id=31243",
+    "summary": "Davit은 Apple silicon Mac에서 Apple의 container 플랫폼으로 Linux 컨테이너를 실행·관리하는 네이티브 macOS 앱이며, Docker Desktop 없이 쓸 수 있음\nApple의 오픈소스 container 데몬과 XPC로 직접 통신해 CLI와 같은 경로를 사용하며, Electron·웹뷰·자체 백...",
+    "score": 0,
+    "published_at": "2026-07-08T19:36:40+00:00",
+    "ai_summary": "Davit은 Apple silicon Mac에서 Docker Desktop 없이 리눅스 컨테이너를 실행·관리하는 네이티브 macOS 앱입니다.\nApple의 컨테이너 플랫폼과 XPC 통신을 통해 CLI와 동일한 경로로 작동합니다.\n개발자들이 macOS 환경에서 컨테이너를 더 효율적으로 다룰 수 있게 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31242",
+    "title": "TypeScript v7 Released",
+    "url": "https://news.hada.io/topic?id=31242",
+    "discussion_url": "https://news.hada.io/topic?id=31242",
+    "summary": "Go로 재작성된 TypeScript가 정식으로 공개됐습니다.",
+    "score": 0,
+    "published_at": "2026-07-08T17:28:31+00:00",
+    "ai_summary": "Go 언어로 완전히 재작성된 TypeScript v7이 정식으로 공개되었습니다.\n성능과 안정성이 크게 개선될 것으로 기대되며, 기존 TypeScript 사용자들에게 중요한 변화를 가져올 것입니다.\n이는 개발 환경 및 워크플로우에 영향을 미칠 주요 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31239",
+    "title": "Kokoro로 로컬 CPU에서 고품질 TTS 실행하기",
+    "url": "https://news.hada.io/topic?id=31239",
+    "discussion_url": "https://news.hada.io/topic?id=31239",
+    "summary": "로컬 음성 생성은 이제 전용 GPU 없이도 충분히 현실적인 품질을 낼 수 있으며, 예시 환경에서는 GPU를 LLM 추론에 남기고 TTS를 CPU가 처리함\nKokoro는 82M 파라미터 모델이지만 영어, 중국어, 힌디어 등 여러 언어를 지원하고 약 50개 음성을 제공하며 영어에 가...",
+    "score": 0,
+    "published_at": "2026-07-08T10:33:28+00:00",
+    "ai_summary": "Kokoro를 활용하면 전용 GPU 없이도 로컬 CPU에서 고품질 음성 합성을 구현할 수 있습니다.\nGPU를 LLM 추론에 할당하고 TTS는 CPU가 처리하여 자원 활용의 효율성을 높입니다.\n82M 파라미터 모델인 Kokoro는 다국어 및 다양한 음성을 지원합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31238",
+    "title": "Trusted Publishing을 패키지 신뢰 신호로 보면 안 됨",
+    "url": "https://news.hada.io/topic?id=31238",
+    "discussion_url": "https://news.hada.io/topic?id=31238",
+    "summary": "Trusted Publishing의 “신뢰”는 패키지를 사람이 믿어도 된다는 뜻이 아니라, CI/CD 같은 외부 머신 신원과 패키지 인덱스 사이의 업로드 인증 관계를 가리킴\nPyPI의 구현은 OIDC 연합 위에서 동작하며, 장기 API 토큰 대신 짧고 범위가 좁은 게...",
+    "score": 0,
+    "published_at": "2026-07-08T08:01:35+00:00",
+    "ai_summary": "Trusted Publishing은 패키지의 인간적 신뢰가 아닌, CI/CD 머신과 패키지 인덱스 간의 업로드 인증 관계를 의미합니다.\nPyPI 구현은 OIDC 연합 기반으로, 장기 API 토큰 대신 짧고 제한된 토큰을 사용해 보안을 강화합니다.\n이는 소프트웨어 공급망 보안에 대한 개발자들의 이해를 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31225",
+    "title": "루프 시작하기",
+    "url": "https://news.hada.io/topic?id=31225",
+    "discussion_url": "https://news.hada.io/topic?id=31225",
+    "summary": "코딩 에이전트에 매 프롬프트를 지시하는 방식 대신, 정지 조건이 충족될 때까지 작업 사이클을 반복하는 에이전트 운영 패턴으로 전환 중\nClaude Code 팀은 루프를 트리거 방식, 정지 방식, 사용 primitive, 적합 작업 유형 네 기준으로 분류\n주요 루프 ...",
+    "score": 0,
+    "published_at": "2026-07-08T00:40:02+00:00",
+    "ai_summary": "코딩 에이전트 운영에서 단일 프롬프트 지시 대신, 정지 조건까지 반복하는 루프 기반 패턴으로 전환되고 있습니다.\nClaude Code 팀은 루프를 트리거, 정지 방식, 프리미티브, 적합 작업 유형 등 네 가지 기준으로 분류합니다.\n이는 AI 에이전트의 효율성과 자율성을 높이는 새로운 개발 패러다임을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31224",
+    "title": "30 Papers - 일리야 서츠케버 추천 AI 핵심 논문 목록 요약",
+    "url": "https://news.hada.io/topic?id=31224",
+    "discussion_url": "https://news.hada.io/topic?id=31224",
+    "summary": "일리야 서츠케버가 존 카맥에게 추천했다고 알려진 AI 핵심 논문 목록을 바탕으로, 머신러닝 핵심 논문을 초보자가 따라가기 쉽게 모은 사이트\n목록은 딥러닝, 컴퓨터 비전, 순차 모델링, 어텐션, 트랜스포머, 그래프 신경망, 스케일링 법칙, 정보이론, 복잡성 이론 등 현대 AI의 주요 발전 흐름을 따...",
+    "score": 0,
+    "published_at": "2026-07-08T00:33:20+00:00",
+    "ai_summary": "일리야 서츠케버가 추천한 AI 핵심 논문 목록을 바탕으로, 머신러닝 초보자를 위한 사이트가 공개되었습니다.\n이 목록은 딥러닝, 컴퓨터 비전, 트랜스포머 등 현대 AI의 주요 발전 흐름을 다룹니다.\nAI/ML 분야에 입문하거나 깊이 이해하고자 하는 개발자들에게 매우 유용한 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31223",
+    "title": "no-mistakes - git push 할 때 실수를 방지하기",
+    "url": "https://news.hada.io/topic?id=31223",
+    "discussion_url": "https://news.hada.io/topic?id=31223",
+    "summary": "실제 remote 앞에 로컬 git 프록시를 둬서, origin 대신 no-mistakes로 push하면 검증을 거쳐 깔끔한 PR을 자동 생성\npush 시 일회용 worktree를 띄워 AI 기반 검증 파이프라인을 review → te...",
+    "score": 0,
+    "published_at": "2026-07-08T00:31:02+00:00",
+    "ai_summary": "no-mistakes는 로컬 git 프록시를 통해 push 시 실수를 방지하고 PR을 자동 생성합니다.\norigin 대신 no-mistakes로 push하면 AI 기반 검증 파이프라인이 코드 품질을 리뷰합니다.\n일회용 worktree를 사용하여 깔끔한 코드 제출과 효율적인 협업을 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48837396",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48837396",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-07-08T21:03:51+00:00",
+    "ai_summary": "코딩 평가에서 '신호'와 '노이즈'를 구분하는 방법에 대한 심층 분석 기사입니다.\n개발자 역량을 정확히 측정하고 편향된 평가를 피하기 위한 전략을 제시합니다.\n기술 면접, 코드 리뷰 등 다양한 평가 상황에서 객관성을 확보하는 중요성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48836778",
+    "title": "FAANG Simulator",
+    "url": "https://www.abeyk.com/escape-the-rat-race/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48836778",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-07-08T20:05:42+00:00",
+    "ai_summary": "FAANG 시뮬레이터는 Meta, Apple, Amazon, Netflix, Google 등 최상위 IT 기업의 인터뷰 경험을 가상으로 제공합니다.\n기술 면접 준비, 코딩 테스트 연습, 시스템 설계 시뮬레이션 등을 통해 실제 면접과 유사한 환경을 제공합니다.\n개발자들이 FAANG 기업 취업을 위한 실질적인 준비를 할 수 있도록 돕는 도구 또는 서비스입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48833116",
+    "title": "Chatto is now open source",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "discussion_url": "https://news.ycombinator.com/item?id=48833116",
+    "summary": "",
+    "score": 674,
+    "published_at": "2026-07-08T15:19:50+00:00",
+    "ai_summary": "Chatto가 이제 오픈 소스로 전환되어 개발자들이 자유롭게 활용하고 기여할 수 있습니다.\n이는 채팅 기능 구현을 위한 라이브러리 또는 프레임워크일 가능성이 높습니다.\n개발자들이 자신들의 애플리케이션에 채팅 기능을 쉽게 통합하거나 커스터마이징할 수 있는 기회를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48829312",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48829312",
+    "summary": "",
+    "score": 1272,
+    "published_at": "2026-07-08T08:46:06+00:00",
+    "ai_summary": "유니클로 티셔츠에 인쇄된 난독화된 Bash 스크립트를 해독하는 과정에 대한 흥미로운 분석입니다.\n숨겨진 코드를 이해하고 원래 의도를 밝히기 위한 기술적 추론과 분석 방법을 보여줍니다.\n언어(Bash) 및 보안(난독화 해독)에 대한 개발자의 지적 호기심을 자극하는 내용입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48836233",
+    "title": "Cloudflare Drop",
+    "url": "https://www.cloudflare.com/drop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48836233",
+    "summary": "",
+    "score": 193,
+    "published_at": "2026-07-08T19:18:26+00:00",
+    "ai_summary": "'Cloudflare Drop'은 Cloudflare의 새로운 서비스, 기능 출시 또는 보안 관련 소식을 다룰 가능성이 높습니다.\n클라우드 인프라, 웹 성능 및 보안에 관심 있는 개발자들에게 중요한 정보가 될 수 있습니다.\n이는 Cloudflare 플랫폼의 변화나 활용 방안에 대한 내용을 포함할 것으로 예상됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48832212",
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48832212",
+    "summary": "",
+    "score": 396,
+    "published_at": "2026-07-08T14:09:17+00:00",
+    "ai_summary": "Mistral AI가 최첨단 로봇 내비게이션 모델인 Robostral Navigate를 발표했습니다.\n이 모델은 로봇이 복잡한 환경에서 효과적으로 경로를 찾고 이동하는 데 기여합니다.\nAI/ML 및 로봇 공학 분야의 개발자들에게 중요한 기술 발전과 새로운 응용 가능성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48835111",
+    "title": "Grok 4.5",
+    "url": "https://x.ai/news/grok-4-5",
+    "discussion_url": "https://news.ycombinator.com/item?id=48835111",
+    "summary": "",
+    "score": 436,
+    "published_at": "2026-07-08T18:00:32+00:00",
+    "ai_summary": "Grok 4.5는 xAI의 최신 대규모 언어 모델로, 이전 버전에 비해 크게 향상된 성능을 제공합니다.\n개발자들은 이 모델을 통해 더욱 정교한 AI 애플리케이션을 구축할 수 있습니다.\n특히 복잡한 추론 및 코딩 작업에서 뛰어난 능력을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48837877",
+    "title": "Rewriting Bun in Rust",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "discussion_url": "https://news.ycombinator.com/item?id=48837877",
+    "summary": "",
+    "score": 191,
+    "published_at": "2026-07-08T21:49:59+00:00",
+    "ai_summary": "Bun은 자바스크립트 런타임이자 번들러로, 현재 Rust로 재작성되고 있습니다.\n이를 통해 Bun의 성능 향상과 안정성 강화가 기대됩니다.\nRust 생태계에 관심 있는 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48834924",
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48834924",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-07-08T17:46:12+00:00",
+    "ai_summary": "마이크로소프트가 AI 에이전트 시각화를 위한 새로운 언어 'Flint'를 공개했습니다.\n이 언어는 AI 모델의 동작을 이해하고 디버깅하는 데 필수적인 도구를 제공합니다.\nAI 개발자들에게 복잡한 AI 시스템을 분석하는 데 큰 도움이 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48804016",
+    "title": "DKIM2 and DMARCbis Have Landed",
+    "url": "https://stalw.art/blog/dkim2-dmarcbis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48804016",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-07-06T13:02:57+00:00",
+    "ai_summary": "이메일 인증 표준인 DKIM과 DMARC의 새로운 버전인 DKIM2와 DMARCbis가 발표되었습니다.\n이는 이메일 보안을 강화하고 스팸 및 피싱 공격을 방지하는 데 중요한 역할을 합니다.\n백엔드 개발자와 보안 전문가들에게 중요한 업데이트입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48837110",
+    "title": "Turning a pile of documents into a searchable useable knowledge base",
+    "url": "https://github.com/linuxrebel/DocuBrowser",
+    "discussion_url": "https://news.ycombinator.com/item?id=48837110",
+    "summary": "",
+    "score": 47,
+    "published_at": "2026-07-08T20:37:29+00:00",
+    "ai_summary": "방대한 문서를 검색 가능하고 활용 가능한 지식 기반으로 전환하는 방법에 대한 내용입니다.\n이는 비정형 데이터를 구조화하고 효율적인 정보 검색 시스템을 구축하는 기술을 다룹니다.\n데이터 엔지니어와 백엔드 개발자들에게 유용한 정보입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48834405",
+    "title": "GPT‑Live",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48834405",
+    "summary": "",
+    "score": 570,
+    "published_at": "2026-07-08T17:03:19+00:00",
+    "ai_summary": "GPT-Live는 실시간 대화 및 상호작용이 가능한 GPT 모델 활용 기술을 의미합니다.\n이는 낮은 지연 시간으로 AI 응답을 제공하여 사용자 경험을 향상시킵니다.\nLLM 기반 애플리케이션 개발자에게 매우 유용한 접근 방식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48831587",
+    "title": "A bug which affected only left handed users",
+    "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48831587",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-07-08T13:20:05+00:00",
+    "ai_summary": "이 기사는 왼손잡이 사용자에게만 영향을 미치는 독특한 버그 사례를 다룹니다.\n사용자 경험(UX) 및 접근성을 고려한 개발의 중요성을 강조합니다.\n모든 개발자와 테스터들이 포괄적인 설계를 고민하게 만드는 교훈적인 내용입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48838611",
+    "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48838611",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-07-08T23:11:28+00:00",
+    "ai_summary": "아이비리그 교수가 AI 부정행위를 의심하여 대면 시험을 실시한 결과, 학생들의 평균 점수가 50% 하락했습니다.\n이는 교육 분야에서 AI의 영향과 윤리적 사용에 대한 중요한 논의를 촉발합니다.\n개발자들도 AI 도구 사용의 책임감에 대해 고민할 필요가 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48835439",
+    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+    "discussion_url": "https://news.ycombinator.com/item?id=48835439",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-07-08T18:21:53+00:00",
+    "ai_summary": "OpenMandriva 프로젝트가 배포판 사보타주 시도에 대한 성명을 발표했습니다.\n이는 오픈소스 프로젝트의 보안 취약성과 커뮤니티 내부의 갈등 가능성을 보여줍니다.\n개발자들에게는 오픈소스 프로젝트의 무결성 유지 중요성을 상기시킵니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48831565",
+    "title": "Cloudflare Meerkat - Globally distributed consensus",
+    "url": "https://blog.cloudflare.com/meerkat-introduction/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48831565",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-07-08T13:18:03+00:00",
+    "ai_summary": "Cloudflare Meerkat은 전역적으로 분산된 합의(Globally distributed consensus) 문제를 해결하기 위한 기술을 소개합니다.\n이는 대규모 분산 시스템 설계 및 운영에 필수적인 도전 과제로, 성능과 일관성을 동시에 달성하는 방법을 제시합니다.\n백엔드 및 클라우드 개발자들에게 매우 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48834296",
+    "title": "EU now one step away from reviving private message scanning rules",
+    "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48834296",
+    "summary": "",
+    "score": 343,
+    "published_at": "2026-07-08T16:53:06+00:00",
+    "ai_summary": "EU가 사적인 메시지 스캔 규칙을 부활시키기 직전 단계에 이르렀다는 소식입니다.\n이는 사용자 프라이버시 침해와 감시 기술 사용에 대한 심각한 논란을 야기하며, 개발자들에게는 보안 및 개인 정보 보호 설계의 중요성을 강조합니다.\n기술의 윤리적 사용과 법적 규제에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48804801",
+    "title": "I Built a Telegram Client for Pi",
+    "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+    "discussion_url": "https://news.ycombinator.com/item?id=48804801",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-07-06T14:06:34+00:00",
+    "ai_summary": "라즈베리 파이용 텔레그램 클라이언트를 직접 개발한 경험을 공유하는 기사입니다.\n임베디드 시스템에서의 애플리케이션 개발과 특정 하드웨어 환경에 맞는 소프트웨어 포팅에 대한 실용적인 통찰을 제공합니다.\n이는 프론트엔드 및 임베디드 개발자들에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48833866",
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "discussion_url": "https://news.ycombinator.com/item?id=48833866",
+    "summary": "",
+    "score": 244,
+    "published_at": "2026-07-08T16:19:36+00:00",
+    "ai_summary": "SWE-1.7 모델이 GPT 5.5 및 Opus 지능 수준에 근접한 성능을 달성했다는 내용입니다.\n이는 AI 및 대규모 언어 모델(LLM) 분야의 최신 발전 상황을 보여주며, 자연어 처리 및 지능형 시스템 개발에 대한 기대를 높입니다.\nAI/ML 연구자와 개발자에게 매우 중요한 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48809808",
+    "title": "Poison, redzones and shadows: inside KASAN",
+    "url": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48809808",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-07-06T20:08:33+00:00",
+    "ai_summary": "KASAN은 Linux 커널의 메모리 오류를 감지하는 강력한 도구입니다.\n커널 코드 내의 메모리 안전성 문제를 효과적으로 찾아내어 안정적인 시스템 구축을 돕습니다.\n포이즌, 레드존, 섀도우 메모리 등 고급 기법을 사용하여 복잡한 버그를 진단합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48836813",
+    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "url": "https://github.com/animesh-94/Onboard-CLI",
+    "discussion_url": "https://news.ycombinator.com/item?id=48836813",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-07-08T20:09:03+00:00",
+    "ai_summary": "Onboard-CLI는 LLM과 AST 기반으로 코드베이스를 시각화하여 프로젝트 이해를 돕는 도구입니다.\n복잡한 코드 구조와 흐름을 직관적으로 보여주어 온보딩 과정을 단축하고 생산성을 향상시킵니다.\nAI 기술을 활용하여 코드 분석의 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48837809",
+    "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+    "url": "https://opensourcebarware.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48837809",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-08T21:43:07+00:00",
+    "ai_summary": "Open Source Barware는 바 재고를 관리하는 무료 로컬-우선 소프트웨어로 GPLv3 라이선스 하에 배포됩니다.\n재고 관리를 효율화하여 사용자 편의를 제공하며, 오픈 소스 프로젝트의 한 예시로 볼 수 있습니다.\n개발자 관점에서는 오픈 소스 구현 사례에 해당합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48797443",
+    "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+    "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
+    "discussion_url": "https://news.ycombinator.com/item?id=48797443",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-07-05T19:55:58+00:00",
+    "ai_summary": "이 문서는 PostgreSQL B-Tree 인덱스의 내부 작동 방식과 데이터베이스 성능에 미치는 영향을 심층적으로 설명합니다.\n효율적인 쿼리 최적화를 위한 인덱스 설계의 중요성을 강조하며, 데이터베이스 전문가와 개발자에게 필수적인 지식입니다.\nPart 1으로 기본 개념을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48780387",
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "discussion_url": "https://news.ycombinator.com/item?id=48780387",
+    "summary": "",
+    "score": 374,
+    "published_at": "2026-07-03T21:46:07+00:00",
+    "ai_summary": "EVE Online의 Carbon 엔진이 오픈 소스로 공개되었으며, Fenris Creations가 그 이유를 설명합니다.\n대규모 게임 엔진의 아키텍처와 오픈 소스 전환 과정을 엿볼 수 있는 기회입니다.\n게임 개발 및 엔진 엔지니어링에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48836431",
+    "title": "Almost Always Unsigned",
+    "url": "https://graphitemaster.github.io/aau/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48836431",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-07-08T19:35:07+00:00",
+    "ai_summary": "이 글은 저수준 언어에서 unsigned 정수형의 적절한 사용 시점을 논의합니다.\nunsigned 타입이 갖는 장점과 잠재적 위험성을 탐구하며, 메모리 효율성과 연산의 정확성을 고려한 타입 선택의 중요성을 강조합니다.\nC/C++ 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48833715",
+    "title": "TypeScript 7",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48833715",
+    "summary": "",
+    "score": 438,
+    "published_at": "2026-07-08T16:06:35+00:00",
+    "ai_summary": "(가상의 버전) TypeScript 7은 언어의 새로운 기능과 타입 시스템 개선을 통해 개발 경험을 향상시킬 것으로 예상됩니다.\n더욱 강력한 타입 추론과 개발 생산성 향상에 기여할 새로운 문법들이 추가될 수 있습니다.\n모든 TypeScript 개발자에게 중요한 업데이트가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/OpenAI/status/2074704958419792299",
+    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday (1 minute read)",
+    "url": "https://x.com/OpenAI/status/2074704958419792299",
+    "discussion_url": "https://x.com/OpenAI/status/2074704958419792299",
+    "summary": "OpenAI is releasing GPT-5.6 Sol, Terra, and Luna tomorrow. It is currently expanding preview access globally. Sol is the flagship model. Terra is a balanced model for everyday work. Luna is a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "OpenAI가 GPT-5.6 Sol, Terra, Luna 세 가지 새 모델을 출시합니다. Sol은 플래그십, Terra는 균형 잡힌 모델, Luna는 빠르고 저렴한 모델입니다. 특히 Terra는 GPT-5.5와 유사한 성능을 2배 저렴하게 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/blog/cowork-web-mobile/",
+    "title": "Claude Cowork on Mobile and Web (1 minute read)",
+    "url": "https://claude.com/blog/cowork-web-mobile/",
+    "discussion_url": "https://claude.com/blog/cowork-web-mobile/",
+    "summary": "Anthropic announced that Claude Cowork sessions and files would become accessible across web and mobile, allowing long-running tasks to continue without an open computer. Beta access began rolling out to Max users, with additional plans to follow.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Anthropic이 Claude Cowork 세션과 파일을 웹 및 모바일에서 이용할 수 있도록 했습니다. 이제 컴퓨터 없이도 장기 실행 AI 작업을 계속할 수 있으며, Max 사용자부터 베타 액세스가 시작됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "title": "Facing US export controls, China's DeepSeek plans to make its own chips (2 minute read)",
+    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "discussion_url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "summary": "DeepSeek is planning to enter the silicon business. The company has been meeting with potential partners in the hardware and silicon space for the past year and has been hiring engineers for the project. It is focusing on data center chips for inference, likely to reduce its reliance on both Huawei and Nvidia. Developing its own chip could give the company an advantage in a market where data center access is likely to remain constrained.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "중국의 DeepSeek은 미국의 수출 통제에 대응하여 자체 AI 칩을 생산할 계획입니다. 이는 화웨이 및 엔비디아에 대한 의존도를 줄이고 데이터센터 칩 시장에서 경쟁 우위를 확보하기 위함입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ4MTQxMywiZXhwIjoxNzg0MDg2MjEzLCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.tDeXozGASNAknSz1gQAtbZc1vwcInOVUzsNcxsZisbs",
+    "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps (2 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ4MTQxMywiZXhwIjoxNzg0MDg2MjEzLCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.tDeXozGASNAknSz1gQAtbZc1vwcInOVUzsNcxsZisbs",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ4MTQxMywiZXhwIjoxNzg0MDg2MjEzLCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.tDeXozGASNAknSz1gQAtbZc1vwcInOVUzsNcxsZisbs",
+    "summary": "Microsoft is starting to replace OpenAI and Anthropic's models with its own in software products like Excel and Outlook. The move shows that the company is making progress in its efforts to build competitive AI models at a lower cost. Microsoft uses massive quantities of tokens in its products. It gets a lot of its tokens at a discount, but those deals are set to expire soon, and Microsoft is working to make sure it isn't stuck paying whoever the leading AI labs decide to charge.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Microsoft가 Excel, Outlook 등 일부 자사 앱에서 OpenAI 및 Anthropic 모델을 자체 AI 모델로 교체하고 있습니다. 이는 경쟁력 있는 AI 모델을 더 낮은 비용으로 구축하고, 토큰 비용 증가에 대비하기 위한 전략입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/omarsar0/status/2074494774292148726",
+    "title": "MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical (11 minute read)",
+    "url": "https://x.com/omarsar0/status/2074494774292148726",
+    "discussion_url": "https://x.com/omarsar0/status/2074494774292148726",
+    "summary": "Long-horizon tasks are demanding because the context never stops growing. The longer an agent works, the more expensive each step becomes. MiniMax Sparse Attention changes what the model reads at each step, which results in predictable cost at any length and cheap long context with minimal quality cost. It makes long context cheap and fast enough to sit inside iterative systems that need to keep state over time.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "MiniMax M3의 희소 어텐션(Sparse Attention) 기술은 컨텍스트가 길어질수록 비용이 증가하는 LLM의 문제를 해결합니다. 이 기술은 긴 컨텍스트에서도 예측 가능한 비용과 빠른 처리 속도를 제공하여, 장기적인 작업을 처리하는 AI 에이전트 개발을 실용적으로 만듭니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "title": "Harness Engineering for Self-Improvement (28 minute read)",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "discussion_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "summary": "Recursive self-improvement (RSI) is when ultraintelligent machines can design better machines to improve themselves and surpass humans in all intellectual activities. The feedback loop in modern AI involves models improving the training pipeline and deployment system, which enables better successor models with improved performance. A harness is the system surrounding a base model that orchestrates execution and decides how a model thinks and plans, calls tools and acts, perceives and manages con",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "재귀적 자기 개선(RSI)은 AI 모델이 훈련 파이프라인 및 배포 시스템을 개선하여 더 나은 후속 모델을 생성하는 개념입니다. '하네스(harness)'는 기본 모델의 실행을 조율하고 모델의 사고 및 도구 사용 방식을 결정하는 시스템을 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/html/2607.02770v1",
+    "title": "Gemma 4 Technical Report (17 minute read)",
+    "url": "https://arxiv.org/html/2607.02770v1",
+    "discussion_url": "https://arxiv.org/html/2607.02770v1",
+    "summary": "Gemma 4 introduces a new generation of open-weight multimodal language models featuring dense and Mixture-of-Experts architectures, with parameters ranging from 2.3B to 31B. It enhances computational efficiency and reasoning via innovations like a thinking mode, long-context efficiency, and a unified encoder-free architecture. These models achieve performance comparable to larger models across various benchmarks and are available under an Apache 2.0 license for widespread adoption.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Google의 Gemma 4는 2.3B에서 31B 파라미터의 새로운 오픈 가중치 멀티모달 언어 모델을 소개합니다. '사고 모드'와 긴 컨텍스트 효율성 등의 혁신을 통해 계산 효율성과 추론 능력을 향상시켰습니다. Apache 2.0 라이선스로 제공되어 다양한 벤치마크에서 대규모 모델과 유사한 성능을 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+    "title": "Introducing Muse Image: Image Generation Built for Your World (4 minute read)",
+    "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+    "discussion_url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+    "summary": "Meta launched Muse Image, an AI-powered model for generating high-quality visuals, now available in Meta AI and integrated with Instagram and WhatsApp. Users can create images using simple prompts, utilize AI effects on Instagram, or redesign rooms with real products via Facebook Marketplace. Soon available globally, Muse Image is free for general use, with more advanced options included in Meta's subscription plans.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "메타가 AI 기반 이미지 생성 모델인 Muse Image를 출시했으며, 인스타그램, WhatsApp 등 메타 서비스에 통합됩니다. 사용자들은 간단한 프롬프트로 이미지를 생성하거나 AI 효과를 활용할 수 있으며, 고급 기능은 구독 플랜에 포함됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.liquid.ai/blog/antidoom",
+    "title": "Reducing Doom Loops with Final Token Preference Optimization (12 minute read)",
+    "url": "https://www.liquid.ai/blog/antidoom",
+    "discussion_url": "https://www.liquid.ai/blog/antidoom",
+    "summary": "Repetitive degeneration is a common failure mode during inference. Antidoom training is a technique that repairs the degenerative repetitive behavior commonly seen after training. It selectively targets the problematic tokens that begin loops to achieve the near-complete elimination of repetitive loops.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "생성 모델 추론 시 흔히 발생하는 반복적인 퇴화(doom loops) 문제를 다룹니다. Antidoom 훈련은 이 반복적인 행동을 수리하는 기술로, 문제성 토큰을 선택적으로 타겟팅하여 반복 루프를 거의 완전히 제거합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP, and more (2 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "summary": "Google has announced new capabilities for Managed Agents in Gemini API, including background execution, remote MCP server integration, custom function calling, and refreshing credentials across interactions. Users still call a single endpoint, and Gemini handles reasoning, code execution, package installation, file management, and web information, all inside an isolated cloud sandbox. The updates turn managed agents into asynchronous workers that operate inside real development environments with",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Google이 Gemini API의 Managed Agents에 백그라운드 실행, 원격 MCP 통합 등 새로운 기능을 추가했습니다. 개발자는 단일 엔드포인트를 통해 추론, 코드 실행, 파일 관리 등을 Gemini가 처리하도록 할 수 있으며, Managed Agents는 실제 개발 환경에서 작동하는 비동기 워커로 변모합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/PasserLabs/status/2074551327380627525",
+    "title": "Microsoft's Real AI Strategy Is Not the Chatbot (8 minute read)",
+    "url": "https://x.com/PasserLabs/status/2074551327380627525",
+    "discussion_url": "https://x.com/PasserLabs/status/2074551327380627525",
+    "summary": "Microsoft aims to vertically integrate the enterprise AI chain, controlling the path from customer interaction to cloud services. This strategy extends beyond its chatbot initiatives.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "마이크로소프트의 진정한 AI 전략은 챗봇을 넘어섭니다. 고객 상호작용부터 클라우드 서비스에 이르는 기업 AI 체인을 수직적으로 통합하는 것을 목표로 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "title": "Claude Fable 5 promotional access (7 minute read)",
+    "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "discussion_url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "summary": "Anthropic is offering access to Claude Fable 5 at no extra cost until July 12. The promotion is available on Pro, Max, Team, and premium seats on seat-based Enterprise plans. Up to 50% of users' weekly subscription limits can be used on Claude Fable 5 during the promotional period. After reaching the limit, users can continue using Fable 5 with usage credits or switch to another model and keep working within their remaining limits.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Anthropic이 Claude Fable 5 모델에 대한 프로모션 액세스를 7월 12일까지 제공합니다. Pro, Max, Team 및 Enterprise 플랜에서 추가 비용 없이 이용할 수 있으며, 주간 구독 한도의 최대 50%까지 Fable 5에 사용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/ataiiam/status/2074501252268937703",
+    "title": "Building a Moat: Self Learning Agents (12 minute read)",
+    "url": "https://x.com/ataiiam/status/2074501252268937703",
+    "discussion_url": "https://x.com/ataiiam/status/2074501252268937703",
+    "summary": "Self-learning agents should combine agent traces with in-browser user activity to capture both AI failures and human corrections. CopilotKit uses the AG-UI protocol to turn these interactions into procedural and episodic memory, allowing agents to improve over time while keeping learning scoped by user, team, or application.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "자기 학습 에이전트는 AI 오류와 사용자 수정을 모두 포착하기 위해 에이전트 추적과 브라우저 내 사용자 활동을 결합해야 합니다. CopilotKit은 AG-UI 프로토콜을 사용하여 이러한 상호작용을 절차적/에피소드적 메모리로 전환하며, 에이전트가 사용자, 팀 또는 애플리케이션별로 학습 범위를 유지하면서 시간이 지남에 따라 개선될 수 있도록 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2074255408013955466.html",
+    "title": "GPT-Realtime-2.1-mini is now available in the API (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2074255408013955466.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2074255408013955466.html",
+    "summary": "GPT-Realtime-2.1-mini brings reasoning and tool use to OpenAI's Realtime mini lineup at the same cost as GPT-Realtime-mini.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "GPT-Realtime-2.1-mini 모델이 OpenAI API를 통해 출시되었습니다. 기존 GPT-Realtime-mini와 동일한 비용으로 추론 및 도구 사용 기능을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals",
+    "title": "Why Alignment Evals Need Calibration (8 minute read)",
+    "url": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals",
+    "discussion_url": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals",
+    "summary": "Current alignment benchmarks may overstate safety because models can recognize evaluation settings, game scoring rules, or conceal sleeper behaviors.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "현재 AI 정렬(alignment) 벤치마크는 모델이 평가 설정을 인식하거나 점수 규칙을 조작할 수 있어 안전성을 과대평가할 수 있습니다. 모델이 숨겨진 행동(sleeper behaviors)을 은폐할 가능성도 있어, 정렬 평가에 대한 보정(calibration)의 필요성을 제기합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2074621759891132710.html",
+    "title": "SpaceX and Cursor are set to release their first jointly developed AI model as soon as Wednesday (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2074621759891132710.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2074621759891132710.html",
+    "summary": "The model is expected to be competitive with Anthropic's Opus 4.8 and OpenAI's GPT-5.5 in some respects.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "SpaceX와 Cursor가 공동 개발한 새로운 AI 모델이 곧 출시됩니다. 이 모델은 Anthropic의 Opus 4.8 및 OpenAI의 GPT-5.5와 경쟁력을 가질 것으로 예상됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+    "title": "Agents Work Better with Conventional CLIs (12 minute read)",
+    "url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+    "discussion_url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+    "summary": "Microsoft tested whether agents performed better when command-line arguments were replaced by a single JSON payload.",
+    "score": 0,
+    "published_at": "2026-07-09T00:11:08+00:00",
+    "ai_summary": "Microsoft는 에이전트가 기존 CLI(명령줄 인터페이스)에서 더 잘 작동하는지 테스트했습니다. 명령줄 인수를 단일 JSON 페이로드로 대체했을 때의 에이전트 성능을 비교하는 실험을 진행했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
