@@ -1,0 +1,92 @@
+[
+  {
+    "name": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 21023,
+    "today_stars": 117,
+    "forks": 3430
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "stars": 17794,
+    "today_stars": 120,
+    "forks": 3211
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "stars": 29009,
+    "today_stars": 230,
+    "forks": 3183
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 7048,
+    "today_stars": 338,
+    "forks": 945
+  },
+  {
+    "name": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": 49357,
+    "today_stars": 229,
+    "forks": 10681
+  },
+  {
+    "name": "zeux/meshoptimizer",
+    "url": "https://github.com/zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "language": "C++",
+    "stars": 8134,
+    "today_stars": 111,
+    "forks": 788
+  },
+  {
+    "name": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "stars": 4398,
+    "today_stars": 75,
+    "forks": 656
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "stars": 7765,
+    "today_stars": 900,
+    "forks": 966
+  },
+  {
+    "name": "chriskohlhoff/asio",
+    "url": "https://github.com/chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "language": "C++",
+    "stars": 6137,
+    "today_stars": 75,
+    "forks": 1509
+  },
+  {
+    "name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "stars": 94554,
+    "today_stars": 654,
+    "forks": 4959
+  }
+]
