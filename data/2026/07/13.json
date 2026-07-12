@@ -1,0 +1,523 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31366",
+    "title": "Show GN: macOS/iOS Native RSS 리더 앱을 개발했습니다.",
+    "url": "https://news.hada.io/topic?id=31366",
+    "discussion_url": "https://news.hada.io/topic?id=31366",
+    "summary": "안녕하세요, 이번에 macOS, iOS 네이티브 앱을 새로 만들었습니다.\n기기 상관 없이 기존에 사용하고 있는 iCloud 기반으로 동기화를 할 수 있으면서 무료이고, 어느 플랫폼에도 정보가 묶이지 않도록 하는게 핵심이었습니다.\n전 약 10년 넘게 RSS 앱을 이것저것 사용하면서 정착하지 못하고 있었는데요,",
+    "score": 0,
+    "published_at": "2026-07-12T23:31:49+00:00",
+    "ai_summary": "macOS/iOS 네이티브 RSS 리더 앱 개발 소식입니다. iCloud 기반 동기화, 무료, 플랫폼 독립성을 핵심 가치로 삼았습니다. 10년 넘게 RSS 앱에 정착하지 못했던 경험에서 사용자 불편을 해소하고자 제작되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31360",
+    "title": "AI 2040과 지능 숭배",
+    "url": "https://news.hada.io/topic?id=31360",
+    "discussion_url": "https://news.hada.io/topic?id=31360",
+    "summary": "재귀적 자기 개선이 곧바로 하드 테이크오프로 이어진다는 전망은 물리적 제약과 공급망의 병목을 과소평가하며, 높은 품질의 토큰만으로 물질 세계를 마음대로 바꿀 수는 없음\n휴대전화 수준의 복잡한 하드웨어를 생산하려면 규격 미달 부품, 무작위 고장, 리플로 공정의 칩 변형, ...",
+    "score": 0,
+    "published_at": "2026-07-12T19:34:34+00:00",
+    "ai_summary": "AI의 재귀적 자기 개선이 급진적 발전을 이끈다는 전망은 물리적 제약과 공급망 병목을 간과합니다. 휴대전화처럼 복잡한 하드웨어 생산은 규격 미달 부품, 고장 등 현실적 난관에 부딪힙니다. 높은 품질의 토큰만으로 물질 세계를 마음대로 바꿀 수 없음을 지적합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31358",
+    "title": "UPI 결제 한 건이 처리되는 과정",
+    "url": "https://news.hada.io/topic?id=31358",
+    "discussion_url": "https://news.hada.io/topic?id=31358",
+    "summary": "QR 스캔부터 완료 알림까지 불과 2~3초지만, 뒤에서는 앱·스폰서 은행·NPCI 중앙 스위치·송금 및 수취 은행이라는 서로 분리된 주체가 요청과 응답을 릴레이함\nPhonePe나 Google Pay 같은 앱은 결제 의도만 수집하고 돈이나 PIN을 직접 다루지 않으며, PSP 스폰서 은행",
+    "score": 0,
+    "published_at": "2026-07-12T18:41:02+00:00",
+    "ai_summary": "UPI 결제는 QR 스캔부터 완료까지 2~3초 내에 앱, 스폰서 은행, NPCI 중앙 스위치 등 여러 분리된 주체가 요청을 릴레이합니다. PhonePe나 Google Pay 같은 앱은 결제 의도만 수집하며, 돈이나 PIN은 PSP 스폰서 은행이 직접 처리합니다. 분산된 금융 시스템의 복잡한 처리 과정을 설명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31352",
+    "title": "Show GN: Repo-rter - 깃허브 레포지토리 통계를 영구 저장하고 쉽게 볼 수 있는 로컬 데스크탑 크로스 플랫폼 앱",
+    "url": "https://news.hada.io/topic?id=31352",
+    "discussion_url": "https://news.hada.io/topic?id=31352",
+    "summary": "소개\n\n깃허브가 기본 제공하는 Insights(트래픽, 클론 등) 데이터가 14일만 지나면 삭제되는 문제를 해결하기 위해 개발된 무료 오픈소스 데스크탑 앱입니다.\nAPI를 통해 데이터를 가져와 사용자의 로컬 머신에 캐싱함으로써, 영구적으로 트래픽 기록을 보존하고 조회할 수 있습니다.\n...",
+    "score": 0,
+    "published_at": "2026-07-12T14:50:57+00:00",
+    "ai_summary": "GitHub의 14일 한정 Insights 데이터 문제를 해결하기 위한 무료 오픈소스 데스크탑 앱 'Repo-rter'입니다. GitHub API를 통해 데이터를 가져와 사용자의 로컬 머신에 캐싱함으로써, 레포지토리 트래픽 기록을 영구적으로 보존하고 조회할 수 있습니다. 개발자 생산성 향상을 위한 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31351",
+    "title": "Mesh LLM - iroh 기반 분산 AI 컴퓨팅",
+    "url": "https://news.hada.io/topic?id=31351",
+    "discussion_url": "https://news.hada.io/topic?id=31351",
+    "summary": "여러 머신에 흩어진 GPU와 메모리를 하나의 컴퓨팅 자원으로 묶어, 로컬 실행·피어 전달·분할 실행을 OpenAI 호환 API 하나로 제공함\n요청은 로컬 GPU나 모델을 적재한 피어에서 처리되며, 한 머신에 들어가지 않는 모델은 여러 노드에 파이프라인 단계로 나눠 실행...",
+    "score": 0,
+    "published_at": "2026-07-12T12:33:54+00:00",
+    "ai_summary": "'Mesh LLM'은 iroh 기반으로 여러 머신에 흩어진 GPU와 메모리를 하나의 컴퓨팅 자원으로 통합합니다. OpenAI 호환 API를 통해 로컬 실행, 피어 전달, 분할 실행 기능을 제공합니다. 대규모 모델도 여러 노드에 파이프라인 단계로 나누어 실행할 수 있는 분산 AI 컴퓨팅 솔루션입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31350",
+    "title": "Show GN: AirPods 노이즈 캔슬링 중 이름 호출을 놓치지 않게 해주는 macOS 앱",
+    "url": "https://news.hada.io/topic?id=31350",
+    "discussion_url": "https://news.hada.io/topic?id=31350",
+    "summary": "저는 사무실에서 누군가가 한숨을 쉬거나 키보드를 시끄럽게 치는 등 별거 아닌 소리에도 예민해져서 항상 에어팟을 끼고 노이즈캔슬링을 키고 일합니다. 최근 에어팟 프로3을 사서 사용해보니 노이즈캔슬링이 너무 잘 되어서, 가끔은 사람들이 저를 부르는 소리를 못 들을까봐 또 신경이 쓰이더라고요 그래서 EarsUp...",
+    "score": 0,
+    "published_at": "2026-07-12T10:05:10+00:00",
+    "ai_summary": "AirPods 노이즈 캔슬링 사용 중 주변의 이름 호출을 놓치는 문제를 해결하는 macOS 앱 'EarsUp'입니다. 사무실에서 노이즈 캔슬링을 사용하며 겪는 불편함에서 착안하여 개발되었습니다. 사용자가 중요한 호출을 놓치지 않도록 돕는 유틸리티 앱입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31348",
+    "title": "Ant, 경량 JavaScript 런타임과 생태계",
+    "url": "https://news.hada.io/topic?id=31348",
+    "discussion_url": "https://news.hada.io/topic?id=31348",
+    "summary": "자체 개발한 Ant Silver 엔진으로 실제 npm 패키지를 실행하며, 약 8.6MB의 단일 바이너리와 빠른 시작 속도를 내세움\nV8·JSC·SpiderMonkey를 감싼 구조가 아니며, compat-table 100% 와 WinterTC 준수를 표시하고 Hono·Elysia·TypeScript·React·Rolldown·Wasm 등을...",
+    "score": 0,
+    "published_at": "2026-07-12T09:37:11+00:00",
+    "ai_summary": "Ant는 자체 Silver 엔진으로 npm 패키지를 실행하는 경량 JavaScript 런타임입니다.\nV8 등 기존 엔진에 의존하지 않으며, 8.6MB 단일 바이너리와 빠른 시작 속도를 제공합니다.\nHono, Elysia, TypeScript, React, Wasm 등을 지원하여 폭넓은 개발 생태계 호환성을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31343",
+    "title": "Ghost Font - 사람은 읽지만 AI는 읽기 어려운 글꼴",
+    "url": "https://news.hada.io/topic?id=31343",
+    "discussion_url": "https://news.hada.io/topic?id=31343",
+    "summary": "Ghost Font는 배경과 같은 점들의 움직임으로 글자를 만들어, 사람은 영상에서 메시지를 인식하지만 개별 프레임을 분석하는 AI는 쉽게 해독하지 못하게 하는 시각 커뮤니케이션 실험임\n전통적인 TTF 글꼴 대신 움직임·영상·노이즈·미끼 메시지를 결합하며, 영상을...",
+    "score": 0,
+    "published_at": "2026-07-12T00:44:08+00:00",
+    "ai_summary": "Ghost Font는 움직이는 점들로 글자를 생성하여 사람이 인식하나, AI는 쉽게 해독하지 못하게 하는 글꼴입니다.\n이는 AI 시각 인식을 회피하기 위한 시각 커뮤니케이션 실험의 일환입니다.\n기존 글꼴 대신 영상, 노이즈를 활용하는 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31342",
+    "title": "GPT-5.6, Grok 4.5, Claude, Muse Spark로 동일한 앱 4개를 만든 결과",
+    "url": "https://news.hada.io/topic?id=31342",
+    "discussion_url": "https://news.hada.io/topic?id=31342",
+    "summary": "12개 모델에 레이캐스터 미로, 3D 루빅스 큐브, 계산기, Conway’s Game of Life를 만들게 한 결과, GPT-5.6 Sol과 Claude Fable 5가 복잡한 과제의 선두를 나눠 가짐\n모델마다 과제별로 5회씩 시도해 성공 횟수·비용·시간과 모든 결과물을 공개했...",
+    "score": 0,
+    "published_at": "2026-07-12T00:42:10+00:00",
+    "ai_summary": "12가지 LLM을 사용하여 4개의 동일한 앱(미로, 3D 큐브 등)을 개발하는 실험이 진행되었습니다.\n실험 결과, GPT-5.6 Sol과 Claude Fable 5가 복잡한 과제 해결에서 가장 뛰어난 성능을 보였습니다.\n각 모델의 성공률, 비용, 시간 등 상세 결과가 공개되어 LLM의 코드 생성 능력을 평가합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884853",
+    "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884853",
+    "summary": "",
+    "score": 214,
+    "published_at": "2026-07-12T21:12:11+00:00",
+    "ai_summary": "Chromium 148 버전부터 JavaScript의 `Math.tanh` 함수가 기저 운영체제를 식별할 수 있게 되었습니다.\n이 변화는 브라우저 핑거프린팅의 새로운 기법으로 활용될 수 있어 사용자 추적에 영향을 미칩니다.\n프런트엔드 및 보안 개발자들은 이러한 잠재적 개인 정보 침해 요소에 주의를 기울여야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884395",
+    "title": "Tiny Emulators",
+    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884395",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-07-12T20:23:05+00:00",
+    "ai_summary": "(제목 기반 추론) 이 기사는 작은 크기의 경량 에뮬레이터들에 대한 정보를 다룰 것으로 예상됩니다.\n이는 임베디드 시스템, 레트로 게임 개발 또는 특정 하드웨어 환경 시뮬레이션에 유용할 수 있습니다.\n개발자에게는 다양한 플랫폼에서 코드 테스트 및 디버깅을 위한 효과적인 도구로 활용될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884984",
+    "title": "Ask HN: What Are You Working On? (July 2026)",
+    "url": "https://news.ycombinator.com/item?id=48884984",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884984",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-07-12T21:26:41+00:00",
+    "ai_summary": "해커 뉴스(HN)에서 개발자들이 각자 무엇을 작업하고 있는지 공유하는 정기 스레드입니다.\n다양한 개발 분야의 최신 트렌드와 개인적인 프로젝트들을 엿볼 수 있습니다.\n커뮤니티 내에서 영감을 얻고, 네트워킹하며, 새로운 도구와 아이디어를 발견하는 기회를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48885728",
+    "title": "Designing and assembling my first PCB",
+    "url": "https://vilkeliskis.com/b/2026/0711.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48885728",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-12T22:56:56+00:00",
+    "ai_summary": "개인이 처음으로 인쇄 회로 기판(PCB)을 설계하고 조립하는 경험을 공유하는 글입니다.\n하드웨어 개발의 기본 원리와 실용적인 제작 과정에 대한 통찰을 제공합니다.\n임베디드 시스템, IoT 또는 하드웨어 취미에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884992",
+    "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+    "url": "https://kode.diy",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884992",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-07-12T21:27:29+00:00",
+    "ai_summary": "메이커, 모의 침투 테스터, 기술 애호가를 위한 프로그래밍 가능한 소형 장치인 Kode Dot에 대한 내용입니다.\n다양한 프로젝트 제작과 보안 테스트에 활용될 수 있는 다목적 도구입니다.\n임베디드 시스템, 보안 또는 하드웨어 해킹에 관심 있는 개발자에게 특히 흥미로울 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48883275",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "discussion_url": "https://news.ycombinator.com/item?id=48883275",
+    "summary": "",
+    "score": 419,
+    "published_at": "2026-07-12T18:25:51+00:00",
+    "ai_summary": "Claude Code가 프롬프트를 읽기 전에 33k 토큰을 보내는 반면, OpenCode는 7k 토큰을 보냅니다.\n이는 LLM 사용 시 API 비용 효율성과 응답 속도에 큰 영향을 미칠 수 있음을 시사합니다.\nLLM 기반 애플리케이션 개발자 및 비용 최적화에 관심 있는 사람들에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48882716",
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "discussion_url": "https://news.ycombinator.com/item?id=48882716",
+    "summary": "",
+    "score": 103,
+    "published_at": "2026-07-12T17:13:07+00:00",
+    "ai_summary": "프로덕션 AI 에이전트를 GPT-5.6으로 마이그레이션하여 2.2배 빨라지고 27% 비용이 절감된 사례입니다.\nLLM 기반 시스템의 성능 개선 및 비용 최적화에 대한 실제적인 성공 사례를 보여줍니다.\nAI/ML 및 LLM 애플리케이션을 운영하는 개발자에게 매우 유용한 인사이트를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48880170",
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48880170",
+    "summary": "",
+    "score": 397,
+    "published_at": "2026-07-12T11:09:42+00:00",
+    "ai_summary": "최신 코딩 에이전트를 활용하여 기존 애플리케이션과 새로운 애플리케이션을 다루는 방법에 대한 기사입니다.\nAI 기반 개발 도구가 레거시 시스템 현대화 및 개발 생산성 향상에 어떻게 기여하는지 탐구합니다.\nAI를 활용한 개발 프로세스 자동화 및 코드 마이그레이션에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48885708",
+    "title": "Architecture Description Languages [pdf]",
+    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=48885708",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-07-12T22:54:07+00:00",
+    "ai_summary": "아키텍처 기술 언어(ADL)는 소프트웨어 시스템의 아키텍처를 명확하고 정형적으로 정의합니다.\n이를 통해 시스템 설계의 모호성을 줄이고 분석 및 검증을 용이하게 합니다.\n개발자는 ADL을 활용하여 복잡한 시스템의 구조를 효과적으로 소통하고 관리할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48885525",
+    "title": "A Speed Limit for Computers",
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "discussion_url": "https://news.ycombinator.com/item?id=48885525",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-07-12T22:29:46+00:00",
+    "ai_summary": "이 기사는 컴퓨터의 속도 한계에 대한 근본적인 이론적 또는 물리적 제약을 탐구할 가능성이 높습니다.\n정보 처리의 물리적 경계와 컴퓨팅 성능의 궁극적인 한계에 대해 논의할 수 있습니다.\n개발자는 이러한 기초 지식을 통해 미래 기술의 방향을 이해할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48883090",
+    "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48883090",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-07-12T18:04:41+00:00",
+    "ai_summary": "LLM의 동작을 이해하기 위해 기계적 해석 가능성 연구자들이 인과성 이론을 적용하고 있습니다.\n이는 LLM 내부 작동 방식과 의사결정 과정을 심층적으로 분석하는 데 초점을 맞춥니다.\n개발자는 이를 통해 LLM의 신뢰성과 투명성을 높이는 데 기여할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48882569",
+    "title": "LARP – Revenue infrastructure for serious founders",
+    "url": "https://www.larp.website/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48882569",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-07-12T16:56:41+00:00",
+    "ai_summary": "LARP는 진지한 창업가를 위한 수익 인프라 솔루션을 제공하는 것으로 보입니다.\n결제 처리, 구독 관리 등 비즈니스 성장을 위한 핵심 재무 기술 스택을 다룰 것입니다.\n백엔드 및 클라우드 개발자는 이러한 시스템 구축에 필요한 기술과 접근 방식을 참고할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48861923",
+    "title": "Why write code in 2026",
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "discussion_url": "https://news.ycombinator.com/item?id=48861923",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-07-10T16:12:52+00:00",
+    "ai_summary": "이 기사는 2026년에도 코드를 작성해야 하는 이유와 개발자의 미래 역할에 대해 고찰합니다.\nAI 자동화 시대에 인간 개발자의 가치와 새로운 기회에 대한 통찰을 제공할 것입니다.\n개발자들은 커리어 방향성과 기술 습득 계획을 세우는 데 도움을 받을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884618",
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884618",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-07-12T20:46:43+00:00",
+    "ai_summary": "Flash-MSA는 희소 어텐션 커널을 사용하여 백만 토큰 규모의 모델 훈련 속도를 획기적으로 향상시키는 기술입니다.\n이는 LLM과 같은 대규모 AI 모델의 학습 효율성을 높이는 데 기여합니다.\nAI/ML 개발자들은 이 기술을 통해 모델 학습 시간과 자원 소모를 줄일 수 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48882956",
+    "title": "Against Usefulness",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "discussion_url": "https://news.ycombinator.com/item?id=48882956",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-07-12T17:47:07+00:00",
+    "ai_summary": "유용성이라는 개념 자체에 대한 비판적인 시각을 제시합니다.\n개발이나 생산성 도구의 목적에 대해 다시 생각해볼 계기를 제공합니다.\n단순한 기능적 가치를 넘어선 본질적 의미를 탐구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48882554",
+    "title": "Automation Without Understanding",
+    "url": "https://arxiv.org/abs/2607.06377",
+    "discussion_url": "https://news.ycombinator.com/item?id=48882554",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-07-12T16:54:47+00:00",
+    "ai_summary": "이해 없는 자동화의 위험성과 한계를 탐구합니다.\n개발 과정이나 시스템 운영에서 맹목적인 자동화의 부작용을 경고합니다.\n진정한 가치를 위한 깊은 이해의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48883343",
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48883343",
+    "summary": "",
+    "score": 288,
+    "published_at": "2026-07-12T18:31:56+00:00",
+    "ai_summary": "대규모 언어 모델(LLM)의 잠재력은 인정하지만, 과도한 과대광고를 비판합니다.\nLLM의 실제 가치와 한계를 균형 잡힌 시각으로 분석합니다.\n기술의 현실적인 적용과 기대치를 설정하는 중요성을 강조합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48883415",
+    "title": "The One-Step Trap (In AI Research)",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48883415",
+    "summary": "",
+    "score": 38,
+    "published_at": "2026-07-12T18:41:15+00:00",
+    "ai_summary": "AI 연구에서 흔히 빠지는 \"원스텝 트랩\" 함정을 지적합니다.\n단일 단계 솔루션에만 집중하여 발생하는 문제점들을 분석합니다.\n복잡한 문제 해결을 위한 다단계 접근법의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48805475",
+    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48805475",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-07-06T14:50:06+00:00",
+    "ai_summary": "TLDraw 기반으로 대화하는 동안 그림을 그려주는 에이전트 도구를 소개합니다.\n음성 입력과 시각적 생성을 결합한 새로운 인터랙션 방식을 제안합니다.\nAI와 프런트엔드 기술의 융합 가능성을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48881830",
+    "title": "Don't you mean extinct?",
+    "url": "https://fabiensanglard.net/extinct/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48881830",
+    "summary": "",
+    "score": 179,
+    "published_at": "2026-07-12T15:17:20+00:00",
+    "ai_summary": "이 기사는 특정 기술이나 프레임워크가 더 이상 사용되지 않거나 '멸종'될 위험에 처해 있음을 지적합니다.\n개발자들에게 변화하는 기술 스택에 적응하고 새로운 도구를 습득해야 할 필요성을 강조합니다.\n기술 선택의 중요성과 미래 지향적인 개발 접근 방식의 필요성을 논합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48884647",
+    "title": "The State of MCP Security [pdf]",
+    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=48884647",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-07-12T20:49:46+00:00",
+    "ai_summary": "이 PDF 기사는 멀티 클라우드 플랫폼(MCP) 환경의 현재 보안 상태를 분석합니다.\n여러 클라우드 서비스 사용 시 발생하는 복잡한 보안 도전 과제와 위협 요인들을 다룹니다.\n개발자와 운영팀이 MCP 환경에서 보안을 강화하기 위한 최신 전략과 모범 사례를 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  }
+]
