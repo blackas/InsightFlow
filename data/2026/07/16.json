@@ -1,0 +1,652 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31469",
+    "title": "Go에서 HTMX를 활용하는 방법",
+    "url": "https://news.hada.io/topic?id=31469",
+    "discussion_url": "https://news.hada.io/topic?id=31469",
+    "summary": "Go의 html/template 기반 서버 측 렌더링을 유지하면서 HTMX로 동적 상호작용을 더하고, 하나의 렌더러에서 전체 페이지와 HTML 조각을 선택적으로 반환함\nbase.tmpl, 페이지 템플릿, 재사용 조각으로 마크업을 나누고 Go 1.16의 embed.FS와...",
+    "score": 0,
+    "published_at": "2026-07-15T21:42:19+00:00",
+    "ai_summary": "Go의 html/template 기반 서버 렌더링에 HTMX로 동적 상호작용을 추가하는 방법을 다룹니다.\n하나의 렌더러에서 전체 페이지와 HTML 조각을 선택적으로 반환하여 효율성을 높입니다.\nbase.tmpl과 Go 1.16의 embed.FS를 활용하여 마크업을 구조화하는 기법을 설명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31468",
+    "title": "Show GN: 뉴스레터 구독만 해두고 안 읽고 있지 않나요?",
+    "url": "https://news.hada.io/topic?id=31468",
+    "discussion_url": "https://news.hada.io/topic?id=31468",
+    "summary": "코그니가 대신 최신 해외 AI·개발 뉴스레터를 요약해드릴게요.\n해외 뉴스레터에서 중요한 소식만 가져와, 핵심만 한눈에 볼 수 있게 정리합니다.",
+    "score": 0,
+    "published_at": "2026-07-15T20:51:25+00:00",
+    "ai_summary": "코그니는 최신 해외 AI·개발 뉴스레터를 요약하여 제공하는 서비스입니다.\n뉴스레터 구독 후 읽지 못했던 핵심 내용을 한눈에 파악할 수 있도록 돕습니다.\nAI·개발 분야의 중요한 소식을 효율적으로 습득하게 해 개발자들의 정보 접근성을 높입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31466",
+    "title": "qr-swastika-avoider v0.1.0 — QR 코드의 우발적 스와스티카 문양 회피",
+    "url": "https://news.hada.io/topic?id=31466",
+    "discussion_url": "https://news.hada.io/topic?id=31466",
+    "summary": "QR 코드에 우연히 생길 수 있는 스와스티카 문양을 탐지하고, 선택적으로 문양 없는 QR 코드를 생성하는 Rust 크레이트임\nQR 표준의 8개 마스크 패턴을 모두 렌더링해 문양 없는 후보를 추린 뒤, ISO/IEC 18004 페널티가 가장 낮은 마스크를 선택함\n파인더...",
+    "score": 0,
+    "published_at": "2026-07-15T16:02:00+00:00",
+    "ai_summary": "QR 코드에 우연히 생길 수 있는 스와스티카 문양을 탐지하고 회피하는 Rust 크레이트입니다.\nQR 표준의 8개 마스크 패턴을 모두 렌더링하여 문양 없는 후보를 찾습니다.\nISO/IEC 18004 페널티가 가장 낮은 마스크를 선택해 최적의 QR 코드를 생성합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31458",
+    "title": "우리는 너무 많은 생각을 AI에 떠넘기고 있는가?",
+    "url": "https://news.hada.io/topic?id=31458",
+    "discussion_url": "https://news.hada.io/topic?id=31458",
+    "summary": "사소한 선택부터 복잡한 조사·추론까지 AI가 완성된 답을 내놓으면서, 시간 절약을 넘어 사고의 자율성을 어디까지 지킬지가 중요해짐\n검색 엔진은 질문 분해와 출처 평가, 답의 종합을 사람에게 맡겼지만, Google Deep Research와 OpenAI Deep Research는 몇 분·몇 시간·며칠 걸리던...",
+    "score": 0,
+    "published_at": "2026-07-15T05:35:08+00:00",
+    "ai_summary": "AI가 완성된 답을 제공하면서 인간의 사고 자율성을 어디까지 지킬지가 중요한 문제로 대두됩니다.\nAI는 복잡한 조사와 추론까지 대신하여 사고 과정을 단축시키지만, 인간의 사고력 저하 우려가 있습니다.\n시간 절약과 더불어 사고의 깊이 및 비판적 사고 유지가 중요해졌음을 논합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31457",
+    "title": "코드를 거의 보지 않고 만든 70배 빠른 SQL 파서",
+    "url": "https://news.hada.io/topic?id=31457",
+    "discussion_url": "https://news.hada.io/topic?id=31457",
+    "summary": "PostHog는 ANTLR 기반 C++ SQL 파서를 여러 Claude Code 세션으로 재작성해 16K줄의 Rust 파서와 5K줄의 도구, 수천 줄의 테스트를 만들었으며 노트북 기준 약 70배의 속도 향상을 얻음\n새 구현은 예측형 재귀 하강 파서와 Pratt 표현식 코어를 중심으로, 필요한 곳...",
+    "score": 0,
+    "published_at": "2026-07-15T02:19:05+00:00",
+    "ai_summary": "PostHog가 Claude Code 세션으로 기존 C++ SQL 파서를 재작성하여 70배 빠른 Rust 파서를 개발했습니다.\n이를 통해 16K줄의 Rust 파서, 5K줄의 도구, 수천 줄의 테스트를 생성하며 생산성을 높였습니다.\n새 파서는 예측형 재귀 하강과 Pratt 표현식 코어를 중심으로 성능을 대폭 향상시켰습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31456",
+    "title": "Physical AI의 머니볼",
+    "url": "https://news.hada.io/topic?id=31456",
+    "discussion_url": "https://news.hada.io/topic?id=31456",
+    "summary": "로봇 데이터는 텍스트처럼 기존 코퍼스에서 채굴할 수 없고 유용한 시간마다 비용이 발생하므로, 자본 효율은 총수집량보다 달러당 한계 효용과 데이터 새로움을 얼마나 정확히 계산하느냐에 달려 있음\n데이터가 늘면 손실은 멱법칙에 따라 감소하지만, 다...",
+    "score": 0,
+    "published_at": "2026-07-15T02:17:01+00:00",
+    "ai_summary": "로봇 데이터는 수집 비용이 높아 자본 효율이 달러당 한계 효용과 데이터 새로움 계산에 달려있습니다.\n데이터 증가에 따른 손실 감소는 멱법칙을 따르지만, 데이터 희소성으로 인해 최적의 수집 전략이 중요합니다.\n물리 AI의 데이터 경제학과 효율적인 데이터 수집 및 활용 전략을 논합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31455",
+    "title": "예측 불가능한 천재를 감싸는 법",
+    "url": "https://news.hada.io/topic?id=31455",
+    "discussion_url": "https://news.hada.io/topic?id=31455",
+    "summary": "같은 요청에도 결과가 달라지는 AI 제품에서 반복 오류를 줄이려면 지침을 늘리기보다 모델이 거스를 수 없는 결정론적 코드로 통제해야 함\n통제 구조는 모델, 하네스, 문서, 훅의 네 계층으로 나뉘며, 특정 조건에서 독립적으로 작동하는 훅(hook) 만 규칙을 강제...",
+    "score": 0,
+    "published_at": "2026-07-15T02:12:49+00:00",
+    "ai_summary": "같은 요청에도 결과가 달라지는 AI 제품의 반복 오류를 줄이기 위한 통제 전략을 제시합니다.\n지침을 늘리기보다 모델이 거스를 수 없는 결정론적 코드로 AI를 통제해야 한다고 강조합니다.\n통제 구조는 모델, 하네스, 문서, 훅의 네 계층으로 구성되며, 훅이 독립적으로 규칙을 강제합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31454",
+    "title": "소프트웨어가 세상을 먹어 치웠고, 이제 하드웨어가 소프트웨어를 먹고 있다",
+    "url": "https://news.hada.io/topic?id=31454",
+    "discussion_url": "https://news.hada.io/topic?id=31454",
+    "summary": "SaaS 시대에는 인터페이스와 애플리케이션이 75~90%의 총마진을 확보했지만, AI에서는 가치 중심이 반도체·컴퓨팅·데이터·추론 플랫폼으로 내려가며 애플리케이션 계층이 얇아지고 있음\n막대한 자본과 CoWoS·HBM·전력의 물리적 병목, 데이터 전환 비용, 애플리케이...",
+    "score": 0,
+    "published_at": "2026-07-15T02:10:43+00:00",
+    "ai_summary": "SaaS 시대에 높았던 애플리케이션 계층의 가치와 마진이 AI 시대에는 반도체, 컴퓨팅, 데이터 등 하드웨어 및 인프라 중심으로 이동하고 있습니다.\nAI 개발에는 막대한 자본 투자와 CoWoS, HBM, 전력 같은 물리적 병목이 존재하며, 데이터 전환 비용도 주요 고려사항입니다.\n이는 애플리케이션 계층이 얇아지고 가치 창출의 무게 중심이 변화함을 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31451",
+    "title": "탑은 계속 높아진다",
+    "url": "https://news.hada.io/topic?id=31451",
+    "discussion_url": "https://news.hada.io/topic?id=31451",
+    "summary": "바이브 코딩된 소프트웨어가 무작위적이고 예상 밖으로 변하는 모습은 공통 언어를 잃어 공사가 멈춘 바벨탑과 닮았지만, AI 시대에는 이해가 무너진 뒤에도 건설이 계속된다는 차이가 있음\n대규모 소프트웨어의 한계는 개인의 코드 생산 속도뿐 아니라 개념, 경계, 불변 조건, 소유...",
+    "score": 0,
+    "published_at": "2026-07-15T01:08:40+00:00",
+    "ai_summary": "AI 시대의 대규모 소프트웨어 개발은 공통 언어를 잃어 건설이 멈춘 바벨탑과 달리, 이해가 무너져도 계속 지어지고 있습니다.\n개인의 코드 생산 속도뿐만 아니라 개념, 경계, 불변 조건, 소유권 관리 등 복잡성 증가가 주요 한계로 작용합니다.\n이는 개발자가 대규모 시스템의 복잡성을 관리하고 일관성을 유지하는 데 직면하는 본질적인 어려움을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31450",
+    "title": "Bonsai 27B - 휴대폰에서 실행되는 27B급 모델",
+    "url": "https://news.hada.io/topic?id=31450",
+    "discussion_url": "https://news.hada.io/topic?id=31450",
+    "summary": "기존 27B 모델은 4비트로 줄여도 18GB에 달하지만, PrismML은 Qwen3.6 27B를 기반으로 추론·도구 호출·비전·컴퓨터 사용을 지원하는 Bonsai 27B를 iPhone의 메모리 한도에 맞춤\n품질 중심의 Ternary 모델은 가중치당 1.71비트로 5.9GB, 용량 중심의 1-bit 모델은 1...",
+    "score": 0,
+    "published_at": "2026-07-15T01:06:05+00:00",
+    "ai_summary": "PrismML이 Qwen3.6 27B 모델을 최적화하여 iPhone에서 실행 가능한 Bonsai 27B를 개발했습니다.\n기존 18GB 모델을 4비트로 양자화하여 5.9GB, 1비트 모델로 1.71GB까지 줄여 휴대폰 메모리 한도에 맞췄습니다.\n이 모델은 추론, 도구 호출, 비전, 컴퓨터 사용 등 27B급 기능을 지원하며 엣지 AI 및 모바일 환경에서의 LLM 활용 가능성을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31448",
+    "title": "Claude가 ‘load-bearing’을 말하지 않게 만드는 방법",
+    "url": "https://news.hada.io/topic?id=31448",
+    "discussion_url": "https://news.hada.io/topic?id=31448",
+    "summary": "Claude Code가 “honest take”, “load-bearing seam” 같은 문구를 반복한다면 MessageDisplay 훅으로 화면에 표시되기 전 다른 표현으로 치환할 수 있음\nPython 스크립트가 표준 입력의 JSON에서 delta를 읽어 대소문자를 구분하지 않고 치환한 뒤...",
+    "score": 0,
+    "published_at": "2026-07-15T01:02:08+00:00",
+    "ai_summary": "Claude Code의 반복적인 문구(\"honest take\", \"load-bearing seam\" 등)를 제거하기 위해 MessageDisplay 훅을 활용하는 방법이 소개되었습니다.\nPython 스크립트를 통해 표준 입력의 JSON delta를 읽어 대소문자 구분 없이 특정 문구를 다른 표현으로 치환합니다.\n이는 LLM 응답 후처리를 통해 출력 품질을 개선하는 실용적인 개발 기법입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31447",
+    "title": "유럽의 “연령 확인” “앱”은 모두에게 Android 또는 iOS 사용을 강요함",
+    "url": "https://news.hada.io/topic?id=31447",
+    "discussion_url": "https://news.hada.io/topic?id=31447",
+    "summary": "토론 개설 당시 기술 명세 README에는 Google Play Integrity API와 Apple App Attestation을 이용한 앱·기기 검증이 적혀 있었으며, 이를 연령 확인의 전제로 삼으면 미국 플랫폼 사업자와 특정 모바일 운영체제에 의존하게 된다는 반대가 제기됨\n특정 공급자의 증...",
+    "score": 0,
+    "published_at": "2026-07-15T00:59:07+00:00",
+    "ai_summary": "유럽의 연령 확인 앱 기술 명세가 Google Play Integrity API와 Apple App Attestation에 의존하여 논란입니다.\n이는 앱·기기 검증을 전제로 미국 플랫폼 사업자와 특정 모바일 운영체제에 대한 의존도를 심화시킨다는 비판을 받습니다.\n결과적으로 사용자에게 Android 또는 iOS 사용을 강요하며 플랫폼 독점 문제를 야기할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31445",
+    "title": "Hexana - JetBrains의 WebAssembly 및 바이너리 분석 도구",
+    "url": "https://news.hada.io/topic?id=31445",
+    "discussion_url": "https://news.hada.io/topic?id=31445",
+    "summary": ".wasm 파일의 구조 분석/편집/실행/디버깅을 지원하며 JetBrains 플러그인과 VS Code 확장으로 제공\n두 제품이 하나의 Kotlin Multiplatform 코어를 공유하며 Core Wasm/Component Model/GC/SIMD/Threads 등을 지원함\nimpo...",
+    "score": 0,
+    "published_at": "2026-07-15T00:31:02+00:00",
+    "ai_summary": "JetBrains가 WebAssembly 및 바이너리 분석 도구 'Hexana'를 출시했습니다.\n이 도구는 .wasm 파일의 구조 분석, 편집, 실행, 디버깅을 지원하며 JetBrains 플러그인과 VS Code 확장으로 제공됩니다.\nKotlin Multiplatform 코어를 공유하며 Core Wasm, Component Model, GC, SIMD, Threads 등 다양한 WebAssembly 기능을 지원합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31443",
+    "title": "2026년에 AI를 혐오한다는 것",
+    "url": "https://news.hada.io/topic?id=31443",
+    "discussion_url": "https://news.hada.io/topic?id=31443",
+    "summary": "신경망 발전에 기대를 걸었던 20년 경력의 머신러닝 실무자가 오늘날의 AI 열풍은 효용으로 정당화할 수 없는 사회적·환경적 비용을 초래한다며 사용 거부를 택함\n텍스트 생성 모델은 다음 단어를 정교하게 예측해 지시를 이해하고 인간처럼 대화하는 듯한 환상을 ...",
+    "score": 0,
+    "published_at": "2026-07-15T00:08:30+00:00",
+    "ai_summary": "20년 경력의 머신러닝 실무자가 AI 발전 초기 기대에도 불구하고, 현재의 AI 열풍이 사회적·환경적 비용으로 정당화될 수 없다며 사용 거부를 선언했습니다.\n텍스트 생성 모델이 다음 단어를 정교하게 예측하며 인간처럼 대화하는 듯한 착각을 불러일으킨다고 지적합니다.\n이는 AI 기술의 윤리적, 사회적, 환경적 측면에 대한 중요한 성찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48924912",
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48924912",
+    "summary": "",
+    "score": 576,
+    "published_at": "2026-07-15T18:12:45+00:00",
+    "ai_summary": "Inkling은 새로운 오픈-웨이트 AI 모델을 공개했습니다. 이 모델은 AI 개발 커뮤니티에 기여하고, 연구 및 응용 분야에서 활용될 수 있습니다. 개발자들은 이 모델을 사용하여 새로운 AI 솔루션을 구축할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48928135",
+    "title": "SQLite should have (Rust-style) editions",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48928135",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-07-15T22:42:58+00:00",
+    "ai_summary": "이 글은 SQLite에 Rust 언어의 '에디션'과 유사한 버전 관리 시스템 도입을 제안합니다. 이를 통해 SQLite의 진화와 하위 호환성 유지를 동시에 달성할 수 있습니다. 개발자들은 보다 안정적이고 예측 가능한 데이터베이스 환경을 기대할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48926590",
+    "title": "Grok Build is open source",
+    "url": "https://github.com/xai-org/grok-build",
+    "discussion_url": "https://news.ycombinator.com/item?id=48926590",
+    "summary": "",
+    "score": 195,
+    "published_at": "2026-07-15T20:24:58+00:00",
+    "ai_summary": "Grok Build가 오픈 소스로 공개되었습니다. 이는 개발자들이 소프트웨어 프로젝트를 빌드하고 관리하는 데 사용할 수 있는 새로운 도구입니다. 오픈 소스 커뮤니티의 참여로 더욱 발전할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48928234",
+    "title": "The Anti-Mac User Interface (1996)",
+    "url": "https://www.nngroup.com/articles/anti-mac-interface/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48928234",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-07-15T22:52:36+00:00",
+    "ai_summary": "1996년의 이 글은 당시 매킨토시와 대조되는 사용자 인터페이스 디자인 철학을 탐구합니다. 이는 과거의 UI/UX 디자인 트렌드와 사고방식을 이해하는 데 도움을 줍니다. 현대 프런트엔드 개발자들에게는 역사적 관점을 제공할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48927095",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=48927095",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-07-15T21:16:36+00:00",
+    "ai_summary": "이 보고서는 정부, 기업, 비영리 단체가 자유롭고 개방적인 AI에 투자해야 한다고 주장합니다. 오픈 소스 AI는 기술 발전과 접근성을 높여 사회 전반에 긍정적인 영향을 미칠 수 있습니다. AI 개발자들에게 중요한 정책적, 윤리적 논의를 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48927915",
+    "title": "LLM Networking with MikroTik",
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48927915",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-07-15T22:23:27+00:00",
+    "ai_summary": "이 기사는 LLM과 MikroTik 네트워크 장비를 연동하는 방법을 다룹니다. LLM 배포 및 운영 시 발생하는 네트워크 구성 및 최적화 문제를 해결하는 데 중점을 둡니다. AI/ML 모델을 실제 환경에 적용하는 개발자들에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48927900",
+    "title": "P2P local file transfer based on WebRTC",
+    "url": "https://pairdrop.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48927900",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-07-15T22:22:08+00:00",
+    "ai_summary": "WebRTC 기반 P2P 로컬 파일 전송 기술을 다룹니다.\n웹 브라우저 간 직접 통신으로 효율적인 데이터 공유를 가능하게 합니다.\n실시간 애플리케이션 개발에 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48922434",
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48922434",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-07-15T15:34:05+00:00",
+    "ai_summary": "오래된 Xeon CPU와 GPU 없이 Gemma 4 26B LLM을 초당 5토큰으로 실행한 사례입니다.\n제한된 하드웨어에서 대규모 AI 모델 최적화 가능성을 보여줍니다.\n저사양 시스템에서의 AI 구현 전략을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48928343",
+    "title": "Nul Characters in Strings in SQLite",
+    "url": "https://sqlite.org/nulinstr.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48928343",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-07-15T23:03:45+00:00",
+    "ai_summary": "SQLite에서 문자열 내 NUL 문자 처리 방식에 대해 설명합니다.\n데이터 저장 및 검색 시 발생할 수 있는 문제를 명확히 합니다.\n데이터베이스 설계와 애플리케이션 로직 구현에 필수적인 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48928402",
+    "title": "Show HN: One More Letter",
+    "url": "https://playonemoreletter.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48928402",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-07-15T23:10:10+00:00",
+    "ai_summary": "Hacker News에 소개된 'One More Letter'라는 프로젝트입니다.\n개발자가 만든 새로운 도구나 미니 게임일 가능성이 높습니다.\n아이디어 공유와 커뮤니티 피드백을 위한 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48926085",
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "url": "https://brainless.swerdlow.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=48926085",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-07-15T19:42:53+00:00",
+    "ai_summary": "Shadcn 기반으로 Claude Code, Codex, Grok 스타일의 UI 컴포넌트를 제공합니다.\nAI 테마의 모던하고 기능적인 프론트엔드 UI 개발에 활용됩니다.\n개발자가 미려한 AI 관련 UI를 신속하게 구축하도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48881064",
+    "title": "Command Line Interface Guidelines",
+    "url": "https://clig.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48881064",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-07-12T13:28:31+00:00",
+    "ai_summary": "효율적이고 사용자 친화적인 CLI 설계 가이드라인을 제시합니다.\n일관되고 직관적인 커맨드 라인 도구 개발 원칙을 설명합니다.\n개발 생산성 향상 및 사용자 경험 개선에 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+    "title": "Google announces Gemma 4 optimized for the Pixel 10's TPU (2 minute read)",
+    "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+    "discussion_url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+    "summary": "Gemma 4 E2B for TPU is designed to run natively on the Pixel 10's TPU. It supports instant, deep offline conversation, image identification, and on-device audio transcription. The model also lets users command core phone functions, like Wi-Fi or maps, using just private voice or text. Video demonstrations of what the model can do are available in the article.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "Google의 Gemma 4 E2B 모델이 Pixel 10의 TPU에 최적화되어 기기 내에서 실행됩니다. 이 모델은 오프라인 대화, 이미지 식별, 오디오 전사 등 다양한 기기 내 기능을 지원하며, 사용자는 음성이나 텍스트로 폰 핵심 기능을 제어할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA4ODMyOCwiZXhwIjoxNzg0NjkzMTI4LCJhcnRpY2xlSWQiOiJUSFo5WjFUOTZPU0cwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.PAzaf2TkKPqXXceW122TAQk0I0l-S6RQJaDtgkyQurg",
+    "title": "Kalshi Ramps Up Effort to Build Markets for AI Computing Power (3 minute read)",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA4ODMyOCwiZXhwIjoxNzg0NjkzMTI4LCJhcnRpY2xlSWQiOiJUSFo5WjFUOTZPU0cwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.PAzaf2TkKPqXXceW122TAQk0I0l-S6RQJaDtgkyQurg",
+    "discussion_url": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA4ODMyOCwiZXhwIjoxNzg0NjkzMTI4LCJhcnRpY2xlSWQiOiJUSFo5WjFUOTZPU0cwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.PAzaf2TkKPqXXceW122TAQk0I0l-S6RQJaDtgkyQurg",
+    "summary": "Kalshi has created a tool that plots the future price of computing power so users can develop a sense of where the price to rent GPUs is headed. It will use prediction markets to build the forward curve. Forward curves are used to plot expected future interest rates and moves by central banks. Compute is becoming a commodity in its own right as demand grows. Kalshi's forward curve is based on weekly and monthly event contracts related to compute costs, and it goes as far as a year into the futur",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "Kalshi는 미래 컴퓨팅 파워 가격을 예측하는 도구를 개발하여 GPU 렌탈 비용 추세를 파악할 수 있게 합니다. 예측 시장을 활용하여 컴퓨팅 파워의 선물 곡선을 구축하며, 이는 증가하는 수요에 따라 컴퓨팅이 하나의 상품이 되고 있음을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep",
+    "title": "WANDR Benchmark: Evaluating Research Agents That Must Search Wide and Deep (15 minute read)",
+    "url": "https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep",
+    "discussion_url": "https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep",
+    "summary": "WANDR (Wide ANd Deep Research) is an open benchmark and evaluation harness built around realistic and challenging data-collection tasks for knowledge work. Wide and deep research allows agents to sustain broad discovery without sacrificing factual quality from one record to the next. WANDR captures that structure with a flexible, composable qualification key hierarchy.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "WANDR는 지식 작업을 위한 현실적이고 도전적인 데이터 수집 작업을 중심으로 구축된 오픈 벤치마크 및 평가 도구입니다. 이 벤치마크는 에이전트가 사실적 정확도를 유지하면서 광범위한 발견을 지속할 수 있도록 하며, 유연하고 구성 가능한 계층 구조로 에이전트의 광범위하고 심층적인 연구 능력을 평가합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/aiewf26trends",
+    "title": "5 Trends That Defined AI Engineering at World's Fair 2026 (17 minute read)",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "discussion_url": "https://www.latent.space/p/aiewf26trends",
+    "summary": "AI engineering has come a long way in three years. The latest AI Engineer World's Fair shows just how much the field has matured. Engineering practices, such as building coding agents, designing harnesses, managing context, evaluating model outputs, and orchestrating increasingly autonomous systems, are now becoming part of mainstream software development. This post looks at the five largest trends that emerged during the AI Engineer World's Fair to see where AI engineering stands in 2026.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "지난 3년간 AI 엔지니어링 분야가 크게 발전했으며, 2026년 AI 엔지니어 월드 페어에서 그 성숙도를 보여주었습니다. 코딩 에이전트 구축, 하네스 설계, 컨텍스트 관리 등 AI 엔지니어링 실무가 주류 소프트웨어 개발의 일부가 되고 있으며, 이 기사는 2026년 AI 엔지니어링의 주요 5가지 트렌드를 분석합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://prismml.com/news/bonsai-27b",
+    "title": "Announcing Bonsai 27B: The First 27B-Class Model to Run on a Phone (6 minute read)",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "discussion_url": "https://prismml.com/news/bonsai-27b",
+    "summary": "PrismML announced Bonsai 27B, the first 27B-class model running on a phone, achieved through 1-bit and ternary weights, shrinking the model size to 3.9 GB and 5.9 GB respectively. Bonsai 27B supports complex tasks like multi-step reasoning and tool use while maintaining high performance, fitting securely within the device limits of modern smartphones.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "PrismML은 1-bit 및 ternary weights를 사용하여 모델 크기를 줄여 스마트폰에서 실행되는 최초의 27B급 모델인 Bonsai 27B를 발표했습니다. 이 모델은 복잡한 다단계 추론 및 도구 사용 작업을 높은 성능으로 지원하며, 최신 스마트폰의 기기 제한 내에서 안전하게 작동합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://stateofopensource.ai/",
+    "title": "The state of open source AI (15 minute read)",
+    "url": "https://stateofopensource.ai/",
+    "discussion_url": "https://stateofopensource.ai/",
+    "summary": "Open weights are now where the work happens. A majority of production tokens now route through them. The five highest-volume models on OpenRouter are all open. Closed models still lead at the frontier, but the frontier is not what most workloads need.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "오픈 웨이트(Open weights) 모델이 현재 AI 개발의 핵심이며, 대부분의 프로덕션 토큰이 이를 통해 처리됩니다. OpenRouter에서 가장 많이 사용되는 상위 5개 모델이 모두 오픈 소스이며, 프론티어 모델은 여전히 클로즈드 모델이 주도하지만, 대부분의 워크로드에는 오픈 모델이 더 적합합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/myprasanna/status/2077065557204222238",
+    "title": "The Great Flattening (22 minute read)",
+    "url": "https://x.com/myprasanna/status/2077065557204222238",
+    "discussion_url": "https://x.com/myprasanna/status/2077065557204222238",
+    "summary": "Frontier coding models have shifted engineering's bottleneck from writing code to encoding judgment into agent harnesses that orchestrate planning, testing, review, and deployment. It is predicted that software organizations will flatten as cloud-based multi-agent systems replace traditional engineering workflows, leaving customer insight and product judgment as the primary human advantage.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "프론티어 코딩 모델은 엔지니어링 병목 현상을 코드 작성에서 에이전트 시스템 조율로 전환했습니다. 클라우드 기반 다중 에이전트 시스템이 기존 엔지니어링 워크플로우를 대체함에 따라 소프트웨어 조직이 평탄화될 것으로 예측되며, 고객 통찰력과 제품 판단이 주요 인간의 강점으로 남을 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "title": "Anthropic's newest ad is creeping people out (4 minute read)",
+    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "discussion_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "summary": "Anthropic's new ad, \"There's hope in hard questions,\" unsettled viewers due to its dark imagery and critical AI commentary.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "Anthropic의 새 광고가 어두운 이미지와 비판적인 AI 논평으로 시청자들을 불편하게 했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+    "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok (7 minute read)",
+    "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+    "discussion_url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+    "summary": "Elon Musk has acquired APR Energy, a Jacksonville-based company that operates a fleet of mobile and diesel turbines generating more than 1 GW of capacity.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "일론 머스크가 Grok 운영을 위한 전력 공급을 위해 10억 달러 규모의 가스 터빈 회사 APR Energy를 인수했습니다. APR Energy는 1GW 이상의 전력을 생산하는 모바일 및 디젤 터빈을 운영합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/managing-ai-investments-in-agentic-era/",
+    "title": "Measuring the Business Value of AI Agents (7 minute read)",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era/",
+    "discussion_url": "https://openai.com/index/managing-ai-investments-in-agentic-era/",
+    "summary": "OpenAI outlined five practices for managing enterprise AI investments, emphasizing useful work per dollar rather than token prices alone.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "OpenAI는 기업 AI 투자 관리를 위한 5가지 사례를 제시하며, 토큰 가격보다는 '달러당 유용한 작업량'에 중점을 둘 것을 강조했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "title": "Celebrating 25 years of visual search innovation (6 minute read)",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "discussion_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "summary": "Google celebrates 25 years of Google Images with new features: a dynamic, personalized image gallery and direct image generation via AI in Search.",
+    "score": 0,
+    "published_at": "2026-07-15T23:58:30+00:00",
+    "ai_summary": "Google 이미지가 25주년을 맞아 새로운 기능을 선보였습니다. 동적이고 개인화된 이미지 갤러리 및 검색에서 AI를 통한 직접적인 이미지 생성이 추가되었습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ]
+  }
+]
