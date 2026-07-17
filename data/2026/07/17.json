@@ -1,0 +1,124 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "48935951",
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+    "url": "https://immersivemath.com/ila/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48935951",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-07-16T15:32:23+00:00",
+    "ai_summary": "이 기사는 대화형 시각화를 제공하는 선형대수학 교재를 소개합니다. 선형대수학은 AI/ML, 게임 개발 등 다양한 개발 분야의 기초 지식입니다.\n이 책은 복잡한 개념을 시각적으로 쉽게 이해하도록 도와주어, 관련 분야의 개발자들이 수학적 기반을 다지는 데 크게 기여할 수 있습니다.\n특히 데이터 과학자나 머신러닝 엔지니어에게 유용할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48932722",
+    "title": "Abstracting Effects with Continuations",
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48932722",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-07-16T10:41:39+00:00",
+    "ai_summary": "이 기사는 연속(Continuations) 개념을 활용하여 프로그램의 부수 효과(side effects)를 추상화하는 고급 프로그래밍 기법을 다룹니다.\n함수형 프로그래밍 언어나 복잡한 제어 흐름을 다루는 시스템 개발자에게 특히 중요한 주제입니다.\n언어 설계, 컴파일러 최적화 및 고급 비동기 패턴 구현에 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48871547",
+    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+    "url": "https://github.com/samyeyo/clx",
+    "discussion_url": "https://news.ycombinator.com/item?id=48871547",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-07-11T12:40:24+00:00",
+    "ai_summary": "Clx는 Lua 스크립트를 C++20을 통해 네이티브 실행 파일로 컴파일하는 새로운 프로젝트입니다.\n이를 통해 Lua 애플리케이션의 성능을 크게 향상시키고, 배포를 더욱 용이하게 만들 수 있습니다.\nLua와 C++를 사용하는 개발자, 특히 고성능이 요구되는 시스템에서 작업하는 이들에게 매우 유용한 도구입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48939641",
+    "title": "The privacy problems hidden in your period tracker",
+    "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+    "discussion_url": "https://news.ycombinator.com/item?id=48939641",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-07-16T20:15:58+00:00",
+    "ai_summary": "이 기사는 생리 주기 추적 앱에 숨겨진 개인 정보 보호 문제를 분석하며, 민감한 건강 데이터의 오용 위험을 경고합니다.\n이는 사용자 데이터를 다루는 모든 개발자에게 보안과 윤리적 책임의 중요성을 강조합니다.\n개발자는 애플리케이션 설계 단계부터 개인 정보 보호와 데이터 보안을 최우선으로 고려해야 함을 상기시킵니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48940895",
+    "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+    "url": "https://hellorecon.com/blog/cve-2026-25089",
+    "discussion_url": "https://news.ycombinator.com/item?id=48940895",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-07-16T22:07:30+00:00",
+    "ai_summary": "FortiSandbox 제품에서 인증되지 않은 명령 주입 취약점(CVE-2026-25089)이 발견되어 CISA의 KEV 목록에 추가되었습니다.\n이는 공격자가 인증 없이 임의 명령을 실행할 수 있게 하는 매우 심각한 보안 결함입니다.\n보안 담당자와 DevOps 엔지니어는 즉시 관련 시스템을 점검하고 패치를 적용하는 등 신속한 조치를 취해야 합니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48895199",
+    "title": "Solod: Go can be a better C",
+    "url": "https://solod.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=48895199",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-07-13T16:38:21+00:00",
+    "ai_summary": "이 기사는 Go 언어가 특정 상황에서 C 언어보다 더 나은 선택이 될 수 있다는 주장을 펼칩니다.\n시스템 프로그래밍, 성능 및 개발 생산성 관점에서 Go와 C의 장단점을 비교 분석합니다.\n저수준 시스템 개발이나 고성능 애플리케이션을 고려하는 백엔드 개발자에게 중요한 언어 선택 가이드가 될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48941051",
+    "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "url": "https://github.com/cgrtml/reasongate",
+    "discussion_url": "https://news.ycombinator.com/item?id=48941051",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-07-16T22:21:31+00:00",
+    "ai_summary": "ReasonGate는 LLM(대규모 언어 모델) 프롬프트 인젝션 공격을 방어하는 설명 가능한 게이트 시스템입니다.\n이는 LLM 기반 애플리케이션의 보안 취약점을 해결하고, 모델의 신뢰성과 안전성을 높이는 데 필수적입니다.\nLLM을 개발하거나 서비스에 통합하는 AI/ML 개발자 및 보안 엔지니어에게 매우 중요한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  }
+]
