@@ -1,0 +1,648 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31567",
+    "title": "AI가 Stack Overflow에 끼친 영향을 그래프로 보기",
+    "url": "https://news.hada.io/topic?id=31567",
+    "discussion_url": "https://news.hada.io/topic?id=31567",
+    "summary": "AI가 Stack Overflow에 끼친 영향을 그래프로 보기",
+    "score": 0,
+    "published_at": "2026-07-18T23:01:40+00:00",
+    "ai_summary": "AI가 개발자들의 질문과 답변 방식에 변화를 주며, Stack Overflow 이용 패턴에 상당한 영향을 미치고 있음을 그래프를 통해 분석한 기사입니다.\nAI 도입 이후 질문 유형과 답변의 정확성, 그리고 사용자의 참여도 변화를 시각적으로 보여줍니다.\n개발자들이 정보 탐색 방식에 AI를 어떻게 통합하고 있는지 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31556",
+    "title": "SQLite를 운영하며 새롭게 배운 몇 가지",
+    "url": "https://news.hada.io/topic?id=31556",
+    "discussion_url": "https://news.hada.io/topic?id=31556",
+    "summary": "소규모 웹사이트의 프로덕션 환경에도 SQLite를 쓸 수 있지만, Django ORM이 맡는 작업이 늘면서 데이터베이스의 운영 복잡성을 체감함\n4,000행 테이블의 FTS5 검색이 5초 걸렸으나 ANALYZE 실행 후 약 0.05초로 줄어, 쿼리 플래너 통계가 성능에 큰 ...",
+    "score": 0,
+    "published_at": "2026-07-18T16:33:55+00:00",
+    "ai_summary": "소규모 웹사이트 프로덕션 환경에서 SQLite를 사용하며 겪은 운영 경험과 배운 점들을 공유합니다.\nDjango ORM 사용 증가에 따라 데이터베이스 운영 복잡성을 체감했으며, FTS5 검색 성능 문제와 ANALYZE 실행을 통한 개선 사례를 제시합니다.\n쿼리 플래너 통계의 중요성과 성능 최적화 기법을 실제 사례로 보여주는 실용적인 기사입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31554",
+    "title": "Show GN: 유튜브 댓글에서 체스 플레이 매크 프로그램",
+    "url": "https://news.hada.io/topic?id=31554",
+    "discussion_url": "https://news.hada.io/topic?id=31554",
+    "summary": "유튜브 댓글을 이용해 구독자 집단 지성과\n체스 AI(Stockfish)가 대결하는 자동 체스 봇을 만들어봤습니다.\n봇은 10분마다 고정댓글의 대댓글을 수집한 뒤, 최근 작성된 댓글 중 SAN(Standard Algebraic Notation) 체스 표기법으로 작성된 수만 추려 가장 많은 좋아요를 받은 수를 플레이어의 착수로 선",
+    "score": 0,
+    "published_at": "2026-07-18T15:50:39+00:00",
+    "ai_summary": "유튜브 댓글을 활용하여 구독자 집단 지성과 체스 AI(Stockfish)가 대결하는 자동 체스 봇을 개발한 프로젝트를 소개합니다.\n봇은 10분마다 유튜브 댓글을 수집하고, 최근 작성된 SAN 체스 표기법의 수 중 좋아요를 가장 많이 받은 수를 플레이어의 착수로 선택합니다.\n이는 웹 스크래핑, AI 통합, 자동화 프로그램 개발에 대한 흥미로운 구현 사례를 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31549",
+    "title": "Claude Code의 잘못 설계된 자동 진행 기능 해부",
+    "url": "https://news.hada.io/topic?id=31549",
+    "discussion_url": "https://news.hada.io/topic?id=31549",
+    "summary": "Claude Code 2.1.198은 AskUserQuestion에 60초간 답이 없으면 모델이 자체 판단으로 작업을 계속하는 자동 진행 기능을 기본 활성화했지만, 출시 당시 변경 로그와 문서에는 기록하지 않았음\n권한 요청을 자동 승인하지는 않았으나, 이미 허용된 도구나 ...",
+    "score": 0,
+    "published_at": "2026-07-18T09:13:52+00:00",
+    "ai_summary": "Claude Code 2.1.198의 자동 진행 기능이 AskUserQuestion에 60초간 답이 없으면 모델이 작업을 자체 판단으로 계속하도록 기본 활성화되었음을 지적합니다.\n이 기능이 출시 당시 변경 로그와 문서에 기록되지 않아 투명성 문제를 야기했으며, 권한 요청을 자동 승인하지는 않지만 이미 허용된 도구 사용에 대한 통제력 상실 우려를 제기합니다.\nLLM 기반 개발 도구의 안전성과 예측 불가능성에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31547",
+    "title": "Kimi K3와 펠리컨 벤치마크에서 여전히 배울 수 있는 것",
+    "url": "https://news.hada.io/topic?id=31547",
+    "discussion_url": "https://news.hada.io/topic?id=31547",
+    "summary": "Moonshot AI가 공개한 Kimi K3는 2.8조 개 매개변수를 갖춘 자사 최고 성능 모델로, 웹사이트와 API에서 제공되며 오픈 가중치는 2026년 7월 27일까지 공개될 예정임\n자체 벤치마크에서는 Claude Opus 4.8 max와 GPT-5.5 high를 대체로 앞섰지만 Claude Fable 5와 GPT-5.6 Sol에는 뒤...",
+    "score": 0,
+    "published_at": "2026-07-18T09:07:33+00:00",
+    "ai_summary": "Moonshot AI가 공개한 Kimi K3는 2.8조 개 매개변수를 가진 자사 최고 성능 모델로, 웹사이트와 API로 제공되며 2026년 7월 27일까지 오픈 가중치를 공개할 예정입니다.\n자체 벤치마크에서 Claude Opus 4.8 max 및 GPT-5.5 high를 대체로 앞섰으나, Claude Fable 5와 GPT-5.6 Sol에는 뒤처지는 결과를 보였습니다.\n최신 LLM 기술의 성능 추이와 벤치마크의 중요성을 이해하는 데 도움을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31546",
+    "title": "루프 안의 인간은 지쳤다",
+    "url": "https://news.hada.io/topic?id=31546",
+    "discussion_url": "https://news.hada.io/topic?id=31546",
+    "summary": "LLM 프로그래밍은 생산성을 높이는 동시에 개발자가 의도와 품질을 계속 통제해야 하는 감독 피로를 키워, 만족감과 지속 가능성을 흔듦\n모델은 그럴듯한 코드를 빠르게 만들지만 복잡한 변경의 일관된 의도를 놓칠 수 있어, 인간이 늘어난 결과물을 검토하고 수정하는 품질...",
+    "score": 0,
+    "published_at": "2026-07-18T09:05:02+00:00",
+    "ai_summary": "LLM 프로그래밍이 생산성을 높이는 동시에 개발자가 의도와 품질을 지속적으로 통제해야 하는 '감독 피로'를 증가시켜 만족도와 지속 가능성을 저해한다고 분석합니다.\n모델은 그럴듯한 코드를 빠르게 생성하지만 복잡한 변경의 일관된 의도를 놓칠 수 있어, 인간 개발자가 늘어난 결과물을 검토하고 수정하는 데 더 많은 노력을 기울여야 합니다.\n이는 LLM 시대의 개발자 역할 변화와 정신적 부담에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31545",
+    "title": "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함",
+    "url": "https://news.hada.io/topic?id=31545",
+    "discussion_url": "https://news.hada.io/topic?id=31545",
+    "summary": "맥스/팀 프리미엄 사용자는 7월 20일부터 Fable 5를 요금제 사용 한도의 50%까지 이용 가능\n프로/팀 스탠다드는 구독 기본 한도 대신 &quot;Usage 크레딧&quot;으로 계속 이용하며, 일회성 100달러 크레딧 지급\n\nFable ...",
+    "score": 0,
+    "published_at": "2026-07-18T06:52:55+00:00",
+    "ai_summary": "Claude Fable 5가 7월 20일부터 Max/Team Premium 요금제에 기본 포함되어 사용 한도의 50%까지 이용 가능합니다.\n프로/팀 스탠다드 사용자는 'Usage 크레딧'으로 Fable 5를 계속 이용하며, 일회성 100달러 크레딧이 지급됩니다.\n이는 AI 서비스 이용 정책의 변화로, 관련 서비스 비용 계획에 중요한 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31542",
+    "title": "결함투성이 탑, 바이브 멀미, 그리고 바이브 봅슬레이",
+    "url": "https://news.hada.io/topic?id=31542",
+    "discussion_url": "https://news.hada.io/topic?id=31542",
+    "summary": "LLM이 만든 코드를 사람이 이해하지 못해도 다시 LLM에 해석을 맡기며 개발하는 방식이 확산되면서, 한때 구분되던 에이전트 엔지니어링과 바이브 코딩의 경계가 빠르게 흐려지고 있음\n바이브 봅슬레이는 자동완성에서 코드 생성, 검토 포기, 프롬...",
+    "score": 0,
+    "published_at": "2026-07-18T05:02:54+00:00",
+    "ai_summary": "LLM이 생성한 코드를 사람이 이해하지 못해도 LLM에 재해석을 맡기는 개발 방식이 확산되고 있습니다.\n이에 따라 에이전트 엔지니어링과 바이브 코딩의 경계가 빠르게 흐려지는 현상이 나타나고 있습니다.\n'바이브 봅슬레이'는 자동완성부터 코드 생성, 검토 포기에 이르는 새로운 개발 흐름을 의미합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31538",
+    "title": "2026년 7월 오픈소스 AI 현황",
+    "url": "https://news.hada.io/topic?id=31538",
+    "discussion_url": "https://news.hada.io/topic?id=31538",
+    "summary": "오픈 웨이트 모델은 코딩·지시 이행·일반 지식에서 폐쇄형과 비슷한 수준에 도달했고, 추론 비용도 36개월간 50배 하락하면서 경쟁의 중심이 모델 자체에서 에이전트 하네스로 이동함\n2026년 중반 OpenRouter에서 오픈 웨이트가 토큰 처리량의 과반을 차지하고 상위...",
+    "score": 0,
+    "published_at": "2026-07-18T00:55:21+00:00",
+    "ai_summary": "오픈 웨이트 AI 모델은 코딩 및 지시 이행에서 폐쇄형 모델과 유사한 수준에 도달했고, 추론 비용은 36개월간 50배 하락했습니다.\n경쟁의 중심이 모델 자체에서 에이전트 하네스로 이동하고 있으며, 이는 AI 개발 방향의 변화를 의미합니다.\n2026년 중반에는 OpenRouter에서 오픈 웨이트 모델이 토큰 처리량의 과반을 차지할 것으로 예상됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31536",
+    "title": "AGI 평가 과정과 수상자 선정에서 드러난 불일치",
+    "url": "https://news.hada.io/topic?id=31536",
+    "discussion_url": "https://news.hada.io/topic?id=31536",
+    "summary": "Kaggle·Google DeepMind의 AGI 벤치마크 해커톤 결과 발표 뒤, 참가자들은 1위 MEDLEY-BENCH의 점수 산출·재현성 문제를 근거로 심사 과정 공개와 재검토를 요구함\nMEDLEY-BENCH는 모델 규모가 커질수록 ‘평가’만 향상되고 ‘통제’는 정체된다고 결론 내렸지만, 비판 측은 두 지표...",
+    "score": 0,
+    "published_at": "2026-07-18T00:49:21+00:00",
+    "ai_summary": "Kaggle·Google DeepMind AGI 벤치마크 해커톤 결과 발표 후, 참가자들은 1위 모델의 점수 산출 및 재현성 문제를 제기했습니다.\n참가자들은 심사 과정 공개와 재검토를 요구하며, 모델 규모가 커질수록 '평가'는 향상되나 '통제'는 정체된다는 결론에 비판을 가했습니다.\n이는 AI 벤치마킹의 투명성과 공정성, 그리고 모델 평가 방법에 대한 중요한 논의를 촉발했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31535",
+    "title": "AWS 예상 청구액이 17억 달러로 표시됨, 평소 사용료는 5달러 미만",
+    "url": "https://news.hada.io/topic?id=31535",
+    "discussion_url": "https://news.hada.io/topic?id=31535",
+    "summary": "평소 사용료가 5달러 미만인 AWS 계정에 이번 달 예상 청구액이 17억 달러로 표시됨\n실제 사용량과 청구액의 차이가 지나치게 커 예상 청구 데이터가 부정확한 상황으로 보고 있음\n게시자는 문제를 확인하고 대응하기 위해 긴급...",
+    "score": 0,
+    "published_at": "2026-07-18T00:46:21+00:00",
+    "ai_summary": "평소 사용료가 5달러 미만인 AWS 계정에 이번 달 예상 청구액이 17억 달러로 잘못 표시되는 문제가 발생했습니다.\n이는 실제 사용량과 청구액의 차이가 지나치게 커 예상 청구 데이터가 부정확한 상황으로 파악됩니다.\n사용자는 문제를 확인하고 대응하기 위해 AWS에 긴급 문의 중이며, 클라우드 비용 관리의 중요성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31534",
+    "title": "StackRender - 데이터베이스 스키마 설계 및 생성 도구",
+    "url": "https://news.hada.io/topic?id=31534",
+    "discussion_url": "https://news.hada.io/topic?id=31534",
+    "summary": "사양(spec)에서 프로덕션 준비 데이터베이스까지 전환해주는 오픈소스 스키마 다이어그램 생성기\n데이터베이스부터 최종 API 엔드포인트까지 백엔드 개발 전반을 자동화하는게 목표\n지원 DB: PostgreSQL, MySQL, MariaDB, SQLite, Oracle, SQL Server (MS...",
+    "score": 0,
+    "published_at": "2026-07-18T00:31:02+00:00",
+    "ai_summary": "StackRender는 사양(spec)에서 프로덕션 준비 데이터베이스까지 전환해주는 오픈소스 스키마 다이어그램 생성 도구입니다.\n이 도구는 데이터베이스부터 최종 API 엔드포인트까지 백엔드 개발 전반을 자동화하는 것을 목표로 합니다.\nPostgreSQL, MySQL, Oracle 등 다양한 데이터베이스를 지원하여 개발 생산성 향상에 기여할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31533",
+    "title": "AIM 서버를 직접 호스팅하는 방법",
+    "url": "https://news.hada.io/topic?id=31533",
+    "discussion_url": "https://news.hada.io/topic?id=31533",
+    "summary": "[Open OSCAR Server]를 이용하면 Debian 서버에 AIM/ICQ 서버를 구축해 Windows 98을 비롯한 구형 환경의 여러 클라이언트를 다시 연결할 수 있음\n소규모 운영에는 저사양 VPS로도 충분하지만, 외부 친구와 이용하려면 기본 포트 5190과 고정 IP 또는 동적 DNS, 인...",
+    "score": 0,
+    "published_at": "2026-07-18T00:02:47+00:00",
+    "ai_summary": "Open OSCAR Server를 사용하여 Debian에 AIM/ICQ 서버를 직접 호스팅하는 방법을 다룹니다.\nWindows 98 등 구형 클라이언트 연결을 지원하며, 저사양 VPS로도 소규모 운영이 가능합니다.\n외부 접속을 위해 포트 5190 설정, 고정 IP 또는 동적 DNS가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48963465",
+    "title": "Codex Resets",
+    "url": "https://codex-resets.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48963465",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-07-18T23:24:26+00:00",
+    "ai_summary": "\"Codex Resets\"는 OpenAI의 Codex 모델과 관련된 중요한 변화나 재설정을 암시하는 제목입니다.\n아마도 모델의 업데이트, 새로운 정책 도입, 혹은 기능 변경에 대한 내용을 다룰 것으로 예상됩니다.\nAI 기반 코드 생성 도구를 사용하는 개발자들에게 직접적인 영향을 미칠 수 있는 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48911793",
+    "title": "Speech Recognition and TTS in less than 500kb",
+    "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+    "discussion_url": "https://news.ycombinator.com/item?id=48911793",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-07-14T19:25:10+00:00",
+    "ai_summary": "500KB 미만의 경량 음성 인식(Speech Recognition) 및 TTS(Text-to-Speech) 시스템 구현에 대한 기사입니다.\n제한된 리소스 환경에서 음성 기술을 최적화하고 통합하는 기술적 접근 방식을 다룹니다.\n임베디드 시스템, 모바일 앱 등 고성능 및 저용량이 요구되는 개발 분야에 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48962758",
+    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+    "url": "https://www.neatnik.net/hardcore-indieweb",
+    "discussion_url": "https://news.ycombinator.com/item?id=48962758",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-07-18T21:45:12+00:00",
+    "ai_summary": "하루 0.01달러라는 극도로 저렴한 비용으로 100% 독립적인 웹사이트를 운영하는 방법을 소개합니다.\nIndieWeb 운동의 일환으로, 개인 데이터 주권 및 자율 호스팅에 대한 심도 깊은 내용을 다룰 것으로 예상됩니다.\n웹 개발자, 개인 블로거, 또는 저비용으로 웹 인프라를 구축하려는 이들에게 유용한 가이드가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48962893",
+    "title": "Judge a book by its first pages",
+    "url": "https://uncovered.ink",
+    "discussion_url": "https://news.ycombinator.com/item?id=48962893",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-07-18T22:02:31+00:00",
+    "ai_summary": "\"Judge a book by its first pages\"는 기술 프로젝트, 코드, 또는 문서의 초기 단계 평가에 대한 은유적인 제목으로 보입니다.\n제품의 첫인상, 코드 가독성, 설계 문서의 명확성 등 초기 단계의 중요성을 다룰 수 있습니다.\n개발, 디자인, QA 등 다양한 분야에서 효율적인 초기 검토 및 의사 결정 과정에 대한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48957779",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48957779",
+    "summary": "",
+    "score": 481,
+    "published_at": "2026-07-18T13:00:52+00:00",
+    "ai_summary": "GPT-5.6 모델이 특정 프롬프트 입력을 통해 30년간 미해결이었던 볼록 최적화(convex optimization) 문제를 해결했다는 내용입니다.\n이는 LLM이 복잡한 수학적 및 계산적 문제를 해결하는 데 있어 혁신적인 잠재력을 보여줍니다.\n알고리즘, 머신러닝, 과학 컴퓨팅 분야의 개발자들에게 AI 활용의 새로운 지평을 제시합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48959090",
+    "title": "If You Build It, They Will Come",
+    "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+    "discussion_url": "https://news.ycombinator.com/item?id=48959090",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-07-18T15:37:01+00:00",
+    "ai_summary": "\"If You Build It, They Will Come\"은 제품 개발, 스타트업, 또는 오픈 소스 프로젝트 전략에 대한 은유적인 제목입니다.\n좋은 제품이나 서비스를 만들면 사용자나 커뮤니티가 자연스럽게 모일 것이라는 기대를 담고 있습니다.\n개발자, 프로덕트 매니저, 창업가들에게 제품의 가치와 사용자 유치에 대한 중요한 메시지를 전달합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48961504",
+    "title": "Typing Speed Test, but for Developers",
+    "url": "https://haxxorwpm.0s.is/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48961504",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-07-18T19:38:21+00:00",
+    "ai_summary": "개발자를 위한 타이핑 속도 테스트 도구로, 일반적인 타이핑 테스트와 달리 코드 작성 환경에 특화되어 있다.\n코딩 속도와 정확도를 향상시키는 데 도움을 주어 개발 생산성을 높일 수 있다.\n개발자들이 자신의 타이핑 습관을 분석하고 개선할 수 있도록 설계되었다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48959143",
+    "title": "Gleam Is Now on Tangled",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "discussion_url": "https://news.ycombinator.com/item?id=48959143",
+    "summary": "",
+    "score": 190,
+    "published_at": "2026-07-18T15:44:04+00:00",
+    "ai_summary": "함수형 프로그래밍 언어 Gleam이 Tangled 플랫폼에 통합되었다.\nGleam은 Erlang VM 위에서 실행되며, 안정적이고 확장 가능한 시스템을 구축하는 데 중점을 둔다.\n개발자들은 이제 Tangled 환경에서 Gleam을 활용하여 애플리케이션을 개발할 수 있다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48962944",
+    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=48962944",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-07-18T22:09:07+00:00",
+    "ai_summary": "LuaTeX 문서의 실시간 재컴파일 기술을 소개하며, 대규모 문서를 1밀리초 만에 다시 컴파일하는 혁신적인 성능을 보여준다.\n이 기술은 문서 작성 및 편집 워크플로우를 극적으로 개선하여 생산성을 높인다.\n특히 과학 기술 문서나 복잡한 보고서를 다루는 개발자 및 연구자에게 매우 유용하다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48962983",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48962983",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-07-18T22:13:39+00:00",
+    "ai_summary": "맘다니 시장이 임대주들이 광고에 AI 생성 이미지를 사용하는 것을 금지한다고 발표했다.\n이는 AI 기술의 윤리적 사용과 규제, 그리고 허위 정보 방지에 대한 논의를 촉발한다.\n개발자들은 AI 기술의 사회적 영향과 정책적 함의를 이해하는 데 도움이 될 수 있다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48956879",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48956879",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-07-18T11:00:29+00:00",
+    "ai_summary": "NP-난해 문제 해결에 있어 Fable 5와 GPT-5.6 Sol의 성능을 비교 분석하는 연구이다.\n특히 특정 프롬프트 기법인 '/goal'이 문제 해결에 도움이 되는지 여부를 탐구한다.\nLLM의 추론 능력과 프롬프트 엔지니어링의 중요성을 보여주는 기술적인 내용이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48962429",
+    "title": "Co-evolution of self-replication and function in a digital primordial soup",
+    "url": "https://arxiv.org/abs/2607.09211",
+    "discussion_url": "https://news.ycombinator.com/item?id=48962429",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-07-18T21:09:01+00:00",
+    "ai_summary": "디지털 원시 수프 환경에서 자기 복제와 기능의 공진화를 연구하는 과학 논문이다.\n인공 생명 시스템과 복잡계 이론에 대한 탐구로, 컴퓨터 모델링을 통해 생명체의 진화 과정을 시뮬레이션한다.\nAI/ML, 특히 진화 알고리즘 분야의 개발자에게 흥미로운 주제일 수 있다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48959297",
+    "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48959297",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-07-18T16:02:45+00:00",
+    "ai_summary": "Google DeepMind와 Isomorphic Labs는 생명 과학 분야의 난제 해결을 위해 협력하고 있습니다.\n이들은 AI를 활용하여 의약품 발견 및 질병 연구에 새로운 접근 방식을 제시합니다.\n개발자들은 이 분야에서 AI 모델 구축, 데이터 분석 및 플랫폼 개발에 기여할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48959392",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48959392",
+    "summary": "",
+    "score": 165,
+    "published_at": "2026-07-18T16:12:08+00:00",
+    "ai_summary": "Claude Code가 Mac을 제어하도록 설정하는 방법을 단계별로 설명하는 가이드입니다.\n이 가이드는 유휴 Mac을 활용하여 AI 에이전트 개발 및 자동화 환경을 구축하는 방법을 다룹니다.\n개발자들은 이를 통해 LLM 기반의 자율 시스템 구축에 대한 실질적인 지식을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48959042",
+    "title": "Elixir-lang.org has a new design",
+    "url": "https://elixir-lang.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48959042",
+    "summary": "",
+    "score": 156,
+    "published_at": "2026-07-18T15:32:04+00:00",
+    "ai_summary": "Elixir 공식 웹사이트인 elixir-lang.org가 새로운 디자인으로 개편되었습니다.\n이번 개편은 사용자 경험을 개선하고 정보 접근성을 높이는 데 중점을 두었습니다.\nElixir 개발자와 잠재적 사용자 모두에게 긍정적인 영향을 미칠 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48958854",
+    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+    "url": "https://q3edit.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=48958854",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-07-18T15:12:40+00:00",
+    "ai_summary": "Q3Edit은 웹 브라우저에서 Quake 3 맵을 편집하고 플레이할 수 있는 프로젝트입니다.\n이 도구는 웹 기술을 활용하여 고전 게임의 콘텐츠를 현대적으로 재해석합니다.\n프론트엔드, 그래픽스, 게임 개발에 관심 있는 개발자들에게 흥미로울 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48886040",
+    "title": "Circular Obstacle Pathfinding (2017)",
+    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48886040",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-07-12T23:42:41+00:00",
+    "ai_summary": "원형 장애물이 있는 환경에서의 경로 탐색(Pathfinding) 알고리즘을 다룹니다.\n이 주제는 게임 개발, 로봇 공학, AI 등 다양한 분야에서 핵심적인 문제입니다.\n개발자들은 효율적인 경로 탐색 알고리즘 설계 및 구현에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48926594",
+    "title": "GTX 1080s: Testing a Legend",
+    "url": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
+    "discussion_url": "https://news.ycombinator.com/item?id=48926594",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-07-15T20:25:41+00:00",
+    "ai_summary": "오래된 그래픽 카드인 GTX 1080 시리즈의 성능을 테스트하고 분석하는 내용입니다.\n이 기사는 하드웨어 벤치마킹과 성능 평가에 대한 통찰을 제공합니다.\n개발자들은 자신의 애플리케이션에 적합한 하드웨어 선택 및 최적화에 참고할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48956949",
+    "title": "What AI did to stackoverflow in a graph",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "discussion_url": "https://news.ycombinator.com/item?id=48956949",
+    "summary": "",
+    "score": 349,
+    "published_at": "2026-07-18T11:12:46+00:00",
+    "ai_summary": "AI가 개발자 정보의 허브인 스택 오버플로우에 미친 영향을 그래프로 분석합니다.\nAI 답변 증가와 사용자 참여 변화 등 구체적인 데이터를 통해 AI 시대를 조명합니다.\n개발자들이 정보를 얻고 문제를 해결하는 방식의 변화를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48852151",
+    "title": "How GitHub gave every repository a durable owner",
+    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48852151",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-07-09T20:47:09+00:00",
+    "ai_summary": "GitHub가 모든 저장소에 영구적인 소유자 개념을 구현한 기술적 과정을 설명합니다.\n대규모 코드베이스 관리와 권한 부여 시스템 구축에 대한 GitHub의 솔루션을 다룹니다.\n안정적인 저장소 관리와 협업 환경 개선을 위한 내부 시스템 전략을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48960218",
+    "title": "The Kimi K3 Moment",
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48960218",
+    "summary": "",
+    "score": 256,
+    "published_at": "2026-07-18T17:32:40+00:00",
+    "ai_summary": "'Kimi K3 Moment'는 특정 기술 또는 제품의 중요한 전환점이나 출시를 지칭하는 것으로 보입니다.\n이 사건이 기술 업계에 미치는 파급 효과와 그 중요성을 분석합니다.\n새로운 혁신이 시장과 사용자에게 어떤 변화를 가져올지 탐구합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48951756",
+    "title": "Tech note: making your own V-I plots at home",
+    "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+    "discussion_url": "https://news.ycombinator.com/item?id=48951756",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-07-17T20:10:02+00:00",
+    "ai_summary": "이 기술 노트는 집에서 직접 V-I 플롯(전압-전류 곡선)을 만드는 방법을 설명합니다.\n전자회로 및 부품의 전기적 특성을 이해하고 분석하는 데 유용한 실용적인 가이드입니다.\nDIY 전자 실험을 통해 하드웨어 지식을 심화하는 데 도움을 줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48963019",
+    "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+    "url": "https://twitter.com/FumiharuKato/status/2078017230537892207",
+    "discussion_url": "https://news.ycombinator.com/item?id=48963019",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-07-18T22:19:37+00:00",
+    "ai_summary": "모치즈키 교수의 ABC 추론 증명에 대한 결함이 형식 증명 보조 도구인 Lean을 통해 확인되었습니다.\n이는 복잡한 수학적 증명을 검증하는 데 소프트웨어 도구가 활용될 수 있음을 보여줍니다.\n형식 검증과 수학, 컴퓨터 과학의 교차점을 탐구하는 내용입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48960155",
+    "title": "Goodbye, and Thanks for All the Bikesheds",
+    "url": "https://queue.acm.org/detail.cfm?id=3818307",
+    "discussion_url": "https://news.ycombinator.com/item?id=48960155",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-07-18T17:27:24+00:00",
+    "ai_summary": "이 글은 '바이크셰딩(Bikeshedding)' 현상, 즉 사소한 문제에 과도하게 시간을 낭비하는 개발 문화에 대한 고찰입니다.\n프로젝트 관리와 팀워크에서 비효율성을 초래하는 요인을 분석하고 성찰합니다.\n효율적인 의사결정과 건강한 개발 문화를 위한 교훈을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  }
+]
