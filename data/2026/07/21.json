@@ -1,0 +1,699 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31624",
+    "title": "Moonshot AI, Kimi K3 수요 급증으로 신규 구독 일시 중단",
+    "url": "https://news.hada.io/topic?id=31624",
+    "discussion_url": "https://news.hada.io/topic?id=31624",
+    "summary": "Kimi K3 수요가 예상보다 크게 늘어 최근 48시간 동안 GPU 사용량이 현재 용량 한계에 근접함\n기존 구독자의 이용 경험을 보호하기 위해 신규 구독을 일시 중단하고 현재 회원에게 컴퓨팅 자원을 우선 배정함\n기존 유료 구독자는 영향을 받지 않으며, Moo...",
+    "score": 0,
+    "published_at": "2026-07-20T18:33:18+00:00",
+    "ai_summary": "Moonshot AI의 Kimi K3 서비스가 예상치 못한 수요 급증으로 GPU 용량 한계에 도달했습니다.\n기존 구독자 경험 보호를 위해 신규 구독을 일시 중단하고 컴퓨팅 자원을 우선 배정합니다.\n유료 기존 구독자는 영향을 받지 않습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31622",
+    "title": "Show GN: newsline – Claude Code 기다리는 동안 상태줄에서 읽는 한 줄 뉴스",
+    "url": "https://news.hada.io/topic?id=31622",
+    "discussion_url": "https://news.hada.io/topic?id=31622",
+    "summary": "Claude Code에 긴 작업을 시키면 esc to interrupt를 멍하니 보는 시간이 쌓입니다.\n딴 일 하기엔 짧고 가만히 있기엔 긴 그 시간에, 세션 하단 상태줄에서 뉴스 헤드라인을\n한 줄씩 읽으면 어떨까 싶어서 만들었습니다.\n무엇을 하나\n\n기존 상태줄(HUD) 아래 줄...",
+    "score": 0,
+    "published_at": "2026-07-20T15:24:29+00:00",
+    "ai_summary": "Claude Code의 긴 작업 대기 시간 동안 개발자들이 멍하니 보내는 시간을 활용하기 위한 도구입니다.\n세션 하단 상태줄에 뉴스 헤드라인을 한 줄씩 표시하여 시간을 효율적으로 사용하도록 돕습니다.\n개발자의 생산성 향상을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31617",
+    "title": "Show GN: sessionhub - 흩어진 Claude Code, Codex 세션을 한 곳에서 검색",
+    "url": "https://news.hada.io/topic?id=31617",
+    "discussion_url": "https://news.hada.io/topic?id=31617",
+    "summary": "sessionhub는 여러 머신에 흩어진 Claude Code · Codex 세션을 한 곳에 모아 검색하는 도구입니다.\n데스크톱과 노트북을 오가고 가끔 서버에서도 개발하는데, &quot;이거 전에 해봤는데&quot; 싶은 작업이 어느 머신에 있었는지 자주 헷갈렸습니다. Claude Code랑 Codex 세션이 각 머신 ~/.claude/proje",
+    "score": 0,
+    "published_at": "2026-07-20T07:56:22+00:00",
+    "ai_summary": "sessionhub는 여러 개발 머신에 분산된 Claude Code 및 Codex 세션을 한 곳에 모아 검색하는 도구입니다.\n\"이전에 해봤던 작업\"이 어느 머신에 있는지 혼란스러울 때 개발자의 작업 흐름을 개선합니다.\n특히 AI 코딩 보조 도구를 활용하는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31614",
+    "title": "AI 조언을 받으면 정확도는 3분의 1로 떨어지고 자신감은 2배 이상 높아짐",
+    "url": "https://news.hada.io/topic?id=31614",
+    "discussion_url": "https://news.hada.io/topic?id=31614",
+    "summary": "AI 조언을 이용한 참가자는 “모른다”고 답하는 비율이 44%에서 3%로 급감했고, 정확도는 27%에서 9%로 하락한 반면 자신감은 30%에서 76%로 상승함\n연구진은 합리적인 도구 위임과 구분하기 위해 영화 속 시각적 세부 정보처럼 AI가 자주 틀리는 질문과 대체로 오...",
+    "score": 0,
+    "published_at": "2026-07-20T07:33:44+00:00",
+    "ai_summary": "AI 조언을 활용할 경우, 사용자의 정답률은 27%에서 9%로 급락하며 3분의 1 수준으로 떨어졌습니다.\n반면, \"모른다\"고 답하는 비율이 44%에서 3%로 줄고 자신감은 30%에서 76%로 두 배 이상 상승했습니다.\n이는 AI 의존 시 정확도 저하와 과신 증가 가능성을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31611",
+    "title": "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소",
+    "url": "https://news.hada.io/topic?id=31611",
+    "discussion_url": "https://news.hada.io/topic?id=31611",
+    "summary": "OpenAI Codex의 번들 모델 메타데이터를 갱신하면서 모델 컨텍스트 크기를 372k에서 272k로 줄인 변경을 release/0.144 브랜치에 백포트함\nPR #33972는 agent/hotfix-0.144-model-metadata 브랜치에서 Codex 0.144 릴리스로 변경 사항을...",
+    "score": 0,
+    "published_at": "2026-07-20T03:33:20+00:00",
+    "ai_summary": "OpenAI가 Codex 모델의 번들 메타데이터를 갱신하며 컨텍스트 크기를 372k에서 272k로 축소했습니다.\n이 변경 사항은 `release/0.144` 브랜치에 백포트되었으며, PR #33972를 통해 릴리스됩니다.\nCodex를 사용하는 개발자는 이 변경 사항에 유의해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48983382",
+    "title": "Human mathematicians are being outcounterexampled",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48983382",
+    "summary": "",
+    "score": 158,
+    "published_at": "2026-07-20T19:03:37+00:00",
+    "ai_summary": "인간 수학자들이 발견하기 어려운 반례를 인공지능이 찾아내는 사례가 증가하고 있습니다.\n이는 AI의 복잡한 논리적 추론 및 탐색 능력이 발전하고 있음을 보여줍니다.\n수학 연구와 AI 개발 분야 모두에 중요한 의미를 가지며 새로운 연구 영역을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48981620",
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "url": "https://jelly-ui.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48981620",
+    "summary": "",
+    "score": 295,
+    "published_at": "2026-07-20T17:07:39+00:00",
+    "ai_summary": "Jelly UI는 HTML 폼 컨트롤에 부드러운 물리 효과를 적용하여 동적인 사용자 경험을 제공합니다.\n이는 웹 인터랙션을 개선하는 새로운 접근 방식이며 시각적으로 매력적인 UI를 구현할 수 있게 합니다.\n프런트엔드 개발자들이 UI/UX 개선 및 실험에 활용하기 좋은 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48978605",
+    "title": "Hacker wipes Romania's land registry database",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48978605",
+    "summary": "",
+    "score": 552,
+    "published_at": "2026-07-20T13:28:33+00:00",
+    "ai_summary": "루마니아 토지 등기 데이터베이스가 해커 공격으로 인해 완전히 삭제되는 심각한 사고가 발생했습니다.\n이는 데이터 보안의 중요성과 잠재적인 사이버 위협에 대한 경각심을 높이는 사례입니다.\n모든 개발자에게 데이터 보호 및 보안 강화의 필요성을 다시 한번 상기시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48982681",
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "url": "https://blaizzy.github.io/nativ/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48982681",
+    "summary": "",
+    "score": 152,
+    "published_at": "2026-07-20T18:16:08+00:00",
+    "ai_summary": "Nativ는 최신 개방형 AI 모델들을 Mac 환경에서 클라우드 없이 로컬로 실행할 수 있게 해주는 도구입니다.\n이를 통해 개발자와 연구자는 비용 부담 없이 모델을 실험하고 성능을 최적화할 수 있습니다.\nLLM 및 AI/ML 모델 개발 워크플로우를 효율적으로 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48984270",
+    "title": "I wrote an bash enumerator because I was sick of xargs",
+    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48984270",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-07-20T20:12:19+00:00",
+    "ai_summary": "한 개발자가 xargs의 불편함에 지쳐 자신만의 bash 열거(enumerator) 도구를 직접 개발했습니다.\n이는 스크립트 작성 효율을 높이고 특정 문제 해결을 위한 맞춤형 도구 개발의 중요성을 보여줍니다.\nDevOps 및 시스템 관리 업무에 유용한 실용적 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48984254",
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "url": "https://vincentwoo.com/3d/grace_cathedral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48984254",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-07-20T20:10:44+00:00",
+    "ai_summary": "샌프란시스코 그레이스 대성당을 가우시안 스플래팅 기술로 구현한 몰입형 투어가 Hacker News에 공개되었습니다.\n이 기술은 현실 세계를 3D로 정교하게 재구성하여 생생한 가상 경험을 제공합니다.\n3D 그래픽스, 가상현실, AI 기반 렌더링 기술에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48982535",
+    "title": "Agent swarms and the new model economics",
+    "url": "https://cursor.com/blog/agent-swarm-model-economics",
+    "discussion_url": "https://news.ycombinator.com/item?id=48982535",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-07-20T18:06:13+00:00",
+    "ai_summary": "여러 AI 에이전트가 협력하여 복잡한 문제를 해결하는 '에이전트 스웜' 개념과 모델 경제학의 변화를 다룹니다.\nAI 에이전트의 집단 지성이 창출하는 가치와 비용 효율성에 대한 새로운 관점을 제시합니다.\nAI/ML 및 LLM 개발의 미래 방향성과 비즈니스 전략에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48981136",
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "url": "https://news.ycombinator.com/item?id=48981136",
+    "discussion_url": "https://news.ycombinator.com/item?id=48981136",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-07-20T16:32:10+00:00",
+    "ai_summary": "K-12 교육을 위한 AI 기반 학습 플랫폼 Bloomy가 YC S26에 런칭했습니다.\n이 플랫폼은 학생들이 어려운 개념을 이해하도록 AI 튜터와 연습 문제를 제공합니다.\n학습자의 진도를 추적하고 맞춤형 교육 경험을 제공하여 숙달 학습을 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48981206",
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "discussion_url": "https://news.ycombinator.com/item?id=48981206",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-07-20T16:36:36+00:00",
+    "ai_summary": "arXiv 논문 전반에 걸쳐 AI가 작성한 텍스트를 측정하는 방법을 탐구하고, 그 측정 방법의 한계를 분석합니다.\nAI 생성 텍스트의 특징을 파악하고, 현재 측정 도구의 약점을 제시합니다.\n이는 AI 글쓰기 탐지의 복잡성과 향후 연구 방향을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48984231",
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48984231",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-07-20T20:08:45+00:00",
+    "ai_summary": "감시 자본주의의 확산과 그 영향에 대한 인식을 높이는 것의 중요성을 강조합니다.\n기술 기업의 데이터 수집 관행에 저항하고 개인의 통제권을 되찾는 방법을 모색합니다.\n사용자 인식을 통한 기술의 윤리적 사용과 사회적 변화를 촉구합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48979931",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48979931",
+    "summary": "",
+    "score": 142,
+    "published_at": "2026-07-20T15:07:31+00:00",
+    "ai_summary": "2012년 논문을 통해 화면 공간 주변 폐색(SSAO) 기술의 시각적 한계와 문제점을 다룹니다.\n특히 모서리 및 특정 기하학적 형태 표현의 비현실성을 지적합니다.\nSSAO 알고리즘의 개선 필요성과 차세대 그래픽 렌더링 기술의 방향을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48916512",
+    "title": "You only need the frontier model for one single edit",
+    "url": "https://stencil.so/blog/prewalk",
+    "discussion_url": "https://news.ycombinator.com/item?id=48916512",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-07-15T05:08:26+00:00",
+    "ai_summary": "최첨단(프론티어) AI 모델이 단 한 번의 편집 작업에만 필요할 수 있다는 새로운 관점을 제시합니다.\n이는 AI 모델 활용의 효율성을 높이고 리소스 낭비를 줄이는 방안을 모색합니다.\n거대 모델의 특정 기능에 집중하여 비용 효율적인 활용 전략을 탐구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48864176",
+    "title": "My two year old taught me constraint solving",
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48864176",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-07-10T19:32:07+00:00",
+    "ai_summary": "두 살배기 아이와의 일상 경험을 통해 '제약 조건 해결'이라는 컴퓨터 과학 개념을 쉽고 직관적으로 설명합니다.\n아이의 행동에서 발생하는 문제 해결 과정을 프로그래밍의 제약 조건 시스템에 비유합니다.\n실생활에서 알고리즘적 사고방식을 발견하는 흥미로운 접근을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48979120",
+    "title": "Perfection is not over-engineering",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48979120",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-07-20T14:10:30+00:00",
+    "ai_summary": "'완벽함'이 지나친 설계(over-engineering)와는 다르다는 것을 명확히 합니다.\n진정한 완벽함은 효율성, 유지보수성, 확장성을 고려한 최적의 솔루션을 의미합니다.\n개발 프로세스에서 불필요한 복잡성 없이 고품질 결과를 추구하는 방안을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48947739",
+    "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+    "url": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
+    "discussion_url": "https://news.ycombinator.com/item?id=48947739",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-07-17T14:24:21+00:00",
+    "ai_summary": "AMD Zen 3 코어에서 FP32 행렬 곱셈 성능을 85.3 GFlops까지 최적화한 과정을 상세히 설명합니다.\nSIMD 명령어, 캐시 활용 등 저수준 기술을 활용하여 성능 병목을 제거하고 효율을 극대화했습니다.\n고성능 컴퓨팅 및 딥러닝 워크로드 최적화에 관심 있는 개발자에게 깊이 있는 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48978792",
+    "title": "Shinjuku Station in 3D",
+    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48978792",
+    "summary": "",
+    "score": 131,
+    "published_at": "2026-07-20T13:43:10+00:00",
+    "ai_summary": "도쿄 신주쿠역의 복잡한 구조를 정교한 3D 모델로 구현한 프로젝트를 소개합니다.\n첨단 3D 모델링 기술과 데이터 시각화 기법을 활용하여 복잡한 공간 정보를 직관적으로 표현합니다.\n프론트엔드, 그래픽스, 또는 데이터 시각화 분야에 관심 있는 개발자에게 영감을 줄 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48975665",
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48975665",
+    "summary": "",
+    "score": 379,
+    "published_at": "2026-07-20T08:13:36+00:00",
+    "ai_summary": "워드프레스 RCE(원격 코드 실행) 취약점에 대한 높은 가치와 이를 발견한 과정을 다룹니다.\nGPT5.6과 같은 AI 도구를 활용하여 단 25달러의 비용으로 취약점을 찾아낸 놀라운 경험을 공유합니다.\n보안 전문가, 웹 개발자, 그리고 AI를 활용한 보안 연구에 관심 있는 이들에게 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48982578",
+    "title": "The drivers behind software delivery inefficiency",
+    "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+    "discussion_url": "https://news.ycombinator.com/item?id=48982578",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-07-20T18:10:17+00:00",
+    "ai_summary": "소프트웨어 개발 및 배포 과정에서 발생하는 비효율성의 주요 원인들을 심층적으로 분석합니다.\n기술 부채, 비효율적인 협업, 불명확한 요구사항 등 다양한 관점에서 문제점을 진단합니다.\n개발 프로세스 개선, 팀 생산성 향상에 관심 있는 모든 개발자와 리더에게 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48980019",
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48980019",
+    "summary": "",
+    "score": 267,
+    "published_at": "2026-07-20T15:13:42+00:00",
+    "ai_summary": "Kimi K3, Qwen 3.8 등 새로운 LLM 모델의 등장과 Anthropic의 잠재적 어려움을 분석합니다.\n경쟁이 심화되는 LLM 시장의 현재 동향과 주요 플레이어들의 전략적 움직임을 조명합니다.\nAI/ML 개발자, 연구자, 그리고 LLM 산업의 미래에 관심 있는 이들에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48978841",
+    "title": "Show HN: OTP Inspired actor supervisor based full stack templates",
+    "url": "https://shipstacks.tech",
+    "discussion_url": "https://news.ycombinator.com/item?id=48978841",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-07-20T13:47:29+00:00",
+    "ai_summary": "OTP(Erlang Open Telecom Platform)에서 영감을 받은 액터-감독자 기반의 풀스택 템플릿을 소개합니다.\n고가용성과 내결함성을 갖춘 시스템을 빠르고 효율적으로 구축할 수 있도록 돕는 솔루션입니다.\n풀스택 개발자, 백엔드 엔지니어, 그리고 견고한 분산 시스템 설계에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48980053",
+    "title": "The Voice of Google",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "discussion_url": "https://news.ycombinator.com/item?id=48980053",
+    "summary": "",
+    "score": 160,
+    "published_at": "2026-07-20T15:15:36+00:00",
+    "ai_summary": "구글의 음성 기술 발전과 관련된 최신 내용을 다루며, 음성 합성 및 인식 분야의 혁신을 조명합니다.\n더욱 자연스러운 음성 상호작용을 위한 구글의 지속적인 노력과 그 기술적 배경을 설명합니다.\nAI/ML 개발자, 특히 자연어 처리 및 음성 기술 분야에 관심 있는 이들에게 흥미로운 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48984555",
+    "title": "The creepiest 'sales demo' of all time",
+    "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=48984555",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-07-20T20:36:37+00:00",
+    "ai_summary": "어떤 기술 시연이 사용자에게 소름 끼치도록 다가왔는지 탐구하며, AI 및 개인 정보 보호 문제와 연관될 가능성이 큽니다. 기술이 초래할 윤리적 딜레마와 잠재적 오용을 조명하며, 개발자들에게 윤리적 고려의 중요성을 강력히 상기시킵니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48980238",
+    "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=48980238",
+    "summary": "",
+    "score": 57,
+    "published_at": "2026-07-20T15:28:32+00:00",
+    "ai_summary": "AI를 신화화하는 태도가 실제 AI 시스템 운영의 실패 가능성을 높인다는 비판적 관점을 제시합니다. AI에 대한 비현실적인 기대와 오해가 기술의 건전한 발전을 저해할 수 있음을 경고합니다. 개발자들이 AI의 실질적인 한계와 윤리적 영향을 명확히 인식할 것을 촉구하는 중요한 논의입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/Alibaba_Qwen/status/2078759124914098291",
+    "title": "Qwen3.8 Is Going Open-Weight (1 minute read)",
+    "url": "https://x.com/Alibaba_Qwen/status/2078759124914098291",
+    "discussion_url": "https://x.com/Alibaba_Qwen/status/2078759124914098291",
+    "summary": "Alibaba announced Qwen3.8, a 2.4-trillion-parameter model slated for an open-weight release. A preview version is available through Alibaba's Token Plan, Qoder, and QoderWork.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "알리바바가 2.4조 파라미터 규모의 Qwen3.8 모델을 오픈웨이트로 출시할 예정입니다. 프리뷰 버전은 알리바바의 Token Plan, Qoder, QoderWork를 통해 사용 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+    "title": "How Netflix Built Its LLM Serving Stack (18 minute read)",
+    "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+    "discussion_url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+    "summary": "Netflix details how it deployed and operated LLM inference within its existing production infrastructure. The article covers engine selection, model packaging, API design, deployment strategy, output constraints, and trade-offs that emerged under real workloads.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "넷플릭스가 기존 프로덕션 인프라 내에서 LLM 추론 스택을 구축하고 운영한 방법을 상세히 공개했습니다. 이 글은 엔진 선택, 모델 패키징, API 설계, 배포 전략, 출력 제약 조건 및 실제 워크로드에서 발생한 트레이드오프를 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal Help? (6 minute read)",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "discussion_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "summary": "Claude Code and Codex both have a /goal option, but their implementations are fundamentally different. Claude Code implements /goal as a session-scoped Stop hook, so it can catch an early exit, but it doesn't know whether another ten million solver iterations are worthwhile. Codex treats a goal as a persisted thread state. It sees the files and tools, but effectively grades its own work. Using /goal can be a bad default as it can amplify bad decisions as much as good ones.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Claude Code와 Codex의 /goal 옵션은 구현 방식이 근본적으로 다르며, /goal 사용은 잘못된 결정을 증폭시킬 수 있어 기본값으로 설정하는 것이 좋지 않을 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/SakanaAILabs/status/2078136419521048905",
+    "title": "Diffusing Blame: Dale-Constrained Learning Without Weight Transport (3 minute read)",
+    "url": "https://x.com/SakanaAILabs/status/2078136419521048905",
+    "discussion_url": "https://x.com/SakanaAILabs/status/2078136419521048905",
+    "summary": "Sakana AI's \"Diffusing Blame\" is a neural network technique that enforces Dale's principle while enabling effective learning in image classification and reinforcement learning tasks. Their approach, based on Error Diffusion, uses non-negative weight matrices to maintain separate excitatory and inhibitory streams, eliminating the need for weight transport. Results show strong alignment with true gradients, indicating a step toward biologically plausible learning rules.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Sakana AI의 'Diffusing Blame'은 Dale의 원칙을 적용하여 이미지 분류 및 강화 학습에서 효과적인 학습을 가능하게 하는 신경망 기술입니다. 오차 확산 기반 접근 방식은 비음수 가중치 행렬을 사용하여 흥분성 및 억제성 스트림을 분리, 가중치 전송이 필요 없습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/MoonshotAI/kimi-code",
+    "title": "Kimi Code CLI (GitHub Repo)",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "discussion_url": "https://github.com/MoonshotAI/kimi-code",
+    "summary": "Kimi Code CLI is an AI coding agent that runs in the terminal. It can read and edit code, run shell commands, search files, fetch web pages, and choose the next step based on feedback. The CLI works with Moonshot AI's Kimi models and can be configured to use other compatible providers. Its compatibilities can be extended through agent skills, hooks, sub-agents, and MCPs.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Kimi Code CLI는 터미널에서 작동하는 AI 코딩 에이전트로 코드 읽기/편집, 셸 명령 실행, 파일 검색, 웹 페이지 가져오기 등 다양한 기능을 수행합니다. Moonshot AI의 Kimi 모델과 호환되며 에이전트 스킬, 훅 등으로 확장 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/claudeai/status/2078302415804379218",
+    "title": "Claude Fable 5 will be included in all Max and Team Premium plans (1 minute read)",
+    "url": "https://x.com/claudeai/status/2078302415804379218",
+    "discussion_url": "https://x.com/claudeai/status/2078302415804379218",
+    "summary": "Claude Fable 5 will be included in all Max and Team Premium plans at 50% of limits starting July 20. Pro and Team Standard users will continue to have access to Fable via usage credits. They will receive a one-time $100 credit. Fable is being rolled out in stages as demand for the model has been challenging to predict.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Claude Fable 5는 7월 20일부터 모든 Max 및 Team Premium 플랜에 50% 한도로 포함됩니다. Pro 및 Team Standard 사용자는 일회성 100달러 크레딧으로 Fable에 계속 액세스할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
+    "title": "Alibaba open-sources its AI chip software stack at WAIC, targeting Nvidia's CUDA lock-in (3 minute read)",
+    "url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
+    "discussion_url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
+    "summary": "Alibaba is open sourcing the software stack for its Zhenwu series of AI chips. The move will lower migration barriers for developers currently locked into Nvidia's CUDA ecosystem. If China wants AI independence, it needs to break the CUDA lock-in at the software layer, not just build alternative chips. The Pentagon recently added Alibaba to its Chinese military companies blacklist. Open sourcing SAIL will make its ecosystem stickier and harder for any single government to shut down.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Alibaba는 AI 칩 소프트웨어 스택을 오픈소스화하여 개발자들이 Nvidia CUDA 생태계 종속에서 벗어나도록 돕습니다. 이는 중국의 AI 독립을 위한 핵심 단계로, 소프트웨어 계층에서의 CUDA 종속성 해결을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free",
+    "title": "A Chinese AI startup is about to hit $1bn in sales while giving its best models away for free (3 minute read)",
+    "url": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free",
+    "discussion_url": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free",
+    "summary": "A large share of Z.ai's income comes from on-premises deployments for state-owned enterprises and financial institutions, as well as its fast-growing cloud business.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "한 중국 AI 스타트업이 최고 모델을 무료로 제공하면서도 10억 달러 매출을 달성할 예정입니다. 수익은 주로 국영 기업 및 금융 기관 대상 온프레미스 배포와 빠르게 성장하는 클라우드 사업에서 발생합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal (4 minute read)",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "discussion_url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "summary": "General Compute, an AI inference cloud startup, is using inference-specific chips as collateral for a $400 million loan.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "AI 추론 클라우드 스타트업인 General Compute가 4억 달러 대출의 담보로 추론 전용 칩을 사용합니다. 이는 GPU 투자자들이 추론 칩으로 전환하는 새로운 금융 트렌드를 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "title": "I burned all my tokens researching how to save tokens (12 minute read)",
+    "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "discussion_url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "summary": "Use cheap models to find information, accurate models to verify it, and then use deep research last.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "LLM 토큰 사용을 절약하는 실용적인 전략입니다. 저렴한 모델로 정보를 찾고, 정확한 모델로 검증한 다음, 마지막으로 심층 연구에 비싼 모델을 활용하는 방식이 효율적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/kimi_moonshot/status/2078855608565207130",
+    "title": "Kimi K3 has received far more love than expected (1 minute read)",
+    "url": "https://x.com/kimi_moonshot/status/2078855608565207130",
+    "discussion_url": "https://x.com/kimi_moonshot/status/2078855608565207130",
+    "summary": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Kimi K3 모델에 대한 예상보다 훨씬 큰 인기로 인해, Kimi는 현재 신규 구독을 일시 중지하고 있습니다. 기존 회원에게 컴퓨팅 자원을 우선 할당하여 서비스 품질을 유지하고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/",
+    "title": "Google preparing Skills and Gemini Live for web rollout (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/",
+    "discussion_url": "https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/",
+    "summary": "Google plans to introduce Gemini Live to desktop and web, extending real-time voice capabilities beyond mobile.",
+    "score": 0,
+    "published_at": "2026-07-20T23:55:56+00:00",
+    "ai_summary": "Google이 Gemini Live 기능을 데스크톱 및 웹으로 확장하여 모바일 외 기기에서도 실시간 음성 기능을 제공할 예정입니다. 또한 'Skills' 기능도 웹에 도입됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Frontend"
+    ]
+  }
+]
