@@ -1,0 +1,399 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31736",
+    "title": "과제형 면접 프로젝트를 열어보니 조직적인 악성코드 작전이었다",
+    "url": "https://news.hada.io/topic?id=31736",
+    "discussion_url": "https://news.hada.io/topic?id=31736",
+    "summary": "LinkedIn에서 월 $10,000~15,000의 원격 Python 개발자 자리를 제안한 가짜 채용 담당자가 정상적인 FastAPI 과제로 위장한 ZIP 파일을 보내고, Git 작업 과정에서 악성코드가 설치되도록 구성함\n저장소의 .git/hooks에는 운영체제별 원격 페이로드를 조용히 실행하는 ...",
+    "score": 0,
+    "published_at": "2026-07-23T21:34:04+00:00",
+    "ai_summary": "가짜 채용 담당자가 고액 원격 개발자 채용을 미끼로 개발자들을 유인했습니다.\n정상적인 FastAPI 과제로 위장한 ZIP 파일에 Git 작업 과정에서 악성코드가 설치되도록 설계되었습니다.\n이는 개발자 대상의 조직적인 사이버 보안 위협임을 경고하며 주의를 당부합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31733",
+    "title": "Show GN: 혼자는 외로워서 만든 오픈코드워",
+    "url": "https://news.hada.io/topic?id=31733",
+    "discussion_url": "https://news.hada.io/topic?id=31733",
+    "summary": "혼자는 외로워서 만들었습니다.\n오픈코드워는 바이브코딩하는 분들의 리더보드예요. 어차피 코드는 AI가 짜주니까 코드량 대신 프롬프트 수랑 글자 수를 모아서 줄 세워보고 싶어서 만들었어습니다\n설치 방법\n클로드 코드는\n/plugin marketplace add dodohankim/opencodewar\n/plugi",
+    "score": 0,
+    "published_at": "2026-07-23T14:03:40+00:00",
+    "ai_summary": "개발자가 AI 코딩 시대에 맞춰 프롬프트 수와 글자 수 기반의 리더보드 '오픈코드워'를 만들었습니다.\n이 도구는 AI가 코드를 생성하는 환경에서 개발자들의 새로운 기여 방식을 측정하고자 합니다.\n클로드(Claude) 플러그인을 통해 쉽게 설치하여 사용할 수 있도록 제공됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31730",
+    "title": "중고 GPU 클러스터의 가치는 아무도 모른다",
+    "url": "https://news.hada.io/topic?id=31730",
+    "discussion_url": "https://news.hada.io/topic?id=31730",
+    "summary": "xAI가 채무불이행하면 대주단은 20만 개 GPU로 구성된 Colossus를 인수해 임대할 수 있지만, 실제 가치는 장비보다 운영 상태와 팀의 암묵지에 크게 좌우됨\nxAI와 CoreWeave를 중심으로 GPU 담보 금융이 확산됐으나 가격 산정 인프라가 부족해, 기준금리보다 약 8....",
+    "score": 0,
+    "published_at": "2026-07-23T11:20:18+00:00",
+    "ai_summary": "xAI의 Colossus 같은 대규모 GPU 클러스터는 채무불이행 시 가치 평가가 어렵습니다.\n이는 장비 자체보다 운영 노하우와 팀의 암묵지가 실제 가치를 크게 좌우하기 때문입니다.\nGPU 담보 금융이 확산되지만, GPU 인프라의 가격 산정 기준이 아직 부족함을 지적합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31728",
+    "title": "만든다는 것",
+    "url": "https://news.hada.io/topic?id=31728",
+    "discussion_url": "https://news.hada.io/topic?id=31728",
+    "summary": "생성형 AI로 프로젝트를 완성해도 요청한 사람과 실제 제작 주체가 다르다면, ‘내가 만들었다’는 성취감을 얻기 어려움\n프롬프트에는 비전·판단·소통·기술이 필요하지만, 직접 만드는 기술보다는 다른 존재에게 제작을 맡기는 기술에 가까움\n직접 작성...",
+    "score": 0,
+    "published_at": "2026-07-23T11:15:35+00:00",
+    "ai_summary": "생성형 AI로 프로젝트를 완성해도 직접 만들었다는 성취감을 느끼기 어려울 수 있습니다.\n프롬프트 작성은 비전과 판단을 요구하지만, 직접 제작하는 기술과는 다른 성격입니다.\n이는 AI 시대에 '만든다'는 행위와 개발자의 역할을 재정의할 필요성을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31719",
+    "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
+    "url": "https://news.hada.io/topic?id=31719",
+    "discussion_url": "https://news.hada.io/topic?id=31719",
+    "summary": "국가통계포털(KOSIS)이 공식 MCP 시범서비스를 열어서, 노트북에서 도는 9B 로컬 모델에 붙여봤습니다. API 키 없이 합계출산율을 찾아 차트를 그리고, CSV로 저장하려는 순간에는 승인 창이 뜹니다. 파일 쓰기처럼 사람이 승인(HITL)해야만 하는 작업은 UI에서 사람이 확인하고 승인하도록 해뒀기 때문입니다.\n...",
+    "score": 0,
+    "published_at": "2026-07-23T02:43:03+00:00",
+    "ai_summary": "로컬 LLM 에이전트 개발 및 테스트를 위한 통합 환경을 소개하는 'Show GN'입니다.\n국가통계포털(KOSIS)의 MCP 시범서비스와 연동하여 9B 로컬 모델로 데이터를 처리하고 시각화합니다.\nHITL(Human-in-the-Loop) 기능을 구현하여 중요한 작업은 사용자의 명시적 승인을 받도록 설계되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31713",
+    "title": "Terrence Tao의 Jacobian 추측 반례에 관한 ChatGPT 대화",
+    "url": "https://news.hada.io/topic?id=31713",
+    "discussion_url": "https://news.hada.io/topic?id=31713",
+    "summary": "Terrence Tao의 Jacobian 추측 반례에 관한 ChatGPT 대화",
+    "score": 0,
+    "published_at": "2026-07-23T00:43:34+00:00",
+    "ai_summary": "세계적인 수학자 테렌스 타오의 야코비안 추측 반례에 대한 주제입니다.\n이 복잡한 수학적 문제를 ChatGPT와 대화한 내용을 담고 있습니다.\nLLM이 고급 학술 및 연구 분야에서도 활용될 수 있음을 보여주는 사례입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49023016",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "discussion_url": "https://news.ycombinator.com/item?id=49023016",
+    "summary": "",
+    "score": 684,
+    "published_at": "2026-07-23T15:18:40+00:00",
+    "ai_summary": "스타트업 창업자들이 미국 정부에 중국의 오픈 가중치 AI 기술 접근을 제한하지 말 것을 촉구합니다.\n이러한 제한이 혁신을 저해하고 미국의 AI 경쟁력을 약화시킬 수 있다고 주장하며,\n오픈소스 AI 모델의 중요성과 글로벌 협력의 필요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49025984",
+    "title": "Building on ATProto",
+    "url": "https://lukekanies.com/writing/building-on-atproto/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49025984",
+    "summary": "",
+    "score": 117,
+    "published_at": "2026-07-23T18:23:50+00:00",
+    "ai_summary": "분산형 소셜 네트워크 프로토콜인 ATProto 위에서 애플리케이션을 개발하는 방법을 다룹니다.\nATProto의 구조와 철학을 이해하고, 이 프로토콜의 기능을 활용하는 개발 팁을 제공합니다.\n개발자들이 분산 웹 애플리케이션을 구축하는 데 필요한 지식과 도구를 소개합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48952392",
+    "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48952392",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-07-17T21:15:36+00:00",
+    "ai_summary": "Matheus Moreira와의 인터뷰에서 Lone Lisp 프로젝트와 Linux 커널에 대한 깊이 있는 논의를 진행합니다.\nLisp와 같은 언어가 시스템 프로그래밍, 특히 커널 개발에 어떻게 활용될 수 있는지 탐구합니다.\n저수준 개발과 프로그래밍 언어의 접점에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49022038",
+    "title": "Software rendering in 500 lines of bare C++",
+    "url": "https://haqr.eu/tinyrenderer/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49022038",
+    "summary": "",
+    "score": 233,
+    "published_at": "2026-07-23T14:17:40+00:00",
+    "ai_summary": "순수한 C++ 코드 500줄로 소프트웨어 렌더러를 구현하는 방법을 설명하는 기술 기사입니다.\n렌더링 파이프라인의 기본 원리와 그래픽스 프로그래밍의 핵심 개념을 다룹니다.\n최소한의 코드로 렌더링 엔진을 구축하는 과정을 통해 저수준 그래픽스 구현을 이해할 수 있습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49023019",
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49023019",
+    "summary": "",
+    "score": 146,
+    "published_at": "2026-07-23T15:18:48+00:00",
+    "ai_summary": "소프트웨어 팩토리 개념이 실패하는 주요 원인과 '하네스 엔지니어링'의 한계를 분석하는 기사입니다.\n대규모 소프트웨어 개발 프로젝트의 복잡성과 조직적 문제를 깊이 있게 다룹니다.\n성공적인 소프트웨어 개발을 위한 전략과 방법론에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49022634",
+    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+    "url": "https://learnopengl.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49022634",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-07-23T14:53:34+00:00",
+    "ai_summary": "모던 OpenGL 학습을 위한 광범위하고 심층적인 튜토리얼 리소스를 소개합니다.\n최신 OpenGL 버전의 개념, API 사용법 및 그래픽스 프로그래밍 기술을 자세히 설명하며,\n3D 렌더링과 컴퓨터 그래픽스를 배우려는 개발자들에게 필수적인 자료를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49022911",
+    "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "discussion_url": "https://news.ycombinator.com/item?id=49022911",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-07-23T15:11:37+00:00",
+    "ai_summary": "오픈소스 macOS 동영상 편집기인 Palmier Pro가 AI 기능을 활용하여 출시되었습니다.\n특히 AI를 위한 설계로 개발자나 콘텐츠 제작자에게 새로운 가능성을 제공합니다.\nmacOS 환경에서 AI 기반의 동영상 편집 도구를 찾는 이들에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48984760",
+    "title": "Converting Files into Minecraft Worlds",
+    "url": "https://wuemeli.com/blog/sulfur-part-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48984760",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-07-20T20:54:56+00:00",
+    "ai_summary": "파일을 마인크래프트 세계로 변환하는 흥미로운 프로젝트가 소개되었습니다.\n이는 데이터 시각화나 창의적인 게임 모딩에 활용될 수 있는 기술입니다.\n프로그래밍을 통해 데이터를 3D 가상 환경으로 구현하는 방법을 보여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49024643",
+    "title": "The arguments against open source AI are bad",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49024643",
+    "summary": "",
+    "score": 185,
+    "published_at": "2026-07-23T16:49:57+00:00",
+    "ai_summary": "오픈소스 AI에 반대하는 주장들이 설득력이 없다는 주장이 제기되었습니다.\n오픈소스 AI는 혁신을 촉진하고 AI 민주화에 기여하며 안전 문제 해결에도 도움이 될 수 있습니다.\nAI 개발 커뮤니티에서 오픈소스의 중요성을 강조하고 관련 논쟁을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49024620",
+    "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+    "url": "https://news.ycombinator.com/item?id=49024620",
+    "discussion_url": "https://news.ycombinator.com/item?id=49024620",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-07-23T16:48:38+00:00",
+    "ai_summary": "Screenpipe이 YC S26를 통해 작업 방식을 기록하고 이를 AI 에이전트로 전환하는 서비스를 출시했습니다.\n사용자 작업 패턴을 학습하여 반복 작업을 자동화하고 생산성을 높이는 것을 목표로 합니다.\n개발자 및 생산성 도구에 관심 있는 이들에게 유용하며 AI 기반 자동화 가능성을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49025812",
+    "title": "Geekbench 7",
+    "url": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49025812",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-07-23T18:11:46+00:00",
+    "ai_summary": "벤치마크 도구인 Geekbench 7이 새로 출시되었습니다.\nCPU, GPU 등 하드웨어 성능을 측정하고 비교하는 데 사용됩니다.\n개발자, 시스템 관리자 및 하드웨어 애호가들에게 새로운 기준점을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49023427",
+    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "url": "https://github.com/onecli/onecli",
+    "discussion_url": "https://news.ycombinator.com/item?id=49023427",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-07-23T15:42:40+00:00",
+    "ai_summary": "OneCLI는 AI 에이전트가 민감한 자격 증명에 직접 접근하는 것을 막는 오픈소스 자격 증명 게이트웨이입니다.\nAPI 키나 데이터베이스 비밀번호 같은 비밀 정보를 AI 모델과 안전하게 분리하여 관리합니다.\n개발자들이 AI 시스템의 보안을 강화하고 규정 준수를 유지하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49024882",
+    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "discussion_url": "https://news.ycombinator.com/item?id=49024882",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-07-23T17:06:22+00:00",
+    "ai_summary": "Claude-thermos는 Claude AI 모델과의 세션을 활성 상태로 유지해주는 도구입니다.\n세션이 만료되어 작업이 중단되는 것을 방지하여 지속적인 사용성을 보장합니다.\n장시간 Claude를 사용하는 개발자나 연구자에게 유용한 생산성 향상 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49022663",
+    "title": "Learn WebGPU for C++",
+    "url": "https://eliemichel.github.io/LearnWebGPU/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49022663",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-07-23T14:55:32+00:00",
+    "ai_summary": "이 자료는 C++ 개발자를 위해 WebGPU 그래픽 API를 배우는 방법을 제공합니다.\n최신 웹 기반 그래픽 기술을 사용하여 고성능 3D 애플리케이션을 개발하는 데 초점을 맞춥니다.\nC++ 환경에서 GPU 가속 컴퓨팅과 렌더링을 활용하려는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49007574",
+    "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
+    "url": "https://trifle.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49007574",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-07-22T14:39:10+00:00",
+    "ai_summary": "Trifle은 이벤트를 저장하는 대신 분석 '답변'을 저장하는 새로운 개념의 오픈소스 분석 도구입니다.\n데이터 처리 및 저장 방식을 최적화하여 보다 효율적인 인사이트 도출을 목표로 합니다.\n개발자들이 데이터 분석 시스템을 구축하거나 기존 시스템을 개선할 때 고려할 만한 대안을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48989065",
+    "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+    "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=48989065",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-07-21T07:10:49+00:00",
+    "ai_summary": "이 기사는 Go 언어의 이스케이프 분석(Escape Analysis) 개념과 그 작동 방식을 설명합니다.\n스택(Stack)과 힙(Heap) 메모리 할당의 차이와 언제 어떤 방식이 사용되는지를 상세히 다룹니다.\nGo 개발자들이 메모리 사용을 최적화하고 애플리케이션 성능을 향상시키는 데 필수적인 지식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48978989",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "discussion_url": "https://news.ycombinator.com/item?id=48978989",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-07-20T13:59:49+00:00",
+    "ai_summary": "Meta는 Rust 애플리케이션의 메모리 관리를 개선하기 위해 OCaml의 가비지 컬렉터를 활용하는 새로운 접근 방식을 개발했습니다.\n이는 안전하지만 메모리 오버헤드가 큰 Rust의 `Drop` 기반 리소스 관리에 대한 혁신적인 대안을 제시합니다.\nOCaml의 정교한 GC를 Rust 코드에 통합하여 성능 최적화와 개발 효율성을 동시에 추구하려는 시도입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  }
+]
