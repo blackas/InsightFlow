@@ -1,0 +1,488 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31813",
+    "title": "Android가 기기 내 ADB를 곧 제한할 수 있음",
+    "url": "https://news.hada.io/topic?id=31813",
+    "discussion_url": "https://news.hada.io/topic?id=31813",
+    "summary": "Google의 공식 발표가 아닌 진행 중인 IssueTracker 기능 요청에서 ADB 핵심 유지보수 담당자가 악용 방지를 위해 로컬 연결을 제한하고 wlan0에만 바인딩하는 방안을 거론함\nwlan0만 허용하면 루프백 주소 127.0.0.1을 이용하는 기...",
+    "score": 0,
+    "published_at": "2026-07-25T23:30:12+00:00",
+    "ai_summary": "Google이 Android의 ADB 로컬 연결을 제한하고 wlan0에만 바인딩하는 방안을 검토 중입니다.\n이는 악용 방지를 위한 조치로, 루프백 주소를 사용하는 기기 내 연결에 영향을 미칠 수 있습니다.\n이러한 변경은 Android 개발자의 디버깅 및 개발 워크플로우에 큰 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31812",
+    "title": "오픈 웨이트 AI가 Kubernetes의 순간을 맞고 있음",
+    "url": "https://news.hada.io/topic?id=31812",
+    "discussion_url": "https://news.hada.io/topic?id=31812",
+    "summary": "충분한 성능과 이식성을 갖춘 오픈 웨이트 모델은 개발자·클라우드·기업이 함께 확장하는 기반이 되어, 단일 공급자가 따라가기 어려운 혁신 생태계를 만들 수 있음\nKubernetes가 공통 인터페이스 위에 네트워킹·스토리지·관측성 도구를 끌어모았듯, AI에서도 모델 서빙·미세조정·...",
+    "score": 0,
+    "published_at": "2026-07-25T23:27:29+00:00",
+    "ai_summary": "오픈 웨이트 AI 모델이 Kubernetes처럼 혁신 생태계를 구축하며 확장을 주도할 것으로 예상됩니다.\n이는 개발자, 클라우드, 기업이 함께 성장하는 기반을 마련하여 단일 공급자 독점을 막을 수 있습니다.\nKubernetes가 네트워킹·스토리지·관측성 도구를 모았듯, AI 모델 서빙·미세조정 등 공통 인터페이스가 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31807",
+    "title": "Claude Opus 5, Artificial Analysis 지능 리더보드 1위",
+    "url": "https://news.hada.io/topic?id=31807",
+    "discussion_url": "https://news.hada.io/topic?id=31807",
+    "summary": "평가된 170개 모델 중 Claude Opus 5 Adaptive Reasoning·Max Effort가 Intelligence Index 61점으로 1위를 차지했으며, Xhigh Effort와 Claude Fable 5가 각각 60점으로 뒤를 이음\nIntelligence Index v4.1은 에이전트 작업·코딩·과학 추론·지식 신뢰성·장문맥 추...",
+    "score": 0,
+    "published_at": "2026-07-25T16:34:50+00:00",
+    "ai_summary": "Claude Opus 5가 Artificial Analysis 지능 리더보드에서 61점으로 1위를 차지했습니다.\nXhigh Effort와 Claude Fable 5가 60점으로 그 뒤를 이으며, 뛰어난 지능을 입증했습니다.\nIntelligence Index는 에이전트 작업, 코딩, 과학 추론, 지식 신뢰성 등을 평가합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31806",
+    "title": "Chrome이 Gemini 팝업용 전역 단축키를 무단 등록",
+    "url": "https://news.hada.io/topic?id=31806",
+    "discussion_url": "https://news.hada.io/topic?id=31806",
+    "summary": "Chrome이 사용자 동의 없이 Mac의 Ctrl+G 전역 단축키를 등록해 다른 앱에서도 Gemini 팝업이 열리도록 함\n코딩 편집기의 줄 이동 단축키와 충돌하는 데다, 팝업에는 Chrome·Gemini 식별 정보와 비활성화 기능이 명확히 드러나지 않음\n단축키를 끄려면 Ch...",
+    "score": 0,
+    "published_at": "2026-07-25T10:01:01+00:00",
+    "ai_summary": "Chrome이 사용자 동의 없이 Mac에서 Ctrl+G 전역 단축키를 등록하여 Gemini 팝업을 엽니다.\n이 단축키는 코딩 편집기의 줄 이동 단축키와 충돌하여 개발자에게 불편을 줍니다.\n팝업에서 Gemini 식별 정보나 비활성화 기능이 명확히 드러나지 않아 문제를 더합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31799",
+    "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
+    "url": "https://news.hada.io/topic?id=31799",
+    "discussion_url": "https://news.hada.io/topic?id=31799",
+    "summary": "여러 종류의 DB를 단일 웹 UI에서 백업, 복원, 스케줄링하는 셀프 호스팅 관리자\nMySQL/PostgreSQL/MariaDB/MSSQL/MongoDB/SQLite/Firebird/Redis/Valkey 지원\nSSH 터널: bastion/jump 서버를 경유해 사설망 내 DB에 비밀번호 또는 키 기반 인증으로 접속...",
+    "score": 0,
+    "published_at": "2026-07-25T00:31:02+00:00",
+    "ai_summary": "'databasement'는 여러 종류의 DB 백업, 복원, 스케줄링을 단일 웹 UI로 관리하는 셀프 호스팅 도구입니다.\nMySQL, PostgreSQL, MongoDB 등 다양한 DB를 지원하며, SSH 터널을 통한 사설망 DB 접속도 가능합니다.\n개발자 및 DevOps 엔지니어가 데이터베이스 관리 작업을 효율화하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49051120",
+    "title": "Did They Ghost You?",
+    "url": "https://didtheyghostyou.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051120",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-07-25T20:18:03+00:00",
+    "ai_summary": "\"Did They Ghost You?\"는 채용 과정에서의 잠수 이별에 대한 내용으로 추정됩니다.\n이는 지원자가 면접 후 기업으로부터 아무런 응답을 받지 못하는 상황을 의미합니다.\n개발자 커리어와 관련된 일반적인 문제와 심리적 영향에 대해 다룰 것으로 보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49051361",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051361",
+    "summary": "",
+    "score": 118,
+    "published_at": "2026-07-25T20:42:35+00:00",
+    "ai_summary": "클로드 5 모델을 위한 컨텍스트 엔지니어링의 새로운 규칙을 설명합니다.\n이는 LLM의 성능을 극대화하기 위한 프롬프트 작성 기술을 다룹니다.\nLLM 기반 애플리케이션 개발자에게 중요한 가이드라인을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48976262",
+    "title": "Stolen Buttons",
+    "url": "https://anatolyzenkov.com/stolen-buttons",
+    "discussion_url": "https://news.ycombinator.com/item?id=48976262",
+    "summary": "",
+    "score": 524,
+    "published_at": "2026-07-20T09:23:42+00:00",
+    "ai_summary": "웹사이트나 애플리케이션에서 버튼의 사용성과 보안 취약점을 다룹니다.\n사용자 인터랙션 경험과 관련된 잠재적 문제점을 분석하고 개선 방안을 제시합니다.\n프론트엔드 개발자와 UI/UX 설계자에게 중요한 고려 사항을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49052570",
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "discussion_url": "https://news.ycombinator.com/item?id=49052570",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-07-25T22:51:10+00:00",
+    "ai_summary": "AI가 일자리에 미치는 영향에 대한 과장과 현실을 구분합니다.\nAI 기술 도입이 고용 시장에 가져올 실제 변화와 기회를 분석합니다.\n개발자들이 미래 직업 시장에서 경쟁력을 유지하기 위한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49013464",
+    "title": "SIMD for Collision",
+    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49013464",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-07-22T21:09:59+00:00",
+    "ai_summary": "충돌 감지(Collision Detection)에 SIMD 명령어 활용 방안을 설명합니다.\n이는 게임 개발이나 고성능 컴퓨팅에서 성능 최적화를 위한 핵심 기법입니다.\n병렬 처리 및 최적화에 관심 있는 개발자에게 유용한 기술 문서입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49051463",
+    "title": "Multicast TV Distribution on My Home Network",
+    "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051463",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-07-25T20:55:12+00:00",
+    "ai_summary": "홈 네트워크에서 멀티캐스트 TV를 배포하는 기술적 방법에 대해 설명합니다.\n네트워크 설정, 프로토콜 이해 및 미디어 스트리밍 관련 지식을 다룹니다.\n네트워크 관련 개발자나 IT 전문가에게 유용할 수 있는 기술 정보입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49052074",
+    "title": "Kimi K3 built a Windows XP in browser",
+    "url": "https://windows-xp.kimi.site/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49052074",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-07-25T22:03:22+00:00",
+    "ai_summary": "Kimi K3가 웹 브라우저 안에서 Windows XP를 구현한 사례를 소개합니다.\n이는 웹 기술의 발전과 브라우저 기반 애플리케이션의 가능성을 보여줍니다.\n프론트엔드 개발자 및 웹 기술 애호가에게 매우 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49039868",
+    "title": "Show HN: I made some transistor animations",
+    "url": "https://brandonli.net/semisim/animations",
+    "discussion_url": "https://news.ycombinator.com/item?id=49039868",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-07-24T18:37:06+00:00",
+    "ai_summary": "트랜지스터의 작동 원리를 시각적으로 쉽게 이해할 수 있는 애니메이션이 공개되었습니다.\n이는 컴퓨터 과학의 근간을 이루는 하드웨어 지식을 효과적으로 전달합니다.\n개발자들에게 컴퓨터 구조 및 기초 전자 공학 이해에 도움을 줄 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49049693",
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49049693",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-07-25T17:34:34+00:00",
+    "ai_summary": "플레인 텍스트 기반으로 간결하게 날씨를 예보하는 웹사이트 'Brolly'가 공개되었습니다.\n미니멀리즘 디자인과 빠른 정보 제공에 중점을 둔 경량 웹 서비스입니다.\n프론트엔드 및 백엔드 개발자들에게 심플한 웹 구현 아이디어를 제공할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49050859",
+    "title": "General Resolution: LLM Usage in Debian",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "discussion_url": "https://news.ycombinator.com/item?id=49050859",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-07-25T19:44:39+00:00",
+    "ai_summary": "데비안 프로젝트에서 LLM(대규모 언어 모델)의 사용에 대한 공식적인 결의안이 논의되었습니다.\n이는 오픈소스 라이선스, 저작권, 윤리적 측면 등 LLM 도입의 주요 쟁점을 다룹니다.\nLLM과 오픈소스 커뮤니티의 미래 방향성에 중요한 영향을 미칠 논의입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49048034",
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49048034",
+    "summary": "",
+    "score": 295,
+    "published_at": "2026-07-25T14:49:49+00:00",
+    "ai_summary": "오픈 웨이트 AI 모델이 쿠버네티스처럼 기술 생태계를 뒤바꿀 혁신적인 전환점을 맞이하고 있습니다.\n이는 AI 기술의 접근성을 높이고 광범위한 개발자 참여를 유도할 것입니다.\nAI/ML 개발자들에게 새로운 기회와 도전 과제를 제시하는 중요한 동향입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49047365",
+    "title": "Bitchat is now on Radicle",
+    "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+    "discussion_url": "https://news.ycombinator.com/item?id=49047365",
+    "summary": "",
+    "score": 195,
+    "published_at": "2026-07-25T13:18:49+00:00",
+    "ai_summary": "분산형 채팅 서비스 'Bitchat'이 탈중앙화 코드 협업 플랫폼 'Radicle'에 통합되었습니다.\n이는 분산형 웹(Web3) 생태계 내에서 개발 도구와 커뮤니케이션의 융합을 보여줍니다.\n탈중앙화 기술 및 개발 워크플로우에 관심 있는 개발자들에게 유의미합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49051130",
+    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+    "url": "https://news.ycombinator.com/item?id=49051130",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051130",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-07-25T20:18:54+00:00",
+    "ai_summary": "인라인 마크다운 편집 기능을 제공하는 의존성 없는 웹 컴포넌트 'Writemark'가 공개되었습니다.\n이는 모던 웹 개발에서 재사용 가능하고 경량의 UI 컴포넌트의 중요성을 강조합니다.\n프론트엔드 개발자들에게 유용한 도구이자 웹 컴포넌트 구현 사례로 활용될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49050512",
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49050512",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-07-25T18:59:50+00:00",
+    "ai_summary": "8달러짜리 마이크로컨트롤러에서 28.9M 파라미터 LLM을 구동하는 기술을 시연합니다.\n이는 저비용, 저전력 임베디드 장치에서 LLM 실행 가능성을 보여줍니다.\n엣지 AI 및 AI 모델 경량화에 대한 중요한 진전을 나타냅니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49006096",
+    "title": "How My Images Are Dithered",
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49006096",
+    "summary": "",
+    "score": 212,
+    "published_at": "2026-07-22T13:00:29+00:00",
+    "ai_summary": "이미지 디더링(Dithering) 기법의 원리와 알고리즘을 상세히 설명합니다.\n제한된 색상 팔레트에서 더 많은 색상을 표현하는 방법을 탐구하며, 저자가 선택한 특정 구현 방식에 대해 다룹니다.\n이는 컴퓨터 그래픽스의 핵심적인 이미지 처리 기술을 심층적으로 분석한 글입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49045159",
+    "title": "Android May Soon Restrict On-Device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045159",
+    "summary": "",
+    "score": 864,
+    "published_at": "2026-07-25T06:57:14+00:00",
+    "ai_summary": "안드로이드가 향후 버전에서 온디바이스 ADB(Android Debug Bridge) 기능을 제한하거나 비활성화할 수 있다는 소식입니다.\n이는 안드로이드 개발자의 디버깅 및 장치 상호작용 방식에 큰 영향을 미칠 수 있습니다.\n보안 강화 목적이 크지만 개발자 워크플로우에 변화를 예고합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49048689",
+    "title": "Bringing PyTorch Monarch to AMD GPUs",
+    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49048689",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-07-25T15:55:27+00:00",
+    "ai_summary": "PyTorch Monarch 기능을 AMD GPU에서 효율적으로 실행하기 위한 포팅 및 최적화 과정을 다룹니다.\n이는 딥러닝 워크로드를 다양한 하드웨어 아키텍처에 맞춰 성능을 극대화하는 노력을 보여줍니다.\nAI 모델의 크로스 플랫폼 배포 및 성능 향상에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49008434",
+    "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+    "url": "https://github.com/sktkkoo/Yorishiro",
+    "discussion_url": "https://news.ycombinator.com/item?id=49008434",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-07-22T15:33:16+00:00",
+    "ai_summary": "AI 에이전트가 내장된 새로운 macOS 터미널 애플리케이션 'Yorishiro'를 소개합니다.\n이 앱은 AI를 활용하여 커맨드라인 환경에서 더욱 지능적이고 상호작용적인 경험을 제공합니다.\n개발자 도구와 AI 기술의 융합을 보여주는 혁신적인 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49010993",
+    "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+    "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+    "discussion_url": "https://news.ycombinator.com/item?id=49010993",
+    "summary": "",
+    "score": 238,
+    "published_at": "2026-07-22T18:09:26+00:00",
+    "ai_summary": "리소스가 제한적인 소형 휴대용 장치를 위해 미니멀한 3D 렌더러를 구축하는 과정을 상세히 설명합니다.\nconstrained 환경에서 3D 렌더링을 달성하기 위한 도전 과제와 기술적 접근 방식을 다룹니다.\n임베디드 시스템에서의 그래픽스 및 성능 최적화에 대한 심도 깊은 내용을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49048681",
+    "title": "The Dark Night of Mathematics",
+    "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+    "discussion_url": "https://news.ycombinator.com/item?id=49048681",
+    "summary": "",
+    "score": 159,
+    "published_at": "2026-07-25T15:54:59+00:00",
+    "ai_summary": "수학의 근본적인 문제와 미해결 난제들을 탐구하는 내용으로 보입니다.\n이는 컴퓨터 과학의 이론적 토대와 알고리즘 설계에 영향을 미칠 수 있습니다.\n개발자 중 특히 AI/ML, 암호학 등 고급 분야 종사자에게 심도 있는 이해를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "48975364",
+    "title": "Show HN: GeoChess – open-source geography strategy game",
+    "url": "https://geochess.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=48975364",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-07-20T07:27:44+00:00",
+    "ai_summary": "오픈소스 지리 전략 게임 'GeoChess' 프로젝트가 Hacker News에 공개되었습니다.\n개발자들은 게임 개발의 기술 스택, 구현 방식, 그리고 오픈소스 기여 기회에 주목할 것입니다.\n프론트엔드 및 백엔드 기술 통합 사례를 학습하는 데 좋은 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49007018",
+    "title": "Spatial languages: Writing code in 2D",
+    "url": "https://shukla.io/blog/2026-07/cccx.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49007018",
+    "summary": "",
+    "score": 103,
+    "published_at": "2026-07-22T14:03:21+00:00",
+    "ai_summary": "코드를 2D 공간에 작성하는 '공간 언어'라는 새로운 프로그래밍 패러다임을 다룹니다.\n이는 기존 텍스트 기반 코딩 방식의 한계를 넘어선 혁신적인 접근 방식을 제시합니다.\n개발자들은 언어 설계의 미래와 시각적 코딩 도구의 가능성에 큰 관심을 가질 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49046525",
+    "title": "The Fedora 45 Sausage Factory",
+    "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046525",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-07-25T11:04:57+00:00",
+    "ai_summary": "Fedora 45 운영체제의 개발, 빌드, 릴리스 과정을 \"소시지 공장\"에 비유해 설명합니다.\n이는 대규모 오픈소스 프로젝트의 복잡한 엔지니어링 및 배포 파이프라인에 대한 통찰을 제공합니다.\n개발자들에게 리눅스 시스템 개발 및 DevOps 관점의 귀중한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Other"
+    ]
+  }
+]
