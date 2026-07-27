@@ -1,0 +1,475 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31842",
+    "title": "Show GN: telepty — 여러 머신에 흩어진 AI 에이전트 세션 컨트롤 플레인",
+    "url": "https://news.hada.io/topic?id=31842",
+    "discussion_url": "https://news.hada.io/topic?id=31842",
+    "summary": "telepty는 여러 머신에서 돌아가는 터미널 AI CLI 세션(claude, codex, gemini 등)에 원격으로 지시를 보내고 화면을 읽을 수 있게 해주는 경량 에이전트 세션 컨트롤 플레인입니다 — 추론과 작업은 각 에이전트가 그대로 수행하고(data plane), telepty는 그 세션들을 주소로 부르고 전달을 보장하...",
+    "score": 0,
+    "published_at": "2026-07-26T22:52:04+00:00",
+    "ai_summary": "telepty는 여러 머신에 분산된 AI CLI 세션들을 원격으로 제어하는 경량 컨트롤 플레인입니다.\n에이전트의 추론과 작업은 유지하되, 세션들을 주소로 부르고 전달을 보장합니다.\n개발자들이 AI 에이전트 워크플로우를 효율적으로 관리하고 오케스트레이션하는 데 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31837",
+    "title": "일자리에 무슨 일이 벌어지고 있나? AI 과대광고와 현실 구분하기",
+    "url": "https://news.hada.io/topic?id=31837",
+    "discussion_url": "https://news.hada.io/topic?id=31837",
+    "summary": "현재 데이터에서는 AI 노출도가 높은 직종의 대규모 고용 감소가 확인되지 않지만, 신규 졸업자와 젊은 사무직의 채용 부진에는 AI가 일부 영향을 미쳤을 가능성이 있음\n2022년 이후 실업률은 AI 노출 상위 20% 직군에서 0.77%p, 하위 20% 직군에서 0.85%p 상승해 AI발 실직보다",
+    "score": 0,
+    "published_at": "2026-07-26T19:35:32+00:00",
+    "ai_summary": "현재 AI 노출도가 높은 직종에서 대규모 고용 감소는 확인되지 않고 있습니다.\n하지만 신규 졸업자와 젊은 사무직 채용 부진에 AI가 일부 영향을 미쳤을 가능성은 있습니다.\nAI발 실직보다 전반적인 경제 상황이 더 크게 작용했으며, 직업 시장 변화에 대한 지속적인 관찰이 필요합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31835",
+    "title": "낯선 변화를 마주하며: Fly.io의 Sprites 전환",
+    "url": "https://news.hada.io/topic?id=31835",
+    "discussion_url": "https://news.hada.io/topic?id=31835",
+    "summary": "강한 실적에도 사업 정체성이 흔들리자 Fly.io는 추가 자금을 조달하고 전 Docker CEO Scott Johnston에게 경영을 맡기며 Sprites를 핵심 사업으로 전환함\nAI로 누구나 맞춤형 소프트웨어를 만들 수 있게 되면서, 사용자 가까이 배포하는 퍼블릭 클라우드와 인간 개발자 중심의 편의...",
+    "score": 0,
+    "published_at": "2026-07-26T18:43:01+00:00",
+    "ai_summary": "Fly.io는 사업 정체성 위기로 추가 자금을 조달하고 Sprites를 핵심 사업으로 전환했습니다.\nAI로 맞춤형 소프트웨어가 대중화되며 사용자 가까이 배포하는 클라우드의 중요성이 커졌습니다.\n이는 인간 개발자 중심 편의성에서 AI 기반 개발 환경 지원으로의 전환을 의미합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31832",
+    "title": "8달러짜리 마이크로컨트롤러에서 2,890만 매개변수 LLM 실행하기",
+    "url": "https://news.hada.io/topic?id=31832",
+    "discussion_url": "https://news.hada.io/topic?id=31832",
+    "summary": "ESP32-S3에서 서버 연결 없이 2,890만 매개변수 언어 모델을 구동해 작은 화면에 약 초당 9개 토큰으로 텍스트를 출력함\n전체 매개변수 중 2,500만 개를 느린 플래시에 두고 토큰마다 필요한 약 6개 행, 450바이트만 읽는 Per-Layer Embeddings 구...",
+    "score": 0,
+    "published_at": "2026-07-26T15:32:54+00:00",
+    "ai_summary": "8달러짜리 ESP32-S3 마이크로컨트롤러에서 2,890만 매개변수 LLM 구동에 성공했습니다.\n느린 플래시에 매개변수 대부분을 두고, 필요한 부분만 읽는 Per-Layer Embeddings 기법을 활용했습니다.\n이는 저비용 임베디드 장치에서 초당 약 9개 토큰으로 LLM을 실행할 수 있음을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31827",
+    "title": "Show GN: 엄랭으로 틱택토 AI를 만들어 봤습니다.",
+    "url": "https://news.hada.io/topic?id=31827",
+    "discussion_url": "https://news.hada.io/topic?id=31827",
+    "summary": "엄랭(UmmLang)으로 틱택토 AI를 구현해봤습니다.\n엄랭은 변수, 입출력, 조건문, 라인 점프 정도만 제공하는 난해한 프로그래밍 언어로\n[ 어어엄어어어,,,,,,,,  식어어어ㅋ   동탄어?준. ] 이러한 생김새를 가지고 있습니다.\n반복문이나 함수 같은 일반적인 제어 구조가 거의 없습니다. 정수조차",
+    "score": 0,
+    "published_at": "2026-07-26T11:39:14+00:00",
+    "ai_summary": "난해한 프로그래밍 언어인 엄랭(UmmLang)으로 틱택토 AI를 구현한 사례입니다.\n엄랭은 변수, 입출력, 조건문, 라인 점프 등 최소한의 기능만을 제공합니다.\n반복문이나 함수가 없는 제약된 환경에서 AI 로직을 구현한 도전적인 프로젝트입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31824",
+    "title": "젠슨황의 Open Weights and American AI Leadership에 담긴 의미",
+    "url": "https://news.hada.io/topic?id=31824",
+    "discussion_url": "https://news.hada.io/topic?id=31824",
+    "summary": "젠슨 황이 이틀전 성명한 Open Weights and American AI Leadership 은 이 시대의 가장 중요한 쟁점 중 하나를 담고 있습니다. 폐쇄형 모델 vs. 오픈웨이트 모델. 아니 이제 전자는 only 앤스로픽일지도 모르겠습니다.\n\n\nNVIDIA, Microsoft, Meta 등 주요 기업들이 오픈웨이트가 미국의 AI 리더십을 강",
+    "score": 0,
+    "published_at": "2026-07-26T07:35:10+00:00",
+    "ai_summary": "젠슨 황의 성명은 오픈웨이트와 폐쇄형 AI 모델 간의 중요한 쟁점을 다룹니다.\nNVIDIA, Microsoft 등 주요 기업들은 오픈웨이트가 미국 AI 리더십에 필수적임을 강조합니다.\n이는 AI 기술의 방향성과 미래 개발 생태계에 영향을 미칠 산업 및 정책적 논의입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31822",
+    "title": "메모리 안전성 절대주의자들",
+    "url": "https://news.hada.io/topic?id=31822",
+    "discussion_url": "https://news.hada.io/topic?id=31822",
+    "summary": "unsafe의 존재만으로 Rust를 배제하고 Fil-C만 안전하다고 보는 기준은 실제 소프트웨어의 적용 범위와 기술적 절충을 놓침\nFil-C는 C/C++의 잘못된 메모리 접근을 패닉으로 바꾸지만, ABI 비호환성, 일부 상황에서 수배의 성능 저하, GC 도입이라는 ...",
+    "score": 0,
+    "published_at": "2026-07-26T06:02:03+00:00",
+    "ai_summary": "메모리 안전성 절대주의자들이 Rust의 `unsafe`를 이유로 배제하고 Fil-C만을 안전하다고 보는 시각을 비판한다.\nFil-C는 C/C++ 메모리 오류를 패닉으로 전환하지만, ABI 비호환성, 성능 저하, GC 도입 등 실질적 절충안을 간과한다.\n이는 실제 소프트웨어 적용 범위와 기술적 트레이드오프를 무시한 접근 방식임을 지적한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31818",
+    "title": "인터페이스가 화면을 벗어나고 있다 - 채팅, 음성, 에이전트형 AI가 바꾸는 UX",
+    "url": "https://news.hada.io/topic?id=31818",
+    "discussion_url": "https://news.hada.io/topic?id=31818",
+    "summary": "소프트웨어의 중심이 화면과 메뉴에서 벗어나 대화/위임/백그라운드 실행으로 이동하면서, UX 디자인의 대상도 고정된 화면이 아니라 사용자의 의도를 해석하고 행동하는 시스템으로 바뀌고 있음\n채팅은 모든 작업을 대체하는 인터페이스가 아니라, 사용자가 원하는 것을 명확히 아는...",
+    "score": 0,
+    "published_at": "2026-07-26T00:50:02+00:00",
+    "ai_summary": "소프트웨어 인터페이스의 중심이 고정된 화면과 메뉴에서 대화, 음성, 백그라운드 실행 방식으로 이동하고 있다.\nUX 디자인의 대상이 사용자의 의도를 해석하고 행동하는 에이전트형 시스템으로 변화하고 있음을 설명한다.\n채팅은 모든 것을 대체하는 것이 아닌, 사용자 의도를 명확히 파악할 때 유용한 인터페이스임을 강조한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=31815",
+    "title": "stinkpot - SQLite 기반 Bash 셸 히스토리 검색기",
+    "url": "https://news.hada.io/topic?id=31815",
+    "discussion_url": "https://news.hada.io/topic?id=31815",
+    "summary": "stinkpot은 Bash 명령 기록을 SQLite에 저장해 세션과 무관하게 관리하고, 검색 TUI로 빠르게 찾을 수 있게 함\nAtuin에서 동기화 서버, AI, dotfiles·스크립트 관리자, KV 저장소를 덜어내고 필요한 기능만 약 400줄의 Go로 구현함\n기존 Bash 히스토리는 ...",
+    "score": 0,
+    "published_at": "2026-07-26T00:05:35+00:00",
+    "ai_summary": "`stinkpot`은 Bash 명령 기록을 SQLite에 저장하여 세션 독립적으로 관리하고 TUI로 빠르게 검색하는 도구이다.\n`Atuin`의 복잡한 기능(동기화 서버, AI 등)을 덜어내고 핵심 검색 기능에 집중하여 Go로 약 400줄 만에 구현했다.\n개발자들의 셸 작업 효율성을 높이는 실용적인 유틸리티로, 간결한 구현을 강조한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Database",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49063454",
+    "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+    "url": "https://github.com/experientiallabs/world-model-optimizer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063454",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-26T23:35:15+00:00",
+    "ai_summary": "작은 AI 모델을 통해 최첨단 성능을 유지하면서 비용을 절반으로 절감하는 방법을 소개한다.\n모델 경량화(distillation) 기술을 활용하여 배포 및 운영 효율성을 극대화하는 데 초점을 맞춘다.\n머신러닝 모델의 서빙 비용과 성능 간의 균형을 찾는 실용적인 솔루션을 제시한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49060856",
+    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+    "url": "https://beyondloom.com/decker/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060856",
+    "summary": "",
+    "score": 186,
+    "published_at": "2026-07-26T18:23:06+00:00",
+    "ai_summary": "`Decker`는 HyperCard와 클래식 macOS의 유산을 계승하여 구축된 플랫폼이다.\n사용자가 쉽게 콘텐츠를 만들고 상호작용하는 애플리케이션을 개발할 수 있도록 돕는 데 초점을 맞춘다.\n저코드/노코드 또는 창의적 컴퓨팅 환경에 관심 있는 개발자들에게 영감을 줄 수 있는 도구이다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49020219",
+    "title": "I wanted a clock that never needed setting. Things escalated",
+    "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49020219",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-07-23T12:01:52+00:00",
+    "ai_summary": "시간 설정을 따로 할 필요 없는 시계를 만들려다 프로젝트가 예상치 못하게 확장된 경험담을 공유한다.\n간단한 아이디어에서 출발하여 임베디드 시스템, 네트워크 통신 등 다양한 기술적 도전으로 이어진 과정을 보여준다.\n개인 프로젝트를 통해 문제 해결 능력과 새로운 기술 습득의 즐거움을 보여주는 개발자 관련 이야기이다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49062700",
+    "title": "Teaching Kids Forth",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49062700",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-07-26T21:39:17+00:00",
+    "ai_summary": "스택 기반의 독특한 프로그래밍 언어인 Forth를 아이들에게 가르치는 경험과 방법을 다룬다.\nForth가 가진 단순성과 확장성을 통해 아이들에게 프로그래밍의 기초 개념을 효과적으로 전달하는 방식을 탐구한다.\n주류 언어가 아닌 Forth를 통한 교육적 접근이 개발자들에게 언어 설계나 교육학적 관점에서 흥미로운 시사점을 제공한다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49061887",
+    "title": "Simulate cassette tape audio profiles using FFmpeg",
+    "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "discussion_url": "https://news.ycombinator.com/item?id=49061887",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-07-26T20:02:15+00:00",
+    "ai_summary": "FFmpeg을 활용하여 카세트 테이프의 독특한 오디오 특성(노이즈, 왜곡 등)을 시뮬레이션하는 방법을 다룬다.\n오픈 소스 멀티미디어 프레임워크인 FFmpeg의 고급 오디오 처리 기능을 구체적인 예시로 보여준다.\n음성 처리, 멀티미디어 콘텐츠 제작, 또는 특정 음향 효과 구현에 관심 있는 개발자에게 유용한 정보를 제공한다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49060724",
+    "title": "Introduction to Data-Oriented Design [pdf]",
+    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060724",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-07-26T18:11:16+00:00",
+    "ai_summary": "이 문서는 데이터 중심 설계(DOD)의 개념과 중요성을 소개합니다.\nDOD는 성능 최적화를 위해 데이터 구조와 메모리 접근 패턴을 우선시하는 설계 패러다임입니다.\n현대 하드웨어 아키텍처를 최대한 활용하여 효율적인 코드 작성을 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49059367",
+    "title": "Design is compromise",
+    "url": "https://stephango.com/design-is-compromise",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059367",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-07-26T15:51:12+00:00",
+    "ai_summary": "모든 디자인은 본질적으로 여러 제약 조건과 목표 사이의 타협이라는 점을 강조합니다.\n완벽한 디자인은 없으며, 특정 가치를 우선시하고 다른 것을 희생하는 과정이 포함됩니다.\n개발자와 디자이너는 이러한 타협점을 이해하고 최적의 균형을 찾는 것이 중요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49063186",
+    "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+    "url": "https://github.com/hkc5/cursor-bridge",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063186",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-07-26T22:48:09+00:00",
+    "ai_summary": "'커서 브릿지'는 커서(Cursor) 편집기 사용자가 클로드(Claude) LLM을 무제한으로 활용해 코드를 생성하고 실행할 수 있도록 합니다.\n이를 통해 개발자는 AI 기반 코드 어시스턴스를 구독 제약 없이 더욱 효율적으로 사용할 수 있습니다.\n코딩 생산성 향상에 기여하는 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49057241",
+    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "discussion_url": "https://news.ycombinator.com/item?id=49057241",
+    "summary": "",
+    "score": 332,
+    "published_at": "2026-07-26T12:00:11+00:00",
+    "ai_summary": "Htmx 4.0이 게임보이 전용으로 출시되는 최초의 자바스크립트 라이브러리라는 흥미로운 소식입니다.\n이는 웹 개발 트렌드에 대한 유머러스한 풍자이거나 매우 실험적인 프로젝트로 보입니다.\nHtmx는 적은 JS로 동적 웹 UI를 구현하는 데 중점을 둡니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49062291",
+    "title": "We have proof automation now",
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49062291",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-07-26T20:53:26+00:00",
+    "ai_summary": "이제 '증명 자동화' 기술이 발전하여 소프트웨어의 정확성을 자동으로 검증할 수 있게 되었습니다.\n이는 버그를 줄이고 시스템의 신뢰성을 크게 향상시키는 데 기여합니다.\n특히 보안에 민감하거나 미션 크리티컬한 시스템 개발에 중요한 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49059398",
+    "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "url": "https://github.com/gmrandazzo/CheapSecurity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059398",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-07-26T15:53:55+00:00",
+    "ai_summary": "'CheapSecurity'는 리눅스 기반의 소형 단일 보드 컴퓨터(SBC)를 위한 경량화된 자가 호스팅 CCTV 솔루션입니다.\n저렴한 비용으로 개인 보안 시스템을 구축하려는 개발자나 DIY 애호가에게 적합합니다.\n임베디드 시스템 및 네트워크 프로그래밍 관련 기술을 활용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49055169",
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055169",
+    "summary": "",
+    "score": 371,
+    "published_at": "2026-07-26T05:57:22+00:00",
+    "ai_summary": "GrapheneOS는 잠긴 기기에서 데이터 추출을 방지하는 강력한 보호 기능을 제공합니다.\n이는 모바일 보안을 강화하고 사용자 개인정보를 보호하기 위한 시스템 수준의 조치를 포함합니다.\n개발자와 보안 전문가에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49022355",
+    "title": "I learned PCB design, 3D printing and C just to listen to music",
+    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49022355",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-07-23T14:37:13+00:00",
+    "ai_summary": "필자는 음악 감상을 위해 PCB 설계, 3D 프린팅, C 언어 프로그래밍을 직접 배웠습니다.\n이 개인 프로젝트는 하드웨어와 소프트웨어 통합의 실제 적용을 보여줍니다.\n개발자들이 새로운 기술을 학습하고 실제 제품을 만드는 과정에서 영감을 얻을 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49057175",
+    "title": "Kill The Cookie Banner",
+    "url": "https://killthecookiebanner.eu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49057175",
+    "summary": "",
+    "score": 771,
+    "published_at": "2026-07-26T11:53:17+00:00",
+    "ai_summary": "이 기사는 성가신 쿠키 배너를 제거하거나 대체할 방법을 모색합니다.\n사용자 경험을 개선하고 웹 개인정보 보호 규정 준수 문제를 다룹니다.\n프런트엔드 개발자 및 웹 정책 관련자에게 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49062259",
+    "title": "Multiway Turing Machines (2021 pre-ai)",
+    "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49062259",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-07-26T20:49:43+00:00",
+    "ai_summary": "이 기사는 컴퓨터 과학의 기초가 되는 다방향 튜링 머신(Multiway Turing Machines)에 대해 다룹니다.\n계산 가능성 이론과 알고리즘 복잡성에 대한 심도 깊은 이해를 제공합니다.\n인공지능 이전 시대의 순수 이론적 컴퓨터 과학 연구를 탐구합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49060592",
+    "title": "It's not empowering to hand off the details",
+    "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060592",
+    "summary": "",
+    "score": 166,
+    "published_at": "2026-07-26T17:58:02+00:00",
+    "ai_summary": "이 기사는 세부 사항을 완전히 위임하는 것이 오히려 권한을 부여하지 못할 수 있다고 주장합니다.\n이는 개발팀의 생산성과 자율성에 대한 중요한 질문을 던집니다.\n효과적인 팀워크와 프로젝트 관리 방식에 대해 개발자들에게 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49057666",
+    "title": "Show HN: Reverse Minesweeper",
+    "url": "https://sunflowersgame.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49057666",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-07-26T12:51:03+00:00",
+    "ai_summary": "이 기사는 '리버스 지뢰찾기'라는 새로운 게임 프로젝트를 소개합니다.\n고전 게임을 뒤집은 독창적인 아이디어와 개발 과정을 공유합니다.\n프런트엔드 개발자 및 게임 개발자에게 흥미로운 영감을 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49016917",
+    "title": "Using sed to make indexes for books (1997)",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49016917",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-07-23T04:25:24+00:00",
+    "ai_summary": "이 기사는 텍스트 처리 도구인 `sed`를 사용하여 책의 인덱스를 만드는 방법을 설명합니다.\n1997년의 오래된 기술이지만, `sed`의 강력한 기능과 활용 사례를 보여줍니다.\n스크립팅, DevOps, 시스템 관리 관련 개발자에게 유용한 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  }
+]
