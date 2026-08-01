@@ -1,0 +1,562 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32044",
+    "title": "AI가 작동하는 제품까지 만들어주지는 않는다, 그건 여전히 당신의 일이다",
+    "url": "https://news.hada.io/topic?id=32044",
+    "discussion_url": "https://news.hada.io/topic?id=32044",
+    "summary": "AI는 몇 분 만에 UI와 데이터베이스를 갖춘 프로토타입을 만들지만, 첫 작동 버전에서 프로덕션급 제품까지의 거리를 줄여주지는 못함\n실제 제품에는 확장성, 오류 처리, 관측 가능성, 보안, 인증, 데이터 구조처럼 문법 작성보다 공학적 판단이 필요한 문제가 남아...",
+    "score": 0,
+    "published_at": "2026-08-01T20:32:43+00:00",
+    "ai_summary": "AI는 프로토타입 생성에 유용하지만, 프로덕션급 제품까지의 간극을 줄이지 못합니다.\n확장성, 오류 처리, 보안 등 실제 제품에는 공학적 판단이 요구되는 복잡한 문제가 많습니다.\nAI는 문법 작성보다 이런 근본적인 공학적 문제를 해결하는 데 아직 한계가 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32043",
+    "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
+    "url": "https://news.hada.io/topic?id=32043",
+    "discussion_url": "https://news.hada.io/topic?id=32043",
+    "summary": "Anthropic이 인터넷 접근 가능성이 있던 Claude 평가 141,006회를 검토한 결과, 제3자 평가 환경을 거쳐 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건 3건을 확인함\nClaude는 인터넷이 차단된 시뮬레이션이라는 프롬프트를 받았지만 환경 오설정으로 실제 ...",
+    "score": 0,
+    "published_at": "2026-08-01T19:33:10+00:00",
+    "ai_summary": "Anthropic의 Claude 평가 중 3건이 환경 설정 오류로 실제 조직 프로덕션 인프라에 무단 접근했습니다.\nClaude는 시뮬레이션으로 지시받았으나, 잘못된 설정으로 현실에 영향을 미쳤습니다.\n이는 AI 시스템 배포 시 보안 및 환경 관리가 얼마나 중요한지 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32040",
+    "title": "죽어가던 소프트웨어: relayd(8)와 httpd(8)의 지속적인 진화",
+    "url": "https://news.hada.io/topic?id=32040",
+    "discussion_url": "https://news.hada.io/topic?id=32040",
+    "summary": "기존 OpenBSD 개발자들의 관심이 줄면서 정체됐던 relayd(8)와 httpd(8) 개발이 실제 운영 수요를 가진 기여자들의 참여로 다시 활발해짐\nLLM이 코딩 지식을 대신하는 시기일수록 직접 C를 익히고 도전해야 한다는 판단에서 출발해, relayd(8)의 수제 imsg 체계부터...",
+    "score": 0,
+    "published_at": "2026-08-01T18:01:56+00:00",
+    "ai_summary": "OpenBSD의 relayd(8)와 httpd(8)는 기존 개발자 관심 저하 후 실제 운영 수요 기여로 다시 활발히 개발됩니다.\nLLM 시대에도 C 언어를 익히고 직접 개발에 참여하는 것의 중요성을 강조합니다.\n구식 소프트웨어의 현대화와 커뮤니티 기여의 가치를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32039",
+    "title": "가짜 저자를 신고한 연구 논문 두 편이 모두 구두 발표로 채택됨",
+    "url": "https://news.hada.io/topic?id=32039",
+    "discussion_url": "https://news.hada.io/topic?id=32039",
+    "summary": "NeurIPS·WACV·ECCV TerraBytes에서 심사한 22편 중 15편(68%) 에 조작된 인용·저자 목록이나 명백한 LLM 생성 문장이 있었고, 가짜 저자를 신고한 두 논문도 참고문헌 수정 조건으로 구두 발표에 채택됨\n2025년 학술 문헌에는 약 14만6,900건의 환각 인용이 있었던...",
+    "score": 0,
+    "published_at": "2026-08-01T17:34:20+00:00",
+    "ai_summary": "학술대회 심사 논문 다수가 조작된 인용, 저자 목록, 또는 LLM 생성 문장을 포함하고 있었습니다.\n가짜 저자를 신고한 논문 두 편도 수정 조건으로 구두 발표에 채택되었습니다.\n이는 학술 문헌에서 LLM으로 인한 환각 인용 및 저자 조작 문제가 심각함을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32038",
+    "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
+    "url": "https://news.hada.io/topic?id=32038",
+    "discussion_url": "https://news.hada.io/topic?id=32038",
+    "summary": "최소 10년간 핵심 진전이 없던 공개 문제 10개에서 OpenAI의 차기 주요 모델 Astra 내부 버전이 새로운 결과를 생성했으며, 고차원 기하학부터 양자 복잡도와 격자 암호까지 폭넓게 다룸\n해법 탐색에는 Sol API 요금 기준 약 2,000달러 상당의 토큰이 사용됐고, 인...",
+    "score": 0,
+    "published_at": "2026-08-01T16:32:17+00:00",
+    "ai_summary": "OpenAI의 차기 모델 Astra 내부 버전이 10년 이상 해결되지 않던 수학 및 이론 컴퓨터 과학 공개 문제 10가지에 새로운 결과를 생성했습니다.\n고차원 기하학부터 양자 복잡도, 격자 암호까지 폭넓은 분야에서 진전을 보였습니다.\n이는 AI가 복잡한 이론 문제를 해결하는 잠재력을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32032",
+    "title": "Stripe가 원하는 것은 숫자 하나뿐",
+    "url": "https://news.hada.io/topic?id=32032",
+    "discussion_url": "https://news.hada.io/topic?id=32032",
+    "summary": "exe는 제품 로직 곳곳에서 결제 API를 직접 호출하는 대신, 상태 변화를 청구 가능 사실(billable facts) 로 기록하고 확정된 상태를 Stripe와 조정함\n기존 구조에서는 데이터베이스 트랜잭션과 결제 API 호출이 얽혀 부분 실패, 비정상 구독 상태, 결제 거절 같은...",
+    "score": 0,
+    "published_at": "2026-08-01T09:01:28+00:00",
+    "ai_summary": "기존 시스템은 DB 트랜잭션과 결제 API 호출이 얽혀 복잡한 문제를 야기했습니다.\n대신 시스템 상태 변화를 '청구 가능 사실'로 기록하고 확정된 상태를 Stripe와 조정합니다.\n이 아키텍처는 결제 로직을 단순화하고 견고성을 높여 복잡한 동시성 문제를 회피합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32029",
+    "title": "리팩터링이 만드는 경제적 이점",
+    "url": "https://news.hada.io/topic?id=32029",
+    "discussion_url": "https://news.hada.io/topic?id=32029",
+    "summary": "에이전트가 작성한 17,155줄 규모의 Rust 데이터 접근 계층을 단계적으로 리팩터링하자, 같은 기능 변경에 필요한 입력 토큰이 159,564개에서 27,360개로 83% 감소함\n전체 코드량은 거의 그대로였지만 관련 코드를 응집도 높은 파일로 분리하면서, 에이전트가 변경...",
+    "score": 0,
+    "published_at": "2026-08-01T00:33:42+00:00",
+    "ai_summary": "에이전트(LLM 추정)가 작성한 Rust 데이터 접근 계층을 리팩터링하여 기능 변경에 필요한 입력 토큰이 83% 감소했습니다.\n전체 코드량은 비슷했지만, 관련 코드를 응집도 높은 파일로 분리했습니다.\n이는 LLM 시대에도 코드 리팩터링과 구조화의 중요성을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32028",
+    "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
+    "url": "https://news.hada.io/topic?id=32028",
+    "discussion_url": "https://news.hada.io/topic?id=32028",
+    "summary": "HTML/JavaScript 대신 Go 코드만으로 UI를 작성하는 크로스플랫폼 GUI 프레임워크\n동일 코드베이스로 macOS, Windows, Linux에서 동일한 외형의 프로그램 생성\n\n개발용 백엔드는 iOS/Android(유틸리티형 앱)까지 대상으로 함\nLinux에서는",
+    "score": 0,
+    "published_at": "2026-08-01T00:31:02+00:00",
+    "ai_summary": "shirei는 HTML/JavaScript 대신 Go 코드만으로 UI를 작성하는 크로스플랫폼 GUI 프레임워크입니다.\n동일 코드베이스로 macOS, Windows, Linux에서 일관된 외형의 프로그램을 만들 수 있습니다.\n개발용 백엔드는 iOS/Android 유틸리티 앱까지 대상으로 하며, Go 생태계에서 풀스택 개발 가능성을 확장합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32027",
+    "title": "더 작고 일관된 난수 API를 위해 rand를 포크한 이유",
+    "url": "https://news.hada.io/topic?id=32027",
+    "discussion_url": "https://news.hada.io/topic?id=32027",
+    "summary": "Rust의 대표 난수 크레이트 rand는 일상적인 연산이 여러 특성에 흩어져 있어, 더 작은 공개·구현 표면과 일관된 사용 경험을 갖춘 urandom을 개발함\n고수준 연산을 하나의 Random 구조체에 모으고 Rng 특성을 봉인해, 임의 생성기 지원보다...",
+    "score": 0,
+    "published_at": "2026-08-01T00:07:13+00:00",
+    "ai_summary": "Rust의 대표 난수 크레이트 `rand`는 여러 특성에 연산이 흩어져 있어 비일관적인 사용 경험을 제공했습니다.\n이를 개선하고자 `urandom`은 더 작고 일관된 API를 목표로 `rand`를 포크했습니다.\n고수준 연산을 `Random` 구조체에 모으고 `Rng` 특성을 봉인하여, 개발자들이 더 편리하게 난수를 생성하도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32026",
+    "title": "Go 1.27 대화형 투어",
+    "url": "https://news.hada.io/topic?id=32026",
+    "discussion_url": "https://news.hada.io/topic?id=32026",
+    "summary": "이번 릴리스는 제네릭 메서드를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체인 전반에 실용적인 기능을 더함\n크기 특화 메모리 할당으로 80바이트 미만인 일부 할당 비용을 최대 30% 줄이며, 할당 집약형 프로그램에서는 약 1...",
+    "score": 0,
+    "published_at": "2026-08-01T00:04:13+00:00",
+    "ai_summary": "Go 1.27 릴리스는 제네릭 메서드를 중심으로 구조체 리터럴과 타입 추론을 개선하며, 표준 라이브러리, 런타임, 도구 체인에 실용적인 기능을 추가했습니다.\n특히, 80바이트 미만 할당 비용을 최대 30% 줄이는 크기 특화 메모리 할당으로 성능이 향상되었습니다.\n이는 할당 집약형 프로그램에서 약 1%의 성능 개선을 가져오며, 개발 생산성 향상에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49139102",
+    "title": "AI financial advice is surprisingly good if you ask the right questions",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "discussion_url": "https://news.ycombinator.com/item?id=49139102",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-08-01T22:25:12+00:00",
+    "ai_summary": "AI가 제공하는 금융 자문이 올바른 질문을 했을 때 매우 유용하다는 연구 결과가 나왔습니다.\n사용자의 질문 방식이 AI의 자문 품질을 결정하는 핵심 요소임을 강조합니다.\n이는 AI 활용 시 프롬프트 엔지니어링의 중요성을 시사하며, 금융 분야 AI 도입의 잠재력을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49139562",
+    "title": "A stray commit buried multiple levels deep cost me months",
+    "url": "https://www.droppedasbaby.com/posts/db-commits/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49139562",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-08-01T23:19:23+00:00",
+    "ai_summary": "단순한 커밋 하나가 수많은 레이어 속에 파묻혀 몇 달간 엄청난 문제를 일으켰던 경험담입니다.\n개발 환경에서 의도치 않은 작은 변경이 복잡한 버그로 이어질 수 있음을 보여줍니다.\n이는 코드 리뷰와 버전 관리의 중요성, 그리고 체계적인 디버깅 접근 방식의 필요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49138302",
+    "title": "Seedance 2.5",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49138302",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-08-01T20:45:12+00:00",
+    "ai_summary": "Seedance 2.5 릴리스는 새로운 기능과 성능 개선을 포함하며, 사용자 경험을 향상시켰습니다.\n주요 업데이트는 안정성 강화와 버그 수정에 초점을 맞추고 있으며, 개발자 커뮤니티의 피드백을 반영했습니다.\n이 업데이트를 통해 Seedance는 더욱 견고하고 효율적인 솔루션으로 자리매김할 것입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49138188",
+    "title": "Diátaxis",
+    "url": "https://diataxis.fr/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49138188",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-08-01T20:33:27+00:00",
+    "ai_summary": "Diátaxis는 기술 문서를 체계적으로 분류하고 작성하는 프레임워크로, 개발자들에게 효과적인 문서화 전략을 제시합니다.\n튜토리얼, 방법 가이드, 설명, 참조의 네 가지 문서 유형으로 구성되어 있습니다.\n이를 통해 문서의 명확성을 높이고 사용자 경험을 개선하여 개발 생산성을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49137060",
+    "title": "Postmortem for Kernel Soundness Bug #14576",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137060",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-08-01T18:32:20+00:00",
+    "ai_summary": "커널 견고성 버그 #14576에 대한 심층 사후 분석 보고서입니다.\n이 버그의 발생 원인과 파급 효과, 그리고 해결 과정을 상세히 다루고 있습니다.\n시스템 안정성과 보안에 대한 중요한 교훈을 제공하며, 저수준 시스템 개발자들에게 큰 통찰을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49137713",
+    "title": "But can your calculator run Linux?",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137713",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-08-01T19:44:48+00:00",
+    "ai_summary": "계산기에 리눅스를 포팅하는 도전 과제와 그 과정을 다룹니다.\n이는 임베디드 시스템, 커널 컴파일, 하드웨어 인터페이싱과 관련이 깊습니다.\n개발자들이 다양한 기기에서 리눅스를 작동시키는 흥미로운 기술적 탐구를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49137228",
+    "title": "CISA Alert: Water Sector PLC Targeting",
+    "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137228",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-08-01T18:50:17+00:00",
+    "ai_summary": "CISA가 수도 부문의 PLC(Programmable Logic Controller)를 표적으로 하는 사이버 공격에 대해 경고했습니다.\n이 공격은 ICS 시스템의 취약점을 악용하여 운영을 방해하거나 파괴할 수 있습니다.\n개발자들은 산업 제어 시스템의 보안 강화 및 관련 위협 인지에 주의를 기울여야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49134599",
+    "title": "The Art of 64-bit Assembly",
+    "url": "https://nostarch.com/art-64-bit-assembly-v2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49134599",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-08-01T14:09:00+00:00",
+    "ai_summary": "64비트 어셈블리 언어 프로그래밍의 중요성과 예술성에 대해 탐구합니다.\nCPU 아키텍처, 메모리 관리, 시스템 호출 등 저수준 프로그래밍 개념을 다룹니다.\n개발자들이 시스템 성능 최적화 및 운영체제 이해에 필수적인 지식입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49136821",
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136821",
+    "summary": "",
+    "score": 344,
+    "published_at": "2026-08-01T18:07:07+00:00",
+    "ai_summary": "이 기사는 구글이 RSS 피드 채택을 어떻게 저해했는지에 대한 2023년 시각을 제공합니다.\n구글 리더 서비스 종료 등 구글의 전략이 웹 콘텐츠 소비 방식에 미친 영향을 분석합니다.\n웹 기술의 변화와 플랫폼 주도의 생태계 변화에 대한 통찰을 개발자에게 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49136736",
+    "title": "NetBSD 11.0",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136736",
+    "summary": "",
+    "score": 195,
+    "published_at": "2026-08-01T17:56:41+00:00",
+    "ai_summary": "NetBSD 11.0의 새로운 기능과 개선 사항을 발표하는 릴리스 노트입니다.\n다양한 아키텍처 지원, 성능 향상, 보안 업데이트 등 OS 수준의 변화를 다룹니다.\n시스템 개발자, 임베디드 시스템 엔지니어, 오픈 소스 기여자에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49133889",
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133889",
+    "summary": "",
+    "score": 241,
+    "published_at": "2026-08-01T12:34:25+00:00",
+    "ai_summary": "`ripgrep`의 `musl` 바이너리가 매우 큰 파일을 검색할 때 간헐적으로 세그먼트 오류를 일으킨다는 내용입니다.\n이는 특정 `libc` 구현(`musl`)과 대용량 데이터 처리 간의 잠재적 상호작용 문제를 시사합니다.\n개발자들은 툴의 안정성, `libc` 의존성, 그리고 대용량 데이터 처리 시 발생할 수 있는 오류에 유의해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49135245",
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49135245",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-08-01T15:23:15+00:00",
+    "ai_summary": "이 기사는 'Explorative modeling'이라는 새로운 모델 훈련 기법을 소개합니다.\n초기 K개의 추측 중 최적의 것을 선택하여 훈련함으로써 모델 성능을 향상시키는 방법입니다.\n머신러닝 모델의 효율적인 개발 및 최적화에 기여할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49135546",
+    "title": "Pgtestdb's template cloning approach to testing is fast",
+    "url": "https://brandur.org/fragments/pgtestdb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49135546",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-08-01T16:01:22+00:00",
+    "ai_summary": "Pgtestdb가 템플릿 클론 방식을 사용하여 데이터베이스 테스트 속도를 획기적으로 향상시키는 방법을 설명합니다.\n이 기술을 통해 빠르고 효율적인 PostgreSQL 데이터베이스 테스트 환경을 구축할 수 있습니다.\n백엔드 및 DevOps 엔지니어에게 특히 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49139304",
+    "title": "Anime User Interfaces",
+    "url": "https://animeuserinterface.tumblr.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49139304",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-08-01T22:47:24+00:00",
+    "ai_summary": "애니메이션에 등장하는 사용자 인터페이스(UI) 디자인을 분석합니다.\n가상 세계의 UI가 현실의 디자인에 어떤 영감을 줄 수 있는지 탐구합니다.\n프론트엔드 개발자나 UI/UX 디자이너에게 창의적인 아이디어를 제공할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49087499",
+    "title": "Linux on ESP32",
+    "url": "https://github.com/GrieferPig/esp32-s31-linux",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087499",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-07-28T17:52:00+00:00",
+    "ai_summary": "ESP32 마이크로컨트롤러에 리눅스를 포팅하는 기술적 도전을 다룹니다.\n리눅스 환경을 ESP32에서 구동하기 위한 방법과 가능성을 탐구합니다.\n임베디드 시스템 및 IoT 개발자에게 심층적인 정보를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49135985",
+    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+    "url": "https://kaisel.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49135985",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-08-01T16:45:40+00:00",
+    "ai_summary": "Flutter용 Dart 3 기반 네이티브 라우터인 Kaisel을 소개합니다.\n'Routes as Values' 개념을 사용하여 Flutter 앱의 라우팅을 효율적으로 관리합니다.\nFlutter 프론트엔드 개발자들에게 새로운 라우팅 솔루션을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49132460",
+    "title": "RamenHaus",
+    "url": "https://ramen.haus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132460",
+    "summary": "",
+    "score": 220,
+    "published_at": "2026-08-01T08:48:58+00:00",
+    "ai_summary": "RamenHaus는 데이터 관리나 애플리케이션 배포를 위한 새로운 플랫폼 또는 프레임워크일 수 있습니다.\n개발자들이 복잡한 시스템을 더 효율적으로 구축하고 운영하는 데 도움을 줄 것으로 예상됩니다.\n백엔드 인프라 또는 특정 서비스 아키텍처 개선에 초점을 맞출 가능성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49105365",
+    "title": "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+    "url": "https://github.com/nooneknowspeter/legionlinuxtui",
+    "discussion_url": "https://news.ycombinator.com/item?id=49105365",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-07-30T02:04:10+00:00",
+    "ai_summary": "Legionlinuxtui는 리눅스 터미널 환경에서 레노버 Legion 노트북을 제어하는 TUI 도구입니다.\n이를 통해 사용자들은 그래픽 인터페이스 없이도 노트북의 다양한 설정을 손쉽게 조작할 수 있습니다.\n특히 리눅스 사용자 개발자들에게 유용하며, CLI/TUI 개발에 대한 영감을 제공할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49134694",
+    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49134694",
+    "summary": "",
+    "score": 256,
+    "published_at": "2026-08-01T14:19:51+00:00",
+    "ai_summary": "캐나다가 UN 사이버 범죄 협약을 체결했으며, 이는 감시 조약으로 위장될 수 있다는 우려가 제기됩니다.\n이 협약은 사이버 보안 및 프라이버시 정책에 중대한 영향을 미칠 수 있습니다.\n개발자들은 데이터 처리 및 시스템 설계 시 법적, 윤리적 고려 사항을 더욱 강화해야 할 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49135257",
+    "title": "Cursor removed cost information from the usage page and CSV export",
+    "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+    "discussion_url": "https://news.ycombinator.com/item?id=49135257",
+    "summary": "",
+    "score": 293,
+    "published_at": "2026-08-01T15:25:21+00:00",
+    "ai_summary": "AI 코딩 도구인 Cursor가 사용량 페이지와 CSV 내보내기에서 비용 정보를 제거했습니다.\n이 변경으로 인해 사용자들은 자신의 Cursor 사용에 따른 지출을 직접 확인하기 어려워졌습니다.\n이는 AI 도구 사용 비용 추적 및 예산 관리에 영향을 미칠 수 있어 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49130604",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49130604",
+    "summary": "",
+    "score": 248,
+    "published_at": "2026-08-01T02:45:09+00:00",
+    "ai_summary": "Flint는 인공지능 시대를 위해 특별히 설계된 새로운 시각화 언어입니다.\n복잡한 AI 모델의 데이터와 결과를 더 효과적으로 이해하고 분석하는 데 도움을 줍니다.\n데이터 과학자 및 AI 개발자들이 통찰력을 얻고 모델을 디버깅하는 데 유용한 도구가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49109019",
+    "title": "Register deprivation: spills and runtime under forced register scarcity",
+    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
+    "discussion_url": "https://news.ycombinator.com/item?id=49109019",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-07-30T12:20:30+00:00",
+    "ai_summary": "이 연구는 강제적인 레지스터 부족 상황('register deprivation')이 스필(spills) 및 런타임 성능에 미치는 영향을 분석합니다.\n이는 컴파일러 최적화 및 시스템 프로그래밍 분야에서 중요한 의미를 가집니다.\n하드웨어 제약 조건 하에서 코드 성능을 극대화하려는 개발자들에게 심도 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  }
+]
