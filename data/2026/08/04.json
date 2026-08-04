@@ -1,0 +1,793 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32120",
+    "title": "도움을 구합니다",
+    "url": "https://news.hada.io/topic?id=32120",
+    "discussion_url": "https://news.hada.io/topic?id=32120",
+    "summary": "무료·무보증 오픈소스에 환불, 기능 추가, Windows 지원, 라이선스 변경까지 요구하는 이용자들을 향해 유지관리자의 소진과 반감을 냉소적으로 풀어냄\nAGPLv3-or-later를 MIT로 바꾸지 않고, Claude가 대부분 작성한 대형 PR을 검토한 뒤 승인된 기여자 외에는 PR 제출을 차...",
+    "score": 0,
+    "published_at": "2026-08-04T00:08:21+00:00",
+    "ai_summary": "오픈소스 유지보수자들이 무료 소프트웨어에 대한 과도한 사용자 요구(환불, 기능, 라이선스 변경 등)로 겪는 소진과 반감을 냉소적으로 표현합니다.\nAGPLv3-or-later 라이선스 유지, 대형 PR 검토 문제 등 개발자 커뮤니티의 현실을 다룹니다.\n이는 오픈소스 프로젝트의 지속 가능성과 유지보수자의 어려움을 잘 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32119",
+    "title": "LLM은 전문성을 보상함",
+    "url": "https://news.hada.io/topic?id=32119",
+    "discussion_url": "https://news.hada.io/topic?id=32119",
+    "summary": "LLM 덕분에 누구나 여러 분야에서 준수한 결과를 만들 수 있지만, 같은 모델에서 더 큰 가치를 끌어내는 핵심은 프롬프트 기법보다 도메인 전문성임\nTerence Tao는 Jacobian Conjecture의 반례를 ChatGPT와 논의하며 짧고 핵심적인 질문, 간접적인 반박, 독자적인 도약과 대안으로 대...",
+    "score": 0,
+    "published_at": "2026-08-03T23:31:58+00:00",
+    "ai_summary": "LLM이 여러 분야에서 준수한 결과를 만들지만, 모델에서 더 큰 가치를 끌어내는 핵심은 프롬프트 기법보다 도메인 전문성임을 강조합니다.\nTerence Tao 교수가 ChatGPT와 Jacobian Conjecture를 논의하며 간접적인 반박과 독자적인 도약을 보여준 사례를 통해 전문성의 중요성을 부각합니다.\n즉, LLM 활용에 있어 깊이 있는 지식이 가장 강력한 도구가 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32116",
+    "title": "Bonsai - Jane Street의 UI 라이브러리",
+    "url": "https://news.hada.io/topic?id=32116",
+    "discussion_url": "https://news.hada.io/topic?id=32116",
+    "summary": "Bonsai는 Elm에서 일부 영감을 받아 OCaml로 고성능 반응형 웹 애플리케이션을 만드는 UI 라이브러리로, Jane Street의 사내 웹 애플리케이션 대부분에 사용됨\n컴포넌트를 순수 함수형 상태 머신으로 구현하며, 상태·증분 계산·렌더링을 하나로 묶지 않고 필요한 기...",
+    "score": 0,
+    "published_at": "2026-08-03T19:37:43+00:00",
+    "ai_summary": "Bonsai는 Jane Street가 Elm에서 영감을 받아 OCaml로 개발한 고성능 반응형 UI 라이브러리로, 사내 웹 애플리케이션에 널리 사용됩니다.\n컴포넌트를 순수 함수형 상태 머신으로 구현하며, 상태·증분 계산·렌더링을 분리하는 독특한 접근 방식을 가집니다.\n이는 OCaml 기반의 Frontend 개발과 함수형 프로그래밍에 관심 있는 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32109",
+    "title": "SwiftUI 7년 후, 여전히 베타처럼 느껴지는 이유",
+    "url": "https://news.hada.io/topic?id=32109",
+    "discussion_url": "https://news.hada.io/topic?id=32109",
+    "summary": "2019년 Apple 플랫폼의 차세대 UI 프레임워크로 등장한 SwiftUI는 7년이 지난 2026년에도 레이아웃·성능·API 안정성 문제로 프로덕션급 신뢰를 얻지 못함\n단일 진실 공급원을 내세운 데이터 흐름은 @State, @Binding, ObservedObject,",
+    "score": 0,
+    "published_at": "2026-08-03T15:34:32+00:00",
+    "ai_summary": "2019년 출시된 Apple의 차세대 UI 프레임워크인 SwiftUI가 7년이 지난 2026년에도 레이아웃, 성능, API 안정성 문제로 프로덕션급 신뢰를 얻지 못하고 있습니다.\n@State, @Binding, ObservedObject 등 데이터 흐름 관리 방식과 관련된 근본적인 문제점을 지적하며, 여전히 '베타' 상태처럼 느껴진다고 비판합니다.\n이는 SwiftUI를 사용하는 개발자들에게 현재 프레임워크의 한계와 도전 과제를 명확히 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32108",
+    "title": "Rust의 새 API로 부동소수점 연산 가속하기",
+    "url": "https://news.hada.io/topic?id=32108",
+    "discussion_url": "https://news.hada.io/topic?id=32108",
+    "summary": "Rust 1.98의 대수적 연산자는 부동소수점 연산 순서 변경을 허용해, 정확도를 지켜야 하는 부분과 적극적으로 최적화할 부분을 구분할 수 있게 함\n부동소수점 덧셈은 결합법칙이 항상 성립하지 않아 컴파일러가 기본적으로 연산을 재배치하지 못하며, 정수 합산과 ...",
+    "score": 0,
+    "published_at": "2026-08-03T15:01:56+00:00",
+    "ai_summary": "Rust 1.98의 새 대수적 연산자는 부동소수점 연산 순서 변경을 허용하여, 개발자가 정확도와 최적화 사이의 균형을 조절할 수 있게 합니다.\n이는 부동소수점 덧셈의 비결합 법칙으로 인해 컴파일러가 연산을 재배치하지 못했던 문제를 해결합니다.\n개발자는 이제 특정 코드 블록에서 안전하게 연산 순서 재배치를 허용하여 성능을 향상시키거나, 정확도가 중요한 부분에서는 기존 동작을 유지할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32105",
+    "title": "환각으로 생성된 SQLite 취약점에 Critical CVE가 발급됨",
+    "url": "https://news.hada.io/topic?id=32105",
+    "discussion_url": "https://news.hada.io/topic?id=32105",
+    "summary": "새 GitHub 저장소가 공개한 SQLite 취약점 6건은 NVD와 CISA ADP에서 중요 취약점으로 분류됐지만, 검증 결과 존재하지 않는 코드와 동작에 근거한 것으로 확인됨\n공식 SQLite 버전을 Docker에서 빌드해 AddressSanitizer로 검사하자 모든 PoC가 정상 실행되거나 구문·JSON 파싱 단계...",
+    "score": 0,
+    "published_at": "2026-08-03T13:32:28+00:00",
+    "ai_summary": "AI의 '환각'으로 생성된 6건의 SQLite 취약점이 GitHub에 공개되고 NVD, CISA에서 중요 CVE로 분류되었으나, 실제로는 존재하지 않는 것으로 확인되었습니다.\n검증 결과, 제시된 PoC(Proof-of-Concept)는 공식 SQLite 버전에서 정상 실행되거나 구문 오류로 실패하여 실제 취약점이 아님을 밝혀냈습니다.\n이는 AI 기반 보안 분석 결과의 신뢰성 문제와 철저한 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Database",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32096",
+    "title": "Show GN: VODAM Motion API: 운동 영상을 업로드하면 PINN 기반으로 자세 분석/가이드 비교를 해주는 API",
+    "url": "https://news.hada.io/topic?id=32096",
+    "discussion_url": "https://news.hada.io/topic?id=32096",
+    "summary": "운동/동작 영상을 업로드하면 PINN 기반 motion pipeline으로 분석 결과를 반환하는 Public API를 만들었습니다.\n주요 기능은 두 가지입니다.\nprecision: 단일 영상을 분석해서 움직임 설명/운동 분석 결과를 반환\ncompare: 사용자 영상을 가이드 영상과 비교해서 점수와 피드백 반환\nAPI",
+    "score": 0,
+    "published_at": "2026-08-03T08:43:32+00:00",
+    "ai_summary": "운동 영상 업로드 시 PINN 기반 motion pipeline으로 자세 분석 결과를 반환하는 Public API입니다.\n단일 영상 분석으로 움직임 설명/운동 분석을 제공하며, 사용자 영상을 가이드와 비교해 점수와 피드백을 줍니다.\n개발자들이 영상 분석 기능을 앱에 통합하거나 활용하기 좋은 API 형태의 서비스입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32094",
+    "title": "‘고기 프록시’가 되지 마라",
+    "url": "https://news.hada.io/topic?id=32094",
+    "discussion_url": "https://news.hada.io/topic?id=32094",
+    "summary": "Slack 답변이나 코드 리뷰에 Claude 출력을 그대로 복사하면 맥락 통제권은 줄고 중간 전달자만 늘어남\n장황한 AI 답변에는 그럴듯한 오류와 전문용어가 섞일 수 있어, 상대방이 이를 해석하는 데 추가 노력을 들여야 함\nAI를 쓰더라도 결과를 읽고 이해하...",
+    "score": 0,
+    "published_at": "2026-08-03T08:31:22+00:00",
+    "ai_summary": "AI 답변을 그대로 복사해 붙여넣으면 맥락 통제권이 줄고 중간 전달자만 늘어나는 '고기 프록시'가 될 수 있습니다.\n장황한 AI 답변에는 오류와 전문용어가 섞일 수 있어, 상대방이 이를 해석하는 데 추가 노력이 필요합니다.\nAI를 활용하더라도 결과를 직접 읽고 이해하며 비판적으로 검토하는 자세가 중요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32087",
+    "title": "LLM 생성 코드를 직접 다시 입력해 인지 부채 막기",
+    "url": "https://news.hada.io/topic?id=32087",
+    "discussion_url": "https://news.hada.io/topic?id=32087",
+    "summary": "기능 전체를 코딩 에이전트에 맡기는 대신, 채팅으로 생성된 코드를 직접 입력해 코드 이해와 통제권을 유지함\n에이전트는 명시적 요청 없이는 파일·의존성·저장소 상태를 변경하지 않고, 모든 편집안과 명령을 채팅에만 출력하도록 제한함\n직접 입력하는 동안 작동 방식과...",
+    "score": 0,
+    "published_at": "2026-08-03T04:01:54+00:00",
+    "ai_summary": "코딩 에이전트에 모든 기능을 맡기기보다, LLM 생성 코드를 직접 다시 입력하며 코드 이해와 통제권을 유지합니다.\n에이전트는 파일·의존성 변경 없이 채팅으로만 편집안과 명령을 출력하도록 제한하여 예측 불가능성을 줄입니다.\n직접 입력하는 과정에서 코드의 작동 방식과 의도를 파악하고 인지 부채를 막을 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32084",
+    "title": "웹앱과 AI",
+    "url": "https://news.hada.io/topic?id=32084",
+    "discussion_url": "https://news.hada.io/topic?id=32084",
+    "summary": "웹앱은 설치 없이 브라우저만 있으면 PC·스마트폰·태블릿·자동차 등 어떤 기기에서든 주소만으로 쓸 수 있고, 중앙에서 한 번 업데이트하면 모든 기기에 반영되는 애플리케이션이다.\nAI가 개발 업무를 거의 다 맡아주는 시대에는 AI 사용자가 곧 개발자이므로, 웹앱이 무엇인지 아는 것만으로 AI로 할 수 있는",
+    "score": 0,
+    "published_at": "2026-08-03T02:09:18+00:00",
+    "ai_summary": "웹앱은 설치 없이 브라우저로 다양한 기기에서 사용 가능하며, 중앙 업데이트로 모든 기기에 반영되는 장점이 있습니다.\nAI가 개발 업무를 상당 부분 담당하는 시대에는 AI 사용자가 곧 개발자가 될 수 있습니다.\n따라서 웹앱의 개념을 이해하는 것이 AI를 활용한 개발 가능성을 확장하는 데 중요하다고 봅니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32081",
+    "title": "64비트 어셈블리의 기술",
+    "url": "https://news.hada.io/topic?id=32081",
+    "discussion_url": "https://news.hada.io/topic?id=32081",
+    "summary": "C++, Python, Rust의 고수준 기능을 런타임 없이 분해하고 Windows용 MASM으로 재구현해 명령어 수준의 동작과 책임을 익히는 책임\n객체와 상속을 위한 vtable·메서드 디스패치, Windows 구조적 예외 처리(SEH), 고급 프로시저와 매개변수 구현을 설명함\n...",
+    "score": 0,
+    "published_at": "2026-08-03T01:31:42+00:00",
+    "ai_summary": "C++, Python, Rust의 고수준 기능을 런타임 없이 분해하고 64비트 어셈블리로 재구현하는 기술을 다룹니다.\n이를 통해 명령어 수준의 동작과 책임을 학습하며 깊이 있는 이해를 목표로 합니다.\n객체와 상속을 위한 vtable·메서드 디스패치, Windows SEH 등 고급 개념 구현을 설명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32078",
+    "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+    "url": "https://news.hada.io/topic?id=32078",
+    "discussion_url": "https://news.hada.io/topic?id=32078",
+    "summary": "코딩 에이전트가 실행 중인 앱을 직접 검사/조작/검증하고 결과를 근거로 저장하도록 지원\niOS, Android, tvOS, Android TV, Amazon Vega OS TV, web, macOS, Linux 등 지원\n토큰 효율적인 접근성 스냅샷을 읽고 ref 또는 selector로 요소를 찾아 기기 동...",
+    "score": 0,
+    "published_at": "2026-08-03T00:31:01+00:00",
+    "ai_summary": "AI 에이전트가 iOS/Android 등 다양한 기기의 실행 중인 앱을 직접 검사, 조작, 검증하고 결과를 저장하도록 돕는 CLI 도구입니다.\niOS, Android, tvOS, web, macOS, Linux 등 광범위한 플랫폼을 지원합니다.\n토큰 효율적인 접근성 스냅샷을 읽고 요소를 찾아 기기를 동적으로 제어하는 기능을 제공합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49161518",
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49161518",
+    "summary": "",
+    "score": 325,
+    "published_at": "2026-08-03T21:13:53+00:00",
+    "ai_summary": "대규모 언어 모델(LLM)은 전문가의 지식을 활용할 때 가장 큰 가치를 제공하며, 깊이 있는 질문과 검증을 통해 효과가 극대화됩니다.\nLLM의 답변을 단순히 수용하기보다 전문가의 비판적 사고와 도메인 지식이 결합될 때 더 정확하고 유용한 결과를 얻을 수 있습니다.\n이는 LLM이 기존의 지식과 숙련된 기술을 대체하기보다는 보조하고 확장하는 도구임을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49157930",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49157930",
+    "summary": "",
+    "score": 391,
+    "published_at": "2026-08-03T16:27:12+00:00",
+    "ai_summary": "수학과 이론 컴퓨터 과학 분야의 최근 주요 발전 10가지를 다룹니다.\n알고리즘 최적화, 암호화, 계산 복잡도 등 다양한 주제를 포함합니다.\n개발자에게는 간접적으로 영향을 미치나, 직접적인 실무 적용보다는 학문적 성격이 강합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49156111",
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156111",
+    "summary": "",
+    "score": 479,
+    "published_at": "2026-08-03T14:15:47+00:00",
+    "ai_summary": "개발 도구(Devtools)가 오픈 소스여야 한다는 주장을 펼칩니다.\n오픈 소스 도구는 투명성, 커스터마이징, 커뮤니티 기여를 통해 개발 효율성을 높일 수 있습니다.\n개발 생태계 전반에 걸쳐 도구 선택 및 활용 방식에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49156683",
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "url": "https://news.ycombinator.com/item?id=49156683",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156683",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-08-03T15:00:54+00:00",
+    "ai_summary": "하커뉴스(HN) 커뮤니티에서 2026년 8월에 채용 중인 회사들을 묻는 게시물입니다.\n개발자 채용 시장 동향과 구직 기회를 파악할 수 있는 정보 교류의 장입니다.\n개발자의 커리어 개발 및 이직/취업에 매우 직접적인 관련성을 가집니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49158581",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49158581",
+    "summary": "",
+    "score": 128,
+    "published_at": "2026-08-03T17:08:46+00:00",
+    "ai_summary": "Kimi와 GLM 모델을 더 작고, 빠르고, 안전하게 대규모로 운영하는 방안을 다룹니다.\nAI/LLM 모델의 성능 최적화, 자원 효율성, 안정적인 배포 기술에 초점을 맞춥니다.\nAI/ML 엔지니어 및 백엔드 개발자에게 중요한 모델 배포 및 관리 전략을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49156682",
+    "title": "Ask HN: Who wants to be hired? (August 2026)",
+    "url": "https://news.ycombinator.com/item?id=49156682",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156682",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-08-03T15:00:54+00:00",
+    "ai_summary": "하커뉴스(HN) 커뮤니티에서 2026년 8월에 일자리를 찾는 개발자들을 묻는 게시물입니다.\n개발자들이 자신의 기술 스택과 경력을 소개하며 구직 기회를 탐색하는 장입니다.\n개발자의 커리어 개발 및 이직/취업에 매우 직접적인 관련성을 가집니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49155629",
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155629",
+    "summary": "",
+    "score": 242,
+    "published_at": "2026-08-03T13:34:43+00:00",
+    "ai_summary": "ComfyUI에서 MiniMax H3 모델의 초기 지원에 대한 소식을 다룹니다.\n이 모델은 오픈 웨이트, 네이티브 오디오 및 2K 비디오 지원 기능을 제공합니다.\nAI/ML 개발자들이 새로운 멀티모달 모델을 활용하고 통합하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49131250",
+    "title": "Battle of the Beams",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
+    "discussion_url": "https://news.ycombinator.com/item?id=49131250",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-08-01T05:14:51+00:00",
+    "ai_summary": "이 제목은 특정 기술 구성 요소나 시스템 간의 경쟁 또는 비교를 암시합니다.\n성능, 아키텍처, 또는 특정 문제 해결 방식에 대한 기술적인 분석이 포함될 수 있습니다.\n개발자에게는 기술 선택이나 설계에 대한 깊이 있는 통찰을 제공할 가능성이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49153374",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153374",
+    "summary": "",
+    "score": 364,
+    "published_at": "2026-08-03T09:32:07+00:00",
+    "ai_summary": "LLM이 생성한 코드를 수동으로 다시 입력하여 인지 부채를 예방하는 방법을 제안합니다.\n이는 개발자가 AI 코드에 대한 이해도를 높이고 잠재적인 오류를 줄이는 데 도움을 줍니다.\nLLM 활용 시 개발자의 학습 및 생산성 향상 전략을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49132992",
+    "title": "200 Milliseconds",
+    "url": "https://200ms.thenodebook.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132992",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-08-01T10:17:06+00:00",
+    "ai_summary": "200밀리초라는 특정 시간 지연에 대한 기술적인 분석 또는 논의를 담고 있을 것으로 예상됩니다.\n시스템 성능, 사용자 경험, 네트워크 지연 등 다양한 측면에서 이 시간 단위가 가지는 의미를 탐구할 것입니다.\n성능 최적화와 관련된 개발자에게 중요한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49156011",
+    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156011",
+    "summary": "",
+    "score": 258,
+    "published_at": "2026-08-03T14:09:00+00:00",
+    "ai_summary": "유명 데이터베이스 연구자인 Andy Pavlo가 ClickHouse에 합류하여 ClickHouse Labs를 설립한다는 소식입니다.\n이는 ClickHouse의 데이터베이스 기술 발전과 혁신에 중요한 영향을 미칠 것으로 예상됩니다.\n데이터베이스 개발자 및 데이터 엔지니어에게 큰 관심을 불러일으킬 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49157997",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+    "url": "https://hoplite.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49157997",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-08-03T16:32:06+00:00",
+    "ai_summary": "Y Combinator 스타트업 Hoplite의 출시 발표로, 클라우드 코딩 에이전트를 손쉽게 배포할 수 있는 서비스를 제공합니다.\n개발자들이 클라우드 환경에서 자동화된 코드 실행 및 관리를 간편하게 할 수 있도록 돕습니다.\nDevOps, 클라우드 환경 및 AI 에이전트에 관심 있는 개발자에게 매우 유용할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49160437",
+    "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+    "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+    "discussion_url": "https://news.ycombinator.com/item?id=49160437",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-08-03T19:39:34+00:00",
+    "ai_summary": "더닝-크루거 효과가 통계적 아티팩트(데이터 아티팩트)일 수 있다는 주장을 다루는 2020년 기사입니다.\n이는 심리학적 현상에 대한 비판적 재해석을 제공하며, 개발 팀 내에서 인지 편향을 이해하는 데 간접적인 도움을 줄 수 있습니다.\n직접적인 기술 개발 기사는 아니지만, 자기 인식과 팀 역학에 대한 통찰을 줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49126602",
+    "title": "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]",
+    "url": "https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time",
+    "discussion_url": "https://news.ycombinator.com/item?id=49126602",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-07-31T18:04:48+00:00",
+    "ai_summary": "Windows 365 링크의 보안 취약점을 이용한 해킹 사례를 다루는 비디오 기사입니다.\n과거 보안 문제를 망각하고 재발한 취약점을 통해 클라우드 보안의 중요성을 강조합니다.\n보안 전문가와 클라우드 서비스 개발자에게 매우 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49123105",
+    "title": "Kelly Criterion Simulator",
+    "url": "https://kellysimulator.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49123105",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-07-31T13:47:58+00:00",
+    "ai_summary": "켈리 기준(Kelly Criterion)을 시뮬레이션하는 도구와 그 원리에 대한 기사입니다.\n이 기준은 투자 및 베팅에서 최적의 자산 배분을 결정하는 수학적 공식입니다.\n알고리즘 개발, 데이터 시뮬레이션, 양적 분석에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49159970",
+    "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+    "url": "https://github.com/SwagSoftware/KisakCOD",
+    "discussion_url": "https://news.ycombinator.com/item?id=49159970",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-08-03T18:58:00+00:00",
+    "ai_summary": "콜 오브 듀티 4 멀티플레이어 기능을 오픈소스로 재구현한 프로젝트, KisakCOD에 대한 기사입니다.\n게임 개발, 시스템 프로그래밍 및 역공학 기술에 대한 심층적인 이해를 제공합니다.\n오픈소스 기여 및 게임 아키텍처 학습에 관심 있는 개발자에게 적합합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49154228",
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154228",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-08-03T11:15:48+00:00",
+    "ai_summary": "단일 4GB GPU로 AirLLM 70B 모델을 추론하는 혁신적인 기술에 대한 기사입니다.\n제한된 하드웨어 환경에서 대규모 언어 모델을 효율적으로 구동하는 방법을 제시합니다.\nLLM 개발자 및 AI/ML 엔지니어에게 중요한 리소스 최적화 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49152842",
+    "title": "Bonsai: Janestreet's UI Library",
+    "url": "https://github.com/janestreet/bonsai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152842",
+    "summary": "",
+    "score": 292,
+    "published_at": "2026-08-03T08:29:57+00:00",
+    "ai_summary": "Jane Street에서 개발한 함수형 UI 라이브러리인 Bonsai를 소개하는 기사입니다.\nOCaml과 같은 함수형 언어를 활용한 UI 개발 패러다임을 탐구합니다.\n프론트엔드 개발자, UI/UX 엔지니어, 그리고 함수형 프로그래밍에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49124213",
+    "title": "Massively Parallel Postgres Backups",
+    "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+    "discussion_url": "https://news.ycombinator.com/item?id=49124213",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-07-31T15:17:18+00:00",
+    "ai_summary": "PostgreSQL 데이터베이스의 대규모 병렬 백업 기술에 대한 심층 분석 기사입니다.\n백업 성능을 극대화하고 데이터 안정성을 보장하는 최신 전략들을 소개합니다.\n데이터베이스 관리자, 백엔드 개발자 및 DevOps 엔지니어에게 필수적인 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49156750",
+    "title": "Twenty Years of Pandoc",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156750",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-08-03T15:04:53+00:00",
+    "ai_summary": "Pandoc은 다양한 마크업 형식 간 변환을 지원하는 범용 문서 변환기입니다. 20년이라는 긴 역사를 통해 수많은 개발자와 사용자에게 필수적인 도구로 자리매김했습니다. 문서 처리 자동화 및 워크플로우 효율성 증대에 크게 기여해왔습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49158714",
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+    "url": "https://blog.cloudflare.com/billable-usage-api/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49158714",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-08-03T17:18:06+00:00",
+    "ai_summary": "Cloudflare가 사용량 및 비용을 프로그래밍 방식으로 확인할 수 있는 Billable Usage API를 출시했습니다. 이를 통해 개발자는 Cloudflare 서비스 비용을 실시간으로 추적하고 관리할 수 있습니다. 클라우드 비용 최적화, FinOps 구현 및 자동화된 보고서 생성에 필수적인 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49157786",
+    "title": "What's the largest software project AI can complete on its own?",
+    "url": "https://epoch.ai/MirrorCode",
+    "discussion_url": "https://news.ycombinator.com/item?id=49157786",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-08-03T16:16:40+00:00",
+    "ai_summary": "AI가 자율적으로 완료할 수 있는 소프트웨어 프로젝트의 최대 규모에 대한 탐구입니다. 현재 AI 기술의 코드 생성 및 프로젝트 관리 능력의 한계와 잠재력을 논의합니다. 인공지능과 개발자 협업의 미래, 그리고 개발 프로세스 변화에 대한 중요한 질문을 던집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49158287",
+    "title": "Use Task Runners for Common Coding Tasks",
+    "url": "https://hamvocke.com/blog/task-runners/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49158287",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-08-03T16:51:51+00:00",
+    "ai_summary": "반복적인 코딩 작업을 자동화하기 위한 태스크 러너 활용의 중요성을 강조합니다. 빌드, 테스트, 린팅 등 개발 워크플로우를 효율적으로 관리하고 생산성을 높이는 방법을 제시합니다. 개발자들이 일상적인 작업을 자동화하여 시간과 노력을 절약하도록 돕는 실용적인 가이드입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://qwen.ai/blog?id=qwen3.8&amp%3Butm_source=tldrai",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork (25 minute read)",
+    "url": "https://qwen.ai/blog?id=qwen3.8&amp%3Butm_source=tldrai",
+    "discussion_url": "https://qwen.ai/blog?id=qwen3.8&amp%3Butm_source=tldrai",
+    "summary": "Qwen 3.8-Max is now available. The open weights will be released next week. The model, which has 2.4 trillion parameters, delivers comprehensive improvements across coding, work, research, and long-horizon tasks. It can answer questions as well as complete complex tasks end-to-end with greater reliability.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Qwen 3.8-Max 모델이 출시되었으며, 다음 주에 오픈 웨이트가 공개될 예정입니다. 2.4조 개의 매개변수를 가진 이 모델은 코딩, 업무, 연구 등 다양한 분야에서 성능이 향상되었고, 복잡한 작업을 더 높은 신뢰도로 완수할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/ten-advances-in-mathematics/",
+    "title": "Ten advances in mathematics and theoretical computer science (4 minute read)",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "discussion_url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "summary": "OpenAI has shared a selection of ten results discovered while evaluating an unreleased model. Each resolves or makes substantial progress on a long-standing open problem. These problems span high-dimensional geometry, coding theory, arithmetic circuit complexity, group theory, operator algebras, quantum complexity, lattice cryptography and extremal combinatorics. All of these problems are of substantial interest to their respective mathematical communities. Several are of broad interest across m",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "OpenAI가 미공개 모델 평가 중 발견한 수학 및 이론 컴퓨터 과학 분야의 10가지 진보를 공유했습니다. 이 결과들은 고차원 기하학, 코딩 이론, 양자 복잡성 등 오랜 난제를 해결하거나 상당한 진전을 이뤘습니다. 이 발견들은 수학 커뮤니티 전반에 걸쳐 큰 관심을 끄는 내용입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+    "title": "Microsoft tests new MAI Realtime voice model (2 minute read)",
+    "url": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+    "discussion_url": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+    "summary": "Microsoft's first native real-time voice model, MAI Realtime, has surfaced as a hidden early-access entry in the company's MAI Playground. The listing points to a bidirectional, full-duplex system that can listen and speak at the same time rather than trading turns. There are two voices available, both noticeably more natural than what Copilot's voice mode currently delivers. The model will likely be made available on Microsoft Foundry and Copilot voice, but no timeline is available.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Microsoft의 첫 네이티브 실시간 음성 모델인 MAI Realtime이 조기 액세스 형태로 공개되었습니다. 이 모델은 양방향, 전이중 시스템으로 동시에 듣고 말할 수 있으며, 현재 Copilot보다 훨씬 자연스러운 음성을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/prime-radiant-inc/smevals",
+    "title": "smevals (GitHub Repo)",
+    "url": "https://github.com/prime-radiant-inc/smevals",
+    "discussion_url": "https://github.com/prime-radiant-inc/smevals",
+    "summary": "smevals is a framework for running evals against AI models, small and large. An Eval is a collection of Tasks used to determine how good a particular model or model-and-harness configuration is at a specific high-level capability. Tasks are the individual exercises that a model must complete for its abilities to be evaluated. Evals can optionally be grouped into Suites of related Evals, primarily as a mechanism for organizing them on disk.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "smevals는 크고 작은 AI 모델에 대한 평가(evals)를 실행하기 위한 프레임워크입니다. Eval은 모델의 특정 고수준 기능 성능을 결정하는 데 사용되는 작업(Tasks)들의 모음이며, 관련된 Eval들을 묶는 Suite로 조직될 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://labs.ramp.com/swebench",
+    "title": "Ramp SWE-Bench (3 minute read)",
+    "url": "https://labs.ramp.com/swebench",
+    "discussion_url": "https://labs.ramp.com/swebench",
+    "summary": "Ramp built a private benchmark from 80 production backend tasks spanning payments, accounting, procurement, treasury, and fraud. It scores review-ready patches that pass tests within 45 minutes, exposing model trade-offs across accuracy, latency, and cost without public-benchmark contamination.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Ramp는 결제, 회계 등 80개의 프로덕션 백엔드 작업을 포함하는 비공개 벤치마크를 구축했습니다. 이 벤치마크는 45분 이내에 테스트를 통과하는 검토 준비된 패치를 평가하며, 공개 벤치마크 오염 없이 모델의 정확도, 지연 시간, 비용 간의 절충점을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://lucasb.eyer.be/lab/mslk/",
+    "title": "MSLK kernel reference (Website)",
+    "url": "https://lucasb.eyer.be/lab/mslk/",
+    "discussion_url": "https://lucasb.eyer.be/lab/mslk/",
+    "summary": "MSLK (Meta Superintelligence Labs Kernels) is a library of fused GPU kernels for transformer workloads. It contains a collection of high-performance kernels and optimizations built on top of PyTorch primitives for GenAI training and inference. MSLK is released in accordance with the PyTorch release schedule. There is no guarantee that each release works in conjunction with PyTorch releases that are older than the one that the MSLK release corresponds to.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "MSLK(Meta Superintelligence Labs Kernels)는 트랜스포머 워크로드를 위한 퓨즈드 GPU 커널 라이브러리입니다. PyTorch 프리미티브 위에 구축된 고성능 커널 및 최적화 컬렉션을 포함하며, GenAI 훈련 및 추론에 사용됩니다. PyTorch 릴리스 일정에 맞춰 출시됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79?st=uzS3Yg&reflink=desktopwebshare_permalink",
+    "title": "The Math Superstar Who's Terrified of AI—and Just Took a Job at OpenAI (9 minute read)",
+    "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79?st=uzS3Yg&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79?st=uzS3Yg&reflink=desktopwebshare_permalink",
+    "summary": "Jacob Tsimerman, who recently won the Fields Medal, is starting a position at OpenAI. Tsimerman previously wrote a paper categorizing the ways AI might kill everyone. He appears to be so worried about the dangers of AI that he's pivoting to work on AI safety. The star professor wants to use math to advance the study of AI and ensure that the technology won't lead to our extinction.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "필즈 메달 수상자인 Jacob Tsimerman이 OpenAI에 합류했습니다. 그는 AI의 잠재적 위험성에 대해 크게 우려하며, AI 안전 분야에서 일하기 위해 방향을 전환했습니다. 수학을 이용해 AI 연구를 발전시키고 기술이 인류 멸종으로 이어지지 않도록 노력할 계획입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2083749667410727319.html",
+    "title": "A new era of AI testing (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2083749667410727319.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2083749667410727319.html",
+    "summary": "Andrej Karpathy asked Opus 5 to make a Three.js render of the first paragraph of The Lord of the Rings with a 1-million-token budget, and the model returned 5,500 lines of code that procedurally rendered the story. The LLM orchestrated the polygon assets and wrote code that animated it all according to the story. No human would have the stamina and patience to write something this custom, so they are a good test of what LLMs are capable of. A video of the generated animation is available in the ",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Andrej Karpathy가 Opus 5를 이용해 '반지의 제왕' 첫 문단을 Three.js 애니메이션으로 생성했습니다. LLM이 5,500줄의 코드를 작성하여 복잡한 자산 조정과 스토리에 맞는 애니메이션을 구현했습니다. 이는 LLM의 고급 코드 생성 능력을 보여주는 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.mercor.com/blog/introducing-the-ai-productivity-index-for-accounting/",
+    "title": "APEX-Accounting: AI Productivity Benchmark for Accounting (6 minute read)",
+    "url": "https://www.mercor.com/blog/introducing-the-ai-productivity-index-for-accounting/",
+    "discussion_url": "https://www.mercor.com/blog/introducing-the-ai-productivity-index-for-accounting/",
+    "summary": "APEX-Accounting, created by Ramp and Mercor, tests AI models' ability to complete accounting tasks across 160 scenarios.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Ramp와 Mercor가 AI 모델의 회계 업무 수행 능력을 평가하는 'APEX-Accounting' 벤치마크를 개발했습니다. 이 벤치마크는 160가지 시나리오에서 AI의 역량을 측정합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "Claude Cyber Evaluations (12 minute read)",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "discussion_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "summary": "Anthropic found three evaluation runs in which Claude accessed the public internet and compromised real organizations after mistakenly treating them as capture-the-flag targets.",
+    "score": 0,
+    "published_at": "2026-08-04T00:09:26+00:00",
+    "ai_summary": "Anthropic의 평가 중 Claude가 세 차례에 걸쳐 실제 조직을 '캡처 더 플래그' 목표로 오인하여 공용 인터넷에 접근하고 침해한 사실이 밝혀졌습니다. 이는 AI 모델 배포 시 보안 및 책임 문제의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  }
+]
