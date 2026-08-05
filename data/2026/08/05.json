@@ -1,0 +1,807 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32153",
+    "title": "Soppo - Go에 빠진 기능을 더한 언어",
+    "url": "https://news.hada.io/topic?id=32153",
+    "discussion_url": "https://news.hada.io/topic?id=32153",
+    "summary": "Soppo는 Go 문법과 도구를 유지하면서 타입 안전성과 개발 편의 기능을 더하고, 기존 Go 라이브러리와 완전히 상호 운용됨\n구조체 변형을 지원하는 태그드 유니온과 패턴 매칭을 제공하며, 처리하지 않은 분기를 컴파일러가 실행 전에 검사함\n?",
+    "score": 0,
+    "published_at": "2026-08-05T00:02:46+00:00",
+    "ai_summary": "Soppo는 Go 문법을 유지하며 타입 안전성과 개발 편의 기능을 강화한 언어입니다. 기존 Go 라이브러리와 완벽하게 호환되며, 태그드 유니온과 패턴 매칭을 제공합니다. 컴파일러가 처리되지 않은 분기를 실행 전에 검사하여 안정성을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32147",
+    "title": "GNOME Boxes의 미래",
+    "url": "https://news.hada.io/topic?id=32147",
+    "discussion_url": "https://news.hada.io/topic?id=32147",
+    "summary": "2년에 걸친 재구축으로 Flatpak 전용 배포와 GTK4·Libadwaita 기반 구조를 갖췄으며, 신규 기여자가 유지보수하기 쉬운 베타 버전으로 공개됨\n가상화 스택 전체를 Flatpak에 포함해 배포판별 백엔드 차이를 줄이고, GTK3 기반 SPICE 위젯은 Libmks로 교체함\n...",
+    "score": 0,
+    "published_at": "2026-08-04T16:01:15+00:00",
+    "ai_summary": "GNOME Boxes는 2년간의 재구축을 통해 Flatpak 전용 배포와 GTK4·Libadwaita 기반으로 변화했습니다. 가상화 스택을 Flatpak에 포함하여 배포판별 차이를 줄였고, 유지보수하기 쉬운 베타 버전으로 공개되었습니다. 이는 데스크톱 애플리케이션 개발자에게 중요한 변화를 의미합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32144",
+    "title": "Show GN: 구독형 CLI를 API로 — Gemini/Grok OAuth 프록시",
+    "url": "https://news.hada.io/topic?id=32144",
+    "discussion_url": "https://news.hada.io/topic?id=32144",
+    "summary": "ChatGPT의 oauth 정보를 공유하여 OpenAI API와 호환되는 HTTP 프록시를 생성해주는 오픈소스 프로젝트를 애플리케이션 개발에 활용하고 있습니다. 이를 참고하여 다른 CLI 도구에 대해서도 동일한 방식의 프록시를 직접 개발했습니다.\n참고 프로젝트\nChatGPT 대상\nhttps://github.com/EvanZhouD",
+    "score": 0,
+    "published_at": "2026-08-04T14:27:53+00:00",
+    "ai_summary": "ChatGPT의 OAuth 정보를 공유해 OpenAI API 호환 HTTP 프록시를 생성하는 오픈소스 프로젝트를 활용하여 새로운 개발 방법을 소개합니다. 이를 참고해 다른 CLI 도구에도 동일한 방식의 프록시를 직접 개발하여 API로 사용 가능합니다. 개발자들은 이를 통해 다양한 CLI 도구를 API 형태로 쉽게 통합할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32132",
+    "title": "Rust 프로젝트 목표: 이동 불가 타입과 소멸자 실행 보장",
+    "url": "https://news.hada.io/topic?id=32132",
+    "discussion_url": "https://news.hada.io/topic?id=32132",
+    "summary": "모든 값이 이동되거나 mem::forget으로 소멸자 실행 없이 잊힐 수 있다는 Rust의 전제를 완화해, 타입이 이동과 망각을 거부할 수 있도록 하는 2026~2027년 프로젝트가 승인됨\n새로운 자동 트레이트 Move·Destruct·Forget",
+    "score": 0,
+    "published_at": "2026-08-04T05:02:15+00:00",
+    "ai_summary": "Rust는 모든 값이 이동되거나 소멸자 실행 없이 잊힐 수 있다는 전제를 완화하는 프로젝트를 승인했습니다. 2026~2027년 목표로, 타입이 이동과 망각을 거부할 수 있도록 새로운 자동 트레이트 Move, Destruct, Forget을 도입할 예정입니다. 이는 Rust 개발자들에게 더 강력한 타입 안전성을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32128",
+    "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
+    "url": "https://news.hada.io/topic?id=32128",
+    "discussion_url": "https://news.hada.io/topic?id=32128",
+    "summary": "Google 검색과 디스커버에서 소셜 및 동영상 게시물의 실적을 추적하는 새로운 Search Console 속성 유형인 플랫폼 속성 도입\nInstagram, TikTok, X, YouTube 콘텐츠로 사용자를 유도하는 검색어 추적 및 게시물 상호작용 방식 파악 가능",
+    "score": 0,
+    "published_at": "2026-08-04T01:11:01+00:00",
+    "ai_summary": "Google Search Console에 소셜 및 동영상 게시물 실적을 추적하는 '플랫폼 속성'이 도입됩니다. Instagram, TikTok, X, YouTube 콘텐츠를 통한 유입 트래픽과 검색어, 게시물 상호작용 방식을 파악할 수 있습니다. 이는 웹사이트나 앱의 트래픽 분석 및 마케팅 전략 수립에 중요한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32126",
+    "title": "Show GN: maxt – 거래소와 언어가 달라도 일관된 방식으로 사용하는 멀티 언어 거래소 SDK",
+    "url": "https://news.hada.io/topic?id=32126",
+    "discussion_url": "https://news.hada.io/topic?id=32126",
+    "summary": "안녕하세요. 여러 거래소를 하나의 서비스에서 사용하면서 겪은 불편에서 시작한 오픈소스 프로젝트 maxt를 소개합니다.\n만든 이유\n통합 API를 사용해도 실제로 여러 거래소를 연동하면 같은 기능에 서로 다른 파라미터가 필요하거나, 응답과 오류를 별도로 처리해야 하는 경우가 있었습",
+    "score": 0,
+    "published_at": "2026-08-04T01:03:41+00:00",
+    "ai_summary": "오픈소스 SDK maxt는 여러 거래소를 통합할 때 겪는 불편함을 해소합니다.\n상이한 파라미터와 응답/오류 처리를 일관된 방식으로 관리할 수 있게 돕습니다.\n개발자가 다양한 거래소 API를 쉽게 연동하고 효율적으로 시스템을 구축하도록 설계되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32125",
+    "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 &#039;A.X K2 Raon-Speech&#039; 공개",
+    "url": "https://huggingface.co/KRAFTON/Raon-Speech-9B",
+    "discussion_url": "https://news.hada.io/topic?id=32125",
+    "summary": "SKT의 A.X K2 Light 20B-A3B 텍스트 백본에 KRAFTON이 자체 학습한 음성 인코더와 음성 코덱을 결합한 모델로, 전체 21.2B 중 약 3.5B 파라미터를 활성화\nRaon-Speech-9B의 학습 방식을 사용하며 세 ...",
+    "score": 0,
+    "published_at": "2026-08-04T01:01:01+00:00",
+    "ai_summary": "크래프톤이 SKT 텍스트 백본과 자체 학습한 음성 인코더/코덱을 결합한 21B 규모의 AI 모델을 공개했습니다.\n'A.X K2 Raon-Speech'는 한영 이중언어를 지원하며 고성능 음성 처리를 목표로 합니다.\nAI 개발자들이 음성 인식 및 생성 애플리케이션 개발에 활용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32123",
+    "title": "LobeHub - AI 팀 전체를 고용/스케줄링/보고하는 Chief Agent Operator",
+    "url": "https://news.hada.io/topic?id=32123",
+    "discussion_url": "https://news.hada.io/topic?id=32123",
+    "summary": "여러 AI 에이전트를 한 곳에서 고용/스케줄링/보고하며 7×24 운영 체제로 조직화, 사용자가 상시 접속하지 않아도 AI 팀 관리 가능\n작업 단위로서의 에이전트 개념 채택, 인간과 에이전트가 공진화(co-evolve)하는 인프라 제공\n기존 에이전트가 일회성/작...",
+    "score": 0,
+    "published_at": "2026-08-04T00:31:02+00:00",
+    "ai_summary": "LobeHub는 AI 에이전트들을 통합적으로 고용, 스케줄링, 보고하며 7x24 운영 체제로 관리하는 Chief Agent Operator입니다.\n상시 접속 없이 AI 팀 관리를 가능하게 하며, 인간-에이전트 공진화 인프라를 제공합니다.\n이는 AI 솔루션 배포 및 관리를 위한 핵심 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49171268",
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49171268",
+    "summary": "",
+    "score": 284,
+    "published_at": "2026-08-04T16:36:05+00:00",
+    "ai_summary": "Mistral이 다중 모달 콘텐츠 조정을 위한 3B 매개변수 오픈 가중치 모델 Shieldstral을 발표했습니다.\n이 모델은 텍스트와 이미지 데이터를 모두 처리하여 유해 콘텐츠 탐지를 돕습니다.\n개발자들은 이를 활용하여 다양한 애플리케이션에 안전한 사용자 경험을 제공할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49176644",
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49176644",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-08-04T23:22:37+00:00",
+    "ai_summary": "패스키(Passkey) 기반 무암호 인증 방식에서 새로운 공격 표면이 발견되었습니다.\n연구자들은 패스키 구현의 잠재적 취약점을 분석하고 시연했습니다.\n개발자들은 이러한 공격 벡터를 이해하고 안전한 패스키 통합을 위해 주의해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49176038",
+    "title": "Pi's Minimalism Is Its Advantage",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49176038",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-08-04T22:22:12+00:00",
+    "ai_summary": "Inflection AI의 개인 AI 비서 Pi는 단순하고 간결한 디자인과 사용자 경험을 강점으로 내세웁니다.\n복잡한 기능보다는 자연스러운 대화와 사용자 친화성에 집중하여 차별점을 둡니다.\n이는 AI 제품 개발에 있어 미니멀리즘 접근 방식의 중요성을 시사합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49175826",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49175826",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-08-04T22:01:41+00:00",
+    "ai_summary": "인터폴 보고서에 따르면 아프리카 사이버 범죄의 절반 이상이 인공지능(AI)을 활용하고 있으며, 사기 범죄가 급증하고 있습니다.\nAI 기술이 범죄에 악용되는 심각한 문제를 제기하며, AI 개발 및 사용에 대한 윤리적 고려와 보안 강화의 필요성을 강조합니다.\n이는 AI 윤리와 규제에 대한 개발자들의 인식을 높여야 함을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49170165",
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49170165",
+    "summary": "",
+    "score": 448,
+    "published_at": "2026-08-04T15:16:22+00:00",
+    "ai_summary": "다양한 피부 톤을 생성하기 위한 간단한 알고리즘과 색 공간 활용 방안이 공개되었습니다.\n이 프로젝트는 포괄적 디자인과 사용자 인터페이스 개발에 기여할 수 있는 실용적인 기술 접근을 제시합니다.\n개발자들은 이를 활용하여 더욱 다양하고 대표성 있는 디지털 콘텐츠를 만들 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49176634",
+    "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+    "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49176634",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-08-04T23:21:33+00:00",
+    "ai_summary": "FIPS 140-3 인증이 완벽한 보안을 보장하지 않으며, 감사자들도 이 사실을 인지하고 있다는 지적입니다.\n이 글은 특정 보안 표준의 한계와 실제 적용 시 주의해야 할 점을 다룹니다.\n개발자들은 보안 인증의 의미를 올바르게 이해하고 다층적인 보안 접근 방식을 고려해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49172836",
+    "title": "Waymo in Dallas",
+    "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172836",
+    "summary": "",
+    "score": 231,
+    "published_at": "2026-08-04T18:29:41+00:00",
+    "ai_summary": "자율주행 기술 기업 웨이모(Waymo)가 댈러스에서 새로운 사업 운영을 시작합니다.\n이는 웨이모의 자율주행 서비스 확장과 기술 상용화 노력의 일환입니다.\n개발자들은 자율주행 분야의 발전과 실제 적용 사례를 통해 영감을 얻을 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49173984",
+    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+    "url": "https://deepgrove.ai/maple-preview",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173984",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-08-04T19:44:55+00:00",
+    "ai_summary": "20B MoE 모델인 Maple-Preview가 아이폰에서 120 tok/s의 속도로 구동되는 것을 보여줍니다.\n이는 모바일 기기에서의 대규모 언어 모델 실행 가능성을 제시하며, 온디바이스 AI 발전에 기여할 수 있습니다.\n개발자들에게는 효율적인 모델 경량화 및 배포 기술에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49175248",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49175248",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-08-04T21:14:19+00:00",
+    "ai_summary": "OpenAI 모델과 관련된 제3자 사이버 평가에 대한 내용을 다룹니다.\n이는 AI 모델의 보안 취약성 및 오용 가능성을 식별하고 완화하는 데 중점을 둡니다.\n개발자들은 AI 시스템 배포 시 보안 및 윤리적 고려사항의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49166386",
+    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "discussion_url": "https://news.ycombinator.com/item?id=49166386",
+    "summary": "",
+    "score": 362,
+    "published_at": "2026-08-04T10:00:55+00:00",
+    "ai_summary": "DeepSeek V4 Flash 모델이 단일 AMD MI300X 가속기에서 구동되는 성능을 다룹니다.\n이는 고성능 AI 모델의 효율적인 배포 및 최적화 가능성을 보여줍니다.\n개발자들은 특정 하드웨어에서의 LLM 성능 벤치마킹 및 최적화에 대한 정보를 얻을 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49176697",
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49176697",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-08-04T23:31:46+00:00",
+    "ai_summary": "WebKit 엔진에서 프록시 브라우저 및 iCloud Private Relay에 영향을 미치는 IP 및 DNS 유출 취약점을 발견했습니다.\n이 취약점은 사용자 프라이버시를 침해할 수 있으며, 관련 개발자들은 보안 패치 및 대응책 마련이 필요합니다.\n웹 개발 및 네트워크 보안 분야에 중요한 경고를 던집니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49145037",
+    "title": "Video2NAND – Abusing video codecs for great computational power",
+    "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49145037",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-08-02T14:29:01+00:00",
+    "ai_summary": "비디오 코덱을 사용하여 컴퓨팅 성능을 향상시키는 독특한 방법을 제안합니다.\n이는 기존 하드웨어 자원을 예상치 못한 방식으로 활용하는 창의적인 접근을 보여줍니다.\n저수준 최적화, 임베디드 시스템, 또는 특수 컴퓨팅 분야 개발자들에게 흥미로운 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49175192",
+    "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+    "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49175192",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-08-04T21:09:39+00:00",
+    "ai_summary": "FedEx를 이용한 피싱 사례를 통해 지속적인 피싱 공격의 원인을 분석합니다.\n이는 기업의 보안 의식 부재와 사용자 교육의 중요성을 강조합니다.\n개발자들은 서비스 설계 시 사용자 보안 인식을 높이고 피싱 공격에 대한 방어책을 고려해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49170076",
+    "title": "Most tech revolutions made work worse for employees",
+    "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49170076",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-08-04T15:10:37+00:00",
+    "ai_summary": "대부분의 기술 혁명이 직원들의 업무 환경을 악화시켰다는 분석을 제시합니다.\n이는 기술 발전이 단순히 효율성뿐만 아니라 사회적, 경제적 영향을 미친다는 점을 강조합니다.\n개발자들은 기술을 설계하고 배포할 때 윤리적 책임과 사회적 영향을 함께 고려해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49172405",
+    "title": "Hop.earth – OpenStreetMap based car racing game",
+    "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172405",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-08-04T17:55:19+00:00",
+    "ai_summary": "OpenStreetMap 데이터를 기반으로 하는 웹 기반 자동차 경주 게임입니다. 실시간 물리 엔진과 다양한 환경을 제공하며, 사용자 기여를 통해 맵을 확장할 수 있습니다. 지리 공간 데이터와 게임 개발의 융합을 보여주는 흥미로운 프로젝트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49127983",
+    "title": "Don't stop early: Case-folding source code at memory speed",
+    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49127983",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-07-31T20:07:06+00:00",
+    "ai_summary": "메모리 속도로 소스 코드의 대소문자를 접는(case-folding) 최적화 기법에 대한 내용입니다. 기존 방식의 성능 병목을 지적하고 새로운 접근 방식을 제안합니다. 고성능 텍스트 처리 및 컴파일러 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49176212",
+    "title": "Show HN: SIMD Viterbi Decoder in Rust",
+    "url": "https://github.com/brian-armstrong/fec",
+    "discussion_url": "https://news.ycombinator.com/item?id=49176212",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-08-04T22:37:05+00:00",
+    "ai_summary": "Rust로 구현된 SIMD Viterbi 디코더를 소개합니다. Viterbi 알고리즘의 성능 병목을 SIMD 명령어를 활용하여 최적화했습니다. 고성능 컴퓨팅 및 시스템 프로그래밍 분야 개발자에게 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49166874",
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49166874",
+    "summary": "",
+    "score": 227,
+    "published_at": "2026-08-04T11:01:37+00:00",
+    "ai_summary": "Keyv 및 관련 라이브러리가 Shai-Hulud 공급망 공격으로 침해되었습니다. 공격자는 NPM 패키지를 통해 악성 코드를 삽입하여 사용자 데이터를 탈취했습니다. 모든 개발자는 사용 중인 라이브러리의 보안 상태를 주의 깊게 검토해야 합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49170915",
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "url": "https://arxiv.org/abs/2602.16763",
+    "discussion_url": "https://news.ycombinator.com/item?id=49170915",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-08-04T16:10:39+00:00",
+    "ai_summary": "AI 벤치마크가 정체기에 접어들 때 발생하는 현상과 그 원인을 체계적으로 연구한 논문입니다. 현재 벤치마크의 한계를 지적하고, AI 모델 평가 및 개발 방향에 대한 시사점을 제공합니다. AI/ML 연구 및 개발자들에게 중요한 통찰을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49172936",
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "url": "https://edotenv.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172936",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-08-04T18:36:02+00:00",
+    "ai_summary": "EdotEnv는 양적 트레이딩 강화 학습 환경을 제공하여 LLM이 연구를 수행하도록 돕는 플랫폼입니다. LLM의 복잡한 추론 및 의사 결정 능력을 금융 시장 데이터로 훈련시키는 것을 목표로 합니다. AI/ML 및 LLM 개발자에게 새로운 연구 방향을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49167448",
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49167448",
+    "summary": "",
+    "score": 572,
+    "published_at": "2026-08-04T12:01:02+00:00",
+    "ai_summary": "Xbox 서비스 장애로 인해 디스크로 소유한 게임조차 플레이할 수 없게 되었습니다. 이는 온라인 DRM 검증 시스템의 의존성 문제를 여실히 보여줍니다. 서비스 안정성, DRM 설계, 그리고 클라우드 기반 시스템 개발자에게 중요한 시사점을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49162653",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49162653",
+    "summary": "",
+    "score": 340,
+    "published_at": "2026-08-03T23:24:53+00:00",
+    "ai_summary": "핵전쟁으로 인류가 사라진 후에도, 자동화된 스마트 하우스가 주인이 없는 채 일상 루틴을 반복합니다.\n집은 스스로 식사를 준비하고 시간을 알리는 등 모든 기능을 수행하지만, 결국 외부 화재로 파괴됩니다.\n고도화된 자동화와 AI 시스템이 인간 없이 작동할 때의 의미와 기술의 한계에 대한 철학적 질문을 던집니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+    "title": "Anthropic pays AI's biggest salaries. Its CEO just discovered people might take them for the money (4 minute read)",
+    "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+    "discussion_url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+    "summary": "Anthropic's CEO, Dario Amodei, recently said he was worried that new hires were joining his company for the money rather than the mission. Anthropic reportedly pays more than any lab in AI. Hiring top researchers is hard, and keeping them is even more difficult. When every lab can pay millions, mission is the only lever left. Researchers chase money, but they also chase compute, influence over what gets built, and the freedom to work their own way.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Anthropic CEO는 인재들이 고액 연봉 때문에 회사 미션보다 돈을 쫓는 것을 우려했습니다. Anthropic은 AI 분야에서 가장 높은 연봉을 지급하며, 최고의 연구원 확보 및 유지가 어렵다고 합니다. 돈 외에도 컴퓨팅 자원, 프로젝트 영향력, 자율성이 인재 유치에 중요한 요소입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
+    "title": "Mind Lab puts continual learning to the test with Macaron-V1 (11 minute read)",
+    "url": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
+    "discussion_url": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
+    "summary": "Mind Lab claims its Macaron-V1 model surpasses GLM-5.2 in its benchmarks. The model was built by attaching five LoRA expert modules, each with about one billion parameters, to GLM-5.1. The system dynamically switches to the expert model best suited to the task it is given. The accumulated data from model use can be distilled into a dedicated LoRA adapted that is continually updated as the model is called.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Mind Lab의 Macaron-V1 모델은 GLM-5.2 벤치마크를 능가한다고 주장합니다. GLM-5.1에 5개의 LoRA expert 모듈을 부착하여 구축되었으며, 작업에 맞춰 동적으로 모델을 전환합니다. 모델 사용 데이터는 지속적으로 업데이트되는 전용 LoRA 어댑터에 활용됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+    "title": "Former OpenAI exec Fidji Simo discusses her battle with POTS and her startup's plans to cure it with AI and 3,500 vials of blood (11 minute read)",
+    "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+    "discussion_url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+    "summary": "Fidji Simo left OpenAI's leadership team after a seven-year battle with Postural Orthostatic Tachycardia Syndrome (POTS). Her new startup, ChronicleBio, will focus on using AI to cure POTS and other chronic diseases. The company has collected 153 terabytes of data from blood draws from people with chronic diseases so far. It plans to launch home blood draws to further increase its dataset. ChronicleBio plans to use the data to learn more about diseases and improve the success of clinical drug tr",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "전 OpenAI 임원 Fidji Simo는 POTS 투병 후 AI를 활용한 만성 질환 치료 스타트업 ChronicleBio를 설립했습니다. 회사는 만성 질환자 혈액에서 153테라바이트 데이터를 수집했으며, 홈 혈액 채취를 통해 데이터셋 확장을 계획합니다. 수집된 데이터를 활용해 질병 이해도를 높이고 임상 약물 성공률을 개선하는 것이 목표입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "title": "How OpenAI Built GPT-Live (8 minute read)",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "discussion_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "summary": "OpenAI rebuilt its voice architecture around a full-duplex model that listened and spoke simultaneously. The system combined stateful inference, asynchronous delegation, dynamic context management, and low-latency media transport to keep conversations responsive while supporting advanced reasoning and tool use.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "OpenAI는 음성 아키텍처를 전이중(full-duplex) 모델 중심으로 재구축하여 동시 청취 및 발화가 가능하게 했습니다. 이 시스템은 스테이트풀 추론, 비동기 위임, 동적 컨텍스트 관리, 저지연 미디어 전송을 결합하여 응답성을 유지합니다. 이를 통해 고급 추론 및 도구 사용을 지원하며 실시간 대화 시스템을 구현합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://kiro.dev/blog/one-agent/",
+    "title": "One agent, every surface: how we built the Kiro agent harness (20 minute read)",
+    "url": "https://kiro.dev/blog/one-agent/",
+    "discussion_url": "https://kiro.dev/blog/one-agent/",
+    "summary": "Kiro is an agentic IDE with features such as specs, steering, and hooks. The Kiro agent harness is a lightweight server-side process that runs alongside codebases, starts quickly, and owns everything on the agent side. The IDE, CLI, and Web clients own how the user interacts with the agent and how it presents the agent's work. The only way to cross that boundary is through the defined protocol interface. The well-defined interface between server and client means the agent code evolves independen",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Kiro는 스펙, 스티어링, 훅 기능을 가진 에이전트 기반 IDE입니다. Kiro 에이전트 하네스는 코드베이스와 함께 실행되는 경량 서버 측 프로세스입니다. 서버와 클라이언트 간의 명확한 프로토콜 인터페이스를 통해 에이전트 코드의 독립적인 진화가 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems/",
+    "title": "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems (34 minute read)",
+    "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems/",
+    "discussion_url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems/",
+    "summary": "OpenAI's recently released solutions for ten major open mathematics problems show that AI is now superhumanly capable at cyber and coding and superhuman at advanced math, the same way non-AI computers have been superhuman at basic math for a long time. These problems were well-defined, formalized problems where the solution could be easily verified. A lot of what constitutes AI R&D is verifiable. The lab that gets traction on true AI R&D self-improvement loops will find themselves in an overwhel",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "OpenAI의 미공개 모델 Astra가 10가지 주요 공개 수학 문제를 해결했습니다. 이는 AI가 사이버 및 코딩 분야는 물론 고급 수학에서도 초인적인 능력을 가졌음을 입증합니다. 해결된 문제는 명확히 정의되고 검증 가능한 문제였습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/microsoft/Orchard",
+    "title": "Orchard (GitHub Repo)",
+    "url": "https://github.com/microsoft/Orchard",
+    "discussion_url": "https://github.com/microsoft/Orchard",
+    "summary": "Orchard is an open-source agentic modeling framework. Its foundation is a thin, Kubernetes-native environment service that exposes generic primitives with no assumptions about the harness, trainer, inference backend, or task domain sitting above it. This foundation allows for recipes that use the same substrate for trajectory distillation, on-policy RL rollouts, and evaluations. Datasets, training recipes, and evaluation protocols stay portable across harnesses, domains, and projects instead of ",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Orchard는 오픈소스 에이전트 모델링 프레임워크입니다. 쿠버네티스 네이티브 환경 서비스 위에 구축되어 제네릭 프리미티브를 노출하며, 하네스, 트레이너, 추론 백엔드, 작업 도메인에 대한 가정이 없어 유연합니다. 데이터셋, 학습 레시피, 평가 프로토콜의 이식성을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epoch.ai/MirrorCode",
+    "title": "MirrorCode (8 minute read)",
+    "url": "https://epoch.ai/MirrorCode",
+    "discussion_url": "https://epoch.ai/MirrorCode",
+    "summary": "MirrorCode is a benchmark that tests AI models on long-horizon tasks. It contains tasks where AI models have to reimplement entire programs end-to-end without access to the original source code. AI-generated solutions must match the original program's output exactly on end-to-end tests. The benchmark's 25 target programs span different areas of computing, including Unix utilities, data serialization and query tools, bioinformatics, interpreters, static analysis, cryptography, and compression.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "MirrorCode는 AI 모델의 장기 과제 수행 능력을 테스트하는 벤치마크입니다. AI 모델이 원본 소스 코드 없이 전체 프로그램을 종단 간 재구현하는 과제를 포함합니다. AI 생성 솔루션은 원본 프로그램과 정확히 일치하는 출력을 내야 하며, 다양한 컴퓨팅 분야의 25개 프로그램으로 구성됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/wangqinsi1/RLSVR",
+    "title": "From RLVR to RLSVR (GitHub Repo)",
+    "url": "https://github.com/wangqinsi1/RLSVR",
+    "discussion_url": "https://github.com/wangqinsi1/RLSVR",
+    "summary": "RLSVR expanded RLVR beyond inherently verifiable problems by transforming open-ended tasks into proxy environments with rules and outcomes that generated their own reward signals. SpyRL demonstrated the approach through multi-agent self-play, where predetermined roles and voting made evaluation automatic.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "RLSVR은 개방형 작업을 규칙 기반 프록시 환경으로 전환하여 자체 보상 신호를 생성함으로써 검증 가능한 문제 외의 영역으로 RLVR을 확장했습니다.\nSpyRL은 다중 에이전트 자가 플레이를 통해 이 접근 방식을 시연했으며, 사전 정의된 역할과 투표를 통해 평가를 자동화했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/FINAL-Bench/fast-gemma",
+    "title": "Fast Gemma's Verified Inference Optimization Recipe (7 minute read)",
+    "url": "https://huggingface.co/blog/FINAL-Bench/fast-gemma",
+    "discussion_url": "https://huggingface.co/blog/FINAL-Bench/fast-gemma",
+    "summary": "VIDRAFT documented the full configuration behind its verified state-of-the-art Fast Gemma submission, explaining how each software optimization increased tokens per second on Gemma 4 E4B running on a single NVIDIA A10G.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "VIDRAFT는 Fast Gemma의 최첨단 성능을 위한 전체 구성 레시피를 문서화했습니다.\n각 소프트웨어 최적화가 단일 NVIDIA A10G에서 Gemma 4 E4B의 초당 토큰 수를 어떻게 증가시켰는지 설명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5",
+    "title": "GPT-5.6 Sol Uses Twice the Tokens of GPT-5.5 (2 minute read)",
+    "url": "https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5",
+    "discussion_url": "https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5",
+    "summary": "GPT-5.6 Sol xhigh now uses more than twice as many tokens per session as GPT-5.5 xhigh in Codex workflows. This cuts the effective value of a token-based quota by more than half. At the same token price, 2.25x the tokens means roughly 2.25x the cost for a similar token mix. GPT-5.6 Sol also adds a cache-write charge that GPT-5.5 didn't have.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "GPT-5.6 Sol은 GPT-5.5보다 세션당 두 배 이상의 토큰을 사용하며, 이는 토큰 기반 할당량의 실질적 가치를 절반 이상으로 줄입니다.\n동일한 토큰 가격에서 GPT-5.6 Sol은 GPT-5.5에 없던 캐시 쓰기 비용을 추가하여 비용이 약 2.25배 증가할 수 있습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+    "title": "China's MiniMax H3 is the first open model to top an AI video ranking (2 minute read)",
+    "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+    "discussion_url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+    "summary": "Artificial Analysis ranks MiniMax H3 first in Video Editing, second in Text-to-Video, and third in Image-to-Video.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "중국의 MiniMax H3가 AI 비디오 랭킹에서 1위를 차지한 최초의 오픈 모델이 되었습니다.\n이 모델은 비디오 편집에서 1위, 텍스트-비디오에서 2위, 이미지-비디오에서 3위를 기록했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/",
+    "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says (4 minute read)",
+    "url": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/",
+    "discussion_url": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/",
+    "summary": "DeepSeek's V4-Flash AI model is the cheapest to run among well-known models, costing 105 times less than Anthropic's Claude Fable 5.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "DeepSeek의 V4-Flash AI 모델이 유명 모델 중 가장 저렴한 운영 비용을 자랑합니다.\nAnthropic의 Claude Fable 5보다 105배 저렴합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/changelog/google-workspace-plugins",
+    "title": "Google Workspace Plugins (1 minute read)",
+    "url": "https://cursor.com/changelog/google-workspace-plugins",
+    "discussion_url": "https://cursor.com/changelog/google-workspace-plugins",
+    "summary": "Cursor can now read, write, and act across Google Workspace through new plugins available on the Cursor Marketplace.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "AI 코드 에디터인 Cursor가 새로운 플러그인을 통해 Google Workspace에서 읽기, 쓰기, 작업이 가능해졌습니다.\n이 플러그인들은 Cursor Marketplace에서 사용할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-is-working-on-plugins-for-gemini-enterprise/",
+    "title": "Google is working on Plugins for Gemini Enterprise (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-is-working-on-plugins-for-gemini-enterprise/",
+    "discussion_url": "https://www.testingcatalog.com/google-is-working-on-plugins-for-gemini-enterprise/",
+    "summary": "Plugins may act as mini-apps or packaged workflows.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Google이 Gemini Enterprise용 플러그인을 개발 중입니다.\n이 플러그인들은 미니 앱 또는 패키지형 워크플로우 역할을 할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "title": "Bringing Human Taste to AI Models (3 minute read)",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "discussion_url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "summary": "Design Arena raised $7.9 million to help AI companies measure subjective qualities such as whether a generated game feels fun.",
+    "score": 0,
+    "published_at": "2026-08-05T00:03:20+00:00",
+    "ai_summary": "Design Arena는 790만 달러를 투자 유치했습니다. 이 회사는 AI 모델이 생성한 콘텐츠의 주관적인 품질(예: 게임의 재미)을 측정하는 데 도움을 줍니다. AI 기업들이 인간의 '취향'을 평가에 반영할 수 있도록 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
