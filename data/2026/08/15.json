@@ -1,0 +1,739 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32507",
+    "title": "넓게 만들고, 좁게 출시하기",
+    "url": "https://news.hada.io/topic?id=32507",
+    "discussion_url": "https://news.hada.io/topic?id=32507",
+    "summary": "AI가 구현과 브랜치 분해 비용을 낮추면서, 작업 경계를 처음부터 확정하는 대신 전체 기능을 먼저 구현하고 실제 코드에 드러난 경계에 따라 작은 PR로 나눌 수 있게 됨\n설계를 생략하는 방식은 아니며, 계획을 충분히 검증하고 새로운 설계라면 명세를 코드보다 먼저 커밋...",
+    "score": 0,
+    "published_at": "2026-08-14T16:36:56+00:00",
+    "ai_summary": "AI로 구현 및 브랜치 분해 비용이 낮아져, 처음부터 작업 경계를 확정하기보다 전체 기능을 먼저 구현할 수 있습니다.\n실제 코드에 드러난 경계에 따라 작은 PR로 나누는 새로운 개발 방식을 제안합니다.\n이는 설계를 생략하는 것이 아니며, 계획을 충분히 검증하고 명세를 코드보다 먼저 커밋하는 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32505",
+    "title": "하나의 프롬프트를 11개 AI 모델에 실행했더니 나온 서로 다른 결과",
+    "url": "https://news.hada.io/topic?id=32505",
+    "discussion_url": "https://news.hada.io/topic?id=32505",
+    "summary": "Netlify가 동일한 커피숍 웹사이트 프롬프트를 11개 AI 모델에서 각각 3회 실행한 결과, 디자인·콘텐츠 품질과 평균 크레딧이 2.4부터 수백 단위까지 크게 달라짐\n디자인 벤치마크가 아닌 실제 생성 결과를 비교한 주관적 실험으로, 모든 모델에 Netlify 기본 설정...",
+    "score": 0,
+    "published_at": "2026-08-14T16:34:12+00:00",
+    "ai_summary": "Netlify가 동일한 커피숍 웹사이트 프롬프트를 11개 AI 모델에서 실행한 결과, 모델별로 디자인과 콘텐츠 품질이 크게 달랐습니다.\n평균 크레딧 소모량도 2.4에서 수백 단위까지 차이를 보여, AI 모델 선택의 중요성을 시사합니다.\n이는 실제 생성 결과를 비교한 주관적인 실험으로, 다양한 AI 모델의 성능 편차를 잘 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32500",
+    "title": "Nine PBS, 기록 데이터 접근을 차단한 Iron Mountain 제소",
+    "url": "https://news.hada.io/topic?id=32500",
+    "discussion_url": "https://news.hada.io/topic?id=32500",
+    "summary": "St. Louis의 Nine PBS는 Denver 데이터센터에 보관된 50TB 이상의 자료를 돌려받기 위해 7월 28일 Iron Mountain Data Centers를 제소함\n클라우드 저장업체 Open Source Storage(OSS) 가 3월 6일 예고 없이 접근을 차단한 뒤 사실상 운영을 중단했...",
+    "score": 0,
+    "published_at": "2026-08-14T13:38:03+00:00",
+    "ai_summary": "Nine PBS가 Iron Mountain Data Centers를 고소하며 50TB 이상의 기록 데이터 반환을 요구했습니다.\n클라우드 저장업체 Open Source Storage(OSS)가 3월 6일 예고 없이 접근을 차단하며 사실상 운영을 중단한 것이 원인입니다.\n데이터센터 서비스 이용 시 발생할 수 있는 접근성 문제와 법적 분쟁의 중요성을 보여주는 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32497",
+    "title": "이해가 새로운 병목이다",
+    "url": "https://news.hada.io/topic?id=32497",
+    "discussion_url": "https://news.hada.io/topic?id=32497",
+    "summary": "AI 에이전트가 사람이 흡수하는 속도보다 빠르게 코드를 작성하면서, 인간이 시스템을 이해하고 창작에 참여하는 능력이 새로운 병목이 됨\n이해는 결과를 승인하거나 거부하는 검증에 그치지 않고, 다음 아이디어를 만들고 프로젝트를 발전시킬 개념과 유창성을 확...",
+    "score": 0,
+    "published_at": "2026-08-14T11:32:35+00:00",
+    "ai_summary": "AI 에이전트가 코드를 너무 빠르게 생성하면서, 인간이 시스템을 이해하고 창작에 참여하는 능력이 새로운 병목이 되고 있습니다.\n이해는 단순히 AI 결과물을 승인하거나 거부하는 것을 넘어, 새로운 아이디어를 만들고 프로젝트를 발전시키는 데 필수적입니다.\n개발자에게 AI 시대에 필요한 역량 변화와 '이해'의 중요성을 강조하는 통찰입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32495",
+    "title": "Mistral OCR 4.1 공개",
+    "url": "https://news.hada.io/topic?id=32495",
+    "discussion_url": "https://news.hada.io/topic?id=32495",
+    "summary": "Mistral AI의 Document AI 스택을 구동하는 최신 OCR 서비스로, 2026년 7월 16일 Public Preview로 공개됨\n문단별 경계 상자, 구조적 블록 레이블과 블록 단위 신뢰도 점수를 기본 제공함\n모델 식별자는 mistral-ocr-4-1이며,",
+    "score": 0,
+    "published_at": "2026-08-14T09:34:12+00:00",
+    "ai_summary": "Mistral AI가 Document AI 스택을 구동하는 최신 OCR 서비스인 Mistral OCR 4.1을 공개 프리뷰로 출시했습니다.\n이 서비스는 문단별 경계 상자, 구조적 블록 레이블 및 블록 단위 신뢰도 점수를 기본 제공합니다.\n모델 식별자는 'mistral-ocr-4-1'이며, 문서 처리 관련 AI 개발자에게 유용한 도구가 될 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32491",
+    "title": "X, For You 알고리듬 공개 범위 확대 - 랭킹 가중치와 노출 제한 시스템까지",
+    "url": "https://news.hada.io/topic?id=26010",
+    "discussion_url": "https://news.hada.io/topic?id=32491",
+    "summary": "X가 2026년 1월 공개한 For You 추천 알고리듬 저장소를 대폭 확장해, 실제 노출에 영향을 주는 설정과 필터링 시스템까지 추가 공개함\n기존 공개는 Thunder/Phoenix 기반 후보 수집과 Transformer 랭킹 구조가 중심이었지만, 이...",
+    "score": 0,
+    "published_at": "2026-08-14T02:30:02+00:00",
+    "ai_summary": "X가 'For You' 추천 알고리듬 저장소의 공개 범위를 대폭 확장하여 실제 노출에 영향을 주는 설정과 필터링 시스템까지 포함했습니다.\n이는 기존에 공개된 후보 수집 및 Transformer 랭킹 구조를 넘어선 추가 정보로, 알고리듬의 작동 방식을 더 깊이 이해할 수 있게 합니다.\n대규모 추천 시스템 개발자나 AI/ML 엔지니어에게 흥미로운 자료가 될 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32485",
+    "title": "Wails v3 Beta - Go 데스크톱 앱을 위한 새로운 기반",
+    "url": "https://news.hada.io/topic?id=32485",
+    "discussion_url": "https://news.hada.io/topic?id=32485",
+    "summary": "초기엔 Go 백엔드 + HTML/CSS/JS·React·Vue 프론트엔드로 맥/윈/리눅스용 단일 바이너리 앱을 만드는 가벼운 Electron 대체제였음\n이후 v2를 거쳐 이번 v3 Beta에서는 단순 GUI 래퍼보다 복잡한 데스크톱 앱을 만들기 위한 애플리케이션 구조 자체를 크게 재설계...",
+    "score": 0,
+    "published_at": "2026-08-14T00:45:02+00:00",
+    "ai_summary": "Wails v3 Beta가 Go 언어로 데스크톱 앱을 개발하기 위한 새로운 기반으로 출시되어, Electron의 가벼운 대안을 제시합니다.\nGo 백엔드와 다양한 웹 프론트엔드를 결합하여 맥, 윈도우, 리눅스용 단일 바이너리 앱을 만들 수 있습니다.\nv3는 단순 GUI 래퍼를 넘어 복잡한 데스크톱 앱 개발을 위한 애플리케이션 구조 자체를 크게 재설계했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32484",
+    "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
+    "url": "https://news.hada.io/topic?id=32484",
+    "discussion_url": "https://news.hada.io/topic?id=32484",
+    "summary": "타임라인 안에서 사용자와 에이전트가 함께 영상을 생성·편집할 수 있는 오픈소스 macOS 영상 편집기\nSwift로 처음부터 새로 개발했으며, Premiere Pro를 지향점으로 삼아 AI를 워크플로에 통합하는 방향으로 설계\n타임라인 편집기 안에서 Seedance, Klin...",
+    "score": 0,
+    "published_at": "2026-08-14T00:30:03+00:00",
+    "ai_summary": "palmier-pro는 AI를 위해 처음부터 Swift로 개발된 오픈소스 macOS 영상 편집기입니다.\n타임라인 내에서 사용자와 AI 에이전트가 함께 영상을 생성하고 편집할 수 있도록 워크플로에 AI를 통합하는 데 중점을 둡니다.\n프리미어 프로를 지향점으로 삼아, AI 기반의 협업 영상 편집 환경을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32482",
+    "title": "Rust에서 안전하게 C를 호출하는 extern &quot;fil-c&quot; 제안",
+    "url": "https://news.hada.io/topic?id=32482",
+    "discussion_url": "https://news.hada.io/topic?id=32482",
+    "summary": "Rust의 C FFI는 unsafe 경계 너머의 계약을 강제하지 못하므로, 기존 C/C++ 코드를 Fil-C의 런타임 메모리 안전성 아래에서 호출하는 새 FFI가 필요함\n초기 버전은 스칼라 값, 복사된 문자열·슬라이스, 불투명 핸들만 지원하며, 전체 C 의존성 그래프를 Fil-C로 컴파일...",
+    "score": 0,
+    "published_at": "2026-08-14T00:11:52+00:00",
+    "ai_summary": "Rust의 C FFI는 메모리 안전성 한계가 있어 새로운 \"fil-c\" FFI가 제안됩니다.\n이는 C/C++ 코드를 Fil-C 런타임의 안전성 아래에서 호출할 수 있게 합니다.\n현재는 스칼라 값, 문자열 등 제한된 기능만 지원하며, 전체 C 의존성을 Fil-C로 컴파일해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49299605",
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49299605",
+    "summary": "",
+    "score": 803,
+    "published_at": "2026-08-14T15:00:00+00:00",
+    "ai_summary": "\"Qwen 3.8 27B\"은 알리바바가 개발한 대규모 언어 모델(LLM)의 새로운 버전입니다.\n270억 개의 매개변수를 가진 모델로, 이전 버전에 비해 성능 향상과 효율성을 제공할 것으로 기대됩니다.\nAI 개발자들이 다양한 자연어 처리 및 생성 작업에 활용할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49304447",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49304447",
+    "summary": "",
+    "score": 121,
+    "published_at": "2026-08-14T20:52:44+00:00",
+    "ai_summary": "\"Going Dark\" 시대는 암호화 기술 발전으로 법 집행 기관이 수사에 어려움을 겪는 현상입니다.\n이 기사는 법 집행 기관의 해킹 도구 사용 증가와 프라이버시 침해 우려를 다룹니다.\n개발자들은 보안 및 프라이버시 보호에 대한 기술적, 윤리적 고민이 필요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49305492",
+    "title": "RISC-V: They should have known better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "discussion_url": "https://news.ycombinator.com/item?id=49305492",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-08-14T22:38:34+00:00",
+    "ai_summary": "이 기사는 오픈소스 ISA인 RISC-V의 특정 설계 결정에 대한 비판적 분석을 담고 있습니다.\nRISC-V가 가진 잠재적 문제점이나 개선이 필요한 부분을 지적할 가능성이 큽니다.\n하드웨어 및 임베디드 시스템 개발자들에게 중요한 시사점을 제공할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49296740",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49296740",
+    "summary": "",
+    "score": 731,
+    "published_at": "2026-08-14T10:12:48+00:00",
+    "ai_summary": "이 기사는 \"Opus 5\"의 사용자 경험이나 작업 효율성에 대한 불만을 다루는 것으로 보입니다.\n만약 AI 모델이라면, 특정 모델 버전에서 성능 저하 또는 사용성의 문제가 제기되고 있을 수 있습니다.\n개발자들은 AI 모델 선정 및 사용 시 이러한 실제 피드백을 고려할 필요가 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49300759",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49300759",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-08-14T16:12:52+00:00",
+    "ai_summary": "오픈소스 원격 데스크톱 소프트웨어인 RustDesk가 Wayland 환경에서 진정한 무인 원격 접속을 지원합니다.\n이는 Linux 사용자 및 개발자에게 중요한 개선점으로, Wayland 채택률 증가에 발맞춘 기능 추가입니다.\n원격 지원 및 관리 솔루션 개발자들에게 유용한 소식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49300314",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49300314",
+    "summary": "",
+    "score": 239,
+    "published_at": "2026-08-14T15:43:10+00:00",
+    "ai_summary": "구글이 동형 암호화(Homomorphic Encryption) 기술을 활용하여 프라이빗 AI를 실용화하고 있습니다.\n이 기술은 데이터를 암호화된 상태로 유지하면서 AI 연산을 수행할 수 있게 해줍니다.\n민감한 데이터를 다루는 AI/ML 개발자 및 보안 전문가들에게 매우 중요한 진전입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49300568",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49300568",
+    "summary": "",
+    "score": 169,
+    "published_at": "2026-08-14T15:58:59+00:00",
+    "ai_summary": "AI를 직접 손으로 구현하거나 기본적인 원리를 다루는 기사입니다.\n복잡한 프레임워크 없이 AI의 근본적인 작동 방식을 깊이 이해하는 데 초점을 맞춥니다.\n개발자들이 AI 기술의 기초를 다지고 문제 해결 능력을 향상시키는 데 도움을 줄 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49299746",
+    "title": "Introducing Toast 1",
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49299746",
+    "summary": "",
+    "score": 171,
+    "published_at": "2026-08-14T15:07:57+00:00",
+    "ai_summary": "\"Toast\"라는 이름의 새로운 소프트웨어 또는 라이브러리의 첫 번째 버전을 소개합니다.\n주로 사용자 인터페이스 알림 기능이나 특정 개발 프레임워크와 관련될 가능성이 높습니다.\n새로운 기술 스택이나 도구를 탐색하는 개발자들에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49303202",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49303202",
+    "summary": "",
+    "score": 224,
+    "published_at": "2026-08-14T19:03:20+00:00",
+    "ai_summary": "Firefox가 uBlock Origin을 지원하는 유일한 주요 웹 브라우저로 남았다는 내용을 다룹니다.\n이는 브라우저 간의 경쟁 구도와 광고 차단 기술의 미래에 대한 중요한 시사점을 제공합니다.\n웹 개발자들에게는 브라우저 정책 변화와 사용자 경험에 미치는 영향에 대한 인식을 높여줍니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49299081",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49299081",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-08-14T14:21:18+00:00",
+    "ai_summary": "RSS 피드를 e-잉크 신문으로 변환하여 스마트폰 사용을 줄인 개인 프로젝트를 소개합니다.\n하드웨어와 소프트웨어를 결합하여 맞춤형 정보 소비 환경을 구축하는 과정을 다룹니다.\n임베디드 시스템, 데이터 처리, 그리고 생산성 향상에 관심 있는 개발자에게 영감을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49303046",
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "url": "https://github.com/lajosdeme/mole",
+    "discussion_url": "https://news.ycombinator.com/item?id=49303046",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-08-14T18:52:48+00:00",
+    "ai_summary": "터미널에서 작동하는 심층 연구 에이전트 도구인 'Mole'를 소개하는 게시물입니다.\nAI/LLM 기술을 활용하여 개발자의 정보 탐색 및 분석 작업을 효율적으로 돕습니다.\n명령줄 인터페이스 환경에서 생산성을 높이고 싶은 개발자들에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49300800",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "discussion_url": "https://news.ycombinator.com/item?id=49300800",
+    "summary": "",
+    "score": 114,
+    "published_at": "2026-08-14T16:15:21+00:00",
+    "ai_summary": "Anthropic의 LLM인 Claude를 코딩 세션에 최대한 활용하는 방법을 다루는 기사입니다.\n코드 생성, 디버깅, 학습 등 개발 작업에 Claude를 효과적으로 통합하는 팁을 제공합니다.\nLLM을 활용하여 개발 생산성을 높이려는 모든 개발자들에게 실질적인 가이드라인을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49269809",
+    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
+    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49269809",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-08-12T09:34:38+00:00",
+    "ai_summary": "Turbo Pascal이 CP/M, MSX-DOS, MS-DOS와 같은 초기 운영 체제에서 어떻게 작동했는지 탐구합니다.\n오래된 플랫폼에서의 개발 경험과 컴파일러의 효율성을 회고합니다.\n역사적인 컴퓨팅 환경과 프로그래밍 언어의 진화를 이해하는 데 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49232870",
+    "title": "Show HN: Ember – Redshift safe color palettes",
+    "url": "https://github.com/carpdiem/ember",
+    "discussion_url": "https://news.ycombinator.com/item?id=49232870",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-08-09T16:26:37+00:00",
+    "ai_summary": "화면 색온도 조절 소프트웨어인 Redshift에 안전한 색상 팔레트 프로젝트 Ember를 소개합니다.\n시각적 편안함을 제공하며, 다양한 환경에서 색상이 왜곡 없이 보이도록 설계되었습니다.\n프론트엔드 개발자와 UI/UX 디자이너에게 유용한 도구 및 가이드라인을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49249523",
+    "title": "Don't classify, hallucinate",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "discussion_url": "https://news.ycombinator.com/item?id=49249523",
+    "summary": "",
+    "score": 213,
+    "published_at": "2026-08-10T20:50:36+00:00",
+    "ai_summary": "기존의 분류(classification) 방식 대신 '환각(hallucination)' 방식을 활용하는 새로운 접근법을 제시합니다.\n이는 주로 대규모 언어 모델(LLM) 및 생성형 AI 분야에서 새로운 가능성을 탐구하는 내용입니다.\nAI/ML 개발자들이 모델의 한계를 넘어 창의적인 결과물을 얻는 방법에 대한 논의입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49301215",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "url": "https://luacad.ad-si.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301215",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-08-14T16:43:22+00:00",
+    "ai_summary": "Lua 언어로 스크립팅된 파라메트릭 CAD 소프트웨어, LuaCAD 프로젝트를 소개합니다.\n사용자들이 Lua를 이용해 CAD 모델을 프로그래밍 방식으로 생성하고 조작할 수 있도록 합니다.\n엔지니어링, 3D 모델링, 그리고 스크립팅 가능한 도구 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49294997",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "discussion_url": "https://news.ycombinator.com/item?id=49294997",
+    "summary": "",
+    "score": 1016,
+    "published_at": "2026-08-14T05:19:59+00:00",
+    "ai_summary": "GLM-5.3은 최첨단 AI 코딩 기술을 다루며, 새로운 사이버 보안 역량을 보여줍니다. 이 기술은 코드 생성 및 잠재적인 위협에 대한 연구를 포함합니다. 개발자들에게 AI 기반 개발 및 보안 분야의 새로운 지평을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49299222",
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49299222",
+    "summary": "",
+    "score": 704,
+    "published_at": "2026-08-14T14:31:08+00:00",
+    "ai_summary": "이 기사는 2020년 당시 웹사이트들의 일반적인 문제점이나 트렌드를 비판적으로 분석합니다. 과도한 복잡성, 성능 저하 등 웹 개발의 여러 측면을 다룹니다. 웹 개발자들이 자신의 작업을 반성하고 더 나은 방향을 모색하는 데 도움이 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49253831",
+    "title": "Moving integer division to floating-point is trivial",
+    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253831",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-08-11T05:48:56+00:00",
+    "ai_summary": "이 기사는 정수 나눗셈을 부동소수점 연산으로 전환하는 기술적 접근법을 설명합니다. 특정 상황에서 성능 최적화를 위한 단순하지만 효과적인 방법을 제시합니다. 컴퓨터 과학의 기본 연산과 최적화 기법에 대한 이해를 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49303237",
+    "title": "Open WireGuard Endpoints",
+    "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49303237",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-08-14T19:05:46+00:00",
+    "ai_summary": "이 기사는 WireGuard VPN 엔드포인트를 공개적으로 접근 가능하게 만드는 방법을 다룹니다. 네트워크 보안 및 인프라 구성과 관련된 내용을 포함합니다. 개발자들이 WireGuard를 활용한 안전하고 효율적인 네트워크를 구축하는 데 도움을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49301417",
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301417",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-08-14T16:57:14+00:00",
+    "ai_summary": "이 기사는 LLM이 생성한 GPU 커널의 정확성을 검증하는 '계약 등급' 검증 도구를 소개합니다. AI가 생성한 고성능 코드가 안전하고 신뢰할 수 있음을 보장하는 방법을 연구합니다. LLM 기반 코드 생성의 신뢰성과 성능을 높이는 데 중요한 기여를 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49302562",
+    "title": "Racket v9.3",
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302562",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-08-14T18:14:48+00:00",
+    "ai_summary": "이 기사는 프로그래밍 언어 Racket의 버전 9.3 출시 소식을 다룹니다. 새로운 기능, 개선 사항 및 변경점에 대한 정보를 제공합니다. Racket 사용자 및 함수형 프로그래밍에 관심 있는 개발자들에게 유용한 업데이트입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/previewing-ultrafast/",
+    "title": "GPT-5.6 Sol Ultrafast (4 minute read)",
+    "url": "https://openai.com/index/previewing-ultrafast/",
+    "discussion_url": "https://openai.com/index/previewing-ultrafast/",
+    "summary": "OpenAI previewed Ultrafast, a GPT-5.6 Sol mode capable of generating up to 750 output tokens per second and operating at up to 14x standard processing speed. The approach aimed to deliver real-time performance without switching to a smaller model.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "OpenAI가 GPT-5.6 Sol Ultrafast 모드를 공개했습니다. 이 모드는 초당 최대 750 토큰을 생성하고 표준 처리 속도보다 최대 14배 빠르게 작동합니다. 더 작은 모델로 전환하지 않고 실시간 성능을 제공하는 데 중점을 둡니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+    "title": "Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)",
+    "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+    "discussion_url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+    "summary": "Google is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model. The release comes just three weeks after the release of Gemini 3.6 Flash, an unusually short turnaround attributed to developer feedback and algorithmic improvements. API prices have been temporarily cut in half. Gemini 3.7 Flash will cost $0.75 per million input tokens and $3.75 per million output tokens until the end of the year.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "구글이 개발자 피드백과 알고리즘 개선을 반영하여 제미니 3.7 플래시를 출시했습니다. 코딩 및 에이전트 개발에 특화되어 있으며, API 가격을 연말까지 50% 인하합니다. 입력 토큰 100만 개당 $0.75, 출력 토큰 100만 개당 $3.75의 비용으로 이용 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/multiagent-systems",
+    "title": "How AI Agents Could Fail at Scale (14 minute read)",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "discussion_url": "https://www.anthropic.com/research/multiagent-systems",
+    "summary": "Anthropic examined how individually benign behaviors in frontier AI agents could compound into systemic failures when many agents interact in shared environments. The research highlighted risks including confabulation, reward hacking, and unexpected dynamics emerging faster than human institutions can oversee them.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Anthropic 연구는 AI 에이전트의 개별적인 무해한 행동이 대규모 시스템 실패로 이어질 수 있음을 분석했습니다. 주요 위험으로는 환각(confabulation), 보상 해킹(reward hacking) 등이 있으며, 인간 감독 범위를 넘어서는 예상치 못한 동적 발생을 지적합니다. 이는 대규모 AI 에이전트 상호작용 환경에서 발생할 수 있는 시스템적 실패 가능성을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/JoshARosen/status/2087944178558791874",
+    "title": "Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)",
+    "url": "https://x.com/JoshARosen/status/2087944178558791874",
+    "discussion_url": "https://x.com/JoshARosen/status/2087944178558791874",
+    "summary": "Recursive agent systems should be designed as dependency graphs because upstream mistakes can propagate across many workers while leaf errors stay localized. Reliability depends less on nesting depth than blast radius, requiring provenance, verification, and stronger controls at high-impact nodes.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "재귀적 에이전트 시스템은 종속성 그래프로 설계되어야 합니다. 상위 계층의 실수가 광범위한 영향을 미칠 수 있지만, 말단 오류는 국소화됩니다. 신뢰성은 중첩 깊이보다 영향 범위에 더 많이 좌우되며, 이를 위해 출처, 검증 및 고영향 노드에 대한 강력한 제어가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://docs.mistral.ai/models/ocr-4-1",
+    "title": "OCR 4.1 (Website)",
+    "url": "https://docs.mistral.ai/models/ocr-4-1",
+    "discussion_url": "https://docs.mistral.ai/models/ocr-4-1",
+    "summary": "Mistral OCR 4.1 is a highly specialized vision-multimodal model engineered specifically to ingest, parse, and structure complex document formats. It excels at reading complex tabular layouts, understanding hierarchical document structures, and directly outputting clean, machine-readable JSON or Markdown. The release pressures cloud providers and proprietary players to re-evaluate their pricing tiers for multimodal inputs.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Mistral OCR 4.1은 복잡한 문서 형식을 처리하고 구조화하는 데 특화된 비전-멀티모달 모델입니다. 복잡한 표 레이아웃과 계층적 문서 구조를 이해하며, 깨끗한 JSON 또는 Markdown으로 직접 출력합니다. 이 모델 출시는 클라우드 제공업체와 독점 플레이어들에게 멀티모달 입력 가격 정책 재평가 압력을 가합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+    "title": "Agent Plugins are the future of Agent Skills (13 minute read)",
+    "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+    "discussion_url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+    "summary": "Agent Plugins package skills and MCP dependencies into one portable, vendor-neutral folder that compatible clients can load. The standard reduces fragmented setup through shared manifests, portable paths, isolated failure boundaries, and client-specific extensions, while leaving authentication unresolved.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Agent Plugins는 에이전트 스킬과 의존성을 하나의 휴대 가능한, 벤더 중립적 폴더로 묶는 표준입니다. 이는 공유 매니페스트, 휴대 가능한 경로, 격리된 실패 경계를 통해 분산된 설정을 줄입니다. 인증 문제는 해결되지 않았지만, 클라이언트별 확장 기능을 제공합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/builds",
+    "title": "Cloud agents start 3x faster with builds (4 minute read)",
+    "url": "https://cursor.com/blog/builds",
+    "discussion_url": "https://cursor.com/blog/builds",
+    "summary": "Agents are only as capable as the environments they work in. Cursor can now continuously prepare development environments in the background at no additional cost. Agents can now start in ready environments, resulting in up to 3x faster responses. Agents will keep using the last successful build, and work continues uninterrupted while developers debug in the background.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Cursor가 백그라운드에서 개발 환경을 지속적으로 준비하여 에이전트 시작 속도를 최대 3배 빠르게 합니다. 개발자는 준비된 환경에서 즉시 작업하며, 백그라운드에서 디버깅 중에도 작업이 중단되지 않습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?sp=dg0jd1IfkDsUmZV746tpbxQA&amp%3Butm_source=tldrai",
+    "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?sp=dg0jd1IfkDsUmZV746tpbxQA&amp%3Butm_source=tldrai",
+    "discussion_url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?sp=dg0jd1IfkDsUmZV746tpbxQA&amp%3Butm_source=tldrai",
+    "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot.Click here to learn more!",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "TLDR이 Applied AI 팀에서 GTM Engineer를 채용합니다. AI 에이전트 구축 경험과 HubSpot 사용에 익숙한 지원자를 찾습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs (3 minute read)",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "discussion_url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "summary": "Writer, which offers AI tools and agents for marketers, has launched a new flagship model called Palmyra X6 that provides deployment-ready capabilities at a much lower price.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Writer가 새로운 플래그십 AI 모델인 Palmyra X6를 출시했습니다. 이 모델은 배포 가능한 기능을 훨씬 낮은 비용으로 제공하여 토큰 비용 효율성을 높입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/google-tests-agent-management-ui-on-ai-studio/",
+    "title": "Google tests Agent management UI on AI Studio (2 minute read)",
+    "url": "https://www.testingcatalog.com/google-tests-agent-management-ui-on-ai-studio/",
+    "discussion_url": "https://www.testingcatalog.com/google-tests-agent-management-ui-on-ai-studio/",
+    "summary": "Google is testing a new Agent management UI in AI Studio, adding a dedicated tab for managing Cloud Agents within Google Cloud projects, not in consumer-grade sandboxes.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Google이 AI Studio에서 새로운 에이전트 관리 UI를 테스트 중입니다. 이 기능은 Google Cloud 프로젝트 내에서 클라우드 에이전트를 관리하는 전용 탭을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://au.investing.com/news/stock-market-news/apple-trains-own-ai-model-for-china-with-alibaba-support-reuters-reports-4599519",
+    "title": "Apple trains own AI model for China with Alibaba support, Reuters reports (2 minute read)",
+    "url": "https://au.investing.com/news/stock-market-news/apple-trains-own-ai-model-for-china-with-alibaba-support-reuters-reports-4599519",
+    "discussion_url": "https://au.investing.com/news/stock-market-news/apple-trains-own-ai-model-for-china-with-alibaba-support-reuters-reports-4599519",
+    "summary": "A China-trained model could give Apple greater control over its AI offerings in the country.",
+    "score": 0,
+    "published_at": "2026-08-14T23:21:34+00:00",
+    "ai_summary": "Apple이 Alibaba의 지원을 받아 중국 시장을 위한 자체 AI 모델을 훈련하고 있습니다. 이는 Apple이 중국 내 AI 서비스에 대한 통제력을 강화하는 전략의 일환입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  }
+]
