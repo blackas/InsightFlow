@@ -1,0 +1,589 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32542",
+    "title": "Ask HN: 요즘 Hacker News를 어떻게 따라가시나요?",
+    "url": "https://news.hada.io/topic?id=32542",
+    "discussion_url": "https://news.hada.io/topic?id=32542",
+    "summary": "최근 2~3년간, 주로 AI 때문에 Hacker News의 흥미로운 글을 계속 따라가기가 점점 어려워짐\n흥미로운 글을 점점 더 많이 무시하는 단순한 방법 외에, 이를 어떻게 해결하는지 궁금함\n\n...",
+    "score": 0,
+    "published_at": "2026-08-15T23:08:57+00:00",
+    "ai_summary": "최근 AI 관련 글이 많아지면서 Hacker News에서 흥미로운 글을 선별하기 어려워졌습니다.\n정보 과부하를 피하면서 기술 트렌드를 효과적으로 따라가는 방법에 대한 고민을 공유합니다.\n이는 개발자들이 끊임없이 변화하는 기술 환경 속에서 정보를 습득하는 방식에 대한 시사점을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32540",
+    "title": "AI와 일하는 방식은 코딩보다 리더십에 가깝다",
+    "url": "https://news.hada.io/topic?id=32540",
+    "discussion_url": "https://news.hada.io/topic?id=32540",
+    "summary": "전통적인 소프트웨어와 달리 AI는 같은 요청에도 다른 답을 낼 수 있어, 정확한 명령보다 맥락·명확성·피드백이 중요함\nAI를 컴파일러처럼 다루면 예측 불가능성이 답답해지지만, 의도를 주고받는 협업 상대로 접근하면 더 유용하게 활용할 수 있음\n원하는...",
+    "score": 0,
+    "published_at": "2026-08-15T23:04:39+00:00",
+    "ai_summary": "AI는 기존 소프트웨어와 달리 같은 요청에도 다른 응답을 내므로, 정확한 명령보다 맥락과 명확한 피드백이 중요합니다.\nAI를 예측 불가능한 컴파일러로 보기보다, 의도를 주고받는 협업 파트너로 접근해야 합니다.\n이는 AI 시대에 개발자의 사고방식 변화를 요구하며, 효과적인 AI 활용법을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32539",
+    "title": "AI는 수학자보다 더 잘 생각하는 게 아니라 더 많이 기억함",
+    "url": "https://news.hada.io/topic?id=32539",
+    "discussion_url": "https://news.hada.io/topic?id=32539",
+    "summary": "AI의 수학 성능은 뛰어난 추론뿐 아니라 문제와 중간 계산·제약·실패한 접근을 함께 유지하는 거대한 상징적 작업 공간에서 나올 수 있음\n인간은 제한된 작업 기억을 청킹과 종이로 보완하지만, AI는 긴 컨텍스트를 노트처럼 활용해 수십·수백 개 조건과 긴 추론 사슬",
+    "score": 0,
+    "published_at": "2026-08-15T21:33:40+00:00",
+    "ai_summary": "AI의 뛰어난 수학 성능은 강력한 추론보다는 방대한 '기억' 기반의 상징적 작업 공간에서 비롯됩니다.\n인간과 달리 AI는 긴 컨텍스트를 활용해 수많은 조건과 추론 사슬을 유지합니다.\n이는 AI의 작동 원리에 대한 깊은 이해를 제공하며, AI 개발 및 활용에 중요한 시사점을 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32534",
+    "title": "Claude Code 세션의 가치를 극대화하는 방법",
+    "url": "https://news.hada.io/topic?id=32534",
+    "discussion_url": "https://news.hada.io/topic?id=32534",
+    "summary": "Claude Code는 같은 작업도 컨텍스트 크기와 유지 턴 수, 병렬 컨텍스트 수에 따라 토큰 사용량이 달라지므로 필요한 정보만 세션에 남겨야 함\n비용은 모델, 입출력 유형, 프롬프트 캐시에 좌우되며 출력은 입력보다 약 5배 비싸고, 캐시 읽기는 일반 입력 가격의 ...",
+    "score": 0,
+    "published_at": "2026-08-15T18:38:34+00:00",
+    "ai_summary": "Claude Code 사용 시 토큰 비용은 컨텍스트 크기와 유지 턴 수 등에 따라 달라지므로, 필요한 정보만 세션에 남겨야 합니다.\n비용은 모델, 입출력 유형, 프롬프트 캐시에 좌우되며, 출력 비용이 입력보다 약 5배 높습니다.\n효과적인 토큰 관리 및 비용 최적화 전략은 LLM 개발 및 운영에 필수적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32532",
+    "title": "RustDesk, Wayland에서 완전한 무인 원격 접속 지원",
+    "url": "https://news.hada.io/topic?id=32532",
+    "discussion_url": "https://news.hada.io/topic?id=32532",
+    "summary": "초기 설정만 마치면 매번 원격 사용자의 승인 없이 접속할 수 있는 Wayland 무인 원격 접속과 다중 모니터 지원이 추가됨\n원격 장치에 사람이 없어도 연결할 수 있으며, 재부팅 후 로그인 화면에서도 접속 가능함\n현재 x86_64 Debian/Ubuntu 계열...",
+    "score": 0,
+    "published_at": "2026-08-15T15:34:35+00:00",
+    "ai_summary": "RustDesk가 Wayland 환경에서 초기 설정 후 사용자 승인 없이 접속 가능한 무인 원격 접속과 다중 모니터 지원을 추가했습니다.\n원격 장치에 사람이 없어도 연결할 수 있으며, 재부팅 후 로그인 화면에서도 접속 가능합니다.\n이는 원격 관리 및 지원이 필요한 개발자에게 유용한 업데이트입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32530",
+    "title": "AI by Hand — 손으로 익히는 AI 수학·알고리듬·아키텍처",
+    "url": "https://news.hada.io/topic?id=32530",
+    "discussion_url": "https://news.hada.io/topic?id=32530",
+    "summary": "AI by Hand는 AI의 수학과 알고리듬, 아키텍처를 직접 손으로 따라가며 익힐 수 있는 학습 콘텐츠를 제공함\nFrontier에서는 Qwen 3.6, Gemma 4, OpenClaw, Google Ironwood TPU와 함께 모델 미세 조정 및 강화학습 알고리듬을 다룸\nFoundation",
+    "score": 0,
+    "published_at": "2026-08-15T14:31:43+00:00",
+    "ai_summary": "'AI by Hand'는 AI의 핵심 수학, 알고리듬, 아키텍처를 직접 손으로 학습할 수 있는 콘텐츠를 제공합니다.\n이 학습 자료는 Qwen 3.6, Gemma 4 등 최신 모델과 함께 미세 조정 및 강화학습 알고리듬을 다룹니다.\nAI 분야에 대한 개발자들의 깊이 있는 이해와 실용적 역량 강화에 기여할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32524",
+    "title": "Going Dark와 법 집행기관 해킹의 시대",
+    "url": "https://news.hada.io/topic?id=32524",
+    "discussion_url": "https://news.hada.io/topic?id=32524",
+    "summary": "AI 취약점 탐지가 소프트웨어 보안을 크게 높이면, 표적 해킹 도구에 의존해 온 미국 정보·법 집행기관이 수사 역량을 잃는 진정한 Going Dark 상황에 놓일 수 있음\n스마트폰 저장소와 메시지가 암호화된 뒤 FBI는 예외적 접근을 요구했지만, GrayKey와 Pegasus 같은 상용 해...",
+    "score": 0,
+    "published_at": "2026-08-15T10:33:12+00:00",
+    "ai_summary": "AI 기반 취약점 탐지가 소프트웨어 보안을 강화하면, 법 집행기관은 표적 해킹 도구 활용에 어려움을 겪는 'Going Dark' 상황에 직면할 수 있습니다.\n이는 암호화된 스마트폰 데이터에 대한 FBI의 예외적 접근 요구와 유사한 맥락입니다.\n개발자들은 AI 보안 기술의 발전과 그 사회적, 윤리적 영향에 주목할 필요가 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32522",
+    "title": "Google, 동형 암호화로 프라이빗 AI를 실용화",
+    "url": "https://news.hada.io/topic?id=32522",
+    "discussion_url": "https://news.hada.io/topic?id=32522",
+    "summary": "Google은 암호화된 데이터를 복호화하지 않고 AI 추론에 활용하는 오픈소스 컴파일러 HEIR를 Private Computing Toolkit에 추가함\n동형 암호화를 이용하면 서버가 암호문을 처리해 암호화된 결과를 반환하므로, 사용자 데이터와 서비스 제공자의 독점 AI 모델을 함...",
+    "score": 0,
+    "published_at": "2026-08-15T05:32:30+00:00",
+    "ai_summary": "Google이 암호화된 데이터를 복호화 없이 AI 추론에 활용하는 오픈소스 컴파일러 HEIR를 Private Computing Toolkit에 추가했습니다.\n동형 암호화를 통해 서버는 암호화된 데이터를 처리하여 암호화된 결과를 반환, 사용자 데이터와 AI 모델 모두의 프라이버시를 보호합니다.\n이는 프라이빗 AI 기술의 실용화를 앞당기는 중요한 진전으로, 보안과 AI 개발에 큰 영향을 미 미칠 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32520",
+    "title": "Suno Studio 2.0 - MIDI와 AI Chat을 결합한 본격적인 음악 제작 도구",
+    "url": "https://suno.com/blog/studio-2",
+    "discussion_url": "https://news.hada.io/topic?id=32520",
+    "summary": "Suno가 Studio 2.0을 공개하며 MIDI 편집, 음량/효과 자동 조절, 신시사이저, 음원 분리 등을 추가해 단순한 AI 음악 생성기에서 일반적인 음악 제작 프로그램(DAW) 에 가까운 형태로 확장함\nMIDI 건반으로 ...",
+    "score": 0,
+    "published_at": "2026-08-15T01:15:02+00:00",
+    "ai_summary": "Suno Studio 2.0은 MIDI 편집, 자동 조절, 신시사이저 등 음악 제작 기능을 강화했습니다.\n이는 AI 음악 생성기를 일반적인 DAW 수준으로 확장한 것입니다.\n개발자는 AI 음악 생성 및 편집 기술 트렌드를 파악할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32519",
+    "title": "실전 루프 엔지니어링",
+    "url": "https://news.hada.io/topic?id=32519",
+    "discussion_url": "https://news.hada.io/topic?id=32519",
+    "summary": "AI 에이전트에 작업을 반복 실행시키는 핵심은 자율성을 높이는 것보다 완료 조건과 제약을 명확히 정의하고, 어떤 판단은 사람이 계속 맡을지 결정하는 데 있음\nClaude Code의 /goal 은 측정 가능한 목표가 충족될 때까지 한 작업을 반복하고,",
+    "score": 0,
+    "published_at": "2026-08-15T01:01:02+00:00",
+    "ai_summary": "AI 에이전트의 반복 작업 성공은 자율성보다 명확한 완료 조건과 제약 정의에 달려 있습니다.\n어떤 판단을 사람이 할지 결정하는 것이 중요합니다.\nClaude Code의 /goal 기능은 측정 가능한 목표 달성까지 작업을 반복합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32518",
+    "title": "AI 텍스트 워터마킹의 작동 원리",
+    "url": "https://news.hada.io/topic?id=32518",
+    "discussion_url": "https://news.hada.io/topic?id=32518",
+    "summary": "AI 텍스트 워터마크는 문자나 메타데이터가 아니라 다음 단어를 고르는 확률적 선택에 비밀 패턴을 심으며, Google은 2024년부터 Gemini 앱·웹에 적용했고 Claude 신형 모델도 2026년 8월부터 모델 수준에서 적용함\n비밀 키로 문맥마다 후보 단어를 임의로 구분한 뒤 특정 후보의 선...",
+    "score": 0,
+    "published_at": "2026-08-15T00:43:26+00:00",
+    "ai_summary": "AI 텍스트 워터마크는 다음 단어 선택 확률에 비밀 패턴을 심어 작동합니다.\n문자나 메타데이터를 직접 사용하지 않고, 특정 후보 단어의 선택 확률을 조작합니다.\nGoogle과 Claude 신형 모델에 적용될 예정입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32515",
+    "title": "uBlock Origin을 지원하는 마지막 메이저 브라우저, Firefox",
+    "url": "https://news.hada.io/topic?id=32515",
+    "discussion_url": "https://news.hada.io/topic?id=32515",
+    "summary": "Chromium 계열 브라우저가 Manifest V2 확장 기능을 단계적으로 퇴출하는 가운데 Firefox는 uBlock Origin 지원을 유지함\nEdge가 Manifest V3로 전환하면 광고 차단 확장 기능이 광고 식별·차단에 필요한 기능에 접근하지 못하게 됨\nGoogle이 Chrome/Chro...",
+    "score": 0,
+    "published_at": "2026-08-15T00:31:24+00:00",
+    "ai_summary": "Chromium 계열 브라우저가 Manifest V3로 전환하며 확장 기능에 제약을 두는 반면, Firefox는 uBlock Origin 지원을 유지합니다.\n이는 광고 차단 확장 기능의 기능성에 영향을 미치며, 브라우저 생태계의 중요한 변화입니다.\n개발자는 웹 확장 기능 개발 환경 변화를 이해할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314744",
+    "title": "Engineers will do anything to avoid learning from history",
+    "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314744",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-08-15T22:08:22+00:00",
+    "ai_summary": "이 기사는 엔지니어들이 역사로부터 배우기를 꺼려하는 경향을 비판합니다.\n과거의 실수나 성공 사례를 통해 배우는 것의 중요성을 강조합니다.\n기술 개발 과정에서 반복되는 문제들을 줄이기 위한 성찰을 촉구합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314235",
+    "title": "Cultivating a state of mind where new ideas are born (2023)",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314235",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-08-15T20:54:11+00:00",
+    "ai_summary": "새로운 아이디어가 탄생하는 사고방식을 기르는 방법에 대한 기사입니다.\n창의적인 문제 해결 능력과 혁신적인 개발을 위해 필요한 마음가짐을 다룹니다.\n개발자들이 더 나은 소프트웨어와 솔루션을 만들기 위한 영감을 얻을 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49313367",
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "discussion_url": "https://news.ycombinator.com/item?id=49313367",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-08-15T19:12:53+00:00",
+    "ai_summary": "약물 발견 분야에서 AI가 어떻게 활용되고 있는지, 현재의 위치와 앞으로의 발전 방향을 다룹니다.\nAI/ML 기술이 생명 과학 및 제약 산업에 미치는 혁신적인 영향을 설명합니다.\nAI 모델 개발 및 데이터 과학에 관심 있는 개발자에게 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49312845",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "discussion_url": "https://news.ycombinator.com/item?id=49312845",
+    "summary": "",
+    "score": 356,
+    "published_at": "2026-08-15T18:13:02+00:00",
+    "ai_summary": "AI가 인간의 뇌보다 훨씬 더 큰 작업 기억력에 접근할 수 있다는 내용의 기사입니다.\nAI 시스템의 잠재력과 인간 인지와의 비교를 통해 기술적 함의를 탐구합니다.\nAI 연구 및 개발에 종사하는 개발자들에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314579",
+    "title": "Tracking down a Zsh history data loss bug",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314579",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-08-15T21:39:09+00:00",
+    "ai_summary": "Zsh 셸의 히스토리 데이터 손실 버그를 추적하고 해결하는 과정에 대한 기술 분석입니다.\n시스템 수준의 디버깅 방법론과 문제 해결 과정을 상세히 설명합니다.\n셸 스크립팅, 리눅스/유닉스 환경 또는 버그 추적에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49298035",
+    "title": "RISC-V: They Should Have Known Better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "discussion_url": "https://news.ycombinator.com/item?id=49298035",
+    "summary": "",
+    "score": 207,
+    "published_at": "2026-08-14T12:50:56+00:00",
+    "ai_summary": "오픈소스 명령어 집합 아키텍처인 RISC-V에 대한 비판적 분석 또는 특정 문제점을 다루는 기사입니다.\nRISC-V의 설계 철학, 구현 문제 또는 시장 전략에 대한 통찰을 제공할 수 있습니다.\n임베디드, 시스템 프로그래밍, 하드웨어 아키텍처에 관심 있는 개발자에게 관련이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49309549",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309549",
+    "summary": "",
+    "score": 376,
+    "published_at": "2026-08-15T11:00:02+00:00",
+    "ai_summary": "OpenAI의 Codex를 활용하여 코드를 자동 연구하고, 232배 더 빠른 커널을 구현한 경험을 공유합니다.\nAI 기반 코드 생성 및 최적화 도구의 실제 적용 사례와 그 효과를 보여줍니다.\nAI/ML 및 성능 최적화에 관심 있는 개발자에게 큰 가치를 제공합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314884",
+    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+    "url": "https://sugartrack-beta.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314884",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-08-15T22:28:14+00:00",
+    "ai_summary": "계정이나 클라우드 없이 오프라인으로 작동하는 혈당 기록 안드로이드 앱, SugarTrack에 대한 소개입니다.\n개인 정보 보호와 사용자 데이터 주권을 강조하는 앱 개발의 사례를 보여줍니다.\n안드로이드 개발자, 특히 오프라인 우선 설계나 개인 정보 보호에 관심 있는 개발자에게 관련이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314594",
+    "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+    "url": "https://github.com/christensen143/claude-trofeo-hud",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314594",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-08-15T21:42:39+00:00",
+    "ai_summary": "38달러짜리 Thermalright Trofeo Vision LCD를 활용하여 라이브 Claude 사용 현황을 HUD로 보여주는 프로젝트입니다.\nLLM API 사용량을 실시간으로 시각화하여 개발자가 효율적으로 모니터링할 수 있도록 돕습니다.\n저렴한 하드웨어와 AI 서비스 연동을 통해 새로운 활용 사례를 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49314642",
+    "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+    "url": "https://xescu.re/keeta-consensus.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314642",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-08-15T21:49:45+00:00",
+    "ai_summary": "Keeta라는 새로운 분산 시스템의 합의 알고리즘에 대한 모델링 및 검증 과정을 다룬 PDF 문서입니다.\n분산 환경에서 데이터 일관성과 신뢰성을 확보하기 위한 핵심 기술을 심도 있게 탐구합니다.\n백엔드 및 시스템 아키텍처 개발자에게 중요한 토픽입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49310926",
+    "title": "A spectre is haunting Unicode",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49310926",
+    "summary": "",
+    "score": 149,
+    "published_at": "2026-08-15T14:34:04+00:00",
+    "ai_summary": "유니코드 표준 내에 잠재되어 있거나 새롭게 드러나는 중요한 문제점을 다루는 기사입니다.\n텍스트 처리, 국제화, 보안 등 유니코드를 사용하는 모든 개발자에게 영향을 미칠 수 있는 내용입니다.\n문자를 다루는 모든 개발자에게 깊은 통찰을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49313068",
+    "title": "Tess's Android Wayland Compositor",
+    "url": "https://github.com/wmww/tawc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49313068",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-08-15T18:34:26+00:00",
+    "ai_summary": "Tess가 개발한 안드로이드용 Wayland 컴포지터에 대한 내용입니다.\n안드로이드 디스플레이 시스템의 저수준 구현과 그래픽 처리에 대한 깊이 있는 통찰을 제공합니다.\n시스템 개발자 및 그래픽스 엔지니어에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49265761",
+    "title": "Jaithon 3, a fast programming language with the perfect syntax",
+    "url": "https://github.com/abhiramasonny/jaithon",
+    "discussion_url": "https://news.ycombinator.com/item?id=49265761",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-08-11T23:13:57+00:00",
+    "ai_summary": "완벽한 문법을 가진 빠르고 새로운 프로그래밍 언어인 Jaithon 3를 소개하는 기사입니다.\n새로운 언어의 디자인 철학, 성능 특징, 그리고 개발자 생산성에 미치는 영향에 대해 다룹니다.\n언어 디자인과 성능에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49309451",
+    "title": "Working with AI feels more like leadership than coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309451",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-08-15T10:39:41+00:00",
+    "ai_summary": "AI와 함께 일하는 것이 코딩보다는 리더십에 더 가깝다고 주장하는 내용입니다.\nAI 시대에 개발자의 역할이 문제 정의, 프롬프트 엔지니어링, 결과 조정 등 전략적 방향 제시로 변화함을 강조합니다.\nAI 시대 개발자의 커리어 방향성에 대한 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49313941",
+    "title": "Humazon",
+    "url": "https://hughhowey.com/humazon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49313941",
+    "summary": "",
+    "score": 13,
+    "published_at": "2026-08-15T20:18:37+00:00",
+    "ai_summary": "인간과 아마존을 결합한 듯한 이름의 이 프로젝트는 AI 또는 자동화 관련 기술을 다룰 가능성이 높습니다.\n휴머노이드 로봇, 대규모 자동화 시스템, 혹은 인공지능 기반 서비스 개발에 초점을 맞출 수 있습니다.\n개발자에게는 AI/ML, 로봇 공학, 또는 클라우드 기반 솔루션에 대한 통찰력을 제공할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49258177",
+    "title": "Pizza Box Project Stack",
+    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49258177",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-08-11T13:40:37+00:00",
+    "ai_summary": "\"피자 박스 프로젝트 스택\"은 소형 폼 팩터에서 구현 가능한 기술 스택을 의미합니다.\n이는 주로 취미 프로젝트나 소규모 프로토타입 개발에 사용되는 기술 조합을 소개할 것입니다.\n임베디드 시스템, 저비용 서버 구축, 또는 특정 애플리케이션 개발 스택에 대한 내용을 담을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49312707",
+    "title": "BriskDB",
+    "url": "https://github.com/schapman1974/briskdb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49312707",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-08-15T17:56:57+00:00",
+    "ai_summary": "\"BriskDB\"는 빠르고 효율적인 데이터베이스 시스템을 지칭하는 것으로 보입니다.\n새로운 데이터베이스 아키텍처, 성능 최적화 기법, 또는 특정 용도에 맞는 데이터 저장 솔루션을 다룰 것입니다.\n데이터베이스 개발자나 고성능 데이터 처리에 관심 있는 백엔드 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49247495",
+    "title": "Geek Fighter – 2d fighter game",
+    "url": "https://geek-fighter.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49247495",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-08-10T18:14:13+00:00",
+    "ai_summary": "\"Geek Fighter\"는 2D 격투 게임 개발에 대한 내용을 다루는 기사입니다.\n게임 엔진, 그래픽 렌더링, 물리 엔진, 또는 게임 로직 구현 기술에 초점을 맞출 것입니다.\n게임 개발자, 그래픽 프로그래머, 또는 인터랙티브 프론트엔드 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49306333",
+    "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+    "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49306333",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-08-15T00:36:01+00:00",
+    "ai_summary": "이 기사는 베지어 스플라인 선화의 벡터화를 위한 2D 가우시안 스플래팅 기술을 설명합니다.\n래스터 이미지를 벡터 이미지로 변환하는 데 사용되는 고급 그래픽 및 컴퓨터 비전 알고리즘을 다룰 것입니다.\n그래픽스, 컴퓨터 비전 연구자, 또는 벡터 이미지 처리 기술에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49246366",
+    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "url": "https://baselashraf81.github.io/eigendrum/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49246366",
+    "summary": "",
+    "score": 191,
+    "published_at": "2026-08-10T16:53:31+00:00",
+    "ai_summary": "\"Eigendrum\"은 사용자가 그린 어떤 모양이든 드럼 소리로 변환하여 들려주는 인터랙티브 애플리케이션입니다.\n이는 실시간 그래픽스, 오디오 합성, 신호 처리 및 물리 모델링 기술을 결합하여 구현될 것입니다.\n프론트엔드 개발자, 오디오 프로그래머, 또는 창의적인 코딩 프로젝트에 관심 있는 이들에게 흥미롭습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49261421",
+    "title": "An image can overflow",
+    "url": "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49261421",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-08-11T17:16:38+00:00",
+    "ai_summary": "\"An image can overflow\"는 웹 개발에서 이미지가 컨테이너를 벗어나는 '오버플로우' 현상에 대한 기사입니다.\nCSS 레이아웃, 이미지 크기 조정, 반응형 디자인 등 프론트엔드 관련 기술을 다룰 것입니다.\n웹 개발자, 특히 프론트엔드 및 UI/UX 엔지니어에게 실제적인 해결책과 팁을 제공할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49237183",
+    "title": "The mathematical beauty of hyperbezier curves",
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49237183",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-08-09T23:09:04+00:00",
+    "ai_summary": "이 기사는 컴퓨터 그래픽스와 디자인에서 사용되는 베지어 곡선의 고급 형태인 하이퍼베지어 곡선의 수학적 아름다움을 탐구합니다.\n곡선 이론, 기하학적 모델링, 그리고 그래픽 렌더링에 대한 깊이 있는 통찰을 제공할 것입니다.\n그래픽스 프로그래머, 수학적 모델링 전문가, 또는 컴퓨터 기하학 연구자에게 특히 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  }
+]
