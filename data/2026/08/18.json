@@ -1,0 +1,856 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32594",
+    "title": "GPT-5.6 Sol은 OpenAI가 지금까지 출시한 최고의 비전 모델",
+    "url": "https://news.hada.io/topic?id=32594",
+    "discussion_url": "https://news.hada.io/topic?id=32594",
+    "summary": "OpenAI의 GPT-5.6 제품군 Sol·Terra·Luna를 탐지·계수·OCR·데이터 추출 과제로 평가한 결과, Sol이 GPT-5.5보다 전반적으로 강한 비전 성능을 보임\n가장 큰 개선은 객체 탐지로, Sol의 mAP@50이 GPT-5.5의 13.8에서 46.2로 상승했고 Terra와 Luna도 각각 44.7과 43...",
+    "score": 0,
+    "published_at": "2026-08-17T21:37:23+00:00",
+    "ai_summary": "OpenAI의 새 비전 모델 GPT-5.6 Sol은 GPT-5.5 대비 객체 탐지 등 비전 성능이 크게 향상되었습니다. 탐지, 계수, OCR, 데이터 추출 등 다양한 과제에서 강력함을 입증하며, 개발자들이 정교한 AI 애플리케이션을 구축하는 데 기여할 것입니다. 이는 OpenAI 비전 기술의 중요한 진전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32593",
+    "title": "AI;DR(AI라서 읽지 않음)",
+    "url": "https://news.hada.io/topic?id=32593",
+    "discussion_url": "https://news.hada.io/topic?id=32593",
+    "summary": "AI;DR은 검토·편집하지 않은 AI 생성물을 읽지 않겠다는 원칙으로, 늘어나는 장문의 저품질 AI 콘텐츠에 대응함\n아이디어 발굴, 개요 작성, 문장 다듬기 등 작업 과정의 AI 활용은 자연스럽지만, 결과물을 그대로 전달하는 태도는 별개의 문제임\n고객 지원...",
+    "score": 0,
+    "published_at": "2026-08-17T21:34:22+00:00",
+    "ai_summary": "'AI;DR'은 검토되지 않은 AI 생성 콘텐츠를 거부하는 원칙으로, 저품질 장문 AI 콘텐츠 증가에 대응합니다. AI를 작업 보조에 쓰는 것은 자연스러우나, 결과물 그대로 전달은 문제라는 윤리적, 품질적 쟁점을 제기합니다. 콘텐츠 생산자와 소비자가 AI 시대에 직면할 새로운 기준을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32589",
+    "title": "DuckDB v2.0 “Cyanoptera” 미리보기",
+    "url": "https://news.hada.io/topic?id=32589",
+    "discussion_url": "https://news.hada.io/topic?id=32589",
+    "summary": "v1.5 이후 10,000개 이상의 커밋을 반영한 DuckDB v2.0 “Cyanoptera” 는 인프로세스 분석 DB를 네트워크 서버와 장기 실행 서비스로 확장함\n안정화된 Quack 프로토콜과 CONNECT 문을 통해 다른 DuckDB·PostgreSQL·MySQL에서 쿼리를 원격 실행하고 결...",
+    "score": 0,
+    "published_at": "2026-08-17T17:34:53+00:00",
+    "ai_summary": "DuckDB v2.0 \"Cyanoptera\"는 인프로세스 분석 DB를 네트워크 서버와 장기 실행 서비스로 확장하는 대규모 업데이트입니다. Quack 프로토콜과 CONNECT 문을 통해 다른 DB에서 원격 쿼리 실행이 가능해, 활용성과 통합성이 크게 증대됩니다. 이는 개발자들이 DuckDB를 더욱 유연하게 사용할 수 있는 중요한 개선입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32585",
+    "title": "GitHub.com 장애 발생",
+    "url": "https://news.hada.io/topic?id=32585",
+    "discussion_url": "https://news.hada.io/topic?id=32585",
+    "summary": "GitHub.com의 웹 환경과 API 트래픽에서 약 20%의 오류가 발생해 원인을 조사 중임\n아카이브와 원시 저장소 콘텐츠 다운로드의 오류율은 약 50% 에 달함\nPull Requests와 Issues를 비롯한 여러 기능에서 성능 저하가 확인됨\n장...",
+    "score": 0,
+    "published_at": "2026-08-17T14:31:35+00:00",
+    "ai_summary": "GitHub.com에서 웹 및 API 트래픽의 20% 오류와 50%의 아카이브 다운로드 오류가 발생하여 서비스 장애를 겪었습니다. Pull Requests, Issues 등 핵심 기능의 성능 저하로 개발자들의 작업에 직접적인 영향을 미 미쳤습니다. GitHub는 현재 원인을 조사 중이며, 이는 DevOps와 개발 생산성의 중요성을 다시 한번 상기시킵니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32581",
+    "title": "Show GN: ArchiveRclick – Rust로 만든 가볍고 빠른 Windows 압축 프로그램",
+    "url": "https://news.hada.io/topic?id=32581",
+    "discussion_url": "https://news.hada.io/topic?id=32581",
+    "summary": "반디집이나 7-Zip처럼 복잡하지 않고, 압축 파일을 빠르게 열고 만들 수 있는 작은 Windows용 압축 프로그램을 만들어봤습니다.\n\nRust + Slint로 만든 네이티브 Windows 앱\nZIP/7z 압축·해제는 7-Zip(7z.dll) 사용\nRAR/RAR5, TAR, CAB, ISO, LHA/LZH, CPIO, XAR 등은 lib",
+    "score": 0,
+    "published_at": "2026-08-17T11:40:12+00:00",
+    "ai_summary": "Rust와 Slint로 개발된 ArchiveRclick은 반디집이나 7-Zip처럼 복잡하지 않고 빠르며 가벼운 Windows용 압축 프로그램입니다. 7-Zip 라이브러리를 활용해 ZIP/7z 압축/해제를 지원하며, RAR, TAR 등 다양한 포맷을 읽을 수 있습니다. 이는 Rust를 활용한 유용한 네이티브 앱 개발 사례이자 개발자들이 직접 만든 도구의 좋은 예시입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32579",
+    "title": "Claude의 ‘워터마크’가 글쓰기를 왜곡하는 방식",
+    "url": "https://news.hada.io/topic?id=32579",
+    "discussion_url": "https://news.hada.io/topic?id=32579",
+    "summary": "Anthropic은 EU 규정 준수를 위해 전 세계 Claude 모델이 생성하는 200토큰 초과 텍스트에 워터마크를 적용할 예정이며, 보이지 않는 문자가 아니라 비밀 키로 단어 선택 확률을 조정하는 방식임\n다음 토큰 후보를 동적으로 ‘green’과 ‘red’로 나누고 green 후보를 조금 더 자주...",
+    "score": 0,
+    "published_at": "2026-08-17T09:33:37+00:00",
+    "ai_summary": "Anthropic은 EU 규정 준수를 위해 Claude 모델이 생성하는 텍스트에 워터마크를 적용할 예정이며, 이는 단어 선택 확률을 조정하는 방식입니다. 다음 토큰 후보를 'green'과 'red'로 나누고 green 후보를 더 자주 선택하여 워터마크를 삽입합니다. 이는 LLM 생성 텍스트의 출처 추적과 무결성 보장을 위한 중요한 기술적 시도입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32575",
+    "title": "Stripe, 10조원 이상에 AI 모델 게이트웨이 OpenRouter 인수 합의",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "discussion_url": "https://news.hada.io/topic?id=32575",
+    "summary": "Stripe가 OpenRouter 인수에 합의한 것으로 알려짐. Bloomberg는 70억 달러 이상이라고 보도하고,",
+    "score": 0,
+    "published_at": "2026-08-17T02:31:57+00:00",
+    "ai_summary": "Stripe가 AI 모델 게이트웨이 서비스인 OpenRouter를 10조 원(70억 달러) 이상에 인수하기로 합의했습니다. 이 인수는 핀테크 대기업 Stripe가 AI 모델 시장으로 사업 영역을 확장하려는 전략을 보여줍니다. AI 시장의 성장과 주요 기업들의 인수합병 추세를 나타내는 중요한 소식입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32572",
+    "title": "프로덕트 매니저 역할의 새로운 정의",
+    "url": "https://news.hada.io/topic?id=32572",
+    "discussion_url": "https://news.hada.io/topic?id=32572",
+    "summary": "AI로 누구나 앱을 만들고 업무를 자동화할 수 있게 되어도 대부분의 사람과 기업은 도구를 만드는 방식으로 생각하지 않으며, 직접 만들려고 시도하거나 성공할 가능성도 높지 않음\n강한 프로덕트 매니저는 눈앞의 불편이나 아이디어에서 더 일반적이고 해결할 가치가 있는 ...",
+    "score": 0,
+    "published_at": "2026-08-17T01:23:01+00:00",
+    "ai_summary": "AI 시대에 누구나 앱을 만들 수 있지만, 대부분은 직접 도구를 만들려 하지 않습니다. 강한 프로덕트 매니저는 눈앞의 불편함에서 더 일반적이고 해결 가치가 있는 문제점을 발견하는 역할을 합니다. 이는 AI 기술 발전이 프로덕트 개발과 팀 역할 분담에 미치는 영향을 다루는 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32571",
+    "title": "Rust와 PostgreSQL로 확장 가능한 백엔드 서비스 구축하기",
+    "url": "https://news.hada.io/topic?id=32571",
+    "discussion_url": "https://news.hada.io/topic?id=32571",
+    "summary": "Rust는 Go보다 백엔드 개발 생산성이 낮을 수 있지만, 강한 타입 시스템/컴파일러가 보장하는 정확성과 zero-cost abstraction 덕분에 10K+ LOC/약 100개 엔드포인트 규모에서 비즈니스 로직 버그를 줄이거나 높은 성능이 필요한 서비스에 적합함\nHTTP 스택은 tokio →...",
+    "score": 0,
+    "published_at": "2026-08-17T00:54:01+00:00",
+    "ai_summary": "Rust는 Go 대비 생산성은 낮을 수 있으나, 강한 타입 시스템과 zero-cost abstraction으로 높은 정확성과 성능을 제공합니다.\n대규모 백엔드 서비스(10K+ LOC, 100개 엔드포인트)에서 비즈니스 로직 버그를 줄이고 고성능 요구사항에 적합합니다.\ntokio 기반 HTTP 스택과 PostgreSQL을 활용하여 안정적이고 확장 가능한 백엔드 아키텍처 구축을 제안합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32570",
+    "title": "2026년 Stripe에서 Staff Engineer로 일한다는 것",
+    "url": "https://news.hada.io/topic?id=32570",
+    "discussion_url": "https://news.hada.io/topic?id=32570",
+    "summary": "Stripe에서 Staff Engineer 역할은 AI로 편해진 것보다 AI를 활용해 더 큰 영향력을 내야 한다는 기대가 높아진 것에 가까움. 최신 Anthropic/OpenAI 모델과 사내 코딩 도구를 빠르게 제공하며, Staff에게는 이를 활용하지 못할 변명이 점점 줄어든다고 느낌\n이제 Staff가 여러 대형...",
+    "score": 0,
+    "published_at": "2026-08-17T00:45:02+00:00",
+    "ai_summary": "2026년 Stripe의 Staff Engineer 역할은 AI가 제공하는 편의를 넘어 AI를 활용해 더 큰 영향력을 창출하는 것에 중점을 둡니다.\n최신 Anthropic/OpenAI 모델과 사내 코딩 도구가 빠르게 제공되므로, AI 활용 능력은 이제 필수 역량입니다.\nStaff Engineer는 AI를 활용하지 못할 변명이 사라지며, AI를 통한 문제 해결 및 혁신적 기여가 기대됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32567",
+    "title": "Flexible Authentication - 수백만 사용자를 위한 Airbnb의 인증 재설계",
+    "url": "https://news.hada.io/topic?id=32567",
+    "discussion_url": "https://news.hada.io/topic?id=32567",
+    "summary": "Airbnb는 여행 예약처럼 로그인 간격이 길고 사용 환경이 다양한 서비스에서 인증 실패가 예약과 매출 손실로 이어진다고 보고, 10년간 누적된 로그인 방식을 Flexible Authentication으로 재설계함\n핵심은 Identify first, then Challenge로, 사...",
+    "score": 0,
+    "published_at": "2026-08-17T00:15:01+00:00",
+    "ai_summary": "Airbnb는 긴 로그인 간격과 다양한 환경으로 인한 인증 실패가 예약 및 매출 손실로 이어진다고 분석했습니다.\n10년간 누적된 로그인 방식을 'Flexible Authentication'으로 재설계하여 사용자 경험을 개선하려 합니다.\n핵심은 'Identify first, then Challenge' 접근 방식으로, 사용자 식별 후 맞춤형 인증 절차를 제공하는 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32566",
+    "title": "모든 빌어먹을 웹사이트",
+    "url": "https://news.hada.io/topic?id=32566",
+    "discussion_url": "https://news.hada.io/topic?id=32566",
+    "summary": "AI 생성 랜딩 페이지에 반복되는 획일적 디자인 관습을 한 화면에 모아 풍자함\nInstrument Serif, 무작위 이탤릭체, 과도한 긴 대시(em dash) 를 전형적인 요소로 꼽음\n아무 의미 없는 실시간 상태와 Three · Words · I guess 같은 ...",
+    "score": 0,
+    "published_at": "2026-08-17T00:06:25+00:00",
+    "ai_summary": "이 글은 AI 생성 랜딩 페이지에서 반복되는 획일적 디자인 관습을 풍자하며 비판합니다.\n'Instrument Serif' 폰트, 무작위 이탤릭체, 과도한 긴 대시 사용 등을 전형적인 요소로 지적합니다.\n무의미한 실시간 상태 표시와 짧은 구호 같은 패턴이 웹 디자인의 창의성 부족을 드러낸다고 비판합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49338285",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338285",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-08-17T22:01:17+00:00",
+    "ai_summary": "Fairphone 6에서 PostmarketOS의 메인 카메라가 작동하게 되었다는 소식입니다.\n이는 모바일 리눅스 배포판의 하드웨어 지원 개선을 의미하며,\n오픈소스 모바일 OS 개발에 중요한 진전입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49331423",
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "discussion_url": "https://news.ycombinator.com/item?id=49331423",
+    "summary": "",
+    "score": 299,
+    "published_at": "2026-08-17T14:18:38+00:00",
+    "ai_summary": "GitHub Copilot의 AI 생성 \"Autofix\" 기능이 Snowflake Jira 시스템 침해를 가능하게 한 사례입니다.\nAI 코드 자동 수정의 보안 취약성과 잠재적 위험을 보여주며,\n개발자는 AI 도구 사용 시 보안 검증의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49330597",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49330597",
+    "summary": "",
+    "score": 490,
+    "published_at": "2026-08-17T13:35:06+00:00",
+    "ai_summary": "GitHub.com에서 발생한 서비스 중단 또는 성능 저하 관련 인시던트 보고입니다.\n개발 워크플로우에 직접적인 영향을 미치며, 서비스 신뢰도와 가용성의 중요성을 강조합니다.\n기술팀의 문제 해결 및 재발 방지 노력이 요구됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49336573",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "discussion_url": "https://news.ycombinator.com/item?id=49336573",
+    "summary": "",
+    "score": 488,
+    "published_at": "2026-08-17T19:47:15+00:00",
+    "ai_summary": "\"AI;DR\"은 AI를 활용한 콘텐츠 요약 도구를 암시하는 용어입니다.\n이는 정보 과부하 시대에 LLM 기반 요약 기술의 유용성을 강조하며,\n개발자들은 이러한 도구를 활용하거나 직접 개발하는 데 관심을 가질 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49331220",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49331220",
+    "summary": "",
+    "score": 237,
+    "published_at": "2026-08-17T14:07:56+00:00",
+    "ai_summary": "사용자 경험을 방해하는 AI 기능을 비활성화하거나 피하는 방법에 대한 내용입니다.\n이는 AI 기술의 윤리적 사용과 사용자 개인 정보 보호의 중요성을 강조하며,\n개발자들은 AI 시스템 설계 시 사용자 통제권과 프라이버시를 고려해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49270194",
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "discussion_url": "https://news.ycombinator.com/item?id=49270194",
+    "summary": "",
+    "score": 273,
+    "published_at": "2026-08-12T10:26:14+00:00",
+    "ai_summary": "\"Olo\"는 색상과 관련된 프로젝트나 아이디어를 다루는 것으로 보입니다.\n이는 프론트엔드 개발, UI/UX 디자인 또는 그래픽 프로그래밍 분야에 간접적으로 관련될 수 있습니다.\n시각적 요소의 중요성과 이를 구현하는 기술적 접근을 탐구할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49333824",
+    "title": "Sun Clock",
+    "url": "https://sunclock.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49333824",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-08-17T16:37:54+00:00",
+    "ai_summary": "'선 클락(Sun Clock)'은 태양의 위치를 기반으로 시간을 시각화하는 도구 또는 애플리케이션일 수 있습니다.\n이는 데이터 시각화, 임베디드 시스템 또는 프론트엔드 개발 프로젝트와 관련될 수 있으며,\n시간 정보를 독특하게 표현하는 기술적 접근을 제시합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49329575",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329575",
+    "summary": "",
+    "score": 289,
+    "published_at": "2026-08-17T12:09:42+00:00",
+    "ai_summary": "OpenAI가 GPT 5.6 Sol이라는 최고의 비전 모델을 출시했다는 소식입니다.\n이 모델은 이미지 및 시각 정보 처리 능력이 뛰어나며, AI/ML 개발자들에게 큰 영향을 미칠 것입니다.\n멀티모달 AI 기술 발전의 중요한 이정표입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49338139",
+    "title": "My friends all hate AI; I just joined an AI startup",
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338139",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-08-17T21:47:30+00:00",
+    "ai_summary": "친구들이 모두 AI를 싫어함에도 불구하고 AI 스타트업에 합류한 저자의 개인적인 이야기입니다.\nAI 분야로의 진로 선택과 기술에 대한 사회적 시선을 다룹니다.\n개발자의 커리어 고민과 AI 산업 동향에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49279146",
+    "title": "Intriguing stories in computer science",
+    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49279146",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-08-12T21:56:40+00:00",
+    "ai_summary": "컴퓨터 과학 분야의 흥미로운 이야기들을 모아놓은 것으로 보입니다.\n이는 컴퓨터 과학의 역사, 주요 개념, 또는 비하인드 스토리를 포함할 수 있습니다.\n개발자들에게 영감과 깊이 있는 이해를 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49335517",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49335517",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-08-17T18:28:07+00:00",
+    "ai_summary": "Roboflow Playground는 30가지 컴퓨터 비전 모델을 직접 시도하고 비교할 수 있는 플랫폼입니다.\n개발자들이 다양한 모델의 성능을 쉽게 탐색하고 평가하는 데 유용합니다.\n특히 AI/ML 분야의 컴퓨터 비전 엔지니어에게 실용적인 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49337630",
+    "title": "How do functions like alloca allocate memory from the stack?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "discussion_url": "https://news.ycombinator.com/item?id=49337630",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-08-17T21:06:10+00:00",
+    "ai_summary": "`alloca`와 같은 함수가 스택에서 메모리를 어떻게 할당하는지에 대한 기술적인 설명입니다.\n메모리 관리의 기본 원리와 스택 기반 할당 메커니즘을 다룹니다.\n시스템 프로그래밍, 저수준 최적화에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49332751",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49332751",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-08-17T15:36:18+00:00",
+    "ai_summary": "Speko는 OpenRouter처럼 다양한 음성 AI 모델을 통합하거나 제공하는 서비스로, YC S26에 선정된 스타트업입니다.\n음성 AI 개발자들이 모델에 접근하고 활용하는 방식을 혁신할 수 있습니다.\nAI/ML, 특히 음성 기술 분야 개발자들에게 중요한 새로운 플랫폼입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49295179",
+    "title": "A simple fix for LLM tail latency",
+    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49295179",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-08-14T05:58:16+00:00",
+    "ai_summary": "LLM(대규모 언어 모델)의 꼬리 지연 시간(tail latency)을 개선하기 위한 간단한 해결책을 제시합니다.\n이는 LLM의 성능 최적화와 사용자 경험 향상에 초점을 맞춥니다.\nLLM 개발자 및 AI/ML 엔지니어에게 매우 실용적인 기술 팁입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49331033",
+    "title": "Ask HN: Alternatives to GitHub",
+    "url": "https://news.ycombinator.com/item?id=49331033",
+    "discussion_url": "https://news.ycombinator.com/item?id=49331033",
+    "summary": "",
+    "score": 469,
+    "published_at": "2026-08-17T13:59:17+00:00",
+    "ai_summary": "개발자들이 GitHub 대신 사용할 수 있는 대안 플랫폼에 대해 논의하는 게시글입니다.\n코드 저장소, 협업 도구, CI/CD 통합 등 다양한 측면에서 대안을 모색합니다.\n개발 워크플로우 효율성 및 비용 절감 방안에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49338428",
+    "title": "scScript for Linux",
+    "url": "https://scapplications.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338428",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-08-17T22:18:05+00:00",
+    "ai_summary": "Linux 환경에서 특정 작업을 자동화하거나 관리하는 데 사용되는 'scScript'에 대한 내용입니다.\n이 스크립트는 시스템 관리, 개발 환경 설정 또는 특정 애플리케이션 실행을 간소화하는 도구일 수 있습니다.\nLinux 기반 개발자 및 시스템 관리자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49334544",
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "discussion_url": "https://news.ycombinator.com/item?id=49334544",
+    "summary": "",
+    "score": 277,
+    "published_at": "2026-08-17T17:25:17+00:00",
+    "ai_summary": "Qwen3.8 27B 모델이 'Artificial Analysis' 벤치마크에서 52점을 기록했다는 소식입니다.\n이는 해당 대규모 언어 모델의 성능과 효율성을 평가하는 지표가 됩니다.\nAI 연구자 및 개발자에게 모델 비교 및 선택에 중요한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49335001",
+    "title": "We Are Forking dotenvy into dotenv-ng",
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49335001",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-08-17T17:55:24+00:00",
+    "ai_summary": "dotenvy 프로젝트의 개발 중단으로 인해, 커뮤니티 주도로 이를 dotenv-ng로 포크하여 새로운 개발을 시작합니다.\n이 프로젝트는 이전의 미해결 문제를 해결하고 현대적인 기능과 지속적인 유지보수를 제공하는 것을 목표로 합니다.\n개발자들은 더 안정적이고 개선된 환경 변수 관리 도구를 기대할 수 있게 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49337602",
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "discussion_url": "https://news.ycombinator.com/item?id=49337602",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-08-17T21:03:18+00:00",
+    "ai_summary": "GPT-5.6 Sol 모델의 가격이 50% 인하되어 개발자와 기업의 LLM 접근성이 크게 향상되었습니다.\n이번 가격 인하는 LLM 기반 애플리케이션 개발 비용을 절감하여 더 많은 혁신적인 프로젝트를 가능하게 할 것입니다.\n이는 AI 서비스 시장의 경쟁 심화와 기술 효율성 증가에 따른 것으로 분석됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities (18 minute read)",
+    "url": "https://z.ai/blog/glm-5.3",
+    "discussion_url": "https://z.ai/blog/glm-5.3",
+    "summary": "Z.ai has released GLM-5.3. The only improvement on the model is the amount of post-training performed. Z.ai continued scaling on its stack with more environments, more diverse tasks, and more compute, resulting in a model that is much better at complex coding and long-horizon tasks. Every gain comes from post-training.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Z.ai는 후처리 훈련량 개선을 통해 GLM-5.3을 출시했습니다. 이 모델은 더 다양한 환경, 태스크, 컴퓨팅을 통해 복잡한 코딩 및 장기적인 태스크에 매우 뛰어난 성능을 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/joining-spacex",
+    "title": "Cursor is now a part of SpaceX (1 minute read)",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "discussion_url": "https://cursor.com/blog/joining-spacex",
+    "summary": "SpaceX has acquired Cursor to enhance AI model training using its extensive GPU resources. This acquisition enables Cursor to develop stronger and more cost-effective AI models. Grok 4.6, recently released, demonstrates the potential of this collaboration.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "SpaceX는 Cursor를 인수하여 방대한 GPU 자원을 활용한 AI 모델 훈련을 강화할 예정입니다. 이 인수를 통해 Cursor는 더욱 강력하고 비용 효율적인 AI 모델을 개발할 수 있게 됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "title": "Stripe Will Reportedly Acquire OpenRouter for Over $7B (2 minute read)",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "discussion_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "summary": "Stripe reportedly agreed to acquire AI model-routing startup OpenRouter for more than $7 billion. OpenRouter, which lets developers route requests across models based on factors such as capability and price, had reportedly been valued at $1.3 billion after its May funding round.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Stripe는 AI 모델 라우팅 스타트업 OpenRouter를 70억 달러 이상에 인수할 예정입니다. OpenRouter는 개발자가 모델의 기능 및 가격에 따라 요청을 다양한 모델로 라우팅할 수 있게 해줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=dykJ8J&reflink=desktopwebshare_permalink",
+    "title": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center (3 minute read)",
+    "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=dykJ8J&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=dykJ8J&reflink=desktopwebshare_permalink",
+    "summary": "Nvidia and OpenAI are close to closing a financial deal for a large-scale data-center campus in Ohio. Under the deal, Nvidia would provide a financial backstop for the first phase of the project, totaling roughly five gigawatts of power. OpenAI will then have to decide later whether or how to finance the remainder. Nvidia originally planned to invest $250 billion into the deal, but lowered its guarantee to less than $120 billion to address investors' concerns about the chipmaker's risk exposure.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Nvidia와 OpenAI는 오하이오의 대규모 데이터센터 캠퍼스 건설에 대한 금융 거래를 마무리하고 있습니다. Nvidia는 투자자들의 우려를 해소하기 위해 초기 보증 투자 계획을 2,500억 달러에서 1,200억 달러 미만으로 줄였습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "title": "GLM-5.3: How Chinese labs keep stride with the frontier (11 minute read)",
+    "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "discussion_url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "summary": "Z.ai has a time-to-release of likely days, rather than months as with OpenAI or Anthropic. While OpenAI and Anthropic likely have far better internal models, the companies tend to take months to release their models to the public. Z.ai probably cares a little more about public benchmarks than its US counterparts, but it is not benchmaxxing to the point where it is too obvious with GLM-5.3. The RL industry is taking off in China, very much driven by US data companies selling to Chinese model labs",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Z.ai는 OpenAI나 Anthropic과 달리 모델 출시 주기가 며칠로 매우 빠릅니다. 중국 AI 연구소들은 공개 벤치마크에 더 중점을 두며, 미국 데이터 기업들의 판매에 힘입어 RL(강화 학습) 산업이 성장하고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "title": "The State of Open Models in 2026 (24 minute read)",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "discussion_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "summary": "Hugging Face reviewed major developments across the open-model ecosystem from January through August, using ecosystem data to highlight how model releases, tooling, and adoption had shifted since its spring report.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Hugging Face는 1월부터 8월까지 오픈 모델 생태계의 주요 발전 사항을 검토했습니다. 생태계 데이터를 활용하여 모델 출시, 툴링, 채택 방식의 변화를 강조했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory/",
+    "title": "Understanding Agent Memory (38 minute read)",
+    "url": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory/",
+    "discussion_url": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory/",
+    "summary": "This analysis compared persistent agent memory built from curated files, automatically maintained structured stores, and learned experience. It examined the approaches under controlled models and agentic benchmarks to show how different memory representations affected performance.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "이 분석은 큐레이션된 파일, 자동 유지되는 구조화된 저장소, 학습된 경험으로 구성된 에이전트 메모리를 비교했습니다. 다양한 메모리 표현이 AI 에이전트의 성능에 미치는 영향을 조사했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2608.08888",
+    "title": "Microsoft's Full-bandwidth Transformers (26 minute read)",
+    "url": "https://arxiv.org/abs/2608.08888",
+    "discussion_url": "https://arxiv.org/abs/2608.08888",
+    "summary": "Full-bandwidth transformers fed the previous token's top-layer hidden state back into the model alongside the next token embedding. This allows latent computation to continue across decoding steps.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Full-bandwidth 트랜스포머는 이전 토큰의 최상위 계층 히든 상태를 다음 토큰 임베딩과 함께 모델에 다시 공급하여 잠재적 계산이 디코딩 단계 전반에 걸쳐 계속될 수 있도록 한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://littlelearner-ll.github.io/",
+    "title": "LittleLearner (Website)",
+    "url": "https://littlelearner-ll.github.io/",
+    "discussion_url": "https://littlelearner-ll.github.io/",
+    "summary": "LittleLearner is a language model that only knows what a 5th grader knows. The hosted 5B model can be run live in browser. LittleLearner was created as part of an experiment in creating controlled sandboxes for studying how models acquire knowledge.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "LittleLearner는 5학년 수준의 지식만 가진 5B 규모의 언어 모델로, 브라우저에서 직접 실행 가능하다. 이 프로젝트는 모델의 지식 습득 과정을 연구하기 위한 통제된 샌드박스 실험의 일환으로 만들어졌다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://antigravity.google/blog/introducing-custom-agents",
+    "title": "Introducing Custom Agents (6 minute read)",
+    "url": "https://antigravity.google/blog/introducing-custom-agents",
+    "discussion_url": "https://antigravity.google/blog/introducing-custom-agents",
+    "summary": "Google has introduced Custom Agents in Antigravity 2.0 and the Antigravity CLI, with the Antigravity IDE following shortly. Custom Agents are specialized, file-based configurations that define a particular role with its own scoped instructions, tools, and constraints. The system keeps users' active contexts clean, minimizes token overhead, and gives them a predictable partner for specific tasks. Custom agents don't replace skills and dynamic subagents - they just provide even more customizabilit",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Google이 Antigravity 2.0 및 CLI에 Custom Agents를 도입했다. 이는 특정 역할, 지침, 도구, 제약 조건을 정의하는 파일 기반 구성으로, 사용자 컨텍스트를 깔끔하게 유지하고 토큰 오버헤드를 최소화하여 특정 작업에 예측 가능한 파트너를 제공한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://math-ai-org.github.io/mathcode/",
+    "title": "MathCode (Website)",
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "discussion_url": "https://math-ai-org.github.io/mathcode/",
+    "summary": "MathCode is a frontier mathematical coding agent. It has a built-in math formalization engine that converts problems from plain language into Lean 4 theorems and attempts formal proofs. It features a persistent Lean REPL, reusable theorem and axiom libraries, agent proving, and an Obsidian knowledge graph. The math formalization and proving pipeline is based on the AUTOLEAN project.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "MathCode는 일반 언어 문제를 Lean 4 정리로 변환하고 형식 증명을 시도하는 수학 코딩 에이전트이다. 영구 Lean REPL, 재사용 가능한 정리/공리 라이브러리, 에이전트 증명, Obsidian 지식 그래프 등의 기능을 제공한다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e",
+    "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e",
+    "discussion_url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e",
+    "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot.Click here to learn more!",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "TLDR은 Applied AI 팀에서 GTM 엔지니어를 채용하며, AI 기반 GTM 스택을 담당하게 된다. AI 에이전트 구축 및 HubSpot 작업에 능숙한 인재를 찾고 있다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.implicator.ai/openai-paid-100-for-a-4-2-cerebras-stake-weeks-before-ultrafast-launch/",
+    "title": "OpenAI Paid $100 for a 4.2% Cerebras Stake Weeks Before Ultrafast Launch (3 minute read)",
+    "url": "https://www.implicator.ai/openai-paid-100-for-a-4-2-cerebras-stake-weeks-before-ultrafast-launch/",
+    "discussion_url": "https://www.implicator.ai/openai-paid-100-for-a-4-2-cerebras-stake-weeks-before-ultrafast-launch/",
+    "summary": "Days before OpenAI previewed Ultrafast, a service tier that can run GPT-5.6 Sol at up to 750 output tokens a second, OpenAI exercised every vested Cerebras warrant share, acquiring 10,033,508 Class N shares at $0.00001 each for about $100 in cash. The stake has an implied value of near $2.3 billion, though the shares carry no votes. Cerebras is now running every competitive speed offering at OpenAI. OpenAI has yet to publish price, model ID, or general-availability date for Ultrafast.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "OpenAI는 초당 750 토큰을 처리하는 Ultrafast 서비스 발표 직전 Cerebras의 지분 4.2%를 100달러에 인수했다. 현재 Cerebras는 OpenAI의 모든 경쟁력 있는 속도 서비스를 구동하고 있다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/AndrewYNg/status/2088302050706686198",
+    "title": "The AI Engineering Skills Map (6 minute read)",
+    "url": "https://x.com/AndrewYNg/status/2088302050706686198",
+    "discussion_url": "https://x.com/AndrewYNg/status/2088302050706686198",
+    "summary": "AI engineering now centers on four skills: building and deploying AI applications, software fundamentals, coding-agent fluency, and shaping what gets built.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "AI 엔지니어링은 AI 애플리케이션 구축 및 배포, 소프트웨어 기본 지식, 코딩 에이전트 활용 능력, 구축될 AI의 방향 설정이라는 네 가지 핵심 기술을 중심으로 한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://proofsandintuitions.net/2026/08/14/when-the-hard-part-stops-being-hard/",
+    "title": "When the Hard Part Stops Being Hard (3 minute read)",
+    "url": "https://proofsandintuitions.net/2026/08/14/when-the-hard-part-stops-being-hard/",
+    "discussion_url": "https://proofsandintuitions.net/2026/08/14/when-the-hard-part-stops-being-hard/",
+    "summary": "In a world where producing work is easy, we need to be more ambitious and take on challenges we could not have imagined a couple of years ago.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "작업 생산이 쉬워지는 시대에 개발자들은 더 큰 야망을 가져야 합니다. 몇 년 전에는 상상하기 어려웠던 새로운 도전을 받아들여야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things (13 minute read)",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "discussion_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "summary": "Qwen 3.8 27B is an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Qwen 3.8 27B는 Alibaba의 Qwen 연구소에서 개발한 대규모 언어 모델(LLM)입니다. 이 모델은 Apache 2 라이선스를 가지며 27B 파라미터의 비전 가능 LLM입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+    "title": "OpenAI sheds senior execs in pre-IPO refresh (3 minute read)",
+    "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+    "discussion_url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+    "summary": "OpenAI has seen significant leadership changes, including the departure of top executives like the chief revenue officer, COO, and head of ethics, ahead of an anticipated IPO.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "OpenAI는 IPO를 앞두고 핵심 경영진의 대규모 이탈로 상당한 리더십 변화를 겪고 있습니다. 최고 매출 책임자, COO, 윤리 책임자 등 주요 임원들이 회사를 떠났습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+    "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning (3 minute read)",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+    "discussion_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+    "summary": "Google appears to be exploring a new kind of TPU that combines its proprietary accelerator technology with on-board general-purpose cores for CPU-heavy workloads.",
+    "score": 0,
+    "published_at": "2026-08-17T23:22:46+00:00",
+    "ai_summary": "Google은 AMD와 협력하여 차세대 TPU를 설계하고 있는 것으로 알려졌습니다. 이 하이브리드 AI ASIC은 자체 가속기 기술과 온보드 CPU 코어를 결합하여 CPU 집약적인 워크로드를 처리할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
