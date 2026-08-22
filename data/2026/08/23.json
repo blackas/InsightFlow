@@ -1,0 +1,643 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32778",
+    "title": "Anthropic, Claude Code의 추론 노력 수준 축소를 A/B 테스트하는 것으로 보임",
+    "url": "https://news.hada.io/topic?id=32778",
+    "discussion_url": "https://news.hada.io/topic?id=32778",
+    "summary": "서버 측 실험으로 Claude Code 2.1.236 이상의 일부 Fable 5 세션에서 추론 노력 척도가 낮아져 사용자마다 경험이 달라질 수 있음\n이전 Claude Code 버전과 Opus 5는 대상에서 제외되며, 클라이언트 버전이 실험 등록 조건으로 쓰이는 것으로 파악됨\n일부...",
+    "score": 0,
+    "published_at": "2026-08-22T23:11:08+00:00",
+    "ai_summary": "Anthropic이 Claude Code의 추론 노력 수준을 낮추는 A/B 테스트를 진행 중입니다. 이 서버 측 실험은 일부 Fable 5 세션에 적용되어 사용자 경험에 차이를 줄 수 있습니다. 클라이언트 버전이 실험 대상 등록 조건으로 사용되며, 이전 버전과 Opus 5는 제외됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32771",
+    "title": "TUI를 그만 만드세요",
+    "url": "https://news.hada.io/topic?id=32771",
+    "discussion_url": "https://news.hada.io/topic?id=32771",
+    "summary": "LLM 에이전트가 SwiftUI 네이티브 UI를 실용적인 수준으로 생성하면서, 시스템 프로그래머도 개인용 도구를 더 이상 터미널 화면으로 만들 필요가 없어짐\nCLI는 자동화와 원격 제어에 대체 불가능하지만, TUI는 스크롤·드래그 앤드 드롭·텍스트 선택·다중 창·이미...",
+    "score": 0,
+    "published_at": "2026-08-22T16:33:47+00:00",
+    "ai_summary": "LLM 에이전트가 SwiftUI 같은 네이티브 UI를 실용적으로 생성하면서 TUI 개발의 필요성이 줄어들고 있습니다. CLI는 자동화와 원격 제어에 필수적이지만, TUI는 스크롤, 드래그 앤 드롭 등 현대적 UI 기능을 제공하기 어렵습니다. LLM이 개발 도구의 UI 패러다임을 변화시키는 잠재력을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32769",
+    "title": "Labor0를 만든 이유",
+    "url": "https://news.hada.io/topic?id=32769",
+    "discussion_url": "https://news.hada.io/topic?id=32769",
+    "summary": "AI 에이전트 세션이 늘어나면 실행 자체보다 사람이 모든 진행 상황을 확인하고 조율하는 일이 병목이 됨\n\n\n이를 줄이기 위해 큰 작업을 작은 PR 단위로 나누고, CI 실패 수정·머지 충돌 해결·리뷰 반영·Codex 자동 리뷰가 끝난 뒤에만 사람이 확인하는 작업 체계를 구성",
+    "score": 0,
+    "published_at": "2026-08-22T14:28:07+00:00",
+    "ai_summary": "AI 에이전트 세션 증가로 인한 인간의 확인 및 조율 병목 현상을 해결하기 위해 Labor0가 개발되었습니다. 큰 작업을 PR 단위로 나누고, CI 실패 수정, 머지 충돌 해결, 리뷰 반영 과정을 자동화합니다. Codex 자동 리뷰 후 최종 검토만 사람이 진행하는 효율적인 작업 체계를 구축하여 개발 워크플로우를 최적화합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32768",
+    "title": "Rust Glancer - 메모리를 100배 적게 쓰는 Rust LSP",
+    "url": "https://news.hada.io/topic?id=32768",
+    "discussion_url": "https://news.hada.io/topic?id=32768",
+    "summary": "Rust Glancer는 분석 결과를 파일 시스템에 보존해 합리적인 규모의 프로젝트에서 100MB 미만의 RAM을 목표로 하며, 편집기를 재시작해도 기존 색인을 즉시 재사용함\nrust-analyzer의 메모리 기반 증분 분석과 달리, 저장 시 무효화되는 고정 분석 결과를 사용하고...",
+    "score": 0,
+    "published_at": "2026-08-22T13:32:57+00:00",
+    "ai_summary": "Rust Glancer는 기존 LSP 대비 메모리를 100배 적게 사용하는 Rust LSP입니다. 분석 결과를 파일 시스템에 보존하여 100MB 미만의 RAM 사용을 목표로 하며, 편집기 재시작 시에도 기존 색인을 즉시 재사용합니다. rust-analyzer와 달리 고정 분석 결과를 사용해 메모리 효율을 극대화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32767",
+    "title": "Claudette - Claude의 BuzzFeed식 말투를 평범한 영어로 바꾸는 도구",
+    "url": "https://news.hada.io/topic?id=32767",
+    "discussion_url": "https://news.hada.io/topic?id=32767",
+    "summary": "/debuzz는 Claude의 장황하고 극적인 답변을 Antigravity CLI로 다시 작성해 평범한 영어로 바꾸는 Claude Code 스킬임\nClaude가 변환 결과를 다시 다듬으면 기존 말투가 되살아날 수 있어, Antigravity의 출력을 후처리 없이 그대로 표시함",
+    "score": 0,
+    "published_at": "2026-08-22T12:36:39+00:00",
+    "ai_summary": "Claudette는 Claude의 장황하고 극적인 BuzzFeed식 말투를 평범한 영어로 변환하는 Claude Code 스킬입니다. /debuzz 명령어를 통해 Antigravity CLI로 재작성하며, Claude가 변환 결과를 다시 다듬는 것을 방지하기 위해 후처리 없이 출력을 바로 표시합니다. LLM의 출력 스타일을 제어하는 실용적인 방법을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32764",
+    "title": "Vomit - Claude의 장황한 출력을 로컬 LLM으로 짧게 정리해주는 도구",
+    "url": "https://news.hada.io/topic?id=32764",
+    "discussion_url": "https://news.hada.io/topic?id=32764",
+    "summary": "Claude Code가 길게 내놓는 메시지를 별도의 로컬 LLM에 다시 통과시켜 사람이 읽기 쉬운 형태로 정리하는 작은 도구\n원래 작업이나 파일에는 접근하지 않고, 사용자에게 전달되는 텍스트만 로컬 모델이 다시 요약함\n완전 로컬로 동작하고 Teleme...",
+    "score": 0,
+    "published_at": "2026-08-22T11:34:13+00:00",
+    "ai_summary": "Vomit은 Claude Code의 장황한 메시지를 별도의 로컬 LLM에 통과시켜 사람이 읽기 쉬운 형태로 요약해주는 도구입니다. 원래 작업이나 파일에는 접근하지 않고 사용자에게 전달되는 텍스트만 처리하여 보안 및 프라이버시를 보장합니다. 완전 로컬로 동작하며, Telemetry 없이 효율적인 요약 기능을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32762",
+    "title": "Show GN: Three.js로 만든 일본 오늘의 운세 체험",
+    "url": "https://news.hada.io/topic?id=32762",
+    "discussion_url": "https://news.hada.io/topic?id=32762",
+    "summary": "안녕하세요, 일본 신사에서 오미쿠지(운세 종이)를 뽑는 것에서 영감을 받아\nThree.js와 AI를 이용해 만든 간단한 Web 게임입니다.\n매일 오늘의 운세를 뽑을 수 있고, 좋지 않은 운세는 종이를 묶어서 예방할 수 있는 체험을 할 수 있습니다.\n접속한 다른 사람이 움직이는 것도 볼 수 있는 간단한 ...",
+    "score": 0,
+    "published_at": "2026-08-22T09:16:30+00:00",
+    "ai_summary": "Three.js와 AI를 활용하여 일본 신사의 오미쿠지(운세 종이) 체험을 웹 게임으로 구현한 프로젝트입니다. 사용자는 매일 운세를 뽑고, 좋지 않은 운세는 종이를 묶어 예방하는 상호작용을 할 수 있습니다. 다른 접속자의 움직임을 볼 수 있는 기능도 포함된 흥미로운 웹 애플리케이션입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32760",
+    "title": "나는 AI가 쓴 글을 자동으로 무시하기 시작했다",
+    "url": "https://news.hada.io/topic?id=32760",
+    "discussion_url": "https://news.hada.io/topic?id=32760",
+    "summary": "업무 문서에서 저비용 AI 생성 흔적을 감지하는 순간 집중력이 떨어져, 이미 적힌 내용을 발신자에게 다시 묻는 일이 생김\nClaude 특유의 문구가 섞인 설계 문서, 기술적으로 무의미한 표현을 담은 20쪽 마케팅 자료, 불확실한 내부 추론처럼 장황한 요구사항 문서가 대표 사례임",
+    "score": 0,
+    "published_at": "2026-08-22T07:32:05+00:00",
+    "ai_summary": "업무 문서에서 저비용 AI 생성 흔적을 감지하면 집중력이 떨어지고, 내용을 재차 확인하는 일이 발생합니다.\nClaude 특유의 문구나 기술적으로 무의미한 표현이 섞인 문서가 대표적인 예시입니다.\n이는 개발 workflow에 AI 생성 콘텐츠가 미치는 부정적 영향을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32754",
+    "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
+    "url": "https://news.hada.io/topic?id=32754",
+    "discussion_url": "https://news.hada.io/topic?id=32754",
+    "summary": "Claude Platform의 Computer Use·Skills API·Files API를 결합하면 소프트웨어 조작부터 조직 지식 적용, 완성된 파일 반환까지 하나의 에이전트 흐름으로 구성할 수 있음\n새로운 Browser Use Tool은 페이지 구조를 읽어 특정 필드와 버튼을 조작하며, Computer Us...",
+    "score": 0,
+    "published_at": "2026-08-22T00:45:02+00:00",
+    "ai_summary": "Claude Platform의 Computer Use, Skills API, Files API를 결합하여 하나의 에이전트 흐름을 구축할 수 있습니다.\n이는 소프트웨어 조작부터 조직 지식 적용, 완성된 파일 반환까지 가능하게 합니다.\n새로운 Browser Use Tool은 페이지 구조를 읽고 특정 필드와 버튼을 조작합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32753",
+    "title": "Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트를 만드는 파이프라인",
+    "url": "https://news.hada.io/topic?id=32753",
+    "discussion_url": "https://news.hada.io/topic?id=32753",
+    "summary": "사용자가 말하면 이를 감지하고(VAD) → 음성을 텍스트로 바꾸고(STT) → LLM이 질문을 이해하고 답변 생성 → 생성된 답변을 다시 음성으로 읽어주는(TTS) 완전한 음성 대화 파이프라인을 로컬에서 구성할 수 있음\n각 단계는 각각 별도 스레드에서 동작하고 큐로 연결돼, 한 단계가...",
+    "score": 0,
+    "published_at": "2026-08-22T00:30:02+00:00",
+    "ai_summary": "Huggingface 오픈소스 모델을 활용하여 로컬 음성 에이전트 파이프라인을 구축할 수 있습니다.\n사용자의 음성 감지(VAD)부터 텍스트 변환(STT), LLM 답변 생성, 그리고 음성 출력(TTS)까지 모든 과정이 포함됩니다.\n각 단계는 독립적인 스레드와 큐로 연결되어 효율적으로 동작합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32752",
+    "title": "Rust nightly, 차세대 트레이트 솔버 기본 활성화",
+    "url": "https://news.hada.io/topic?id=32752",
+    "discussion_url": "https://news.hada.io/topic?id=32752",
+    "summary": "약 4년간 개발한 차세대 트레이트 솔버가 안정화를 앞두고 nightly에서 기본 활성화되며, where 절 증명과 연관 타입 정규화 등 Rust 컴파일러의 핵심 처리 방식을 전면 교체함\n기존 구현을 제거하면 Type Alias Impl Trait·Return Type Notation 안정화, Mo...",
+    "score": 0,
+    "published_at": "2026-08-22T00:16:54+00:00",
+    "ai_summary": "약 4년간 개발된 Rust의 차세대 트레이트 솔버가 nightly에서 기본 활성화됩니다.\n이는 where 절 증명과 연관 타입 정규화 등 Rust 컴파일러의 핵심 처리 방식을 전면적으로 교체합니다.\n기존 구현 제거는 Type Alias Impl Trait, Return Type Notation 안정화에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32750",
+    "title": "더 나은 배터리",
+    "url": "https://news.hada.io/topic?id=32750",
+    "discussion_url": "https://news.hada.io/topic?id=32750",
+    "summary": "표준 라이브러리의 핵심 쟁점은 크기가 아니라 일관된 품질의 API를 설계하고 제공할 조직 역량임\nPython 표준 라이브러리는 품질과 명명 규칙이 고르지 않지만, 기능을 일찍 제공한 덕분에 데이터 과학 혁명의 기반이 됨\nGo는 포괄적인...",
+    "score": 0,
+    "published_at": "2026-08-22T00:10:54+00:00",
+    "ai_summary": "표준 라이브러리의 핵심은 크기보다는 일관된 품질의 API를 설계하고 제공하는 조직 역량입니다.\nPython 표준 라이브러리는 품질이 고르지 않으나 기능 조기 제공으로 데이터 과학 혁명 기반이 되었고, Go는 포괄적인 접근을 보여줍니다.\n이는 언어 설계와 개발 생산성 간의 균형에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32749",
+    "title": "Rust 1.98.0 발표",
+    "url": "https://news.hada.io/topic?id=32749",
+    "discussion_url": "https://news.hada.io/topic?id=32749",
+    "summary": "Rust 1.98.0 안정 버전은 대수적 부동소수점 연산, 버퍼 기반 정수 포맷팅, ManuallyDrop&lt;Box&lt;_&gt;&gt;의 동작 보장을 추가함\nf32와 f64의 algebraic_* 메서드는 연산 재배치와 루프 벡터화를 허용하지...",
+    "score": 0,
+    "published_at": "2026-08-22T00:07:54+00:00",
+    "ai_summary": "Rust 1.98.0 안정 버전이 발표되었습니다.\n주요 변경사항으로는 대수적 부동소수점 연산, 버퍼 기반 정수 포맷팅, ManuallyDrop<Box<_>>의 동작 보장 등이 있습니다.\nf32와 f64의 algebraic_* 메서드는 연산 재배치와 루프 벡터화를 허용하지 않습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402781",
+    "title": "NetBSD and my life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402781",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-08-22T19:07:46+00:00",
+    "ai_summary": "NetBSD와의 개인적인 여정을 다룬 회고록으로, 2005년 시점에서의 경험을 공유합니다.\n오픈 소스 운영체제인 NetBSD의 개발 및 사용 경험, 그리고 그 과정에서 겪은 도전과 성장을 이야기합니다.\n과거의 기술 환경과 OS 개발에 대한 이해를 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402232",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402232",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-08-22T18:14:16+00:00",
+    "ai_summary": "로컬에서 실행되는 LLM이 실제 능력보다 덜 똑똑하게 느껴지는 이유를 분석합니다.\n모델의 성능 저하를 유발하는 설정, 하드웨어 제약, 추론 파라미터 등의 요인들을 탐구합니다.\n로컬 LLM을 효과적으로 활용하기 위한 개선 방안과 팁을 제시합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49400408",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49400408",
+    "summary": "",
+    "score": 280,
+    "published_at": "2026-08-22T14:54:07+00:00",
+    "ai_summary": "음성 합성 기술로 유명한 ElevenLabs를 필두로, TwelveLabs, ThirteenLabs와 같은 AI 스타트업들을 소개합니다.\n이들 기업들이 어떤 혁신적인 AI 기술과 서비스를 개발하고 있는지 비교 분석합니다.\nAI 산업의 최신 트렌드와 유망 기업들에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49351802",
+    "title": "Hister – A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49351802",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-08-18T20:00:50+00:00",
+    "ai_summary": "Hister는 사용자가 직접 제어하는 개인용 전체 콘텐츠 검색 인덱스 시스템입니다.\n데이터를 외부에 노출하지 않고 개인 정보를 보호하며 효율적인 검색 기능을 제공합니다.\n온프레미스 환경에서 강력한 검색 솔루션을 구축하려는 개발자나 기업에 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49346854",
+    "title": "typ.ing",
+    "url": "https://typ.ing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49346854",
+    "summary": "",
+    "score": 151,
+    "published_at": "2026-08-18T15:12:53+00:00",
+    "ai_summary": "'typ.ing'은 타이핑 연습, 속도 향상 또는 텍스트 입력과 관련된 웹 서비스 또는 애플리케이션입니다.\n사용자 친화적인 인터페이스를 통해 타이핑 기술을 향상시키거나 특정 목적의 텍스트 작업을 돕습니다.\n생산성 도구나 교육용 플랫폼으로 활용될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402741",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402741",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-08-22T19:04:41+00:00",
+    "ai_summary": "macOS 27 \"Golden Gate\" 버전부터 'hdiutil' 명령어가 더 이상 지원되지 않고 사용이 중단됩니다.\n이 변경은 macOS 환경에서 디스크 이미지 관리 및 생성에 의존하는 개발자들에게 중요한 영향을 미칠 것입니다.\n개발자들은 대체 도구나 API를 찾아 기존 워크플로우를 업데이트해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49387959",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49387959",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-08-21T13:43:33+00:00",
+    "ai_summary": "텍사스 학생이 발견한 '악의적인 AI 해킹 시도'에 대한 내부 고발 사례를 다룹니다.\nAI 시스템의 취약점과 잠재적인 오용 가능성을 보여주며, AI 보안의 중요성을 강조합니다.\nAI 윤리, 책임 있는 AI 개발 및 사이버 보안에 대한 인식을 높이는 계기가 됩니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49399898",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49399898",
+    "summary": "",
+    "score": 175,
+    "published_at": "2026-08-22T14:08:19+00:00",
+    "ai_summary": "Racket은 Lisp/Scheme 계열의 다중 패러다임 프로그래밍 언어입니다.\n이 기사는 Racket의 기본 개념과 사용법을 친근하게 소개합니다.\n함수형 프로그래밍과 언어 설계를 배우는 데 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49379732",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "discussion_url": "https://news.ycombinator.com/item?id=49379732",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-08-20T20:22:35+00:00",
+    "ai_summary": "ATProto에 새로운 확장 기능인 'Spaces'가 도입되어 비공개 데이터 처리가 가능해집니다.\n이는 탈중앙화된 소셜 네트워크에서 프라이버시와 접근 제어를 강화합니다.\n개발자들은 이를 활용해 더 유연한 데이터 공유 방식을 구현할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49392536",
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49392536",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-08-21T19:05:50+00:00",
+    "ai_summary": "우즈베키스탄에서의 하룻밤에 대한 데이터 포인트 하나가 왜 그렇게 큰 영향을 미쳤는지 분석합니다.\n이는 데이터 분석에서 이상치나 특정 데이터가 전체 결과에 미치는 중요성을 강조합니다.\n데이터 과학자와 분석가에게 흥미로운 통찰을 제공할 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49398152",
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398152",
+    "summary": "",
+    "score": 241,
+    "published_at": "2026-08-22T09:49:14+00:00",
+    "ai_summary": "Munder Difflin은 사용자 '클론' 에이전트들을 관리하고 실행하는 프레임워크입니다.\n여러 AI 에이전트를 조율하여 사무실 업무와 유사한 작업을 자동화할 수 있습니다.\nAI 에이전트 개발 및 배포에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49404380",
+    "title": "NanoGPT Speedrun Frontier",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "discussion_url": "https://news.ycombinator.com/item?id=49404380",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-08-22T22:14:27+00:00",
+    "ai_summary": "NanoGPT의 속도와 성능을 극한으로 끌어올리는 '스피드런'에 대한 내용입니다.\nGPT 모델의 경량 구현체인 NanoGPT의 최적화 기술과 한계를 다룹니다.\nLLM 개발 및 성능 튜닝에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402907",
+    "title": "English ↔ Claudish Translator",
+    "url": "https://programasweights.com/claudish",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402907",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-08-22T19:19:15+00:00",
+    "ai_summary": "영어와 '클로디쉬(Claude)' 언어 간의 번역기에 대한 내용입니다.\nClaude와 같은 LLM을 특정 스타일이나 어조에 맞게 활용하거나 조작하는 방법을 다룰 수 있습니다.\nLLM의 미세 조정 및 프롬프트 엔지니어링에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49393051",
+    "title": "A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49393051",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-08-21T19:51:48+00:00",
+    "ai_summary": "한 주 동안 Claude 대신 Codex를 더 많이 사용한 경험에 대한 글입니다.\n코딩 보조 도구로서 두 LLM의 장단점과 사용 패턴을 비교합니다.\n개발자의 생산성 향상을 위한 AI 도구 활용에 대한 실질적인 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49376197",
+    "title": "Autolith: A programming agent with a live runtime",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "discussion_url": "https://news.ycombinator.com/item?id=49376197",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-08-20T15:40:57+00:00",
+    "ai_summary": "이 기사는 라이브 런타임을 특징으로 하는 AI 기반 프로그래밍 에이전트 Autolith를 소개합니다.\nAutolith는 코드 작성, 디버깅, 테스트 등 개발 워크플로우를 자동화하고 가속화하는 것을 목표로 합니다.\n이는 개발 생산성을 높이는 AI 도구의 발전 가능성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49373822",
+    "title": "Conway's Game of Life in real life",
+    "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+    "discussion_url": "https://news.ycombinator.com/item?id=49373822",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-08-20T12:40:04+00:00",
+    "ai_summary": "이 기사는 콘웨이의 생명 게임이라는 컴퓨터 과학 개념이 실제 자연 현상과 어떻게 연관될 수 있는지 탐구합니다.\n자기 조직화 시스템, 복잡성 이론 등 현실 세계의 패턴을 생명 게임의 원리로 설명합니다.\n이는 기본적인 계산 모델이 생물학적, 물리적 현상을 이해하는 데 기여함을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402521",
+    "title": "Show HN: Make your logo extra bright on HDR screens",
+    "url": "https://www.soverybright.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402521",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-08-22T18:43:03+00:00",
+    "ai_summary": "이 \"Show HN\"은 HDR(High Dynamic Range) 디스플레이에서 로고를 더욱 밝고 선명하게 표시하는 기술적 방법을 소개합니다.\n특히 웹 프론트엔드 개발자와 디자이너가 최신 디스플레이 기술을 활용하여 시각적 품질을 개선하는 데 유용한 팁과 도구를 제공합니다.\n이는 사용자 인터페이스 및 미디어 최적화에 기여합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49394827",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "url": "https://ozbrain.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49394827",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-08-21T23:09:06+00:00",
+    "ai_summary": "이 \"Show HN\"은 AI 에이전트와 팀 구성원 간의 지식 공유를 위한 \"공유 브레인\" 플랫폼인 OzBrain을 선보입니다.\n팀의 생산성과 협업을 강화하고, AI가 정보를 이해하고 활용하는 방식을 개선하는 것을 목표로 합니다.\n이는 AI 기반 협업 도구의 새로운 활용 사례를 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49398158",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398158",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-08-22T09:49:57+00:00",
+    "ai_summary": "이 기사는 1970년대에 개발된 Z80 마이크로프로세서가 여전히 활발히 사용되고 있음을 조명합니다.\n임베디드 시스템, 레트로 컴퓨팅, 교육용 플랫폼 등 다양한 분야에서 Z80의 지속적인 가치와 기술적 유산을 탐구합니다.\n이는 컴퓨터 아키텍처의 역사와 장수하는 기술의 중요성을 강조합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49399591",
+    "title": "New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49399591",
+    "summary": "",
+    "score": 167,
+    "published_at": "2026-08-22T13:31:34+00:00",
+    "ai_summary": "새로운 MCP(Microsoft Certified Professional) 로드맵은 개발자들이 최신 기술 역량을 습득하고 커리어를 계획하는 데 중요한 정보를 제공합니다.\n마이크로소프트 기술 스택에 대한 인증 경로 및 업데이트된 트렌드를 확인할 수 있어 전문성 향상에 직접적인 영향을 미칠 것입니다.\n이는 개발자들이 변화하는 기술 환경에 발맞춰 성장하는 데 필수적인 가이드라인을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402202",
+    "title": "Thinking in Python by Bruce Eckel",
+    "url": "https://thinkinginpython.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402202",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-08-22T18:10:49+00:00",
+    "ai_summary": "브루스 에켈의 'Thinking in Python'은 파이썬 프로그래밍의 깊이 있는 이해와 철학을 다루는 책입니다.\n언어의 핵심 개념과 디자인 패턴을 통해 효율적이고 파이써닉한 코드 작성을 돕는 가이드 역할을 합니다.\n파이썬 개발자들이 사고방식을 전환하고 실력을 한 단계 더 향상시키는 데 크게 기여할 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49374729",
+    "title": "Guess which of these LLM outputs is watermarked",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49374729",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-08-20T14:03:58+00:00",
+    "ai_summary": "이 기사는 LLM(대규모 언어 모델) 출력물에 워터마크를 적용하여 생성된 콘텐츠의 출처를 식별하는 기술을 탐구합니다.\nAI 생성 텍스트의 오용을 방지하고 투명성을 높이는 데 중요한 역할을 하는 보안 기술입니다.\nLLM 개발자 및 AI 윤리에 관심 있는 이들에게 AI 콘텐츠의 신뢰성을 확보하는 방안을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49364296",
+    "title": "Show HN: terminal-code – VS Code inside the terminal",
+    "url": "https://terminal-code.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364296",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-08-19T17:13:11+00:00",
+    "ai_summary": "terminal-code는 VS Code의 강력한 기능을 터미널 환경에서 직접 사용할 수 있도록 하는 혁신적인 도구입니다.\n개발자들이 CLI 환경에서 코드 편집, 디버깅 등 통합 개발 환경을 활용할 수 있게 하여 생산성을 높입니다.\n터미널 중심의 개발 워크플로우를 선호하거나 원격 서버 작업이 많은 개발자들에게 매우 유용할 것입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49370284",
+    "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
+    "url": "https://github.com/ofdryads/miniageOS",
+    "discussion_url": "https://news.ycombinator.com/item?id=49370284",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-08-20T04:07:46+00:00",
+    "ai_summary": "MiniageOS는 LineageOS를 기반으로 한 '덤폰' 버전으로, 미니멀리스트 디자인과 개인 정보 보호에 중점을 둔 모바일 운영체제입니다.\n불필요한 기능을 제거하고 핵심적인 통신 기능만을 제공하여 디지털 디톡스를 원하는 사용자들에게 적합합니다.\n오픈소스 모바일 OS 개발 및 커스터마이징에 관심 있는 개발자들에게 새로운 접근 방식과 가능성을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  }
+]
