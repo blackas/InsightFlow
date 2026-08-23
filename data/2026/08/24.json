@@ -1,0 +1,586 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32813",
+    "title": "하네스란 무엇인가?",
+    "url": "https://news.hada.io/topic?id=32813",
+    "discussion_url": "https://news.hada.io/topic?id=32813",
+    "summary": "에이전트 하네스는 AI 모델이 작동할 환경을 제공하며, 지침과 도구를 부여해 작업을 반복 수행하게 하는 소프트웨어임\n일반적으로 시스템 프롬프트, 도구, 에이전트 루프, 모델 간 번역 계층을 제공하며 터미널·iMessage·채팅·이메일 등 다양한 인터페이스로 이용...",
+    "score": 0,
+    "published_at": "2026-08-23T21:32:35+00:00",
+    "ai_summary": "AI 에이전트 하네스는 AI 모델이 지침과 도구를 활용해 반복 작업을 수행하도록 환경을 제공하는 소프트웨어입니다.\n시스템 프롬프트, 도구, 에이전트 루프 등을 포함하며, 터미널, 채팅 등 다양한 인터페이스로 접근 가능합니다.\n이는 AI 모델의 실제 적용과 개발에 필수적인 요소입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32811",
+    "title": "GLM-5.3 오픈 웨이트, Anthropic·OpenAI 모델을 5분의 1 비용으로 제침",
+    "url": "https://news.hada.io/topic?id=32811",
+    "discussion_url": "https://news.hada.io/topic?id=32811",
+    "summary": "GLM-5.3은 28개 실무 과제를 모두 통과하고 품질 점수 9.3을 받았으며, 전체 비용도 약 $0.28로 gpt-5.5의 약 5분의 1에 그침\n평가는 17개 모델에 동일한 프롬프트·API 호출·OpenRouter 스트리밍 경로와 결정론적 자동 채점을 적용한 단일 시험이...",
+    "score": 0,
+    "published_at": "2026-08-23T19:35:19+00:00",
+    "ai_summary": "GLM-5.3은 28개 실무 과제를 통과하며 9.3의 높은 품질 점수를 받았고, gpt-5.5 대비 5분의 1 수준인 약 $0.28의 저렴한 비용을 자랑합니다.\n이는 동일한 평가 방식과 자동 채점 기준으로 17개 모델을 비교한 결과입니다.\n개발자들이 비용 효율적인 고성능 LLM을 선택하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32809",
+    "title": "태블릿 소유권을 되찾는 데 266달러와 AI 모델 4개를 썼고, GLM-5.3이 하루 만에 끝냈다",
+    "url": "https://news.hada.io/topic?id=32809",
+    "discussion_url": "https://news.hada.io/topic?id=32809",
+    "summary": "하루 최대 두 번 완전히 꺼지는 Amazon Fire HD 10에서 보호된 패키지를 제거하려고 5개월간 AI 모델 4개를 동원했으며, 태블릿 가격의 두 배가 넘는 266.15달러를 지출함\nKimi K3는 Fire OS 7.3.2.6에 남은 CVE-2022-38181을 찾아 30시간·621개 ...",
+    "score": 0,
+    "published_at": "2026-08-23T17:33:05+00:00",
+    "ai_summary": "Amazon Fire HD 10 태블릿의 보호된 패키지를 제거하기 위해 5개월간 4개의 AI 모델과 266.15달러를 지출했습니다.\n특히 GLM-5.3이 하루 만에 문제를 해결했으며, Kimi K3는 Fire OS의 CVE 취약점을 찾아내 활용했습니다.\n이는 AI 모델이 특정 시스템의 보안 취약점을 탐색하고 해결하는 데 활용될 수 있음을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32807",
+    "title": "Linus Torvalds가 AI로 Intel GPU 드라이버 버그를 추적한 과정",
+    "url": "https://news.hada.io/topic?id=32807",
+    "discussion_url": "https://news.hada.io/topic?id=32807",
+    "summary": "Intel Xe GPU 드라이버가 압축 하드웨어용 flat CCS 저장공간 일부를 VRAM으로 잘못 할당해 Battlemage G21 시스템에서 검은 화면과 gdm 재시작 루프를 일으킴\nget_flat_ccs_offset()이 CCS 시작 주소를 128KiB 단위로 올림하면서 실제 경계와 계산값 사이의 메모리까지...",
+    "score": 0,
+    "published_at": "2026-08-23T16:01:31+00:00",
+    "ai_summary": "Intel Xe GPU 드라이버가 flat CCS 저장 공간을 VRAM으로 잘못 할당하여 Battlemage G21 시스템에서 검은 화면과 gdm 재시작 루프를 유발하는 버그가 발생했습니다.\nLinus Torvalds는 AI를 활용하여 get_flat_ccs_offset() 함수 오류로 인한 메모리 할당 문제를 추적했습니다.\n이는 AI가 복잡한 시스템 버그 진단 및 해결에 활용될 수 있음을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32801",
+    "title": "Claude보다 Codex를 더 많이 써본 일주일",
+    "url": "https://news.hada.io/topic?id=32801",
+    "discussion_url": "https://news.hada.io/topic?id=32801",
+    "summary": "일주일간 비교해 보니 Claude는 사용자의 의도를 추측해 요청 이상으로 확장하는 반면, Codex는 명시된 범위에 집중하고 완료 가능성이 보이면 멈추는 차이가 두드러졌음\nRuby/Rails 작업에서 Codex는 주석과 추상화, Sorbet 시그니처, 타입 별칭을 덜 추가해 더 단순한 코드...",
+    "score": 0,
+    "published_at": "2026-08-23T14:36:10+00:00",
+    "ai_summary": "일주일간 Claude와 Codex를 비교한 결과, Claude는 사용자 의도를 추측해 확장하는 반면, Codex는 명시된 범위에 집중하여 작업을 완수하는 경향을 보였습니다.\n특히 Ruby/Rails 개발에서 Codex는 더 단순하고 직관적인 코드를 생성하며 불필요한 추상화나 주석을 덜 추가했습니다.\n이는 코드 생성 AI 선택 시 개발자에게 중요한 실용적 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32799",
+    "title": "2026년 Rust GUI 라이브러리 조사",
+    "url": "https://news.hada.io/topic?id=32799",
+    "discussion_url": "https://news.hada.io/topic?id=32799",
+    "summary": "macOS를 중심으로 여러 Rust GUI 라이브러리에서 텍스트를 입력해 QR 코드를 생성하는 동일 과제를 구현하고, 상태 관리·개발 편의성과 IME·접근성을 비교함\n최종 승자는 유지 모드의 Slint와 즉시 모드의 egui로, 두 프레임워크...",
+    "score": 0,
+    "published_at": "2026-08-23T13:10:46+00:00",
+    "ai_summary": "macOS 환경에서 Rust GUI 라이브러리들의 텍스트 입력-QR 코드 생성 과제를 통해 상태 관리, 개발 편의성, IME 및 접근성을 비교했습니다.\n평가 결과 유지 모드의 Slint와 즉시 모드의 egui가 최종 승자로 선정되었습니다.\n이는 Rust 개발자들이 GUI 프레임워크 선택 시 실질적인 가이드라인을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32798",
+    "title": "소프트웨어가 계속 느린 데는 이유가 있다",
+    "url": "https://news.hada.io/topic?id=32798",
+    "discussion_url": "https://news.hada.io/topic?id=32798",
+    "summary": "LLM이 최적화 구현 비용을 낮춰도 성능 예산·우선순위와 프로덕션 출시 비용까지 해결하지는 못하므로, 소프트웨어가 더 이상 느릴 이유가 없다는 전제는 현실에서 자주 무너짐\n에이전트 작업이 비동기화되고 기능이 늘면서 사용자가 지연을 받아들이는 범위는 넓어지는 반면, 기업은...",
+    "score": 0,
+    "published_at": "2026-08-23T13:07:45+00:00",
+    "ai_summary": "LLM이 최적화 비용을 낮출지라도, 성능 예산, 우선순위, 프로덕션 출시 비용 등의 현실적 제약으로 인해 소프트웨어가 계속 느려지는 경우가 많습니다.\n에이전트 작업의 비동기화와 기능 확장으로 사용자들의 지연 허용 범위는 넓어졌지만, 기업은 여전히 비용과 성능 사이의 균형을 찾아야 합니다.\n이는 개발 과정에서 성능 최적화의 중요성을 재조명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32793",
+    "title": "기억해 둘 만한 작은 네이티브 웹 기법",
+    "url": "https://news.hada.io/topic?id=32793",
+    "discussion_url": "https://news.hada.io/topic?id=32793",
+    "summary": "별도 라이브러리 없이 브라우저가 이미 제공하는 HTML/CSS/JS만으로 UI와 상호작용을 네이티브하게 구현하는 법을 정리한 레퍼런스 사이트\n:has(), @scope, Container Query처럼 컴포넌트 구조를 단순하게 만드는 CSS부터 dialog, Popover, ...",
+    "score": 0,
+    "published_at": "2026-08-23T07:31:40+00:00",
+    "ai_summary": "별도 라이브러리 없이 HTML, CSS, JavaScript만을 활용하여 UI 및 상호작용을 네이티브하게 구현하는 웹 기법들을 정리한 레퍼런스입니다.\n:has(), @scope, Container Query 등 컴포넌트 구조를 간소화하는 CSS 기능과 dialog, Popover API 같은 최신 웹 표준을 소개합니다.\n이는 프런트엔드 개발자들이 더 가볍고 효율적인 웹 애플리케이션을 구축하는 데 유용한 지침을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32791",
+    "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
+    "url": "https://news.hada.io/topic?id=32791",
+    "discussion_url": "https://news.hada.io/topic?id=32791",
+    "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호출 실패로 이어질 수 있음\n약 10만 토큰의 실제 에이전트 작업 문맥에서 Qwen3.6-27B를 비교한 결과, 어텐션 백엔드만 바꿔도 후반부에...",
+    "score": 0,
+    "published_at": "2026-08-23T05:33:19+00:00",
+    "ai_summary": "로컬 LLM은 GPU, 추론 엔진, 양자화 방식에 따라 미세한 계산 차이가 발생하며, 긴 문맥에서는 이 차이가 실제 응답 오류나 도구 호출 실패로 이어집니다.\n어텐션 백엔드만 바꿔도 모델 성능에 큰 영향을 미칠 수 있음을 보여주며, 이는 개발자가 LLM 구현 시 고려해야 할 중요한 요소입니다.\n다양한 환경 변수가 LLM의 실제 성능에 미치는 영향을 이해하고 최적화하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32788",
+    "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
+    "url": "https://news.hada.io/topic?id=32788",
+    "discussion_url": "https://news.hada.io/topic?id=32788",
+    "summary": "Munder Difflin은 기존 에이전트 CLI와 구독을 활용해 사용자의 업무 방식·도구·지식을 공유하는 여러 복제 에이전트를 로컬 컴퓨터에서 실행하는 무료 오픈소스 하네스임\nClaude Code, Codex, Copilot 등 12개 에이전트 CLI를 감싸며, 에이전트들이 기억과 맥락을...",
+    "score": 0,
+    "published_at": "2026-08-23T02:32:37+00:00",
+    "ai_summary": "Munder Difflin은 기존 에이전트 CLI를 활용하여 사용자의 업무 방식과 지식을 공유하는 복제 에이전트를 로컬에서 실행하는 오픈소스 하네스입니다.\n이 도구는 Claude Code, Codex 등 12개 에이전트 CLI를 지원하며, 에이전트들이 기억과 맥락을 유지하도록 돕습니다.\n개발자가 AI 에이전트를 효율적으로 구축하고 관리하며, 자동화된 작업 흐름을 생성하는 데 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32785",
+    "title": "gomacro - Generics와 Macro를 지원하는 인터랙티브 Go 인터프리터/디버거",
+    "url": "https://news.hada.io/topic?id=32785",
+    "discussion_url": "https://news.hada.io/topic?id=32785",
+    "summary": "Go로 구현된 거의 완전한 Go 인터프리터로, 대화형 REPL과 스크립트 실행을 모두 지원\n일반적인 REPL 사용에서는 Go 툴체인 없이 실행 가능하며, 런타임에 서드파티 패키지를 Import할 때만 일부 환경에서 Go 툴체인이 필요함\n라인 편집과 Tab 자동 완성을...",
+    "score": 0,
+    "published_at": "2026-08-23T00:30:03+00:00",
+    "ai_summary": "gomacro는 Generics와 Macro를 지원하는 Go 언어로 구현된 인터랙티브 Go 인터프리터이자 디버거로, REPL과 스크립트 실행을 모두 지원합니다.\n대부분의 경우 Go 툴체인 없이 실행 가능하며, 런타임에 서드파티 패키지 임포트 시에만 일부 환경에서 툴체인이 필요합니다.\n라인 편집, 탭 자동 완성 등 개발자 편의 기능을 제공하여 Go 언어 개발 및 테스트 효율성을 크게 높일 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32783",
+    "title": "Gleam의 멋진 점들",
+    "url": "https://news.hada.io/topic?id=32783",
+    "discussion_url": "https://news.hada.io/topic?id=32783",
+    "summary": "Gleam은 폐기 예정 표시, 할 일, 제네릭, 패턴 매칭, 오류 처리를 언어 차원에서 일관되게 제공해 단순성과 가독성을 높임\n@deprecated와 todo를 통해 새 API로의 이동 경로와 미완성 작업의 세부 사항을 코드에 직접 남길 수 있음...",
+    "score": 0,
+    "published_at": "2026-08-23T00:09:24+00:00",
+    "ai_summary": "Gleam은 폐기 예정 표시, 할 일, 제네릭, 패턴 매칭, 오류 처리 등 언어 차원에서 일관된 기능을 제공하여 코드의 단순성과 가독성을 높입니다.\n@deprecated와 todo 어노테이션을 통해 새 API 마이그레이션 경로와 미완성 작업의 세부 사항을 코드에 직접 명시할 수 있습니다.\n이는 개발자가 더욱 명확하고 유지보수하기 쉬운 코드를 작성하도록 돕는 현대적인 언어 설계 철학을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=32781",
+    "title": "GPT-5.6 Sol 가격 20% 인하",
+    "url": "https://news.hada.io/topic?id=32781",
+    "discussion_url": "https://news.hada.io/topic?id=32781",
+    "summary": "OpenAI가 GPT-5.6 Sol의 API 가격을 입력 기준 20%, 출력 기준 33% 인하해, 100만 토큰당 입력 $4 / 출력 $20으로 조정함\nCached Input은 100만 토큰당 $0.40이며, 이번 프로모션 가격은 최소 2026년 11월 21일까지 유지될 예정\nGPT-5.6...",
+    "score": 0,
+    "published_at": "2026-08-22T23:23:20+00:00",
+    "ai_summary": "OpenAI가 GPT-5.6 Sol의 API 가격을 입력 기준 20%, 출력 기준 33% 인하하여 100만 토큰당 입력 $4, 출력 $20으로 조정했습니다.\n캐시된 입력은 100만 토큰당 $0.40이며, 이 프로모션 가격은 최소 2026년 11월 21일까지 유지될 예정입니다.\n이는 LLM 활용 비용을 크게 낮춰 개발자들이 GPT-5.6 Sol을 기반으로 한 AI 서비스를 구축하고 확장하는 데 재정적 부담을 줄여줄 것입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49410932",
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49410932",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-08-23T17:59:52+00:00",
+    "ai_summary": "이 기사는 'agent.md'라는 새로운 접근 방식을 제안하여 LLM을 활용한 코드 생성 및 개선의 품질을 높이는 방법을 탐구합니다.\nLLM이 생성한 코드의 신뢰성과 효율성을 검증하고 향상시키는 데 초점을 맞추며, 개발자의 개입을 최적화합니다.\n특히 코드 리뷰 및 리팩토링 과정에서 LLM의 잠재력을 극대화하여 개발 생산성을 높이는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411102",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411102",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-08-23T18:16:37+00:00",
+    "ai_summary": "Anthropic의 최신 AI 모델이 뛰어난 성능에도 불구하고, 더 저렴한 경쟁 도구들 때문에 사용자 유치에 어려움을 겪고 있습니다.\n이는 고급 AI 모델의 시장 가격 책정 전략과 사용자 가치 인지에 대한 중요한 시사점을 제공합니다.\n비용 효율성이 기술적 우위만큼이나 시장 성공에 결정적인 요소임을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49409092",
+    "title": "What Is a Harness?",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49409092",
+    "summary": "",
+    "score": 256,
+    "published_at": "2026-08-23T14:24:21+00:00",
+    "ai_summary": "'하네스(Harness)'는 소프트웨어 개발에서 테스트, 배포, 또는 시스템 통합을 위한 도구나 프레임워크를 의미합니다.\n이는 복잡한 시스템의 구성 요소를 격리하여 테스트하거나, 자동화된 배포 파이프라인을 구축하는 데 사용됩니다.\n개발 프로세스의 효율성과 안정성을 높이는 데 필수적인 역할을 하는 중요한 개념입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49409473",
+    "title": "How Complex Systems Fail (1998)",
+    "url": "https://how.complexsystems.fail/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49409473",
+    "summary": "",
+    "score": 214,
+    "published_at": "2026-08-23T15:13:31+00:00",
+    "ai_summary": "이 1998년 논문은 복잡한 시스템의 실패가 단일 원인이 아닌 여러 요소의 상호작용으로 발생함을 설명합니다.\n시스템 오류는 대개 작은 결함들이 모여 임계점을 넘었을 때 나타나며, 인간의 실수도 중요한 요인임을 강조합니다.\n안전하고 견고한 시스템을 설계하고 운영하기 위한 중요한 통찰력을 제공하여 개발자들에게 큰 교훈을 줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49408550",
+    "title": "Malware infects Android-based automotive head unit firmware",
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49408550",
+    "summary": "",
+    "score": 196,
+    "published_at": "2026-08-23T13:05:38+00:00",
+    "ai_summary": "안드로이드 기반 자동차 헤드 유닛 펌웨어에서 악성코드가 발견되어 심각한 보안 위협이 보고되었습니다.\n이는 차량 인포테인먼트 시스템의 취약점을 악용하여 개인 정보 유출 및 시스템 오작동을 유발할 수 있습니다.\n임베디드 시스템 및 IoT 기기 개발자들에게 펌웨어 보안 강화의 중요성을 다시 한번 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49410362",
+    "title": "A website for debloated open source alternatives",
+    "url": "https://debloat.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49410362",
+    "summary": "",
+    "score": 227,
+    "published_at": "2026-08-23T16:54:10+00:00",
+    "ai_summary": "이 웹사이트는 불필요한 기능이 제거된(debloated) 오픈소스 소프트웨어 대안들을 제공합니다.\n경량화되고 효율적인 도구를 선호하는 개발자들이나 리소스 제약이 있는 환경에서 유용하게 활용될 수 있습니다.\n소프트웨어 스택을 최적화하고 생산성을 높이는 데 기여하는 실용적인 정보원입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411020",
+    "title": "Explain it to me like I'm ten",
+    "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411020",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-08-23T18:08:13+00:00",
+    "ai_summary": "기술적인 개념이나 복잡한 아이디어를 비전문가나 초보자도 이해하기 쉽게 설명하는 방법에 대한 기사입니다. 효과적인 커뮤니케이션과 지식 전달의 중요성을 강조하며, 개발자가 복잡한 기술을 대중에게 설명할 때 유용한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49412909",
+    "title": "Implementation of GPT-2 in pure CMake",
+    "url": "https://github.com/AlpinDale/gpt2.cmake",
+    "discussion_url": "https://news.ycombinator.com/item?id=49412909",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-08-23T21:41:17+00:00",
+    "ai_summary": "유명한 대규모 언어 모델인 GPT-2를 순수 CMake만을 사용하여 구현한 매우 독특하고 기술적인 프로젝트입니다. 복잡한 AI 모델을 빌드 시스템으로 재구현하는 도전적인 접근 방식을 보여주며, CMake의 유연성과 개발자의 창의적인 문제 해결 능력을 엿볼 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49412176",
+    "title": "Decoding silent reading from non-invasive EEG",
+    "url": "https://arxiv.org/abs/2608.20186",
+    "discussion_url": "https://news.ycombinator.com/item?id=49412176",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-08-23T20:13:34+00:00",
+    "ai_summary": "비침습적 뇌전도(EEG) 데이터를 활용하여 사람이 소리 내지 않고 읽는 것을 해독하는 기술에 대한 연구입니다. 뇌파 신호 처리 및 해석을 통해 뇌-컴퓨터 인터페이스(BCI) 가능성을 탐구하며, AI/ML, 신호 처리 및 데이터 과학 분야 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411395",
+    "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+    "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411395",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-08-23T18:55:54+00:00",
+    "ai_summary": "17만 개 이상의 비영리 단체가 모든 데이터를 유실한 심각한 사건에 대한 분석이며, 마이크로소프트의 책임 여부를 다룹니다. 클라우드 서비스의 데이터 보안, 백업 전략 및 공급업체 관리의 중요성을 강조하며, 모든 개발자가 주의 깊게 봐야 할 데이터 관리 및 보안 관련 경고 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49406539",
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406539",
+    "summary": "",
+    "score": 282,
+    "published_at": "2026-08-23T06:41:51+00:00",
+    "ai_summary": "Wi-Fi 8 표준이 기존과 달리 속도 향상보다는 효율성, 저지연, 안정성 등 다른 중요한 개선에 초점을 맞추고 있다는 분석입니다. 사물 인터넷(IoT) 기기, 실시간 애플리케이션 등 다양한 환경에 미칠 영향이 주목되며, 네트워크 의존적인 시스템을 개발하는 이들에게 중요한 변화를 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411199",
+    "title": "The Vibe Tax",
+    "url": "https://insufferable.dev/posts/vibe-tax/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411199",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-08-23T18:31:02+00:00",
+    "ai_summary": "직장 내에서 특정 분위기를 유지하거나 부적절한 동료 관계에 대응하면서 발생하는 정신적, 감정적 비용인 '바이브 세금'에 대해 다룹니다. 부정적인 직장 문화가 개인의 생산성과 만족도에 미치는 영향을 분석하며, 모든 개발자가 건강한 직장 환경을 이해하고 개선하는 데 참고할 만한 글입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411468",
+    "title": "Fable and the end of the free lunch",
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411468",
+    "summary": "",
+    "score": 91,
+    "published_at": "2026-08-23T19:06:09+00:00",
+    "ai_summary": "'공짜 점심은 끝났다'는 격언처럼, 기술 자원이나 서비스가 더 이상 '무료' 또는 '쉽게 얻을 수 있는' 것이 아님을 지적하는 기사입니다. 하드웨어 성능 향상의 한계, 오픈소스의 숨겨진 비용 등 기술 산업의 경제적, 아키텍처적 변화를 다루며, 개발자들이 시스템 설계 및 비용 효율성을 고려할 때 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411024",
+    "title": "AI and Infrastructure Engineering",
+    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411024",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-08-23T18:09:01+00:00",
+    "ai_summary": "AI를 인프라 엔지니어링에 통합하여 시스템 관리, 최적화 및 자동화를 개선하는 방법을 다룹니다.\nAI가 복잡한 인프라 문제를 해결하고 효율성을 높이는 데 중요한 역할을 함을 강조합니다.\n개발자와 엔지니어가 AI 기술을 활용하여 인프라를 더 지능적으로 구축하고 운영할 수 있도록 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49402491",
+    "title": "Things I want in a modern relational query language",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49402491",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-08-22T18:38:41+00:00",
+    "ai_summary": "현대적인 관계형 쿼리 언어가 갖춰야 할 이상적인 기능과 특징을 논합니다.\nSQL의 한계를 지적하며 더 강력하고 유연하며 개발자 친화적인 쿼리 언어의 필요성을 제기합니다.\n데이터 조작 및 분석의 효율성을 높일 수 있는 새로운 패러다임을 제안합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49412467",
+    "title": "Declarative WebGPU with S-Expressions",
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49412467",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-08-23T20:47:53+00:00",
+    "ai_summary": "WebGPU를 S-표현식을 사용하여 선언적으로 다루는 새로운 접근 방식을 소개합니다.\n복잡한 그래픽 프로그래밍을 더 간결하고 이해하기 쉽게 만드는 방법을 제안합니다.\n웹 기반 고성능 그래픽 애플리케이션 개발에 새로운 가능성을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49410545",
+    "title": "The Remote Work Challenge: Lessons from 5 Cities",
+    "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "discussion_url": "https://news.ycombinator.com/item?id=49410545",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-08-23T17:15:36+00:00",
+    "ai_summary": "5개 도시의 사례를 통해 원격 근무의 도전 과제와 성공적인 전략을 분석합니다.\n원격 근무 환경에서 생산성 유지, 팀 협업 강화, 인재 유치 등 다양한 측면을 다룹니다.\n효과적인 원격 근무 문화를 구축하고 관리하기 위한 실질적인 교훈을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49411800",
+    "title": "Training AI to Paint with Code",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "discussion_url": "https://news.ycombinator.com/item?id=49411800",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-08-23T19:39:29+00:00",
+    "ai_summary": "AI가 코드를 사용하여 그림을 그리는 방법을 훈련시키는 기술을 소개합니다.\nAI가 창의적인 작업을 수행하고 예술 작품을 생성하는 과정을 탐구합니다.\n개발자와 아티스트가 협력하여 새로운 형태의 디지털 아트를 만들어낼 가능성을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49408889",
+    "title": "Death to px, long live ch",
+    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49408889",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-08-23T13:56:27+00:00",
+    "ai_summary": "이 기사는 웹 개발에서 `px` 대신 `ch` 단위를 사용하여 텍스트 크기를 지정하는 것의 이점을 강조합니다.\n`ch` 단위는 글꼴의 '0' 문자의 너비를 기반으로 하여, 가독성과 반응형 디자인에 더 유리합니다.\n개발자들에게 더욱 의미 있고 유연한 CSS 단위를 채택하여 웹 접근성과 유지보수성을 향상시킬 것을 권장합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49412483",
+    "title": "Residential proxies scraping your site? Drain their bandwidth",
+    "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
+    "discussion_url": "https://news.ycombinator.com/item?id=49412483",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-08-23T20:50:14+00:00",
+    "ai_summary": "이 기사는 웹사이트를 스크래핑하는 주거용 프록시 봇에 대응하는 방어 전략을 제시합니다.\n악의적인 스크래핑 활동을 감지하고, 이들의 대역폭을 고의로 소모시켜 비용 효율성을 떨어뜨리는 방법을 설명합니다.\n백엔드 개발자와 보안 관리자가 사이트를 보호하기 위한 효과적인 기술적 접근 방식을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  }
+]
