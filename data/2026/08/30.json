@@ -1,0 +1,337 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33003",
+    "title": "SpaceX의 Cursor 인수 이후 OpenAI가 내린 결정",
+    "url": "https://news.hada.io/topic?id=33003",
+    "discussion_url": "https://news.hada.io/topic?id=33003",
+    "summary": "OpenAI는 SpaceX가 인수한 Cursor에 모델을 공급하는 계약을 종료하기로 했으며, 서비스 차단 예정일은 2026년 11월 12일임\n계약상 허용되는 최대 통지 기간을 적용해 개발자의 접근 시간을 확보하지만, 향후 출시 모델은 Cursor에 제공하지 않음\nElon Mu...",
+    "score": 0,
+    "published_at": "2026-08-29T06:31:45+00:00",
+    "ai_summary": "OpenAI가 SpaceX에 인수된 코드 에디터 Cursor에 대한 모델 공급 계약을 종료합니다. 개발자들에게는 2026년 11월 12일까지 모델 접근이 허용되나, 이후에는 서비스가 중단됩니다. 이는 AI 모델 공급 정책 변화와 개발 도구 생태계에 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49494520",
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494520",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-08-30T00:21:40+00:00",
+    "ai_summary": "'Bug Blindness'는 개발자가 자신의 코드에서 버그를 발견하기 어려워하는 현상을 의미합니다. 이는 인지 편향이나 익숙함 때문에 발생하며, 디버깅 및 코드 리뷰 효율성에 영향을 미칩니다. 이 개념은 소프트웨어 품질과 개발 생산성 향상에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49415386",
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415386",
+    "summary": "",
+    "score": 336,
+    "published_at": "2026-08-24T05:09:23+00:00",
+    "ai_summary": "Tether는 Linux 환경에서 iMessage 및 SMS와 같은 메시징 서비스를 사용할 수 있게 해주는 도구입니다. 이는 여러 운영체제를 사용하는 개발자에게 유용한 크로스 플랫폼 통합 솔루션을 제공합니다. 메시징 접근성을 향상시켜 개발 워크플로우를 원활하게 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49491714",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491714",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-08-29T17:39:18+00:00",
+    "ai_summary": "새로운 직책에서 성급하게 행동하기보다는 먼저 상황을 파악하고 조율해야 한다는 내용의 커리어 조언 기사입니다. '행동 편향'을 경계하고 신중한 접근을 통해 성공적인 적응과 성장을 추구하는 것이 중요함을 강조합니다. 개발자를 포함한 모든 직장인에게 유용한 직업 지침을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49426995",
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "discussion_url": "https://news.ycombinator.com/item?id=49426995",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-08-24T23:00:10+00:00",
+    "ai_summary": "이 기사는 SQLite를 전통적인 관계형 데이터베이스가 아닌 문서 데이터베이스로 활용하는 방안을 탐구합니다. SQLite의 유연성과 내장 특성을 이용해 NoSQL 방식의 데이터 저장 솔루션을 구현하는 방법을 제시합니다. 백엔드 및 임베디드 개발자에게 데이터베이스 설계에 대한 새로운 관점을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49450248",
+    "title": "Is it safe to call print in a Python signal handler?",
+    "url": "https://iafisher.com/2026/08/sigprint",
+    "discussion_url": "https://news.ycombinator.com/item?id=49450248",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-08-26T14:53:41+00:00",
+    "ai_summary": "파이썬 시그널 핸들러 내에서 `print` 함수를 호출하는 것이 안전한지에 대한 질문을 다룹니다. `print`는 내부적으로 록을 사용하고 OS 호출에 의존하므로, 비동기 시그널 안전(async-signal-safe)하지 않아 예상치 못한 동작이나 교착 상태를 유발할 수 있습니다. 따라서 시그널 핸들러에서는 비동기 시그널 안전 함수만 사용하고, 복잡한 로직은 메인 스레드나 다른 안전한 컨텍스트로 연기하는 것이 좋습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49492584",
+    "title": "Domain-Driven Agents",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492584",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-08-29T19:28:28+00:00",
+    "ai_summary": "도메인 주도 설계(DDD) 원칙을 AI 에이전트 개발에 적용하는 '도메인 주도 에이전트' 개념을 소개합니다. 복잡한 에이전트 시스템을 명확하고 확장 가능하게 구축하기 위해, 도메인 모델을 중심으로 에이전트의 역할과 상호작용을 정의하는 방법을 제시합니다. 이를 통해 에이전트의 행위와 지식을 특정 도메인 컨텍스트에 맞춰 설계하여 견고한 시스템을 만들 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49492368",
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492368",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-08-29T19:01:09+00:00",
+    "ai_summary": "Rust에서 함수형 프로그래밍 원칙을 사용하여 상태 머신을 구현하는 방법을 설명합니다. 특히 Typestate와 Newtype 패턴을 활용하여 컴파일 타임에 유효하지 않은 상태 전환을 방지하고 상태 안정성을 보장하는 방법을 다룹니다. 이를 통해 안전하고 견고하며 유지보수하기 쉬운 상태 의존적 로직을 Rust의 강력한 타입 시스템으로 구현하는 기술을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49491568",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491568",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-08-29T17:19:47+00:00",
+    "ai_summary": "AI 같은 기술 도입보다 훌륭한 조직 문화가 생산성을 높이는 가장 중요한 요소임을 강조합니다. 개방적인 소통, 심리적 안정감, 협업 장려 등의 문화적 요인이 직원들의 동기 부여와 혁신에 더 큰 영향을 미칩니다. 기술은 도구일 뿐, 이를 효과적으로 활용하려면 먼저 사람 중심의 건강한 문화가 필요하다는 메시지를 전달합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49433328",
+    "title": "EVE Online moves to Python 3",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "discussion_url": "https://news.ycombinator.com/item?id=49433328",
+    "summary": "",
+    "score": 300,
+    "published_at": "2026-08-25T13:04:55+00:00",
+    "ai_summary": "EVE Online은 게임 엔진의 핵심 언어를 Python 2에서 Python 3으로 성공적으로 마이그레이션했습니다.\n이 대규모 전환은 수백만 줄의 코드를 업데이트하고 성능 및 유지보수성을 향상시키는 것을 목표로 했습니다.\n개발자들은 이 과정에서 겪었던 기술적 난관과 해결책에 대해 공유하며, 오랜 Python 2 의존성에서 벗어났습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49487341",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487341",
+    "summary": "",
+    "score": 245,
+    "published_at": "2026-08-29T06:06:51+00:00",
+    "ai_summary": "삼성은 데이터 처리 속도를 획기적으로 향상시킬 수 있는 PIM(Processing-in-Memory) 기술을 개발했습니다.\n이 기술은 메모리 내에서 직접 연산을 수행하여 데이터 이동 병목 현상을 줄이고 전력 효율성을 높입니다.\n특히 AI/ML 워크로드 및 고성능 컴퓨팅 환경에서 큰 이점을 제공할 것으로 기대됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49490138",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49490138",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-08-29T14:20:33+00:00",
+    "ai_summary": "GCC에서 실행 가능한 스택 없이 중첩 함수를 간접적으로 호출하는 기술적 방법을 다룹니다.\n이는 보안 취약점 감소 및 특정 환경에서 코드 실행 방식 제어에 중요합니다.\n스택 기반 공격 방어와 같은 시스템 보안 강화에 기여할 수 있는 고급 주제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49447178",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "url": "https://typebase.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=49447178",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-08-26T11:33:31+00:00",
+    "ai_summary": "Typebase는 단일 폴더로 구성된 백엔드 프레임워크로, TypeScript를 사용하여 개발할 수 있습니다.\n이는 개발자가 빠르고 효율적으로 백엔드 서비스를 구축하고 배포할 수 있도록 돕습니다.\n간결한 구조와 TypeScript의 장점을 활용하여 개발 생산성을 높이는 것을 목표로 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49428756",
+    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428756",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-08-25T03:26:09+00:00",
+    "ai_summary": "Sleepwalker는 자체 명령어를 사용하는 패시브 백도어로, 탐지하기 어려운 방식으로 시스템에 침투합니다.\n이 백도어는 시스템 자원을 조용히 악용하며 장기간 지속적인 접근을 가능하게 합니다.\n보안 전문가들은 이러한 정교한 위협에 대한 방어 전략을 강화해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49448583",
+    "title": "Recovering Corrupt Zip Files",
+    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448583",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-08-26T13:14:46+00:00",
+    "ai_summary": "손상된 Zip 파일을 복구하는 다양한 기술적 방법과 도구들을 설명합니다.\n파일 구조 분석, 헤더 복구, 데이터 무결성 검증 등을 통해 손상된 데이터를 최대한 복원하는 과정을 다룹니다.\n이는 데이터 손실 위험을 줄이고 중요한 정보를 살리는 데 유용합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49479546",
+    "title": "Creating the Aetheryte Radio",
+    "url": "https://haz.ee/posts/aetheryte-radio.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49479546",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-08-28T14:59:15+00:00",
+    "ai_summary": "이 기사는 'Aetheryte Radio'를 직접 구축한 경험을 공유합니다.\n오디오 스트리밍 서비스 구현 과정과 기술적 도전을 다룹니다.\n개발자들이 흥미로운 사이드 프로젝트를 만드는 데 영감을 줄 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49490832",
+    "title": "Quantifying Colour",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49490832",
+    "summary": "",
+    "score": 66,
+    "published_at": "2026-08-29T15:43:53+00:00",
+    "ai_summary": "이 기사는 색상을 정량화하는 방법과 그 중요성을 탐구합니다.\n디지털 환경에서 색상이 어떻게 표현되고 측정되는지에 대한 깊이 있는 분석을 제공합니다.\n개발자들이 UI/UX, 그래픽 처리 또는 데이터 시각화 분야에서 색상을 다룰 때 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49478287",
+    "title": "The Finn – an agent that lives in my router and complains about it",
+    "url": "https://github.com/YuriKovalov22/the-finn",
+    "discussion_url": "https://news.ycombinator.com/item?id=49478287",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-08-28T13:38:30+00:00",
+    "ai_summary": "이 기사는 라우터에 상주하며 네트워크 상태를 모니터링하고 문제를 보고하는 에이전트 'Finn'에 대해 설명합니다.\n네트워크 장치 커스터마이징, 임베디드 개발 및 자동화 기술을 다룹니다.\n홈 네트워킹 또는 IoT 프로젝트에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49492488",
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492488",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-08-29T19:15:51+00:00",
+    "ai_summary": "이 기사는 겉으로는 안전해 보였던 MySQL 업그레이드가 예상치 못한 문제를 일으킨 경험을 공유합니다.\n데이터베이스 업그레이드 시 발생할 수 있는 위험과 주의할 점을 상세히 설명합니다.\n안정적인 시스템 운영을 위한 철저한 계획과 백업의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "DevOps",
+      "Backend"
+    ]
+  }
+]
