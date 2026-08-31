@@ -1,0 +1,227 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33036",
+    "title": "Samsung의 메모리 내 연산(PIM)",
+    "url": "https://news.hada.io/topic?id=33036",
+    "discussion_url": "https://news.hada.io/topic?id=33036",
+    "summary": "삼성의 LPDDR5X-PIM(Processing-In-Memory)은 16개 DRAM 뱅크마다 곱셈 누산 연산기를 넣어, 데이터를 프로세서로 옮기지 않고 메모리 안에서 AI 연산을 수행함\n일반 LPDDR5X-9600의 외부 대역폭은 76.8GB/s지만 PIM은 16개 뱅크의 내부 대역폭을 동시에 사용해",
+    "score": 0,
+    "published_at": "2026-08-30T14:37:30+00:00",
+    "ai_summary": "삼성 LPDDR5X-PIM은 메모리 내에서 AI 연산을 직접 수행하는 기술입니다.\n데이터 이동 없이 DRAM 뱅크 내에서 곱셈 누산 연산기를 사용해 효율을 높입니다.\n이는 AI 연산 성능을 크게 향상시키는 혁신적인 접근 방식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33028",
+    "title": "Debian과 세이렌",
+    "url": "https://news.hada.io/topic?id=33028",
+    "discussion_url": "https://news.hada.io/topic?id=33028",
+    "summary": "Debian은 개발 과정에서 LLM 사용을 허용하기로 결정했지만, 18년간 프로젝트에 참여한 전 개발자는 누적된 복잡성을 근본적으로 제거하려는 동기가 약해질 수 있다고 우려함\ndebhelper는 길고 복잡한 debian/rules 상용구를 dh_ 명령으...",
+    "score": 0,
+    "published_at": "2026-08-30T06:01:06+00:00",
+    "ai_summary": "Debian 프로젝트가 개발 과정에 LLM 사용을 허용하며 논란이 되었습니다.\n일부 전 개발자는 LLM 도입이 기존 복잡성 해결 노력을 약화시킬까 우려합니다.\n이는 오픈소스 커뮤니티의 LLM 활용과 개발 문화 변화에 대한 중요한 논의입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33025",
+    "title": "Show GN: memnest, 세션이 바뀌어도 AI 코딩 에이전트가 기억을 잃지 않게 하는 로컬 메모리 서비스",
+    "url": "https://news.hada.io/topic?id=33025",
+    "discussion_url": "https://news.hada.io/topic?id=33025",
+    "summary": "세션이 끝나면 에이전트가 전부 잊어버리는 게 계속 불편했습니다. 서비스가 어느 포트에서 도는지, 왜 이 라이브러리를 골랐는지, 두 번이나 고친 버그의 해결책이 뭐였는지를 매번 다시 설명하고 있었습니다. 하네스마다 반쪽짜리 메모리 기능이 따로 있긴 했는데 다른 도구로 넘어가면 그대로 사라졌습니다.\n...",
+    "score": 0,
+    "published_at": "2026-08-30T03:16:08+00:00",
+    "ai_summary": "AI 코딩 에이전트가 세션 종료 시 기억을 잃는 불편함을 해결하는 memnest 서비스입니다.\n이 로컬 메모리 서비스는 에이전트가 이전 컨텍스트와 학습 내용을 지속적으로 기억하게 합니다.\n개발 생산성을 높이고 에이전트의 효율적인 활용을 가능하게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33023",
+    "title": "Tencent Hy4 프리뷰 공개",
+    "url": "https://news.hada.io/topic?id=33023",
+    "discussion_url": "https://news.hada.io/topic?id=33023",
+    "summary": "Tencent가 전체 770B·활성 49B 매개변수와 100만 토큰이 넘는 컨텍스트 창을 갖춘 차세대 LLM Hy4 프리뷰를 공개하고 오픈소스로 배포함\n코딩·문서 작업·게임 개발·과학 연구 같은 실제 생산성 작업에 초점을 맞췄으며, Tencent...",
+    "score": 0,
+    "published_at": "2026-08-30T01:13:58+00:00",
+    "ai_summary": "Tencent가 770B 매개변수 및 100만 토큰 컨텍스트의 차세대 LLM Hy4를 공개했습니다.\n이 모델은 코딩, 문서 작업, 게임 개발 등 다양한 생산성 작업에 초점을 맞췄습니다.\n오픈소스 배포를 통해 AI 개발 생태계에 기여할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49478426",
+    "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+    "url": "https://wilsonharper.net/projects/businesscard/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49478426",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-08-28T13:48:12+00:00",
+    "ai_summary": "NFC를 통해 에너지를 수확하여 마이크로컨트롤러(MCU)를 구동하는 PCB 명함 프로젝트이다.\n무선 전력 수확 기술과 저전력 MCU 프로그래밍, PCB 설계 기술이 결합된 DIY 전자 명함이다.\n개인 프로젝트로 하드웨어 개발, 임베디드 시스템, 저전력 설계에 관심 있는 개발자에게 유용하다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49435285",
+    "title": "Sort branches by last commit date",
+    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49435285",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-08-25T14:57:00+00:00",
+    "ai_summary": "Git 브랜치를 마지막 커밋 날짜 순으로 정렬하는 방법에 대한 내용을 다룬다.\n`git for-each-ref` 명령어를 활용하여 브랜치들을 효율적으로 관리하고 탐색하는 팁을 제공한다.\n오래된 브랜치를 정리하거나 특정 브랜치의 활동 내역을 빠르게 파악하는 데 유용한 Git 명령이다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49502611",
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49502611",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-08-30T20:46:53+00:00",
+    "ai_summary": "연속 확산 언어 모델(CDLM)은 텍스트 생성의 새로운 패러다임을 제시하는 최신 연구 분야이다.\n기존 LLM의 한계를 극복하고 보다 유연하고 고품질의 텍스트 생성을 목표로 한다.\nAI/ML 연구자 및 LLM 개발자에게 중요한 새로운 접근 방식과 기술적 통찰력을 제공한다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49446705",
+    "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
+    "url": "https://relm4.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49446705",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-08-26T10:38:56+00:00",
+    "ai_summary": "Relm4는 Rust 언어를 사용하여 아름다운 크로스 플랫폼 애플리케이션을 관용적으로 개발할 수 있게 돕는 프레임워크이다.\nGTK4 기반으로, 개발자가 복잡성 없이 선언적으로 UI를 구축하고 관리하도록 지원한다.\nRust 기반 GUI 개발, 크로스 플랫폼 애플리케이션 개발에 관심 있는 개발자에게 유용하다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49501611",
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501611",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-08-30T18:49:08+00:00",
+    "ai_summary": "오픈 소스의 중요성을 강조하며 Silicon Motion SM750 GPU를 위한 새로운 HDMI 드라이버 개발 사례를 소개한다.\n하드웨어 드라이버 개발의 복잡성과 커뮤니티 협력을 통한 문제 해결 과정을 다룬다.\n임베디드 시스템, 리눅스 커널, 오픈 소스 기여에 관심 있는 개발자에게 통찰력을 제공한다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49499891",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49499891",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-08-30T16:03:17+00:00",
+    "ai_summary": "조직이 '점액 곰팡이'와 유사하게 조정을 통해 성장하지만, 동시에 조정의 역풍에 직면한다는 비유를 제시한다.\n조직 내 커뮤니케이션, 의사결정, 협업의 복잡성과 효율성 저하 문제를 분석한다.\n팀 관리자, 리더, 또는 조직 구조에 관심 있는 개발자에게 조직 효율성 개선을 위한 시사점을 제공한다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49499095",
+    "title": "Zig: Pointer Stability for ArrayLists",
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "discussion_url": "https://news.ycombinator.com/item?id=49499095",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-08-30T14:41:53+00:00",
+    "ai_summary": "Zig 언어에서 ArrayList의 포인터 안정성에 대한 기술적인 논의이다. 동적 배열 사용 시 메모리 재할당에 따른 포인터 유효성 문제를 다룬다. 효율적인 데이터 구조 구현에 중요한 고려사항이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49499831",
+    "title": "Startup Anti-Patterns",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49499831",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-08-30T15:57:30+00:00",
+    "ai_summary": "스타트업에서 흔히 나타나는 비효율적이거나 실패로 이어지는 '안티패턴'들을 분석한다. 잘못된 의사결정, 비현실적인 기대, 팀워크 문제 등 다양한 사례를 제시한다. 스타트업 종사자들이 주의해야 할 경영 및 문화적 함정을 알려준다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49496918",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496918",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-08-30T08:51:39+00:00",
+    "ai_summary": "QubesOS에서 'VM으로 복사' 기능의 오류 보고 백채널을 통해 임의 코드 실행이 가능했던 보안 취약점에 대한 보고서이다. 가상화된 환경에서의 데이터 전송 및 오류 처리 메커니즘의 잠재적 위험을 경고한다. 운영체제 및 시스템 보안 분야에 중요한 시사점을 제공한다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  }
+]
