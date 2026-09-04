@@ -1,0 +1,825 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33207",
+    "title": "Nvidia, Hugging Face를 약 19조원에 인수하기로 공식 합의",
+    "url": "https://news.hada.io/topic?id=33207",
+    "discussion_url": "https://news.hada.io/topic?id=33207",
+    "summary": "GPU 중심의 Nvidia가 약 129억 달러($12.9b)에 Hugging Face를 인수하기로 공식 합의하며 AI 플랫폼으로 사업 영역을 확장함\n인수 후에도 Hugging Face를 전체 AI 생태계를 위한 개방형 플랫폼으로 유지하고, Nvidia 컴퓨팅을 사용하지 않아도 모델과 서비스를 자유...",
+    "score": 0,
+    "published_at": "2026-09-04T00:31:31+00:00",
+    "ai_summary": "GPU 강자 Nvidia가 Hugging Face를 인수하며 AI 플랫폼으로 사업을 확장합니다.\n인수 후에도 Hugging Face는 개방형 플랫폼으로 유지되어 AI 생태계에 긍정적입니다.\n개발자들은 더 강력해진 AI 모델 및 도구 접근을 기대할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33206",
+    "title": "CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시",
+    "url": "https://news.hada.io/topic?id=33206",
+    "discussion_url": "https://news.hada.io/topic?id=33206",
+    "summary": "ChatGPT Codex, Claude Code, Gemini, Grok Build, Antigravity 등의 OAuth 계정을 로컬 프록시에 연결해, 여러 표준 형식의 API로 제공\n별도의 API 키를 발급받지 않고도 기존 SDK, API 클라이언트와 코딩 에이전트에서 구독 계정의 모델을 호출할 수 있음\nOpenAI Respons...",
+    "score": 0,
+    "published_at": "2026-09-04T00:30:01+00:00",
+    "ai_summary": "CLIProxyAPI는 ChatGPT, Claude 등 AI 서비스의 구독 계정을 로컬 프록시를 통해 표준 API로 제공합니다.\n별도 API 키 없이 기존 SDK와 코딩 에이전트에서 AI 모델을 호출할 수 있습니다.\n이는 개발자의 AI 모델 통합 및 관리 편의성을 크게 향상시킵니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33203",
+    "title": "ChatGPT, Claude, Grok 동시다발 장애 발생, 확인된 원인과 복구 상태",
+    "url": "https://news.hada.io/topic?id=33203",
+    "discussion_url": "https://news.hada.io/topic?id=33203",
+    "summary": "한국시간 9월 3일 밤부터 4일 새벽 사이 Claude, Grok, ChatGPT와 Codex의 장애 시간이 겹쳤으며, 세 서비스 모두 현재는 복구됨\nClaude와 Grok은 오후 10시 30분 무렵부터 오류가 발생했고, ChatGPT와 Codex는 오후 11시 43분부터 일부 사용자에게 404와 요청 실패가 나타남\n...",
+    "score": 0,
+    "published_at": "2026-09-03T23:32:01+00:00",
+    "ai_summary": "9월 3일 밤부터 4일 새벽 사이 Claude, Grok, ChatGPT 및 Codex에 동시다발적 장애가 발생했습니다.\n현재는 모두 복구되었으나, 개발자는 이러한 AI 서비스의 안정성 문제에 주목해야 합니다.\n서비스 중단은 AI 의존 애플리케이션 운영에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33202",
+    "title": "GPT-6 Astra, ARC-AGI-3에서 99.9% 기록, 행동 효율은 인간을 넘어서다",
+    "url": "https://news.hada.io/topic?id=33202",
+    "discussion_url": "https://news.hada.io/topic?id=33202",
+    "summary": "명시적 지시 없이 낯선 환경을 탐색하고 규칙과 목표를 알아내는 ARC-AGI-3에서 Standard 하네스 62.7%, OpenAI의 문맥 관리 기능을 활용한 Provider Adapter 99.9%를 기록함\nStandard의 Astra(max)는 $26,098, Provider Adapter의 Astra(high)는 $18,817이 들었으며, 높은 ...",
+    "score": 0,
+    "published_at": "2026-09-03T22:04:04+00:00",
+    "ai_summary": "GPT-6 Astra가 ARC-AGI-3 벤치마크에서 99.9%를 기록하며 인간의 행동 효율을 넘어섰습니다.\n명시적 지시 없이 환경을 탐색하고 규칙을 학습하는 뛰어난 능력을 보여줍니다.\n이 모델은 복잡한 AI 문제 해결에 새로운 지평을 열 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33201",
+    "title": "Qwen 3.8 27B, Cerebras에서 초당 1,500토큰으로 제공",
+    "url": "https://news.hada.io/topic?id=33201",
+    "discussion_url": "https://news.hada.io/topic?id=33201",
+    "summary": "Cerebras가 공개 API에 Qwen 3.8 27B를 추가해, 270억 매개변수 모델의 출력을 약 초당 1,500토큰으로 생성할 수 있게 함\n에이전트 코딩, 도구 사용, 리서치와 장시간 워크플로를 겨냥한 Dense 멀티모달 모델로 텍스트와 이미지 입력, 조절 가능한...",
+    "score": 0,
+    "published_at": "2026-09-03T21:23:01+00:00",
+    "ai_summary": "Cerebras가 Qwen 3.8 27B 모델을 공개 API로 제공하며, 초당 1,500토큰의 고성능 출력을 가능하게 합니다.\n이 270억 매개변수 멀티모달 모델은 에이전트 코딩, 리서치 등 다양한 워크플로에 적합합니다.\n개발자들은 고성능 LLM을 통해 AI 애플리케이션 개발을 가속화할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33199",
+    "title": "OpenAI, GPT-6 Astra 공개",
+    "url": "https://news.hada.io/topic?id=33199",
+    "discussion_url": "https://news.hada.io/topic?id=33199",
+    "summary": "사전학습, 강화학습과 정렬 연구를 결합해 코딩, 문서 제작, 과학 연구와 보안 작업까지 폭넓은 전문 업무를 수행하는 차세대 모델\n컴퓨터와 브라우저를 직접 조작하는 작업의 속도와 정확도를 높이고, 사용자의 의도와 허가된 범위를 더 안정적으로 따르도록 설계...",
+    "score": 0,
+    "published_at": "2026-09-03T20:34:43+00:00",
+    "ai_summary": "OpenAI가 차세대 모델인 GPT-6 Astra를 공개하며 AI 분야의 새로운 가능성을 제시했습니다.\n이 모델은 코딩, 문서 제작, 과학 연구 등 폭넓은 전문 업무를 높은 정확도로 수행합니다.\n사용자 의도에 안정적으로 반응하며 컴퓨터와 브라우저 조작 능력을 강화했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33196",
+    "title": "Polars 2.0 프리릴리스",
+    "url": "https://news.hada.io/topic?id=33196",
+    "discussion_url": "https://news.hada.io/topic?id=33196",
+    "summary": "첫 릴리스 후보 Polars 2.0rc1은 대규모 기능 추가보다 기존 설계 제약을 없애고 기본 동작과 API를 개선하는 데 초점을 맞춤\n모든 LazyFrame 쿼리가 기본적으로 스트리밍 엔진을 사용하면서 메모리 효율과 실행 성능이 개선되며, 전체적으로 약 5배 ...",
+    "score": 0,
+    "published_at": "2026-09-03T16:36:34+00:00",
+    "ai_summary": "데이터 처리 라이브러리 Polars의 2.0rc1이 출시되었으며, 기존 설계 제약 제거와 API 개선에 중점을 둡니다.\n모든 LazyFrame 쿼리가 기본적으로 스트리밍 엔진을 사용해 메모리 효율과 실행 성능이 약 5배 개선됩니다.\n데이터 과학자 및 엔지니어에게 성능 향상과 안정적인 사용 경험을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33195",
+    "title": "ChatGPT와 Codex에서 404 오류 발생, 라우팅 문제로 확인",
+    "url": "https://news.hada.io/topic?id=33195",
+    "discussion_url": "https://news.hada.io/topic?id=33195",
+    "summary": "한국시간 9월 3일 밤 ChatGPT 페이지가 404 오류를 반환하고, Codex에서도 새 요청과 인증 관련 기능이 제대로 동작하지 않는 장애가 발생함\nCodex 앱과 CLI에서는 chatgpt.com/backend-api/codex/responses 요청이 404 Not Found로 실패했으며, 기존 세션...",
+    "score": 0,
+    "published_at": "2026-09-03T16:33:34+00:00",
+    "ai_summary": "9월 3일 밤 ChatGPT 및 Codex에서 404 오류가 발생했으며, 이는 라우팅 문제로 확인되었습니다.\nCodex 앱과 CLI에서 특정 API 요청이 실패했으나 현재는 복구되었습니다.\n개발자는 AI 서비스 사용 시 API 안정성 및 오류 처리 방안을 고려해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33194",
+    "title": "Fable 5.1 월드 모델링",
+    "url": "https://news.hada.io/topic?id=33194",
+    "discussion_url": "https://news.hada.io/topic?id=33194",
+    "summary": "Claude Fable 5.1 에이전트 군집이 실제 장소를 조사하고 3D로 모델링한 뒤 검수까지 수행해, 브라우저에서 직접 탐색할 수 있는 세계로 재구성함\n단순히 3D 장면 하나를 생성한 것이 아니라 자료 조사, Blender 자산 생성, Three.js 조립, 실제 사진과의 비교, 전문 역할별 검토를 ...",
+    "score": 0,
+    "published_at": "2026-09-03T15:31:41+00:00",
+    "ai_summary": "Claude Fable 5.1 에이전트 군집이 실제 장소를 조사, 3D 모델링 및 검수까지 수행하여 브라우저에서 탐색 가능한 세계로 재구성합니다.\n자료 조사, Blender 자산 생성, Three.js 조립 등 복합적인 과정을 포함하여, 단순한 3D 장면 생성을 넘어섭니다.\n이는 개발자가 직접 활용할 수 있는 기술 스택을 포함한 차세대 월드 모델링 접근법을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33182",
+    "title": "M4 Pro Mac mini로 구축한 로컬 LLM 환경",
+    "url": "https://news.hada.io/topic?id=33182",
+    "discussion_url": "https://news.hada.io/topic?id=33182",
+    "summary": "48GB RAM의 M4 Pro Mac mini를 상시 LLM 서버로 운영하며, 추론·에이전트 작업에는 Qwen3.6-35B-A3B, 간단한 대화에는 Gemma-4-E4B를 사용해 약 30분 만에 전체 환경을 구성함\n로컬 실행으로 클라우드 API의 가격 변경, 사용량 제한, 예고 없는 모델 교체를 피하고, 민감한 ...",
+    "score": 0,
+    "published_at": "2026-09-03T04:33:02+00:00",
+    "ai_summary": "M4 Pro Mac mini(48GB RAM)를 활용해 Qwen3.6-35B-A3B 및 Gemma-4-E4B 모델로 로컬 LLM 환경을 구축하는 방법을 소개합니다.\n클라우드 API의 가격, 사용량 제한, 예고 없는 모델 교체 등 기존 문제점을 회피하며 민감 데이터를 로컬에서 안전하게 처리할 수 있습니다.\n약 30분 만에 전체 환경 설정이 가능하여 개발자들에게 유용한 로컬 LLM 구축 사례를 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33177",
+    "title": "마케팅 인텔리전스 레이어 - 흩어진 경험을 AI의 재사용 가능한 컨텍스트로 만들기",
+    "url": "https://news.hada.io/topic?id=33177",
+    "discussion_url": "https://news.hada.io/topic?id=33177",
+    "summary": "문서·회의록·Slack 등에 흩어진 15년 이상의 경험을 구조화해, 다양한 AI 도구가 활용할 수 있는 마케팅 인텔리전스 레이어로 구축하는 법\n/raw에 원본 자료를 넣고 /build를 실행하면 Extractor가 문서 요약이 아니라 다른 상황...",
+    "score": 0,
+    "published_at": "2026-09-03T01:10:09+00:00",
+    "ai_summary": "문서, 회의록, Slack 등 흩어진 15년 이상의 경험 데이터를 구조화하여, 다양한 AI 도구가 활용할 수 있는 마케팅 인텔리전스 레이어를 구축하는 방법을 다룹니다.\n원본 자료를 처리하고 필요한 정보를 추출하여 AI가 재사용 가능한 컨텍스트로 만드는 과정을 설명합니다.\n이는 개발자 관점에서 데이터 파이프라인 설계 및 AI 통합 전략 수립에 직접적으로 관련됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33176",
+    "title": "Claude로 커머스 에이전트 구축하기",
+    "url": "https://news.hada.io/topic?id=33176",
+    "discussion_url": "https://news.hada.io/topic?id=33176",
+    "summary": "Anthropic이 소매, 여행, 통신, 티켓 플랫폼에서 쇼핑 에이전트와 판매자 에이전트를 며칠 안에 구축할 수 있는 블루프린트와 Claude Code 플러그인을 공개함\n쇼핑 에이전트는 여러 상품이 포함된 자연어 요청을 이해해 카탈로그 검색과 비교, 개인화 추천, 장바구니 구성, 결제와 주...",
+    "score": 0,
+    "published_at": "2026-09-03T01:03:14+00:00",
+    "ai_summary": "Anthropic이 Claude Code 플러그인과 블루프린트를 공개하여, 소매, 여행 등 다양한 플랫폼에서 쇼핑 및 판매자 에이전트를 신속하게 구축할 수 있도록 지원합니다.\n이 에이전트들은 자연어 요청을 이해하고 카탈로그 검색, 상품 비교, 개인화 추천, 장바구니 구성, 결제 등의 기능을 수행합니다.\n개발자가 Claude를 활용해 실제 비즈니스 로직이 담긴 LLM 기반 에이전트를 구축하는 실용적인 가이드를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33175",
+    "title": "Claude Fable 5.1 프롬프팅 가이드",
+    "url": "https://news.hada.io/topic?id=33175",
+    "discussion_url": "https://news.hada.io/topic?id=33175",
+    "summary": "기존 Claude Fable 5 프롬프트는 대부분 작동하지만, 5.1은 effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식이 달라 기존 설정을 그대로 교체하기보다 다시 평가해야 함\n기본값 high에서 시작해 low, medium, xhigh, ...",
+    "score": 0,
+    "published_at": "2026-09-03T01:01:50+00:00",
+    "ai_summary": "Claude Fable 5.1 프롬프팅 가이드로, 기존 5 버전 프롬프트도 대부분 작동하나, effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식 등에서 변경 사항이 있습니다.\n따라서 기존 설정을 그대로 사용하기보다 재평가가 필요하며, 새로운 버전에 맞는 최적화된 프롬프트 엔지니어링이 요구됩니다.\n개발자가 Claude Fable 5.1을 효과적으로 활용하기 위한 실용적인 프롬프트 작성 및 설정 조정 지침을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49554643",
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554643",
+    "summary": "",
+    "score": 1254,
+    "published_at": "2026-09-03T18:41:05+00:00",
+    "ai_summary": "\"GPT-6 Astra\"라는 제목의 새로운 AI 모델에 대한 소식입니다.\n구체적인 정보는 없지만, 차세대 언어 모델 또는 AI 기술의 진보와 관련이 있을 것으로 예상됩니다.\n이 기술이 개발자 커뮤니티에 미칠 영향과 새로운 기능에 대한 관심이 높을 것으로 보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49554520",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554520",
+    "summary": "",
+    "score": 436,
+    "published_at": "2026-09-03T18:32:13+00:00",
+    "ai_summary": "Qwen 3.8 27B 모델이 Cerebras 플랫폼에서 초당 1500토큰의 매우 빠른 속도로 사용 가능함을 알리는 소식입니다.\n이는 특정 LLM의 성능 및 가용성에 대한 정보를 제공하여, 개발자들이 모델 선택 및 배포 전략을 수립하는 데 유용합니다.\n고성능 AI 추론 환경 구축 및 LLM 최적화에 관심 있는 개발자에게 중요한 정보가 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49550375",
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49550375",
+    "summary": "",
+    "score": 185,
+    "published_at": "2026-09-03T14:28:18+00:00",
+    "ai_summary": "1993년 Amiga 게임을 Godot 엔진으로 포팅하는 프로젝트에서 LLM이 68000 어셈블리 코드를 해석하는 데 도움을 주었습니다.\n오래된 게임을 현대 플랫폼으로 옮기는 과정과 LLM의 코드 이해 및 변환 능력 활용을 보여줍니다.\n레거시 시스템 마이그레이션과 AI 기반 개발 도구의 잠재력을 탐구하는 흥미로운 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49551760",
+    "title": "K2 Horizon: A connected fleet of six open models",
+    "url": "https://ifm.ai/blog/k2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49551760",
+    "summary": "",
+    "score": 247,
+    "published_at": "2026-09-03T15:36:43+00:00",
+    "ai_summary": "'K2 Horizon'이라는 이름으로 여섯 개의 연결된 오픈 모델이 공개되었습니다.\n이는 AI/ML 분야의 최신 발전과 오픈 소스 모델의 확장을 나타냅니다.\nAI 개발자와 연구자들에게 새로운 모델 개발 및 활용 기회를 제공할 중요한 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49557206",
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "discussion_url": "https://news.ycombinator.com/item?id=49557206",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-09-03T21:20:34+00:00",
+    "ai_summary": "Claude, Codex, Cursor와 같은 AI 모델이 어떤 도구를 선택하고 사용하는지 17,000회 이상의 실행을 통해 분석한 연구입니다.\nAI 에이전트의 도구 활용 전략과 그 효율성을 측정하여 AI의 문제 해결 능력을 이해하는 데 기여합니다.\nAI 개발 및 도구 통합에 대한 중요한 통찰력을 제공하는 기사입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49526298",
+    "title": "Xanadu was waiting for agents",
+    "url": "https://zed.dev/blog/agentic-xanadu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526298",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-09-01T18:50:42+00:00",
+    "ai_summary": "테드 넬슨의 초기 하이퍼텍스트 시스템 'Xanadu'가 현대적인 '에이전트' 개념과 연결될 수 있다는 내용입니다.\n컴퓨터 과학의 역사적 개념과 최신 AI 에이전트 기술의 융합 가능성을 탐구합니다.\n하이퍼텍스트와 인공지능 분야의 발전 방향에 대한 흥미로운 관점을 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49544762",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544762",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-09-03T01:11:22+00:00",
+    "ai_summary": "한국 바둑 신진서 9단이 인공지능 카타고를 두 점 접바둑으로 승리하는 이변을 연출했습니다.\n이는 AI가 아직 인간의 창의성과 직관력을 완전히 따라잡지 못했음을 보여주는 사례입니다.\nAI 바둑의 한계와 가능성을 동시에 제시하는 흥미로운 결과입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49555691",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "url": "https://arcprize.org/blog/astra",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555691",
+    "summary": "",
+    "score": 157,
+    "published_at": "2026-09-03T19:45:00+00:00",
+    "ai_summary": "OpenAI의 차세대 언어 모델 GPT-6 아스트라가 ARC-AGI-3 벤치마크에서 뛰어난 성능을 보였습니다.\n이는 모델의 고급 추론 및 문제 해결 능력 향상을 의미합니다.\nLLM 개발 및 연구 분야에 중요한 진전으로 평가됩니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49527967",
+    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+    "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527967",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-09-01T20:46:03+00:00",
+    "ai_summary": "NFC 기술을 활용하여 휴대폰의 전력으로 LED가 켜지는 배터리 없는 PCB 명함이 개발되었습니다.\n이는 혁신적인 하드웨어 설계와 저전력 전자공학의 접목을 보여줍니다.\n사물 인터넷(IoT) 및 임베디드 시스템 개발자에게 영감을 줄 수 있는 아이디어입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49548395",
+    "title": "Audacity 4.0",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49548395",
+    "summary": "",
+    "score": 1042,
+    "published_at": "2026-09-03T10:53:08+00:00",
+    "ai_summary": "오픈소스 오디오 편집 소프트웨어 Audacity의 4.0 버전이 출시되었습니다.\n새로운 기능과 성능 개선이 포함되어 오디오 편집 작업의 효율성을 높였습니다.\n개발자나 콘텐츠 크리에이터에게 유용한 도구 업데이트 소식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49553321",
+    "title": "How concerned should we be about Astra's recurrent architecture?",
+    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49553321",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-09-03T17:10:06+00:00",
+    "ai_summary": "OpenAI의 '아스트라' 모델이 사용하는 순환(recurrent) 아키텍처에 대한 우려와 논의가 제기되었습니다.\n이는 특정 아키텍처 선택이 모델의 성능과 확장성에 미치는 영향에 대한 심층 분석을 포함합니다.\nAI/ML 및 LLM 연구 개발자들에게 중요한 기술적 토론 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49538069",
+    "title": "Unusual Suspects",
+    "url": "https://neal.fun/unusual-suspects/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49538069",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-09-02T15:48:13+00:00",
+    "ai_summary": "이 기사 제목만으로는 내용 파악이 어렵습니다. 예상컨대 비정상적인 패턴이나 새로운 기술 적용 사례를 다룰 수 있습니다. 개발자에게는 보안, 시스템 분석 또는 혁신적 접근 방식과 관련될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49526210",
+    "title": "Working to Make Python Lazy",
+    "url": "https://iscinumpy.dev/post/flake8-lazy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526210",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-09-01T18:44:28+00:00",
+    "ai_summary": "이 기사는 파이썬에 지연 평가(Lazy Evaluation) 기능을 도입하려는 노력을 다룹니다. 지연 평가는 필요한 시점에만 연산을 수행하여 성능과 메모리 효율을 개선합니다. 파이썬 개발자들에게 코드 최적화 및 함수형 프로그래밍 기법에 대한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49548452",
+    "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+    "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+    "discussion_url": "https://news.ycombinator.com/item?id=49548452",
+    "summary": "",
+    "score": 272,
+    "published_at": "2026-09-03T11:01:04+00:00",
+    "ai_summary": "이 기사는 구글 Antigravity 서비스의 약관 위반 시 구글 계정이 정지될 수 있음을 경고합니다. 특히 서드파티 앱이나 서비스에서 해당 기능을 사용할 때 주의해야 합니다. 구글 API를 사용하는 개발자들은 약관을 숙지하고 정책 준수에 신경 써야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49555233",
+    "title": "The asteroid currently hitting front end web development",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555233",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-09-03T19:17:24+00:00",
+    "ai_summary": "이 기사는 현재 프론트엔드 웹 개발 분야에 큰 영향을 미치는 '혁신' 또는 '도전'을 은유적으로 설명합니다. 프론트엔드 생태계의 주요 변화, 새로운 기술 트렌드, 또는 기존 방식의 대대적인 전환을 다룰 것으로 예상됩니다. 프론트엔드 개발자들에게는 반드시 알아야 할 중요한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49550479",
+    "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+    "url": "https://news.ycombinator.com/item?id=49550479",
+    "discussion_url": "https://news.ycombinator.com/item?id=49550479",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-09-03T14:37:21+00:00",
+    "ai_summary": "이 기사는 아나그램 지원 및 한 손 사용에 최적화된 단어 조합 게임을 개발한 사례를 소개합니다. 개발 과정, 기술 스택, UI/UX 디자인 결정 등이 포함될 수 있습니다. 게임 개발자, 인디 개발자 및 특정 UI/UX 문제 해결에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49555592",
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "url": "https://news.ycombinator.com/item?id=49555592",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555592",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-09-03T19:38:46+00:00",
+    "ai_summary": "이 기사는 구글 reCAPTCHA가 파이어폭스 사용자들을 부당하게 차단하는 문제에 대한 질문과 논의를 담고 있습니다. 웹사이트 개발자들은 reCAPTCHA 구현 및 사용자 경험에 영향을 미칠 수 있는 중요한 이슈입니다. 브라우저 호환성 및 보안 솔루션 구현에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49551096",
+    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+    "url": "https://news.ycombinator.com/item?id=49551096",
+    "discussion_url": "https://news.ycombinator.com/item?id=49551096",
+    "summary": "",
+    "score": 325,
+    "published_at": "2026-09-03T15:07:01+00:00",
+    "ai_summary": "이 기사는 OpenAI, Claude, Grok 등 주요 LLM 서비스들이 동시에 장애를 겪은 원인에 대한 질문과 토론을 다룹니다. LLM 기반 애플리케이션을 개발하는 개발자들에게는 서비스 안정성 및 의존성 문제가 중요합니다. AI 인프라 및 시스템 장애 분석에 대한 관심을 유발합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49515558",
+    "title": "How to get a free .arpa domain",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "discussion_url": "https://news.ycombinator.com/item?id=49515558",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-08-31T22:21:58+00:00",
+    "ai_summary": "이 기사는 인터넷 인프라에 사용되는 특별한 .arpa 도메인을 무료로 얻는 방법에 대해 다룹니다.\n네트워크 관리, DNS 설정 및 시스템 인프라에 대한 심층적인 이해를 제공합니다.\nDevOps, 시스템 관리자 또는 백엔드 인프라에 관심 있는 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49539556",
+    "title": "Static Allocation, Constant Work",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49539556",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-09-02T17:30:55+00:00",
+    "ai_summary": "이 기사는 정적 할당(Static Allocation)의 개념과 프로그래밍에서의 중요성을 탐구합니다.\n정적 할당이 어떻게 상수 시간(Constant Work)의 성능 특성을 보장하는지 설명하며, 효율적인 메모리 사용의 이점을 강조합니다.\n성능 최적화, 메모리 관리, 그리고 시스템 프로그래밍에 관심 있는 개발자에게 핵심적인 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/",
+    "title": "Muse superapp from Meta and Ava model with computer use (2 minute read)",
+    "url": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/",
+    "discussion_url": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/",
+    "summary": "Meta is moving closer to launching its agent super app under the launch name Muse. A waitlist is now available for the iOS app. Meta has added a setting for computer use on its desktop app. The company appears to be testing a model variant that supports computer control.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "메타가 에이전트 슈퍼 앱 'Muse' 출시를 준비 중이며, iOS 앱 대기자 명단을 받고 있습니다. 데스크톱 앱에 컴퓨터 사용 설정이 추가되어 AI가 컴퓨터를 제어하는 모델을 테스트 중입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+    "title": "Muse Spark 1.3 (3 minute read)",
+    "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+    "discussion_url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+    "summary": "Meta released Muse Spark 1.3 with improved coding and agentic performance, alongside changes intended to make the model easier to use in production. It has begun rolling out through Muse Code and the Meta Model API, with its highest reasoning mode awaiting additional safety testing.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "메타가 코딩 및 에이전트 성능을 개선하고 프로덕션 사용 편의성을 높인 Muse Spark 1.3을 출시했습니다. 이 모델은 Muse Code 및 Meta Model API를 통해 배포 중이며, 최고 추론 모드는 추가 안전성 테스트를 기다리고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openteams.com/intelligence-vs-cost/",
+    "title": "LLMs: Intelligence vs. cost (11 minute read)",
+    "url": "https://openteams.com/intelligence-vs-cost/",
+    "discussion_url": "https://openteams.com/intelligence-vs-cost/",
+    "summary": "ArtificialAnalysis' intelligence vs. cost plot, which shows the cheapest model that can achieve each intelligence score, is misleading. It uses a logarithmic scale on the cost axis, which means viewers can't appreciate the immensity of the price difference between the cheap models and the heavy ones, nor can they realize how inconsequential the price differences are between the cheap models. It also lists open models at their datacenter pricing, which is always very expensive compared to local h",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "LLM의 지능 대 비용 차트가 로그 스케일 사용 및 오픈 모델 가격 책정 방식 때문에 오해의 소지가 있습니다. 이는 실제 가격 차이를 왜곡하여 개발자들이 모델 선택 시 혼란을 줄 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+    "title": "Anthropic Has Some Alignment Problems (23 minute read)",
+    "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+    "discussion_url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+    "summary": "Anthropic is planning to bring METR inside for an independent review of its recent security incidents involving AI agents. While the company has paused its highest-risk RL efforts, it is also sharing research in which it intentionally created a reward-seeking version of Claude. It's hard to slow down even when it's in your own commercial interests. It seems like Anthropic will take at least short-to-medium term and prosaic alignment tasks a lot more seriously, and devote substantial resources to",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Anthropic은 AI 에이전트 관련 보안 사고로 독립적인 검토를 받을 예정이며, 고위험 RL 노력을 일시 중단했습니다. 회사는 AI 안전 및 정렬 문제에 더 많은 자원을 투입할 것으로 보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://stencil.so/blog/harness-playbook",
+    "title": "How to Build a Reliable Agent Harness (48 minute read)",
+    "url": "https://stencil.so/blog/harness-playbook",
+    "discussion_url": "https://stencil.so/blog/harness-playbook",
+    "summary": "This post lays out a detailed architecture for agent harnesses, covering state management, runtimes, control planes, inference, tools, interfaces, and language choices. The central argument is that unavoidable complexity should be absorbed by core abstractions rather than repeatedly pushed onto extensions and users.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "에이전트 하네스 구축을 위한 상세한 아키텍처를 제시하며, 상태 관리, 런타임, 제어 플레인 등 핵심 요소를 다룹니다. 복잡성은 코어 추상화가 흡수해야 한다는 점을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ianbarber.blog/2026/09/02/test-time-training/",
+    "title": "Test Time Training (3 minute read)",
+    "url": "https://ianbarber.blog/2026/09/02/test-time-training/",
+    "discussion_url": "https://ianbarber.blog/2026/09/02/test-time-training/",
+    "summary": "One of the most tantalizing phrases in model development is 'new scaling axis'. Every time the industry has found a new scaling axis, it has unlocked a large boost in model effectiveness. The idea of test-time training is an appealing one as it unlocks a new scaling axis. New research has discovered some exciting techniques, but the continual learning problem has still yet to be solved.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "모델 개발의 '새로운 스케일링 축'인 '테스트 시간 학습(test-time training)' 개념이 소개되었습니다. 새로운 기술들이 발견되고 있으나, 지속적인 학습 문제는 여전히 해결 과제로 남아 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "title": "Google Launches Gemini 3.8 Flash (10 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "summary": "Gemini 3.8 Flash has improved coding, agentic, and multi-step reasoning performance at the same introductory pricing as 3.7 Flash. A specialized Flash Cyber variant has been released for vulnerability detection and automated patching through a restricted defender program.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Google이 코딩, 에이전트, 다단계 추론 성능을 향상시킨 Gemini 3.8 Flash를 출시했습니다. 특히 취약점 탐지 및 자동 패치를 위한 특수 변형인 Flash Cyber도 함께 공개되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "title": "An Organizational Second Brain: Building an AI That Learns From Experts (15 minute read)",
+    "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "discussion_url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "summary": "Meta has developed an AI agent that serves as a \"second brain,\" codifying and preserving expert knowledge, enabling it to be easily accessed within organizations. This AI integrates a two-layer system: a structured, auditable knowledge architecture separates knowledge from reasoning processes, and a self-improvement loop that incorporates expert feedback without retraining models. This approach enhances productivity, allowing experts to focus on complex tasks while also maintaining consistent, h",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Meta가 전문가 지식을 체계화하고 보존하는 '조직의 제2의 두뇌' 역할을 하는 AI 에이전트를 개발했습니다. 이 AI는 지식과 추론 프로세스를 분리하는 2단계 시스템과 전문가 피드백을 통합하는 자가 개선 루프를 통해 생산성을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cursor.com/blog/self-hosted-machines",
+    "title": "Run cloud agents on machines you manage (6 minute read)",
+    "url": "https://cursor.com/blog/self-hosted-machines",
+    "discussion_url": "https://cursor.com/blog/self-hosted-machines",
+    "summary": "Agents' new capabilities make it practical for teams to provide and manage their own infrastructure at scale. Cursor's cloud agents can now execute on dynamically scheduled pools of machines inside private networks. Agents are still started and managed from Cursor, but teams have more control over where agents execute and what infrastructure they use. This enables agents to work next to internal services and source control, run on custom hardware, or use operating systems and build pipelines tha",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Cursor 클라우드 에이전트가 사설 네트워크 내에서 동적으로 스케줄링된 머신 풀에서 실행 가능해졌습니다. 이를 통해 팀은 에이전트의 실행 위치 및 사용하는 인프라에 대해 더 세밀한 제어를 할 수 있게 되었습니다. 내부 서비스, 소스 제어 옆에서 작업하거나 커스텀 하드웨어 및 특정 운영 체제를 활용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html",
+    "title": "OpenAI Astra and Looped Transformers (2 minute read)",
+    "url": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html",
+    "discussion_url": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html",
+    "summary": "OpenAI's model is a looped transformer, which means it reuses layers in the transformer block to increase capacity without adding parameters. This can significantly increase the size of the model without increasing the amount of storage and RAM needed to host it. However, it also increases the costs of running the model as embedded text has to run through more layers. The looped transformer aspect is just a small architectural tweak and is not the reason why Astra is a really good model.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "OpenAI의 모델은 파라미터를 추가하지 않고 용량을 늘리기 위해 레이어를 재사용하는 '루프드 트랜스포머' 아키텍처를 사용합니다. 이 방식은 모델 크기를 크게 늘리면서도 저장 공간 및 RAM 요구량을 증가시키지 않습니다. 하지만 실행 비용은 더 높아지며, 이 아키텍처 자체가 모델이 뛰어난 주된 이유는 아닙니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/Kseniase_/status/2094946857772281946",
+    "title": "What Comes Next for AI? Our Bet Is World Models (5 minute read)",
+    "url": "https://x.com/Kseniase_/status/2094946857772281946",
+    "discussion_url": "https://x.com/Kseniase_/status/2094946857772281946",
+    "summary": "World models could become the next major AI paradigm by helping systems represent environments, predict outcomes, simulate possibilities, plan, and act. The convergence of Yann LeCun, Demis Hassabis, and Fei-Fei Li suggests growing momentum around models built for decisions, not just generation.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "월드 모델은 환경을 표현하고, 결과를 예측하며, 가능성을 시뮬레이션하고, 계획 및 행동을 통해 AI의 다음 주요 패러다임이 될 수 있습니다. 주요 AI 리더들의 의견 수렴은 생성뿐만 아니라 의사 결정을 위한 모델에 대한 관심이 커지고 있음을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/check-files",
+    "title": "Check if a file was made with Claude (2 minute read)",
+    "url": "https://claude.com/check-files",
+    "discussion_url": "https://claude.com/check-files",
+    "summary": "This tool identifies the text watermark Claude uses to produce files.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "이 도구는 Claude가 생성한 파일에 사용되는 텍스트 워터마크를 식별하는 기능을 제공합니다. 이를 통해 AI가 생성한 콘텐츠의 출처를 확인하는 데 활용될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa?st=th6257&reflink=desktopwebshare_permalink",
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models (8 minute read)",
+    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa?st=th6257&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa?st=th6257&reflink=desktopwebshare_permalink",
+    "summary": "Nvidia and CrowdStrike have introduced a new family of agentic AI models dubbed SafeMind that can both find and close attack paths for customers.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Nvidia와 CrowdStrike가 새로운 에이전트형 AI 모델인 SafeMind를 개발했습니다. SafeMind는 고객의 공격 경로를 찾아내고 차단할 수 있는 기능을 제공하여 사이버 보안을 강화합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation (5 minute read)",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "discussion_url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "summary": "Unit 42 investigated a ransomware attack using frontier AI, where a human attacker breached an enterprise network with unprecedented speed.",
+    "score": 0,
+    "published_at": "2026-09-04T00:49:29+00:00",
+    "ai_summary": "Unit 42는 최신 AI를 활용한 랜섬웨어 공격 사례를 조사했습니다. 이 공격에서는 인간 공격자가 AI의 도움을 받아 전례 없는 속도로 기업 네트워크를 침해했습니다. 이는 AI가 악의적인 사이버 공격에 활용될 수 있음을 보여주는 사례입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  }
+]
