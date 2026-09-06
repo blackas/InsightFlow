@@ -1,0 +1,353 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33269",
+    "title": "unbash - Bash 명령의 구조를 실행 없이 분석하는 TypeScript 파서",
+    "url": "https://news.hada.io/topic?id=33269",
+    "discussion_url": "https://news.hada.io/topic?id=33269",
+    "summary": "Bash 명령과 스크립트를 실행하지 않고 분석해, 명령어와 인자, 조건문, 파이프와 리다이렉트 등의 구조를 추상 구문 트리(AST)로 반환\n셸 명령의 실행 권한을 확인하거나, CI와 패키지 스크립트가 어떤 프로그램과 파일을 사용하는지 조사하는 도...",
+    "score": 0,
+    "published_at": "2026-09-06T00:30:02+00:00",
+    "ai_summary": "unbash는 Bash 명령과 스크립트를 실행 없이 분석하여 AST로 반환하는 TypeScript 파서입니다.\n이를 통해 셸 명령의 실행 권한을 확인하거나, CI/CD 스크립트가 사용하는 프로그램과 파일을 조사할 수 있습니다.\n개발자가 스크립트의 구조와 잠재적 영향을 이해하는 데 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33267",
+    "title": "유럽을 벗어나지 않는 Git 호스팅",
+    "url": "https://news.hada.io/topic?id=33267",
+    "discussion_url": "https://news.hada.io/topic?id=33267",
+    "summary": "Pushin.eu는 공개·비공개 Git 저장소부터 이슈와 CI까지 EU 안에서 호스팅하며, GDPR과 개인정보 보호를 운영의 중심에 둠\n사용자 코드로 모델을 학습하거나 파트너의 학습을 허용하지 않으며, AI 기능 확대보다 개발자 경험과 고가용성에 집중함...",
+    "score": 0,
+    "published_at": "2026-09-05T22:31:32+00:00",
+    "ai_summary": "Pushin.eu는 공개 및 비공개 Git 저장소와 이슈, CI를 EU 내에서 호스팅하며 GDPR을 준수합니다.\n사용자 코드로 AI 모델을 학습하지 않고, 개발자 경험과 고가용성에 중점을 둡니다.\n데이터 주권과 개인정보 보호를 중요하게 생각하는 개발 조직에 적합한 서비스입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33265",
+    "title": "OpenRouter에서 GPT-6 Astra 사용하기: 가격과 성능 비교",
+    "url": "https://news.hada.io/topic?id=33265",
+    "discussion_url": "https://news.hada.io/topic?id=33265",
+    "summary": "같은 GPT-6 Astra를 여러 공급 경로로 호출할 수 있으며, OpenRouter에서 가격과 응답 속도, 오류율을 비교할 수 있음\n100만 토큰당 입력/출력 가격은 OpenAI Flex $5/$25, 일반 OpenAI $10/$50, OpenAI Fast $20/$100으로 경로에 따라 차이가 큼\n가격과 ...",
+    "score": 0,
+    "published_at": "2026-09-05T20:32:35+00:00",
+    "ai_summary": "OpenRouter에서 GPT-6 Astra를 다양한 공급 경로를 통해 호출하고 가격, 응답 속도, 오류율을 비교할 수 있습니다.\n100만 토큰당 입력/출력 가격이 OpenAI Flex $5/$25, 일반 $10/$50, Fast $20/$100으로 경로에 따라 크게 다릅니다.\nLLM 사용 시 비용과 성능 최적화를 위해 공급 경로를 신중히 선택해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33263",
+    "title": "AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+    "url": "https://news.hada.io/topic?id=33263",
+    "discussion_url": "https://news.hada.io/topic?id=33263",
+    "summary": "AI SRE가 경보 분석부터 가설 수립, 텔레메트리 조회, 배포 내역 연계, 수정까지 맡으면 평균 복구 시간은 줄어들지만, 엔지니어가 시스템의 동작과 장애 방식을 체득할 기회도 감소함\n결국 AI가 풀지 못하는 낯설고 심각한 장애만 사람이 넘겨받게 되므로, 자동화...",
+    "score": 0,
+    "published_at": "2026-09-05T17:37:53+00:00",
+    "ai_summary": "AI SRE가 장애 처리 과정을 자동화하면 평균 복구 시간은 단축되지만, 엔지니어는 시스템 감각을 잃을 수 있습니다.\n엔지니어는 AI가 해결하지 못하는 복잡하고 낯선 장애만 처리하게 되어 학습 기회가 감소합니다.\n장기적으로 엔지니어의 시스템 이해도와 문제 해결 능력 저하를 초래할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33261",
+    "title": "AI는 이제 회로 기판도 설계할 수 있을까?",
+    "url": "https://news.hada.io/topic?id=33261",
+    "discussion_url": "https://news.hada.io/topic?id=33261",
+    "summary": "AI는 일부 회로 설계 문제를 풀 수 있지만, 실제 부품의 오차와 비용까지 고려해 요구사항을 만족하는지는 시뮬레이션으로 검증해야 함\nEEBench는 회로를 코드로 작성하고 SPICE로 시험하는 벤치마크로, CAD 화면을 조작하는 능력보다 부품 선택과 연결, 전기적 동작을 설계...",
+    "score": 0,
+    "published_at": "2026-09-05T16:37:16+00:00",
+    "ai_summary": "AI는 일부 회로 설계 문제를 해결할 수 있지만, 실제 부품 오차와 비용을 고려한 검증이 필수적입니다.\nEEBench는 회로를 코드로 작성하고 SPICE로 시뮬레이션하여 AI의 설계 능력을 평가하는 벤치마크입니다.\nAI가 CAD 조작보다 부품 선택, 연결, 전기적 동작 설계 능력에 더 집중해야 함을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33260",
+    "title": "미국 기업들이 오픈소스 AI에 빠져들고 있다",
+    "url": "https://news.hada.io/topic?id=33260",
+    "discussion_url": "https://news.hada.io/topic?id=33260",
+    "summary": "AT&amp;T, Airbnb, Deloitte 등 미국 기업들이 비용 절감과 맞춤화를 위해 공개형 AI 모델 도입을 늘리고 있으며, AT&amp;T는 연초 대비 AI 비용을 최대 80% 절감함\n공개형 모델은 비용 지불이나 승인 없이 내려받아 수정할 수 있으며, 일부 중국 모델은 OpenAI/An...",
+    "score": 0,
+    "published_at": "2026-09-05T16:34:16+00:00",
+    "ai_summary": "AT&T, Airbnb 등 미국 기업들이 비용 절감과 맞춤화를 위해 오픈소스 AI 모델 도입을 확대하고 있습니다.\nAT&T는 이를 통해 AI 비용을 최대 80% 절감했으며, 오픈소스 모델은 수정과 재배포가 자유롭습니다.\n공개형 AI 모델은 기업의 혁신과 비용 효율성을 높이는 중요한 대안으로 부상하고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33249",
+    "title": "Chrome, 실제 공격에 악용된 V8 코드 실행 취약점 수정",
+    "url": "https://news.hada.io/topic?id=33249",
+    "discussion_url": "https://news.hada.io/topic?id=33249",
+    "summary": "Google이 실제 공격에 악용된 V8 취약점 CVE-2026-85046 을 수정한 Chrome 보안 업데이트를 배포함\n조작된 HTML 페이지를 통해 브라우저 샌드박스 내부에서 임의 코드 실행이 가능한 취약점\n공격 복잡도가 낮고 사전 권한도 필요 없지만 사용...",
+    "score": 0,
+    "published_at": "2026-09-05T03:31:59+00:00",
+    "ai_summary": "Google은 실제 공격에 악용된 Chrome의 V8 코드 실행 취약점 CVE-2026-85046을 수정하는 보안 업데이트를 배포했습니다.\n이 취약점은 조작된 HTML 페이지를 통해 브라우저 샌드박스 내부에서 임의 코드 실행을 가능하게 합니다.\n공격 복잡도가 낮고 사전 권한 없이 사용자 상호작용만으로 악용될 수 있어 신속한 업데이트가 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33248",
+    "title": "AI가 내 두뇌를 망치고 있을까?",
+    "url": "https://news.hada.io/topic?id=33248",
+    "discussion_url": "https://news.hada.io/topic?id=33248",
+    "summary": "AI의 윤리·환경 문제와 직접 코딩하는 즐거움 때문에 사용을 꺼렸지만, 복잡한 프로젝트에서 Cursor에 의존하면서 문제 해결 습관이 달라지기 시작함\nCursor의 답을 기다리며 뜨개질하다 잘못된 무늬를 발견했을 때, 자신도 모르게 AI부터 찾으려 했다는 사실에 충...",
+    "score": 0,
+    "published_at": "2026-09-05T03:01:26+00:00",
+    "ai_summary": "AI 사용에 대한 윤리적/환경적 우려에도 불구하고, 복잡한 프로젝트에서 Cursor에 의존하게 되며 개발자의 사고 과정이 변합니다.\n이는 문제 해결 습관을 바꾸고, 스스로 AI에 의존하려는 경향을 발견하게 만드는 AI의 영향을 성찰하는 내용입니다.\n개발자의 코딩 방식과 문제 해결 능력에 AI가 미치는 긍정적 및 부정적 측면을 깊이 있게 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33247",
+    "title": "Claude Code,Codex,Cursor는 어떤 도구를 선택할까? 1만7천 회 실행 분석",
+    "url": "https://news.hada.io/topic?id=33247",
+    "discussion_url": "https://news.hada.io/topic?id=33247",
+    "summary": "75개 저장소와 1,163개 프롬프트 변형으로 진행한 16,893회 실험 가운데, 51개 코드베이스·18개 분야의 유효 세션 5,292개를 1차 분석함\n정보 탐색 방식이 달라 세 에이전트가 같은 제품을 선택한 비율은 42% 에 그쳤으며, Claude Code의 자체 구현 비율은 19%로 C...",
+    "score": 0,
+    "published_at": "2026-09-05T02:32:48+00:00",
+    "ai_summary": "75개 저장소와 1,163개 프롬프트 변형으로 16,893회 실험 중 유효 세션 5,292개를 분석한 결과입니다.\n세 에이전트(Claude Code, Codex, Cursor)가 같은 제품을 선택한 비율은 42%에 그쳤고, 정보 탐색 방식이 다릅니다.\nClaude Code는 19%의 자체 구현 비율을 보이며, 다양한 AI 코딩 도구의 활용 방식과 차이점을 연구한 결과입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49582000",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "discussion_url": "https://news.ycombinator.com/item?id=49582000",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-09-06T00:03:29+00:00",
+    "ai_summary": "개인도 쉽게 클라우드 환경을 구축하고 자체 호스팅할 수 있도록 돕는 \"Cloud in a Bottle\" 기술에 대한 기사입니다.\n이 기술은 복잡한 클라우드 인프라를 단순화하여 누구나 접근 가능하게 만드는 것을 목표로 합니다.\n개발자 및 일반 사용자에게 클라우드 기술의 문턱을 낮추고 자가 호스팅의 가능성을 넓히는 데 기여합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49578280",
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49578280",
+    "summary": "",
+    "score": 164,
+    "published_at": "2026-09-05T16:45:02+00:00",
+    "ai_summary": "OCaml 언어를 통해 프로그래밍을 배우는 방법에 대한 기사로, 함수형 프로그래밍의 특징을 다룹니다.\nOCaml이 제공하는 강력한 타입 시스템과 효율적인 코드 작성법을 소개하며, 개발자의 생산성을 향상시킵니다.\n개발자가 새로운 언어를 학습하고 프로그래밍 패러다임을 확장하는 데 도움을 줄 수 있는 실용적인 가이드입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49548852",
+    "title": "How Swiss tables work in Go built-in map",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49548852",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-09-03T11:59:17+00:00",
+    "ai_summary": "Go의 내장 맵이 스위스 테이블을 사용하여 효율적으로 구현되는 방식을 설명합니다.\n메모리 레이아웃, 해시 충돌 처리, 그리고 삭제 동작의 최적화 원리를 다룹니다.\nGo 맵의 성능 특성과 내부 동작에 대한 깊이 있는 이해를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49576343",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49576343",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-09-05T13:31:05+00:00",
+    "ai_summary": "Rust의 `dyn Trait`가 메모리에서 어떻게 작동하는지 Vtable 시각화를 통해 설명합니다.\n런타임 다형성 구현을 위한 Vtable의 구조와 포인터 사용을 상세히 분석합니다.\nRust 개발자가 트레이트 객체의 동작 원리를 깊이 있게 이해하도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49549778",
+    "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+    "url": "https://github.com/iczelia/balrogg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49549778",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-09-03T13:37:22+00:00",
+    "ai_summary": "Balrogg는 Vorbis/Opus 오디오 파일을 손실 없이 최대 15%까지 재압축하는 도구입니다.\n이 도구는 기존 압축 파일에서 중복 데이터를 찾아 제거하여 효율성을 높입니다.\n오디오 관련 프로젝트에서 저장 공간을 절약하려는 개발자에게 유용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49580164",
+    "title": "LLMs as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "discussion_url": "https://news.ycombinator.com/item?id=49580164",
+    "summary": "",
+    "score": 156,
+    "published_at": "2026-09-05T20:02:35+00:00",
+    "ai_summary": "이 기사는 LLM이 인간의 인지 과정에 '인지 바이러스'처럼 영향을 미칠 수 있다고 경고합니다.\nLLM이 정보 소비 방식, 사고 체계, 그리고 사회적 상호작용에 미치는 부정적 영향을 탐구합니다.\nAI 개발자와 사용자 모두에게 LLM의 윤리적, 사회적 함의에 대한 깊은 성찰을 요구합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49581240",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581240",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-09-05T22:15:52+00:00",
+    "ai_summary": "OKF Agent Memory는 AI 코딩 에이전트를 위한 Git 기반의 영구 메모리 솔루션입니다.\nGit의 버전 관리 기능을 활용하여 에이전트의 경험과 지식을 장기적으로 저장하고 관리합니다.\n이는 AI 에이전트의 지속적인 학습 및 협업 능력 향상에 기여할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49575150",
+    "title": "Terpstra Keyboard",
+    "url": "http://terpstrakeyboard.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49575150",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-09-05T10:33:01+00:00",
+    "ai_summary": "Terpstra 키보드는 특정 레이아웃을 가진 대체 입력 장치로, 생산성 향상과 인체공학적 디자인에 관심 있는 개발자들에게 매력적일 수 있습니다.\n이는 개발자의 작업 환경과 효율성에 영향을 미칠 수 있는 하드웨어 주제입니다.\n새로운 입력 방식을 탐구하는 관점에서 개발자 관련성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49543347",
+    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
+    "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49543347",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-09-02T22:17:08+00:00",
+    "ai_summary": "CHC5 오픈 카메라 시스템은 이미지 센서 사양을 비교 분석하는 내용을 다룹니다.\n이는 임베디드 시스템, 컴퓨터 비전, 하드웨어 제어 등 개발자에게 매우 관련성이 높은 주제입니다.\n센서 데이터 처리 및 영상 처리 기술 개발에 직접적인 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49519101",
+    "title": "Show HN: Fly By – retro biplane flying game",
+    "url": "https://michaelteter.com/flyby.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519101",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-09-01T07:31:38+00:00",
+    "ai_summary": "\"Show HN: Fly By\"는 복고풍 복엽기 비행 게임을 개발자가 직접 선보이는 프로젝트입니다.\n이는 게임 개발, 그래픽스 프로그래밍, 프론트엔드 기술 등에 관심 있는 개발자들에게 매우 높은 관련성을 가집니다.\n개인 프로젝트나 취미 개발의 사례로도 의미가 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49576258",
+    "title": ".gitignore Everything by Default",
+    "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+    "discussion_url": "https://news.ycombinator.com/item?id=49576258",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-09-05T13:19:42+00:00",
+    "ai_summary": "이 기사는 `.gitignore` 파일을 사용하여 기본적으로 모든 것을 무시하는 Git 전략을 제안합니다.\n이는 명시적으로 Git에 포함시킬 파일만 지정하여 불필요한 파일 추적을 방지하고 저장소를 깔끔하게 유지하는 방법입니다.\n개발 워크플로우를 효율화하고 프로젝트 관리 실수를 줄이는 데 도움을 줄 수 있는 실용적인 팁입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  }
+]
