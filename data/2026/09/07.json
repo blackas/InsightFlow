@@ -1,0 +1,564 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33305",
+    "title": "Databasus - 실제 복원까지 검증하는 셀프 호스팅 데이터베이스 백업 도구",
+    "url": "https://news.hada.io/topic?id=33305",
+    "discussion_url": "https://news.hada.io/topic?id=33305",
+    "summary": "백업 일정과 저장 위치, 보관 기간을 관리하고 백업한 데이터가 실제로 복원되는지까지 자동으로 확인하는 도구\nPostgreSQL/MySQL/MariaDB/MongoDB의 논리 백업 지원\nPostgreSQL은 전체/증분 물리 백업과 특정 시점 복구(PITR) 도 가능\n\nWAL 변경...",
+    "score": 0,
+    "published_at": "2026-09-07T00:40:02+00:00",
+    "ai_summary": "Databasus는 데이터베이스 백업을 자동화하고 관리하며, 백업된 데이터가 실제로 복원되는지까지 검증하는 도구입니다.\nPostgreSQL, MySQL, MariaDB, MongoDB의 논리 백업을 지원하며, PostgreSQL은 물리 백업과 특정 시점 복구(PITR)도 가능합니다.\n개발자 및 DevOps 팀에게 필수적인 데이터 보호 솔루션을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33304",
+    "title": "브라운필드의 코끼리: AI로 개인은 빨라졌는데, 조직은 왜 그대로인가",
+    "url": "https://news.hada.io/topic?id=33304",
+    "discussion_url": "https://news.hada.io/topic?id=33304",
+    "summary": "기존 시스템과 조직 구조가 자리 잡은 브라운필드 기업의 AI 전환에는 기술뿐 아니라, 자신의 역할과 팀의 권한을 정체성으로 여기는 문제가 걸려 있음\nAI로 담당 업무를 빠르게 처리해도 다른 팀의 승인과 백로그를 기다려야 한다면 조직 경계를 넘는 순간...",
+    "score": 0,
+    "published_at": "2026-09-07T00:35:02+00:00",
+    "ai_summary": "AI 기술 도입으로 개인의 업무 효율은 높아졌지만, 기존 조직 구조와 문화 때문에 전사적 AI 전환은 더딥니다.\n자신의 역할과 팀 권한에 대한 고정관념이 AI 기술 활용의 걸림돌로 작용합니다.\nAI로 빠르게 업무를 처리해도 조직 경계를 넘으면 병목 현상이 발생하여, 조직 변화가 수반되어야 함을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33302",
+    "title": "LLGo - C와 Python 라이브러리를 활용하는 LLVM 기반 Go 컴파일러",
+    "url": "https://news.hada.io/topic?id=33302",
+    "discussion_url": "https://news.hada.io/topic?id=33302",
+    "summary": "Go로 코드를 작성하면서 C와 Python 생태계의 라이브러리를 함께 사용할 수 있도록 만든 컴파일러\nGo 소스를 LLVM으로 컴파일하며, C 라이브러리와는 C ABI 공통 호출 규약으로 연결\nC 함수를 직접 호출해 일반 Go의 cgo에서 발생하는 스택과...",
+    "score": 0,
+    "published_at": "2026-09-07T00:30:03+00:00",
+    "ai_summary": "LLGo는 Go 코드를 작성하면서 C와 Python 생태계의 라이브러리를 함께 사용할 수 있도록 만든 LLVM 기반 컴파일러입니다.\nGo 소스를 LLVM으로 컴파일하며, C ABI 공통 호출 규약을 통해 C 라이브러리와 연결됩니다.\n일반 Go의 cgo에서 발생하는 스택 문제를 해결하여 C 함수를 직접 호출할 수 있는 고성능 언어 통합을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33301",
+    "title": "GPT-6 Astra: 하네스가 곧 제품이다",
+    "url": "https://news.hada.io/topic?id=33301",
+    "discussion_url": "https://news.hada.io/topic?id=33301",
+    "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메모리, 도구, 문맥 관리, 제어 루프를 합친 시스템으로 평가해야 함\n요청 사이에 이전 추론 상태를 보존하고...",
+    "score": 0,
+    "published_at": "2026-09-07T00:25:02+00:00",
+    "ai_summary": "GPT-6 Astra의 실제 성능은 모델 자체뿐만 아니라 메모리, 도구, 문맥 관리, 제어 루프를 포함한 '하네스' 시스템에 크게 좌우됩니다.\n동일한 모델이라도 하네스에 따라 추론 결과가 54.8%에서 99.9%로 극명하게 달라지는 사례가 발견되었습니다.\n장기 실행 에이전트는 모델뿐만 아니라 주변 시스템을 통합하여 평가해야 한다는 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33293",
+    "title": "AI로 도구를 만드는 것과 기업을 바꾸는 것은 다른 일이다",
+    "url": "https://news.hada.io/topic?id=33293",
+    "discussion_url": "https://news.hada.io/topic?id=33293",
+    "summary": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개임\n기업 소프트웨어는 표준화한 전용 시스템과 Excel·이메일을 활용한 즉흥적 업무 처리 사이를 오가며 발전하고, AI는 이 구도를 없애...",
+    "score": 0,
+    "published_at": "2026-09-06T21:46:00+00:00",
+    "ai_summary": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개입니다.\n기업 소프트웨어는 표준화된 시스템과 즉흥적인 업무 처리 사이를 오가며 발전해왔습니다.\nAI는 이러한 기존의 업무 방식과 조직 구조를 변화시킬 잠재력을 가지고 있지만, 실제 적용에는 더 많은 노력이 필요합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33292",
+    "title": "로봇 팔을 제어하는 GPT-6 Astra",
+    "url": "https://news.hada.io/topic?id=33292",
+    "discussion_url": "https://news.hada.io/topic?id=33292",
+    "summary": "Robocurve가 카메라 영상을 보고 로봇 팔을 움직이도록 한 실험에서, Astra는 블록을 집어 그릇에 넣는 작업을 20회 중 19회 성공해 Claude Fable 5.1의 8회를 크게 앞섬\n블록 작업의 회당 평균 시간은 6.8분에서 2.5분, 추정 모델 호출 비용은 2.12달러에...",
+    "score": 0,
+    "published_at": "2026-09-06T21:40:42+00:00",
+    "ai_summary": "Robocurve 실험에서 GPT-6 Astra가 카메라 영상을 보고 로봇 팔을 성공적으로 제어했습니다.\n블록을 집어 그릇에 넣는 작업을 20회 중 19회 성공하며, Claude Fable 5.1의 8회 성공률을 크게 앞질렀습니다.\n작업당 평균 시간과 추정 모델 호출 비용도 크게 절감되어, LLM의 실제 로봇 제어 능력이 크게 향상되었음을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33291",
+    "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
+    "url": "https://news.hada.io/topic?id=33291",
+    "discussion_url": "https://news.hada.io/topic?id=33291",
+    "summary": "AI 모델의 종합 성능을 비교하는 Intelligence Index v4.2를 공개하며, 복잡한 업무 수행과 장문 문서 분석을 평가에 추가함\n수천 개의 자료를 활용하는 에이전트 지식 업무와 여러 페이지에 흩어진 근거를 종합하는 전문 문서 추론을 평가하고, ...",
+    "score": 0,
+    "published_at": "2026-09-06T21:35:57+00:00",
+    "ai_summary": "AI 모델의 종합 성능을 비교하는 Intelligence Index v4.2가 공개되었으며, 실제 업무 평가가 강화되었습니다.\n복잡한 업무 수행과 장문 문서 분석 능력이 평가에 추가되었고, 비공개 테스트도 확대되었습니다.\n수천 개의 자료를 활용하는 에이전트 지식 업무와 여러 페이지의 근거를 종합하는 전문 문서 추론 능력을 중점적으로 평가합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33289",
+    "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
+    "url": "https://news.hada.io/topic?id=33289",
+    "discussion_url": "https://news.hada.io/topic?id=33289",
+    "summary": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고, 독자가 내용의 진정성까지 의심하게 될 수 있음\n이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시는 LLM 생성 글에 익숙한 독자에게 쉽게 눈에 띄어, 그럴듯한 글을 기대한 것과...",
+    "score": 0,
+    "published_at": "2026-09-06T20:33:14+00:00",
+    "ai_summary": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고 독자가 내용의 진정성을 의심하게 될 수 있습니다.\n이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시 등은 LLM 생성 글의 특징으로 독자에게 쉽게 눈에 뜁니다.\n이는 독자가 기대하는 그럴듯한 글과 거리가 있어, LLM 활용 시 개인의 목소리 유지에 주의가 필요함을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33288",
+    "title": "NAS/백업에 어떤 파일시스템을 사용하고 있으며, 그 이유는 무엇인가요?",
+    "url": "https://news.hada.io/topic?id=33288",
+    "discussion_url": "https://news.hada.io/topic?id=33288",
+    "summary": "NAS와 백업에 어떤 파일시스템을 쓰고 왜 선택했는지, 여러 디스크는 파일시스템 내장 RAID나 별도 도구로 어떻게 관리하는지 묻는 lobsters의 질문글\nZFS는 오랜 운영 경험과 데이터 무결성, 스냅샷, 암호화된 원격 증분 복제를 이유로 많이 선택됐으며, Linux에서...",
+    "score": 0,
+    "published_at": "2026-09-06T20:03:14+00:00",
+    "ai_summary": "NAS 및 백업에 사용되는 파일시스템과 그 선택 이유를 묻는 질문글입니다.\nZFS는 데이터 무결성, 스냅샷, 암호화된 원격 복제 등으로 선호됩니다.\nLinux 환경에서의 활용과 디스크 관리 방식이 논의됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33278",
+    "title": "strip 유틸리티를 통한 Linux 배포판 전체의 Trusting-Trust 공격",
+    "url": "https://news.hada.io/topic?id=33278",
+    "discussion_url": "https://news.hada.io/topic?id=33278",
+    "summary": "소스 코드 검토를 우회하는 trusting-trust 공격이 컴파일러가 아닌 GNU strip에서도 가능하며, NixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 실증함\n공격은 소스를 검사·생성·수정하지 않고 완성된 ELF 파일만 변환하며, 깨끗한 소...",
+    "score": 0,
+    "published_at": "2026-09-06T09:01:52+00:00",
+    "ai_summary": "GNU `strip` 유틸리티를 통해 소스 코드 검토를 우회하는 Trusting-Trust 공격이 가능함이 실증되었습니다.\nNixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 확인했습니다.\n이 공격은 소스 수정 없이 완성된 ELF 파일만 변환하여 작동합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33276",
+    "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
+    "url": "https://news.hada.io/topic?id=33276",
+    "discussion_url": "https://news.hada.io/topic?id=33276",
+    "summary": "모든 창을 닫으면 사이트 데이터를 삭제하도록 설정해도, Google 검색 후 google.com 데이터가 남는 현상이 Chrome에서 재현됨\nChrome 152.0.7977.83을 쓰는 서로 다른 Mac 두 대에서 확인됐으며, 기본 검색 엔진을 DuckDuckGo로 바꾸고 Chrome 로그인...",
+    "score": 0,
+    "published_at": "2026-09-06T08:32:03+00:00",
+    "ai_summary": "Chrome에서 모든 창을 닫아도 Google 검색 후 google.com 데이터가 남는 현상이 재현됩니다.\n이는 사용자 설정(사이트 데이터 삭제)이 Google 사이트에 예외적으로 적용되는 것을 보여줍니다.\n다른 검색 엔진을 사용하거나 로그인하지 않아도 동일한 현상이 확인됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33275",
+    "title": "Cloud in a Bottle: 누구나 쉽게 쓸 수 있는 셀프 호스팅을 향해",
+    "url": "https://news.hada.io/topic?id=33275",
+    "discussion_url": "https://news.hada.io/topic?id=33275",
+    "summary": "Cloud in a Bottle은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드로, 셀프 호스팅을 시스템 관리 부업이 아니라 웹앱을 제공하는 스마트폰처럼 쉽게 만드는 것이 목표임\nUbuntu 기반 서버의 루트 권한 없는 보안 강화 컨테이너에서 앱을 실행하며,...",
+    "score": 0,
+    "published_at": "2026-09-06T07:33:19+00:00",
+    "ai_summary": "Cloud in a Bottle은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드입니다.\n셀프 호스팅을 시스템 관리 부업이 아닌 스마트폰처럼 쉽게 만드는 것이 목표입니다.\nUbuntu 기반 서버의 루트 권한 없는 컨테이너에서 앱을 실행합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33273",
+    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
+    "url": "https://news.hada.io/topic?id=33273",
+    "discussion_url": "https://news.hada.io/topic?id=33273",
+    "summary": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함\n차이는 검색 정확도뿐 아니라 결과를 바로 활용할 수 있는지",
+    "score": 0,
+    "published_at": "2026-09-06T05:27:15+00:00",
+    "ai_summary": "Claude 모델 실험에서 코딩 에이전트가 LSP보다 `grep`을 선호하는 경향이 나타났습니다.\n코드 구조를 이해하는 LSP 기반 도구보다 단순 코드 찾기에 `grep`을 주로 사용했습니다.\nLSP 강제 시 성공률이 떨어지는 등 검색 정확도와 즉시 활용성의 차이를 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49590512",
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "discussion_url": "https://news.ycombinator.com/item?id=49590512",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-09-06T20:24:00+00:00",
+    "ai_summary": "GrapheneOS가 기본 앱들을 대대적으로 개편하고 보안 클립보드 기능을 개선했습니다.\n이 업데이트는 사용자 경험, 프라이버시 및 전반적인 시스템 보안을 강화하는 데 중점을 둡니다.\n(원문 요약이 잘려있어 세부 내용은 추정)",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49591876",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49591876",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-09-06T23:14:08+00:00",
+    "ai_summary": "파이썬 인터프리터를 단 1024바이트라는 극도로 작은 크기로 구현하는 프로젝트입니다.\n이는 제한된 자원 환경에서 언어 설계와 효율적인 코드 실행 원리를 탐구합니다.\n저수준 프로그래밍과 인터프리터 작동 방식에 대한 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49590738",
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "url": "https://github.com/marsbos/mador",
+    "discussion_url": "https://news.ycombinator.com/item?id=49590738",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-09-06T20:45:13+00:00",
+    "ai_summary": "Mador는 단 80줄의 Proxy 상태 튜플로 모든 DOM을 반응형으로 만드는 프로젝트입니다.\n이는 미니멀리스트 접근 방식으로 웹 UI 개발의 복잡성을 크게 줄이고자 합니다.\n프레임워크 없이 효율적인 반응형 웹 애플리케이션 개발에 기여하는 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49590595",
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "url": "https://arxiv.org/abs/2505.12540",
+    "discussion_url": "https://news.ycombinator.com/item?id=49590595",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-09-06T20:31:20+00:00",
+    "ai_summary": "임베딩의 보편적인 기하학적 구조를 활용하는 방법에 대한 심도 깊은 분석입니다.\nAI/ML 분야에서 데이터 간의 복잡한 관계를 이해하고 모델을 개선하는 데 필수적입니다.\n임베딩 공간의 특성을 분석하여 머신러닝 모델의 성능을 최적화하는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49587636",
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587636",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-09-06T15:44:24+00:00",
+    "ai_summary": "NetBSD 9.5 버전이 공식 출시되었으며, 이전 버전인 NetBSD-9의 지원이 종료됩니다.\n이는 운영체제 사용자 및 시스템 관리자에게 중요한 업데이트 정보와 마이그레이션 필요성을 알립니다.\n시스템 안정성, 보안 업데이트 및 장기적인 유지보수 계획을 고려해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49561514",
+    "title": "Reverse engineering the storage format for an undocumented database",
+    "url": "https://blog.glazer.ee/posts/converting-cronos/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49561514",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-09-04T07:17:00+00:00",
+    "ai_summary": "문서화되지 않은 데이터베이스의 저장 형식을 리버스 엔지니어링하는 과정을 다룹니다.\n이는 레거시 시스템 연동, 데이터 복구, 또는 보안 분석 시 매우 중요한 기술적 도전 과제입니다.\n데이터베이스 내부 구조 이해와 문제 해결 능력을 향상시키는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49591672",
+    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "discussion_url": "https://news.ycombinator.com/item?id=49591672",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-09-06T22:43:25+00:00",
+    "ai_summary": "Liquid Federation 지갑에서 약 4천 비트코인(약 3억 2천만 달러)이 해커에 의해 인출되었습니다.\n이는 암호화폐 생태계에 큰 보안 위협을 제기하며, 블록체인 및 금융 관련 개발자들에게 경각심을 줍니다.\n이 사건은 보안 프로토콜 강화의 중요성을 다시 한번 상기시키는 계기가 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49586698",
+    "title": "Asahi Linux on M3",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586698",
+    "summary": "",
+    "score": 343,
+    "published_at": "2026-09-06T14:08:59+00:00",
+    "ai_summary": "M3 칩 기반 Mac에서 Asahi Linux의 실행 가능성에 대한 진전이 이루어지고 있습니다.\n이는 Apple Silicon 환경에서 리눅스를 사용하려는 개발자들에게 중요한 소식입니다.\n개발 환경 선택의 폭을 넓히고, 하드웨어 활용도를 높이는 데 기여할 것으로 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49586898",
+    "title": "A/I shuts down – Stay human",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586898",
+    "summary": "",
+    "score": 512,
+    "published_at": "2026-09-06T14:34:34+00:00",
+    "ai_summary": "\"A/I\" 서비스 또는 프로젝트가 종료되었으며, \"인간성을 유지하라\"는 메시지를 남겼습니다.\n이는 인공지능 기술의 발전과 함께 사회적, 윤리적 책임에 대한 중요성을 강조합니다.\nAI 개발자들에게는 기술적 진보 외에 인간 중심적 가치를 고민하게 하는 계기가 됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49587903",
+    "title": "Research carried out using NetBSD",
+    "url": "https://www.netbsd.org/gallery/research.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587903",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-09-06T16:10:05+00:00",
+    "ai_summary": "NetBSD 운영체제를 활용한 다양한 연구가 진행되고 있음을 보여줍니다.\n이는 NetBSD의 안정성, 이식성 및 낮은 리소스 요구사항이 연구 플랫폼으로서의 가치를 증명합니다.\n시스템 프로그래밍, 임베디드 시스템, 보안 연구 분야 개발자들에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49542123",
+    "title": "Vidact – a compiler that turns React into direct DOM operations",
+    "url": "https://www.vidact.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49542123",
+    "summary": "",
+    "score": 46,
+    "published_at": "2026-09-02T20:34:24+00:00",
+    "ai_summary": "Vidact는 React 코드를 직접 DOM 조작으로 변환하는 컴파일러 프로젝트입니다.\n이를 통해 React 애플리케이션의 런타임 성능을 크게 향상시킬 수 있습니다.\n프론트엔드 개발자, 특히 React 생태계에 관심 있는 이들에게 매우 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49589768",
+    "title": "D2 Is Non-Profit",
+    "url": "https://d2lang.com/blog/d2-non-profit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49589768",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-09-06T19:11:05+00:00",
+    "ai_summary": "다이어그램 스크립팅 언어인 D2 프로젝트가 비영리 단체로 전환되었음을 발표했습니다.\n이는 D2의 지속적인 개발과 커뮤니티 지원에 긍정적인 영향을 미칠 것으로 예상됩니다.\n문서화 및 아키텍처 다이어그램에 D2를 활용하는 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49591793",
+    "title": "Is mathematics about to enter the conservatory?",
+    "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49591793",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-09-06T23:02:11+00:00",
+    "ai_summary": "수학이 '예술'의 영역처럼 변화하거나 새로운 방식으로 응용될 가능성에 대한 논의입니다.\n개발자에게 필수적인 수학적 사고의 중요성과 미래 방향성을 제시할 수 있습니다.\n특히 AI/ML, 알고리즘 분야의 근본적인 변화와 관련될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49591036",
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49591036",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-09-06T21:16:10+00:00",
+    "ai_summary": "Windows 11의 개발자 에디션이 마케팅 측면에서 실패작으로 평가되고 있습니다.\n개발자 커뮤니티의 요구를 제대로 충족시키지 못하는 운영체제 정책에 대한 비판을 다룹니다.\n개발 환경과 도구 선택에 영향을 미칠 수 있는 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49590611",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49590611",
+    "summary": "",
+    "score": 124,
+    "published_at": "2026-09-06T20:32:38+00:00",
+    "ai_summary": "WebAssembly를 Anubis 프로젝트에 적용하는 데 1년이라는 긴 시간이 소요되었습니다.\n이는 WebAssembly 통합의 기술적 복잡성과 어려움을 보여줍니다.\nWebAssembly를 활용하려는 개발자들에게 실제 구현 과정의 통찰력을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49588988",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "discussion_url": "https://news.ycombinator.com/item?id=49588988",
+    "summary": "",
+    "score": 426,
+    "published_at": "2026-09-06T17:49:47+00:00",
+    "ai_summary": "Nitter와 XCancel 서비스가 법률 자문을 거쳐 운영을 재개했습니다.\n이는 온라인 서비스의 법적 규제와 API 접근 관련 문제를 시사합니다.\n개발자들이 외부 API를 활용하거나 서비스를 구축할 때 고려해야 할 법적 및 정책적 측면을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49587217",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587217",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-09-06T15:08:44+00:00",
+    "ai_summary": "OpenAI 내부에서 연구 가속화를 위해 어떤 접근 방식과 도구를 사용하는지 분석합니다.\n최첨단 AI/ML 및 LLM 연구의 진행 속도를 높이는 핵심 방법론을 공개할 수 있습니다.\nAI 개발자와 연구자들에게 실제적인 통찰과 영감을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49588080",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49588080",
+    "summary": "",
+    "score": 310,
+    "published_at": "2026-09-06T16:27:05+00:00",
+    "ai_summary": "외계 지능의 개념을 통해 인공지능의 잠재력과 한계를 탐색하는 기사일 수 있습니다.\n인간의 사고방식을 초월하는 AI의 윤리적, 철학적, 기술적 질문을 제기합니다.\n미래 기술 및 AI 개발 방향에 대한 심층적인 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49546198",
+    "title": "IBM Quantum Nighthawk R2",
+    "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49546198",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-09-03T05:16:04+00:00",
+    "ai_summary": "IBM의 최신 양자 컴퓨터 프로세서인 'Nighthawk R2'의 기술적 특징과 성능 향상을 소개합니다.\n이 혁신적인 하드웨어는 양자 컴퓨팅의 새로운 가능성을 열고, 복잡한 문제 해결 능력을 강화합니다.\n양자 알고리즘 개발자와 연구자들에게 중요한 발전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  }
+]
