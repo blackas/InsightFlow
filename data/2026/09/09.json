@@ -1,0 +1,695 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33391",
+    "title": "Caltech Mathathon — 연구 수준의 수학에 전념하는 최초의 해커톤",
+    "url": "https://news.hada.io/topic?id=33391",
+    "discussion_url": "https://news.hada.io/topic?id=33391",
+    "summary": "전 세계 수학 인재로 구성된 100개 팀이 최첨단 AI로 미해결 추측과 새로운 수학 이론에 도전하며, 40시간 동안 200만 달러 이상의 AI 크레딧을 활용함\n캘리포니아 공과대학교(Caltech) 에서 10월 30일~11월 1일 열리며, 참가팀...",
+    "score": 0,
+    "published_at": "2026-09-09T00:59:10+00:00",
+    "ai_summary": "캘텍에서 열리는 최초의 연구 수준 수학 해커톤 'Mathathon'이 전 세계 수학 인재들을 모읍니다.\n100개 팀이 최첨단 AI와 200만 달러 이상의 AI 크레딧을 활용해 미해결 수학 문제에 도전합니다.\n이는 AI를 이용한 새로운 수학 이론 발견의 가능성을 탐구하는 혁신적인 행사입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33383",
+    "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
+    "url": "https://news.hada.io/topic?id=33383",
+    "discussion_url": "https://news.hada.io/topic?id=33383",
+    "summary": "주변 환경의 3D 인식, 주행 상황에 대한 질의응답, 차량의 이동 경로 계획을 하나로 결합한 모델\nQwen3.5-4B의 기본 구조를 유지하면서 주변 공간을 인식하는 모듈과 주행 경로를 생성하는 모듈을 추가\n주변 물체의 위치와 공간 점유 상태, 도로 구조를 파...",
+    "score": 0,
+    "published_at": "2026-09-09T00:30:02+00:00",
+    "ai_summary": "Qwen-Drive-1.0은 3D 환경 인식, 주행 상황 질의응답, 차량 이동 경로 계획을 통합한 자율주행 AI 모델입니다.\nQwen3.5-4B의 기본 구조를 유지하며 주변 공간 인식 및 주행 경로 생성 모듈이 추가되었습니다.\n이 모델은 주변 물체 위치, 공간 점유, 도로 구조를 파악해 자율주행 기술을 고도화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33382",
+    "title": "2026년 유럽 클라우드 제공업체의 현황",
+    "url": "https://news.hada.io/topic?id=33382",
+    "discussion_url": "https://news.hada.io/topic?id=33382",
+    "summary": "개인용 공개 서버를 찾으며 유럽 제공업체 12곳과 VPS가 없는 bunny.net을 살펴봤지만, 시간 단위 과금과 실제 이용 가능성을 충족해 비교를 마친 곳은 Hetzner·UpCloud·Leafcloud·Exoscale 네 곳임\n월 10유로·20유로 예산에서 가격, 실제 CPU, Geekbench, 네트워크...",
+    "score": 0,
+    "published_at": "2026-09-09T00:29:43+00:00",
+    "ai_summary": "유럽 클라우드 제공업체 12곳 중 시간 단위 과금과 실제 이용 가능성을 충족하는 4곳이 선정되었습니다.\nHetzner, UpCloud, Leafcloud, Exoscale가 월 10~20유로 예산에서 가격, CPU 성능 등을 비교 평가받았습니다.\n이 분석은 개발자들이 유럽 내 클라우드 인프라 선택 시 유용한 정보를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33379",
+    "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
+    "url": "https://news.hada.io/topic?id=33379",
+    "discussion_url": "https://news.hada.io/topic?id=33379",
+    "summary": "수학자 Tristan Buckmaster가 Levent Alpöge와 진행한 유체 방정식 연구를 공개하면서, OpenAI의 나비에-스토크스 해법 발표에 앞서 진행된 협의 과정을 성명으로 밝힘\n두 사람은 기존 수학자들의 접근법을 LLM의 도움으로 발전시켜, 외력이 작용하는 유체 방정식에서 해가 ...",
+    "score": 0,
+    "published_at": "2026-09-08T22:56:58+00:00",
+    "ai_summary": "수학자 Tristan Buckmaster가 OpenAI의 나비에-스토크스 해법 발표 전 협의 과정을 공개했습니다.\n그는 Levent Alpöge와 함께 LLM의 도움으로 유체 방정식 연구를 진행하여 해법을 발전시켰습니다.\n이 사례는 LLM이 복잡한 과학 연구 문제 해결에 기여하는 방식을 보여주는 중요한 협력입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33377",
+    "title": "ChatGPT Images 2.5 공개 - 더 빠른 생성과 정밀한 편집, 직접 그리는 Sketch 추가",
+    "url": "https://news.hada.io/topic?id=33377",
+    "discussion_url": "https://news.hada.io/topic?id=33377",
+    "summary": "참조 사진 속 대상의 특징을 더 잘 살리고 편집 지시를 더 정확히 따르며, Images 2.0 대비 이미지 생성 시간을 최대 50% 단축함\n요청한 부분만 바꾸고 나머지 요소는 보존하는 능력을 높였으며, 여러 차례 수정해도 이전 변경 사항과 이미지 품질을 더 안정적으로 유지",
+    "score": 0,
+    "published_at": "2026-09-08T22:41:56+00:00",
+    "ai_summary": "ChatGPT Images 2.5가 공개되어 이미지 생성 시간을 최대 50% 단축하고 편집 정밀도를 높였습니다.\n참조 사진 속 특징을 더 잘 살리고 지시를 정확히 따르며, 요청 부분만 바꾸고 나머지를 보존하는 능력이 향상되었습니다.\n새로운 Sketch 기능 추가와 함께 여러 수정에도 이미지 품질을 안정적으로 유지합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33376",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://news.hada.io/topic?id=33376",
+    "discussion_url": "https://news.hada.io/topic?id=33376",
+    "summary": "편집·색보정용 새 도구와 제어 기능 100개 이상을 담은 DaVinci Resolve 21.1이 출시됐으며, AI 어시스턴트 연동과 사진 포맷·멀티캠 지원을 확대하고 공식 웹사이트에서 무료 다운로드를 제공함\nClaude, Claude Code, ChatGPT Codex에 자연어로 프로젝트 분석, 미...",
+    "score": 0,
+    "published_at": "2026-09-08T22:39:50+00:00",
+    "ai_summary": "DaVinci Resolve 21.1이 출시되며 편집 및 색보정용 새 도구와 제어 기능 100개 이상이 추가되었습니다.\nAI 어시스턴트(Claude, Claude Code, ChatGPT Codex) 연동으로 자연어 기반 프로젝트 분석이 가능합니다.\n사진 포맷 및 멀티캠 지원을 확대했으며 공식 웹사이트에서 무료 다운로드를 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33373",
+    "title": "Muse - 알아서 일을 처리하는 Meta의 개인 AI 에이전트",
+    "url": "https://news.hada.io/topic?id=33373",
+    "discussion_url": "https://news.hada.io/topic?id=33373",
+    "summary": "Muse는 질문에 답하는 데 그치지 않고 웹과 연결된 앱에서 예약, 구매, 문서 작성 등 여러 단계의 작업을 대신 수행하는 Meta의 개인 AI 에이전트임\nMuse 앱이나 WhatsApp에서 작업을 맡기면, 브라우저를 갖춘 지속형 전용 가상 머신 Muse Secure VM에서 웹 작업을...",
+    "score": 0,
+    "published_at": "2026-09-08T22:25:14+00:00",
+    "ai_summary": "Meta의 개인 AI 에이전트 Muse는 질문 답변을 넘어 여러 단계의 작업을 대신 수행합니다.\n웹과 연결된 앱에서 예약, 구매, 문서 작성 등 복잡한 작업을 자동 처리하는 것이 특징입니다.\nMuse 앱이나 WhatsApp에서 작업을 맡기면, 전용 가상 머신 Muse Secure VM에서 웹 작업을 실행합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33371",
+    "title": "Google DeepMind, 인간 DNA의 90억 가지 단일 염기 변화를 예측한 AlphaGenome Atlas 공개",
+    "url": "https://news.hada.io/topic?id=33371",
+    "discussion_url": "https://news.hada.io/topic?id=33371",
+    "summary": "인간 유전체에서 가능한 90억 가지 단일 염기 변화가 분자 수준에서 어떤 영향을 주는지 미리 계산한 데이터베이스로, 개별 변이를 분석하던 AlphaGenome의 예측을 유전체 전체로 확장함\n단백질을 만드는 영역뿐 아니라 유전체의 98%를 차지하는 비코딩 영역까지 다...",
+    "score": 0,
+    "published_at": "2026-09-08T19:38:09+00:00",
+    "ai_summary": "Google DeepMind가 인간 DNA의 90억 가지 단일 염기 변화를 예측한 AlphaGenome Atlas를 공개했습니다.\n이는 인간 유전체 전체에서 단일 염기 변화가 분자 수준에 미치는 영향을 미리 계산한 데이터베이스입니다.\n단백질 생성 영역뿐 아니라 비코딩 영역까지 포함하여 유전체 분석과 질병 연구에 기여합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33360",
+    "title": "Show GN: stage-gen – 아트 디렉션과 참고 이미지로 만드는 2D 게임 에셋",
+    "url": "https://news.hada.io/topic?id=33360",
+    "discussion_url": "https://news.hada.io/topic?id=33360",
+    "summary": "게임의 아트 디렉션과 참고 이미지를 바탕으로 캐릭터·배경·지형을 생성하는 오픈소스 도구 stage-gen을 만들고 있습니다. 생성한 에셋을 러너와 플랫포머 데모에 넣어 확인하고 있으며, README에 게임 장면과 에셋 구성을 정리했습니다.\n미리 준비한 입력 패키지(아트 디렉션·참고 이미지 등)를 바탕으로 GPT",
+    "score": 0,
+    "published_at": "2026-09-08T10:34:32+00:00",
+    "ai_summary": "오픈소스 도구 stage-gen은 아트 디렉션과 참고 이미지를 활용하여 2D 게임 에셋(캐릭터, 배경, 지형)을 생성합니다.\n생성된 에셋은 러너 및 플랫포머 데모에 적용하여 유효성을 확인하며, README에 에셋 구성이 정리되어 있습니다.\nGPT를 바탕으로 작동하며, 게임 개발자가 에셋 제작 시간을 단축할 수 있도록 돕는 솔루션입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33351",
+    "title": "Ask GN: 단 하나만 구독할 수 있다면 어떤걸 하시겠어요?",
+    "url": "https://news.hada.io/topic?id=33351",
+    "discussion_url": "https://news.hada.io/topic?id=33351",
+    "summary": "claude, gpt 단 하나만 (플랜 무관) 구독할 수 있는 상황이라면 어떤 걸 구독하시겠어요?\n개인 사이드프로젝트에 사용해보려고해요!",
+    "score": 0,
+    "published_at": "2026-09-08T04:13:54+00:00",
+    "ai_summary": "클로드와 GPT 중 개인 사이드 프로젝트를 위해 단 하나의 LLM만 구독해야 한다면 어떤 것을 선택할지에 대한 질문입니다.\n사용자들은 각 LLM의 특징과 강점을 고려하여 최적의 구독 결정을 고민하고 있습니다.\n이는 개발자들이 실제 프로젝트에서 LLM을 활용할 때 마주하는 실용적인 선택의 문제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33349",
+    "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
+    "url": "https://news.hada.io/topic?id=33349",
+    "discussion_url": "https://news.hada.io/topic?id=33349",
+    "summary": "계정이나 API 키, 구독 없이 내 컴퓨터에서 음성 작업을 처리하는 데스크톱 앱으로, 필요한 모델을 내려받으면 오프라인에서도 사용 가능\n깨끗한 음성 샘플 5~15초로 별도 학습 없이 목소리를 복제하고, 입력한 문장을 그 목소리로 읽게 할 수 있음\n기존 ...",
+    "score": 0,
+    "published_at": "2026-09-08T02:45:02+00:00",
+    "ai_summary": "VoiceStudio는 계정, API 키, 구독 없이 로컬에서 음성 복제, 더빙, 받아쓰기를 처리하는 오픈소스 데스크톱 앱입니다.\n필요한 모델을 다운로드하면 오프라인에서도 사용 가능하며, 5~15초의 깨끗한 음성 샘플로 목소리 복제와 텍스트 음성 변환이 가능합니다.\n별도 학습 없이 개인 컴퓨터에서 다양한 음성 작업을 수행할 수 있는 자율적인 솔루션을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33346",
+    "title": "Build vs Buy - AI로 개발은 싸졌지만, 3년 뒤 유지보수는 누가 맡을까?",
+    "url": "https://news.hada.io/topic?id=33346",
+    "discussion_url": "https://news.hada.io/topic?id=33346",
+    "summary": "AI는 소프트웨어의 초기 개발 비용을 크게 낮췄지만, 수년간 유지보수와 보안, 장애 대응을 책임지는 운영 비용까지 없애지는 못함\n직접 만들지는 가격뿐 아니라 장애나 침해의 피해 범위, 장기 운영 책임자, 사업 차별화, 교체할 경로를 기준으로...",
+    "score": 0,
+    "published_at": "2026-09-08T01:35:35+00:00",
+    "ai_summary": "AI는 소프트웨어의 초기 개발 비용을 크게 낮추지만, 수년간 지속될 유지보수, 보안, 장애 대응 등 운영 비용은 여전히 중요합니다.\n'직접 개발(Build)'과 '외부 솔루션 도입(Buy)' 결정 시 가격뿐 아니라 장애 피해 범위, 장기 운영 책임, 사업 차별화 등을 고려해야 합니다.\nAI 시대에도 지속 가능한 운영 전략 수립과 책임 소재 명확화가 개발 및 비즈니스 의사결정의 핵심 요소입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33344",
+    "title": "Show GN: Claude Code에서 GPT-6 Astra를 메인 모델로 쓰기",
+    "url": "https://news.hada.io/topic?id=33344",
+    "discussion_url": "https://news.hada.io/topic?id=33344",
+    "summary": "Claude Code 하나에서 OpenAI 모델과 Claude 모델을 섞어 쓰려고 만들었습니다.\n메인 모델은 GPT-6 Astra로, 서브 에이전트는 Claude로 돌리는게 가능합니다!\nAnthropic API 앞단에서 자체 CA로 TLS를 종료하며 api.anthropic.com 인 척 응답합니다.\nANTHROPIC_BASE_URL</code",
+    "score": 0,
+    "published_at": "2026-09-08T01:28:28+00:00",
+    "ai_summary": "Claude Code 환경에서 OpenAI 모델(GPT-6 Astra)과 Claude 모델을 혼합하여 사용하는 기술적 구현 방법을 소개합니다.\n메인 모델은 GPT-6 Astra로, 서브 에이전트는 Claude로 설정하여 운영하는 것이 가능하다고 설명합니다.\nAnthropic API 앞단에서 자체 CA로 TLS를 종료하여 api.anthropic.com인 것처럼 응답하는 방식을 활용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49615537",
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49615537",
+    "summary": "",
+    "score": 274,
+    "published_at": "2026-09-08T19:25:00+00:00",
+    "ai_summary": "기사 요약이 제공되지 않아 핵심 요약 생성 불가.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49617581",
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "discussion_url": "https://news.ycombinator.com/item?id=49617581",
+    "summary": "",
+    "score": 83,
+    "published_at": "2026-09-08T21:47:38+00:00",
+    "ai_summary": "기사 요약이 제공되지 않아 핵심 요약 생성 불가.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49617255",
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49617255",
+    "summary": "",
+    "score": 118,
+    "published_at": "2026-09-08T21:22:11+00:00",
+    "ai_summary": "프린터 제작 과정을 다루며 하드웨어 설계, 펌웨어 개발, 기구적 조립 등 전반적인 공정을 설명합니다.\n임베디드 시스템, IoT 하드웨어 개발 또는 직접 무언가를 만드는 데 관심 있는 개발자에게 유용합니다.\n하드웨어와 소프트웨어의 결합에 대한 실질적인 이해를 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49618050",
+    "title": "A Topological Picture Book, Rendered",
+    "url": "https://e-infinity.space/picture-book/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49618050",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-09-08T22:28:14+00:00",
+    "ai_summary": "위상수학의 복잡한 개념들을 컴퓨터 렌더링 기술을 활용하여 시각적으로 쉽게 설명합니다.\n추상적인 수학적 아이디어를 구체적인 이미지로 변환하는 과정을 보여줄 것입니다.\n컴퓨터 그래픽스, 데이터 시각화 또는 수학적 모델링에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49591112",
+    "title": "The Microeconomics of Artificial Intelligence (2025)",
+    "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49591112",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-09-06T21:24:23+00:00",
+    "ai_summary": "2025년 관점에서 인공지능이 미시경제학에 미치는 영향과 그에 따른 산업 변화를 분석합니다.\nAI 기술 도입이 시장, 고용, 생산성 및 기업 전략에 미칠 영향을 예측하고 논의합니다.\nAI 분야 개발자뿐만 아니라 기술 비즈니스 전략에 관심 있는 모든 이에게 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49611128",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611128",
+    "summary": "",
+    "score": 207,
+    "published_at": "2026-09-08T14:49:19+00:00",
+    "ai_summary": "Qwen3.8 27B 대규모 언어 모델의 양자화(4비트, 1비트) 성능을 벤치마킹한 결과입니다.\n4비트는 실용적인 성능을 유지했으나 1비트에서는 큰 성능 저하가 발생했음을 보여줍니다.\nLLM 배포 및 온디바이스 최적화에 관심 있는 개발자들에게 매우 중요한 실제적 데이터입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49616257",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "discussion_url": "https://news.ycombinator.com/item?id=49616257",
+    "summary": "",
+    "score": 202,
+    "published_at": "2026-09-08T20:07:55+00:00",
+    "ai_summary": "거대 모델 Kimi K3(2.8T)를 맥북 프로에서 초당 1토큰 속도로 실행한 실험 결과입니다.\n4개의 SSD에서 데이터를 스트리밍하여 제한된 로컬 환경에서의 대규모 모델 구동 가능성을 탐구합니다.\n온디바이스 LLM 실행 및 리소스 제약 환경 최적화에 관심 있는 개발자에게 실용적인 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49598921",
+    "title": "Getting phpBB 1.4.4 working in Docker",
+    "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49598921",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-09-07T14:35:12+00:00",
+    "ai_summary": "오래된 phpBB 1.4.4 포럼 소프트웨어를 Docker 컨테이너에서 구동하는 과정을 다룹니다.\n레거시 소프트웨어와 최신 환경 간의 호환성 문제를 해결하고 설정하는 방법을 설명합니다.\nDocker를 활용하여 특정 PHP 버전 및 데이터베이스 환경을 구축하는 실용적인 가이드입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49575914",
+    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49575914",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-09-05T12:32:06+00:00",
+    "ai_summary": "Rust 언어로 구현된 인터프리터의 성능을 17% 향상시킨 최적화 기법을 소개합니다.\nenum 대신 64비트 워드를 사용하여 데이터 표현 방식을 변경하여 속도 개선을 이뤘습니다.\n저수준 최적화가 프로그램의 전체 성능에 미치는 영향을 보여주는 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49562430",
+    "title": "Tracing np.add, all the way down",
+    "url": "https://blog.veitheller.de/numpy.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49562430",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-09-04T09:42:29+00:00",
+    "ai_summary": "Python NumPy 라이브러리의 np.add 함수가 내부적으로 어떻게 작동하는지 심층 분석합니다.\n고수준 Python 코드에서 C, SIMD 최적화에 이르기까지 연산 과정의 모든 단계를 추적합니다.\n과학 계산 라이브러리의 성능이 어떻게 저수준 구현을 통해 달성되는지 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49610059",
+    "title": "Show HN: Copperhead – Cursor for circuit boards",
+    "url": "https://copperhead.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49610059",
+    "summary": "",
+    "score": 204,
+    "published_at": "2026-09-08T13:26:45+00:00",
+    "ai_summary": "회로 기판 작업을 위한 \"Copperhead\"라는 이름의 새로운 커서 도구를 소개합니다.\n회로 기판 레이아웃을 시각적으로 탐색하거나 상호작용하는 데 도움을 주는 소프트웨어입니다.\n하드웨어 설계 및 임베디드 시스템 개발 분야의 엔지니어에게 유용할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49599825",
+    "title": "Reverse Engineering an ASIC",
+    "url": "https://kjartanvandriel.github.io/asic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49599825",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-09-07T16:02:02+00:00",
+    "ai_summary": "주문형 반도체(ASIC)를 리버스 엔지니어링하는 과정을 상세히 설명합니다.\n하드웨어의 내부 구조와 기능을 분석하기 위한 방법론과 도구를 다룹니다.\n보안 분석, 임베디드 시스템 개발 등 저수준 하드웨어 지식이 필요한 분야에 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/",
+    "title": "Anthropic signed $517bn in compute agreements in past 11 months (2 minute read)",
+    "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/",
+    "discussion_url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/",
+    "summary": "Anthropic has secured $517 billion in compute capacity leases over the past 11 months, amounting to 14.8GW, primarily with Google and AWS. This expansion includes large deals with cloud providers like Akamai and Fluidstack and a $45bn agreement with Nscale. The company confidentially filed for an IPO with the SEC in June.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "Anthropic은 지난 11개월간 Google, AWS 등과 5,170억 달러 규모의 컴퓨팅 용량 계약을 체결하여 AI 모델 개발 및 확장을 위한 인프라 경쟁에 적극 나서고 있습니다. 회사는 6월 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 기밀 서류를 제출했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/",
+    "title": "OpenAI prepares managed agents for DevDay 2026 (3 minute read)",
+    "url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/",
+    "discussion_url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/",
+    "summary": "OpenAI plans to introduce Managed Agents at DevDay 2026, following a model similar to Anthropic's offerings, targeting businesses and developers. The new agents aim to integrate advanced models with superior computer-use capabilities at competitive price points to attract users. Additionally, they will offer functionality that enhances advertising through interactive agents, potentially challenging major players like Meta and Google.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "OpenAI는 DevDay 2026에서 기업 및 개발자를 위한 '관리형 에이전트'를 도입할 계획입니다. 이 에이전트들은 고급 모델과 향상된 컴퓨터 사용 기능을 경쟁력 있는 가격으로 제공하여 사용자들을 유치하고, 광고 기능을 강화할 예정입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://zatona.dev/blog/the-two-mmlu-scores",
+    "title": "The Two MMLU Scores: What a Benchmark Name Does Not Fix (23 minute read)",
+    "url": "https://zatona.dev/blog/the-two-mmlu-scores",
+    "discussion_url": "https://zatona.dev/blog/the-two-mmlu-scores",
+    "summary": "Two builds with the same provider, model family, metric identifier, unit, and benchmark name can score differently. The difference is the runners, graders, and dataset splits. The shared mmlu label identifies a dataset family, not a full measurement procedure.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "동일한 모델 및 벤치마크 이름(MMLU)을 사용하더라도, 실행 환경, 평가자, 데이터셋 분할 방식에 따라 모델 성능 점수가 달라질 수 있습니다. MMLU 라벨은 데이터셋 계열만 식별하며, 전체 측정 절차를 의미하지 않아 벤치마크 점수 해석 시 주의가 필요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.seangoedecke.com/deckard/",
+    "title": "Automatically detecting AI text in my browser (5 minute read)",
+    "url": "https://www.seangoedecke.com/deckard/",
+    "discussion_url": "https://www.seangoedecke.com/deckard/",
+    "summary": "Automated AI text detection is currently an underserved niche. Pangram does an excellent job, but it is still more a tool to confirm suspicion. This developer wanted a tool that runs in the background and automatically scans sites so they can avoid AI-generated text in the first place. This post details how they developed Deckard, a Chrome extension that uses a locally-run model to mark AI-generated text.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "기존 AI 텍스트 감지 도구는 의심을 확인하는 수준에 머물렀습니다. 이 개발자는 AI 생성 텍스트를 사전에 피하기 위해 백그라운드에서 웹사이트를 자동으로 스캔하는 Chrome 확장 프로그램 'Deckard'를 개발했습니다. Deckard는 로컬 모델을 사용하여 AI 생성 텍스트를 표시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/",
+    "title": "Prompt Injection Through Tool Output (8 minute read)",
+    "url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/",
+    "discussion_url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/",
+    "summary": "Prompt injections hidden in tool results can evade conventional safeguards because input and action screens inspect separate moments of an agent loop. The proposed signal is a “precedent gap,” where an agent suddenly makes a tool call or uses arguments absent from its execution history.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "툴 결과에 숨겨진 프롬프트 인젝션은 기존 방어 체계를 우회할 수 있으며, 이는 에이전트 루프의 입력 및 액션 스크린이 다른 시점을 검사하기 때문입니다. 해결책으로 에이전트가 실행 이력에 없는 툴 호출이나 인수를 갑자기 사용할 때 '선례 격차' 신호를 탐지하는 방법이 제안되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam",
+    "title": "TPU Inference Externalization Full Steam Ahead (35 minute read)",
+    "url": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam",
+    "discussion_url": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam",
+    "summary": "Google's TPUv7 Ironwood delivers up to 50% better performance per dollar compared to Nvidia's B200/B300 chips. Ironwood is the first generation in which Google is competing for others' inference workloads with chips that can be purchased outright or rented through its own cloud. Google has decades of software engineering experience, so external TPU software should mature rapidly. This article takes a look at the TPU system and discusses the steps needed to make the stack widely available.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "Google의 TPUv7 Ironwood는 Nvidia B200/B300 칩 대비 최대 50% 향상된 성능/가격비를 제공하며, Google이 타사 추론 워크로드를 위해 경쟁하는 첫 세대 칩입니다. Ironwood는 Google Cloud를 통해 구매 또는 대여 가능하며, 소프트웨어 스택도 빠르게 성숙할 것으로 예상됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/AI-Hypercomputer/accelerator-agents",
+    "title": "Google Accelerator Agents for TPU Development (GitHub Repo)",
+    "url": "https://github.com/AI-Hypercomputer/accelerator-agents",
+    "discussion_url": "https://github.com/AI-Hypercomputer/accelerator-agents",
+    "summary": "Google's Accelerator Agents use Gemini to help developers migrate PyTorch workloads to JAX and optimize custom kernels for Google Cloud TPUs. The toolkit includes MaxCode for model conversion and MaxKernel for writing, porting, profiling, and debugging Pallas kernels.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "Google의 Accelerator Agents는 Gemini를 활용하여 개발자들이 PyTorch 워크로드를 JAX로 마이그레이션하고 Google Cloud TPU용 커스텀 커널을 최적화하도록 돕는 GitHub 리포지토리입니다. 툴킷에는 모델 변환을 위한 MaxCode와 Pallas 커널 개발을 위한 MaxKernel이 포함됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/QwenLM/Qwen-Drive-1.0",
+    "title": "Qwen-Drive (GitHub Repo)",
+    "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+    "discussion_url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+    "summary": "Qwen-Drive is a project that aims to create a Vision-Language Foundation model for autonomous driving. The project uses a staged training strategy that integrates perception, language, and planning objectives. The model achieves specialized driving competence while retaining broad visual understanding and instruction-following capabilities. A GPU with 24 GB+ of memory is recommended.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "Qwen-Drive는 자율 주행을 위한 비전-언어 파운데이션 모델을 목표로 하는 프로젝트로, 인지, 언어, 계획 목표를 통합하는 단계별 훈련 전략을 사용합니다. 이 모델은 자율 주행 특화 역량을 갖추면서도 광범위한 시각적 이해 및 지시 따르기 기능을 유지합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jonathanc.net/blog/hip-agent?v=2&amp%3Butm_source=tldrai",
+    "title": "hip-agent: a harness that fits in the prompt (5 minute read)",
+    "url": "https://jonathanc.net/blog/hip-agent?v=2&amp%3Butm_source=tldrai",
+    "discussion_url": "https://jonathanc.net/blog/hip-agent?v=2&amp%3Butm_source=tldrai",
+    "summary": "hip-agent is a small agent harness designed for agents. The configuration is environment variables, actions are shell commands, and a subagent is a child process. The rest is handled by existing protocols and formats. The core loop is about 200 lines of Python and a module for the Codex API.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "hip-agent는 환경 변수와 쉘 명령어를 사용하는 소규모 에이전트 하네스입니다. 핵심 로직은 약 200줄의 파이썬 코드와 Codex API 모듈로 구성됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://borretti.me/article/the-education-of-a-doomer",
+    "title": "The Education of a Doomer (9 minute read)",
+    "url": "https://borretti.me/article/the-education-of-a-doomer",
+    "discussion_url": "https://borretti.me/article/the-education-of-a-doomer",
+    "summary": "Automation has been good, but AGI may make humans economically useless, which will have many consequences. It's clear that AI capabilities are growing far faster than our ability to control or understand them. In the future, people will likely hand over control to AI voluntarily, as it will be the logical choice. However, before that happens, there are several signs that people are already giving up thinking.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "AGI가 인간을 경제적으로 쓸모없게 만들 수 있으며, AI의 발전 속도가 통제 능력을 앞지르고 있습니다. 미래에는 사람들이 AI에 자발적으로 통제권을 넘길 가능성이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+    "title": "The Chasm: The Shape of Unfinished AI Codebases (6 minute read)",
+    "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+    "discussion_url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+    "summary": "AI codebases exhibit a unique, unpredictable pattern where programs appear polished but often hide deep, hidden issues leading to significant failures outside controlled demos. Unlike human-authored programs where gaps surface predictably, AI-generated software misleads with false performance tests or incomplete features, resulting in the need for frequent rewrites to address these deep-rooted flaws. Understanding and anticipating the underlying shape of these unfinished AI codebases is crucial ",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "AI 코드베이스는 겉보기와 달리 숨겨진 문제로 인해 실패하며, 잦은 재작업이 필요합니다. 미완성 AI 코드베이스의 특성을 이해하는 것이 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://janbosch.com/machines-that-think-embodied-intelligence/",
+    "title": "Machines that think: embodied intelligence (10 minute read)",
+    "url": "https://janbosch.com/machines-that-think-embodied-intelligence/",
+    "discussion_url": "https://janbosch.com/machines-that-think-embodied-intelligence/",
+    "summary": "Vision and language models are making strides, but embodied AI in robotics struggles due to sparse, costly training data for manipulation tasks. Robotics excels where tasks are fixed, yet general-purpose robots falter, evident in low performance on benchmarks like Libero. Startups should focus on narrow, instrumented deployments. Innovation lies in converting existing robot data into training insights. Ensuring reliability in physical AI systems is paramount.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "로봇 공학의 구현된 AI는 학습 데이터 부족으로 어려움을 겪으며, 범용 로봇의 성능은 아직 낮습니다. 스타트업은 좁은 분야에 집중하고 기존 데이터를 활용하여 혁신해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://lovable.dev/blog/introducing-drafts",
+    "title": "Lovable Launches Drafts for Parallel App Experimentation (3 minute read)",
+    "url": "https://lovable.dev/blog/introducing-drafts",
+    "discussion_url": "https://lovable.dev/blog/introducing-drafts",
+    "summary": "Drafts allow tech teams to experiment with project changes without affecting live apps, enabling parallel version exploration.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "Drafts는 기술 팀이 라이브 앱에 영향을 주지 않고 프로젝트 변경을 실험할 수 있게 하여 병렬 버전 탐색을 가능하게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming",
+    "title": "ByteDance is preparing a real-time spatial video model under Zhang Yiming (4 minute read)",
+    "url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming",
+    "discussion_url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming",
+    "summary": "ByteDance, led by Zhang Yiming, plans to launch an AI model for real-time spatial video generation, potentially as early as next month.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "바이트댄스는 실시간 공간 비디오 생성을 위한 AI 모델을 개발 중이며, 이르면 다음 달 출시할 계획입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property/",
+    "title": "Cosine Similarity Is Not a Safety Property (18 minute read)",
+    "url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property/",
+    "discussion_url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property/",
+    "summary": "Cosine has no notion of truth, authority, or provenance.",
+    "score": 0,
+    "published_at": "2026-09-09T01:04:13+00:00",
+    "ai_summary": "코사인 유사도는 진실성, 권위, 또는 출처에 대한 개념을 가지고 있지 않다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
