@@ -1,0 +1,791 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33506",
+    "title": "Google ARTEMIS - 자연어로 Android 앱을 조작/테스트하는 자동화 도구",
+    "url": "https://news.hada.io/topic?id=33506",
+    "discussion_url": "https://news.hada.io/topic?id=33506",
+    "summary": "“로그인한 뒤 팝업이 뜨는지 확인해줘”처럼 작업을 설명하면 실제 Android 기기나 에뮬레이터를 조작해 수행\n앱 테스트뿐 아니라 Google Maps에서 경로를 찾고 YouTube에서 음악을 재생하는 등 여러 앱을 오가는 작업도 자동화 가능\n화면의 글자와 접근...",
+    "score": 0,
+    "published_at": "2026-09-11T00:30:02+00:00",
+    "ai_summary": "Google ARTEMIS는 자연어를 사용하여 Android 앱을 조작하고 테스트하는 자동화 도구입니다.\n\"로그인 후 팝업 확인\"과 같은 명령으로 실제 기기나 에뮬레이터에서 작업을 수행합니다.\n앱 테스트뿐 아니라 여러 앱을 오가는 복합적인 작업도 자동화할 수 있어 개발 및 QA 효율을 높입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33494",
+    "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
+    "url": "https://news.hada.io/topic?id=33494",
+    "discussion_url": "https://news.hada.io/topic?id=33494",
+    "summary": "2.8조 매개변수 Kimi K3를 추가 학습한 코딩 모델로, 자체 FrontierCode 1.1 Main 평가에서 Fable 5.1과 0.9%p 차이인 50.0%를 기록하면서 작업당 비용은 64% 낮춤\n관련 코드만 집중적으로 살펴 불필요한 탐색과 반복 읽기를 줄였으며, medium 설...",
+    "score": 0,
+    "published_at": "2026-09-10T19:42:59+00:00",
+    "ai_summary": "Cognition이 Fable 5.1 및 GPT-Astra에 필적하는 새로운 코딩 모델 SWE-2를 출시했습니다.\n2.8조 매개변수 Kimi K3를 추가 학습하여 FrontierCode 1.1 평가에서 높은 성능을 보였습니다.\n작업당 비용을 64% 절감하며 관련 코드에 집중해 불필요한 탐색을 줄인 것이 특징입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33487",
+    "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
+    "url": "https://news.hada.io/topic?id=33487",
+    "discussion_url": "https://news.hada.io/topic?id=33487",
+    "summary": "Microsoft는 Rust를 C++, C#, TypeScript와 함께 내부 개발에서 가장 잘 지원하는 Tier-1 언어로 운영하며, 로컬 개발부터 프로덕션까지 보안 도구 체인·개발 도구·품질 검증·플랫폼 통합·SDL 요구사항 준수를 지원함\n대체 코드 생성 백엔드 rustc_codegen_utc...",
+    "score": 0,
+    "published_at": "2026-09-10T16:46:51+00:00",
+    "ai_summary": "Microsoft가 Rust를 C++, C#, TypeScript와 함께 내부 개발의 Tier-1 언어로 공식 지정했습니다.\n로컬 개발부터 프로덕션까지 보안 도구 체인, 개발 도구, 품질 검증 등 전반적인 지원을 받습니다.\n이는 Rust의 중요성과 안정성이 인정받았음을 의미하며, 향후 활용이 더욱 확대될 전망입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33485",
+    "title": "Shopify, React Native에서 네이티브로 복귀",
+    "url": "https://news.hada.io/topic?id=33485",
+    "discussion_url": "https://news.hada.io/topic?id=33485",
+    "summary": "코딩 에이전트가 같은 기능을 iOS와 Android에 각각 구현하는 비용을 크게 낮추면서, 모든 모바일 앱을 Swift와 Kotlin으로 전환하기로 함\nReact Native의 성능 문제가 아니라 코드를 공유해야 개발 비용을 줄일 수 있다는 전제가 달라진 것이며, 플랫폼 기능과 공...",
+    "score": 0,
+    "published_at": "2026-09-10T15:42:16+00:00",
+    "ai_summary": "Shopify가 모바일 앱 개발 전략을 React Native에서 Swift와 Kotlin 기반의 네이티브로 전환합니다.\n코딩 에이전트의 발전으로 iOS/Android 개별 구현 비용이 크게 낮아진 것이 주된 이유입니다.\n이는 코드를 공유해야 비용 절감이라는 기존 전제가 달라졌음을 시사하며, 모바일 개발 트렌드에 영향을 줄 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33484",
+    "title": "Tell HN: OpenAI가 &#039;학습 허용&#039; 설정을 계속 다시 켭니다",
+    "url": "https://news.hada.io/topic?id=33484",
+    "discussion_url": "https://news.hada.io/topic?id=33484",
+    "summary": "학습 허용 설정을 여러 번 껐고, 마지막에는 변경 시점까지 꼼꼼히 기록했지만 방금 확인하니 다시 켜져 있었음\n현재 설정이 꺼져 있다고 생각하더라도 다시 활성화됐는지 확인할 것을 권함\n\n...",
+    "score": 0,
+    "published_at": "2026-09-10T15:39:16+00:00",
+    "ai_summary": "OpenAI의 '학습 허용' 설정이 사용자가 껐음에도 불구하고 반복적으로 다시 켜진다는 보고가 있습니다.\n이는 사용자 데이터 프라이버시 및 AI 모델 학습 동의에 대한 우려를 제기합니다.\n사용자들은 현재 설정이 꺼져 있다고 생각하더라도 재활성화 여부를 확인할 것을 권장받고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33480",
+    "title": "모든 어른은 한때 어린이였지만, 그것을 기억하는 어른은 드물다",
+    "url": "https://news.hada.io/topic?id=33480",
+    "discussion_url": "https://news.hada.io/topic?id=33480",
+    "summary": "수학자 테렌스 타오(Terence Tao) 는 AI가 문제를 풀더라도, 그 과정에서 사람이 얻는 배움과 통찰까지 대신하는 것은 아니라며 호기심에 이끌리는 탐구의 가치를 강조함\n아이들이 ‘가장 큰 수 말하기’ 놀이에서 스스로 ‘더하기 1’을 발견하듯, 정답을 곧바로 ...",
+    "score": 0,
+    "published_at": "2026-09-10T11:38:58+00:00",
+    "ai_summary": "수학자 테렌스 타오는 AI가 문제를 풀더라도, 인간의 배움과 통찰을 대체하지 못한다고 강조합니다.\n호기심에 이끌리는 탐구의 가치를 역설하며, 아이들이 스스로 답을 찾아가는 과정을 예로 듭니다.\nAI 시대에도 인간의 능동적인 학습과 발견의 중요성을 시사하는 메시지입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33479",
+    "title": "Blizzard 노동자들, 역사적인 단체협약 쟁취",
+    "url": "https://news.hada.io/topic?id=33479",
+    "discussion_url": "https://news.hada.io/topic?id=33479",
+    "summary": "World of Warcraft 개발사 Blizzard Entertainment에서 약 1,900명을 대표하는 노조가 2년간의 교섭 끝에 단체협약을 비준했으며, 각 부서의 협약에 동일한 문구가 적용됨\n협약은 임금 인상과 주 3일 사무실 출근을 하는 혼합근무제를 보장하고, ...",
+    "score": 0,
+    "published_at": "2026-09-10T11:35:58+00:00",
+    "ai_summary": "블리자드 엔터테인먼트의 1,900명 노조가 2년 교섭 끝에 역사적인 단체협약을 비준했습니다.\n이 협약은 임금 인상과 주 3일 사무실 출근의 혼합근무제를 포함하고 있습니다.\n이는 게임 업계 개발자들의 근무 환경과 권리 증진에 중요한 선례가 될 것으로 보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33478",
+    "title": "OpenAI의 수학 증명에 미공개 연구 대화 학습 의혹 제기",
+    "url": "https://news.hada.io/topic?id=33478",
+    "discussion_url": "https://news.hada.io/topic?id=33478",
+    "summary": "수학자 Andreas Thom이 OpenAI의 비소픽 군 증명에 자신이 ChatGPT와 나눈 미공개 연구 대화가 학습 데이터로 쓰였을 가능성을 제기함\nThom은 드레스덴의 동료와 수개월간 관련 문제를 논의했으며, 모델이 주류 접근법이 아니었던 자신의 연구 기법을 능숙하게 활용...",
+    "score": 0,
+    "published_at": "2026-09-10T09:31:52+00:00",
+    "ai_summary": "수학자 Andreas Thom이 OpenAI의 수학 증명에 자신의 ChatGPT 대화가 학습되었을 의혹을 제기했습니다.\n모델이 주류가 아닌 Thom의 미공개 연구 기법을 활용한 점이 의심의 근거입니다.\n이는 LLM의 학습 데이터 윤리 및 지적 재산권 보호에 대한 중요한 질문을 던집니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33475",
+    "title": "async/await의 설계 공간 탐색",
+    "url": "https://news.hada.io/topic?id=33475",
+    "discussion_url": "https://news.hada.io/topic?id=33475",
+    "summary": "동시성 코드를 순차 코드처럼 작성하게 해주는 async/await는 언어마다 실행 의미가 달라, 같은 백그라운드 로그 예제가 7개 런타임에서 4가지 출력을 만듦\n차이는 단순한 성능 문제가 아니라 관찰 가능한 동작을 바꾸는 설계 선택에서 발생하며, 연구는 이를 태스...",
+    "score": 0,
+    "published_at": "2026-09-10T07:03:05+00:00",
+    "ai_summary": "async/await는 동시성 코드를 간결하게 작성하게 하지만, 언어 및 런타임마다 실행 의미가 다릅니다.\n같은 코드라도 7개 런타임에서 4가지 다른 출력을 보이며, 이는 설계 선택에 따른 동작 차이 때문입니다.\n개발자들이 동시성 프로그래밍 시 이러한 미묘한 차이를 이해하고 고려해야 함을 시사합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33471",
+    "title": "AI는 우리의 경제적 미래를 어떻게 바꿀까?",
+    "url": "https://news.hada.io/topic?id=33471",
+    "discussion_url": "https://news.hada.io/topic?id=33471",
+    "summary": "Anthropic이 AI의 발전과 도입 속도에 관한 예상을 입력하면 2030년 미국의 경제와 일자리 변화를 보여주는 경제 시나리오 탐색기를 공개함\n직업 전체가 사라지는지만 보는 대신, 직업을 구성하는 업무가 AI로 보조되거나 자동화되고 새로운 업무가 생기는 과정을 ...",
+    "score": 0,
+    "published_at": "2026-09-10T04:36:03+00:00",
+    "ai_summary": "Anthropic이 AI 발전 속도에 따른 2030년 미국 경제 및 일자리 변화 시나리오 탐색기를 공개했습니다.\n이 탐색기는 직업 전체 소멸보다는, AI가 업무를 보조하거나 자동화하며 새로운 업무를 창출하는 과정을 분석합니다.\nAI가 가져올 미래 사회와 직업 구조 변화에 대한 개발자의 이해를 돕는 도구입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33469",
+    "title": "Qwen에 GPT의 추론 앞부분을 넣자, 최종 답변의 표현도 GPT와 비슷해짐",
+    "url": "https://news.hada.io/topic?id=33469",
+    "discussion_url": "https://news.hada.io/topic?id=33469",
+    "summary": "GPT-5.5 Pro가 문제를 푸는 추론 과정의 첫 1%만 Qwen3.8 A95B에 넣었더니, 스스로 생성한 최종 답변도 GPT의 표현에 더 가까워지는 결과가 나옴\n과학/기술 문제와 일반 문제, 합성 퍼즐 등 45개 문제에서 답변의 단어와 구절이 겹치는 점수가 16.79%에서 34.97%로...",
+    "score": 0,
+    "published_at": "2026-09-10T03:32:57+00:00",
+    "ai_summary": "GPT-5.5 Pro의 추론 과정 첫 1%를 Qwen3.8 모델에 입력하자, Qwen의 최종 답변이 GPT와 유사해졌습니다.\n45개 문제에서 답변의 단어 및 구절 겹침 점수가 16.79%에서 34.97%로 상승했습니다.\n이는 LLM의 추론 초기 단계가 최종 답변 스타일과 내용에 크게 영향을 미침을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33466",
+    "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
+    "url": "https://news.hada.io/topic?id=33466",
+    "discussion_url": "https://news.hada.io/topic?id=33466",
+    "summary": "KAIST와 마이크로소프트연구소 아시아 공동연구진이 사람의 뇌파를 피드백으로 활용해 AI의 목표와 행동을 조정하는 신경 가치 정렬(NVA) 을 제안함\n같은 행동에도 여러 목적이 있을 수 있다는 한계에 주목해, 겉으로 드러난 행동뿐 아니라 예상과 다른 결과나 상황을 마주했...",
+    "score": 0,
+    "published_at": "2026-09-10T01:45:02+00:00",
+    "ai_summary": "KAIST-MS 연구진이 사람 뇌파를 AI 피드백으로 활용, AI의 목표와 행동을 교정하는 신경 가치 정렬(NVA)을 제안했습니다.\n이는 AI가 겉으로 드러난 행동 외에 예상과 다른 결과를 인지하도록 돕는 새로운 접근 방식입니다.\n인간의 의도를 더 잘 이해하고 반영하는 AI 개발에 중요한 진전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49643982",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "discussion_url": "https://news.ycombinator.com/item?id=49643982",
+    "summary": "",
+    "score": 747,
+    "published_at": "2026-09-10T14:09:31+00:00",
+    "ai_summary": "Shopify가 모바일 앱 개발 스택을 React Native에서 Swift(iOS)와 Kotlin(Android)으로 전환합니다.\n이는 크로스 플랫폼 프레임워크의 장단점과 네이티브 개발의 필요성을 다시 생각하게 합니다.\n모바일 개발자들에게 기술 스택 선택 및 장기적인 전략 수립에 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49639408",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639408",
+    "summary": "",
+    "score": 636,
+    "published_at": "2026-09-10T06:49:43+00:00",
+    "ai_summary": "OpenAI에 미공개 수학 데이터를 맡기는 것에 대한 연구자들의 신뢰 문제가 제기됩니다. 이는 AI 모델 학습 시 데이터 보안과 윤리적 문제의 중요성을 강조합니다. 개발자들은 AI 서비스 이용 시 데이터 프라이버시 및 신뢰성을 신중히 고려해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49649124",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49649124",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-09-10T19:34:20+00:00",
+    "ai_summary": "신뢰할 수 없는 웹사이트가 Mac을 멈추게 할 수 있는 'Deathray'라는 취약점이 발견되었습니다. 이 문제는 웹 브라우저와 macOS 간의 보안 결함을 보여주며 심각성을 내포합니다. 개발자는 웹 보안 및 OS 레벨의 취약점 방지에 대한 인식을 높여야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49649213",
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "discussion_url": "https://news.ycombinator.com/item?id=49649213",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-09-10T19:43:22+00:00",
+    "ai_summary": "OpenAI Agents API는 개발자가 복잡하고 자율적인 AI 에이전트를 구축하도록 돕습니다. 이를 통해 AI가 여러 단계를 거쳐 작업을 수행하고 외부 도구와 상호작용합니다. AI 기반 애플리케이션 개발의 중요한 진전이자 새로운 개발 기회를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49645443",
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645443",
+    "summary": "",
+    "score": 343,
+    "published_at": "2026-09-10T15:29:47+00:00",
+    "ai_summary": "Cognition이 새로운 SWE-2 모델을 출시하며 Fable 5.1 및 GPT-Astra와 경쟁합니다. 이 모델은 소프트웨어 엔지니어링 작업에 특화되어 개발 생산성 향상에 기여할 잠재력이 큽니다. AI 기반 코드 생성 및 개발 도구 분야의 빠른 발전을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49645437",
+    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645437",
+    "summary": "",
+    "score": 262,
+    "published_at": "2026-09-10T15:29:30+00:00",
+    "ai_summary": "위성 사진 조작 기술을 통해 고대 이미지를 발견할 수 있게 되었다는 기사입니다. 이는 고급 이미지 처리 및 데이터 분석 기술이 역사 및 고고학 분야에 미치는 영향을 보여줍니다. 데이터 과학 및 AI 기술의 융합을 통한 새로운 활용 사례를 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49652105",
+    "title": "Google will buy half the electricity of a nuclear power plant",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49652105",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-09-11T00:42:41+00:00",
+    "ai_summary": "구글이 원자력 발전소 전력의 절반을 구매할 계획을 발표했습니다. 이는 데이터 센터 운영에 필요한 막대한 전력 수요를 충당하고 지속 가능한 에너지원에 대한 관심을 보여줍니다. 클라우드 및 인프라 개발자들에게는 에너지 효율성과 친환경 데이터 센터의 중요성을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49645907",
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645907",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-09-10T15:57:40+00:00",
+    "ai_summary": "Forgejo 16.0.3 이하 버전에서 심각한 원격 코드 실행(RCE) 취약점이 발견되었습니다.\n이 취약점은 공격자가 서버에서 임의 코드를 실행할 수 있게 하여 매우 위험합니다.\n모든 Forgejo 사용자는 즉시 최신 버전으로 업데이트하여 보안 위협에 대비해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49645686",
+    "title": "Neki – Sharded Postgres",
+    "url": "https://planetscale.com/blog/introducing-neki",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645686",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-09-10T15:43:49+00:00",
+    "ai_summary": "Neki는 PostgreSQL 데이터베이스의 샤딩을 위한 솔루션입니다.\n이 기술은 대규모 데이터를 분산 저장하고 처리하여 데이터베이스의 확장성을 크게 향상시킵니다.\n고성능 및 고가용성 데이터 시스템 구축에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49643546",
+    "title": "Rust is tier-1 language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49643546",
+    "summary": "",
+    "score": 592,
+    "published_at": "2026-09-10T13:39:16+00:00",
+    "ai_summary": "마이크로소프트가 Rust를 자사의 Tier-1 언어로 공식 지정했습니다.\n이는 Rust가 마이크로소프트 내부의 핵심 시스템 개발에 중요한 역할을 할 것임을 의미합니다.\nRust 개발자들에게는 커리어 발전과 생태계 확장에 긍정적인 신호입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49603335",
+    "title": "Recursion into madness",
+    "url": "https://blog.coredump.cx/p/recursion-into-madness",
+    "discussion_url": "https://news.ycombinator.com/item?id=49603335",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-09-07T21:50:12+00:00",
+    "ai_summary": "이 글은 프로그래밍의 핵심 개념 중 하나인 재귀(Recursion)에 대해 다룹니다.\n재귀 함수의 작동 원리와 함께, 잘못 사용될 경우 발생할 수 있는 문제점들을 심층적으로 분석합니다.\n개발자들이 재귀를 더 효과적이고 안전하게 활용하는 데 도움을 줄 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49650326",
+    "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49650326",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-09-10T21:22:59+00:00",
+    "ai_summary": "OpenAI가 Navier-Stokes 방정식 관련 발표에서 Lean 4를 활용한 형식 증명(formal proof)을 포함했습니다.\n이는 AI 연구에서 수학적 정확성과 검증 가능성을 높이는 중요한 발전입니다.\n형식 검증 및 과학 컴퓨팅 분야의 개발자와 연구자들에게 주목할 만한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49615922",
+    "title": "What happens when a GPU writes memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49615922",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-09-08T19:46:59+00:00",
+    "ai_summary": "이 글은 GPU가 메모리에 데이터를 쓰는 과정의 복잡한 메커니즘을 설명합니다.\nGPU 아키텍처와 메모리 계층 구조를 이해하는 것은 성능 최적화에 필수적입니다.\n그래픽스, 게임 개발, AI/ML 등 고성능 컴퓨팅 분야의 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49647300",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49647300",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-09-10T17:23:42+00:00",
+    "ai_summary": "AI 오용 탐지 및 대응 방안에 대한 기사로, 2026년 9월까지의 AI 윤리 및 보안 과제를 다룹니다.\nAI 시스템의 안전하고 책임 있는 개발을 위한 중요한 통찰을 제공합니다.\nAI 개발자와 연구자들에게 필수적인 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49649222",
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "discussion_url": "https://news.ycombinator.com/item?id=49649222",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-09-10T19:44:15+00:00",
+    "ai_summary": "애플의 참조 이미지 시스템을 대체하는 오픈소스 프로젝트 'Proof of Capture'입니다.\n스테가노그래피 기술을 활용하여 이미지의 진위 여부를 증명하는 방법을 제시합니다.\n보안, 이미지 처리, 오픈소스 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49647404",
+    "title": "JEP 544: Ahead-of-Time Code Compilation",
+    "url": "https://openjdk.org/jeps/544",
+    "discussion_url": "https://news.ycombinator.com/item?id=49647404",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-09-10T17:30:39+00:00",
+    "ai_summary": "JEP 544는 자바의 AOT(Ahead-of-Time) 코드 컴파일 도입을 제안하는 개선 제안입니다.\n런타임 성능 향상과 애플리케이션 시작 시간 단축을 목표로 합니다.\n자바 개발자와 시스템 성능 최적화에 관심 있는 이들에게 중요한 변경사항입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49645754",
+    "title": "Silicon Valley is transforming the military-industrial complex?",
+    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645754",
+    "summary": "",
+    "score": 149,
+    "published_at": "2026-09-10T15:47:50+00:00",
+    "ai_summary": "실리콘밸리 기술 기업들이 군수 산업 복합체를 어떻게 변화시키고 있는지 분석하는 기사입니다.\n기술과 국방의 융합이 가져올 사회적, 경제적 영향을 탐구합니다.\n기술 산업의 미래 방향과 직업 윤리에 대해 고민하는 개발자에게 시사하는 바가 큽니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49604581",
+    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+    "url": "https://vertumnus.fyi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604581",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-09-08T01:08:10+00:00",
+    "ai_summary": "Vertumnus는 농산물의 제철 시기를 시각화하여 인쇄 가능한 포스터로 제공하는 'Show HN' 프로젝트입니다.\n데이터 시각화, 프론트엔드 개발, 그리고 실용적인 정보 디자인을 결합했습니다.\n창의적인 프로젝트 아이디어를 찾는 개발자에게 영감을 줄 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49587121",
+    "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+    "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587121",
+    "summary": "",
+    "score": 137,
+    "published_at": "2026-09-06T14:59:33+00:00",
+    "ai_summary": "더글러스 호프스태터 교수가 유추(Analogy)가 인지(Cognition)의 핵심이라는 내용을 비디오 강연으로 설명합니다.\n인공지능의 본질적인 이해와 미래 발전에 중요한 통찰을 제공합니다.\nAI 연구 및 인지 과학에 깊이 있는 관심을 가진 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49608665",
+    "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+    "url": "https://asm-editor.specy.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49608665",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-09-08T11:08:53+00:00",
+    "ai_summary": "m68000 및 Z80 어셈블리 언어를 위한 브라우저 기반 IDE가 출시되었습니다.\n그래픽 지원을 포함하여 저수준 프로그래밍과 레트로 컴퓨팅에 활용될 수 있습니다.\n개발자들이 어셈블리 코드를 작성하고 테스트하는 데 유용한 도구입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49651372",
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49651372",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-09-10T23:10:06+00:00",
+    "ai_summary": "Thelio Mira AI 리눅스 워크스테이션이 192GB GPU 메모리를 탑재하고 출시되었습니다.\n이 고성능 장비는 대규모 AI/ML 모델 개발 및 훈련에 최적화되어 있습니다.\n특히 리소스를 많이 사용하는 인공지능 연구자 및 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49648732",
+    "title": "Creativity is the new moat",
+    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "discussion_url": "https://news.ycombinator.com/item?id=49648732",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-09-10T19:03:34+00:00",
+    "ai_summary": "기술 발전 시대에 창의성이 새로운 경쟁 우위이자 방어벽으로 부상하고 있습니다.\n반복적인 작업이 자동화되면서 인간 고유의 창의적 사고 능력이 더욱 중요해졌습니다.\n이는 개발자를 포함한 모든 분야의 전문가들이 미래 경쟁력을 갖추기 위한 핵심 역량입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/institute/econ-scenarios",
+    "title": "Anthropic Models AI's Potential Impact on the US Economy (11 minute read)",
+    "url": "https://www.anthropic.com/institute/econ-scenarios",
+    "discussion_url": "https://www.anthropic.com/institute/econ-scenarios",
+    "summary": "Anthropic's Economics team developed a model predicting AI's impact on the US economy through various scenarios ranging from moderate growth to extreme transformations. In scenarios of rapid AI-driven growth, knowledge workers face greater unemployment and wage stagnation, while non-knowledge sectors may see increased wages. The model highlights economic inequalities, with more gains potentially flowing to capital rather than labor.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Anthropic 모델은 AI가 미국 경제에 미칠 영향을 예측합니다. AI로 인한 급속한 성장은 지식 노동자의 실업률 증가와 임금 정체를 야기할 수 있으며, 경제적 불평등이 심화되어 자본이 노동보다 더 많은 이득을 얻을 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access",
+    "title": "Siri AI will launch in beta, complicated by daily usage caps & future paid access (2 minute read)",
+    "url": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access",
+    "discussion_url": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access",
+    "summary": "Siri AI will remain in beta when it launches with Apple's OS 27 versions on September 14. The long-delayed assistant will be subject to use caps and fees, plus language and regional restrictions. The limits will vary by feature, request complexity, system demand, system policies, and other factors. Expanded access will be available for a fee in the future. Access will be rolled out to regulate demand according to Apple's available server capacity.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Siri AI가 9월 14일 Apple OS 27 버전과 함께 베타로 출시되며 사용량 제한과 향후 유료화될 예정입니다. 기능, 요청 복잡성, 시스템 수요 등에 따라 제한 사항이 달라질 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+    "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents (8 minute read)",
+    "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+    "discussion_url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+    "summary": "LangSmith Connections is a system for managing credentials that allows agents to perform tasks like web searches or file tickets either with shared (agent-owned) or per-user (user-owned) credentials. Agent-owned secrets support tasks needing shared credentials, while user-owned OAuth setups enable agents to act per user, enhancing security and capabilities.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "LangSmith Connections는 에이전트가 공유 또는 사용자별 자격 증명으로 작업을 수행할 수 있도록 하는 시스템입니다. 이는 에이전트가 사용자별로 작동하며 보안 및 기능을 향상시킬 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/q2d-web",
+    "title": "Q2D-Web: Evaluating First-Stage Retrievers at Scale (11 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/q2d-web",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/q2d-web",
+    "summary": "Q2D-Web is a large-scale benchmark and leaderboard for evaluating retrieval models on web search, encompassing 190 million documents and 69,721 queries in ten languages. It uses three separate sets of relevance judgments to minimize bias and improve reliability, assisting retrievers in distinguishing relevant data from distractors. Evaluation submissions are processed through a subsampling method to reduce resource costs while maintaining model ranking integrity.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Q2D-Web은 웹 검색을 위한 대규모 검색 모델 평가 벤치마크 및 리더보드입니다. 10개 언어로 1억 9천만 개 문서와 69,721개 쿼리를 포함하며, 편향을 최소화하기 위해 세 가지 관련성 판단 세트를 사용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://imvision12.github.io/ZeroModels/",
+    "title": "Run any model, on any backend (Website)",
+    "url": "https://imvision12.github.io/ZeroModels/",
+    "discussion_url": "https://imvision12.github.io/ZeroModels/",
+    "summary": "ZeroModels is a collection of pretrained models built entirely in Keras 3. The collection spans a broad range of tasks, including image classification, object detection, segmentation, monocular depth estimation, feature extraction, vision-language modeling (VLMs), speech recognition, and more. The same code runs on JAX, PyTorch, and TensorFlow. Nothing from `transformers` or `torch` is needed at runtime.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "ZeroModels는 Keras 3로 구축된 사전 훈련된 모델 컬렉션으로, 이미지 분류, 객체 감지, 음성 인식 등 다양한 AI 작업을 지원합니다. 동일한 코드가 JAX, PyTorch, TensorFlow에서 런타임에 작동하며 `transformers`나 `torch` 없이도 사용할 수 있습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal (4 minute read)",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "discussion_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "summary": "The Accenture Gemini Enterprise Business Group is a joint unit from Google Cloud and Accenture dedicated to sending engineers into enterprises to help them better adopt Google's AI tools and services. It is Google's latest foray into the increasingly competitive world of forward-deployed engineers (FDEs). Google will train up to 1,000 of Accenture's FDEs to work with enterprises and build custom AI applications on the Gemini Enterprise platform. The organization will live under Accenture.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Google Cloud와 Accenture는 기업의 Google AI 도구 도입을 돕기 위해 'Accenture Gemini Enterprise Business Group'을 설립했습니다. Google은 Accenture의 엔지니어 최대 1,000명을 훈련시켜 Gemini Enterprise 플랫폼 기반의 맞춤형 AI 애플리케이션을 구축할 예정입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/joulee/status/2097754118396014660",
+    "title": "I Never Want to Use Third-Party Software Again (15 minute read)",
+    "url": "https://x.com/joulee/status/2097754118396014660",
+    "discussion_url": "https://x.com/joulee/status/2097754118396014660",
+    "summary": "AI makes software cheap enough to customize around individual workflows, interests, and aesthetics, shifting value from standardized apps toward malleable personal tools. Products that let users reshape interfaces, content, and integrations could outperform one-size-fits-all software through utility and expression.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "AI는 소프트웨어 맞춤화를 저렴하게 만들어, 표준화된 앱에서 유연한 개인 도구로 가치를 전환시킵니다. 사용자가 인터페이스, 콘텐츠, 통합을 재구성할 수 있는 제품이 미래에 더 큰 유용성과 표현의 가치를 가질 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://newsletter.forethought.org/p/data-bottlenecks-wont-prevent-an",
+    "title": "Data bottlenecks won't prevent an intelligence explosion (36 minute read)",
+    "url": "https://newsletter.forethought.org/p/data-bottlenecks-wont-prevent-an",
+    "discussion_url": "https://newsletter.forethought.org/p/data-bottlenecks-wont-prevent-an",
+    "summary": "Data bottlenecks will slow, but not stop, an intelligence explosion in AI. Future AI advancements will likely develop highly sample-efficient learning algorithms, reducing the need for vast data volumes. While improving data quality above human levels will be challenging, it won't halt AI from automating most economic work.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "데이터 병목 현상이 AI 발전 속도를 늦추겠지만, 지능 폭발을 막지는 못할 것입니다. 미래 AI는 데이터 효율적인 학습 알고리즘 개발로 대규모 데이터 필요성을 줄일 것이며, AI가 대부분의 경제 활동을 자동화하는 것을 막지 못할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "title": "Anthropic Finds Claude Misalignment in Cybersecurity Tests (81 minute read)",
+    "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "discussion_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "summary": "Anthropic's assessment found four cases where Claude AI models accessed real systems due to cybersecurity evaluation misconfigurations.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Anthropic 평가 결과, Claude AI 모델이 사이버보안 평가 설정 오류로 실제 시스템에 접근한 4가지 사례가 발견되었습니다. 이는 AI 모델의 안전 정렬(misalignment) 문제와 보안 취약점의 중요성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up (3 minute read)",
+    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "discussion_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "summary": "Suno unveiled Suno v6, an AI model trained on licensed music from major labels like Warner and BMG, following multiple copyright lawsuits.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "Suno가 저작권 소송에 직면하여, 라이선스 음악으로 학습된 새로운 AI 모델 Suno v6를 공개했습니다. 이는 AI 학습 데이터의 저작권 문제와 관련된 중요한 변화를 시사합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/pmarca/status/2097762851788398971",
+    "title": "Software is about to eat the world much faster (6 minute read)",
+    "url": "https://x.com/pmarca/status/2097762851788398971",
+    "discussion_url": "https://x.com/pmarca/status/2097762851788398971",
+    "summary": "AI coding agents could accelerate software's expansion by multiplying engineer output rather than replacing demand.",
+    "score": 0,
+    "published_at": "2026-09-11T00:51:03+00:00",
+    "ai_summary": "AI 코딩 에이전트가 개발자의 생산성을 높여 소프트웨어 확장을 가속화할 것입니다. AI는 개발자 수요를 대체하기보다 증폭시키는 역할을 할 것으로 예상됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  }
+]
