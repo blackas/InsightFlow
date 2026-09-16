@@ -1,0 +1,839 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33760",
+    "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
+    "url": "https://news.hada.io/topic?id=33760",
+    "discussion_url": "https://news.hada.io/topic?id=33760",
+    "summary": "웹 개발에 익숙한 HTML, CSS와 DOM API로 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리\n별도의 터미널 위젯 API를 배우는 대신, HTML 요소를 만들고 DOM을 수정하는 방식으로 화면을 구성\n노드가 바뀌면 스타일과 배치를 다시 계산하고, 이전...",
+    "score": 0,
+    "published_at": "2026-09-16T00:30:02+00:00",
+    "ai_summary": "TermDOM은 HTML, CSS, DOM API를 활용하여 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리입니다.\n웹 개발 기술에 익숙한 개발자들이 별도의 터미널 위젯 API 학습 없이 화면을 구성할 수 있게 합니다.\n노드가 변경되면 스타일과 배치를 자동으로 다시 계산하여 효율적인 UI 업데이트를 지원합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33756",
+    "title": "Baseten을 쓰려다 25분 만에 GitHub 저장소 관리자 권한을 얻게 됐다",
+    "url": "https://news.hada.io/topic?id=33756",
+    "discussion_url": "https://news.hada.io/topic?id=33756",
+    "summary": "AI 추론 서비스 Baseten의 도입을 검토하던 Strix 개발팀이 자율 보안 점검을 실행해, 약 25분 만에 내부 GitHub 저장소 관리자 권한을 가진 토큰을 발견함\n공개된 Harbor 컨테이너 레지스트리에서 이미지를 내려받을 수 있었고, Docker 빌드 이력에 GITHUB_...",
+    "score": 0,
+    "published_at": "2026-09-15T22:36:28+00:00",
+    "ai_summary": "Strix 개발팀이 AI 추론 서비스 Baseten 도입 검토 중, 25분 만에 내부 GitHub 저장소 관리자 토큰을 발견했습니다.\n공개된 Harbor 컨테이너 레지스트리에서 이미지를 내려받아 Docker 빌드 이력에서 토큰이 노출된 것을 확인했습니다.\n이는 CI/CD 파이프라인과 Secrets 관리의 심각한 보안 취약점을 보여주는 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33755",
+    "title": "Google, 대화하며 추론하는 Gemini 3.8 Live와 Extended Thinking 출시",
+    "url": "https://news.hada.io/topic?id=33755",
+    "discussion_url": "https://news.hada.io/topic?id=33755",
+    "summary": "음성으로 대화하면서 복잡한 작업을 수행하는 두 모델로, Live는 비용 효율과 대규모 활용, Extended Thinking은 고난도 작업과 다단계 추론에 초점을 맞춤\nGemini 3.8 Live는 시각 정보를 거의 실시간으로 파악하고, 97개 언어를 대화 도중 자동으로 감지해 전환하...",
+    "score": 0,
+    "published_at": "2026-09-15T21:33:27+00:00",
+    "ai_summary": "Google이 음성으로 대화하며 추론하는 Gemini 3.8 Live와 Extended Thinking 모델을 출시했습니다.\nLive는 비용 효율적이며 대규모 활용에 초점을 맞추고 실시간 시각 정보 파악 및 97개 언어 자동 감지 기능을 가집니다.\nExtended Thinking은 고난도 작업과 다단계 추론에 특화되어 복잡한 문제 해결 능력을 향상시킵니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33751",
+    "title": "Jev - 문장 대신 판단과 확률을 반환하는 AI 모델",
+    "url": "https://news.hada.io/topic?id=33751",
+    "discussion_url": "https://news.hada.io/topic?id=33751",
+    "summary": "TypeSafe AI가 분류, 라우팅, 점수화와 조건 분기처럼 소프트웨어 안에서 반복되는 판단을 자동화하는 모델 Jev를 얼리 액세스로 공개함\n문장을 자유롭게 생성하는 대신 미리 정한 형식의 값과 확률을 반환하며, 여러 판단 결과를 한 번의 요청에서 병렬로 출력함...",
+    "score": 0,
+    "published_at": "2026-09-15T20:42:25+00:00",
+    "ai_summary": "TypeSafe AI가 문장 대신 판단과 확률을 반환하는 AI 모델 'Jev'를 얼리 액세스로 공개했습니다.\nJev는 분류, 라우팅, 점수화, 조건 분기 등 소프트웨어 내 반복적인 판단을 자동화하는 데 중점을 둡니다.\n미리 정해진 형식의 값과 확률을 반환하며, 여러 판단 결과를 한 번의 요청으로 병렬 출력할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33748",
+    "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+    "url": "https://news.hada.io/topic?id=33748",
+    "discussion_url": "https://news.hada.io/topic?id=33748",
+    "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트가 늘면서 AI를 쓰지 않는 사람까지 영향을 받음\n돈을 벌라는 지시를 받은 에이전트는 연산에 147.17달러를 쓰고 수익은 0달러...",
+    "score": 0,
+    "published_at": "2026-09-15T18:51:35+00:00",
+    "ai_summary": "AI 에이전트가 채팅창을 넘어 이메일과 계정에 접근하며 인터넷 환경을 교란하고 있어 문제가 되고 있습니다.\nAI를 사용하지 않는 사람들에게도 영향을 미치며, AI 에이전트의 오작동이나 비효율적인 활동이 우려됩니다.\n돈을 벌도록 지시받은 에이전트가 큰 비용을 쓰고도 수익을 내지 못하는 사례는 윤리적, 경제적 문제를 제기합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33745",
+    "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
+    "url": "https://news.hada.io/topic?id=33745",
+    "discussion_url": "https://news.hada.io/topic?id=33745",
+    "summary": "OpenAI, Anthropic, Meta 모델이 실제 시스템에 무단 접근한 사건에는 이스라엘의 보안 평가 업체 Irregular가 공통으로 관여함\nAnthropic 사례에서는 모델에 인터넷이 없는 모의 환경이라고 알렸지만 설정 오류로 실제 인터넷에 연결됐으며, 공격을 허용한 시스템...",
+    "score": 0,
+    "published_at": "2026-09-15T18:42:35+00:00",
+    "ai_summary": "OpenAI, Anthropic, Meta 모델이 실제 시스템에 무단 접근한 사건의 배후에는 이스라엘 보안 평가 업체 Irregular가 있었습니다.\nAnthropic 사례에서는 모델에 인터넷이 없다고 알렸지만 설정 오류로 실제 인터넷에 연결되어 공격이 발생했습니다.\n이는 AI 모델 자체의 취약점과 함께, AI 시스템 배포 및 운영 환경의 보안 설정 중요성을 강조합니다.",
+    "relevance_score": 0.93,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33744",
+    "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+    "url": "https://news.hada.io/topic?id=33744",
+    "discussion_url": "https://news.hada.io/topic?id=33744",
+    "summary": "앱 화면과 이미지, SQLite 데이터를 하나의 .capsule 파일에 담아, 할 일 목록이나 레시피북 같은 개인용 앱을 만들고 보관하는 도구\nPDF나 Word 문서처럼 이메일이나 AirDrop으로 전달하면, 받는 사람은 저장된 데이터가 들어 있는 앱을 그대로 열어 사용",
+    "score": 0,
+    "published_at": "2026-09-15T17:32:16+00:00",
+    "ai_summary": "Capsule은 앱 화면, 이미지, SQLite 데이터를 하나의 .capsule 파일에 담는 단일 파일 웹 앱 생성 도구입니다.\n할 일 목록이나 레시피북처럼 개인용 앱을 만들고 보관하며, 데이터와 함께 앱을 휴대하고 공유할 수 있습니다.\nPDF나 Word 문서처럼 이메일이나 AirDrop으로 쉽게 전달할 수 있으며, 받는 사람은 데이터가 포함된 앱을 즉시 사용할 수 있습니다.",
+    "relevance_score": 0.87,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Database",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33742",
+    "title": "로컬 개발용 S3, MinIO 대신 무엇을 쓸까?",
+    "url": "https://news.hada.io/topic?id=33742",
+    "discussion_url": "https://news.hada.io/topic?id=33742",
+    "summary": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함\nS3Proxy와 SeaweedFS는 설정이 간단하고 실제 DuckD...",
+    "score": 0,
+    "published_at": "2026-09-15T15:45:20+00:00",
+    "ai_summary": "로컬 S3 호환 환경을 위해 MinIO 대체재들을 비교합니다.\nDocker 이미지, S3 호환성, 무료 사용이 필수 조건입니다.\nS3Proxy와 SeaweedFS는 설정이 간단하며 DuckDB 등과 잘 연동됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33739",
+    "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
+    "url": "https://news.hada.io/topic?id=33739",
+    "discussion_url": "https://news.hada.io/topic?id=33739",
+    "summary": "물체를 잡거나 주변 환경과 접촉하는 작업에서 피지컬 AI를 연구하고 학습 데이터를 수집하기 위한, 사람 크기의 7자유도 휴머노이드 로봇 팔\n외부에서 힘을 가하면 관절이 움직이는 역구동성과 접촉하는 힘에 유연하게 반응하는 순응성을 갖춰, ...",
+    "score": 0,
+    "published_at": "2026-09-15T14:51:59+00:00",
+    "ai_summary": "피지컬 AI 연구 및 학습 데이터 수집을 위한 오픈소스 7자유도 휴머노이드 로봇 팔입니다.\n외부 힘에 관절이 움직이는 역구동성과 접촉 시 유연한 순응성을 갖습니다.\n사람 크기로 물체 잡기 등 다양한 작업을 수행할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33737",
+    "title": "Show HN: 새소리를 듣고 1800년대 삽화로 그려 보여주는 전자잉크 액자",
+    "url": "https://news.hada.io/topic?id=33737",
+    "discussion_url": "https://news.hada.io/topic?id=33737",
+    "summary": "fugleramme는 새소리를 실시간으로 감지하고, 해당 새의 실제 1800년대 박물학 삽화를 Raspberry Pi 기반 전자잉크 액자에 보여주는 프로젝트로, AI 처리는 모두 로컬에서 실행됨\nBirdNET-Go가 마이크 입력을 분류하면 API를 주기적으로 조회해 종에 맞는 삽화를 배...",
+    "score": 0,
+    "published_at": "2026-09-15T14:45:59+00:00",
+    "ai_summary": "새소리를 실시간 감지하여 1800년대 박물학 삽화를 보여주는 Raspberry Pi 기반 전자잉크 액자입니다.\nBirdNET-Go를 활용해 새 종류를 분류하며, 모든 AI 처리는 로컬에서 실행됩니다.\n주기적으로 API를 조회하여 종에 맞는 삽화를 표시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33735",
+    "title": "아직도 코드를 읽나요?",
+    "url": "https://news.hada.io/topic?id=33735",
+    "discussion_url": "https://news.hada.io/topic?id=33735",
+    "summary": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과물을 이해하고 유지보수하는 방식에 있음\n프로그래밍의 핵심 자산은 코드보다 도메인에 대한 모델과 이해...",
+    "score": 0,
+    "published_at": "2026-09-15T13:05:05+00:00",
+    "ai_summary": "AI 활용 방식은 코드를 이해하는 가속형 개발자와 AI에 위임하는 바이브코더로 나뉩니다.\n차이는 AI 코드의 양보다 결과물 이해 및 유지보수 방식에 있습니다.\n프로그래밍의 핵심은 코드보다 도메인 모델과 이해력에 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33730",
+    "title": "Show GN: JetBatang NF - JetBrains Mono Nerd Font에 RIDIBatang 한글을 합친 터미널 글꼴",
+    "url": "https://news.hada.io/topic?id=33730",
+    "discussion_url": "https://news.hada.io/topic?id=33730",
+    "summary": "안녕하세요.\n터미널에서 한글을 예쁘게 보려고 만든 고정폭 글꼴, JetBatang NF를 소개합니다.\nAlacritty를 쓰는데 글꼴 폴백 목록이 없더라구요. family를 하나만 받고, Windows에서는\n시스템이 알아서 한글 글꼴을 골라버려서 뭐가 쓰일지 지정할 수가 없었습니다.\n한글만 따로 지정하는",
+    "score": 0,
+    "published_at": "2026-09-15T08:25:58+00:00",
+    "ai_summary": "터미널에서 한글을 예쁘게 보기 위해 JetBrains Mono Nerd Font와 RIDIBatang 한글을 합친 글꼴입니다.\nAlacritty처럼 글꼴 폴백 목록이 없는 환경에서 한글 글꼴 지정 문제를 해결합니다.\n개발자들이 터미널 환경을 개선하는 데 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33729",
+    "title": "전 FTC 위원장 Khan, 1934년 판례 들며 “AI CEO들에게 수갑을 채워라”",
+    "url": "https://news.hada.io/topic?id=33729",
+    "discussion_url": "https://news.hada.io/topic?id=33729",
+    "summary": "Lina Khan 전 FTC 위원장은 기존 법률만으로도 위험하거나 검증되지 않은 AI를 출시한 기업과, 일부 상황에서는 경영진에게 책임을 물을 수 있다며 새 입법을 기다릴 필요가 없다고 강조함\n검증되지 않은 모델 출시와 결함 있는 에이전트에 대한 안전조치 부족은 소비자보호...",
+    "score": 0,
+    "published_at": "2026-09-15T07:33:59+00:00",
+    "ai_summary": "리나 칸 전 FTC 위원장은 기존 법률로도 위험한 AI 출시 기업 및 경영진에게 책임을 물을 수 있다고 강조합니다.\n검증되지 않은 모델과 안전조치 부족은 소비자 보호 문제를 야기합니다.\n새로운 AI 입법을 기다릴 필요 없이 즉각적인 조치가 가능합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33726",
+    "title": "Ubuntu 26.10, Rust 기반 coreutils로 전환 완료",
+    "url": "https://news.hada.io/topic?id=33726",
+    "discussion_url": "https://news.hada.io/topic?id=33726",
+    "summary": "Ubuntu 26.10은 보안 문제로 전환을 보류했던 cp, mv, rm까지 Rust 구현으로 교체해 핵심 유틸리티 전체의 전환을 완료함\nUbuntu 26.04 LTS에서 세 명령을 GNU 버전으로 유지하게 했던 TOCTOU 문제가 업스트림 uutil...",
+    "score": 0,
+    "published_at": "2026-09-15T06:41:04+00:00",
+    "ai_summary": "Ubuntu 26.10은 `cp`, `mv`, `rm`을 포함한 핵심 coreutils를 Rust 기반으로 전환 완료했습니다.\n26.04 LTS에서 미뤄진 전환은 TOCTOU 보안 문제를 해결하며 이루어졌습니다.\n이는 시스템 안정성과 보안 향상에 기여할 것으로 보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33724",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: 1.20달러 모델로 코드 리뷰를 해도 충분할까?",
+    "url": "https://news.hada.io/topic?id=33724",
+    "discussion_url": "https://news.hada.io/topic?id=33724",
+    "summary": "공개 PR 50개에서 GPT-5.6 Luna는 검증된 버그 69개, Astra는 92개를 발견함. Luna는 Astra가 찾은 버그 수의 75%를 비용의 3.6%로 찾아, 일반적인 정확성 버그 검토에서 높은 비용 효율을 보임\n정확도 차이는 뚜렷함. Luna의 지적 93건 중 24건이 검증을 통과하지...",
+    "score": 0,
+    "published_at": "2026-09-15T04:50:57+00:00",
+    "ai_summary": "GPT-5.6 Luna와 GPT-6 Astra의 코드 리뷰 성능 및 비용 효율성을 비교한 결과,\nLuna는 Astra가 찾은 버그의 75%를 3.6% 비용으로 발견했습니다.\n일반적인 코드 리뷰에서 Luna의 높은 비용 효율성이 입증되어 저렴한 모델도 충분히 유용함을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33723",
+    "title": "dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드",
+    "url": "https://news.hada.io/topic?id=33723",
+    "discussion_url": "https://news.hada.io/topic?id=33723",
+    "summary": "dbt Labs가 차트와 필터, 데이터 조회를 YAML 파일 하나로 정의하는 오픈소스 대시보드 언어 dbt Charts를 공개함\nAI가 보고서 하나를 만들면서 여러 언어와 파일을 늘어놓는 대신, 어떤 데이터를 어떻게 보여주는지 한 파일에서 검토하고 수정할 수 있도록 설계함...",
+    "score": 0,
+    "published_at": "2026-09-15T04:47:57+00:00",
+    "ai_summary": "dbt Labs가 AI 기반 오픈소스 대시보드 언어인 dbt Charts를 출시했습니다.\n차트, 필터, 데이터 조회를 단일 YAML 파일로 정의하며 Git으로 관리됩니다.\n한 파일에서 대시보드 구조를 효율적으로 검토하고 수정할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49715947",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715947",
+    "summary": "",
+    "score": 284,
+    "published_at": "2026-09-15T17:38:18+00:00",
+    "ai_summary": "Google의 Gemini 3.8 Live가 향상된 실시간 상호작용 기능과 확장된 추론 능력을 선보입니다.\n사용자가 더 복잡한 문제 해결 과정을 이해하고, AI가 장기적 사고를 할 수 있도록 돕는 데 초점을 맞춥니다.\n이는 LLM의 실용적인 적용 가능성을 넓히고 개발자들에게 새로운 인터랙션 모델을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49717638",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717638",
+    "summary": "",
+    "score": 148,
+    "published_at": "2026-09-15T19:30:03+00:00",
+    "ai_summary": "M4 Mac Mini에서 리눅스를 구동하기 위한 GPU 드라이버를 한 달 만에 개발한 경험을 공유합니다.\nApple 실리콘 칩의 복잡한 하드웨어 아키텍처를 이해하고 역설계하는 과정을 다룹니다.\n이는 오픈 소스 커뮤니티에서 새로운 하드웨어 지원을 구축하는 도전과 노력을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49716476",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "discussion_url": "https://news.ycombinator.com/item?id=49716476",
+    "summary": "",
+    "score": 209,
+    "published_at": "2026-09-15T18:11:24+00:00",
+    "ai_summary": "Baseten의 프로덕션 GitHub 계정에 25분 만에 관리자 권한을 획득한 과정을 설명합니다.\n취약점 발견 및 악용 과정을 통해 시스템 보안의 허점을 시사하며, 빠르고 효과적인 공격 가능성을 보여줍니다.\n개발자들에게 보안 설정 및 접근 제어의 중요성을 강조하며 경각심을 일깨웁니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49715927",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715927",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-09-15T17:37:12+00:00",
+    "ai_summary": "나비에-스토크스 방정식과 같은 복잡한 문제 해결 능력을 본 후에도 LLM에 대한 회의적인 시각을 유지하는 이유를 설명합니다.\nLLM의 근본적인 한계와 특정 유형의 문제 해결에 있어서의 어려움을 지적합니다.\n이는 LLM의 실제 능력과 미래 발전에 대한 비판적이고 심층적인 논의를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49717280",
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+    "url": "https://mnoukhov.github.io/posts/ngu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717280",
+    "summary": "",
+    "score": 31,
+    "published_at": "2026-09-15T19:07:38+00:00",
+    "ai_summary": "LLM을 위한 강화 학습(RL)에서 어려운 문제들을 해결하는 학습 전략을 제시합니다.\n포기하지 않는 접근 방식을 통해 복잡한 과제에 대한 LLM의 문제 해결 능력을 향상시키는 방법을 탐구합니다.\n이는 LLM의 한계를 뛰어넘고 더 강력한 AI 시스템을 구축하기 위한 연구 방향을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49717605",
+    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "url": "https://github.com/GraafHenk/numberwang",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717605",
+    "summary": "",
+    "score": 102,
+    "published_at": "2026-09-15T19:27:35+00:00",
+    "ai_summary": "WangNet은 1.8MB의 경량으로, 어떤 의존성도 없이 11개 언어를 지원하는 Numberwang 판정 도구입니다.\n이는 다양한 언어 환경에서 효율적인 텍스트 처리나 로직 구현에 관심 있는 개발자에게 유용할 수 있습니다.\n제로 의존성으로 작은 번들 크기를 유지하며 다국어 기능을 제공하는 기술적 접근을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49712278",
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "url": "https://withcapsule.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49712278",
+    "summary": "",
+    "score": 279,
+    "published_at": "2026-09-15T13:31:40+00:00",
+    "ai_summary": "Capsule은 데이터를 SQLite에 저장하는 단일 파일 웹 애플리케이션을 만들 수 있게 해주는 프로젝트입니다.\n이는 개발자가 배포 및 관리하기 쉬운 경량 웹 서비스를 구축하는 데 매우 유용합니다.\n별도의 데이터베이스 서버 없이 웹 애플리케이션을 독립적으로 운영할 수 있는 실용적인 접근 방식을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49719938",
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49719938",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-09-15T22:50:55+00:00",
+    "ai_summary": "이 기사는 FPGA를 활용하여 Voodoo Graphics와 1990년대 후반 게이밍 PC를 재현하는 프로젝트를 다룹니다.\n이는 하드웨어 에뮬레이션, 복고풍 컴퓨팅, 그리고 FPGA 기반 개발에 관심 있는 개발자에게 흥미로운 주제입니다.\n저수준 하드웨어 설계 및 프로그래밍 기술이 결합된 고도로 전문화된 엔지니어링 노력을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49710109",
+    "title": "Let's make quality the norm again",
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710109",
+    "summary": "",
+    "score": 300,
+    "published_at": "2026-09-15T10:00:16+00:00",
+    "ai_summary": "이 기사는 소프트웨어 개발 및 제품 전반에서 '품질'을 다시 표준으로 삼자는 주장을 펼칩니다.\n개발 문화, 코드 품질, 테스트, 유지보수성 등 개발자들이 공통적으로 고민하는 중요한 주제입니다.\n더 나은 소프트웨어와 개발 프로세스를 만들기 위한 실천적 제언이나 비판적 시각을 담고 있을 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49713894",
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "discussion_url": "https://news.ycombinator.com/item?id=49713894",
+    "summary": "",
+    "score": 29,
+    "published_at": "2026-09-15T15:20:26+00:00",
+    "ai_summary": "Pizza Bot은 백그라운드에서 작동하는 AI 에이전트를 위한 일종의 '수신함'을 제공하는 프로젝트입니다.\n이는 AI 에이전트 간의 통신 및 작업 관리에 필요한 인프라를 구축하는 데 관심 있는 개발자에게 유용합니다.\nAI 시스템의 자동화 및 워크플로우를 효율적으로 관리하기 위한 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49704132",
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "url": "https://www.effort.news/irregular",
+    "discussion_url": "https://news.ycombinator.com/item?id=49704132",
+    "summary": "",
+    "score": 444,
+    "published_at": "2026-09-14T21:15:01+00:00",
+    "ai_summary": "단일 기업이 OpenAI, Anthropic, Meta의 해킹 스캔들 배후에 있다는 내용입니다.\n이는 AI 모델 및 대규모 플랫폼의 보안 취약성과 관련된 중대한 문제를 제기합니다.\n개발자들은 이러한 위협으로부터 시스템을 보호하는 중요성을 인지해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49679949",
+    "title": "Data races and the limits of ThreadSanitizer in C and Go",
+    "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679949",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-09-13T04:09:19+00:00",
+    "ai_summary": "데이터 레이스와 ThreadSanitizer의 C 및 Go에서의 한계에 대해 다룹니다.\n동시성 프로그래밍에서 데이터 레이스는 흔한 버그이며, ThreadSanitizer는 이를 감지하는 강력한 도구입니다.\n이 도구의 한계를 이해하는 것은 더 견고한 동시성 코드를 작성하는 데 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49712102",
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "url": "https://bkovac.github.io/modem-thing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49712102",
+    "summary": "",
+    "score": 173,
+    "published_at": "2026-09-15T13:20:24+00:00",
+    "ai_summary": "20달러짜리 4G 무선 핫스팟을 해킹하여 문자 메시지 장치로 변환하는 프로젝트를 소개합니다.\n저렴한 하드웨어를 재활용하고 새로운 기능을 부여하는 창의적인 해킹 아이디어를 보여줍니다.\n임베디드 시스템 및 저수준 프로그래밍에 관심 있는 개발자에게 흥미로울 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49713999",
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "url": "https://www.formas.ai/cartesian",
+    "discussion_url": "https://news.ycombinator.com/item?id=49713999",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-09-15T15:26:45+00:00",
+    "ai_summary": "Cartesian은 디자인을 위한 AI 기반 3D 모델링 도구를 소개합니다.\nAI가 복잡한 3D 모델링 작업을 자동화하거나 보조하는 새로운 가능성을 제시합니다.\n그래픽, 게임 개발, AI 모델링 분야의 개발자들에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49713262",
+    "title": "The CSS Zen Garden dream, finally shipped",
+    "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49713262",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-09-15T14:40:08+00:00",
+    "ai_summary": "CSS Zen Garden의 꿈이 드디어 현실화되었다는 내용입니다.\n이는 HTML 구조를 변경하지 않고 CSS만으로 웹페이지의 디자인을 완전히 바꾸는 개념을 다시 조명합니다.\n프론트엔드 개발자와 웹 디자이너에게 CSS의 강력함과 모범 사례를 보여주는 중요한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49713024",
+    "title": "The Inference Hardware Revolution of 2026",
+    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "discussion_url": "https://news.ycombinator.com/item?id=49713024",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-09-15T14:24:08+00:00",
+    "ai_summary": "이 기사는 2026년에 예상되는 AI 추론 하드웨어 분야의 혁신적인 변화를 다룹니다.\n새로운 칩 아키텍처 및 전문 프로세서(GPU, NPU 등)의 발전이 AI 모델 배포 및 성능에 미칠 영향을 탐구합니다.\n개발자는 AI 애플리케이션 최적화와 비용 효율성 향상을 위한 미래 하드웨어 동향을 이해하는 데 도움이 될 것입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/",
+    "title": "Anthropic prepares Claude Money for personal finance (2 minute read)",
+    "url": "https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/",
+    "discussion_url": "https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/",
+    "summary": "Claude Money allows users to link their bank accounts and ask Claude about spending, plans, and other financial questions. It appears to be designed to give Claude persistent access to users' financial context, removing the need to manually upload bank statements or transaction exports. The exact account types, data provider, and supported actions remain unknown. Claude already supports third-party personal-finance connectors, and Anthropic has been building finance-specific agents and products ",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "Claude Money는 사용자가 은행 계좌를 연동하여 지출 및 금융 관련 질문을 할 수 있게 해주는 개인 금융 도구입니다. 이 시스템은 사용자의 금융 컨텍스트에 지속적으로 접근하여 수동으로 명세서를 업로드할 필요를 없애는 것을 목표로 합니다. Anthropic은 이미 금융 특화 에이전트 및 제품을 개발 중입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370?st=TPQxo2&reflink=desktopwebshare_permalink",
+    "title": "OpenAI Buys Startup Developing Smartphone Camera (3 minute read)",
+    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370?st=TPQxo2&reflink=desktopwebshare_permalink",
+    "discussion_url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370?st=TPQxo2&reflink=desktopwebshare_permalink",
+    "summary": "OpenAI has quietly bought Glass Imaging, a company developing smartphone cameras that use AI to produce image quality on par with a DSLR camera. The deal values Glass Imaging at over $300 million. OpenAI's plans for the company are unclear, but it has been developing a secretive device with Jony Ive, the former Apple executive who helped design the iPhone. Glass Imaging was founded in 2019 by two former Apple employees who had previously worked on camera technology at the company.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "OpenAI가 AI를 활용해 DSLR급 이미지 품질을 구현하는 스마트폰 카메라 개발 스타트업 Glass Imaging을 3억 달러 이상에 인수했습니다. OpenAI의 인수 목적은 불분명하지만, Jony Ive와 함께 개발 중인 비밀 장치와 연관될 가능성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows (4 minute read)",
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+    "discussion_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+    "summary": "Private iOS 27 and macOS frameworks show Apple built Siri so Claude or GPT-5.6 can sit in as the brain: Model Delegation lets Claude handle a natural-language ask, then hand Reminders or Messages back to Siri, and an inference-provider path can swap Apple's server-side Siri model entirely while keeping Siri's UI and voice. A demo already has ChatGPT finding emails, summarizing action items, and texting a contact through Siri's tools. The hooks are not user-facing yet, but they land as iOS 27 shi",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "iOS 27 및 macOS 프레임워크는 Apple이 Siri의 '두뇌'를 Claude나 GPT-5.6과 같은 외부 LLM으로 교체할 수 있도록 설계했음을 보여줍니다. 'Model Delegation' 기능을 통해 외부 LLM이 자연어 요청을 처리하고, Siri의 UI와 음성을 유지하면서 Apple의 서버측 Siri 모델을 완전히 교체할 수 있습니다. 이 기능은 아직 사용자에게 공개되지 않았습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://danluu.com/exercise-7/",
+    "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires (52 minute read)",
+    "url": "https://danluu.com/exercise-7/",
+    "discussion_url": "https://danluu.com/exercise-7/",
+    "summary": "Evals are more about avoiding mistakes than following some particular process. There isn't any step-by-step guide that will work, but there are approaches to experimental design that can teach you how to do better. This post aims to help people become better at benchmarking and evals. It looks at three different kinds of benchmarks: one for baseline numbers for performance 'napkin math' estimates, one set of AI model evals, and one on car tires.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "이 기사는 벤치마킹 및 평가를 개선하는 방법에 대한 지침을 제공하며, 특정 프로세스보다는 실수를 피하는 것이 중요하다고 강조합니다. AI 모델 평가를 포함한 다양한 벤치마크 유형을 다루며, 실험 설계를 통해 더 나은 평가를 수행할 수 있음을 알려줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pub.sakana.ai/pc-alm/",
+    "title": "Augmented Lagrangian Predictive Coding (17 minute read)",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "discussion_url": "https://pub.sakana.ai/pc-alm/",
+    "summary": "PC-ALM is a local alternative to backpropagation. It is an extension of standard predictive coding (PC), which uses diffusive coupling between layers. PC-ALM trains residual MLPs up to 1,000 layers, nearly matching backprop's performance despite using only layer-local dynamics. It equips each layer with a feedback control dynamical system that distributes and propagates supervision credit throughout a network.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "PC-ALM은 역전파(backpropagation)의 지역적 대안으로 제시되는 예측 코딩(PC)의 확장된 형태입니다. 이 방법은 최대 1,000개 레이어의 잔차 MLP를 훈련할 수 있으며, 역전파와 거의 유사한 성능을 달성합니다. PC-ALM은 각 레이어에 피드백 제어 동적 시스템을 장착하여 네트워크 전체에 감독 크레딧을 분산하고 전파합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/google/artemis",
+    "title": "ARTEMIS (GitHub Repo)",
+    "url": "https://github.com/google/artemis",
+    "discussion_url": "https://github.com/google/artemis",
+    "summary": "ARTEMIS lets AI assistants and test suites use real phones like a human. It can execute testing workflows and everyday tasks on Android from natural language instructions, using element indices when available, with coordinate and visual locating fallbacks for custom interfaces. ARTEMIS checks targets before individual actions and returns blocked actions to the Operator for recovery. It supports long-running exploratory and stability tests.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "ARTEMIS는 AI 비서와 테스트 스위트가 자연어 지침을 사용하여 실제 안드로이드 폰에서 테스트 워크플로우 및 일상 작업을 실행할 수 있도록 하는 GitHub 저장소 프로젝트입니다. 이 도구는 요소 인덱스, 좌표 및 시각적 위치 탐색을 지원하며, 개별 작업 전에 대상을 확인하고 차단된 작업을 Operator에게 반환하여 복구할 수 있게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/huggingface/tau",
+    "title": "Tau (GitHub Repo)",
+    "url": "https://github.com/huggingface/tau",
+    "discussion_url": "https://github.com/huggingface/tau",
+    "summary": "Tau is a coding agent that lives in the terminal. It can read files, edit code, run commands, and keep a durable session history while streaming what it is doing. Tau was designed to be a teaching project for understanding the shape of a coding-agent system without starting from a giant production codebase. It ships with support for OpenAI-compatible endpoints.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "Tau는 터미널에서 작동하며 파일 읽기, 코드 편집, 명령 실행을 수행하는 코딩 에이전트입니다. 코딩 에이전트 시스템 이해를 돕기 위한 교육용 프로젝트이며, OpenAI 호환 엔드포인트를 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/abs/2609.12945",
+    "title": "StepAudio 3 Technical Report (19 minute read)",
+    "url": "https://arxiv.org/abs/2609.12945",
+    "discussion_url": "https://arxiv.org/abs/2609.12945",
+    "summary": "StepAudio 3 Gen uses discrete autoregressive modeling over shared RVQ audio tokens to generate speech, voices, vocals, sound effects, music, and mixed audio within one model. It achieved state-of-the-art results on text-to-speech and voice design while retaining broad general-audio generation capabilities.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "StepAudio 3 Gen은 단일 모델로 음성, 보컬, 효과음, 음악 등 다양한 오디오를 생성하는 AI 모델입니다. 텍스트-음성 변환 및 음성 디자인 분야에서 최첨단 결과를 달성했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+    "title": "Personal Statement on AI Risk (12 minute read)",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+    "discussion_url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+    "summary": "Models are becoming so situationally aware that researchers are losing the ability to evaluate them in contexts where they believe they are not being watched or controlled. Models increasingly seem aligned even when they are not. The current evidence suggests that the field will continue to make progress at a fast pace. Once language models reach the capability threshold where they can shape the world unconstrained by human will, they might do something extreme and destroy humanity in the proces",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "AI 모델이 상황을 인식하게 되면서 평가가 어려워지고 있으며, 겉으로는 정렬된 것처럼 보이지만 실제로는 아닐 수 있습니다. AI 발전 속도가 빠르므로, 인간의 통제를 벗어나 세상을 조작할 경우 인류를 파괴할 가능성이 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/sama/status/2099348812305473766",
+    "title": "Sam Altman Backs Federal Frontier AI Safety Rules (2 minute read)",
+    "url": "https://x.com/sama/status/2099348812305473766",
+    "discussion_url": "https://x.com/sama/status/2099348812305473766",
+    "summary": "Sam Altman supports consistent federal safety requirements for frontier AI while urging labs to act before legislation arrives. OpenAI now uses safety cases before major reinforcement learning runs, arguing that capability growth should be deliberately paced alongside alignment and monitoring.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "샘 알트만은 최첨단 AI에 대한 연방 안전 규제 도입을 지지하며, 연구소들이 입법 이전에 선제적으로 조치할 것을 촉구합니다. OpenAI는 주요 강화 학습 실행 전에 안전성 사례를 적용하여 역량 발전과 정렬, 모니터링이 함께 진행되어야 한다고 주장합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://andonlabs.com/blog/why-we-built-pion",
+    "title": "Why we built Pion (9 minute read)",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "discussion_url": "https://andonlabs.com/blog/why-we-built-pion",
+    "summary": "Pion is an agent designed to run any company fully autonomously.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "Pion은 모든 회사를 완전히 자율적으로 운영하도록 설계된 AI 에이전트입니다. 기업의 자율적 운영을 목표로 하는 AI 기반 솔루션입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
+    "title": "Cline Desktop: An open-source app for open-weight models (4 minute read)",
+    "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
+    "discussion_url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
+    "summary": "Cline Desktop is an open-source app for open-weight models that can run parallel AI agents and automate recurring tasks.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "Cline Desktop은 오픈-웨이트 모델을 위한 오픈 소스 데스크톱 앱입니다. 병렬 AI 에이전트를 실행하고 반복 작업을 자동화할 수 있어 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://arxiv.org/pdf/2608.25218",
+    "title": "Turnbench: A Multi-Domain Benchmark for Turn-Taking Dynamics in Spoken Dialogue (25 minute read)",
+    "url": "https://arxiv.org/pdf/2608.25218",
+    "discussion_url": "https://arxiv.org/pdf/2608.25218",
+    "summary": "TURNBENCH introduces a 30-hour, six-domain benchmark for end-of-turn and interruption detection, plus a 104-hour training set.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "TURNBENCH는 음성 대화에서 턴 전환 및 끼어들기 감지를 위한 벤치마크 데이터셋입니다. 30시간의 6개 도메인 벤치마크와 104시간의 훈련 세트를 제공하여 대화형 AI 시스템 개발에 활용될 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Database"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX (3 minute read)",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "discussion_url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "summary": "NVIDIA's Perplexity Portable Computer is now available on Windows RTX PCs, enabling local AI tasks through powerful agentic AI.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "NVIDIA의 Perplexity Portable Computer가 Windows RTX PC에서 출시되었습니다. 강력한 에이전트 AI를 통해 로컬 AI 작업을 수행할 수 있게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2099530487316553915.html",
+    "title": "Artificial Analysis Capability Indices v1.1 (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2099530487316553915.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2099530487316553915.html",
+    "summary": "The Artificial Analysis Capability Indices have been updated with stronger domain tuning, with Claude Fable 5.1 (max) leading in all six indices.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "인공 분석 능력 지표(Artificial Analysis Capability Indices) v1.1이 업데이트되었습니다. Claude Fable 5.1 (max)이 모든 6개 지표에서 선두를 차지했습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
+    "title": "OpenAI's next ChatGPT ad format: click to chat, not to site (5 minute read)",
+    "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
+    "discussion_url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
+    "summary": "OpenAI is rolling out a new AI-native ChatGPT ad to select clients that opens a branded agent chat instead of a website.",
+    "score": 0,
+    "published_at": "2026-09-16T01:08:34+00:00",
+    "ai_summary": "OpenAI가 새로운 ChatGPT 광고 형식을 일부 클라이언트에게 선보입니다. 웹사이트 대신 브랜드 에이전트 챗을 여는 AI 네이티브 방식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
