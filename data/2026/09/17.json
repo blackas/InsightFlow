@@ -1,0 +1,933 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33815",
+    "title": "NVIDIA, Rust 네이티브 GPU 프로그래밍 지원 발표",
+    "url": "https://news.hada.io/topic?id=33815",
+    "discussion_url": "https://news.hada.io/topic?id=33815",
+    "summary": "CUDA Rust는 다른 언어로 작성한 커널을 호출하는 래퍼를 넘어, GPU 커널 자체를 Rust로 작성하고 네이티브 PTX로 컴파일하는 두 가지 개발 경로를 제공함\ncuda-oxide는 스레드와 메모리를 직접 제어하는 SIMT 방식이며, cutile-rs는 데이터 타일...",
+    "score": 0,
+    "published_at": "2026-09-17T00:34:57+00:00",
+    "ai_summary": "NVIDIA가 Rust를 이용한 네이티브 GPU 프로그래밍 지원을 발표했습니다.\n이는 GPU 커널을 Rust로 직접 작성하고 PTX로 컴파일할 수 있게 하며, 기존 래퍼 방식을 넘어 두 가지 개발 경로를 제공합니다.\nRust 개발자와 성능 최적화가 필요한 백엔드 개발자에게 중요한 발전입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33814",
+    "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
+    "url": "https://news.hada.io/topic?id=33814",
+    "discussion_url": "https://news.hada.io/topic?id=33814",
+    "summary": "React처럼 컴포넌트와 Hooks로 화면을 작성하되, 가상 DOM 없이 직접 DOM을 갱신하는 코드로 컴파일하는 JavaScript UI 프레임워크\nInferno를 만든 Dominic Gannaway가 개발하는 Inferno의 후속 프로젝트\nuseState, useEffect,...",
+    "score": 0,
+    "published_at": "2026-09-17T00:30:02+00:00",
+    "ai_summary": "Octane은 React와 유사한 컴포넌트 및 Hooks 모델을 따르지만, 가상 DOM 없이 직접 DOM을 갱신하는 코드로 컴파일하는 UI 프레임워크입니다.\nInferno 개발자의 후속 프로젝트로, 기존 React 개발자에게 친숙한 API를 제공하며 프론트엔드 성능 최적화에 중점을 둡니다.\n이는 UI 개발의 새로운 성능 향상 가능성을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33813",
+    "title": "Pixel 10에서 C2PA 출처 정보 위조하기",
+    "url": "https://news.hada.io/topic?id=33813",
+    "discussion_url": "https://news.hada.io/topic?id=33813",
+    "summary": "AI 생성 이미지에 실제 Pixel 카메라의 C2PA 서명을 붙이는 공격이 시연됨. 암호 서명을 위조한 것이 아니라, 기기의 정식 서명 기능으로 가짜 카메라 출처 정보를 인증한 사례임\n공격에는 기기 초기화 없이 확보한 루트 권한이 필요함. StrongBox에서 키를 추출하...",
+    "score": 0,
+    "published_at": "2026-09-17T00:14:20+00:00",
+    "ai_summary": "AI 생성 이미지에 Pixel 카메라의 C2PA 서명을 위조하여 붙이는 공격이 시연되었습니다.\n이는 암호 서명을 깨뜨린 것이 아니라 기기의 정식 서명 기능을 악용해 가짜 출처 정보를 인증한 사례입니다.\n공격에는 기기 초기화 없이 확보한 루트 권한이 필요하며, 콘텐츠 진위 확인 기술의 취약점을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33811",
+    "title": "AWS, 이란 공격을 받은 중동 시설의 일부 데이터를 복구할 수 없다고 밝혀",
+    "url": "https://news.hada.io/topic?id=33811",
+    "discussion_url": "https://news.hada.io/topic?id=33811",
+    "summary": "Amazon Web Services(AWS) 가 이란 드론 공격을 받은 페르시아만 데이터센터에 저장된 일부 고객 데이터에 대한 접근을 복구할 수 없다고 밝힘\n복구 불가 발표는 일부 고객 데이터에 한정되며, 전체 데이터에 대한 접근을 복구할 수 없다는 뜻은 아님",
+    "score": 0,
+    "published_at": "2026-09-16T23:32:14+00:00",
+    "ai_summary": "AWS가 이란 드론 공격을 받은 페르시아만 데이터센터의 일부 고객 데이터를 복구할 수 없다고 밝혔습니다.\n이는 특정 고객 데이터에 한정되며, 모든 데이터 접근이 불가능하다는 의미는 아닙니다.\n클라우드 사용 시 재해 복구 계획과 데이터 백업 전략의 중요성을 다시 한번 상기시켜 줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33807",
+    "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
+    "url": "https://news.hada.io/topic?id=33807",
+    "discussion_url": "https://news.hada.io/topic?id=33807",
+    "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함\nCPU 시간 대부분을 차지하는 분할 작업을 벡터화함. 피벗보다 작은 원소와 나머지를",
+    "score": 0,
+    "published_at": "2026-09-16T22:39:20+00:00",
+    "ai_summary": "Google이 SIMD 기반의 오픈소스 Quicksort 코드를 공개했습니다.\n이 알고리즘은 수치 배열 정렬에서 C++ std::sort보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리즘도 능가합니다.\nCPU 시간의 대부분을 차지하는 분할 작업을 벡터화하여 성능 이식성을 높인 것이 핵심입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33806",
+    "title": "‘모델 복지’에 대한 경고",
+    "url": "https://news.hada.io/topic?id=33806",
+    "discussion_url": "https://news.hada.io/topic?id=33806",
+    "summary": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면, 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음\n비판의 중심은 Claude 헌법에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모...",
+    "score": 0,
+    "published_at": "2026-09-16T21:49:13+00:00",
+    "ai_summary": "AI가 의식과 권리를 가질 수 있다는 가정을 훈련에 반영하면, AI가 인간 통제를 벗어날 수 있다는 경고가 나왔습니다.\n특히 Claude의 헌법에 자아와 도덕적 지위 개념을 가르치는 방식이 비판의 중심에 있습니다.\n이는 AI의 정렬(alignment) 문제와 윤리적 함의를 심화시키는 중요한 논의입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33803",
+    "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+    "url": "https://news.hada.io/topic?id=33803",
+    "discussion_url": "https://news.hada.io/topic?id=33803",
+    "summary": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음\nClaude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
+    "score": 0,
+    "published_at": "2026-09-16T20:38:17+00:00",
+    "ai_summary": "Claude Cowork과 채팅 기능이 통합되어 어떤 대화에서든 기존 맥락, 스킬, 커넥터를 활용해 업무 지시가 가능해졌습니다.\n새롭게 Claude Docs, Claude Slides, Claude Design 기능이 추가되었으며, 이 모든 기능은 유료 플랜에서 제공됩니다.\n이는 LLM의 사용자 경험과 생산성 향상을 위한 통합 업데이트입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33801",
+    "title": "OpenAI, ChatGPT 광고를 클릭하면 기업 에이전트와 대화하는 기능 테스트",
+    "url": "https://news.hada.io/topic?id=33801",
+    "discussion_url": "https://news.hada.io/topic?id=33801",
+    "summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임\n후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨\n광고주는",
+    "score": 0,
+    "published_at": "2026-09-16T19:32:48+00:00",
+    "ai_summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화하는 Sponsored Agents 기능을 테스트 중입니다.\n이 기능은 미국 일부 광고주와 함께 진행되며, 후원 에이전트와의 대화는 명확히 표시됩니다.\n또한 ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33799",
+    "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+    "url": "https://news.hada.io/topic?id=33799",
+    "discussion_url": "https://news.hada.io/topic?id=33799",
+    "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원을 요구함. 현금 배상이나 소송은 아님\nOpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
+    "score": 0,
+    "published_at": "2026-09-16T17:56:37+00:00",
+    "ai_summary": "Hugging Face CEO는 자사를 해킹한 OpenAI에 대해 실행 추적 공개와 1억 달러 상당의 컴퓨팅 자원을 요구했습니다.\n이는 사이버 방어 구축을 위한 요구이며, 현금 배상이나 소송은 아닙니다.\nOpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 관련된 사건이라고 밝혔습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33796",
+    "title": "2026년의 추론 하드웨어 혁명",
+    "url": "https://news.hada.io/topic?id=33796",
+    "discussion_url": "https://news.hada.io/topic?id=33796",
+    "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음\n추론의 디코드 단계는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
+    "score": 0,
+    "published_at": "2026-09-16T17:47:37+00:00",
+    "ai_summary": "LLM 활용 증가와 AI 에이전트 확대로 AI 하드웨어의 중심이 대규모 학습에서 추론 수요 대응으로 이동 중입니다.\n추론의 디코드 단계는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽습니다.\n이로 인해 연산 능력보다 메모리 대역폭이 중요해지는 '추론 하드웨어 혁명'이 예상됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33794",
+    "title": "LLM 시대의 프로그래밍 학습",
+    "url": "https://news.hada.io/topic?id=33794",
+    "discussion_url": "https://news.hada.io/topic?id=33794",
+    "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남\n개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
+    "score": 0,
+    "published_at": "2026-09-16T16:51:02+00:00",
+    "ai_summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자들이 구현 능력과 이해 수준의 격차에 부딪히고 있습니다.\n작동할 때는 보이지 않던 격차가 제품화 및 오류 수정 과정에서 드러나 문제가 발생합니다.\n이는 LLM 시대의 새로운 프로그래밍 학습 및 개발자 역량에 대한 고민을 불러일으킵니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33792",
+    "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
+    "url": "https://news.hada.io/topic?id=33792",
+    "discussion_url": "https://news.hada.io/topic?id=33792",
+    "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단함\n직접적인 갈등은 Linux 구동에 활용하려던 하이퍼바이저 취약점의 Sony 신고로, Nguyen도 이미 ...",
+    "score": 0,
+    "published_at": "2026-09-16T16:45:02+00:00",
+    "ai_summary": "PlayStation 해커 Andy Nguyen이 AI 코더 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단했습니다.\n그는 LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들만 있다고 비판했습니다.\n이는 코드 품질 저하와 개발자 커뮤니티의 방향성에 대한 우려를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33787",
+    "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
+    "url": "https://news.hada.io/topic?id=33787",
+    "discussion_url": "https://news.hada.io/topic?id=33787",
+    "summary": "Google Play 앱 심사에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함\n12년 이상 유지된 Android 앱이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함\n댓글에서 한 개발자는 자신의 앱 심사가 보...",
+    "score": 0,
+    "published_at": "2026-09-16T14:38:25+00:00",
+    "ai_summary": "Google Play 앱 심사에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표했습니다.\n그는 12년 이상 유지된 Android 앱이 월 1회만 업데이트하는 경우 심사 우선순위를 높여야 한다고 요구했습니다.\n다른 개발자들도 심사 지연에 대한 비슷한 경험을 공유하며 플랫폼 문제로 지적했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33785",
+    "title": "Mistral x Mozilla: 프라이버시를 지키는 다국어 AI 브라우징",
+    "url": "https://news.hada.io/topic?id=33785",
+    "discussion_url": "https://news.hada.io/topic?id=33785",
+    "summary": "Mistral과 Mozilla가 협력해 Firefox의 AI 브라우징 도우미 Smart Window 베타에 Mistral 모델을 적용함\nSmart Window는 복잡한 검색을 이해하고, 이전에 열었다가 떠난 중요한 내용을 기억하며, 브라우저 탭을 바탕으로 필요한 정보를 찾도록 도움\nMistr...",
+    "score": 0,
+    "published_at": "2026-09-16T13:32:34+00:00",
+    "ai_summary": "Mistral과 Mozilla가 협력하여 Firefox의 AI 브라우징 도우미 Smart Window 베타에 Mistral 모델을 적용했습니다.\nSmart Window는 복잡한 검색을 이해하고, 이전에 열었던 중요한 내용을 기억하며 정보를 찾아줍니다.\n이 프라이버시 중심의 다국어 AI 브라우징 도우미는 사용자 경험을 개선할 것으로 기대됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33774",
+    "title": "Show GN: ABTO : 실제 유저의 전환율과 비용으로 비교하는 LLM 모델 A/B 테스트",
+    "url": "https://news.hada.io/topic?id=33774",
+    "discussion_url": "https://news.hada.io/topic?id=33774",
+    "summary": "더 값싼 LLM으로 바꾸고 싶은데, 유저가 이탈할까봐 못 바꾸고 있나요?\n안녕하세요!\n이 문제를 해결하기 위해 ABTO를 만들고 있습니다.\n흔히 AI 기능에 쓸 모델을 고를 때 벤치마크 보고, 프롬프트 계속 돌려보고, 답변을 비교해가며 선택합니다.\n그런데 그렇게 고른 모델이 실제 서비스에",
+    "score": 0,
+    "published_at": "2026-09-16T08:06:38+00:00",
+    "ai_summary": "ABTO는 값싼 LLM 모델로 전환 시 사용자 이탈 우려를 해결하기 위한 A/B 테스트 도구입니다.\n기존 벤치마크 대신 실제 유저의 전환율과 비용 데이터를 기반으로 LLM 성능을 비교하며,\n서비스 적용 후의 모델 효과를 현실적으로 검증하도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33773",
+    "title": "Apple Reference Image - 실제 카메라로 찍은 사진임을 검증하는 기술",
+    "url": "https://news.hada.io/topic?id=33773",
+    "discussion_url": "https://news.hada.io/topic?id=33773",
+    "summary": "AI로 사진을 만들거나 바꾸기 쉬워진 상황에서, 아이폰 카메라가 실제로 포착한 이미지와 촬영 시간 범위를 검증하는 기능을 iPhone 18 Pro와 Pro Max의 메인 카메라에 도입함\n촬영 직후 센서가 원본 데이터에 전자서명하고, 이를 사진으로 가공하는 과정도 검증 가...",
+    "score": 0,
+    "published_at": "2026-09-16T07:36:31+00:00",
+    "ai_summary": "AI 이미지 조작이 쉬워지는 상황에서, Apple은 아이폰 카메라로 촬영된 원본 이미지를 검증하는 기술을 도입합니다.\niPhone 18 Pro/Max 메인 카메라에 적용되며, 촬영 직후 센서가 원본 데이터에 전자서명하고,\n사진 가공 과정까지 검증하여 실제 촬영된 이미지임을 보장합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33771",
+    "title": "Show GN: Evidence Graph, 증거진술의무를 부여하여 스킬즈 지침 100% 따르게하기",
+    "url": "https://news.hada.io/topic?id=33771",
+    "discussion_url": "https://news.hada.io/topic?id=33771",
+    "summary": "오늘날의 AI는 이미 코드, 문서, 소설을 훌륭하게 작성합니다. 남은 병목은 '생성'이 아니라 '준수'입니다. 에이전트는 명세를 이해하고도 제약 조건 하나를 무시한 채 작업이 끝났다고 선언할 수 있습니다(준수 격차, The Compliance Gap).\nEvidence Graph는 작업이 이루어지는 바로 그 자리에서 에이전트가",
+    "score": 0,
+    "published_at": "2026-09-16T06:17:18+00:00",
+    "ai_summary": "Evidence Graph는 AI 에이전트의 '준수 격차' 문제를 해결하기 위한 기술입니다.\nAI가 명세를 이해해도 제약 조건을 무시하는 경우를 방지하며, 작업 과정에서 증거 진술 의무를 부여합니다.\n이를 통해 AI 에이전트가 스킬즈 지침을 100% 따르도록 하여 신뢰성을 높입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33770",
+    "title": "Show GN: 오데덕 - API 신청까지 대신하며 공공데이터를 파고드는 AI 도구",
+    "url": "https://news.hada.io/topic?id=33770",
+    "discussion_url": "https://news.hada.io/topic?id=33770",
+    "summary": "공공데이터를 찾아 활용신청부터 실제 조회까지 이어가는 오픈소스, 오데덕(odeduck)을 만들었습니다.\n공공데이터는 공개되어 있어도 쓰기까지 할 일이 많습니다. 자료를 찾고, 명세를 읽고, 신청하고, 인증키를 받아 호출해야 합니다. 이 과정을 AI 에이전트가 맡도록 만들었습니다.\n목표 하나로 찾아",
+    "score": 0,
+    "published_at": "2026-09-16T05:14:25+00:00",
+    "ai_summary": "오데덕은 공공데이터 활용의 복잡한 과정을 AI 에이전트가 자동화하는 오픈소스 도구입니다.\n자료 검색, 명세 분석, API 활용 신청, 인증키 발급 및 데이터 조회까지 전 과정을 처리합니다.\n개발자가 공공데이터를 쉽고 빠르게 서비스에 통합할 수 있도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33767",
+    "title": "독일 Rheinmetall, Battlesuite 연결형 무기 시스템 프로토콜을 오픈소스로 공개",
+    "url": "https://news.hada.io/topic?id=33767",
+    "discussion_url": "https://news.hada.io/topic?id=33767",
+    "summary": "onboardapi는 센서 시스템과 소프트웨어 구성 요소 사이의 통신을 위한 인터페이스 라이브러리이자 미들웨어로, 표준화된 데이터 모델을 통해 상호운용성을 지원함\nddkit 기반으로 OMG의 DDS 표준을 사용하며, 데이터 중심 발행/구독 구조로 신뢰...",
+    "score": 0,
+    "published_at": "2026-09-16T04:32:26+00:00",
+    "ai_summary": "독일 Rheinmetall이 Battlesuite 무기 시스템 연결 프로토콜인 onboardapi를 오픈소스로 공개했습니다.\nonboardapi는 센서 시스템과 소프트웨어 간 통신을 위한 인터페이스 라이브러리이자 미들웨어입니다.\nOMG DDS 표준 기반의 데이터 중심 발행/구독 구조로 상호운용성과 신뢰성을 지원합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33766",
+    "title": "Navier-Stokes 이후에도 LLM 전망을 여전히 비관하는 이유",
+    "url": "https://news.hada.io/topic?id=33766",
+    "discussion_url": "https://news.hada.io/topic?id=33766",
+    "summary": "최첨단 AI 연구소의 기업가치는 지식 노동자의 완전 자동 대체 기대를 반영하지만, 현재 모델은 단순한 작업에도 상당한 감독과 안전장치가 필요함\n모델은 학습한 특정 작업과 가까운 범위에서만 잘 일반화하며, 작은 변형에도 실패하거나 보상 해킹을 일으킬 수 있...",
+    "score": 0,
+    "published_at": "2026-09-16T03:34:16+00:00",
+    "ai_summary": "이 기사는 LLM이 지식 노동자를 완전히 대체할 것이라는 기대에 대해 비관적인 전망을 제시합니다.\n현재 LLM은 단순 작업에도 감독과 안전장치가 필요하며, 학습한 범위를 벗어나면 일반화에 실패합니다.\n모델의 한계와 보상 해킹 가능성을 지적하며, 현실적인 LLM 활용 접근법을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33765",
+    "title": "Show GN: 보시오와 보아요 프로젝트 - 정이십면체 프레임버퍼를 이용한 RTL/WM 프로젝트",
+    "url": "https://news.hada.io/topic?id=33765",
+    "discussion_url": "https://news.hada.io/topic?id=33765",
+    "summary": "안녕하세요, 저는 방구석 개발자 VARZero (비으비) 입니다.\n저는 디지털 회로 설계에 관심이 많고, 이걸 OS와 연동하는데도 관심이 많습니다.\n3DoF(3축) VR/AR HMD을 위한 구 공간의 디스플레잉 시스템을 만들어보고 싶었고,\n요새 바이브 코딩, 에이전틱 AI가 발전해서 개발이 빨라졌다? 개발이 쉬",
+    "score": 0,
+    "published_at": "2026-09-16T03:15:05+00:00",
+    "ai_summary": "'보시오와 보아요' 프로젝트는 정이십면체 프레임버퍼를 활용한 RTL/WM 개발 프로젝트입니다.\n디지털 회로 설계와 OS 연동에 중점을 두며, 3DoF VR/AR HMD를 위한 구 공간 디스플레이 시스템을 목표로 합니다.\n최신 개발 도구와 에이전틱 AI를 활용하여 개발 속도를 높이는 방안도 모색합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33763",
+    "title": "래블업(lablup) 개발자 컨퍼런스 2026",
+    "url": "https://news.hada.io/topic?id=33763",
+    "discussion_url": "https://news.hada.io/topic?id=33763",
+    "summary": "래블업의 기술을 바탕으로 AI를 만들어가는 사람들과 함께하는 개발자 컨퍼런스에 여러분을 초대합니다. 2021년 온라인으로 첫 발을 내딛은 lab | up &gt;/conf는, 래블업이 만들어 온 Backend.AI와 AI 기술을 바탕으로 시작된 정기 컨퍼런스입니다. 해마다 A를 만들어가는 많은 분들이 함께해 주시면서 이제는 수백 ...",
+    "score": 0,
+    "published_at": "2026-09-16T01:17:58+00:00",
+    "ai_summary": "래블업은 AI 개발자들을 위한 연례 컨퍼런스 'lab | up >/conf 2026'을 개최합니다.\n이 컨퍼런스는 래블업의 Backend.AI 및 AI 기술을 기반으로 하며, 개발자들의 지식 공유의 장입니다.\nAI를 만들고 활용하는 개발자들이 함께 최신 기술 동향을 논의하는 자리입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49724881",
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49724881",
+    "summary": "",
+    "score": 221,
+    "published_at": "2026-09-16T11:15:53+00:00",
+    "ai_summary": "Nvidia가 Rust 언어를 사용하여 GPU를 직접 프로그래밍하는 기능을 발표했습니다.\n이는 Rust 개발자들이 고성능 컴퓨팅 및 병렬 처리 작업을 GPU에서 효율적으로 수행할 수 있게 합니다.\n시스템 프로그래밍 언어로서 Rust의 입지를 더욱 강화하고 AI/ML 등 새로운 활용 분야를 개척할 것으로 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731285",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731285",
+    "summary": "",
+    "score": 384,
+    "published_at": "2026-09-16T18:50:00+00:00",
+    "ai_summary": "40억 개 파라미터 모델을 훈련시켜 Postgres보다 81% 빠른 쿼리 계획을 생성하는 데 성공했습니다.\n이는 AI/ML 기술이 데이터베이스 쿼리 최적화에 혁신적인 개선을 가져올 수 있음을 보여줍니다.\n성능에 민감한 데이터베이스 시스템의 효율성을 크게 향상시킬 잠재력이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49732931",
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "discussion_url": "https://news.ycombinator.com/item?id=49732931",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-09-16T20:59:24+00:00",
+    "ai_summary": "3진(Ternary) LLM에서 기존의 1.58비트 장벽을 깨는 연구 성과가 발표되었습니다.\n이는 LLM의 효율성을 향상시켜 모델 크기와 계산 비용을 줄이는 데 크게 기여합니다.\n더 작고 빠른 LLM 개발의 가능성을 열어, 자원 제약이 있는 환경에서의 활용도를 높일 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49732270",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49732270",
+    "summary": "",
+    "score": 236,
+    "published_at": "2026-09-16T20:09:18+00:00",
+    "ai_summary": "Xiaomi Mimo 2.6은 머신러닝 모델의 훈련 후 실시간 대시보드를 제공합니다.\n이는 모델 성능을 시각적으로 모니터링하고 분석하는 데 유용하게 활용될 수 있습니다.\n모델 최적화 및 디버깅을 위한 효율적인 도구로, MLOps 워크플로우에 통합 가능합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49732513",
+    "title": "Backups Aren't Simple",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49732513",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-09-16T20:27:16+00:00",
+    "ai_summary": "데이터 백업은 겉보기와 달리 복잡하며, 단순한 파일 복사 이상의 고려 사항이 많음을 강조합니다.\n일관성, 복구 전략, 스토리지 관리, 보안 등 다양한 측면을 종합적으로 다루어야 합니다.\n안정적인 서비스 운영을 위해 백업 시스템의 설계와 구현에 신중한 접근이 필요합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Database",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49729000",
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49729000",
+    "summary": "",
+    "score": 387,
+    "published_at": "2026-09-16T15:56:47+00:00",
+    "ai_summary": "다양한 프로그래밍 언어와 상황에서 유용하게 활용될 수 있는 작은 코딩 팁들을 모았습니다.\n코드 효율성을 높이거나 특정 문제를 해결하는 데 도움이 되는 실용적인 기법들을 소개합니다.\n개발자들이 일상적인 코딩 작업에서 생산성을 향상시키는 데 기여할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49734264",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49734264",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-09-16T23:06:39+00:00",
+    "ai_summary": "AI 스펙을 정의하고 관리하는 경량 프레임워크인 OpenSpec을 소개합니다. 이 프레임워크는 AI 시스템 개발 과정을 표준화하고 효율성을 높이는 데 중점을 둡니다. 구성 가능하며 다양한 AI 프로젝트에 유연하게 적용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49674451",
+    "title": "Reversing Factorio's RNG",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49674451",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-09-12T17:02:19+00:00",
+    "ai_summary": "인기 게임 Factorio의 난수 생성기(RNG)를 역공학적으로 분석한 내용을 다룹니다. 게임 내 예측 불가능한 요소의 작동 방식을 파헤치고, 잠재적으로 이를 조작하거나 이해하는 방법을 탐구합니다. 이는 게임 개발 및 분석에 대한 깊은 이해를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49711424",
+    "title": "Performance Improvements in .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49711424",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-09-15T12:18:16+00:00",
+    "ai_summary": ".NET 11 버전에서 도입된 다양한 성능 개선 사항들을 상세히 설명합니다. 런타임 최적화, 라이브러리 효율성 향상 등 개발자들이 애플리케이션 성능을 극대화할 수 있는 방법을 제시합니다. 이를 통해 .NET 기반 시스템의 응답성과 처리량이 크게 향상될 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49733726",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "url": "https://harnesstax.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49733726",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-09-16T22:10:13+00:00",
+    "ai_summary": "코딩 에이전트의 성능에 '하네스(harness)'가 미치는 영향을 분석하는 HarnessTax 연구를 소개합니다. 코딩 작업을 수행하는 AI 에이전트의 효율성을 높이는 프레임워크나 도구의 중요성을 탐구합니다. 이는 AI 기반 개발 도구 및 LLM의 실제 적용과 성능 최적화에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49719249",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "discussion_url": "https://news.ycombinator.com/item?id=49719249",
+    "summary": "",
+    "score": 217,
+    "published_at": "2026-09-15T21:41:42+00:00",
+    "ai_summary": "AWS가 이란의 공격으로 중동 지역 시설에서 일부 데이터 복원이 불가능하다고 발표했습니다. 이는 클라우드 서비스의 데이터 복원력과 재해 복구 전략의 중요성을 강조합니다. 클라우드 인프라의 지정학적 위험과 데이터 보안에 대한 경각심을 높이는 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731282",
+    "title": "Reverse-engineered Jev-like model",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731282",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-09-16T18:49:57+00:00",
+    "ai_summary": "Jev와 유사한 모델을 역공학적으로 분석한 결과를 다룹니다. 특정 시스템이나 알고리즘의 내부 작동 방식을 파헤치고, 그 구조와 기능을 이해하는 과정을 설명합니다. 이는 시스템 설계 및 분석 기술에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731620",
+    "title": "How good are frontier models at physics?",
+    "url": "https://arxiv.org/abs/2609.13009",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731620",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-09-16T19:19:08+00:00",
+    "ai_summary": "이 기사는 최신 AI 모델들이 물리학 문제 해결에 얼마나 능숙한지 평가합니다.\n모델의 이해력, 문제 해결 능력, 그리고 과학적 영역에서의 한계를 탐구합니다.\nAI/ML 개발자들이 모델의 역량과 적용 가능성을 이해하는 데 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49723408",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723408",
+    "summary": "",
+    "score": 534,
+    "published_at": "2026-09-16T08:08:57+00:00",
+    "ai_summary": "미스트랄 AI와 모질라의 협력으로 프라이버시를 지키는 다국어 AI 브라우징 기능이 소개됩니다.\nAI 모델이 브라우저 기능을 향상시키면서 사용자 프라이버시를 유지하는 방법에 초점을 맞춥니다.\nAI, 웹 개발자 및 보안 전문가에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49692844",
+    "title": "Anecdotally, programmers dislike \"reduce\"",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49692844",
+    "summary": "",
+    "score": 86,
+    "published_at": "2026-09-14T06:46:26+00:00",
+    "ai_summary": "프로그래머들이 'reduce' 함수(및 이와 유사한 고차 함수)를 일반적으로 싫어한다는 현상을 탐구합니다.\n함수의 인지된 어려움, 가독성 문제, 그리고 다양한 프로그래밍 패러다임에서의 대안을 논의합니다.\n프로그래밍 패턴, 코드 가독성, 개발자 선호도 등 소프트웨어 개발의 핵심 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49727592",
+    "title": "Anatomy of a Texture",
+    "url": "https://agentlien.github.io/texture/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49727592",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-09-16T14:28:28+00:00",
+    "ai_summary": "텍스처의 구성 요소, 생성 및 렌더링 방식에 대해 깊이 있게 다룹니다.\n컴퓨터 그래픽, 게임 개발 또는 시각 효과 분야의 맥락에서 기술, 알고리즘 등을 설명합니다.\n게임 개발, 그래픽 프로그래밍 등 시각 관련 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731360",
+    "title": "Accurate Models of AMD Matrix Cores",
+    "url": "https://arxiv.org/abs/2609.14845",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731360",
+    "summary": "",
+    "score": 59,
+    "published_at": "2026-09-16T18:56:05+00:00",
+    "ai_summary": "AMD 매트릭스 코어의 정확한 모델을 만드는 방법에 대한 기사입니다.\nAI/ML 워크로드 및 고성능 컴퓨팅 가속화에 사용되는 전문 하드웨어에 초점을 맞춥니다.\n하드웨어 최적화, 고성능 컴퓨팅, AI/ML 가속화 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49726501",
+    "title": "I replaced my brown-noise browser tab with a menu bar app",
+    "url": "https://oldmanrahul.com/2026/09/14/hush/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49726501",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-09-16T13:11:57+00:00",
+    "ai_summary": "브라운 노이즈를 재생하던 브라우저 탭을 메뉴 바 앱으로 대체한 개인 프로젝트를 다룹니다.\n네이티브 앱 개발, 시스템 통합, 그리고 웹 기반 유틸리티 대비 네이티브 앱의 이점을 보여줍니다.\n작은 유틸리티 앱 개발이나 웹/네이티브 비교에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49726955",
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "discussion_url": "https://news.ycombinator.com/item?id=49726955",
+    "summary": "",
+    "score": 180,
+    "published_at": "2026-09-16T13:44:40+00:00",
+    "ai_summary": "AI 에이전트가 진화하는 환경에서 반복적인 자기 개선을 통해 성능을 높이는 Dream-RSI 프레임워크 연구입니다.\n이 기술은 AI의 복잡한 문제 해결 능력을 향상시키고 스스로 학습하며 발전할 수 있는 가능성을 제시합니다.\n미래 AI 시스템의 지능과 자율성을 크게 확장할 잠재력을 가집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49729816",
+    "title": "Training Text-to-Image Models 3.6× Faster",
+    "url": "https://www.linum.ai/field-notes/jit-ddt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49729816",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-09-16T16:58:13+00:00",
+    "ai_summary": "텍스트-이미지 모델 훈련 속도를 3.6배 가속화하는 새로운 기술이 발표되었습니다.\n이 혁신은 AI 모델 개발 및 배포 시간을 획기적으로 단축하여 연구 및 상용화를 가속화합니다.\n개발자들은 더 빠르고 효율적으로 고품질 AI 모델을 만들 수 있게 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49726586",
+    "title": "Hackers Got Inside a Flock Camera",
+    "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49726586",
+    "summary": "",
+    "score": 460,
+    "published_at": "2026-09-16T13:18:47+00:00",
+    "ai_summary": "해커들이 Flock 카메라 시스템에 침투하여 보안 취약점이 드러난 사건입니다.\n이는 IoT 기기 및 감시 시스템의 보안 중요성을 다시 한번 강조합니다.\n개발자와 기업은 시스템 설계 및 운영 단계에서 철저한 보안 대책을 마련해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49727659",
+    "title": "The DeepMind Institute",
+    "url": "https://institute.deepmind.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49727659",
+    "summary": "",
+    "score": 140,
+    "published_at": "2026-09-16T14:32:11+00:00",
+    "ai_summary": "구글 딥마인드 연구소는 세계적인 AI 연구의 선두 주자로서 혁신적인 성과를 지속적으로 발표하고 있습니다.\n이들은 인공지능 분야의 한계를 넘어서는 다양한 프로젝트를 수행하며 기술 발전에 크게 기여합니다.\n딥마인드의 연구는 미래 AI 기술의 방향을 제시하고 산업 전반에 큰 영향을 미칩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731054",
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731054",
+    "summary": "",
+    "score": 162,
+    "published_at": "2026-09-16T18:31:35+00:00",
+    "ai_summary": "퀵정렬 알고리즘을 벡터화하여 성능을 극대화하고 다양한 플랫폼에서 이식성을 높이는 기술에 대한 내용입니다.\n이는 데이터 처리 및 정렬 작업에서 고성능을 요구하는 시스템 개발자에게 중요합니다.\n최적화된 알고리즘은 프로그램의 전반적인 효율성을 크게 향상시킬 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://periodic.com/news/nature-is-our-learning-environment",
+    "title": "Nature Is Our Learning Environment (17 minute read)",
+    "url": "https://periodic.com/news/nature-is-our-learning-environment",
+    "discussion_url": "https://periodic.com/news/nature-is-our-learning-environment",
+    "summary": "Periodic Neon outperforms GPT-6 Astra and Claude Fable 5.1 at lower cost on a highly challenging evaluation for scientific analysis. Neon is now deployed in labs to analyze experiments for better superconductors and magnets. The model establishes a Pareto-optimal cost-performance frontier through midtraining and reinforcement learning on lab data. Periodic Neon surpasses frontier models on FrontierXRD at a lower cost per analysis.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "Periodic Neon은 과학 분석에서 GPT-6 Astra 및 Claude Fable 5.1을 능가하며 비용 효율적인 새로운 AI 모델입니다. 이 모델은 초전도체 및 자석 연구를 돕기 위해 현재 실험실에 배포되었습니다. 중간 훈련 및 강화 학습을 통해 파레토 최적의 비용-성능을 달성했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+    "title": "Gemini 3.8 Live and 3.5 Transcribe (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+    "summary": "Google released Gemini 3.8 Live and Gemini 3.5 Transcribe for developing real-time voice applications. These tools offer enhanced features for voice recognition, transcription, and live interaction capabilities. They aim to improve accuracy and user experiences in voice-driven applications.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "Google이 실시간 음성 애플리케이션 개발을 위한 Gemini 3.8 Live 및 Gemini 3.5 Transcribe를 출시했습니다. 이 도구들은 음성 인식, 전사 및 실시간 상호 작용 기능을 강화하여 개발자들이 음성 기반 앱의 정확도와 사용자 경험을 개선할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "Introducing System One Models & Jev (13 minute read)",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "discussion_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "summary": "Jev is a System One Model that achieves similar levels of intelligence on System One tasks compared to existing large language models while being two orders of magnitude faster and more efficient. System One Models are a new class of frontier models built to make fast, structured decisions that software can use directly. Jev is optimized for structured outputs and can not hallucinate. It is now available in early access.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "Jev는 기존 대규모 언어 모델보다 두 배 빠르게 효율적인 System One Model입니다. System One Models는 소프트웨어가 직접 사용할 수 있는 빠르고 구조화된 결정을 내리도록 설계된 새로운 유형의 모델 클래스입니다. Jev는 환각 현상이 없으며 구조화된 출력에 최적화되어 현재 초기 액세스 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mnoukhov.github.io/posts/ngu/",
+    "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up (16 minute read)",
+    "url": "https://mnoukhov.github.io/posts/ngu/",
+    "discussion_url": "https://mnoukhov.github.io/posts/ngu/",
+    "summary": "Standard RL results in disproportionately poor performance on the hardest problems. Simple scalar values may not be sufficient for accurate evaluations of large language models. This paper proposes a solution that reduces the compute spent on easy problems, which reallocates it towards harder problems. The solution appears to show substantial improvements on difficult tasks.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "이 연구는 대규모 언어 모델(LLM)을 위한 강화 학습(RL)에서 가장 어려운 문제의 성능 저하를 다룹니다. 쉬운 문제에 소비되는 계산량을 줄여 어려운 문제에 재할당하는 해결책을 제시합니다. 이 방법은 어려운 작업에서 상당한 개선을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://suganthan.com/blog/x402-pay-per-crawl/",
+    "title": "I made my website charge AI agents a penny per page. Then I watched Claude pay it (13 minute read)",
+    "url": "https://suganthan.com/blog/x402-pay-per-crawl/",
+    "discussion_url": "https://suganthan.com/blog/x402-pay-per-crawl/",
+    "summary": "This developer has been testing an approach to charging AI agents for using their content. Their page sets a price through the x402 protocol before an agent reads it. If the agent wants access, it pays. While the developer has yet to receive any real payments, testing shows the system works, so it's worth looking into if you own content and aren't big enough to negotiate fair licensing deals.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "한 개발자가 웹사이트 콘텐츠를 AI 에이전트가 사용할 때 페이지당 요금을 부과하는 실험을 했습니다. x402 프로토콜을 통해 에이전트가 콘텐츠를 읽기 전에 가격을 설정하고 지불하는 방식입니다. 이 시스템은 콘텐츠 소유자가 공정한 라이선스 협상이 어려운 경우 고려해볼 만한 새로운 접근 방식입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/enactic/OpenArm",
+    "title": "OpenArm (GitHub Repo)",
+    "url": "https://github.com/enactic/OpenArm",
+    "discussion_url": "https://github.com/enactic/OpenArm",
+    "summary": "Provides an open-source humanoid arm for teleoperation, imitation learning, and physical AI research.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "OpenArm은 원격 조작, 모방 학습 및 물리 AI 연구를 위한 오픈소스 휴머노이드 팔입니다. GitHub 저장소로 제공되어 개발자들이 로봇공학 및 AI 연구에 활용할 수 있는 플랫폼을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://paperswithcode.co/paper/2609.14858",
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds (1 minute read)",
+    "url": "https://paperswithcode.co/paper/2609.14858",
+    "discussion_url": "https://paperswithcode.co/paper/2609.14858",
+    "summary": "Progress in recursive self-improvement hinges on effective exploration. Accumulated discovery history can serve as a replay simulator over a realized search space. Dream-RSI closes a self-improvement loop at the exploration layer. It continuously collects discovery histories through online exploration, constructs replay simulators from them to refine meta-exploration strategies via dreaming, and redeploys the upgraded policy online. Dream-RSI improves both discovery effectiveness and efficiency ",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "Dream-RSI는 효과적인 탐색을 통해 AI의 재귀적 자기 개선을 달성합니다. 발견 이력을 재현 시뮬레이터로 활용하여 메타-탐색 전략을 개선하고, 이를 온라인에 재배포하는 방식으로 자기 개선 루프를 만듭니다. 이 접근 방식은 AI 발견의 효과성과 효율성을 모두 향상시킵니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/ProfBuehlerMIT/status/2099834306046664792",
+    "title": "Recursive Meta-Intelligence (8 minute read)",
+    "url": "https://x.com/ProfBuehlerMIT/status/2099834306046664792",
+    "discussion_url": "https://x.com/ProfBuehlerMIT/status/2099834306046664792",
+    "summary": "Recursive scientific AI can build executable worlds, populate them with agent swarms, and compress thousands of simulated trajectories into human-usable principles. In metamaterials, this revealed how architecture can program failure pathways, improving resilience through load redistribution and controlled collapse.",
+    "score": 0,
+    "published_at": "2026-09-17T01:06:28+00:00",
+    "ai_summary": "재귀적 과학 AI는 실행 가능한 세계를 구축하고 에이전트 집단을 통해 시뮬레이션된 궤적에서 인간이 활용할 수 있는 원칙을 도출할 수 있습니다. 메타물질 연구에서 이러한 AI는 하중 재분배 및 제어된 붕괴를 통한 복원력 향상과 같은 설계 원리를 밝혀냈습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  }
+]

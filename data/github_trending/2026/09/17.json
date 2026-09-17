@@ -1,0 +1,92 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 31887,
+    "today_stars": 3231,
+    "forks": 2260
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 7261,
+    "today_stars": 927,
+    "forks": 422
+  },
+  {
+    "name": "JustVugg/colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "stars": 35039,
+    "today_stars": 1546,
+    "forks": 3682
+  },
+  {
+    "name": "abue-ammar/tinycast",
+    "url": "https://github.com/abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "language": "Swift",
+    "stars": 5601,
+    "today_stars": 1179,
+    "forks": 267
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "stars": 54385,
+    "today_stars": 417,
+    "forks": 6790
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "stars": 13346,
+    "today_stars": 547,
+    "forks": 1587
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 24287,
+    "today_stars": 110,
+    "forks": 2922
+  },
+  {
+    "name": "ever-co/ever-gauzy",
+    "url": "https://github.com/ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "language": "TypeScript",
+    "stars": 7314,
+    "today_stars": 778,
+    "forks": 1088
+  },
+  {
+    "name": "ankitects/anki",
+    "url": "https://github.com/ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "language": "Rust",
+    "stars": 30864,
+    "today_stars": 58,
+    "forks": 3210
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 77803,
+    "today_stars": 1059,
+    "forks": 8607
+  }
+]
