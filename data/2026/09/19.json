@@ -1,0 +1,411 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33880",
+    "title": "OpenAI 해킹: 포럼 이미지 업로드에서 내부 저장소 접근까지",
+    "url": "https://news.hada.io/topic?id=33880",
+    "discussion_url": "https://news.hada.io/topic?id=33880",
+    "summary": "보안 연구팀 Hacktron이 포럼의 이미지 처리 취약점과 로그인 설정 오류를 연결해 OpenAI 직원들의 ChatGPT 계정을 탈취하고, Codex에 연결된 내부 저장소까지 접근함\n포럼 침해가 다른 서비스로 번진 원인은 OpenAI의 통합 로그인(SSO) 오류였으며, 포럼에 로그인...",
+    "score": 0,
+    "published_at": "2026-09-18T05:42:16+00:00",
+    "ai_summary": "OpenAI 포럼의 이미지 처리 취약점과 SSO 오류를 통해 직원 계정이 탈취되었습니다.\nChatGPT 계정은 물론, Codex에 연결된 내부 저장소까지 접근당한 심각한 보안 사건입니다.\n이는 보안 취약점 관리와 통합 로그인(SSO) 설계의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33875",
+    "title": "macOS 27 Golden Gate 리뷰",
+    "url": "https://news.hada.io/topic?id=33875",
+    "discussion_url": "https://news.hada.io/topic?id=33875",
+    "summary": "Tahoe의 Liquid Glass 디자인을 다듬고 일상 기능을 보강한 업데이트로, Apple Intelligence도 실용성이 높아졌지만 전체 비활성화와 모델 삭제 옵션은 사라짐\n유리 효과의 강도를 조절하고 창 모서리, 제목 표시줄과 사이드바를 정리해 화면의 시각적 혼잡과 불편...",
+    "score": 0,
+    "published_at": "2026-09-18T01:52:16+00:00",
+    "ai_summary": "macOS 27 \"Golden Gate\" 업데이트는 Liquid Glass 디자인 개선과 일상 기능 보강에 중점을 둡니다.\nApple Intelligence의 실용성이 향상되었으나, 비활성화 및 모델 삭제 옵션은 사라졌습니다.\nUI/UX 개선과 AI 기능 통합이 주요 특징이며, 사용자 제어권 상실 우려를 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49758736",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "discussion_url": "https://news.ycombinator.com/item?id=49758736",
+    "summary": "",
+    "score": 490,
+    "published_at": "2026-09-18T19:03:09+00:00",
+    "ai_summary": "Android 17은 버전 3.x 이후 처음으로 AOSP에 공개되지 않은 채 새로운 API를 추가했습니다.\n이는 안드로이드 오픈소스 정책에 중대한 변화를 의미하며, 개발자들에게 큰 영향을 미칠 것으로 예상됩니다.\n안드로이드 플랫폼 및 앱 개발자에게 중요한 변화를 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49761432",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761432",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-09-18T23:04:17+00:00",
+    "ai_summary": "OpenAI가 자체 LLM을 활용하여 '할라페뇨 칩'을 설계했다는 내용의 기사입니다.\n이는 LLM이 단순 텍스트 생성을 넘어 복잡한 공학적 설계 과정에도 적용될 수 있음을 시사합니다.\nAI가 하드웨어 개발 또는 고도의 시스템 디자인에 기여하는 사례를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49754785",
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49754785",
+    "summary": "",
+    "score": 552,
+    "published_at": "2026-09-18T14:18:41+00:00",
+    "ai_summary": "Cloudflare의 'Quick Tunnels' 기능에 대한 기사입니다.\n로컬 환경의 서비스를 빠르고 안전하게 외부에 노출할 수 있는 터널링 솔루션을 제공하는 것으로 보입니다.\n개발 및 배포 환경에서 유용하며, 네트워크 및 보안 설정 간소화에 기여할 것으로 예상됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49758580",
+    "title": "Saving another 100TB of RAM",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49758580",
+    "summary": "",
+    "score": 207,
+    "published_at": "2026-09-18T18:51:46+00:00",
+    "ai_summary": "100TB 규모의 RAM 절약에 성공했다는 내용으로, 대규모 시스템의 메모리 최적화 기술을 다룰 것으로 예상됩니다.\n이는 고성능 백엔드, 데이터베이스, 클라우드 인프라 개발자에게 매우 중요한 주제입니다.\n시스템 성능 향상과 비용 절감에 기여하는 핵심 기술을 소개할 것으로 보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49758419",
+    "title": "Xcode 27.1 Beta Release Notes",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "discussion_url": "https://news.ycombinator.com/item?id=49758419",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-09-18T18:39:31+00:00",
+    "ai_summary": "Xcode 27.1 베타 릴리스 노트는 Apple 플랫폼 개발자를 위한 최신 IDE 업데이트 내용을 담고 있습니다. 새로운 기능, 버그 수정, 성능 향상 등 개발 환경에 직접적인 영향을 미치는 변경 사항을 안내합니다. iOS, macOS 등 애플리케이션 개발에 필수적인 도구 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49747070",
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49747070",
+    "summary": "",
+    "score": 380,
+    "published_at": "2026-09-17T21:48:38+00:00",
+    "ai_summary": "이 기사는 대규모 언어 모델(LLM)을 활용하여 효과적으로 글을 쓰는 방법을 다룹니다. 프롬프트 엔지니어링 기법, LLM의 강점과 약점을 이해하고 이를 글쓰기에 적용하는 전략을 제시합니다. 개발자가 LLM 기반 애플리케이션을 만들거나 LLM을 생산성 도구로 사용하는 데 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49758615",
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "url": "https://arxiv.org/abs/2510.03215",
+    "discussion_url": "https://news.ycombinator.com/item?id=49758615",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-09-18T18:55:35+00:00",
+    "ai_summary": "이 기사는 LLM 간의 직접적인 의미론적 통신 방식인 '캐시-투-캐시' 개념을 소개합니다. LLM들이 서로의 내부 캐시를 통해 정보를 교환하여 보다 효율적이고 깊이 있는 상호작용을 가능하게 하는 연구 방향을 제시합니다. 미래 LLM 아키텍처 및 협업 시스템 개발에 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49757050",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49757050",
+    "summary": "",
+    "score": 148,
+    "published_at": "2026-09-18T16:54:18+00:00",
+    "ai_summary": "이 기사는 광자 방출 유도 레이저 고장 주입 기술을 사용하여 RP2350 칩의 보안 디버깅을 가능하게 하는 방법을 설명합니다. 이는 하드웨어 수준의 보안 취약점을 탐지하고 분석하는 고급 기법을 다룹니다. 임베디드 시스템 보안 및 하드웨어 개발자에게 중요한 정보를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49748553",
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "url": "https://cactuscompute.com/needle",
+    "discussion_url": "https://news.ycombinator.com/item?id=49748553",
+    "summary": "",
+    "score": 161,
+    "published_at": "2026-09-18T00:11:44+00:00",
+    "ai_summary": "이 'Show HN' 프로젝트는 8-29MB에 불과한 경량 자동화 모델이 DeepSeek V4 Flash와 동등한 성능을 낼 수 있음을 보여줍니다. 이는 소형 모델의 효율성과 강력한 성능을 강조하며, 자원 제약이 있는 환경에서의 AI 모델 배포 가능성을 제시합니다. AI/ML 개발자에게 비용 효율적인 솔루션과 최적화된 모델 구축에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49760187",
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "discussion_url": "https://news.ycombinator.com/item?id=49760187",
+    "summary": "",
+    "score": 489,
+    "published_at": "2026-09-18T21:00:32+00:00",
+    "ai_summary": "Claude Code가 이제 'Claude.md' 파일이 없을 경우 'AGENTS.md' 파일을 읽도록 변경되었다는 업데이트 소식입니다. 이는 Claude AI 코딩 어시스턴트의 설정 파일 우선순위 변경을 의미하며, 사용자들이 에이전트 동작을 정의하는 방식에 영향을 줍니다. Claude 사용 개발자에게 중요한 설정 관련 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49752041",
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49752041",
+    "summary": "",
+    "score": 548,
+    "published_at": "2026-09-18T09:42:22+00:00",
+    "ai_summary": "OpenJev는 개발 생산성 향상을 위한 오픈소스 도구 프로젝트입니다.\n특정 개발 언어나 플랫폼의 기능을 확장하고 효율적인 개발을 지원합니다.\n개발자들이 프로젝트에 쉽게 통합하여 활용할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49729631",
+    "title": "Column built an issuer processor from scratch",
+    "url": "https://column.com/card-issuing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49729631",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-09-16T16:42:37+00:00",
+    "ai_summary": "Column은 금융 카드 발급 프로세서를 처음부터 직접 구축한 사례를 소개합니다.\n이는 복잡한 금융 시스템 설계 및 백엔드 개발 역량을 보여줍니다.\n안정적이고 확장 가능한 결제 인프라를 성공적으로 구현한 경험을 공유합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49731413",
+    "title": "Cyclomatic Complexity in C#",
+    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49731413",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-09-16T19:01:09+00:00",
+    "ai_summary": "C# 코드의 순환 복잡도(Cyclomatic Complexity)를 분석하고 관리하는 방법을 다룹니다.\n이는 코드 품질, 테스트 용이성 및 유지보수성을 평가하는 중요한 척도입니다.\n개발자가 더 효율적이고 읽기 쉬운 코드를 작성하도록 돕습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49746406",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746406",
+    "summary": "",
+    "score": 146,
+    "published_at": "2026-09-17T20:52:33+00:00",
+    "ai_summary": "C++26 표준에서 사소한 무한 루프가 더 이상 미정의 동작(UB)이 아니게 됩니다.\n이는 C++ 언어의 명확성을 높이고 개발자들이 특정 패턴의 코드를 더 안전하게 작성할 수 있도록 합니다.\n컴파일러 동작 및 코드 예측 가능성에 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49758689",
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "url": "https://arxiv.org/abs/2609.02852",
+    "discussion_url": "https://news.ycombinator.com/item?id=49758689",
+    "summary": "",
+    "score": 48,
+    "published_at": "2026-09-18T19:00:06+00:00",
+    "ai_summary": "대규모 언어 모델(LLM) 보안 측면에서 '언어적 비가독성'이 미치는 영향을 분석합니다.\n이는 LLM의 취약점을 탐색하고 안전한 배포 전략을 수립하는 데 중요합니다.\nAI/ML 개발자 및 보안 연구자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49750694",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49750694",
+    "summary": "",
+    "score": 250,
+    "published_at": "2026-09-18T06:11:17+00:00",
+    "ai_summary": "ZCode는 사용자 모르게 Git 기록을 클라우드에 업로드하는 심각한 보안 문제를 가진 도구입니다.\n이는 개발자들의 코드 보안 및 개인 정보 보호에 직접적인 위협이 될 수 있습니다.\n개발 환경에서 사용하는 도구들의 신뢰성과 보안 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49735057",
+    "title": "Size-Specialized Memory Allocation",
+    "url": "https://go.dev/blog/size-specialized-allocations",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735057",
+    "summary": "",
+    "score": 14,
+    "published_at": "2026-09-17T00:45:49+00:00",
+    "ai_summary": "크기별 메모리 할당(Size-Specialized Memory Allocation)은 다양한 크기의 객체를 효율적으로 관리하는 기법입니다.\n이는 메모리 단편화를 줄이고 할당/해제 성능을 최적화하여 시스템 효율성을 높입니다.\n운영체제나 고성능 애플리케이션 등 저수준 프로그래밍 분야에서 중요한 기술입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49714157",
+    "title": "A search-and-inference database from scratch in pure Zig",
+    "url": "https://antfly.io/research/antfly-zig",
+    "discussion_url": "https://news.ycombinator.com/item?id=49714157",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-09-15T15:35:33+00:00",
+    "ai_summary": "이 기사는 순수 Zig 언어로 검색 및 추론 기능을 갖춘 데이터베이스를 처음부터 구축하는 과정을 다룹니다.\n저수준 언어를 사용하여 데이터 구조와 알고리즘을 직접 구현하는 심층적인 개발 경험을 제공합니다.\n성능 최적화와 시스템 설계에 대한 깊은 이해를 얻을 수 있는 유익한 프로젝트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49755095",
+    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49755095",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-09-18T14:41:02+00:00",
+    "ai_summary": "수학자들이 오랫동안 난제로 여겨졌던 '그래프 샌드위치' 문제의 해결에 성공했습니다.\n그래프 이론은 네트워크, 데이터 구조, 알고리즘 등 컴퓨터 과학의 여러 분야에 중요한 기반이 됩니다.\n추상적인 수학적 발견이 실제 컴퓨팅 문제 해결에 영감을 줄 수 있음을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49757520",
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "discussion_url": "https://news.ycombinator.com/item?id=49757520",
+    "summary": "",
+    "score": 385,
+    "published_at": "2026-09-18T17:28:01+00:00",
+    "ai_summary": "미군이 AI를 활용한 정보 보고서에서 '환각' 현상으로 위기를 맞았습니다.\nAI가 생성한 잘못된 정보가 실제 작전에 큰 영향을 미칠 뻔했습니다.\n이는 AI 시스템 개발 및 배포 시 신뢰성 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.notion.com/blog/a-skills-library-for-every-agent",
+    "title": "Notion lets teams share the same instructions across AI agents (7 minute read)",
+    "url": "https://www.notion.com/blog/a-skills-library-for-every-agent",
+    "discussion_url": "https://www.notion.com/blog/a-skills-library-for-every-agent",
+    "summary": "Notion's Skills API lets teams edit agent instructions together and distribute them to other agents through GitHub sync or Vercel's skills installer.",
+    "score": 0,
+    "published_at": "2026-09-19T01:00:04+00:00",
+    "ai_summary": "Notion의 Skills API를 통해 팀이 AI 에이전트 지침을 공유하고 함께 편집할 수 있습니다. 편집된 지침은 GitHub 동기화 또는 Vercel의 스킬 설치 프로그램을 통해 다른 에이전트에 배포할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
