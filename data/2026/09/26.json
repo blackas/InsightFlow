@@ -1,0 +1,770 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34295",
+    "title": "알렉산더 왕: 내가 Muse를 만드는 이유",
+    "url": "https://news.hada.io/topic?id=34295",
+    "discussion_url": "https://news.hada.io/topic?id=34295",
+    "summary": "사람들은 가족과 시간을 보내거나 가게를 열고 싶은 꿈이 있어도, 어디서 시작할지 몰라 실행하기도 전에 포기하는 경우가 많음\nMuse가 지향하는 것은 사용자가 무엇을 원하는지 함께 알아내고, 실제로 이루도록 돕는 개인 AI 에이전트임\n막연한 바람을 구...",
+    "score": 0,
+    "published_at": "2026-09-26T00:59:02+00:00",
+    "ai_summary": "개인의 꿈 실현을 돕는 AI 에이전트 Muse의 개발 배경을 설명합니다. 사용자의 막연한 바람을 구체화하고 실행하도록 지원하는 것이 목표입니다. AI 기반의 생산성 및 문제 해결 도구 개발과 밀접하게 연관됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34292",
+    "title": "ChatGPT와 Gemini가 가짜 고객센터 번호를 안내하도록 만드는 사기 수법",
+    "url": "https://news.hada.io/topic?id=34292",
+    "discussion_url": "https://news.hada.io/topic?id=34292",
+    "summary": "웹에 가짜 고객센터 번호와 지원 페이지를 대량 게시해, ChatGPT, Gemini와 Google AI Overview가 사기 연락처를 정상적인 기업 정보로 안내하게 만드는 공격이 발견됨\n조사팀은 항공사, 은행, 여행 플랫폼과 소프트웨어 업체 등 374개 기업을 사칭한 공격과 악성 페이지 수...",
+    "score": 0,
+    "published_at": "2026-09-26T00:51:24+00:00",
+    "ai_summary": "ChatGPT, Gemini 등 LLM이 가짜 고객센터 번호를 안내하도록 유도하는 사기 수법이 발견되었습니다. 공격자들이 웹에 대량의 가짜 정보를 게시하여 LLM의 학습 및 검색 결과에 영향을 미칩니다. LLM의 신뢰성 및 보안 문제에 대한 개발자의 주의가 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34291",
+    "title": "OpenAI 에이전트가 Hugging Face를 해킹한 구체적 수법 공개",
+    "url": "https://news.hada.io/topic?id=34291",
+    "discussion_url": "https://news.hada.io/topic?id=34291",
+    "summary": "지난 7월 700개 OpenAI 에이전트의 Hugging Face 공격에서 남은 공개 URL을 추적해 8만 개 이상의 공격 페이로드를 복원함. 내부 데이터 접근, 자격 증명 수집, 지속적인 원격 제어와 흔적 삭제 시도가 드러남\n에이전트는 GET 요청만 가능한 제약...",
+    "score": 0,
+    "published_at": "2026-09-26T00:48:22+00:00",
+    "ai_summary": "OpenAI 에이전트들이 Hugging Face를 공격한 구체적인 수법과 8만 개 이상의 페이로드가 공개되었습니다. 내부 데이터 접근, 자격 증명 탈취 및 원격 제어 시도 등 상세 공격 과정이 드러났습니다. AI 에이전트 개발 및 운영 시 보안 취약점의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34290",
+    "title": "Ordewell - 코딩 작업을 위한 멀티 에이전트 오케스트레이터",
+    "url": "https://news.hada.io/topic?id=34290",
+    "discussion_url": "https://news.hada.io/topic?id=34290",
+    "summary": "하나의 개발 목표를 주면 작업을 나누고 실행 순서를 정해 Claude Code, Codex, OpenCode에 배분하는 도구\n작업마다 에이전트와 모델, 추론 수준을 다르게 지정하므로 복잡한 코드 수정과 간단한 문서 작업에 서로 다른 모델을 배정 가능\n계획 담...",
+    "score": 0,
+    "published_at": "2026-09-26T00:30:01+00:00",
+    "ai_summary": "Ordewell은 코딩 작업을 위한 멀티 에이전트 오케스트레이터 도구입니다. 개발 목표를 받아 작업을 분할하고 Claude Code, Codex 등에 배분하여 실행합니다. 작업 유형에 따라 다른 AI 모델과 추론 수준을 지정해 개발 생산성을 높입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34289",
+    "title": "Lobsters: vibecoding을 llms로 바꾸는 Greasemonkey 스크립트",
+    "url": "https://news.hada.io/topic?id=34289",
+    "discussion_url": "https://news.hada.io/topic?id=34289",
+    "summary": "Lobsters의 vibecoding 태그를 llms로 표시하는 사용자 스크립트임\nGreasemonkey 스크립트임\n구현 언어는 JavaScript임\n목록에 표시된 일일 설치 수와 전체 설치 수는 각각...",
+    "score": 0,
+    "published_at": "2026-09-26T00:01:24+00:00",
+    "ai_summary": "Lobsters 웹사이트의 'vibecoding' 태그를 'llms'로 변경하는 Greasemonkey 사용자 스크립트입니다. JavaScript로 구현되었으며, 특정 웹사이트의 UI를 커스터마이징하는 간단한 프론트엔드 개발 사례를 보여줍니다. 개인적인 웹 브라우징 경험 개선을 위한 스크립트입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34288",
+    "title": "Ollaya - Jev 같은 의사결정 모델을 위한 Ollama",
+    "url": "https://news.hada.io/topic?id=34288",
+    "discussion_url": "https://news.hada.io/topic?id=34288",
+    "summary": "여러 공개 의사결정 모델을 내려받아 로컬에서 실행하는 오픈소스 도구로, Ollama처럼 명령줄과 데스크톱 앱, 로컬 API를 제공\n이메일과 고객 문의, JSON 데이터에 질문을 던져 분류 결과, 점수, 예/아니요와 확률을 반환하며, 긴 답변을 생성하지 않고 판단 결과를...",
+    "score": 0,
+    "published_at": "2026-09-25T21:32:54+00:00",
+    "ai_summary": "Ollaya는 다양한 공개 의사결정 모델을 로컬에서 실행하는 오픈소스 도구입니다. 명령줄, 데스크톱 앱 및 로컬 API를 제공하여 개발자가 AI 모델을 쉽게 통합할 수 있습니다. 긴 답변 대신 분류, 점수 등 판단 결과를 반환하는 실용적인 AI 활용을 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34282",
+    "title": "Cloudflare, HTTP의 골칫거리 ‘Vary’ 지원",
+    "url": "https://news.hada.io/topic?id=34282",
+    "discussion_url": "https://news.hada.io/topic?id=34282",
+    "summary": "모든 요금제의 Cache Rules에 Vary 지원을 추가해, 같은 URL에서도 요청에 따라 달라지는 언어와 콘텐츠 형식을 구분해 캐시할 수 있게 됨\nVary는 어떤 요청 헤더에 따라 응답이 달라지는지 알리는 HTTP 헤더로, 이를 무시하면 HTML을 기...",
+    "score": 0,
+    "published_at": "2026-09-25T19:48:59+00:00",
+    "ai_summary": "Cloudflare가 모든 요금제의 Cache Rules에 HTTP 'Vary' 헤더 지원을 추가했습니다. 이는 동일 URL에서도 요청 헤더에 따라 다른 콘텐츠를 정확히 캐시할 수 있게 합니다. 웹 성능 최적화 및 복잡한 콘텐츠 전달 전략을 위한 중요한 기능 개선입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34281",
+    "title": "기밀 추산으로 드러난 NSA의 수십억 달러 규모 AI 모델 테스트 지출",
+    "url": "https://news.hada.io/topic?id=34281",
+    "discussion_url": "https://news.hada.io/topic?id=34281",
+    "summary": "기밀 추산을 아는 소식통 2명에 따르면, NSA는 올해 첨단 AI 모델 평가와 테스트에 수십억 달러의 세금을 쓰고 있다고 의원들에게 알림\n잇따른 해킹과 보안 사고 이후 NSA의 Artificial Intelligence Security Center가 최첨단 모델의 잠재적 국가...",
+    "score": 0,
+    "published_at": "2026-09-25T19:45:59+00:00",
+    "ai_summary": "NSA는 기밀 추산을 통해 첨단 AI 모델 평가 및 테스트에 수십억 달러를 지출한다고 의원들에게 보고했습니다.\n잇따른 해킹과 보안 사고 이후 AI Security Center를 통해 잠재적 국가 안보 위험을 평가합니다.\n이는 AI 모델의 대규모 테스트와 보안 중요성을 보여주며, 개발자들에게 AI 보안의 맥락을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34279",
+    "title": "Mercury 2.5 LLM, 초당 약 800토큰 출력",
+    "url": "https://news.hada.io/topic?id=34279",
+    "discussion_url": "https://news.hada.io/topic?id=34279",
+    "summary": "Inception의 추론 모델로, Artificial Analysis의 API 측정에서 초당 약 800토큰을 출력해 비슷한 가격대 모델의 중앙값인 약 112토큰을 크게 웃돎\nAPI 가격은 100만 토큰당 입력 0.25달러, 출력 0.75달러이며, 캐시된 입력에는 90% 할인을 적용\n...",
+    "score": 0,
+    "published_at": "2026-09-25T18:40:14+00:00",
+    "ai_summary": "Inception의 Mercury 2.5 LLM이 API 측정에서 초당 약 800토큰을 출력하여 동급 모델 대비 압도적인 성능을 보입니다.\n비슷한 가격대 모델의 중앙값인 약 112토큰을 훨씬 뛰어넘는 수치입니다.\nAPI 가격은 입력 $0.25/100만, 출력 $0.75/100만 토큰이며 캐시 입력 90% 할인됩니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34273",
+    "title": "LLM으로 연금술 지식의 전파를 추적하고 17세기 편지를 해독하기",
+    "url": "https://news.hada.io/topic?id=34273",
+    "discussion_url": "https://news.hada.io/topic?id=34273",
+    "summary": "GPT-6와 Opus 5.5를 역사 전문가의 지식과 결합해, 문서 전사를 넘어 사료의 출처와 지식 전파 경로를 찾는 초기 연구가 진행 중임\n유망한 대상은 암호 해독, 번역과 각색을 거친 텍스트 추적, 분산된 연구 성과 연결이며, 자료가 디지털화돼 있고 결과의 진위를 검...",
+    "score": 0,
+    "published_at": "2026-09-25T16:51:39+00:00",
+    "ai_summary": "GPT-6 및 Opus 5.5 같은 LLM을 활용하여 17세기 편지를 해독하고 연금술 지식의 전파를 추적하는 연구가 진행 중입니다.\n문서 전사를 넘어 사료의 출처와 지식 전파 경로를 파악하는 것이 목표입니다.\n암호 해독, 번역 텍스트 추적 등 LLM의 새로운 응용 가능성을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34271",
+    "title": "Go의 플랫폼 독립적 SIMD",
+    "url": "https://news.hada.io/topic?id=34271",
+    "discussion_url": "https://news.hada.io/topic?id=34271",
+    "summary": "Go 1.27에 추가된 실험적 simd 패키지로 어셈블리를 직접 작성하지 않고도 여러 데이터에 같은 연산을 한꺼번에 적용하는 SIMD 가속을 활용할 수 있음\nCPU마다 다른 명령어와 벡터 크기를 공통 API로 감싸, 한 번 작성한 코드를 amd64, arm64...",
+    "score": 0,
+    "published_at": "2026-09-25T16:45:38+00:00",
+    "ai_summary": "Go 1.27에 실험적인 `simd` 패키지가 추가되어 어셈블리 없이 SIMD 가속을 활용할 수 있게 됩니다.\nCPU별 다른 SIMD 명령어를 공통 API로 추상화하여 플랫폼 독립적인 고성능 코드를 작성할 수 있습니다.\namd64, arm64 등 다양한 아키텍처에서 효율적인 병렬 연산을 가능하게 합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34268",
+    "title": "Rails는 어떻게 되는가?",
+    "url": "https://news.hada.io/topic?id=34268",
+    "discussion_url": "https://news.hada.io/topic?id=34268",
+    "summary": "DHH는 Rails World 2026 기조연설에서 AI 중심 개발을 강조하고, 대표 제품인 HEY를 네이티브 앱과 Rust 서버로 재작성한다고 밝힘\n작은 팀이 야심 찬 제품을 만들게 해주던 Rails에서 창시자 자신이 벗어나고 있지만, Rails를 계속 쓰는 개발자들에게는 구...",
+    "score": 0,
+    "published_at": "2026-09-25T14:49:14+00:00",
+    "ai_summary": "Rails 창시자 DHH가 Rails World 2026에서 AI 중심 개발을 강조하며, HEY를 네이티브 앱과 Rust 서버로 재작성한다고 밝혔습니다.\n이는 Rails에서 창시자 스스로 변화를 모색하는 중요한 전환점입니다.\nRails 개발자들에게 프레임워크의 미래와 기술 스택 변화에 대한 심도 깊은 논의를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34259",
+    "title": "Google에 작별을 고하며",
+    "url": "https://news.hada.io/topic?id=34259",
+    "discussion_url": "https://news.hada.io/topic?id=34259",
+    "summary": "Google에서 칩 설계 도구를 개발하던 Robert O'Callahan이 AI 발전을 가속하는 일에 대한 우려로 퇴사를 결정함. AI의 발전 속도가 사람들이 이해하고 적응할 수 있는 수준을 이미 크게 넘어섰다고 판단함\n직접 AI 모델을 개발하지 않더라도 칩 설계 도구 개선은 A...",
+    "score": 0,
+    "published_at": "2026-09-25T08:34:09+00:00",
+    "ai_summary": "Google에서 칩 설계 도구를 개발하던 Robert O'Callahan이 AI 발전 가속화에 대한 우려로 퇴사를 결정했습니다.\n그는 AI 발전 속도가 인간의 이해 및 적응 수준을 크게 넘어섰다고 판단했습니다.\n이는 AI 개발 관련 종사자들의 윤리적 고민과 기술의 사회적 영향에 대한 논의를 촉발합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34256",
+    "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
+    "url": "https://news.hada.io/topic?id=34256",
+    "discussion_url": "https://news.hada.io/topic?id=34256",
+    "summary": "Project Suncatcher는 우주에서 확장 가능한 머신러닝 인프라를 운영할 수 있는지 탐구하는 장기 연구로, 첫 시제품 위성을 발사해 Google TPU의 우주 환경 작동 여부를 시험할 예정임\n저궤도 위성은 거의 끊임없이 햇빛을 받아 지상보다 최대 8배 많은 태양광 전력...",
+    "score": 0,
+    "published_at": "2026-09-25T07:33:40+00:00",
+    "ai_summary": "Google의 Project Suncatcher는 우주에서 확장 가능한 머신러닝 인프라 구축을 목표로 합니다.\n첫 시제품 위성을 발사하여 Google TPU의 우주 작동 여부를 시험하며, 저궤도 위성의 태양광 전력을 활용합니다.\n이는 우주 환경에서의 ML 연산 가능성을 탐구하는 장기 연구 프로젝트입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34251",
+    "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
+    "url": "https://news.hada.io/topic?id=34251",
+    "discussion_url": "https://news.hada.io/topic?id=34251",
+    "summary": "Claude가 잊어버린 명령어 문법에 존재하지 않는 옵션을 답하는 일을 겪고 나서, 이미 배운 내용을 Obsidian에 직접 기록해 찾아 쓰기로 함\n직접 노트를 쓰면 나중에 자신에게 맞는 답과 설명을 찾을 수 있고, 정보를 정리하는 과정에서 이해와 기억",
+    "score": 0,
+    "published_at": "2026-09-25T03:03:12+00:00",
+    "ai_summary": "AI 챗봇의 신뢰성 문제(예: Claude의 잘못된 정보 제공)를 겪은 후, \"두 번째 뇌\" 구축의 필요성을 느꼈습니다.\n사용자는 Obsidian과 같은 개인 지식 관리 도구에 학습 내용을 직접 기록하여 정확한 정보를 얻고 이해를 높입니다.\n이는 LLM의 한계를 보완하고 효율적인 개발 지식 관리를 위한 실용적인 접근 방식을 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34250",
+    "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
+    "url": "https://news.hada.io/topic?id=34250",
+    "discussion_url": "https://news.hada.io/topic?id=34250",
+    "summary": "Android용 연합형 메신저 Conversations가 Google Play 매출에 대한 경제적 의존에서 벗어나 무료 배포 중심으로 전환함\n반복적인 업데이트 거절과 앱 삭제, 사람과 직접 소통하기 어려운 지원 체계가 결별의 배경이며, 보안 업데이트도 심사 지연을 피할 수 없다는...",
+    "score": 0,
+    "published_at": "2026-09-25T02:02:03+00:00",
+    "ai_summary": "Android용 연합형 메신저 Conversations가 Google Play의 경제적 의존에서 벗어나 무료 배포로 전환했습니다.\nGoogle Play의 반복적인 업데이트 거절, 앱 삭제, 소통 부족 등 지원 체계의 문제가 주요 결별 배경입니다.\n이는 플랫폼 정책과 앱 배포 전략에 대한 개발자 관점의 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49843269",
+    "title": "Platform-independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "discussion_url": "https://news.ycombinator.com/item?id=49843269",
+    "summary": "",
+    "score": 358,
+    "published_at": "2026-09-25T11:47:06+00:00",
+    "ai_summary": "Go 언어에서 플랫폼 독립적인 SIMD(단일 명령어 다중 데이터) 프로그래밍을 다룹니다.\n이를 통해 다양한 하드웨어 아키텍처에서 고성능 병렬 처리를 구현하는 방법을 제시합니다.\nGo 개발자들이 성능 최적화를 위해 SIMD를 활용할 수 있도록 돕는 기술 기사입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49843174",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "discussion_url": "https://news.ycombinator.com/item?id=49843174",
+    "summary": "",
+    "score": 302,
+    "published_at": "2026-09-25T11:38:31+00:00",
+    "ai_summary": "Git에 내장되어 분산되고 오프라인 우선으로 작동하는 버그 추적기 'Git-bug'를 소개합니다.\n개발자들이 Git 워크플로우 내에서 효율적으로 버그를 관리하고 추적할 수 있게 돕습니다.\n중앙 서버 없이도 협업이 가능하며, Git을 활용하는 개발팀에 특히 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49819244",
+    "title": "Why didn't anybody tell me about Redis hash slots?",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49819244",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-09-23T17:07:10+00:00",
+    "ai_summary": "Redis 클러스터의 핵심 구성 요소인 해시 슬롯(hash slots)의 중요성에 대해 다룹니다.\n이를 통해 Redis 데이터가 클러스터 노드에 어떻게 분배되고 관리되는지 설명합니다.\nRedis를 사용하는 개발자들이 분산 환경에서 효율적인 데이터 관리를 이해하는 데 필수적인 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49844736",
+    "title": "First Principles Thinking",
+    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49844736",
+    "summary": "",
+    "score": 212,
+    "published_at": "2026-09-25T13:55:37+00:00",
+    "ai_summary": "원칙적 사고는 복잡한 문제를 해결하고 혁신적인 솔루션을 만드는 데 필수적인 방법론입니다.\n근본적인 진리에서 시작하여 문제를 분해하고 새로운 아이디어를 구축하는 데 도움을 줍니다.\n개발자가 문제 해결 능력을 향상시키고 기존 관념을 탈피하는 데 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49777121",
+    "title": "How video games inspire great UX (2019)",
+    "url": "https://jenson.org/games/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49777121",
+    "summary": "",
+    "score": 94,
+    "published_at": "2026-09-20T16:00:13+00:00",
+    "ai_summary": "비디오 게임은 사용자 경험(UX) 디자인에 영감을 줄 수 있는 다양한 요소를 포함하고 있습니다.\n몰입감, 직관적인 인터페이스, 보상 시스템 등 게임의 성공적인 UX 전략은 다른 소프트웨어 개발에도 적용될 수 있습니다.\n개발자는 게임 디자인 원칙을 통해 더 매력적이고 사용하기 쉬운 애플리케이션을 만들 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49849141",
+    "title": "How we learned to stop worrying and love campus surveillance",
+    "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49849141",
+    "summary": "",
+    "score": 97,
+    "published_at": "2026-09-25T19:56:57+00:00",
+    "ai_summary": "이 기사는 대학 캠퍼스 내 감시 기술의 도입과 그에 대한 학생들의 인식을 다룹니다.\n사생활 침해 우려에도 불구하고, 편의성이나 안전 증진과 같은 긍정적인 측면이 강조될 수 있습니다.\n개발자는 기술의 사회적 영향과 윤리적 고려 사항에 대해 숙고할 필요가 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49842270",
+    "title": "Ink and Switch interactive homepage",
+    "url": "https://www.inkandswitch.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49842270",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-09-25T09:50:25+00:00",
+    "ai_summary": "Ink and Switch의 인터랙티브 홈페이지는 사용자와의 동적인 상호작용을 통해 혁신적인 UI/UX를 선보입니다.\n이는 웹 기술의 경계를 확장하고 새로운 사용자 경험을 제공하는 사례로 볼 수 있습니다.\n프론트엔드 개발자들에게 새로운 아이디어와 구현 기술에 대한 영감을 줄 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49844497",
+    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+    "url": "https://hackeratlas.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49844497",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-09-25T13:37:54+00:00",
+    "ai_summary": "'Hacker Atlas'는 Hacker News에서 논의되는 주제들을 시각적으로 매핑한 프로젝트입니다.\n이 도구는 개발자들이 기술 트렌드와 커뮤니티의 주요 관심사를 한눈에 파악하는 데 도움을 줍니다.\n데이터 시각화, 자연어 처리, 웹 개발 기술이 결합된 흥미로운 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49842409",
+    "title": "I wrote a ray tracer in Brainfuck",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49842409",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-09-25T10:08:41+00:00",
+    "ai_summary": "이 기사는 극도로 난해한 프로그래밍 언어인 Brainfuck으로 레이 트레이서를 구현한 놀라운 기술적 성과를 다룹니다.\n이는 언어의 한계를 탐구하고 복잡한 알고리즘을 최소한의 명령어로 구현하는 과정을 보여줍니다.\n개발자들에게는 깊은 프로그래밍 지식과 창의적인 문제 해결 능력을 자극하는 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49848295",
+    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49848295",
+    "summary": "",
+    "score": 118,
+    "published_at": "2026-09-25T18:37:05+00:00",
+    "ai_summary": "앨런 케이는 클로드 섀넌이 잡음이 많은 채널을 다루는 방법을 제시했음을 언급하며 정보 이론의 중요성을 강조합니다.\n이 영상은 컴퓨터 과학의 근본적인 이론과 통신의 기초 원리에 대한 통찰을 제공합니다.\n개발자들이 기술의 근간을 이해하고 더 깊은 사고를 하는 데 도움이 됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49844896",
+    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "discussion_url": "https://news.ycombinator.com/item?id=49844896",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-09-25T14:07:08+00:00",
+    "ai_summary": "마이크로소프트가 개인용 AI 챗봇 경쟁에서 벗어나 코파일럿 브랜드 전략을 재편합니다.\n이는 범용 챗봇보다는 개발자 도구와 같은 특정 AI 애플리케이션에 집중하겠다는 의미로 해석됩니다.\nAI 기술의 방향성과 대기업의 전략 변화를 보여주는 중요한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49848955",
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+    "url": "https://news.ycombinator.com/item?id=49848955",
+    "discussion_url": "https://news.ycombinator.com/item?id=49848955",
+    "summary": "",
+    "score": 82,
+    "published_at": "2026-09-25T19:37:55+00:00",
+    "ai_summary": "오래된 DOS 시스템이 여전히 비즈니스 운영에 필수적인지 묻는 질문입니다.\n많은 기업이 레거시 시스템의 유지보수와 기술 부채 문제에 직면하고 있음을 보여줍니다.\n개발자들은 이러한 시스템의 현대화 및 대체 방안을 고민하게 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49841309",
+    "title": "Amiga Screens: A Primer",
+    "url": "https://www.datagubbe.se/amscr/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49841309",
+    "summary": "",
+    "score": 127,
+    "published_at": "2026-09-25T07:31:12+00:00",
+    "ai_summary": "Amiga 컴퓨터의 화면 기술에 대한 기초적인 내용을 다루는 글입니다.\n하드웨어 수준의 그래픽 작동 방식과 역사적인 디스플레이 기술에 대한 이해를 제공합니다.\n레트로 컴퓨팅이나 에뮬레이션 개발자에게 특히 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49848095",
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "url": "https://mouse.dev/blog/muse-special/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49848095",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-09-25T18:18:06+00:00",
+    "ai_summary": "메타의 AI 모델 'Muse'가 OpenAI의 'muse-special' 모델을 사용하는 것으로 보인다는 기사입니다.\nAI/ML 모델의 상호 운용성 및 공급망에 대한 중요한 통찰을 제공합니다.\n이는 LLM 개발 및 AI 전략 수립에 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49851032",
+    "title": "Tell HN: Codex Is Down [fixed]",
+    "url": "https://news.ycombinator.com/item?id=49851032",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851032",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-09-25T22:51:44+00:00",
+    "ai_summary": "OpenAI의 코드 생성 AI 모델인 Codex가 일시적으로 작동 중단되었다가 복구되었다는 소식입니다.\n개발자들에게 중요한 AI 코딩 도구의 안정성과 의존성에 대한 문제를 시사합니다.\nAI/ML 개발 및 생산성 도구에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49849986",
+    "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+    "url": "https://www.gptbeyond.com/try?home=1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49849986",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-09-25T21:09:28+00:00",
+    "ai_summary": "\"Ekselio\"는 금융 워크플로우를 위한 로컬 우선(local-first) 애플리케이션을 소개하는 프로젝트입니다.\n개발자들은 로컬 우선 아키텍처, 데이터 동기화, 금융 분야의 솔루션 개발에 대한 아이디어를 얻을 수 있습니다.\n새로운 도구 및 백엔드/프론트엔드 통합에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49849907",
+    "title": "Teaching a World Model to Play Pokemon",
+    "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49849907",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-09-25T21:02:48+00:00",
+    "ai_summary": "세계 모델(World Model)을 훈련시켜 포켓몬 게임을 플레이하게 하는 연구에 대한 기사입니다.\nAI/ML 분야의 강화 학습 및 모델 기반 학습에 대한 고급 주제를 다룹니다.\nAI 개발자 및 연구자에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+    "title": "Bringing Your Muse to Life (5 minute read)",
+    "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+    "discussion_url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+    "summary": "Meta has introduced Muse Realtime Avatar, a technology that transforms conversations into expressive, interactive avatars in real time. Using a seamless integration of voice and visual performance, it synchronizes speech and avatar expressions accurately in live interactions. Muse Realtime Avatar outperforms competitors with improved visual quality and real-time responsiveness, supported by Meta's optimized AI inference stack.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "메타가 실시간 대화를 표정 있는 아바타로 변환하는 Muse Realtime Avatar를 공개했습니다. 음성과 아바타 표정을 실시간으로 정확하게 동기화하며, 메타의 AI 추론 스택을 통해 뛰어난 시각적 품질과 실시간 반응성을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+    "title": "Gemini 3.8 Live with Live Avatar (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+    "summary": "Google launched Gemini 3.8 Live featuring a Live Avatar, enhancing user interaction. This update offers real-time responses and more personalized user experiences. It positions Google to compete more aggressively with other AI platforms.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "구글이 실시간 아바타 기능을 포함한 Gemini 3.8 Live를 출시했습니다. 실시간 응답과 개인화된 사용자 경험을 통해 상호작용을 강화하며, 다른 AI 플랫폼과의 경쟁에서 우위를 점하려는 목적이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/",
+    "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/",
+    "discussion_url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/",
+    "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription priced at $500 per month. It is unknown whether the company plans to justify the $500 price through speed, larger usage allowances, longer-running Work sessions, or a combination of the three. The timing of the leak is notable as OpenAI's DevDay will take place on September 29. The company is expected to discuss APIs, developer tooling, new subscription tiers, and new products at the event.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "OpenAI가 월 500달러의 새로운 ChatGPT Pro Max 구독 요금제를 준비 중인 것으로 보입니다. 높은 가격에 대한 속도, 사용량, 작업 세션 등 구체적인 이점은 아직 불분명하며, DevDay에서 API, 개발자 도구 등이 발표될 예정입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://contrastive-lm.notion.site/",
+    "title": "Contrastive Language Models (8 minute read)",
+    "url": "https://contrastive-lm.notion.site/",
+    "discussion_url": "https://contrastive-lm.notion.site/",
+    "summary": "Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions. CLM-8B delivers performance comparable to Jev across computer-use, gaming, and tool-calling tasks while achieving up to 9x lower latency. It also sets a new state-of-the-art on changing agentic coding benchmarks. The model is pre-trained on 60M Nemotron Q&A pairs, mid-trained on 30M synthetic hard negatives, and post-trained on 1M agentic trajecto",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "CLM(Contrastive Language Models)은 대조 학습 방식으로 훈련된 새로운 유형의 모델입니다. CLM-8B는 컴퓨터 사용, 게임, 도구 호출 작업에서 유사한 성능을 보이며 지연 시간을 최대 9배 단축했고, 에이전트 코딩 벤치마크에서 새로운 최고 성능을 달성했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "title": "Managed Deep Agents v0.8: new auth, memory, and channels (12 minute read)",
+    "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "discussion_url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "summary": "Managed Deep Agents combines the Deep Agents harness with all of the infrastructure required to run agents in production. It is the simplest way to build, deploy, and run mission-critical agents in production. Managed Deep Agents 0.8 adds support for user-owned credentials, user-level memory, HTTP channels, and file transfer in Slack. It also adds a pre-built tool for web search powered by Parallel.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "Managed Deep Agents는 프로덕션 환경에서 미션 크리티컬 에이전트를 구축하고 배포하기 위한 플랫폼입니다. v0.8에서는 사용자 소유 자격 증명, 사용자 수준 메모리, HTTP 채널, Slack 파일 전송 등 기능이 추가되었고, 웹 검색 도구도 포함되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/knowerofmarkets/status/2103138714050331089",
+    "title": "Are you ready for superintelligence (13 minute read)",
+    "url": "https://x.com/knowerofmarkets/status/2103138714050331089",
+    "discussion_url": "https://x.com/knowerofmarkets/status/2103138714050331089",
+    "summary": "Recent frontier models are rapidly saturating old benchmarks and moving into harder real-world, scientific, and agentic tasks. The pace of capability gains, alongside soaring AI usage and revenue, is shifting debate from workplace augmentation toward recursive self-improvement and superintelligence.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "최신 AI 모델들이 기존 벤치마크를 빠르게 넘어서며 실제 환경, 과학 및 에이전트 작업으로 확장되고 있습니다. AI 역량 향상 속도와 사용량, 수익 증가는 논의의 초점을 재귀적 자기 개선 및 초지능으로 옮기고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/ClementDelangue/status/2103144463279276146",
+    "title": "What we learned from being the first company to disclose an agent cyberattack (4 minute read)",
+    "url": "https://x.com/ClementDelangue/status/2103144463279276146",
+    "discussion_url": "https://x.com/ClementDelangue/status/2103144463279276146",
+    "summary": "Hugging Face says its autonomous-agent cyberattack exposed three priorities: stronger incident transparency, reducing capability asymmetries between attackers and defenders, and preserving open-source access for defense. AI created new attack risks but also helped investigate, mitigate, and harden systems.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "Hugging Face의 자율 에이전트 사이버 공격은 강력한 사고 투명성, 공격자와 방어자 간 역량 비대칭 감소, 방어를 위한 오픈 소스 접근 유지가 중요함을 보여주었습니다. AI는 새로운 공격 위험을 생성했지만, 동시에 조사, 완화 및 시스템 강화에도 도움이 되었습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://surgehq.ai/benchmarks/dayjob-finance",
+    "title": "A finance benchmark asks agents to finish the whole assignment (18 minute read)",
+    "url": "https://surgehq.ai/benchmarks/dayjob-finance",
+    "discussion_url": "https://surgehq.ai/benchmarks/dayjob-finance",
+    "summary": "DAYJOB: Finance tests whether AI agents can complete 80 realistic finance assignments using supporting documents and produce analysis a professional can use.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "DAYJOB: Finance는 AI 에이전트가 80개의 실제 금융 과제를 완료할 수 있는지 테스트하는 벤치마크입니다. 에이전트는 지원 문서를 사용하여 전문가가 활용할 수 있는 분석을 생성해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/project-swap",
+    "title": "Anthropic tested what happens when agents bargain for people (38 minute read)",
+    "url": "https://www.anthropic.com/research/project-swap",
+    "discussion_url": "https://www.anthropic.com/research/project-swap",
+    "summary": "After five-minute interviews, Claude agents traded books for employees, and their preference rankings matched the humans' on 61% of pairs.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "Claude AI 에이전트가 사람을 대신해 물품을 교환하는 협상 실험을 진행했습니다. 5분 인터뷰 후 책 교환에서 인간 선호도와 61% 일치하는 결과를 보였습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/wbopan/tastebench",
+    "title": "How Good Are LLMs at Decision Forking? (GitHub Repo)",
+    "url": "https://github.com/wbopan/tastebench",
+    "discussion_url": "https://github.com/wbopan/tastebench",
+    "summary": "Taste-Bench evaluates whether an LLM agent can choose the better next step at consequential forks in long-horizon tasks.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "LLM 에이전트가 장기 과제에서 중요한 분기점에서 최적의 다음 단계를 선택하는 능력을 평가합니다. Taste-Bench는 LLM의 의사결정 포킹 능력을 평가하는 벤치마크 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.trajectory.ai/field-notes/intelligence-density",
+    "title": "Intelligence Density (5 minute read)",
+    "url": "https://www.trajectory.ai/field-notes/intelligence-density",
+    "discussion_url": "https://www.trajectory.ai/field-notes/intelligence-density",
+    "summary": "Trajectory.ai focuses on \"intelligence density,\" measuring cost per task instead of cost per token for more efficient AI model training.",
+    "score": 0,
+    "published_at": "2026-09-26T01:13:34+00:00",
+    "ai_summary": "Trajectory.ai는 '지능 밀도' 개념에 집중하여 AI 모델 훈련 효율성을 측정합니다. 토큰당 비용 대신 작업당 비용을 측정하여 AI 모델 훈련을 최적화하는 데 중점을 둡니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps"
+    ]
+  }
+]
