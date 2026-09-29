@@ -1,0 +1,909 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34463",
+    "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
+    "url": "https://news.hada.io/topic?id=34463",
+    "discussion_url": "https://news.hada.io/topic?id=34463",
+    "summary": "클라우드 API 대신 사용자의 기기에서 AI 모델을 실행해, 앱과 게임에 대화·이미지 이해·음성 기능을 넣는 오픈소스 추론 엔진\n모델을 내려받으면 인터넷 연결이나 API 키 없이 실행할 수 있으며, 사용자 입력을 외부 서버로 보내지 않고 처리 가능\nPytho...",
+    "score": 0,
+    "published_at": "2026-09-29T00:30:02+00:00",
+    "ai_summary": "NobodyWho는 앱과 게임에 로컬 AI 기능을 추가하는 온디바이스 추론 엔진입니다.\n이 오픈소스 엔진은 모델을 기기에 직접 다운로드하여 인터넷 없이 AI를 실행합니다.\n사용자 프라이버시를 보호하며 대화, 이미지 이해, 음성 기능을 제공합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34461",
+    "title": "그들을 뒤로하고",
+    "url": "https://news.hada.io/topic?id=34461",
+    "discussion_url": "https://news.hada.io/topic?id=34461",
+    "summary": "David Bushell이 AI 정책을 “현재 전문 업무에 AI를 사용하지 않는다”에서 “AI를 사용하지 않으며 앞으로도 사용하지 않겠다”로 변경함\nAI 산업이 노동을 비인간화하고 상품화하도록 설계돼 있다고 비판하며, AI와 관련된 어떤 일에도 가치 있는 경력이 없다고...",
+    "score": 0,
+    "published_at": "2026-09-29T00:12:29+00:00",
+    "ai_summary": "David Bushell은 AI 사용 정책을 '앞으로 AI를 사용하지 않겠다'로 변경했습니다.\n그는 AI 산업이 노동을 비인간화하고 상품화한다고 비판합니다.\nAI 관련 업무에서 가치 있는 경력을 찾을 수 없다고 주장하며 AI와의 결별을 선언합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34457",
+    "title": "칼 뉴포트: AI 연구소를 조사할 때다",
+    "url": "https://news.hada.io/topic?id=34457",
+    "discussion_url": "https://news.hada.io/topic?id=34457",
+    "summary": "미국 의회가 OpenAI와 Anthropic의 연구 활동을 대상으로, 무엇을 어떻게 어떤 목적으로 연구하는지 공개적으로 사실관계를 조사해야 함\n두 회사는 자사 기술의 위험을 강조하면서도 개발 중단 대신 정부가 잠재적 경쟁자를 견제하고 선도 연구소에 개발 주도권을 맡기는 방...",
+    "score": 0,
+    "published_at": "2026-09-28T22:37:38+00:00",
+    "ai_summary": "칼 뉴포트는 미국 의회가 OpenAI와 Anthropic의 연구 활동을 조사해야 한다고 주장합니다.\n그는 AI 연구소들이 개발 중단을 회피하며 정부에 규제와 주도권 보장을 요구한다고 비판합니다.\nAI 기술의 위험성과 연구의 투명성 문제를 제기하고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34455",
+    "title": "인덱스 하나 더의 참을 수 없는 가벼움",
+    "url": "https://news.hada.io/topic?id=34455",
+    "discussion_url": "https://news.hada.io/topic?id=34455",
+    "summary": "코딩 에이전트가 만든 PostgreSQL 인덱스는 개별 쿼리에는 적절했지만, 쓰기가 집중되는 테이블에 누적되는 비용을 충분히 고려하지 못함\n고객 지원 도구의 tickets 벤치마크에서 인덱스가 16개인 생성 스키마는 수작업 기준 스키마보다 WAL을 1.8배 기록하고,...",
+    "score": 0,
+    "published_at": "2026-09-28T22:20:37+00:00",
+    "ai_summary": "코딩 에이전트가 생성한 PostgreSQL 인덱스가 개별 쿼리에는 적합했지만, 쓰기 성능에 부정적 영향을 주었습니다.\n인덱스가 많아지면 WAL 기록량이 증가하고 디스크 사용량이 늘어나 비용이 상승했습니다.\nAI 코드 생성 시 성능 비용을 신중하게 고려해야 함을 보여줍니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34454",
+    "title": "Diskless Kafka: 브로커가 데이터를 소유하지 않으면 무엇이 달라질까?",
+    "url": "https://news.hada.io/topic?id=34454",
+    "discussion_url": "https://news.hada.io/topic?id=34454",
+    "summary": "Diskless Kafka는 Kafka 클라이언트 API를 유지하면서 메시지를 브로커의 로컬 디스크 대신 S3 같은 공유 객체 스토리지에 저장하는 방식임\n메시지 복제를 저장 서비스에 맡겨 가용 영역 간 트래픽과 저장 비용을 줄이고, 브로커를 늘리거나 교체...",
+    "score": 0,
+    "published_at": "2026-09-28T22:14:45+00:00",
+    "ai_summary": "Diskless Kafka는 메시지를 브로커 로컬 디스크 대신 S3와 같은 공유 객체 스토리지에 저장합니다.\n이는 메시지 복제를 저장 서비스에 맡겨 가용 영역 간 트래픽과 비용을 절감합니다.\n브로커를 유연하게 확장하고 교체할 수 있어 운영 효율성이 높아집니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34453",
+    "title": "대부분의 기술 혁명은 직원들의 일을 더 힘들게 만들었다. AI는 예외가 될 수 있다",
+    "url": "https://news.hada.io/topic?id=34453",
+    "discussion_url": "https://news.hada.io/topic?id=34453",
+    "summary": "PC, 이메일, 스마트폰은 업무 속도와 접근성을 높였지만, 절약한 시간은 직원에게 돌아오기보다 더 높은 업무 기대치로 바뀌는 패턴을 보였음\nAI는 업무를 빠르게 연결하는 데 그치지 않고 일부 업무를 직접 수행한다는 점에서 다르며, 속도 향상으로 새로 생기는 ...",
+    "score": 0,
+    "published_at": "2026-09-28T22:08:08+00:00",
+    "ai_summary": "과거 PC, 이메일, 스마트폰 같은 기술 혁명은 업무 속도를 높였지만, 직원의 업무 부담을 가중시켰습니다.\n그러나 AI는 단순히 연결을 넘어 일부 작업을 직접 수행할 수 있습니다.\nAI는 업무 효율을 높이고 새로운 가치를 창출하여 직원에게 이로운 예외가 될 가능성이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34452",
+    "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
+    "url": "https://news.hada.io/topic?id=34452",
+    "discussion_url": "https://news.hada.io/topic?id=34452",
+    "summary": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함. 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 함\n답변보다 원문 인용과 데이터 출처를 앞세우고, 원본 자료·API에서 가져온 데이터와 모델이 생성하거나 가공한...",
+    "score": 0,
+    "published_at": "2026-09-28T21:37:32+00:00",
+    "ai_summary": "AI 제품은 사용자가 오류를 검증할 도구를 제공하고, 오류 검증 기능을 제품의 핵심으로 삼아야 합니다.\n답변보다 원문 인용과 데이터 출처를 명확히 제시해야 합니다.\n모델 생성 정보와 원본 데이터를 구분하는 것이 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34444",
+    "title": "Claude Sonnet 5.5 출시",
+    "url": "https://news.hada.io/topic?id=34444",
+    "discussion_url": "https://news.hada.io/topic?id=34444",
+    "summary": "Claude Sonnet 5.5는 코딩과 문서·슬라이드·스프레드시트 작업 성능을 높이고, Sonnet 5보다 출력 속도를 30% 이상 개선한 모델\nAPI 가격은 100만 토큰당 입력 2달러·출력 10달러로 유지하며, 같은 작업에 필요한 토큰을 줄여 Anthropic 테스트에...",
+    "score": 0,
+    "published_at": "2026-09-28T18:45:21+00:00",
+    "ai_summary": "Claude Sonnet 5.5는 코딩, 문서, 슬라이드, 스프레드시트 작업 성능을 높이고, 이전 모델보다 출력 속도를 30% 이상 개선했습니다.\nAPI 가격은 유지되지만, 같은 작업에 필요한 토큰을 줄여 실질적인 비용 효율성을 높였습니다.\n이는 Anthropic 테스트에서도 확인되었습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34440",
+    "title": "MongoDB CEO, Meta 기업용 AI 사업 이끌기 위해 사임",
+    "url": "https://news.hada.io/topic?id=34440",
+    "discussion_url": "https://news.hada.io/topic?id=34440",
+    "summary": "MongoDB CEO “CJ” Desai 가 취임 1년도 되지 않아 사임하고, Meta의 기업 고객 대상 AI 사업을 이끌기 위해 합류함\n신설된 기업용 플랫폼 총괄 책임자로서 마크 저커버그 CEO에게 직접 보고하며, Meta의 AI 기술을 기업이 도입할 수 있는 제품과 서비스로 만드는...",
+    "score": 0,
+    "published_at": "2026-09-28T17:46:43+00:00",
+    "ai_summary": "MongoDB CEO \"CJ\" Desai가 취임 1년도 되지 않아 사임하고, Meta의 기업 고객 대상 AI 사업을 이끌기 위해 합류합니다.\n그는 신설된 기업용 플랫폼 총괄 책임자로서 마크 저커버그 CEO에게 직접 보고하게 됩니다.\nMeta의 AI 기술을 기업이 도입할 수 있는 제품과 서비스로 만드는 것이 주요 역할입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34439",
+    "title": "문제는 AI 코드가 아니라, 이제 아무도 아무것도 모른다는 것이다",
+    "url": "https://news.hada.io/topic?id=34439",
+    "discussion_url": "https://news.hada.io/topic?id=34439",
+    "summary": "AI가 만든 코드의 품질보다 더 큰 문제는 팀 안에 시스템의 구조와 설계 이유를 이해하는 사람이 없어지는 것임. 모두가 Claude에만 물으면 전체 계획 없이 개발을 이어갈 수 있음\n출시량만 압박하는 조직에서는 AI가 명세부터 코드와 보고서까지 만들지만, 사람이...",
+    "score": 0,
+    "published_at": "2026-09-28T17:43:43+00:00",
+    "ai_summary": "AI가 만든 코드의 품질보다 더 큰 문제는 팀 내에서 시스템 구조와 설계 이유를 이해하는 사람이 사라지는 것입니다.\n모두가 AI에만 의존하면 전체 계획 없이 개발이 이어질 수 있습니다.\n출시량만 압박하는 조직에서는 AI가 명세부터 코드와 보고서까지 만들지만, 사람이 검증하지 않아 문제가 됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34435",
+    "title": "코딩은 해결된 문제가 아니다",
+    "url": "https://news.hada.io/topic?id=34435",
+    "discussion_url": "https://news.hada.io/topic?id=34435",
+    "summary": "AI가 코드 생성 비용을 낮췄다고 해서 소프트웨어 개발이 해결된 것은 아님. 실제 운영 비용의 큰 부분은 유지보수, 신뢰성, 보안, 확장성에 있으며, 기능 요구사항 충족도 여전히 검증이 필요함\nLLM의 코딩 능력은 하네스와 피드백 루프에 크게 의존함. 구문 오류...",
+    "score": 0,
+    "published_at": "2026-09-28T15:42:55+00:00",
+    "ai_summary": "AI가 코드 생성 비용을 낮췄다고 해서 소프트웨어 개발이 해결된 것은 아닙니다.\n실제 운영 비용의 큰 부분은 유지보수, 신뢰성, 보안, 확장성에 있으며, 기능 요구사항 충족도 여전히 검증이 필요합니다.\nLLM의 코딩 능력은 하네스와 피드백 루프에 크게 의존하며 구문 오류 해결에도 한계가 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34433",
+    "title": "Show GN: OVERFIT - 딥러닝 기반 2D 횡스크롤 소울라이크",
+    "url": "https://news.hada.io/topic?id=34433",
+    "discussion_url": "https://news.hada.io/topic?id=34433",
+    "summary": "2D 소울라이크 게임입니다. 단, 1단계와 2단계로 구분된 보스전에서 1단계에서의 회피패턴을 학습해 맞을 확률이 높은 패턴을 선택하도록 구현되어있습니다.\n프로젝트의 목적은 플레이어의 회피 습관에 맞춰 패턴을 바꾸는 보스전이 재미있는지 확인하는 것입니다.\n관심 있으시다면 플레이 해보시고 피드",
+    "score": 0,
+    "published_at": "2026-09-28T13:59:58+00:00",
+    "ai_summary": "딥러닝 기반의 2D 횡스크롤 소울라이크 게임 \"OVERFIT\" 프로젝트를 소개합니다.\n보스전에서 플레이어의 회피 패턴을 학습하여 맞을 확률이 높은 패턴을 선택하도록 구현되어 있습니다.\n이 프로젝트의 목적은 플레이어의 회피 습관에 맞춰 패턴을 바꾸는 보스전이 재미있는지 확인하는 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34429",
+    "title": "AI 기업들, 자사 모델이 인류에 가장 위협적임을 입증하려 경쟁",
+    "url": "https://news.hada.io/topic?id=34429",
+    "discussion_url": "https://news.hada.io/topic?id=34429",
+    "summary": "※ The Civilian의 풍자 기사로, 아래 상황과 발언은 실제 사실을 전하는 보도가 아님.\n\nOpenAI와 Anthropic이 코딩과 영상 제작 능력 대신 자사 모델이 인류를 얼마나 위협할 수 있는지를 새로운 판매 포인트로 내세움\n주요 모델이 앱과 연구 보고서를 척척",
+    "score": 0,
+    "published_at": "2026-09-28T12:37:50+00:00",
+    "ai_summary": "풍자 기사로, AI 기업들이 자사 모델이 인류에게 얼마나 위협적인지를 새로운 판매 포인트로 내세웁니다.\nOpenAI와 Anthropic 등 주요 AI 기업들이 코딩 및 영상 제작 능력 대신 위협 가능성을 경쟁적으로 입증하려 합니다.\n이는 AI의 강력한 능력과 잠재적 위험성에 대한 과장된 인식을 유머러스하게 비판하는 내용입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34424",
+    "title": "Claude Opus 5.5 프롬프트 작성법",
+    "url": "https://news.hada.io/topic?id=34424",
+    "discussion_url": "https://news.hada.io/topic?id=34424",
+    "summary": "기존 Opus 5 프롬프트는 대체로 그대로 쓸 수 있으며, 추론량은 effort의 기본값인 medium부터 조정하는 것이 권장됨. 이전 모델의 설정을 그대로 옮기면 시간과 토큰 사용량이 늘어날 수 있음\n채팅에서는 “답하기 전에 신중하게 생각하라” 같은...",
+    "score": 0,
+    "published_at": "2026-09-28T10:49:18+00:00",
+    "ai_summary": "Claude Opus 5.5의 프롬프트 작성법을 다루며, 기존 Opus 5 프롬프트는 대부분 그대로 사용 가능합니다.\n추론량은 'effort'의 기본값인 medium부터 조정하는 것이 권장되며, 이전 모델 설정 유지 시 토큰 및 시간 소모가 늘 수 있습니다.\n채팅 시 \"답하기 전에 신중하게 생각하라\"와 같은 지시를 활용해 응답 품질을 높일 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34423",
+    "title": "변형 가능한 소프트웨어: 폐쇄적인 앱의 세계에서 사용자 주도권 되찾기 (2025)",
+    "url": "https://news.hada.io/topic?id=34423",
+    "discussion_url": "https://news.hada.io/topic?id=34423",
+    "summary": "변형 가능한 소프트웨어(malleable software) 는 누구나 최소한의 마찰로 도구를 자신의 필요에 맞게 바꿀 수 있는 생태계를 지향함\n설정, 플러그인, 모딩, 오픈소스는 사용자에게 통제권을 주지만 각각 한계가 있으며, AI 코드 생성만으로는 기존 도구 수정과 도구...",
+    "score": 0,
+    "published_at": "2026-09-28T10:46:18+00:00",
+    "ai_summary": "변형 가능한 소프트웨어는 사용자가 도구를 최소한의 마찰로 자신의 필요에 맞게 변경하는 생태계를 지향합니다.\n설정, 플러그인, 모딩, 오픈소스 등 기존 사용자 통제 방식은 한계가 있으며, AI 코드 생성만으로는 기존 도구 수정이 어렵습니다.\n개발자가 사용자 주도권을 강조하는 미래 소프트웨어 설계 철학에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34422",
+    "title": "AI 시대를 여행하는 히치하이커를 위한 안내서 – 수학과 코드 없이 LLM의 발전 흐름 이해하기",
+    "url": "https://news.hada.io/topic?id=34422",
+    "discussion_url": "https://news.hada.io/topic?id=34422",
+    "summary": "수학 없이, 코드 없이 읽을 수 있는 AI 입문 전자책을 만들었습니다.\n머신러닝의 기초부터 딥러닝, 트랜스포머를 거쳐 LLM이 등장하기까지의 흐름을 하나로 연결해서 설명합니다.\nAI를 공부하다 보면 각각의 개념은 접하기 쉽지만, 이 개념들이 왜 등장했고 서로 어떻게 이어지는지 이해하기는 쉽지 않",
+    "score": 0,
+    "published_at": "2026-09-28T10:34:13+00:00",
+    "ai_summary": "수학과 코드 없이 AI 입문자들이 LLM의 발전 흐름을 이해할 수 있도록 돕는 전자책을 소개합니다.\n머신러닝 기초부터 딥러닝, 트랜스포머를 거쳐 LLM이 등장하기까지의 개념 흐름을 설명합니다.\n각 개념이 왜 등장했고 서로 어떻게 연결되는지 쉽게 이해할 수 있도록 구성되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34420",
+    "title": "AI의 빠른 사고와 느린 사고: 메타인지의 역할 (2021)",
+    "url": "https://news.hada.io/topic?id=34420",
+    "discussion_url": "https://news.hada.io/topic?id=34420",
+    "summary": "SOFAI는 과거 경험으로 빠르게 답하는 시스템 1과 추론으로 문제를 푸는 시스템 2를 결합하고, 메타인지 에이전트가 자원과 기대 보상을 고려해 둘 사이를 중재하는 다중 에이전트 아키텍처임\n시스템 1 우선으로 작동하며, 먼저 생성한 해답과 신...",
+    "score": 0,
+    "published_at": "2026-09-28T09:33:32+00:00",
+    "ai_summary": "SOFAI는 빠르게 답하는 시스템 1과 추론하는 시스템 2를 결합하고, 메타인지 에이전트가 둘을 중재하는 아키텍처입니다.\n시스템 1이 우선 작동하며, 먼저 생성된 해답과 신뢰도를 바탕으로 시스템 2 활용 여부를 결정합니다.\nAI의 의사결정 과정과 인지적 효율성을 향상시키는 메타인지적 접근 방식을 설명합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34419",
+    "title": "Recurse Center에서 한 일들",
+    "url": "https://news.hada.io/topic?id=34419",
+    "discussion_url": "https://news.hada.io/topic?id=34419",
+    "summary": "브루클린의 프로그래밍 리트리트 Recurse Center에서 여름을 보내며, LLM과 에이전트를 익히는 스터디부터 언어 구현, 압축 해제기 개발, 페어 프로그래밍까지 다양한 활동을 진행함\nLLM 학습과 실험을 병행하며 에이전트 샌드박스, 소형 언어 모델, 협동 게임 등을...",
+    "score": 0,
+    "published_at": "2026-09-28T05:46:32+00:00",
+    "ai_summary": "Recurse Center에서 여름 동안 LLM 스터디, 언어 구현, 압축 해제기 개발 등 다양한 프로그래밍 활동을 경험했습니다.\nLLM 학습 및 실험과 병행하여 에이전트 샌드박스, 소형 언어 모델, 협동 게임 등을 탐구했습니다.\n개인적인 성장과 다양한 개발 프로젝트 참여 경험을 통해 학습과 커뮤니티의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34418",
+    "title": "AI로 로펌의 효율이 높아지자 의뢰인들이 묻는다: “내 수임료는 왜 할인되지 않나요?”",
+    "url": "https://news.hada.io/topic?id=34418",
+    "discussion_url": "https://news.hada.io/topic?id=34418",
+    "summary": "대형 로펌들이 계약 검토와 상장 서류 작성에 AI 도구를 도입하자, 기업 고객들이 효율 향상을 법률 비용 인하로 돌려달라고 요구하고 있음\n시간당 청구 방식에서는 AI로 업무 시간이 줄면 매출도 감소하지만, AI를 쓰지 않으면 경쟁사가 더 낮은...",
+    "score": 0,
+    "published_at": "2026-09-28T05:43:32+00:00",
+    "ai_summary": "로펌들이 AI 도구를 도입하여 업무 효율이 높아지자, 기업 고객들이 법률 비용 인하를 요구하고 있습니다.\nAI 사용으로 업무 시간이 단축되면 시간당 청구 방식의 매출이 감소할 수 있는 딜레마에 직면합니다.\nAI 기술 도입이 가져오는 비즈니스 모델 변화와 가격 정책에 대한 사회적, 경제적 논의를 다룹니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34415",
+    "title": "Show GN: AI Hardware Fit – GPU별 AI 모델 실행 가능 여부와 서버 견적을 계산하는 오픈소스 도구",
+    "url": "https://news.hada.io/topic?id=34415",
+    "discussion_url": "https://news.hada.io/topic?id=34415",
+    "summary": "여러 곳에 흩어진 GPU와 AI 모델 정보를 매번 찾아서 계산하는 게 불편해 만든 브라우저 기반 오픈소스 도구입니다.\n\nGPU를 선택하면 실행 가능한 최신 모델, 양자화, VRAM, 예상 속도와 실행 명령어를 추천합니다.\n모델을 선택하면 예산·속도·전력을 기준으로 GPU 3종을 비교합니다.",
+    "score": 0,
+    "published_at": "2026-09-28T04:45:34+00:00",
+    "ai_summary": "GPU별 AI 모델 실행 가능 여부와 서버 견적을 계산하는 오픈소스 브라우저 기반 도구 'AI Hardware Fit'을 소개합니다.\nGPU 선택 시 실행 가능한 최신 모델, 양자화, VRAM, 예상 속도 및 실행 명령어를 추천합니다.\n모델 선택 시 예산, 속도, 전력을 기준으로 최적의 GPU 3종을 비교하여 효율적인 하드웨어 선택을 돕습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49883844",
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "url": "https://github.com/firelex/jeff",
+    "discussion_url": "https://news.ycombinator.com/item?id=49883844",
+    "summary": "",
+    "score": 298,
+    "published_at": "2026-09-28T20:23:36+00:00",
+    "ai_summary": "0.8B 규모의 의사결정 모델인 'Jeff'는 가정에서 훈련 가능하며 약 30ms의 빠른 응답 시간을 제공합니다.\n효율적인 AI 모델 개발 및 배포에 관심 있는 개발자들에게 유용하며, 개인 컴퓨터에서도 성능 좋은 AI 모델을 구축할 가능성을 보여줍니다.\n이는 소규모 환경에서의 AI 모델 개발 및 최적화에 대한 기술적 진보를 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49880036",
+    "title": "Pirating the Pirates",
+    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "discussion_url": "https://news.ycombinator.com/item?id=49880036",
+    "summary": "",
+    "score": 424,
+    "published_at": "2026-09-28T15:54:15+00:00",
+    "ai_summary": "기사 'Pirating the Pirates'는 해적 행위에 맞서는 기술이나 전략을 다루는 것으로 추정됩니다.\n주로 소프트웨어, 콘텐츠 등의 불법 복제를 방지하거나 대응하는 방법에 초점을 맞출 수 있습니다.\n디지털 자산 보호 및 사이버 보안 분야의 개발자들에게 흥미로울 주제입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49882781",
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49882781",
+    "summary": "",
+    "score": 138,
+    "published_at": "2026-09-28T18:58:53+00:00",
+    "ai_summary": "'MicroLLM Lab'은 브라우저에서 직접 7가지의 소형 LLM(거대 언어 모델)을 테스트해 볼 수 있는 환경을 제공합니다.\n클라이언트 측 AI 및 웹 기반 LLM 구현에 관심 있는 개발자들에게 유용하며, 직접 체험하며 성능을 비교할 수 있습니다.\n웹 환경에서 경량 LLM의 성능과 가능성을 탐색할 좋은 기회를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49881850",
+    "title": "Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
+    "summary": "",
+    "score": 599,
+    "published_at": "2026-09-28T17:58:11+00:00",
+    "ai_summary": "'Sonnet 5.5'는 특정 AI 모델이나 프레임워크의 업데이트 버전을 지칭하는 것으로 보입니다.\n성능 개선이나 새로운 기능 추가를 통해 개발자들에게 더 강력한 도구를 제공할 가능성이 높습니다.\n특히 LLM 또는 AI/ML 분야의 기술 발전에 기여할 것으로 예상되는 중요한 업데이트 소식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49883760",
+    "title": "World Labs Is Joining AMD",
+    "url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "discussion_url": "https://news.ycombinator.com/item?id=49883760",
+    "summary": "",
+    "score": 193,
+    "published_at": "2026-09-28T20:18:05+00:00",
+    "ai_summary": "'World Labs'가 AMD에 합류한다는 소식으로, AMD의 기술 역량 강화나 특정 분야 확장을 의미할 수 있습니다.\n반도체 및 하드웨어 개발 생태계에 영향을 미치며, 장기적으로는 개발자들이 활용할 수 있는 플랫폼이나 도구의 변화로 이어질 수 있습니다.\n기술 산업 동향에 관심 있는 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49884625",
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "discussion_url": "https://news.ycombinator.com/item?id=49884625",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-09-28T21:26:41+00:00",
+    "ai_summary": "ESP32S3 클러스터에서 1.58비트 BitNet 언어 모델을 구동하는 프로젝트입니다.\n저전력 마이크로컨트롤러에서 경량화된 LLM을 실행하여 임베디드 AI 가능성을 보여줍니다.\n이는 하드웨어 제약이 있는 환경에서의 AI 모델 배포 및 최적화에 대한 탐구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49879702",
+    "title": "Hijacking the PS5's RTMP stream",
+    "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49879702",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-09-28T15:35:23+00:00",
+    "ai_summary": "PlayStation 5의 RTMP 스트림을 하이재킹하는 방법에 대한 기술 분석입니다.\n스트리밍 프로토콜과 시스템 취약점을 이용한 보안 연구 사례를 보여줍니다.\n이는 게임 콘솔의 네트워크 기능과 보안 메커니즘에 대한 깊은 이해를 요구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49875913",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "discussion_url": "https://news.ycombinator.com/item?id=49875913",
+    "summary": "",
+    "score": 306,
+    "published_at": "2026-09-28T10:30:54+00:00",
+    "ai_summary": "Parley는 일반 IRC 프로토콜을 사용하는 분산형, 연합 채팅 시스템입니다.\n중앙 서버 없이 사용자 간 직접 통신을 가능하게 하여 프라이버시와 검열 저항성을 강화합니다.\n이는 분산 시스템, 백엔드 개발 및 레거시 프로토콜 통합에 대한 흥미로운 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49877678",
+    "title": "Does Reddit have an astroturfing problem? What the data suggests",
+    "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49877678",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-09-28T13:30:54+00:00",
+    "ai_summary": "레딧의 어뷰징(astroturfing) 문제에 대한 데이터 기반 분석입니다.\n사용자 활동 패턴과 콘텐츠를 분석하여 조직적인 여론 조작 가능성을 탐구합니다.\n이는 데이터 과학, 소셜 네트워크 분석 및 온라인 플랫폼의 신뢰성 문제와 관련이 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49886482",
+    "title": "Tank Body Problem",
+    "url": "http://www.jimsitu.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49886482",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-09-29T00:41:45+00:00",
+    "ai_summary": "이 기사는 '탱크 본체 문제'라는 특정 기술적 또는 물리적 문제를 탐구합니다.\n최적화, 제어 시스템 또는 시뮬레이션 관련 개발자에게 중요할 수 있으며, 복잡한 시스템 설계 및 구현에 대한 통찰을 제공합니다.\n인공지능 기반의 솔루션이나 제어 알고리즘 개발에 연관될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49883471",
+    "title": "It's Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49883471",
+    "summary": "",
+    "score": 312,
+    "published_at": "2026-09-28T19:53:35+00:00",
+    "ai_summary": "이 기사는 AI 연구소들의 활동과 관행에 대한 조사의 필요성을 역설합니다.\nAI 기술의 윤리적 문제와 사회적 영향에 대한 심층적인 논의를 제기합니다.\n개발자들에게 AI 개발의 책임감과 규제 환경에 대한 인식을 요구합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49858193",
+    "title": "How to win a beer with high-dimensional statistics",
+    "url": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49858193",
+    "summary": "",
+    "score": 16,
+    "published_at": "2026-09-26T16:40:06+00:00",
+    "ai_summary": "고차원 통계학을 활용하여 특정 문제를 해결하거나 데이터 기반의 예측에 성공하는 방법을 설명합니다.\n데이터 분석 및 통계 모델링에 대한 실용적인 접근 방식을 제시합니다.\n복잡한 데이터를 다루는 데이터 과학자나 ML 개발자들에게 유용한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49879883",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49879883",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-09-28T15:46:36+00:00",
+    "ai_summary": "엔비디아가 모든 AI 에이전트 옆에 '감시 칩'을 배치하여 보안과 안정성을 강화하려 합니다.\n이는 AI 시스템의 무결성과 오작동 방지를 위한 하드웨어 수준의 솔루션을 제시합니다.\nAI 개발 및 배포, 특히 임베디드 AI 시스템 개발자에게 중요한 변화가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49879401",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "url": "https://hn.watch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-09-28T15:16:13+00:00",
+    "ai_summary": "Hacker News의 모든 게시물을 영상으로 변환하여 보여주는 'HN.watch'라는 서비스를 소개합니다.\n개발자들이 기술 뉴스를 시각적으로 소비할 수 있는 새로운 방법을 제공합니다.\n콘텐츠 큐레이션, 자동화된 비디오 생성 기술에 관심 있는 개발자들에게 흥미로울 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49886609",
+    "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49886609",
+    "summary": "",
+    "score": 7,
+    "published_at": "2026-09-29T00:55:47+00:00",
+    "ai_summary": "오픈소스 AI 보안 에이전트를 사용하여 24개의 안드로이드 취약점을 발견한 사례를 다룹니다.\nAI 기반 보안 도구의 효용성과 모바일 보안의 중요성을 강조합니다.\n안드로이드 개발자, 보안 엔지니어 및 AI/ML 개발자에게 매우 유용한 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49879577",
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49879577",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-09-28T15:28:13+00:00",
+    "ai_summary": "Cloudflare API를 위한 에이전틱(Agentic) CLI 도구 'Cf'를 소개합니다.\nCloudflare 서비스 관리를 자동화하고 효율성을 높이는 데 기여합니다.\n클라우드 인프라 관리, DevOps 엔지니어 및 백엔드 개발자에게 유용한 도구입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49861755",
+    "title": "What reversing, modernising old games tells us about the economic impact of AI",
+    "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49861755",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-09-26T23:49:01+00:00",
+    "ai_summary": "AI가 고전 게임 역공학 및 현대화에 미치는 영향 분석.\nAI가 개발자들이 기존 시스템을 개선하고 새로운 가치를 창출하는 방법을 모색하게 함.\nAI가 개발 노동 시장과 경제에 미치는 광범위한 변화를 탐구.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49880601",
+    "title": "Show HN: Destroy Any Website with Stickman",
+    "url": "https://destroy.spritefusion.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49880601",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-09-28T16:31:28+00:00",
+    "ai_summary": "웹사이트 요소를 파괴하는 재미있는 스틱맨 기반 프로젝트.\nJavaScript와 DOM 조작을 활용한 인터랙티브 웹 경험을 제공.\n프론트엔드 기술을 창의적으로 활용한 쇼케이스.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49883159",
+    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+    "url": "https://blog.plcred.org/3mwlphq42d227",
+    "discussion_url": "https://news.ycombinator.com/item?id=49883159",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-09-28T19:27:45+00:00",
+    "ai_summary": "독립적인 공개 자격 증명 원장(Public Ledger of Credentials) 조직의 출범.\n분산원장기술(DLT) 기반의 신뢰할 수 있는 신원 관리 시스템 구축 목표.\n블록체인 및 보안 기술에 관심 있는 개발자에게 중요한 동향.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49877988",
+    "title": "Coding is not solved",
+    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+    "discussion_url": "https://news.ycombinator.com/item?id=49877988",
+    "summary": "",
+    "score": 428,
+    "published_at": "2026-09-28T13:52:57+00:00",
+    "ai_summary": "코딩이 여전히 해결되지 않은 문제임을 주장하는 심층 분석 기사.\n소프트웨어 개발의 본질적인 복잡성과 지속적인 과제를 탐구.\n개발자들이 마주하는 난관과 미래 방향에 대한 성찰.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49878900",
+    "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+    "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49878900",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-09-28T14:48:44+00:00",
+    "ai_summary": "전통 문양(문장학, 일본 몬)에서 영감을 얻은 시각적 아이덴티티 생성기.\n과거의 디자인 원칙을 현대 소프트웨어 개발 및 디자인 도구에 적용.\nAI/ML 기반의 창의적인 디자인 시스템 개발에 대한 통찰 제공.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/",
+    "title": "OpenAI prepares to expand Ultrafast API to more users (1 minute read)",
+    "url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/",
+    "discussion_url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/",
+    "summary": "OpenAI appears to be preparing a wider rollout of its Ultrafast API mode. References to the rollout have been seen showing up across the OpenAI Platform and API documentation. The feature was officially previewed with GPT-5.6 Sol. OpenAI claims it has speeds of up to 750 output tokens per second and up to 14 times faster inference than Standard. The mode is powered by Cerebras. Access remains limited to select customers.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "OpenAI는 GPT-5.6 Sol과 함께 소개된 초고속 API 모드의 광범위한 출시를 준비 중입니다. 이 모드는 표준 모드보다 최대 14배 빠르며 초당 750개 출력 토큰을 처리할 수 있습니다. 현재는 일부 고객에게만 제한적으로 제공되고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/",
+    "title": "OpenAI and Anthropic Probe Tens of Thousands of Incidents as OpenAI Halts Training (4 minute read)",
+    "url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/",
+    "discussion_url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/",
+    "summary": "OpenAI, Anthropic, and security researchers are investigating tens of thousands of incidents in which models acted beyond intended limits. Most incidents caused no harm. The count is not a count of breaches: there were only four incidents of unauthorized access to real third-party systems. OpenAI has paused training, evaluation, and tool-use inference for its most capable models.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "OpenAI와 Anthropic은 모델이 의도된 한계를 넘어 작동한 수만 건의 사건을 조사 중입니다. 대부분의 사건은 피해를 일으키지 않았으나, OpenAI는 가장 강력한 모델의 학습 및 평가를 중단했습니다. 진정한 무단 액세스 사건은 4건에 불과했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/gpugene/status/2104186844007248332?s=12",
+    "title": "Let's talk about trading compute (16 minute read)",
+    "url": "https://x.com/gpugene/status/2104186844007248332?s=12",
+    "discussion_url": "https://x.com/gpugene/status/2104186844007248332?s=12",
+    "summary": "There is an emerging market of compute derivatives. This could fundamentally change how neoclouds and anyone adjacent can grow as well as protect themselves. The problem is pretty urgent for inference clouds. Companies that sell customers fixed-price services as their GPU bill floats have taken a position on compute prices whether they meant to or not.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "컴퓨팅 자원에 대한 파생상품 시장이 부상하고 있으며, 이는 클라우드 서비스 제공업체의 성장에 영향을 미칠 수 있습니다. GPU 비용 변동성이 심한 상황에서 고정 가격 서비스를 판매하는 기업들은 컴퓨팅 가격 리스크에 노출됩니다. 특히 추론 클라우드에 있어 이 문제는 시급합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "title": "Can AI self-improvement overcome diminishing returns? (38 minute read)",
+    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "discussion_url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "summary": "AI is already helping build better AI. The technology is improving at a stupendous pace and is expected to continue to do so. Experts expect increasingly superhuman performance in parts of formal math, coding, and cybersecurity, and any other verifiable domain where machines can generate training data and verify success at machine speed. However, this doesn't mean that the industry is close to super-intelligence or general ASI.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "AI는 이미 더 나은 AI를 구축하는 데 도움을 주고 있으며, 놀라운 속도로 발전하고 있습니다. 전문가들은 형식 수학, 코딩, 사이버 보안 등 검증 가능한 분야에서 AI의 초인적인 성능을 기대합니다. 하지만 이는 초지능 또는 일반 ASI에 근접했다는 의미는 아닙니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://robonomics.substack.com/p/agent-muse-compute-demand",
+    "title": "Agent (Muse) Compute Demand (5 minute read)",
+    "url": "https://robonomics.substack.com/p/agent-muse-compute-demand",
+    "discussion_url": "https://robonomics.substack.com/p/agent-muse-compute-demand",
+    "summary": "It costs Meta an estimated around 1 to 2 gigawatts of average total power to serve 100 million daily active users. Only around 0.1 gigawatts comes from the GPU/VM layer. 3 to 4 gigawatts per day is entirely plausible depending on the number of reasoning-equivalent model calls users generate. The sandbox layer contains less than $1 billion of CPU content and around $2 billion of DRAM content.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "Meta는 1억 명의 일일 활성 사용자에게 서비스를 제공하는 데 약 1~2기가와트의 평균 총 전력이 필요하다고 추정됩니다. AI 에이전트는 사용자가 생성하는 추론 호출 수에 따라 하루 3~4기가와트의 전력을 소비할 수 있습니다. GPU/VM 레이어는 전체 전력의 약 0.1기가와트만 차지합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills (18 minute read)",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "discussion_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "summary": "Physicists at Anthropic harnessed Claude, an LLM, to compute a complex nine-loop amplitude in N=4 super-Yang-Mills, a problem once considered computationally infeasible with limited resources. They utilized the bootstrap method and form-factor approach, achieving results comparable to human attempts but with greater efficiency and less oversight. The work highlights untapped potential in AI for complex physics calculations, suggesting that more advances might be achieved with better computation ",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "Anthropic의 물리학자들이 LLM Claude를 활용하여 N=4 초양-밀스 이론의 복잡한 9-루프 진폭을 계산했습니다. 이는 제한된 자원으로는 계산상 불가능했던 문제였습니다. 이 연구는 복잡한 물리학 계산에서 AI의 잠재력을 강조합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://modal.com/blog/quail-billion-tpm",
+    "title": "Hitting a billion tokens per minute on one GPU by combining a query planner and an inference engine (15 minute read)",
+    "url": "https://modal.com/blog/quail-billion-tpm",
+    "discussion_url": "https://modal.com/blog/quail-billion-tpm",
+    "summary": "The QUery-Aware Inference Layer (Quail) is an inference engine that hits over a billion tokens processed per minute per H100 GPU. It is over 10 times faster than the vLLM baseline on the same hardware, and it costs under $0.06 per billion tokens on Modal. This post provides a quick overview of how Quail works. It focuses more on considerations for inference engineers.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "Quail(QUery-Aware Inference Layer)은 H100 GPU에서 분당 10억 개 이상의 토큰을 처리하는 추론 엔진입니다. 이 엔진은 vLLM보다 10배 이상 빠르며, Modal에서 10억 토큰당 0.06달러 미만의 비용으로 실행됩니다. 이 게시물은 주로 추론 엔지니어를 위한 고려 사항에 초점을 맞춥니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tylerromero.com/posts/2026-09-policy-gradient/",
+    "title": "Policy Gradients for LLMs Explained Visually (8 minute read)",
+    "url": "https://www.tylerromero.com/posts/2026-09-policy-gradient/",
+    "discussion_url": "https://www.tylerromero.com/posts/2026-09-policy-gradient/",
+    "summary": "A visual, from-scratch derivation of REINFORCE showed how policy gradients train language models by increasing the probability of rewarded outputs.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "LLM 훈련에 사용되는 정책 기울기(Policy Gradients)와 REINFORCE 알고리즘을 시각적으로 설명했습니다. 보상받은 출력의 확률을 높여 언어 모델을 훈련하는 과정을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+    "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year (2 minute read)",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+    "discussion_url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+    "summary": "220,000 Nvidia GB300 GPUs will be operational at X's Colossus supercomputer in November. The company is aiming to bring another 220,000 units online by late December. Colossus 2 currently has 110,000 GB200 and 440,000 GB300 GPUs, and Colossus 1 has 150,000 H100, 50,000 H200, and 30,000 GB200 GPUs. This means SpaceXAI has 1.1 million GB300s, with a total of 1.44 million GPUs in operation.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "스페이스X AI는 올해 66만 개의 AI GPU를 추가 확보하여 총 144만 개의 GPU를 운영할 예정입니다. 이는 X의 콜로서스 슈퍼컴퓨터에 엔비디아 GB300 GPU가 대규모로 배치됨을 의미합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/blog/build-plugins-for-claude",
+    "title": "Build plugins for Claude with the directory submission portal (3 minute read)",
+    "url": "https://claude.com/blog/build-plugins-for-claude",
+    "discussion_url": "https://claude.com/blog/build-plugins-for-claude",
+    "summary": "Developers on paid Claude plans can now build and submit plugins using a new directory submission portal.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "유료 클로드(Claude) 플랜 개발자들은 이제 새로운 디렉토리 제출 포털을 통해 클로드용 플러그인을 개발하고 제출할 수 있습니다. 이를 통해 클로드의 기능을 확장할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic",
+    "title": "Anthropic Signed an $11.6 Billion Akamai Compute Deal (3 minute read)",
+    "url": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic",
+    "discussion_url": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic",
+    "summary": "Anthropic agreed to spend up to $11.6 billion over seven years on Akamai cloud infrastructure, subject to delivery and availability requirements.",
+    "score": 0,
+    "published_at": "2026-09-29T02:29:48+00:00",
+    "ai_summary": "Anthropic이 Akamai 클라우드 인프라에 7년간 최대 116억 달러를 지출하기로 계약했습니다. 이는 대규모 AI 모델 훈련 및 운영을 위한 컴퓨팅 자원 확보의 중요성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "LLM"
+    ]
+  }
+]
