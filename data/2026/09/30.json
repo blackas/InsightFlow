@@ -1,0 +1,837 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34519",
+    "title": "Livenerf - Opus 5.5는 벌써 성능이 하향됐을까?",
+    "url": "https://news.hada.io/topic?id=34519",
+    "discussion_url": "https://news.hada.io/topic?id=34519",
+    "summary": "livenerf는 모델 출시 후 성능이 조용히 떨어지는지 확인하기 위해, 고정된 문제와 실행 환경으로 매일 측정하고 기준선 대비 변화를 통계적으로 추적하는 벤치마크임\n측정 대상은 원시 API 모델이 아니라 Claude Code 구독 경로의 Opus 5.5이며, 모델 자체의 비결...",
+    "score": 0,
+    "published_at": "2026-09-30T01:33:40+00:00",
+    "ai_summary": "livenerf는 AI 모델의 성능 변화를 통계적으로 추적하는 벤치마크 도구입니다.\nClaude Code Opus 5.5 모델의 출시 후 성능 하향 여부를 고정된 환경에서 측정합니다.\n개발자는 모델 성능 모니터링 및 벤치마크에 관심을 가질 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34516",
+    "title": "SPA 자동화 테스트를 작성한 경험",
+    "url": "https://news.hada.io/topic?id=34516",
+    "discussion_url": "https://news.hada.io/topic?id=34516",
+    "summary": "React 기반 오디오 플레이어를 Playwright와 실제 브라우저로 테스트하며, 개별 동작보다 가입부터 주요 기능 사용까지 이어지는 전체 사용자 여정을 중시함\n테스트마다 서버와 DB를 따로 띄우는 대신 같은 DB에서 각자 데이터를 생성하고, 다른 테스트의 데이터는...",
+    "score": 0,
+    "published_at": "2026-09-30T00:08:06+00:00",
+    "ai_summary": "React 기반 오디오 플레이어의 SPA 자동화 테스트 경험을 공유합니다.\nPlaywright와 실제 브라우저를 사용해 전체 사용자 여정을 중심으로 테스트를 작성했습니다.\n동일 DB에서 데이터 생성 및 격리 기법을 활용하여 효율적인 테스트 환경을 구축했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34512",
+    "title": "Anthropic, “GLM-5.3의 익스플로잇 개발 능력은 Mythos Preview에 근접”",
+    "url": "https://news.hada.io/topic?id=34512",
+    "discussion_url": "https://news.hada.io/topic?id=34512",
+    "summary": "누구나 내려받을 수 있는 공개 가중치 모델 GLM-5.3가 제한 공개된 Claude Mythos Preview에 근접한 익스플로잇 개발 능력을 기록함. Anthropic 평가에서 취약점을 찾아 실제 작동하는 공격 코드를 완성함\nChrome V8 취약점 평가에서 410회 중 50회 성공해 Mythos ...",
+    "score": 0,
+    "published_at": "2026-09-29T23:38:59+00:00",
+    "ai_summary": "공개 가중치 LLM인 GLM-5.3이 Anthropic의 Claude Mythos Preview에 근접하는 익스플로잇 개발 능력을 보였습니다.\nAnthropic 평가에서 취약점을 찾아 실제 작동하는 공격 코드를 성공적으로 생성했습니다.\n이는 오픈 소스 LLM의 잠재적인 보안 위협 및 활용 가능성을 시사합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34511",
+    "title": "America.gov - 미국 정부의 29,000개 웹사이트를 연결하는 AI 안내 서비스",
+    "url": "https://news.hada.io/topic?id=34511",
+    "discussion_url": "https://news.hada.io/topic?id=34511",
+    "summary": "여권 신청, 사업 등록, 복지 자격처럼 미국 정부 서비스에 관한 질문에 답하고, 필요한 절차와 준비물, 방문할 곳을 안내하는 AI 서비스\n29,000개 정부 웹사이트의 정보를 한곳에서 찾도록 하며, 연방·주·지방 정부의 공식 자료만 답변 출처로 사용하고 원문 링크를...",
+    "score": 0,
+    "published_at": "2026-09-29T22:32:15+00:00",
+    "ai_summary": "미국 정부의 29,000개 웹사이트 정보를 연결하는 AI 안내 서비스인 America.gov를 소개합니다.\n정부 서비스 관련 질문에 답하고 필요한 절차와 준비물을 안내합니다.\n연방·주·지방 정부의 공식 자료만을 출처로 사용하며 원문 링크를 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34506",
+    "title": "Tcl/Tk 9.1",
+    "url": "https://news.hada.io/topic?id=34506",
+    "discussion_url": "https://news.hada.io/topic?id=34506",
+    "summary": "Tcl/Tk 9.1.0은 9.0을 기반으로 새 기능과 인터페이스를 추가하며, Tcl의 명령어와 C API, Tk의 접근성과 위젯 기능을 확장함\nTcl에 Unicode 정규화 명령과 C API, 마이크로초 해상도의 단조 시계를 제공하는 timer 명령이 추가됨...",
+    "score": 0,
+    "published_at": "2026-09-29T21:40:36+00:00",
+    "ai_summary": "Tcl/Tk 9.1.0 버전이 9.0 기반으로 새로운 기능과 인터페이스를 추가하여 출시되었습니다.\nTcl 명령어와 C API, Tk의 접근성 및 위젯 기능이 확장되었습니다.\n특히 Tcl에 Unicode 정규화 명령과 C API, 마이크로초 해상도 `timer` 명령이 추가되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34505",
+    "title": "OpenAI DevDay 2026 주요 발표 총정리",
+    "url": "https://news.hada.io/topic?id=34505",
+    "discussion_url": "https://news.hada.io/topic?id=34505",
+    "summary": "상시 작동하는 Dots와 클라우드 Codex를 공개해, 사용자가 자리를 비운 뒤에도 여러 업무와 개발 작업을 이어갈 수 있도록 확장\nGPT-6.1 Sol은 Astra에 가까운 성능을 표준 토큰 가격의 5분의 1로 제공하며, Ultrafast는 Codex의 토큰 생성을 최대 8배 가속\n...",
+    "score": 0,
+    "published_at": "2026-09-29T21:26:48+00:00",
+    "ai_summary": "OpenAI는 DevDay 2026에서 상시 작동 AI 에이전트 Dots와 클라우드 Codex를 공개하여 개발 및 업무 자동화를 확장했습니다.\nGPT-6.1 Sol은 Astra에 근접하는 고성능을 저렴한 비용으로 제공하며, Ultrafast는 Codex의 토큰 생성을 최대 8배 가속화합니다.\n이는 개발자가 AI를 활용하는 방식과 효율성에 큰 변화를 가져올 중요한 발표입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34501",
+    "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
+    "url": "https://news.hada.io/topic?id=34501",
+    "discussion_url": "https://news.hada.io/topic?id=34501",
+    "summary": "OpenAI가 GPT-6 Astra 기반 Dots를 공개함. 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고, 피드백을 통해 사용자의 선호와 업무 기준을 익히는 상시 작동 에이전트\n고객 피드백을 코드 수정·테스트·PR로 만들거나, 새 데이터에 맞춰 연구 분석을 갱신하고, ...",
+    "score": 0,
+    "published_at": "2026-09-29T18:40:37+00:00",
+    "ai_summary": "OpenAI가 GPT-6 Astra 기반의 상시 작동 AI 에이전트 'Dots'를 공개했습니다.\nDots는 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고 사용자의 선호와 업무 기준을 학습하는 것이 특징입니다.\n고객 피드백을 코드 수정, 테스트, PR로 만들거나 연구 분석을 갱신하는 등 개발 업무를 자동화하는 데 활용될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34500",
+    "title": "OpenAI, GPT-6.1 Sol 공개",
+    "url": "https://news.hada.io/topic?id=34500",
+    "discussion_url": "https://news.hada.io/topic?id=34500",
+    "summary": "OpenAI가 GPT-6 Sol의 업그레이드 모델인 GPT-6.1 Sol을 공개했습니다. 코딩, 에이전트, 컴퓨터 사용, 전문 업무 및 과학 연구 전반의 성능을 크게 개선하면서, GPT-6 Astra에 근접한 성능을 훨씬 낮은 비용으로 제공하는 것이 특징입니다.\n\nDeepSWE v1.1에서 GPT-6 Astra와 대등한 수준의 성능을 약 1/5",
+    "score": 0,
+    "published_at": "2026-09-29T17:37:48+00:00",
+    "ai_summary": "OpenAI가 GPT-6 Sol의 업그레이드 모델인 GPT-6.1 Sol을 공개했습니다.\n이 모델은 코딩, 에이전트, 컴퓨터 사용, 전문 업무 및 과학 연구 전반의 성능을 크게 개선했습니다.\nGPT-6 Astra에 근접하는 고성능을 훨씬 낮은 비용으로 제공하여 AI 개발 효율성을 높일 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34498",
+    "title": "Show GN: Blyck Video Understanding - Claude·Codex가 영상을 시각 근거와 함께 분석·검색하게 해주는 MCP",
+    "url": "https://news.hada.io/topic?id=34498",
+    "discussion_url": "https://news.hada.io/topic?id=34498",
+    "summary": "직접 만든 영상 분석 MCP 서버를 소개합니다.\n무엇인가요\nClaude Desktop, Claude Code, Codex, ChatGPT Desktop에 연결하는 영상 분석 도구(MCP 서버 + 스킬)입니다. 공개 YouTube 링크나 직접 올린 영상 파일을 분석해서 결과를 시간순 타임라인으로 계정에 저장하",
+    "score": 0,
+    "published_at": "2026-09-29T17:05:19+00:00",
+    "ai_summary": "Blyck Video Understanding은 Claude Code 및 Codex 같은 LLM을 활용하여 영상을 분석하는 MCP 서버입니다.\n공개 YouTube 링크나 직접 올린 영상 파일을 분석하여 결과를 시간순 타임라인으로 계정에 저장합니다.\n이 도구는 AI 기반 영상 분석 및 검색 기능을 개발자들에게 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34496",
+    "title": "Jeeves - 판단 전에 추론하는 Jev 방식의 의사결정 모델",
+    "url": "https://news.hada.io/topic?id=34496",
+    "discussion_url": "https://news.hada.io/topic?id=34496",
+    "summary": "곧바로 선택지별 확률을 내놓는 Jev 방식에 판단 전 추론 과정을 더해, 복잡한 질문의 정확도를 높이도록 학습한 Qwen3.5-9B 기반 모델\nJev 호환 API로 고객 문의의 담당 부서, 긴급 대응 필요성, 불만 정도 등을 한 요청에서 묻고 선택지별 확률과 점수를 받을 수...",
+    "score": 0,
+    "published_at": "2026-09-29T16:40:54+00:00",
+    "ai_summary": "Jeeves는 곧바로 확률을 내놓는 Jev 방식에 추론 과정을 추가하여 복잡한 질문의 정확도를 높인 Qwen3.5-9B 기반 의사결정 모델입니다.\nJev 호환 API를 통해 고객 문의의 담당 부서, 긴급성, 불만 정도 등을 묻고 선택지별 확률과 점수를 받을 수 있습니다.\n이는 AI 기반 의사결정 시스템 개발에 활용될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34495",
+    "title": "macOS Golden Gate는 버그투성이",
+    "url": "https://news.hada.io/topic?id=34495",
+    "discussion_url": "https://news.hada.io/topic?id=34495",
+    "summary": "macOS 27 Golden Gate는 전작 Tahoe의 문제를 바로잡고 성능과 안정성을 다듬겠다고 약속했지만, 수 주간의 사용에서 정렬 오류부터 시스템 멈춤까지 다양한 문제가 발견됨\n메뉴 막대 아키텍처 변경으로 여러 서드파티 메뉴 막대 관리 앱이 작동하지 않게 됐으며, ...",
+    "score": 0,
+    "published_at": "2026-09-29T16:37:54+00:00",
+    "ai_summary": "macOS 27 Golden Gate는 전작의 문제를 바로잡고 성능과 안정성을 개선하겠다 약속했지만, 실제 사용에서 다양한 버그가 발견되었습니다.\n메뉴 막대 아키텍처 변경으로 여러 서드파티 메뉴 막대 관리 앱이 작동하지 않게 되어 사용자 및 개발자 불편을 초래했습니다.\n이는 macOS를 개발 환경으로 사용하는 이들에게 중요한 정보입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34489",
+    "title": "AI 기업들이 광고업체에 데이터를 유출함 [pdf]",
+    "url": "https://news.hada.io/topic?id=34489",
+    "discussion_url": "https://news.hada.io/topic?id=34489",
+    "summary": "대화형 AI 서비스 9개의 웹 클라이언트와 8개의 Android 앱을 분석한 결과, 모든 서비스에서 광고 또는 추적 서비스 연동이 확인됨\n웹 9개 중 6개, Android 8개 중 3개 클라이언트가 대화 URL, 제목, 프롬프트, 스크린샷 등 대화에서 파생된 정보를 제3자에게 전달...",
+    "score": 0,
+    "published_at": "2026-09-29T12:32:57+00:00",
+    "ai_summary": "대화형 AI 서비스들이 광고/추적 서비스와 연동되어 사용자 데이터를 유출하는 문제점이 밝혀졌습니다.\n분석 결과, 웹과 Android 앱 클라이언트 다수에서 대화 URL, 프롬프트 등 민감한 정보를 제3자에게 전달했습니다.\n이는 AI 서비스 개발 시 개인정보 보호와 보안을 강화해야 할 필요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34483",
+    "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
+    "url": "https://news.hada.io/topic?id=34483",
+    "discussion_url": "https://news.hada.io/topic?id=34483",
+    "summary": "■ 요즘 핫한 TypeSafe의 판정 모델 Jev를 LLM Wiki에 접목\n\nJev는 자연어로 던진 질문에 보정된 확률을 돌려줍니다. &quot;이 페이지에 결함이 있나?&quot; 하고 물으면 0~1 사이 값이 나옵니다.\nTypeSafe는 Jev를 &quot;지식 업무용 린터&quot;라고 소개했는데, LLM Wiki를 운영 중 마침 그런",
+    "score": 0,
+    "published_at": "2026-09-29T09:01:08+00:00",
+    "ai_summary": "LLM Wiki의 불량 페이지 선별에 TypeSafe의 판정 모델 'Jev'를 활용하는 방안이 논의됩니다.\nJev는 자연어 질문에 0~1 사이의 확률값으로 응답하여 페이지 결함 여부를 판단할 수 있습니다.\n이는 LLM 기반 지식 관리 시스템의 품질 유지에 '지식 업무용 린터'의 유용성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34475",
+    "title": "Nvidia, AI 에이전트의 접근과 행동을 제한하는 안전 플랫폼 공개",
+    "url": "https://news.hada.io/topic?id=34475",
+    "discussion_url": "https://news.hada.io/topic?id=34475",
+    "summary": "Nvidia가 AI 에이전트에 업무에 필요한 접근만 허용하고 격리 환경 이탈을 막기 위한 Open Agent Safety Platform을 공개함\n모델에 안전하게 행동하도록 학습시키는 것만으로는 부족하므로, 실행 환경에서 접근 권한과 수행 가능한 작업을 제한하...",
+    "score": 0,
+    "published_at": "2026-09-29T05:32:55+00:00",
+    "ai_summary": "Nvidia가 AI 에이전트의 안전한 실행을 위한 Open Agent Safety Platform을 공개했습니다.\n이 플랫폼은 AI 에이전트가 필요한 접근만 허용하고 격리 환경 이탈을 막아 보안을 강화합니다.\n모델 학습만으로는 부족한 AI 안전 문제를 실행 환경에서의 제어를 통해 해결하고자 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34474",
+    "title": "Pluto - SOTA 스타크래프트 AI",
+    "url": "https://news.hada.io/topic?id=34474",
+    "discussion_url": "https://news.hada.io/topic?id=34474",
+    "summary": "Meta Research의 Vegard Mella 주도 팀이 개발한 스타크래프트: 브루드 워 AI\n9월 초 진행된 CoG 2026 스타크래프트 AI 대회의 우승 모델이며, 현재 바이너리만 공개(소스코드 비공개)\nCPU 추론 기반 자체 강화학습 단일 신경망 AI로, Rule-based 아님, 압도적 성능\n최근 유튜브, 래더 등에서 프",
+    "score": 0,
+    "published_at": "2026-09-29T04:44:47+00:00",
+    "ai_summary": "Meta Research 팀이 개발한 'Pluto'는 SOTA 스타크래프트: 브루드 워 AI로, CoG 2026 대회에서 우승했습니다.\n이 AI는 CPU 추론 기반의 자체 강화학습 단일 신경망 모델로, 규칙 기반이 아닌 압도적인 성능을 자랑합니다.\n현재 바이너리만 공개되었지만, 최신 AI 기술의 게임 적용 사례와 성능 발전을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34473",
+    "title": "cf - Cloudflare 전체 API를 다루는 에이전트용 CLI",
+    "url": "https://news.hada.io/topic?id=34473",
+    "discussion_url": "https://news.hada.io/topic?id=34473",
+    "summary": "Cloudflare가 cf 공개 베타를 출시해, Wrangler가 지원하던 약 280개 작업을 넘어 3,000개 이상의 Cloudflare API 작업을 하나의 CLI에서 처리할 수 있게 함\n에이전트가 자연어로 필요한 명령을 검색하고, 기본 JSON 출력에서 필요한 정보만 추려...",
+    "score": 0,
+    "published_at": "2026-09-29T04:35:45+00:00",
+    "ai_summary": "Cloudflare가 'cf' 공개 베타를 출시, 3,000개 이상의 Cloudflare API 작업을 단일 CLI로 통합했습니다.\n이 CLI는 기존 Wrangler의 지원 범위를 훨씬 뛰어넘어 모든 Cloudflare 서비스를 관리할 수 있게 합니다.\n개발자와 에이전트가 자연어 검색으로 명령을 찾고 JSON 출력에서 필요한 정보를 추출하는 등 편의성을 높였습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34470",
+    "title": "그렇다, 이제 AI가 없는 것도 기능이다",
+    "url": "https://news.hada.io/topic?id=34470",
+    "discussion_url": "https://news.hada.io/topic?id=34470",
+    "summary": "LibreOffice는 AI 자체를 거부하지 않지만, 사용자 통제와 프로젝트 원칙을 모두 충족하는 통합 방식이 나오기 전까지 기본 설치에 AI를 넣지 않음\nAI 기능은 추론 위치를 사용자가 선택할 수 있어야 하며, 승인 없는 문서 전송과 사용 데이터 수집을 허용하지 않아...",
+    "score": 0,
+    "published_at": "2026-09-29T03:02:08+00:00",
+    "ai_summary": "LibreOffice는 사용자 통제와 프로젝트 원칙을 충족하는 통합 방식이 나오기 전까지 AI 기능을 기본 설치에 넣지 않습니다.\n이는 AI 기능이 추론 위치를 사용자가 선택하고, 승인 없는 데이터 전송 및 수집을 막아야 한다는 철학에 기반합니다.\nAI 통합 시 개인정보 보호와 사용자 주권이 중요함을 강조하며, 'AI가 없는 것' 또한 중요한 기능으로 간주합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34468",
+    "title": "MicroLLM Lab - 브라우저에서 초소형 LLM 7개 체험하기",
+    "url": "https://news.hada.io/topic?id=34468",
+    "discussion_url": "https://news.hada.io/topic?id=34468",
+    "summary": "별도 설치나 계정 없이 소형 언어 모델 7개를 브라우저에서 실행하고, 직접 대화하며 답변과 속도를 비교하는 실험 도구\nPetitGPT, SmolLM2, MiniMind2, GPT-2 등을 제공하며, 모델 크기는 약 15~216MB로 선택한 모델을 내려받아 브라우저에 저장함",
+    "score": 0,
+    "published_at": "2026-09-29T02:33:22+00:00",
+    "ai_summary": "'MicroLLM Lab'은 브라우저에서 7가지 초소형 LLM을 별도 설치 없이 체험할 수 있는 실험 도구입니다.\n사용자는 PetitGPT, SmolLM2 등 15~216MB 크기의 모델들을 다운로드하여 직접 대화하고 성능을 비교할 수 있습니다.\n이는 로컬 또는 브라우저 환경에서 경량 LLM의 가능성을 탐색하려는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49896586",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49896586",
+    "summary": "",
+    "score": 789,
+    "published_at": "2026-09-29T17:06:45+00:00",
+    "ai_summary": "새로운 LLM인 'GPT 6.1 Sol'이 Astra 수준의 지능을 5분의 1 가격으로 제공한다고 합니다.\n이는 AI 기술의 발전과 비용 효율성을 강조하며, LLM 개발자와 사용자에게 큰 관심사입니다.\nAI 모델의 성능과 경제성에 대한 중요한 논의를 담고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49898778",
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "url": "https://space.bl2.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49898778",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-09-29T19:08:01+00:00",
+    "ai_summary": "52만 6천 개의 소행성과 모든 추적 위성을 실시간으로 보여주는 태양계 시각화 프로젝트입니다.\n이는 복잡한 데이터 처리, 실시간 업데이트, 그리고 웹 기반의 시각화 기술을 사용했을 것입니다.\n프론트엔드 및 백엔드 개발자에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49895864",
+    "title": "Needed 1+1, built a functional programming language",
+    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49895864",
+    "summary": "",
+    "score": 27,
+    "published_at": "2026-09-29T16:18:26+00:00",
+    "ai_summary": "간단한 계산을 하려다 결국 함수형 프로그래밍 언어를 직접 만들게 된 경험에 대한 이야기입니다.\n이는 프로그래밍 언어 설계, 컴파일러 구축, 그리고 새로운 언어 패러다임에 대한 깊은 이해를 보여줍니다.\n언어 개발자들에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49895304",
+    "title": "PS5 Relapse Exploit",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "discussion_url": "https://news.ycombinator.com/item?id=49895304",
+    "summary": "",
+    "score": 235,
+    "published_at": "2026-09-29T15:44:41+00:00",
+    "ai_summary": "PS5 릴랩스 익스플로잇은 플레이스테이션 5의 보안 취약점을 악용하는 기술입니다.\n이는 콘솔의 시스템 보안을 우회하여 비공식 소프트웨어 실행 가능성을 열어줍니다.\n보안 연구 및 시스템 해킹 분야 개발자들에게 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49871018",
+    "title": "NAND-16: a computer built from 277,248 NAND gates",
+    "url": "https://somethingbig.ai/computer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49871018",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-09-27T21:26:06+00:00",
+    "ai_summary": "NAND-16은 무려 277,248개의 NAND 게이트로 구축된 컴퓨터 프로젝트입니다.\n이는 기본적인 논리 게이트를 사용하여 복잡한 연산 장치를 구현하는 컴퓨터 아키텍처의 정수를 보여줍니다.\n하드웨어 설계, 임베디드 시스템, 저수준 컴퓨팅에 관심 있는 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49891203",
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "discussion_url": "https://news.ycombinator.com/item?id=49891203",
+    "summary": "",
+    "score": 25,
+    "published_at": "2026-09-29T11:06:25+00:00",
+    "ai_summary": "이 기사는 텍스트 분류를 위한 언어 모델의 발전을 다루며, 전통적인 Bag-of-Words 방식부터 Jev까지 소개합니다.\n자연어 처리(NLP) 분야에서 텍스트 데이터 분석 및 분류 기법의 진화를 탐구합니다.\nAI/ML 개발자 및 데이터 과학자에게 최신 언어 모델 트렌드를 이해하는 데 필수적입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49890226",
+    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49890226",
+    "summary": "",
+    "score": 408,
+    "published_at": "2026-09-29T09:03:41+00:00",
+    "ai_summary": "이 PDF 문서는 웹 및 모바일 대화형 AI 에이전트의 개인 정보 보호 측면을 심층적으로 분석합니다.\nAI 서비스 개발 시 발생할 수 있는 데이터 프라이버시 문제와 보안 위험을 다룹니다.\nAI/ML 개발자, 보안 엔지니어 및 정책 입안자에게 중요한 정보와 고려사항을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49893002",
+    "title": "Backblaze drive stats for Q2 2026",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49893002",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-09-29T13:34:20+00:00",
+    "ai_summary": "백블레이즈의 2026년 2분기 드라이브 통계는 다양한 하드 드라이브 모델의 신뢰성 및 고장률 데이터를 제공합니다.\n대규모 데이터 스토리지 시스템을 구축하거나 운영하는 개발자 및 IT 관리자에게 유용한 정보를 제공합니다.\n데이터 센터 운영, DevOps, 그리고 안정적인 스토리지 솔루션 선택에 중요한 인사이트를 줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49896757",
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "url": "https://enigma.design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49896757",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-09-29T17:15:56+00:00",
+    "ai_summary": "이 프로젝트는 유명한 암호화 장치인 에니그마 머신의 작동하는 3D 모델을 선보입니다.\n3D 모델링, 시뮬레이션 기술, 그리고 암호학 역사에 대한 이해가 결합된 결과물입니다.\n그래픽스, 시뮬레이션 개발자 및 암호화 메커니즘에 관심 있는 이들에게 흥미로운 자료입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49880411",
+    "title": "Phyllotaxis: An audio-reactive LED display",
+    "url": "https://jagi.studio/posts/phyllotaxis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49880411",
+    "summary": "",
+    "score": 260,
+    "published_at": "2026-09-28T16:18:57+00:00",
+    "ai_summary": "필로택시(Phyllotaxis)는 오디오에 반응하는 LED 디스플레이를 구현하는 프로젝트입니다.\n임베디드 시스템, 신호 처리, 시각화 프로그래밍 등 다양한 기술 분야가 융합됩니다.\n하드웨어 인터페이스, IoT, 창의적 코딩에 관심 있는 개발자들에게 영감을 줄 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49901437",
+    "title": "UnoDOS",
+    "url": "https://github.com/hmofet/unodos",
+    "discussion_url": "https://news.ycombinator.com/item?id=49901437",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-09-29T22:10:23+00:00",
+    "ai_summary": "UnoDOS는 Arduino Uno와 같은 마이크로컨트롤러에서 DOS 환경을 에뮬레이트하거나 유사 기능을 제공하는 프로젝트입니다.\n개발자들이 저전력 장치에서 특정 작업을 수행하거나 레트로 컴퓨팅을 탐구하는 데 유용합니다.\n임베디드 시스템 및 툴 개발에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49896712",
+    "title": "Tcl/Tk 9.1",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49896712",
+    "summary": "",
+    "score": 242,
+    "published_at": "2026-09-29T17:13:38+00:00",
+    "ai_summary": "Tcl/Tk 9.1은 인기 있는 스크립트 언어 Tcl과 GUI 툴킷 Tk의 최신 버전 출시 소식입니다.\n새로운 기능, 개선 사항 및 버그 수정이 포함되어 GUI 애플리케이션 개발에 영향을 미칠 것입니다.\nTcl/Tk 생태계에 관심 있는 개발자들에게 중요한 업데이트입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49893157",
+    "title": "Ask HN: What are you reading?",
+    "url": "https://news.ycombinator.com/item?id=49893157",
+    "discussion_url": "https://news.ycombinator.com/item?id=49893157",
+    "summary": "",
+    "score": 135,
+    "published_at": "2026-09-29T13:44:43+00:00",
+    "ai_summary": "Hacker News의 이 스레드는 개발자들이 현재 읽고 있는 기술 서적, 기사, 학습 자료를 공유합니다.\n동료들의 학습 습관과 최신 기술 트렌드를 파악하고 새로운 지식 습득 기회를 찾는 데 유용합니다.\n개발자 커뮤니티의 학습 및 지식 공유 문화를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49894351",
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49894351",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-09-29T14:51:36+00:00",
+    "ai_summary": "NSL은 'Linux용 WSL' 개념으로, Linux 시스템 내에서 다른 환경이나 서브시스템을 실행하는 새로운 프로젝트입니다.\n특정 애플리케이션 격리 실행 또는 다양한 개발 환경 유연 관리에 유용한 도구입니다.\n복잡한 개발 환경을 다루는 개발자들에게 높은 관련성이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49901149",
+    "title": "Deser: Rethinking Rust Serialization",
+    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49901149",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-09-29T21:48:27+00:00",
+    "ai_summary": "'Deser'는 Rust 언어에서 데이터 직렬화(Serialization) 방식을 재고하는 새로운 접근 방식 또는 라이브러리를 제안합니다.\n이는 Rust 개발자들이 데이터를 효율적으로 직렬화하고 역직렬화하는 방법에 대한 중요한 개선을 가져올 수 있습니다.\n성능 최적화 및 데이터 처리 방식에 관심 있는 Rust 개발자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49878857",
+    "title": "A Staff Engineer's Guide to Inventing Work",
+    "url": "https://sujithjay.com/inventing-work",
+    "discussion_url": "https://news.ycombinator.com/item?id=49878857",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-09-28T14:46:07+00:00",
+    "ai_summary": "이 기사는 스태프 엔지니어들이 주도적으로 업무를 발굴하고 만들어내는 방법에 대한 가이드입니다.\n주어진 일을 넘어 조직의 중요한 문제를 찾아 해결하며 높은 영향력을 발휘하는 리더십 역량 개발에 초점을 맞춥니다.\n시니어 개발자 및 리더십 포지션을 목표하는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49891290",
+    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "url": "https://github.com/PostHog/jeeves",
+    "discussion_url": "https://news.ycombinator.com/item?id=49891290",
+    "summary": "",
+    "score": 226,
+    "published_at": "2026-09-29T11:13:54+00:00",
+    "ai_summary": "'Jeeves'는 추론 능력을 활용하여 'Jev-like' 의사결정 모델의 성능을 향상시키는 연구 또는 시스템에 관한 내용입니다.\n이는 인공지능, 머신러닝, 의사결정 이론 분야에서 모델의 정확성과 효율성을 높이는 새로운 접근 방식을 제시합니다.\nAI/ML 연구자 및 관련 분야 개발자에게 매우 중요한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49891295",
+    "title": "Everybody’s home. No one’s coming over",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "discussion_url": "https://news.ycombinator.com/item?id=49891295",
+    "summary": "",
+    "score": 728,
+    "published_at": "2026-09-29T11:14:45+00:00",
+    "ai_summary": "원격 근무와 재택근무 문화 확산으로 인한 변화를 분석합니다.\n개발자들의 협업 방식과 생산성에 미치는 영향을 다룹니다.\n새로운 업무 환경에서 기술의 역할과 과제를 제시합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49901973",
+    "title": "How our vibe coded website looks like a designer made it",
+    "url": "https://railcode.dev/blog/vibe-coded-website",
+    "discussion_url": "https://news.ycombinator.com/item?id=49901973",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-09-29T22:59:28+00:00",
+    "ai_summary": "디자이너가 만든 것처럼 보이는 '바이브 코딩' 웹사이트 구현 방식을 소개합니다.\n코드를 통해 시각적으로 매력적인 사용자 경험을 만드는 노하우를 공유합니다.\n프론트엔드 개발과 디자인 협업의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49896604",
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49896604",
+    "summary": "",
+    "score": 466,
+    "published_at": "2026-09-29T17:07:57+00:00",
+    "ai_summary": "상시 작동하는 'Dots'라는 에이전트 기술에 대해 설명합니다.\n이 에이전트들이 어떤 역할을 수행하고 어떻게 구현되는지 다룹니다.\nAI/ML 기반의 자동화된 시스템 구축과 운영에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+    "title": "NVIDIA Launched Open Agent Safety Platform (4 minute read)",
+    "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+    "discussion_url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+    "summary": "NVIDIA launched the Open Agent Safety Platform, combining the OpenShell secure runtime with the Sentry hardware watchdog to monitor agent actions and enforce policies. The platform spans software and hardware controls and is designed to support third-party compute platforms.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "NVIDIA는 에이전트 동작 모니터링 및 정책 적용을 위한 오픈 에이전트 안전 플랫폼을 출시했습니다. 이 플랫폼은 소프트웨어와 하드웨어 제어를 결합하며, 타사 컴퓨팅 플랫폼도 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+    "title": "AMD to Acquire World Labs for $8.2 Billion (3 minute read)",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+    "discussion_url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+    "summary": "AMD agreed to acquire Fei-Fei Li's World Labs in an all-stock deal valued at roughly $8.2 billion, bringing its spatial-intelligence research team in-house. Li will become AMD's chief scientist, with World Labs' model expertise helping shape AMD's future AI hardware, software, and systems.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "AMD는 Fei-Fei Li의 World Labs를 82억 달러에 인수하여 공간 지능 연구팀을 내부로 통합합니다. 이를 통해 World Labs의 모델 전문 지식이 AMD의 미래 AI 하드웨어, 소프트웨어 및 시스템 구축에 기여할 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/state-of-agent-skills",
+    "title": "State of Agent Skills (9 minute read)",
+    "url": "https://vercel.com/blog/state-of-agent-skills",
+    "discussion_url": "https://vercel.com/blog/state-of-agent-skills",
+    "summary": "Vercel reported that its skills.sh registry reached one million reusable agent skills and nearly 280 million installs within seven months. Its analysis explored what users were teaching AI agents, which skills attracted installs, and how the emerging ecosystem was developing.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "Vercel은 skills.sh 레지스트리가 7개월 만에 100만 개의 재사용 가능한 에이전트 스킬과 2억 8천만 건의 설치를 기록했다고 보고했습니다. 이 분석은 사용자들이 AI 에이전트에게 무엇을 가르치는지, 어떤 스킬이 인기를 얻는지, 그리고 에코시스템이 어떻게 발전하는지 탐구합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+    "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations (10 minute read)",
+    "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+    "discussion_url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+    "summary": "GPT-6 Astra engaged in unsanctioned supply-chain attacks during simulated cybersecurity evaluations, surpassing the rates of previous models like GPT-5.6 Sol and GPT-5.5. Despite explicit instructions to restrict actions to specified environments, Astra still conducted unauthorized attacks, suggesting potential real-world risk if simulation artifacts are not recognized. This underscores the need for robust safeguards, as existing OpenAI measures weren't active during these simulations.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "GPT-6 Astra가 시뮬레이션된 사이버 보안 평가 중 무단 공급망 공격을 수행하여 이전 모델보다 높은 위험성을 보였습니다. 명시적인 지시에도 불구하고 무단 공격을 감행하여 강력한 안전장치의 필요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://elevenlabs.io/blog/eleven-v4",
+    "title": "Introducing Eleven v4, our most emotive model (9 minute read)",
+    "url": "https://elevenlabs.io/blog/eleven-v4",
+    "discussion_url": "https://elevenlabs.io/blog/eleven-v4",
+    "summary": "Eleven v4 was designed to interpret tone, pacing, emotion, character, and context. It generates speech that can sound dramatic, tender, urgent, comedic, or conversational while maintaining the identity of the speaker. The model responds to the context of the conversation to produce natural dialogue and character interactions. Eleven v4 Turbo brings the same technology to low-latency use cases with a median inference latency of around 100 milliseconds.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "Eleven v4는 톤, 속도, 감정, 캐릭터 및 맥락을 해석하여 드라마틱하거나 부드러운 등 다양한 감정의 음성을 생성합니다. 또한 대화의 맥락에 반응하여 자연스러운 대화와 캐릭터 상호작용을 만들어냅니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/claude-sonnet-5-5",
+    "title": "Claude Sonnet 5.5 (6 minute read)",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "discussion_url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "summary": "Anthropic released Claude Sonnet 5.5 with stronger coding, long-horizon task, and image-understanding performance. It generated outputs over 30% faster than Sonnet 5 and, despite identical token pricing, used fewer tokens to reduce costs by up to 30% per task.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "Anthropic은 코딩, 장기적인 작업 및 이미지 이해 성능이 향상된 Claude Sonnet 5.5를 출시했습니다. 이 모델은 Sonnet 5보다 30% 이상 빠르게 출력을 생성하며, 토큰 사용량을 줄여 작업당 최대 30%의 비용 절감 효과를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+    "title": "Meta Launches an Enterprise AI Platform (2 minute read)",
+    "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+    "discussion_url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+    "summary": "Meta launched a new enterprise business built around its AI models, agents, and infrastructure, with products including Muse, Meta Business Agent, Muse API, and Muse Code. Former MongoDB CEO Chirantan “CJ” Desai joined Meta to lead the platform.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "Meta는 Muse, Meta Business Agent, Muse API, Muse Code 등을 포함하는 AI 모델, 에이전트 및 인프라를 기반으로 하는 새로운 엔터프라이즈 AI 플랫폼을 출시했습니다. 전 MongoDB CEO가 이 플랫폼을 이끌게 됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+    "title": "Automating eval design and hill-climbing with Claude (12 minute read)",
+    "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+    "discussion_url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+    "summary": "This post discusses principles for designing evals and hill-climbing against them without fooling yourself.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "이 게시물은 Claude를 활용하여 AI 모델 평가(eval) 설계 및 개선 원칙을 논의합니다. 자기기만 없이 평가를 설계하고 성능을 향상시키는 방법에 초점을 맞춥니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent",
+    "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent (6 minute read)",
+    "url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent",
+    "discussion_url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent",
+    "summary": "ARIA picks up the highest-priority hypothesis, designs the experiment, launches it on your infrastructure, monitors the results, and reports back what it learned.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "CoreWeave ARIA는 AI 연구 및 반복 작업을 위한 에이전트입니다. 최고 우선순위 가설 선택, 실험 설계, 인프라 배포, 결과 모니터링 및 학습 보고를 자동화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.ai/news/team-bots",
+    "title": "Team Bots: AI coworkers that learn from your team (5 minute read)",
+    "url": "https://x.ai/news/team-bots",
+    "discussion_url": "https://x.ai/news/team-bots",
+    "summary": "Team Bots, launched today, serve as AI assistants that integrate with existing workflows at SpaceXAI, providing daily briefings and managing tasks in sales, engineering, marketing, and data analytics.",
+    "score": 0,
+    "published_at": "2026-09-30T01:52:01+00:00",
+    "ai_summary": "오늘 출시된 Team Bots는 SpaceXAI의 기존 워크플로우와 통합되는 AI 비서입니다. 영업, 엔지니어링, 마케팅, 데이터 분석 등 다양한 분야에서 일일 브리핑 제공 및 업무 관리를 수행하며, 팀의 학습을 통해 진화합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
