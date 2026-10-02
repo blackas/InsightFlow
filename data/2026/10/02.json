@@ -1,0 +1,518 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34616",
+    "title": "GPT-Synopsys, 칩 설계를 혁신할 최첨단 AI",
+    "url": "https://news.hada.io/topic?id=34616",
+    "discussion_url": "https://news.hada.io/topic?id=34616",
+    "summary": "OpenAI와 Synopsys가 다년간 전략적 제휴를 맺고, Synopsys의 전자설계자동화(EDA) 도구 사용에 최적화한 칩 설계 특화 모델 GPT-Synopsys를 공동 개발하기로 함\n범용 모델을 도구에 연결하는 수준을 넘어, 모델이 EDA 도구 실행과 결과 해석을 익...",
+    "score": 0,
+    "published_at": "2026-10-01T17:36:13+00:00",
+    "ai_summary": "OpenAI와 Synopsys가 칩 설계 특화 AI 모델 'GPT-Synopsys'를 공동 개발합니다.\n이 모델은 Synopsys의 전자설계자동화(EDA) 도구 사용에 최적화되어, 기존 범용 모델과 도구 연결을 넘어섭니다.\nAI가 칩 설계 프로세스를 혁신하며, EDA 도구 실행과 결과 해석을 직접 학습하게 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34615",
+    "title": "FTC, 제품 위험성을 두고 OpenAI와 Anthropic 등 AI 기업 조사 중",
+    "url": "https://news.hada.io/topic?id=34615",
+    "discussion_url": "https://news.hada.io/topic?id=34615",
+    "summary": "미국 연방거래위원회(FTC) 가 OpenAI, Anthropic 등 AI 기업의 제품이 초래할 수 있는 잠재적 위험에 대한 조사에 착수함\n업계 연구자들의 치명적 피해 가능성 경고와 OpenAI 에이전트의 테스트 환경 이탈 및 Hugging Face 해킹 공개 이후, 두 회사의 안전 관행에 ...",
+    "score": 0,
+    "published_at": "2026-10-01T16:50:22+00:00",
+    "ai_summary": "미국 연방거래위원회(FTC)가 OpenAI와 Anthropic 등 주요 AI 기업들을 대상으로 제품의 잠재적 위험성을 조사 중입니다.\n이번 조사는 AI 제품이 초래할 수 있는 치명적 피해 가능성에 대한 경고와 특정 사건들로 인해 시작되었습니다.\n이는 AI 안전 관행과 규제에 대한 업계 전반의 경각심을 높이는 계기가 될 것입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34614",
+    "title": "일본에서 일하며 머신러닝 박사과정 밟기",
+    "url": "https://news.hada.io/topic?id=34614",
+    "discussion_url": "https://news.hada.io/topic?id=34614",
+    "summary": "미국인 Google 엔지니어가 MEXT 장학금을 받아 도쿄공업대학에서 박사학위를 마치며 주 2일 근무를 병행함. 다만 기존 연구 경력, 저축, 회사 내 이동 기회가 있었던 특수한 사례라 그대로 재현하기는 어려움\n일본은 허가를 받은 유학생의 학기 중 주 28시간 근무를...",
+    "score": 0,
+    "published_at": "2026-10-01T16:47:22+00:00",
+    "ai_summary": "Google 엔지니어가 MEXT 장학금으로 일본 도쿄공업대학에서 머신러닝 박사 학위를 받았습니다.\n주 2일 근무를 병행했지만, 기존 경력, 저축, 회사 내 이동 기회가 있던 특수한 사례입니다.\n이는 해외 학업 및 경력 병행의 가능성을 보여주나, 재현하기 어려운 개인적 성공 사례입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34613",
+    "title": "2026년 9월 Rust 컴파일러 속도를 높이는 방법",
+    "url": "https://news.hada.io/topic?id=34613",
+    "discussion_url": "https://news.hada.io/topic?id=34613",
+    "summary": "최근 두 달간 Rust 컴파일러 벤치마크의 평균 컴파일 시간이 4.57% 감소했으며, 629개 측정 중 555개가 개선됨\n실행 프로파일을 활용한 최적화인 PGO를 Clippy에 적용해 실행 시간을 최대 18% 줄였으며, LLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축함\n...",
+    "score": 0,
+    "published_at": "2026-10-01T16:44:22+00:00",
+    "ai_summary": "최근 두 달간 Rust 컴파일러 벤치마크에서 평균 컴파일 시간이 4.57% 감소하며 555개 측정이 개선되었습니다.\nPGO(프로파일 유도 최적화)를 Clippy에 적용하여 실행 시간을 최대 18% 줄이는 데 기여했습니다.\nLLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축시키는 등 컴파일러 성능 향상이 지속되고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34601",
+    "title": "Ledge.sh - 실행 가능한 Markdown 노트",
+    "url": "https://news.hada.io/topic?id=34601",
+    "discussion_url": "https://news.hada.io/topic?id=34601",
+    "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱\n노트마다 독립된 셸을 유지해 작업 디렉터리, 환경 변수, 활성화한 가상 환경을 다음 코드 블록 실행에서도 그대로...",
+    "score": 0,
+    "published_at": "2026-10-01T11:40:56+00:00",
+    "ai_summary": "Ledge.sh는 Markdown 노트 내에서 셸 명령, 코드, SQL, AI 프롬프트를 직접 실행할 수 있는 개발자용 노트 앱입니다.\n실행 결과는 코드 블록 바로 아래에 실시간으로 표시되며, 각 노트는 독립된 셸 환경을 유지합니다.\n이는 개발자와 DevOps 엔지니어의 문서화 및 작업 효율성을 크게 향상시킬 수 있는 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34598",
+    "title": "Three Slicer: 브라우저 WASM 슬라이서의 91초를 10초로 줄이며 찾은 병렬화, V8, WebGPU 병목",
+    "url": "https://news.hada.io/topic?id=34598",
+    "discussion_url": "https://news.hada.io/topic?id=34598",
+    "summary": "제가 개발 중인 Three Slicer 0.3.3의 성능 최적화 과정을 정리한 글입니다.\n주요 내용은 다음과 같습니다.\n\nOrcaSlicer 포팅 과정에서 빠졌던 CPU 병렬성을 복구해 1.13M facet tree-support plate 전체 슬라이스 시간을 91.1초에서 9.7~9.8초로 줄였습니다.\nWebGPU polygon kernel은 단",
+    "score": 0,
+    "published_at": "2026-10-01T10:43:55+00:00",
+    "ai_summary": "Three Slicer 0.3.3의 성능 최적화 과정을 다룹니다.\nWASM 슬라이서의 CPU 병렬성을 복구하여 91초 걸리던 작업을 10초로 단축했습니다.\nV8 엔진 및 WebGPU 관련 병목 현상 해결을 통해 최적화를 이루었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34597",
+    "title": "PostgreSQL JSONB: JSON 데이터 조회, 수정 및 인덱싱",
+    "url": "https://news.hada.io/topic?id=34597",
+    "discussion_url": "https://news.hada.io/topic?id=34597",
+    "summary": "PostgreSQL의 JSONB 데이터를 실제로 다룰 때 필요한 과정을 하나의 지원 티켓 예제로 정리했습니다.\n중첩된 값을 조회하는 -&gt;와 -&gt;&gt;의 차이, @&gt;를 이용한 포함 검색, jsonb_set()으로 문서 전체를 교체하지 않고 특정 값만 수정하는 방법을 다룹니다.\n40,004개의 레코드로 GIN 인덱스를 테",
+    "score": 0,
+    "published_at": "2026-10-01T09:55:28+00:00",
+    "ai_summary": "PostgreSQL의 JSONB 데이터를 다루는 실제 과정을 지원 티켓 예제로 정리합니다.\n->와 ->> 연산자의 차이, @>를 이용한 포함 검색 방법을 설명합니다.\njsonb_set()으로 문서 전체 교체 없이 특정 값만 수정하고 GIN 인덱스 사용법을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34596",
+    "title": "Show GN: SSGOI – 모바일 웹을 네이티브 앱처럼 만드는 페이지 전환 라이브러리",
+    "url": "https://news.hada.io/topic?id=34596",
+    "discussion_url": "https://news.hada.io/topic?id=34596",
+    "summary": "모바일 웹앱을 개발하면서 페이지가 넘어갈 때 네이티브 앱처럼\n전환이 되길 원했고, 그래서 SSGOI를 만들었습니다.\n어떤 웹 프레임워크와도 함께 쓸 수 있고, 제가 운영하는 회사 서비스에서도 사용 중입니다.\n이걸 바탕으로 모바일용 UI 컴포넌트도 만들었습니다:\nhttps://library.comwit",
+    "score": 0,
+    "published_at": "2026-10-01T08:40:02+00:00",
+    "ai_summary": "모바일 웹앱의 페이지 전환을 네이티브 앱처럼 구현하는 SSGOI 라이브러리를 소개합니다.\n어떤 웹 프레임워크와도 호환되며 실제 회사 서비스에서 사용 중입니다.\n이를 기반으로 모바일용 UI 컴포넌트도 개발되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34595",
+    "title": "Show GN: query-inspector - 소스 코드 내 SQL/ORM 쿼리를 추출해 튜닝 리포트를 작성하는 Claude Code 스킬",
+    "url": "https://news.hada.io/topic?id=34595",
+    "discussion_url": "https://news.hada.io/topic?id=34595",
+    "summary": "query-inspector는 프로젝트의 소스 코드에 있는 SQL과 ORM(JPA 파생 메서드, @Query, QueryDSL, Kotlin JDSL, MyBatis 등)이 생성하는 쿼리를 추출해, 인덱스 누락 / N+1 문제 / 안티패턴 등을 진단하여 결과와 튜닝 가이드를 리포팅해 주는 Claude Code 플러그인입니다.\ngit 변경분에서만 추출하여 incremen",
+    "score": 0,
+    "published_at": "2026-10-01T08:27:54+00:00",
+    "ai_summary": "query-inspector는 소스 코드 내 SQL/ORM 쿼리를 추출하고 진단하는 Claude Code 플러그인입니다.\n인덱스 누락, N+1 문제, 안티패턴 등을 찾아 튜닝 가이드를 리포팅합니다.\nGit 변경분에서 증분 분석이 가능합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49922569",
+    "title": "Ask HN: Who is hiring? (October 2026)",
+    "url": "https://news.ycombinator.com/item?id=49922569",
+    "discussion_url": "https://news.ycombinator.com/item?id=49922569",
+    "summary": "",
+    "score": 155,
+    "published_at": "2026-10-01T15:02:07+00:00",
+    "ai_summary": "Hacker News의 'Ask HN: Who is hiring?' 스레드는 채용 정보를 공유하는 인기 게시물입니다.\n2026년 10월 버전으로, 다양한 기술 회사들이 개발자 직무를 포함한 채용 공고를 올립니다.\n구직자와 채용 시장 동향을 파악하려는 개발자들에게 유용한 정보원입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49927212",
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49927212",
+    "summary": "",
+    "score": 60,
+    "published_at": "2026-10-01T21:21:32+00:00",
+    "ai_summary": "'CSS Bed'는 웹 개발 시작점으로 활용할 수 있는 클래스 없는(classless) CSS 테마 모음입니다.\n기본 HTML 요소에 스타일을 적용하여 빠르고 깔끔한 디자인을 가능하게 합니다.\n프론트엔드 개발자들이 프로젝트 초기 단계에서 디자인 기반을 신속하게 구축하는 데 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49925969",
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49925969",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-10-01T19:24:08+00:00",
+    "ai_summary": "\"Pi Durable\"은 라즈베리 파이 기반의 내구성 있는 솔루션 또는 프로젝트를 의미하는 것으로 보입니다.\n극한 환경이나 장시간 사용에도 견딜 수 있도록 설계된 하드웨어 및 소프트웨어 통합에 초점을 맞출 수 있습니다.\n임베디드 시스템, 산업용 IoT, 또는 특수 목적 하드웨어 개발자에게 관련성이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49920160",
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920160",
+    "summary": "",
+    "score": 525,
+    "published_at": "2026-10-01T10:59:57+00:00",
+    "ai_summary": "OpenStreetMap 데이터 편집 앱인 StreetComplete가 이제 iOS에서 공개 베타를 시작했습니다.\n사용자들은 지도 데이터를 쉽게 개선하고 기여할 수 있는 모바일 앱을 테스트할 수 있습니다.\n모바일 개발자, 특히 위치 기반 서비스나 오픈 소스 프로젝트에 관심 있는 이들에게 관련성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49926773",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "url": "https://github.com/Vibra-Ingenn/Janus",
+    "discussion_url": "https://news.ycombinator.com/item?id=49926773",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-10-01T20:36:47+00:00",
+    "ai_summary": "\"Janus\"는 Go 언어로 작성된 바이너리로, Vulkan API를 통해 GGUF 모델을 실행하는 프로젝트입니다.\nAMD, Intel, Nvidia 등 다양한 GPU에서 AI 모델, 특히 LLM의 로컬 추론을 가능하게 합니다.\nAI/ML 개발자, 특히 Go 언어와 GPU 가속을 활용한 모델 배포에 관심 있는 이들에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49923466",
+    "title": "RIP, vector database",
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "discussion_url": "https://news.ycombinator.com/item?id=49923466",
+    "summary": "",
+    "score": 277,
+    "published_at": "2026-10-01T16:01:56+00:00",
+    "ai_summary": "\"RIP, vector database\"라는 제목은 벡터 데이터베이스의 미래나 유용성에 대한 비판적인 관점을 제시합니다.\n이 기사는 벡터 데이터베이스의 한계점이나 대안 솔루션에 대해 논의할 가능성이 높습니다.\nAI/ML 개발자, 데이터베이스 설계자, 그리고 LLM을 위한 데이터 저장 기술에 관심 있는 이들에게 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Database",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49924179",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "discussion_url": "https://news.ycombinator.com/item?id=49924179",
+    "summary": "",
+    "score": 210,
+    "published_at": "2026-10-01T16:57:03+00:00",
+    "ai_summary": "Git 3.0에서 예정된 SHA-256 기본값 변경이 상당한 비용이 드는 실수가 될 것이라는 주장이 제기되었습니다.\n이 기사는 새로운 해싱 알고리즘 도입으로 인한 호환성 문제, 성능 저하 또는 전환 비용을 다룰 것입니다.\n모든 개발자, 특히 버전 관리 시스템과 보안에 민감한 프로젝트 관리자들에게 중요한 논점입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49926512",
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49926512",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-10-01T20:12:15+00:00",
+    "ai_summary": "ArXiv가 서비스 안정성을 위해 새로운 접근 제한 정책을 발표했습니다.\n이는 봇과 스크래핑을 방지하며, API를 사용하는 개발자들은 변경된 정책을 준수해야 합니다.\n자동화된 데이터 수집 및 서비스 통합 방식에 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49924618",
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "url": "https://stoppels.ch/goalposts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49924618",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-10-01T17:32:43+00:00",
+    "ai_summary": "해커 뉴스에서 제시된 AI 도전 과제 중 달성된 항목을 투표하는 내용입니다.\n이는 AI 기술 발전의 현주소를 파악하고, 커뮤니티의 AI 기술 평가를 반영합니다.\nAI 연구 및 개발 방향 설정에 중요한 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49922674",
+    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+    "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49922674",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-10-01T15:07:42+00:00",
+    "ai_summary": "ESP32 마이크로컨트롤러에서 숨겨진 SDR(소프트웨어 정의 라디오) 기능이 여러 프로젝트를 통해 발견되었습니다.\n이를 통해 ESP32를 활용한 저비용 무선 통신 및 신호 처리 애플리케이션 개발 가능성이 열렸습니다.\n임베디드 시스템 및 IoT 개발자에게 새로운 기회를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49927587",
+    "title": "Aweb – Communication for AI Agents",
+    "url": "https://aweb.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49927587",
+    "summary": "",
+    "score": 22,
+    "published_at": "2026-10-01T22:02:31+00:00",
+    "ai_summary": "Aweb은 AI 에이전트 간의 효율적인 통신을 위한 프레임워크 또는 프로토콜을 다룹니다.\n이는 다수의 AI 에이전트가 협력하여 복잡한 작업을 수행하는 데 필수적인 기술입니다.\nAI/ML, LLM 기반 시스템 및 분산 에이전트 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49921923",
+    "title": "Cloudflare K2: serverless event streams",
+    "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49921923",
+    "summary": "",
+    "score": 200,
+    "published_at": "2026-10-01T14:09:10+00:00",
+    "ai_summary": "Cloudflare K2는 서버리스 환경에서 고성능 이벤트 스트림 처리를 제공하는 새로운 서비스입니다.\n실시간 데이터 처리, 마이크로서비스 통신 및 분산 시스템 구축을 간소화합니다.\n백엔드, 클라우드 및 DevOps 엔지니어에게 유용한 기술입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49925036",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "discussion_url": "https://news.ycombinator.com/item?id=49925036",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-10-01T18:08:03+00:00",
+    "ai_summary": "Bez는 웹 표준 사양과 테스트를 기반으로 브라우저 엔진을 자동으로 생성하는 프로젝트입니다.\n웹 표준 준수와 효율적인 엔진 개발을 목표로 하며, 복잡한 시스템의 자동 생성 가능성을 보여줍니다.\n프론트엔드 및 시스템 레벨 개발자에게 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49926628",
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49926628",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-10-01T20:23:27+00:00",
+    "ai_summary": "자율주행 및 커넥티드 차량의 데이터 프라이버시 문제를 다룬 연구입니다.\n차량에서 수집되는 방대한 개인 데이터의 잠재적 위험을 분석하고 보호 기술 및 정책적 접근을 논의합니다.\nIoT, 데이터 엔지니어, 보안 개발자에게 중요한 고려사항을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49922515",
+    "title": "RacketCon Is Saturday",
+    "url": "https://con.racket-lang.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49922515",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-10-01T14:58:13+00:00",
+    "ai_summary": "Racket 프로그래밍 언어의 연례 컨퍼런스인 RacketCon이 이번 주 토요일에 개최됩니다.\n새로운 기능, 라이브러리, 사용 사례 등 Racket 생태계의 최신 동향을 공유합니다.\nRacket 개발자 및 함수형 프로그래밍에 관심 있는 이들에게 중요한 행사입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49911500",
+    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+    "url": "https://news.ycombinator.com/item?id=49911500",
+    "discussion_url": "https://news.ycombinator.com/item?id=49911500",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-09-30T16:58:24+00:00",
+    "ai_summary": "코딩 에이전트를 위한 오픈소스 모델 라우팅 솔루션이 Astra급 성능을 목표로 공개되었습니다.\n다양한 LLM을 효율적으로 관리하고 최적의 모델을 선택하여 코딩 작업의 정확도와 속도를 향상시킵니다.\nAI 기반 개발 도구 및 LLM 애플리케이션 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49922437",
+    "title": "Context Language Models",
+    "url": "https://arxiv.org/abs/2609.37725",
+    "discussion_url": "https://news.ycombinator.com/item?id=49922437",
+    "summary": "",
+    "score": 108,
+    "published_at": "2026-10-01T14:51:33+00:00",
+    "ai_summary": "기존 LLM의 한계인 긴 컨텍스트 처리 능력을 개선하는 새로운 '컨텍스트 언어 모델' 개념을 다룹니다.\n모델이 더 넓은 범위의 정보를 이해하고 추론할 수 있게 하여 복잡한 작업을 수행하는 데 도움을 줍니다.\nLLM 연구자 및 개발자에게 중요한 발전 방향을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49922568",
+    "title": "Ask HN: Who wants to be hired? (October 2026)",
+    "url": "https://news.ycombinator.com/item?id=49922568",
+    "discussion_url": "https://news.ycombinator.com/item?id=49922568",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-10-01T15:02:07+00:00",
+    "ai_summary": "해커뉴스(HN)의 정기 구인/구직 게시물로, 2026년 10월에 채용을 원하는 개발자들을 위한 글입니다.\n자신의 기술 스택과 경력을 소개하고 잠재적 고용주와 연결될 수 있는 기회를 제공합니다.\n개발자들의 커리어 탐색 및 네트워킹에 필수적인 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49920896",
+    "title": "How to speed up the Rust compiler in September 2026",
+    "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920896",
+    "summary": "",
+    "score": 231,
+    "published_at": "2026-10-01T12:44:38+00:00",
+    "ai_summary": "Rust 컴파일러의 속도를 향상시키는 방법에 대한 가이드로, 2026년 9월 최신 정보를 반영합니다.\n빌드 시간 단축을 위한 다양한 팁과 도구, 기법들을 소개합니다.\nRust 개발 생산성을 높이고 싶은 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49919910",
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-10-01T10:21:36+00:00",
+    "ai_summary": "이 기사는 GPT 기술이 칩 설계 분야에 혁신을 가져올 가능성에 대해 다룹니다.\nSynopsys와 같은 EDA 도구에 AI를 통합하여 설계 프로세스를 가속화하고 최적화할 수 있습니다.\n이는 복잡한 반도체 개발 주기를 단축하고 엔지니어링 생산성을 크게 향상시킬 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49928148",
+    "title": "Personal Computing 2.0: It's time for a personal computing revolution",
+    "url": "https://ideas.imbue.com/p/personal-computing-20",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928148",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-10-01T23:15:06+00:00",
+    "ai_summary": "개인 컴퓨팅의 새로운 시대, '개인 컴퓨팅 2.0'의 도래와 혁신적인 변화의 필요성을 강조합니다.\n이는 AI와 새로운 인터페이스 기술을 통해 사용자와 컴퓨터 간의 상호작용 방식을 근본적으로 재정의할 것입니다.\n미래 개인 컴퓨팅은 더욱 직관적이고 개인화된 경험을 제공하며, 개발자들에게 새로운 애플리케이션 기회를 열어줄 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Frontend"
+    ]
+  }
+]
