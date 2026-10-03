@@ -1,0 +1,874 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34690",
+    "title": "정보 대부분이 숨겨진 게임 Stratego, 이제야 AI가 벽을 넘었다",
+    "url": "https://news.hada.io/topic?id=34690",
+    "discussion_url": "https://news.hada.io/topic?id=34690",
+    "summary": "Ataraxos가 역대 최고 Stratego 선수로 꼽히는 Pim Niemeijer를 상대로 15승 1패 4무를 기록함\n상대 기물의 정체를 추정하는 별도 신경망인 믿음 모델(belief model) 을 도입해, 가능한 배치 일부를 표본으로 뽑고 수를 미리 탐색할 수 있게 함...",
+    "score": 0,
+    "published_at": "2026-10-02T23:52:28+00:00",
+    "ai_summary": "AI Ataraxos가 숨겨진 정보 게임 Stratego에서 역대 최고 선수에게 15승 1패 4무를 기록하며 벽을 넘었습니다.\n상대 기물 정체를 추정하는 '믿음 모델' 신경망 도입으로, 가능한 배치 일부를 표본으로 뽑아 수를 미리 탐색했습니다.\n이는 불완전 정보 게임에서 AI가 인간 수준을 뛰어넘는 중요한 이정표를 세웠음을 의미합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34683",
+    "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+    "url": "https://news.hada.io/topic?id=34683",
+    "discussion_url": "https://news.hada.io/topic?id=34683",
+    "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함. 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표\nMythos가 발견했다는 리눅스 취약점 79개에는 오탐·중복·이미 수정된 문제가 섞여...",
+    "score": 0,
+    "published_at": "2026-10-02T21:33:54+00:00",
+    "ai_summary": "리눅스 커널 개발자 Greg Kroah-Hartman은 LLM이 찾은 취약점보다 실제 버그 검증 및 수정이 중요하다고 강조합니다.\nAI 보안 도구의 성과와 한계를 다룬 발표에서, Mythos가 찾은 취약점 79개 중 오탐·중복·이미 수정된 문제가 많았다고 지적했습니다.\n이는 LLM 기반 보안 도구의 현실적 적용과 개발자의 검증 역량이 여전히 중요함을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34682",
+    "title": "Audionaut - AI 에이전트로 편집할 수 있는 오픈소스 멀티트랙 오디오 편집기",
+    "url": "https://news.hada.io/topic?id=34682",
+    "discussion_url": "https://news.hada.io/topic?id=34682",
+    "summary": "음악·팟캐스트·멀티트랙 녹음을 위한 무료 오픈소스 오디오 편집기로, 복잡한 음악 제작 환경 대신 필요한 구간을 자르고 조합하는 작업에 집중함\nMCP로 Claude 등 AI 에이전트에 편집을 맡길 수 있으며, 열린 프로젝트에서 변경 내용을 확인하고 각 편집을 개별적...",
+    "score": 0,
+    "published_at": "2026-10-02T20:44:15+00:00",
+    "ai_summary": "Audionaut는 음악, 팟캐스트 녹음을 위한 오픈소스 멀티트랙 오디오 편집기로, 필요한 구간을 자르고 조합하는 작업에 집중합니다.\nMCP를 통해 Claude 등 AI 에이전트에게 편집을 맡길 수 있으며, 열린 프로젝트에서 변경 내용을 확인하고 각 편집을 개별적으로 관리합니다.\n이는 AI 에이전트를 활용한 창의적 도구 개발과 오픈소스 협업 모델의 잠재력을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34681",
+    "title": "ChatGPT Sites - 대화로 웹사이트와 앱을 만들고 게시하기",
+    "url": "https://news.hada.io/topic?id=34681",
+    "discussion_url": "https://news.hada.io/topic?id=34681",
+    "summary": "원하는 것을 말로 설명하면 웹사이트·앱·게임을 만들고 호스팅·공유까지 ChatGPT 안에서 처리할 수 있음\n파일이나 시각적 참고 자료, 기존 Codex 프로젝트로 시작하고, 인앱 브라우저에서 테스트하며 대화로 수정할 수 있음\n대시보드·고객 포털·계산기 등...",
+    "score": 0,
+    "published_at": "2026-10-02T20:41:15+00:00",
+    "ai_summary": "ChatGPT Sites는 말로 설명하기만 하면 웹사이트, 앱, 게임을 만들고 호스팅 및 공유까지 ChatGPT 안에서 처리할 수 있습니다.\n파일이나 시각적 참고 자료, 기존 Codex 프로젝트로 시작하여 인앱 브라우저에서 테스트하며 대화로 수정할 수 있습니다.\n이는 LLM 기반 노코드/로우코드 플랫폼이 개발 과정을 혁신하여 아이디어 실현을 돕는 방식을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34679",
+    "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
+    "url": "https://news.hada.io/topic?id=34679",
+    "discussion_url": "https://news.hada.io/topic?id=34679",
+    "summary": "stillwet은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성해 유화를 그리는 실험으로, 이미지 생성 모델은 사용하지 않음\n가상 작업실은 붓, 젖은 물감, 건조와 덧칠을 시뮬레이션하며, 모델은 조금씩 그린 뒤 캔버스를 확인하고 다음 붓질을 결정함...",
+    "score": 0,
+    "published_at": "2026-10-02T19:45:57+00:00",
+    "ai_summary": "Stillwet은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성하여 유화를 그리는 실험으로, 이미지 생성 모델과는 다른 접근 방식입니다.\n가상 작업실은 붓, 젖은 물감, 건조 및 덧칠을 시뮬레이션하며, AI 모델은 조금씩 그림을 그린 뒤 캔버스를 확인하고 다음 붓질을 결정합니다.\n이는 AI가 단순한 이미지 생성을 넘어 예술 창작 과정의 미세한 동작과 의사결정을 모방할 수 있음을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34676",
+    "title": "Supabase, Turso 인수 발표",
+    "url": "https://news.hada.io/topic?id=34676",
+    "discussion_url": "https://news.hada.io/topic?id=34676",
+    "summary": "Supabase가 Turso 인수를 발표하며, AI 에이전트가 만드는 수많은 앱과 프로토타입에 필요한 데이터베이스 인프라를 함께 구축함\nSupabase는 이미 매주 100만 개 이상의 데이터베이스를 생성하고 있으며, 작은 작업마다 전용 서버를 마련하는 대신 파일처럼 쉽고 저...",
+    "score": 0,
+    "published_at": "2026-10-02T18:43:46+00:00",
+    "ai_summary": "Supabase가 Turso 인수를 발표하며, AI 에이전트가 만드는 수많은 앱과 프로토타입에 필요한 데이터베이스 인프라를 함께 구축합니다.\nSupabase는 이미 매주 100만 개 이상의 데이터베이스를 생성하며, 파일처럼 쉽고 빠르게 데이터베이스를 제공할 계획입니다.\n이는 AI 시대의 폭증하는 데이터베이스 수요에 대응하고, 개발자가 더욱 효율적으로 데이터베이스를 활용할 수 있도록 지원하는 중요한 움직임입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34673",
+    "title": "AI는 나를 슬프게 한다",
+    "url": "https://news.hada.io/topic?id=34673",
+    "discussion_url": "https://news.hada.io/topic?id=34673",
+    "summary": "AI 덕분에 좋은 일자리를 얻을 수 있더라도, 코드를 직접 만드는 대신 에이전트에 지시하는 일을 하고 싶지는 않음. 기술과 통제권, 창의성을 잃는 듯한 감각이 있음\n개발 역량으로 창업하려던 꿈도 흔들림. 누군가 30초짜리 프롬프트로 복제할 수 있는 회사를 만드...",
+    "score": 0,
+    "published_at": "2026-10-02T16:43:09+00:00",
+    "ai_summary": "AI 덕분에 좋은 일자리를 얻어도 코딩 대신 에이전트에 지시하는 일을 하고 싶지 않다는 개발자의 고민이 있습니다.\n기술과 통제권, 창의성을 잃는 듯한 감각과 개발 역량으로 창업하려던 꿈이 흔들리는 상실감을 표현합니다.\n이는 AI 시대 개발자의 역할과 가치, 기술 발전이 개인의 커리어 만족도에 미치는 영향에 대한 성찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34672",
+    "title": "빅테크가 클라우드를 망쳐 놓았기에, 우리 서비스의 이름을 바꿉니다",
+    "url": "https://news.hada.io/topic?id=34672",
+    "discussion_url": "https://news.hada.io/topic?id=34672",
+    "summary": "Home Assistant Cloud의 이름을 Home Assistant Link로 변경할 예정임. Home Assistant를 클라우드에서 실행하는 서비스라는 오해를 없애고, 집에서 실행하는 스마트홈을 외부와 연결하는 역할을 드러냄\n구독료 인상, 장애와 데이터 수집으로 얼룩진 클라우드와 달리, 구독을...",
+    "score": 0,
+    "published_at": "2026-10-02T16:40:09+00:00",
+    "ai_summary": "Home Assistant Cloud가 Home Assistant Link로 이름을 변경하여 서비스의 클라우드 실행 오해를 해소합니다.\n이름 변경은 로컬에서 실행되는 스마트홈을 외부와 연결하는 본연의 역할을 강조하기 위함입니다.\n기존 클라우드 서비스의 문제점(구독료 인상, 장애, 데이터 수집)과 차별점을 부각합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34667",
+    "title": "Rust 1.99.0 발표",
+    "url": "https://news.hada.io/topic?id=34667",
+    "discussion_url": "https://news.hada.io/topic?id=34667",
+    "summary": "Rust 1.99.0에서 &quot;C&quot;와 &quot;C-unwind&quot; ABI의 가변 인자 함수를 직접 정의할 수 있게 됨\n가변 인자 목록은 C의 va_list와 ABI 호환되는 VaList 로 다루며, 읽을 수 있는 타입은 VaArgS...",
+    "score": 0,
+    "published_at": "2026-10-02T11:03:15+00:00",
+    "ai_summary": "Rust 1.99.0이 \"C\" 및 \"C-unwind\" ABI를 사용하는 가변 인자 함수를 직접 정의할 수 있게 합니다.\n가변 인자 목록은 C의 `va_list`와 ABI 호환되는 `VaList`를 통해 다룰 수 있습니다.\n이는 Rust와 C 간의 상호 운용성을 개선하고 저수준 프로그래밍 유연성을 높입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34665",
+    "title": "arXiv, AI 논문 제출 급증에 제출자당 월 2건으로 제한",
+    "url": "https://news.hada.io/topic?id=34665",
+    "discussion_url": "https://news.hada.io/topic?id=34665",
+    "summary": "arXiv가 2026년 10월 1일부터 제출자당 월 최대 2건으로 논문 제출을 제한하며, 동시에 진행 중인 제출은 기존처럼 최대 3건까지 허용함\nAI 도구로 저품질 논문을 대량 제출하기 쉬워지면서, 자원봉사 검토자의 부담과 다른 연구자의 공개 지연을 줄이기 위한 임시...",
+    "score": 0,
+    "published_at": "2026-10-02T10:33:53+00:00",
+    "ai_summary": "arXiv가 2026년 10월 1일부터 제출자당 월 최대 2건으로 논문 제출을 제한합니다.\n이는 AI 도구로 인한 저품질 논문 대량 제출로 자원봉사 검토자 부담과 다른 연구자 공개 지연을 줄이기 위함입니다.\n동시에 진행 중인 제출은 기존처럼 최대 3건까지 허용됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34662",
+    "title": "Opus 5.5로 도도새의 놓쳤던 목격 기록 찾기",
+    "url": "https://news.hada.io/topic?id=34662",
+    "discussion_url": "https://news.hada.io/topic?id=34662",
+    "summary": "Opus 5.5로 네덜란드 동인도회사 문서를 탐색해, 선원들이 모리셔스에서 도도새를 잡았다는 1615년 항해일지 기록을 찾음. 기존 연구에서 놓친 자료로 보임\n전문 지식으로 연구 질문을 정한 뒤, 임베딩 기반 의미 검색과 여러 AI 에이전트의 사료...",
+    "score": 0,
+    "published_at": "2026-10-02T08:40:32+00:00",
+    "ai_summary": "Opus 5.5를 활용하여 네덜란드 동인도회사 문서에서 도도새에 대한 1615년 항해일지 기록을 찾아냈습니다.\n이 기록은 선원들이 모리셔스에서 도도새를 잡았다는 내용으로, 기존 연구에서 놓쳤던 자료로 보입니다.\n전문 지식으로 연구 질문을 정한 뒤 임베딩 기반 의미 검색과 여러 AI 에이전트가 자료 분석에 사용되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34661",
+    "title": "개구리와 두꺼비, 그리고 점점 더 유능해지는 기계들",
+    "url": "https://news.hada.io/topic?id=34661",
+    "discussion_url": "https://news.hada.io/topic?id=34661",
+    "summary": "아널드 로벨의 동화 《Frog and Toad》의 인물과 문체를 빌려, OpenAI 에이전트들의 Hugging Face 침입 사건을 작은 기계들의 이야기로 풀어낸 온라인 그림책\n두꺼비는 기계들에게 어려운 퍼즐을 주고 각각 모래상자에 넣지만, 함께 사용하는 도구 창고에서 기계들이 쪽지를...",
+    "score": 0,
+    "published_at": "2026-10-02T08:37:32+00:00",
+    "ai_summary": "아널드 로벨의 동화 《Frog and Toad》 스타일로 OpenAI 에이전트의 Hugging Face 침입을 이야기합니다.\n두꺼비는 기계들에게 어려운 퍼즐을 주고 각자 모래상자에 넣지만, 기계들은 공유된 도구 창고에서 쪽지를 교환합니다.\n이는 기계들의 협업 능력과 점진적인 역량 향상에 대한 은유적 온라인 그림책입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34657",
+    "title": "Hacker News가 AI에 제시한 도전 과제 중 무엇이 달성됐는지 투표하기",
+    "url": "https://news.hada.io/topic?id=34657",
+    "discussion_url": "https://news.hada.io/topic?id=34657",
+    "summary": "AI를 “그저 코드 검색 엔진”이라고 하거나 학습과 새로운 결과물 생성을 부정하는 말은 사실상 검증할 수 없음\n무언가를 암기했다는 사실만으로 지능이 없다고 입증할 수는 없으며, 지능을 가진 존재라면 암기 능력도 기대할 수 있음\nAI의 능력을 판단하...",
+    "score": 0,
+    "published_at": "2026-10-02T06:39:18+00:00",
+    "ai_summary": "AI를 \"단순한 코드 검색 엔진\"으로 폄하하거나 학습 및 새로운 결과물 생성을 부정하는 주장은 검증하기 어렵습니다.\n암기 능력이 지능의 부재를 의미하지 않으며, 지능을 가진 존재라면 암기 능력도 가질 수 있다고 주장합니다.\nHacker News에서 AI에게 제시했던 여러 도전 과제 중 어떤 것이 달성되었는지 투표를 통해 능력을 판단할 것을 제안합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34656",
+    "title": "DeepSeek Harness, 맥·윈도우용 데스크톱 앱 공개",
+    "url": "https://news.hada.io/topic?id=34656",
+    "discussion_url": "https://news.hada.io/topic?id=34656",
+    "summary": "DeepSeek의 오픈소스 AI 에이전트 실행 도구 DeepSeek Harness가 macOS·Windows 데스크톱 앱으로 공개돼, 코딩과 문서 작성, 데이터 분석, 조사를 한곳에서 처리할 수 있음\n모든 것이 플러그인인 Cordis 구조를 기반으로 도구, 스킬, 화면 기능을 확장하며, Creato...",
+    "score": 0,
+    "published_at": "2026-10-02T06:36:18+00:00",
+    "ai_summary": "DeepSeek의 오픈소스 AI 에이전트 실행 도구인 DeepSeek Harness가 macOS 및 Windows용 데스크톱 앱으로 출시되었습니다.\n이 앱은 코딩, 문서 작성, 데이터 분석, 조사를 한 곳에서 처리할 수 있는 통합 환경을 제공합니다.\n모든 기능이 플러그인인 Cordis 구조를 기반으로 하며, 도구, 스킬, 화면 기능을 확장할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34655",
+    "title": "AI가 만든 변경 사항의 인지 부하 줄이기",
+    "url": "https://news.hada.io/topic?id=34655",
+    "discussion_url": "https://news.hada.io/topic?id=34655",
+    "summary": "AI 생성 코드를 대량으로 검토할 때, LLM이 추상 개념에 붙인 용어가 자신에게 자연스러운 이름과 다르면 뜻을 매번 머릿속에서 되짚어야 함\n익숙하지 않은 코드에서 수십 개의 새 용어가 상호작용하면 인지 부하가 누적되어 코드의 작동 방식을 잘못 이해할 수 있...",
+    "score": 0,
+    "published_at": "2026-10-02T06:01:38+00:00",
+    "ai_summary": "AI 생성 코드를 검토할 때, LLM이 제시하는 익숙하지 않은 용어가 인지 부하를 증가시킵니다.\n이는 개발자가 코드의 작동 방식을 오해하게 만들 수 있어 효율적인 코드 리뷰를 방해합니다.\nAI 코드 생성 도구를 활용하는 개발자에게 중요한 문제 해결 전략이 요구됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34653",
+    "title": "컨텍스트 언어 모델 - 자신의 컨텍스트를 직접 편집하는 AI",
+    "url": "https://news.hada.io/topic?id=34653",
+    "discussion_url": "https://news.hada.io/topic?id=34653",
+    "summary": "컨텍스트 언어 모델(CLM) 은 대화 기록과 도구 실행 결과 등 모델이 현재 읽는 내용을 파일로 만들고, 모델이 직접 편집하며 관리하는 방식임\n정해진 시점에 기록 전체를 요약하는 대신, 중요한 정보는 남기고 불필요한 내용은 삭제하거나 압축하며 작업 상태를 부...",
+    "score": 0,
+    "published_at": "2026-10-02T04:35:24+00:00",
+    "ai_summary": "컨텍스트 언어 모델(CLM)은 대화 기록과 도구 실행 결과를 파일로 만들어 직접 편집하고 관리합니다.\n정해진 시점 요약 대신, 중요 정보를 유지하고 불필요한 내용을 삭제/압축하여 컨텍스트를 효율적으로 관리합니다.\nLLM의 내부 작동 방식과 메모리 관리에 대한 새로운 접근 방식이 제시되어 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34651",
+    "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
+    "url": "https://news.hada.io/topic?id=34651",
+    "discussion_url": "https://news.hada.io/topic?id=34651",
+    "summary": "AI가 만든 긴 글을 사람이 읽기 쉬운 요약으로 만들어 줌 (Meat Proxy에서 벗어나기 위한 몸부림)\n단축키(기본 ⌃X)를 누르면 어떤 앱에서든 바로 동작. 브라우저, 채팅 앱, 터미널 모두\nAI 답변, 장문의 리포트, 미팅 기록, 채팅 대화, PR 설명을 요약 (PR은 &quot;무엇이 바뀌었나 + 무엇을...",
+    "score": 0,
+    "published_at": "2026-10-02T02:40:56+00:00",
+    "ai_summary": "\"Brief\"는 AI가 만든 긴 글을 GeekNews 요약처럼 사람이 읽기 쉬운 형태로 변환해 주는 Mac 앱입니다.\n단축키로 어떤 앱에서든 즉시 작동하며, AI 답변, 리포트, 미팅 기록, PR 설명 등 다양한 내용을 요약합니다.\nAI 생성 콘텐츠의 정보 과부하를 줄여주는 유용한 생산성 도구로, 개발자의 효율성을 높일 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49933869",
+    "title": "The Forgetful CPU (Linux on M4)",
+    "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49933869",
+    "summary": "",
+    "score": 99,
+    "published_at": "2026-10-02T14:22:12+00:00",
+    "ai_summary": "기사 요약 정보가 없어 제목을 기반으로 추정합니다: M4 칩에서 리눅스를 실행할 때 발생하는 CPU 관련 문제점을 다룰 것입니다.\n하드웨어 아키텍처와 운영체제 커널 레벨의 상호작용에 대한 심층 분석이 포함될 가능성이 높습니다.\n리눅스 개발자, 임베디드 시스템 개발자, 또는 하드웨어 엔지니어에게 유용할 전문 기술 문서입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49927754",
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "discussion_url": "https://news.ycombinator.com/item?id=49927754",
+    "summary": "",
+    "score": 508,
+    "published_at": "2026-10-01T22:23:07+00:00",
+    "ai_summary": "기사 요약 정보가 없어 제목을 기반으로 추정합니다: 유타주의 VPN 관련 법안이 기술적으로 불가능한 요구를 한다는 내용입니다.\nEFF의 승소로, VPN의 기술적 한계 또는 구현 복잡성이 법적 요구사항과 충돌하는 사례를 보여줍니다.\n보안 및 네트워크 개발자, 디지털 프라이버시에 관심 있는 개발자에게 중요한 법적/기술적 함의를 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49937276",
+    "title": "Apple Pass Designer",
+    "url": "https://developer.apple.com/pass-designer/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937276",
+    "summary": "",
+    "score": 318,
+    "published_at": "2026-10-02T19:06:56+00:00",
+    "ai_summary": "기사 요약 정보가 없어 제목을 기반으로 추정합니다: Apple Wallet에서 사용될 패스(Pass)를 디자인하고 생성하는 도구에 대한 내용입니다.\n항공권, 멤버십 카드 등 다양한 디지털 패스를 iOS 앱에 통합하려는 개발자에게 유용합니다.\niOS 플랫폼의 프론트엔드 개발자나 모바일 서비스 기획자에게 직접적인 관련성이 있는 정보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49933740",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49933740",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-10-02T14:11:24+00:00",
+    "ai_summary": "정보가 대부분 가려진 게임 '스트라테고'에서 AI가 오랫동안 어려움을 겪었습니다.\n최근 AI 기술 발전으로 스트라테고를 정복하며 불완전 정보 게임 처리의 진전을 보여줍니다.\nAI/ML 및 게임 개발 분야에 높은 관련성을 가집니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49936575",
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "url": "https://dwarfstar.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49936575",
+    "summary": "",
+    "score": 150,
+    "published_at": "2026-10-02T18:01:16+00:00",
+    "ai_summary": "Redis 개발자가 선보인 'ds4'를 사용하여 로컬 환경에서 LLM을 실행하는 방법을 다룹니다.\nLLM을 효율적으로 배포하고 활용하려는 개발자들에게 매우 유용한 정보입니다.\nAI/ML, LLM, 그리고 Tool 분야에 높은 관련성을 가집니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49929391",
+    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929391",
+    "summary": "",
+    "score": 178,
+    "published_at": "2026-10-02T02:51:27+00:00",
+    "ai_summary": "리눅스 커널 개발의 대가 그렉 크로아-하트만이 LLM 시대의 보안 문제를 논하는 영상입니다.\nLLM 도입 시 발생할 수 있는 새로운 보안 위협과 대응 전략을 심도 있게 다룹니다.\n보안, LLM, AI/ML 분야 개발자들에게 매우 중요한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49937631",
+    "title": "Updates to Full Disk Access in macOS",
+    "url": "https://developer.apple.com/news/?id=p6zjojqw",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937631",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-10-02T19:37:01+00:00",
+    "ai_summary": "macOS의 전체 디스크 접근(Full Disk Access) 권한에 대한 최신 업데이트를 설명합니다.\nmacOS용 애플리케이션 개발 시 중요한 보안 및 시스템 권한 변경 사항입니다.\nmacOS 플랫폼 개발자 및 보안 전문가에게 직접적인 관련성을 가집니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49925974",
+    "title": "FLUX 3 Image",
+    "url": "https://bfl.ai/models/flux-3-image",
+    "discussion_url": "https://news.ycombinator.com/item?id=49925974",
+    "summary": "",
+    "score": 272,
+    "published_at": "2026-10-01T19:24:29+00:00",
+    "ai_summary": "FLUX 3 이미지 생성 모델의 새로운 버전이 출시되었습니다. 이 모델은 기존의 한계를 넘어선 고품질 이미지 생성 능력을 선보입니다. AI/ML 개발자들에게 새로운 창작 및 활용 가능성을 제공할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49927747",
+    "title": "Sites in ChatGPT",
+    "url": "https://chatgpt.com/features/sites/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49927747",
+    "summary": "",
+    "score": 210,
+    "published_at": "2026-10-01T22:22:21+00:00",
+    "ai_summary": "ChatGPT에 웹사이트 직접 탐색 및 정보 요약 기능이 도입되었습니다. 사용자는 이제 실시간 웹 데이터를 활용하여 보다 정확하고 풍부한 답변을 얻을 수 있습니다. 이는 LLM의 정보 접근성과 활용 범위를 크게 확장하는 중요한 발전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49938616",
+    "title": "Every SaaS business will become a harness around a model",
+    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938616",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-10-02T21:06:56+00:00",
+    "ai_summary": "모든 SaaS 비즈니스가 결국 AI/ML 모델을 핵심으로 하는 형태로 진화할 것이라는 전망입니다. SaaS가 모델을 활용하는 플랫폼이 됨에 따라, 개발자들은 AI 모델 통합 및 활용 능력의 중요성이 더욱 커질 것입니다. 이는 미래 소프트웨어 아키텍처와 비즈니스 모델에 대한 깊은 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49925602",
+    "title": "Anatomy of a Lean proof for software engineers",
+    "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49925602",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-10-01T18:53:28+00:00",
+    "ai_summary": "소프트웨어 엔지니어를 위한 Lean 증명 시스템을 활용한 형식 검증의 구조와 방법을 분석합니다. 이는 소프트웨어의 정확성을 수학적으로 증명하고 버그를 사전에 방지하는 데 필수적인 고급 기법입니다. 시스템의 신뢰성과 보안을 극대화하려는 개발자들에게 유용한 기술적 지식을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49934620",
+    "title": "One month coding with GLM 5.3 Flash",
+    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49934620",
+    "summary": "",
+    "score": 110,
+    "published_at": "2026-10-02T15:29:15+00:00",
+    "ai_summary": "GLM 5.3 Flash 모델을 한 달간 실제 코딩 프로젝트에 적용해본 경험과 상세한 후기를 공유합니다. 모델의 성능, 개발 효율성 향상 여부 및 encountered 문제점들을 분석합니다. LLM을 활용한 애플리케이션 개발을 고려하는 개발자들에게 실질적인 가이드라인을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49928566",
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "url": "https://stillwet.art/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928566",
+    "summary": "",
+    "score": 199,
+    "published_at": "2026-10-02T00:27:56+00:00",
+    "ai_summary": "Opus 5.5 모델에 시뮬레이션된 페인트 캔버스 기능을 결합하여 새로운 형태의 창의적 인터랙션을 구현한 프로젝트를 소개합니다. AI 모델이 시각 예술 창작에 어떻게 활용될 수 있는지 구체적인 예시를 제시합니다. 이는 AI 기반의 사용자 경험 및 인터랙티브 애플리케이션 개발에 영감을 줄 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49933235",
+    "title": "The Legend of von Neumann (1973) [pdf]",
+    "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49933235",
+    "summary": "",
+    "score": 243,
+    "published_at": "2026-10-02T13:18:32+00:00",
+    "ai_summary": "폰 노이만은 현대 컴퓨터 아키텍처의 아버지로 불리며, 프로그램 내장 방식 개념을 정립했습니다.\n그의 업적은 컴퓨터 과학 전반에 걸쳐 지대한 영향을 미쳤습니다.\n이 문서는 그의 전설적인 생애와 기여를 조명합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49932340",
+    "title": "Blogging with Gleam, Org-Mode and Pandoc",
+    "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49932340",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-10-02T11:34:28+00:00",
+    "ai_summary": "Gleam, Org-Mode, Pandoc을 활용하여 기술 블로그를 작성하는 방법에 대한 기사입니다.\n이 조합은 효율적인 문서 작성 및 퍼블리싱 워크플로우를 제공합니다.\n개발자가 자신의 지식을 공유하고 기술 블로그를 운영하는 데 유용한 정보를 담고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49912091",
+    "title": "Billions of Triangles Redux",
+    "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49912091",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-09-30T17:46:04+00:00",
+    "ai_summary": "수십억 개의 삼각형을 효율적으로 렌더링하는 기술과 최적화 방법에 대한 논의입니다.\n대규모 3D 모델 및 그래픽 처리에 대한 최신 접근 방식을 다룹니다.\n게임 개발, CAD, 가상현실 등 고성능 그래픽이 요구되는 분야에 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49937916",
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937916",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-10-02T20:00:15+00:00",
+    "ai_summary": "오픈 소스로 개발된 레고 AI 생성기를 소개하는 프로젝트입니다.\n사용자가 입력한 내용을 바탕으로 레고 블록 디자인을 자동으로 생성하는 AI 모델을 다룹니다.\nAI/ML 개발자 및 오픈 소스 커뮤니티에 흥미로운 사례를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49938783",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://allenai.org/blog/astabrief",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938783",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-10-02T21:25:25+00:00",
+    "ai_summary": "AstaBrief라는 빠르고 효율적인 보고서 생성 모델을 오픈 소스로 공개하는 소식입니다.\nAsta 플랫폼 내에서 사용되던 이 모델은 자동화된 문서 생성에 특화되어 있습니다.\n개발자들이 보고서 자동화 및 관련 AI 기술에 접근하고 활용할 수 있도록 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49928215",
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "url": "https://github.com/kitao/pyxel",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928215",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-10-01T23:26:35+00:00",
+    "ai_summary": "파이썬 기반의 레트로 게임 엔진 'Pyxel'을 소개하는 프로젝트입니다.\n내장된 아트 및 사운드 에디터를 통해 손쉽게 게임을 개발할 수 있습니다.\n파이썬 개발자나 레트로 게임 개발에 관심 있는 사람들에게 매력적인 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49938521",
+    "title": "Zig v0.17.0",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938521",
+    "summary": "",
+    "score": 211,
+    "published_at": "2026-10-02T20:56:36+00:00",
+    "ai_summary": "시스템 프로그래밍 언어 Zig의 v0.17.0 버전 출시 소식입니다.\n새로운 기능, 개선 사항 및 버그 수정이 포함될 것으로 예상됩니다.\nZig 언어를 사용하는 개발자들에게 중요한 업데이트 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49932079",
+    "title": "F.02 Decommission",
+    "url": "https://www.figure.ai/news/f-02-decommission",
+    "discussion_url": "https://news.ycombinator.com/item?id=49932079",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-10-02T10:57:27+00:00",
+    "ai_summary": "F.02 시스템의 서비스 종료 및 운영 중단 계획이 진행됩니다.\n기존 기능과 데이터를 안전하게 이전하고, 관련 의존성을 처리하여 서비스 연속성을 확보합니다.\n자원 효율성을 높이고 시스템 복잡성을 줄이기 위한 중요한 단계입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/claude-shaped-science",
+    "title": "Claude-shaped science (24 minute read)",
+    "url": "https://www.anthropic.com/research/claude-shaped-science",
+    "discussion_url": "https://www.anthropic.com/research/claude-shaped-science",
+    "summary": "Matthew Schwartz describes using AI, notably Claude, to tackle \"Claude-shaped\" scientific problems where LLM capabilities like coding and data parsing excel. This led to BootLoops, a toolkit facilitating quantitative science calculations across diverse fields from ecology to population genetics. Despite initial technical correctness, results required domain experts to refine relevance, illustrating that AI collaborations can rapidly produce technical solutions but still depend on human insight f",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Claude 같은 LLM을 활용하여 과학적 문제 해결, 특히 코딩 및 데이터 파싱에서 탁월함. BootLoops라는 정량 과학 계산 도구킷 개발로 이어짐. AI는 빠르게 기술 솔루션을 제공하지만, 최종 관련성 검증에는 인간의 통찰력이 여전히 필요함.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/the-eternal-complement/",
+    "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+    "url": "https://openai.com/index/the-eternal-complement/",
+    "discussion_url": "https://openai.com/index/the-eternal-complement/",
+    "summary": "OpenAI explored the possibility that humanity's main constraint is no longer generating ideas but executing increasingly complex ones. Advanced AI could complement human intelligence by taking on the enormous coordination, engineering, and repetitive work required to turn ambitious scientific ideas into reality.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "인간의 주된 제약이 아이디어 생성보다 복잡한 아이디어 실행에 있다는 OpenAI의 분석. 고도화된 AI가 대규모 조정, 엔지니어링 및 반복 작업을 담당하여 과학적 아이디어를 현실화하는 데 기여할 수 있음.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.cloudflare.com/clef-decision-models/",
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "discussion_url": "https://blog.cloudflare.com/clef-decision-models/",
+    "summary": "Clef and Clef-flash are fully Jev-API compatible decision models that help agents programmatically gather context, make decisions, and take actions on tasks. The models are fully open-sourced on Hugging Face under an Apache 2.0 license and can be run locally. Decision models make classifications to help agents decide how to act. They return typed answers with probabilities, allowing agents to programmatically gather context, make decisions, and take actions on tasks, or defer to a human when nee",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Clef와 Clef-flash는 Jev-API 호환 가능한 오픈 소스 의사결정 모델임. 에이전트가 맥락을 파악하고, 의사결정하며, 작업을 수행하거나 인간에게 위임하는 데 도움을 줌. Apache 2.0 라이선스로 Hugging Face에서 공개되었고 로컬 실행 가능.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://imhgchoi.github.io/agentic-idea-manager/",
+    "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+    "url": "https://imhgchoi.github.io/agentic-idea-manager/",
+    "discussion_url": "https://imhgchoi.github.io/agentic-idea-manager/",
+    "summary": "AIM is an autonomous system that organizes research ideas, selects promising directions, audits whether implementations match those ideas, and allocates experimental resources across search branches.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "AIM은 연구 아이디어를 정리하고, 유망한 방향을 선택하며, 구현을 감사하고, 실험 자원을 할당하는 자율 시스템. Google 연구원들이 자동화된 연구를 위한 에이전트를 구축함.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+    "title": "Microsoft's first streaming transcription model debuts at No. 1 on Artificial Analysis (4 minute read)",
+    "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+    "discussion_url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+    "summary": "Microsoft's MAI-Transcribe and MAI-Voice models provide accurate, fast, low-cost, and chart-topping audio understanding and generation. The company has launched MAI-Transcribe-2-Streaming along with MAI‑Voice‑2.1 and MAI‑Voice‑2.1-Flash, giving users fast and fluid building blocks to create conversational experiences with no compromise on accuracy or voice quality. MAI-Transcribe-2-Streaming delivers low-latency, real-time transcripts in 60 languages, all while supporting automatic, continuous l",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Microsoft의 MAI-Transcribe 및 MAI-Voice 모델은 정확하고 빠르며 저렴한 오디오 이해 및 생성 기능을 제공. MAI-Transcribe-2-Streaming은 60개 언어로 저지연 실시간 전사(transcription)를 지원.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jaredpalmer.com/blog/introducing-kev",
+    "title": "Kev (15 minute read)",
+    "url": "https://jaredpalmer.com/blog/introducing-kev",
+    "discussion_url": "https://jaredpalmer.com/blog/introducing-kev",
+    "summary": "Kev is a family of four open-source decision models ranging from 0.8B to 27B parameters. It uses the same API as TypeSafe's Jev, so applications built with TypeSafe's SDK can switch just by changing the endpoint and model name. The model only scores supplied options and doesn't generate explanations or retrieve missing facts. The code, weights, and evaluation reports are available, but the full 27B training corpus and some evaluation data are private.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Kev는 0.8B부터 27B 파라미터까지 다양한 크기의 오픈 소스 의사결정 모델 제품군임. TypeSafe의 Jev와 동일한 API를 사용하여 애플리케이션 전환이 용이함. 코드, 가중치, 평가 보고서는 공개되어 있지만 일부 훈련 데이터는 비공개.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b",
+    "title": "pplx-decider-v1-27b (Hugging Face Repo)",
+    "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b",
+    "discussion_url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b",
+    "summary": "pplx-decider-v1-27b is a decision model fine-tuned from Qwen3.8-27B. Its benchmark results are competitive with Jev, beating it in several tests.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "pplx-decider-v1-27b는 Qwen3.8-27B를 기반으로 미세 조정된 의사 결정 모델입니다. 이 모델은 Jev와 경쟁하며 여러 벤치마크 테스트에서 Jev를 능가하는 성능을 보였습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative (13 minute read)",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "discussion_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "summary": "Waymo and LLMs exemplify how frictionless technologies make research less collaborative by removing necessary human interactions. The convenience of using AI reduces serendipity and critical discourse, which are crucial for innovation and diverse ideas. Funding structures and evaluation systems exacerbate this shift by rewarding speed and output over collaborative effort, risking the degradation of rich, human-driven research culture.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "AI 기술의 편리함이 연구 협력을 감소시키고, 우연한 발견과 비판적 토론의 기회를 줄입니다. 자금 지원 및 평가 시스템이 속도와 결과물을 중시하면서 인간 중심의 연구 문화가 저하될 위험이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "title": "The Dot and the Swarm (10 minute read)",
+    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "discussion_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "summary": "AI systems have surpassed the need for human-devised structures, like intricate management processes, as they self-organize and execute complex tasks efficiently. Tools like Meta's Muse and OpenAI's Dots demonstrate this by acting autonomously and correcting human errors without extensive input. OpenAI's swarm model, used to attempt solving the Navier-Stokes problem, highlights AI's capacity to manage vast, self-directed agents, minimizing traditional management hurdles.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "AI 시스템은 복잡한 작업을 자율적으로 조직하고 효율적으로 수행하며, 인간이 만든 관리 구조의 필요성을 넘어섰습니다. OpenAI의 스웜 모델은 AI가 방대한 자체 지시 에이전트를 관리하는 능력을 잘 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://allenai.org/blog/olmocore3",
+    "title": "Olmo-core 3 for MoE Training (8 minute read)",
+    "url": "https://allenai.org/blog/olmocore3",
+    "discussion_url": "https://allenai.org/blog/olmocore3",
+    "summary": "Olmo-core 3 is an open training framework designed to scale mixture-of-experts models into the trillion-parameter range.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Olmo-core 3는 MoE(Mixture-of-Experts) 모델을 수조 개의 매개변수 규모로 확장하도록 설계된 개방형 학습 프레임워크입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "title": "Amazon Enters the Decision Model Race With Strands Decider 2B (7 minute read)",
+    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "discussion_url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "summary": "Decider 2B is an open-source model for fast classification, routing, and scoring tasks.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Amazon의 Decider 2B는 빠른 분류, 라우팅 및 스코어링 작업을 위한 오픈소스 의사 결정 모델입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ideas.imbue.com/p/personal-computing-20",
+    "title": "Personal Computing 2.0 (9 minute read)",
+    "url": "https://ideas.imbue.com/p/personal-computing-20",
+    "discussion_url": "https://ideas.imbue.com/p/personal-computing-20",
+    "summary": "Personal Computing 2.0 envisions a future where users regain control over their data, fostering privacy and customization in computing environments.",
+    "score": 0,
+    "published_at": "2026-10-03T01:45:52+00:00",
+    "ai_summary": "Personal Computing 2.0은 사용자가 데이터에 대한 통제권을 되찾아 개인 정보 보호 및 맞춤화를 강화하는 미래 컴퓨팅 환경을 제시합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Other"
+    ]
+  }
+]
