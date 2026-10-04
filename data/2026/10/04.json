@@ -1,0 +1,589 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34745",
+    "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
+    "url": "https://news.hada.io/topic?id=34745",
+    "discussion_url": "https://news.hada.io/topic?id=34745",
+    "summary": "AutoroShopping은 AI 에이전트가 쇼핑몰에서 물품을 찾고, 장바구니 및 결제 전 단계까지 자동화하여 진행할 수 있도록 도와주는 커넥터 입니다.\n실제 직접 쿠X, 컬X, 교보문X 플랫폼에서 활용 중이고, AI 에이전트에게 플랫폼 가이드 제공을 통해 한국 이커머스 플랫폼을 쉽게 탐색할 수 있도록 제공합니다....",
+    "score": 0,
+    "published_at": "2026-10-04T02:25:14+00:00",
+    "ai_summary": "AutoroShopping은 AI 에이전트가 이커머스 플랫폼에서 물품을 찾고, 장바구니 및 결제 전 단계까지 자동화하는 커넥터입니다.\n한국 이커머스 플랫폼에 특화되어 AI 에이전트가 쉽게 탐색할 수 있도록 가이드를 제공합니다.\n실제 쿠X, 컬X, 교보문X 등에서 활용 중이며 AI 기반 자동화 솔루션 개발에 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34744",
+    "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
+    "url": "https://news.hada.io/topic?id=34744",
+    "discussion_url": "https://news.hada.io/topic?id=34744",
+    "summary": "사용량 기반 서비스와 API에는 월 예산을 넘으면 서비스를 중단하고 오류를 반환하는 강제 상한이 기본으로 필요하며, 경고 이메일만 보내는 방식으로는 부족함\n코딩 에이전트와 개인용 에이전트가 유료 API, 호스팅, 저장 공간과 컴퓨팅 비용이 발생하는 코드를 손...",
+    "score": 0,
+    "published_at": "2026-10-04T01:43:56+00:00",
+    "ai_summary": "사용량 기반 서비스와 API는 월 예산을 초과하면 자동으로 중단되는 강제 상한 기능이 필수적입니다.\n경고 이메일만으로는 코딩 및 개인용 에이전트가 유료 API 및 컴퓨팅 비용을 초과하는 것을 막기 어렵습니다.\n개발자는 비용 통제를 위해 이러한 기능을 서비스 설계에 고려해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34742",
+    "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
+    "url": "https://news.hada.io/topic?id=34742",
+    "discussion_url": "https://news.hada.io/topic?id=34742",
+    "summary": "OpenAI에서 제품 출시 시 제공하는 안전 보고서 작성을 이끈 David Robinson이 사임하며, 연이은 출시 경쟁 속에서 필요한 수준의 주의를 기울이지 못하고 있다고 비판함\nRobinson은 개별 규칙이나 새로운 법을 넘어 조직 문화의 전면 개편을 촉구하며, 문제가 생기...",
+    "score": 0,
+    "published_at": "2026-10-04T01:37:56+00:00",
+    "ai_summary": "OpenAI의 안전 책임자가 제품 출시 경쟁으로 인해 충분한 안전 조치가 부족하다고 비판하며 사임했습니다.\n그는 개별 규칙보다 조직 문화 전반의 개편이 필요하다고 강조했습니다.\n이는 AI 개발자들에게 윤리적 책임과 안전한 AI 구축의 중요성을 시사합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34740",
+    "title": "나는 OpenAI의 조직 문화가 망가져 퇴사했다",
+    "url": "https://news.hada.io/topic?id=34740",
+    "discussion_url": "https://news.hada.io/topic?id=34740",
+    "summary": "OpenAI에서 안전 보고서 작성을 이끌던 데이비드 로빈슨(David Robinson) 이 3년 반 만에 퇴사하며, 출시를 거듭하는 속도 중심 문화로는 필요한 수준의 안전을 확보하기 어렵다고 밝힘\n문제가 생기면 고치는 반복적 배포는 실패를 전제로 하며, AI가 강력해질수록...",
+    "score": 0,
+    "published_at": "2026-10-04T00:38:48+00:00",
+    "ai_summary": "데이비드 로빈슨이 OpenAI를 퇴사하며 속도 중심의 문화로는 AI 안전을 확보하기 어렵다고 밝혔습니다.\n그는 실패를 전제로 한 반복적 배포 방식이 AI가 강력해질수록 위험하다고 지적했습니다.\n이는 AI 개발자들이 개발 속도와 안전성 사이의 균형을 고민하게 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34739",
+    "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
+    "url": "https://news.hada.io/topic?id=34739",
+    "discussion_url": "https://news.hada.io/topic?id=34739",
+    "summary": "Mastodon, Bluesky, LinkedIn, Threads, X에 글을 한 번 작성하고 플랫폼별로 수정해 즉시 게시하거나 예약 발행하는 오픈소스 도구\n별도 서버 대신 자신의 Cloudflare 계정에서 운영하며, 게시물과 계정 인증 정보는 D1 데이터베이스에, 이미지는 R2에 보관\n...",
+    "score": 0,
+    "published_at": "2026-10-04T00:30:02+00:00",
+    "ai_summary": "CogSend는 Mastodon, Bluesky 등 여러 소셜 플랫폼에 글을 예약 발행하는 오픈소스 셀프 호스팅 도구입니다.\nCloudflare 계정에서 운영되며 게시물과 계정 정보는 D1 데이터베이스에, 이미지는 R2에 보관합니다.\n개발자는 이러한 아키텍처를 참고하거나 직접 배포하여 활용할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Cloud",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34734",
+    "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
+    "url": "https://news.hada.io/topic?id=34734",
+    "discussion_url": "https://news.hada.io/topic?id=34734",
+    "summary": "Opus 5.5는 긴 다단계 작업을 이어가는 능력이 개선돼, 작업 전체와 완료 조건, 멈춰서 질문할 조건을 한 번에 전달하는 방식이 적합함\n모델이 응답 전에 스스로 추론하므로 “신중하게 생각하라”는 상투적인 지시는 생략할 수 있음. Claude Code에서는 eff...",
+    "score": 0,
+    "published_at": "2026-10-03T22:42:52+00:00",
+    "ai_summary": "Claude Opus 5.5는 긴 다단계 작업을 처리하는 능력이 향상되어, 작업 전체와 완료 조건, 질문할 조건을 한 번에 전달하는 방식이 효과적입니다.\n모델이 자체 추론하므로 \"신중하게 생각하라\"는 지시를 생략할 수 있습니다.\nClaude Code에서 효율적인 프롬프트 작성법은 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34731",
+    "title": "모두가 짐을 싸고 있다",
+    "url": "https://news.hada.io/topic?id=34731",
+    "discussion_url": "https://news.hada.io/topic?id=34731",
+    "summary": "플랫폼에서 오랜 시간을 보낸 사람들이 서비스가 달라진 뒤 떠나는 경험을 공유하고 있음\n떠나는 이유는 가격 변경, 게시물의 AI 학습 활용, 새 소유주나 정책, 더는 사람을 위해 만들어지는 서비스가 아니라는 느낌 등으로 다양함\n이들은 더 큰 서비스보...",
+    "score": 0,
+    "published_at": "2026-10-03T21:49:17+00:00",
+    "ai_summary": "사용자들이 가격 변경, AI 학습 데이터 활용, 새 정책 등으로 인해 플랫폼을 떠나는 현상이 나타나고 있습니다.\n이는 서비스가 더 이상 사용자 중심이 아니라는 느낌에서 비롯되며, 작은 대안 서비스로 이동하는 경향을 보입니다.\n개발자는 서비스 기획 시 사용자 경험과 정책 변화의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34724",
+    "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
+    "url": "https://github.com/click6067-ship-it/token-tv",
+    "discussion_url": "https://news.hada.io/topic?id=34724",
+    "summary": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요.\n시계 펌웨어는 그대로이고, 켜 둔 컴퓨터가 화면을 갱신합니다.\n코드 ·",
+    "score": 0,
+    "published_at": "2026-10-03T19:33:55+00:00",
+    "ai_summary": "알리익스프레스에서 구매한 5달러 시계에 Claude 및 Codex AI 모델 사용량을 표시하는 프로젝트입니다.\n시계 펌웨어는 변경하지 않고, 컴퓨터에서 데이터를 받아 화면을 갱신하는 방식입니다.\n개발자가 AI 도구 활용 및 임베디드 디스플레이 연동에 관심 가질 만합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34723",
+    "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
+    "url": "https://news.hada.io/topic?id=34723",
+    "discussion_url": "https://news.hada.io/topic?id=34723",
+    "summary": "ldraw-nova는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임\n에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트를 만들고, 이를 실행해 LDraw 소스를 생...",
+    "score": 0,
+    "published_at": "2026-10-03T18:32:50+00:00",
+    "ai_summary": "ldraw-nova는 AI 에이전트가 사용자 아이디어에 따라 LEGO 모델을 설계하는 오픈소스 프로젝트입니다.\n에이전트는 기하 계산 대신 설계 계획과 Python 스크립트를 생성하여 LDraw 부품으로 모델을 만듭니다.\nAI를 활용한 생성형 디자인 및 오픈소스 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34719",
+    "title": "Cloudflare, 사용자 IP를 숨기는 OHTTP 게이트웨이 공개",
+    "url": "https://news.hada.io/topic?id=34719",
+    "discussion_url": "https://news.hada.io/topic?id=34719",
+    "summary": "앱 서버가 사용자 IP를 알지 않고 요청을 처리할 수 있도록 Cloudflare가 관리형 OHTTP Gateway의 비공개 베타를 시작함\n서로 다른 운영자가 맡는 릴레이는 사용자 IP만, 게이트웨이는 요청 내용만 보도록 분리해, 어느 한쪽도 누가 무엇을 요청했는지 함께 알 수 ...",
+    "score": 0,
+    "published_at": "2026-10-03T17:10:02+00:00",
+    "ai_summary": "Cloudflare가 사용자 IP를 숨기는 OHTTP Gateway의 비공개 베타를 시작하며 앱 서버가 사용자 IP 없이 요청을 처리하도록 합니다.\n릴레이와 게이트웨이가 서로 다른 운영자에 의해 분리되어, 누구도 사용자 IP와 요청 내용을 동시에 알 수 없습니다.\n이는 웹 보안 및 개인 정보 보호를 강화하는 중요한 기술로, 백엔드 및 보안 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34718",
+    "title": "하네스가 곧 회사다",
+    "url": "https://news.hada.io/topic?id=34718",
+    "discussion_url": "https://news.hada.io/topic?id=34718",
+    "summary": "SaaS 기업의 개발·기획·영업을 AI 에이전트가 수행하게 되면, 회사는 모델에 업무 지식과 도구, 권한, 검토 절차를 제공하는 하네스로 바뀔 수 있음\n사람이 에이전트에게 일을 시키는 단계에서, 에이전트가 먼저 일을 찾아 수행하고 사람이 결과를 검토하는...",
+    "score": 0,
+    "published_at": "2026-10-03T17:07:02+00:00",
+    "ai_summary": "이 기사는 AI 에이전트가 SaaS 기업의 개발, 기획, 영업 업무를 수행하는 미래를 상정합니다.\n회사는 AI 모델에 업무 지식, 도구, 권한, 검토 절차를 제공하는 '하네스' 역할로 전환될 수 있습니다.\nAI 에이전트가 주도적으로 업무를 수행하고 사람이 검토하는 방식으로의 변화는 개발자의 미래 역할에 큰 영향을 미칠 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34716",
+    "title": "Kolibri - 독일의 소버린 AI 모델은 어떻게 작동하는가",
+    "url": "https://news.hada.io/topic?id=34716",
+    "discussion_url": "https://news.hada.io/topic?id=34716",
+    "summary": "Aleph Alpha가 독일·핀란드 인프라에서 처음부터 학습한 독일어·영어 모델로, 가중치를 Apache-2.0으로 공개해 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음\n전문가 혼합(MoE) 구조로 전체 781억 파라미터 중 토큰당 약 35억만 사용...",
+    "score": 0,
+    "published_at": "2026-10-03T17:01:02+00:00",
+    "ai_summary": "Kolibri는 Aleph Alpha가 독일·핀란드 인프라에서 학습시킨 독일어·영어 AI 모델로, Apache-2.0 라이선스로 가중치를 공개했습니다.\n이를 통해 조직은 자체 서버에서 데이터와 모델 운영을 완벽하게 통제할 수 있습니다.\n전문가 혼합(MoE) 구조를 사용하여 781억 파라미터 중 토큰당 약 35억 파라미터만 활성화되는 특징이 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34715",
+    "title": "Show HN: 독일의 새로운 소버린 AI 모델 Kolibri",
+    "url": "https://news.hada.io/topic?id=34715",
+    "discussion_url": "https://news.hada.io/topic?id=34715",
+    "summary": "Aleph Alpha가 독일어와 영어용 오픈 웨이트 모델 Kolibri를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음\n전문가 혼합(MoE) 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화...",
+    "score": 0,
+    "published_at": "2026-10-03T15:37:47+00:00",
+    "ai_summary": "Aleph Alpha가 독일어 및 영어용 오픈 웨이트 AI 모델 Kolibri를 공개했습니다.\n독일과 핀란드 인프라에서 학습되어 조직이 자체 서버에서 데이터와 모델 운영을 제어할 수 있습니다.\n전문가 혼합(MoE) 구조를 특징으로 하며, 전체 781억 파라미터 중 토큰당 34.6억 개만 활성화됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34714",
+    "title": "GLM 5.3 Flash로 한 달간 코딩하기",
+    "url": "https://news.hada.io/topic?id=34714",
+    "discussion_url": "https://news.hada.io/topic?id=34714",
+    "summary": "GLM 5.3 Flash만으로 한 달간 개발하는 실험에서 Wagtail과 웹사이트 개발, UI 작업, 문서 작성 등을 수행했으며, 해당 모델 사용 비용은 68달러였음\n100만 토큰 컨텍스트와 이미지 이해로 긴 코딩 작업과 스크린샷 기반 개발을 처리했지만, 서비...",
+    "score": 0,
+    "published_at": "2026-10-03T14:34:43+00:00",
+    "ai_summary": "GLM 5.3 Flash 모델만을 사용하여 한 달간 웹사이트 개발, UI 작업, 문서 작성 등 코딩 실험을 진행했습니다.\n100만 토큰 컨텍스트와 이미지 이해 능력으로 긴 코딩 작업과 스크린샷 기반 개발을 처리할 수 있었으며, 사용 비용은 총 68달러였습니다.\nLLM을 활용한 실제 개발 경험과 효율성에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34713",
+    "title": "에이전트 코딩의 묵시록 4기사",
+    "url": "https://news.hada.io/topic?id=34713",
+    "discussion_url": "https://news.hada.io/topic?id=34713",
+    "summary": "에이전트 코딩은 매우 유용하지만, 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에 큰 대가를 요구함\nLLM 생성 코드 특유의 스타일은 사람이 코드베이스를 읽고 익숙해지기 어렵게 만들며, 에이전트가...",
+    "score": 0,
+    "published_at": "2026-10-03T14:03:28+00:00",
+    "ai_summary": "이 기사는 에이전트 코딩의 유용성에도 불구하고 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 지적합니다.\nAI 생성 코드의 독특한 스타일은 사람이 코드베이스를 이해하기 어렵게 만들 수 있습니다.\n개발자의 호기심, 장인정신, 사회적 연결에 미칠 부정적인 영향에 대한 중요한 경고입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34707",
+    "title": "Extra Big Ass Intelligence - 엄청나게 거대한 지능",
+    "url": "https://news.hada.io/topic?id=34707",
+    "discussion_url": "https://news.hada.io/topic?id=34707",
+    "summary": "영화 《이디오크러시》(Idiocracy) 의 황당한 미래 사회를 닮은 챗봇 사이트로, AI·초지능 홍보와 광고로 뒤덮인 인터넷을 풍자함\n정부 명령으로 AI.exe를 삭제하고 ‘AI’라는 단어까지 금지했다며, 이름만 ‘초지능(SI)’으로 바꾸면 경제를...",
+    "score": 0,
+    "published_at": "2026-10-03T08:32:50+00:00",
+    "ai_summary": "영화 '이디오크러시'를 닮은 챗봇 사이트가 AI 과대광고와 초지능 홍보를 풍자합니다.\nAI 단어 금지 명령에도 이름만 '초지능(SI)'으로 바꿔 경제를 논하는 세태를 비판합니다.\n이는 AI 기술의 상업적 오용과 과장된 마케팅에 대한 경고 메시지를 담고 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34705",
+    "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
+    "url": "https://news.hada.io/topic?id=34705",
+    "discussion_url": "https://news.hada.io/topic?id=34705",
+    "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다.\n\nALPS Writer: 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
+    "score": 0,
+    "published_at": "2026-10-03T07:25:22+00:00",
+    "ai_summary": "Claude Code와 Codex용 오픈소스 플러그인 ALPS Writer와 ADR Writer가 공개되었습니다.\n이 도구들은 제품 요구사항과 설계 결정을 문서화하여 관리하는 데 도움을 줍니다.\nALPS Writer는 질문 기반으로 제품 요구사항 문서(PRD) 작성을 지원하며, 개발 생산성 향상에 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34702",
+    "title": "Muse Gadgets - Meta의 AI 에이전트를 직접 만든 기기에 연결하기",
+    "url": "https://news.hada.io/topic?id=34702",
+    "discussion_url": "https://news.hada.io/topic?id=34702",
+    "summary": "Meta의 개인 AI 에이전트 Muse를 화면·마이크·버튼·센서와 연결해, 자신만의 AI 기기를 만들 수 있는 오픈소스 SDK\nESP32 보드와 Raspberry Pi·Linux 컴퓨터를 지원하며, 음성으로 대화하는 탁상 기기나 아침 브리핑을 보여주는 전자잉크 화면 등을 제작 가능",
+    "score": 0,
+    "published_at": "2026-10-03T05:33:52+00:00",
+    "ai_summary": "Meta의 AI 에이전트 Muse를 활용해 자신만의 AI 기기를 만들 수 있는 오픈소스 SDK가 출시되었습니다.\nESP32, Raspberry Pi, Linux 등 다양한 하드웨어를 지원하여 개발자들의 접근성을 높입니다.\n음성 대화형 탁상 기기나 전자잉크 화면 등 맞춤형 AI 디바이스 제작을 가능하게 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34701",
+    "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
+    "url": "https://news.hada.io/topic?id=34701",
+    "discussion_url": "https://news.hada.io/topic?id=34701",
+    "summary": "먼저 관계를 정합니다. 연인, 친구, 동생, 부모. 관계를 정하면 호칭과 말투와 거리감이 거기서 따라 나오고, 성격은 그 위에 얹습니다.\n얼굴은 일부러 없앴습니다. 아바타도 일러스트도 없이 목소리와 글뿐이에요. 모습을 그려주면 상상이 거기 갇히지만, 목소리만 있는 존재는 듣는 사람 머릿속에서 완성됩니",
+    "score": 0,
+    "published_at": "2026-10-03T04:13:44+00:00",
+    "ai_summary": "사용자가 관계(연인, 친구, 동생, 부모)를 직접 설정하여 맞춤형 AI 컴패니언 'Inanna'와 상호작용합니다.\n얼굴이나 아바타 없이 오직 목소리와 텍스트로만 소통하며, 사용자 상상 속에서 AI의 모습이 완성되도록 유도합니다.\n이는 기존 AI 컴패니언과의 차별점을 두어 감성적 교류와 사용자 몰입감을 높이는 데 중점을 둔 서비스입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49946895",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946895",
+    "summary": "",
+    "score": 147,
+    "published_at": "2026-10-03T19:14:48+00:00",
+    "ai_summary": "Valve의 Timur Kristóf가 오래된 AMD GPU의 리눅스 성능 개선 작업을 진행하고 있습니다.\n이 작업은 오픈소스 드라이버 개발과 시스템 레벨 최적화를 통해 이루어지며, 리눅스 게이밍 및 전반적인 시스템 성능 향상에 크게 기여합니다.\n하드웨어와 소프트웨어의 상호작용 및 시스템 프로그래밍에 대한 깊은 지식을 요구합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49948332",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948332",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-10-03T22:18:13+00:00",
+    "ai_summary": "OpenAI의 안전 담당 리더가 회사의 문화가 '망가졌다'고 경고하며 사임했습니다.\n이는 AI 개발의 안전성과 윤리적 방향에 대한 심각한 우려를 제기하며, 급성장하는 AI 기술의 책임 있는 개발에 대한 논의를 촉발합니다.\nAI 산업의 중요한 플레이어 내부의 이슈로, 기술의 미래 방향에 큰 영향을 미칩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49942706",
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942706",
+    "summary": "",
+    "score": 523,
+    "published_at": "2026-10-03T09:36:04+00:00",
+    "ai_summary": "Kolibri는 새롭게 공개된 주권적(Sovereign) 오픈-웨이트 AI 모델입니다.\n이 모델은 AI 연구 및 개발 커뮤니티에 새로운 가능성을 제공하며, 대규모 언어 모델 분야의 투명성과 접근성을 높이는 데 기여할 것으로 기대됩니다.\nAI/ML 및 LLM 개발자들에게 직접적으로 매우 중요한 새로운 기술 발표입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49942103",
+    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "url": "https://thoreaubasic.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942103",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-10-03T07:28:54+00:00",
+    "ai_summary": "'Thoreau BASIC'이라는 프로젝트를 소개하며, 만약 BASIC 언어가 구식이 되지 않았다면 어땠을지 상상합니다.\n이는 프로그래밍 언어의 역사, 설계 원칙, 그리고 새로운 도구 개발에 대한 논의를 불러일으킵니다.\n언어 설계 및 컴퓨터 역사에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49944912",
+    "title": "FTL: A new operating system for clouds",
+    "url": "https://ftl-os.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49944912",
+    "summary": "",
+    "score": 151,
+    "published_at": "2026-10-03T15:02:36+00:00",
+    "ai_summary": "클라우드 환경을 위한 새로운 운영체제인 'FTL'에 대해 다룹니다.\n클라우드 인프라의 효율성, 관리 용이성 및 성능 향상을 목표로 할 가능성이 높습니다.\n클라우드 개발자, DevOps 엔지니어, 시스템 아키텍트에게 매우 중요한 정보가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49946567",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946567",
+    "summary": "",
+    "score": 165,
+    "published_at": "2026-10-03T18:29:30+00:00",
+    "ai_summary": "Claude 및 Claude Code에서 Opus 5.5 모델을 최대한 활용하는 방법에 대한 가이드입니다.\nLLM 기반의 개발 및 AI 애플리케이션 최적화에 대한 실용적인 팁과 전략을 제공할 수 있습니다.\nAI/ML, 특히 LLM 관련 개발자에게 필수적인 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49945933",
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49945933",
+    "summary": "",
+    "score": 65,
+    "published_at": "2026-10-03T17:03:37+00:00",
+    "ai_summary": "AI 에이전트 설계 시 '기억'보다 '문서화'의 중요성을 강조하는 새로운 관점을 제시합니다.\n에이전트의 효율적인 지식 관리, 확장성 및 일관성 유지를 위한 설계 원칙을 논합니다.\nAI/ML 개발자 및 시스템 아키텍트에게 중요한 설계 방향을 제시할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49945352",
+    "title": "Docker has always used microVMs (well since 2016)",
+    "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49945352",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-10-03T15:55:31+00:00",
+    "ai_summary": "Docker는 2016년부터 컨테이너 기술의 핵심 부분으로 마이크로VM을 활용해왔다는 사실을 밝힙니다.\n이는 컨테이너 격리의 효율성과 보안을 강화하는 중요한 기술적 기반을 제공합니다.\n대부분의 사용자가 인지하지 못했던 Docker의 내부 작동 방식에 대한 설명입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49937304",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "url": "https://pipod.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937304",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-10-02T19:10:38+00:00",
+    "ai_summary": "'Pi pod'는 개발자가 자체 서버에서 Raspberry Pi 코딩 에이전트를 샌드박스 환경에서 실행할 수 있도록 돕는 도구입니다.\n코딩 에이전트의 안전한 실행과 자원 격리를 통해 개발 및 테스트 환경을 효율적으로 구축합니다.\n개인 서버 환경에서 자동화된 코드 실행 및 관리를 위한 솔루션입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49941641",
+    "title": "Memory-Safe WebP Decoding",
+    "url": "https://halide.cx/blog/wpd/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49941641",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-10-03T05:45:30+00:00",
+    "ai_summary": "이 문서는 WebP 이미지 디코딩 과정에서 메모리 안전성을 확보하는 방법에 대해 다룹니다.\n취약점 방지와 안정적인 이미지 처리를 위해 메모리 안전 코딩 기법을 적용하는 것이 중요합니다.\n특히 브라우저나 이미지 처리 라이브러리 개발에 있어 필수적인 고려 사항입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49946845",
+    "title": "RSS Feed Best Practices (2022)",
+    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946845",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-10-03T19:09:25+00:00",
+    "ai_summary": "이 문서는 2022년 기준 RSS 피드 생성 및 관리를 위한 모범 사례를 제시합니다.\n효율적인 콘텐츠 배포와 구독자 경험 향상을 위한 표준과 권장 사항을 다룹니다.\n웹사이트 개발자나 콘텐츠 운영자에게 유용한 지침을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49946707",
+    "title": "How to hack time, with C2PA",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946707",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-10-03T18:52:06+00:00",
+    "ai_summary": "C2PA(콘텐츠 진정성 이니셔티브) 기술을 활용하여 디지털 콘텐츠의 시간 기록을 조작하거나 그 조작을 탐지하는 방법을 탐구합니다.\n콘텐츠의 원본 출처와 변경 이력을 추적하여 디지털 위변조에 대응하는 방안을 제시합니다.\n보안, 디지털 포렌식, 그리고 AI 시대의 정보 신뢰성 확보에 중요한 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49928361",
+    "title": "C++ Insights – See your source code with the eyes of a Compiler",
+    "url": "https://github.com/andreasfertig/cppinsights",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928361",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-10-01T23:53:36+00:00",
+    "ai_summary": "C++ Insights는 C++ 코드가 컴파일러에 의해 어떻게 해석되는지 시각적으로 보여주는 도구입니다.\n이를 통해 개발자는 템플릿 인스턴스화, 람다 표현식 확장 등 컴파일러의 내부 동작을 쉽게 이해할 수 있습니다.\n코드 최적화, 잠재적 버그 식별 및 C++ 언어에 대한 깊은 이해를 돕는 유용한 학습 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49947051",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947051",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-10-03T19:33:16+00:00",
+    "ai_summary": "클라우드플레어는 개발자들이 자사 스택 위에서 차세대 Git 플랫폼을 구축하도록 초청하고 있습니다.\n이는 분산 시스템, 웹 표준 및 스케일러블한 인프라를 다루는 흥미로운 기회가 될 것입니다.\n클라우드플레어의 엣지 네트워크와 다양한 서비스를 활용하여 새로운 버전 관리 솔루션을 만드는 것을 목표로 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  }
+]
