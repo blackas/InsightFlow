@@ -1,0 +1,577 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34923",
+    "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
+    "url": "https://news.hada.io/topic?id=34923",
+    "discussion_url": "https://news.hada.io/topic?id=34923",
+    "summary": "OpenAI가 텍스트·이미지를 평가해 확률, 선택지와 점수를 반환하는 Decisions API의 공개 베타를 시작함. 서술형 답변 대신 앱에서 바로 사용할 판단 결과를 제공하며, Responses API보다 약 10배 빠름\n조건이 참일 확률, 고정 선택지 중 하나, 평가 기준에...",
+    "score": 0,
+    "published_at": "2026-10-07T01:33:49+00:00",
+    "ai_summary": "OpenAI가 텍스트 및 이미지 평가를 위한 Decisions API의 공개 베타를 시작했습니다.\n이 API는 확률, 선택지, 점수를 반환하여 앱 내에서 즉시 활용 가능한 판단 결과를 제공합니다.\n기존 Responses API 대비 약 10배 빠른 속도로 서술형 답변 대신 효율적인 AI 의사결정을 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34922",
+    "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
+    "url": "https://news.hada.io/topic?id=34922",
+    "discussion_url": "https://news.hada.io/topic?id=34922",
+    "summary": "AI를 받아들일지 거부할지만 논쟁하기보다 창작자의 기여 인정, 동의와 보상을 먼저 정해야 함. 창작자의 작업 위에 일방적으로 쌓아 올리지 말고, 창작자와 함께 만들어야 함\n할리우드의 저항은 단순한 기술 거부가 아니라 자신의 작업에 대한 애정과 일자리 상실의 두려움...",
+    "score": 0,
+    "published_at": "2026-10-07T01:05:02+00:00",
+    "ai_summary": "제프리 카첸버그는 AI 수용 여부 논쟁보다 창작자의 기여 인정 및 보상 시스템 마련을 강조했습니다.\nAI 개발 시 창작자의 작업 위에 일방적으로 쌓아 올리지 말고, 함께 협력해야 한다고 주장합니다.\n이는 할리우드의 AI 저항이 단순한 기술 거부가 아닌, 창작자 권리 보호와 일자리 상실 우려 때문임을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34920",
+    "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
+    "url": "https://news.hada.io/topic?id=34920",
+    "discussion_url": "https://news.hada.io/topic?id=34920",
+    "summary": "SumUp의 여러 도메인에 걸친 시스템을 이해할 때마다 엔지니어 3~4명을 모으는 대신, 약 66개 저장소와 조직 맥락을 연결한 AI 에이전트 시스템을 구축함\n저장소를 기술 스택이 아닌 제품과 팀 구조에 따라 묶고, 도메인별 AGENTS.md에 원칙, 조직 구...",
+    "score": 0,
+    "published_at": "2026-10-07T00:55:02+00:00",
+    "ai_summary": "SumUp은 복잡한 시스템 이해를 위해 AI 에이전트 기반의 집단 지성 시스템을 구축했습니다.\n이 시스템은 66개 저장소와 조직 맥락을 연결하여, 엔지니어가 직접 시스템을 분석하는 수고를 덜어줍니다.\n기술 스택이 아닌 제품과 팀 구조에 따라 저장소를 묶고 도메인별 원칙을 정의하여 효율성을 높였습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34919",
+    "title": "Show GN: AI 송도 월드 - LLM 여섯 개가 나눠 맡은 AI 에이전트 2,400명이 사는 3D 도시",
+    "url": "https://news.hada.io/topic?id=34919",
+    "discussion_url": "https://news.hada.io/topic?id=34919",
+    "summary": "이 2,400여 명의 AI 시민 간 무슨 생각을 하고 무슨 일을 벌일지 브라우저에서 들여다볼 수 있게 송도 월드를 만들었습니다. GPT, Claude, Gemini, DeepSeek, GLM, Solar 여섯 모델이 시민을 나눠 맡고 있고, 가입 없이 바로 볼 수 있습니다.\n만든 이유\nAI 에이전트끼리 한곳에 모여 살게 하면 무슨 생",
+    "score": 0,
+    "published_at": "2026-10-07T00:53:30+00:00",
+    "ai_summary": "'AI 송도 월드'는 6개 LLM(GPT, Claude 등)이 담당하는 2,400여 명의 AI 에이전트가 사는 3D 가상 도시입니다.\n사용자는 이 AI 시민들의 생각과 활동을 웹 브라우저에서 실시간으로 관찰할 수 있습니다.\n이는 다양한 LLM 기반 AI 에이전트 간의 상호작용과 대규모 시뮬레이션 연구를 위한 플랫폼입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34918",
+    "title": "소프트웨어로서의 브랜드",
+    "url": "https://news.hada.io/topic?id=34918",
+    "discussion_url": "https://news.hada.io/topic?id=34918",
+    "summary": "브랜드팀이 같은 발표 자료와 디자인을 반복해서 만드는 대신, 이미 내린 디자인 결정을 소프트웨어로 구현하면 새로운 아이디어와 중요한 작업에 집중할 수 있음\nFigma와 AI는 누구나 제작할 수 있게 했지만 판단력과 안목까지 나눠주지는 못함. 팀 구조가 그대로...",
+    "score": 0,
+    "published_at": "2026-10-07T00:45:01+00:00",
+    "ai_summary": "브랜드 팀은 디자인 결정을 소프트웨어로 구현하여 반복 작업을 줄이고 핵심 업무에 집중할 수 있습니다.\n이는 발표 자료나 디자인 에셋을 매번 새로 만드는 대신, 시스템적으로 관리하는 접근 방식입니다.\nFigma나 AI 도구가 제작을 용이하게 했지만, 판단력과 안목은 여전히 사람의 역할임을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34917",
+    "title": "Show GN: TunnelForge - SSH 터널 + MySQL/PostgreSQL 덤프·복원·엔진 간 이전 데스크톱 앱 (MIT)",
+    "url": "https://news.hada.io/topic?id=34917",
+    "discussion_url": "https://news.hada.io/topic?id=34917",
+    "summary": "Bastion(점프 서버) 뒤에 있는 MySQL·PostgreSQL을 다룰 때 터널 열기, 쿼리, 덤프·복원, 엔진 간 이전을 한 앱에서 하려고 만든 데스크톱 앱입니다.\n주요 기능\n\nSSH 터널 관리: bastion 경유/직접 연결, RSA·Ed25519·ECDSA 키, 그룹별 정리와 연결 상태 표시\nSQL 에디터: 테이블·컬럼 자",
+    "score": 0,
+    "published_at": "2026-10-07T00:33:22+00:00",
+    "ai_summary": "TunnelForge는 SSH 터널을 통해 MySQL/PostgreSQL 데이터베이스를 관리하는 데스크톱 앱입니다.\n바스티온 서버 뒤의 DB에 대해 터널링, 쿼리, 덤프, 복원 및 엔진 간 이전 기능을 통합 제공합니다.\n개발자와 DevOps 엔지니어가 보안 환경에서 DB 작업을 효율적으로 수행하도록 돕는 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34916",
+    "title": "Octop - 가족과 소규모 팀이 함께 쓰는 셀프 호스팅 AI 비서",
+    "url": "https://news.hada.io/topic?id=34916",
+    "discussion_url": "https://news.hada.io/topic?id=34916",
+    "summary": "TencentCloud가 공개한 여러 사용자와 전문 에이전트를 지원하는 오픈소스 AI 비서 플랫폼으로, 개인 컴퓨터나 자체 서버에서 운영\n사용자마다 작업 공간, 기억, 모델과 도구를 갖춘 전문 에이전트를 구성하고, 유용한 에이전트 설정과 스킬을 다른 사용자와 공유...",
+    "score": 0,
+    "published_at": "2026-10-07T00:30:02+00:00",
+    "ai_summary": "Octop은 TencentCloud가 공개한 오픈소스 셀프 호스팅 AI 비서 플랫폼입니다.\n개인 컴퓨터나 자체 서버에 배포하여 여러 사용자가 각자의 작업 공간과 전문 에이전트를 구성할 수 있습니다.\n사용자별 기억, 모델, 도구를 갖춘 에이전트 설정과 스킬을 공유하며 협업을 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34915",
+    "title": "Show GN: brgr – Claude Code나 Codex가 다른 코딩 에이전트에게 일을 맡기는 herdr 플러그인",
+    "url": "https://news.hada.io/topic?id=34915",
+    "discussion_url": "https://news.hada.io/topic?id=34915",
+    "summary": "herdr에서 여러 코딩 에이전트를 동시에 돌리다보니, 매번 trust 확인이나 업데이트 제안에서 멈추게 되고, 끝나면 결과를 메인 에이전트로 직접 북붙하는게 귀찮아서 만들었습니다.\n\n메인 에이전트(Codex 또는 Claude Code)가 일을 넘기면, 워커가 옆 pane에 각자 git worktree를 하나씩 갖고 열립니다.",
+    "score": 0,
+    "published_at": "2026-10-07T00:28:34+00:00",
+    "ai_summary": "brgr은 Claude Code나 Codex 같은 메인 에이전트가 다른 코딩 에이전트에게 작업을 위임하는 herdr 플러그인입니다.\n여러 코딩 에이전트를 동시에 사용할 때 발생하는 수동 확인 및 결과 복사 붙여넣기 불편함을 해소합니다.\n워커 에이전트가 각자 git worktree를 가지고 독립적으로 작업을 수행하며 효율적인 개발 흐름을 지원합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34893",
+    "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+    "url": "https://news.hada.io/topic?id=34893",
+    "discussion_url": "https://news.hada.io/topic?id=34893",
+    "summary": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules, .next, target, .venv도 같이 복제됨\n\n어느 날 디스크가 꽉 차서 열어 보니 ~/.codex...",
+    "score": 0,
+    "published_at": "2026-10-06T14:41:21+00:00",
+    "ai_summary": "AI 코딩 에이전트 사용 시 생성되는 과도한 worktree와 빌드 산출물로 인한 디스크 공간 문제를 다룹니다.\n`agent-gc`라는 TUI 도구를 통해 이러한 임시 파일들을 효율적으로 정리하고 관리하는 방법을 제시합니다.\n이는 AI 도구를 활용하는 개발자의 실제 문제 해결에 기여하는 유용한 정보를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34882",
+    "title": "Async Rust: 스케줄러는 어디에 있는가?",
+    "url": "https://news.hada.io/topic?id=34882",
+    "discussion_url": "https://news.hada.io/topic?id=34882",
+    "summary": "동시성에는 스케줄링을 담당할 런타임이 필요하며, async 대신 스레드를 쓰면 그 역할이 Tokio에서 커널로 옮겨갈 뿐임\nRust가 런타임을 크레이트로 분리한 것은 임베디드, no_std, FFI 비용, 제로 비용 추상화라는 목표에 맞는 선택이지만, 런타임 간...",
+    "score": 0,
+    "published_at": "2026-10-06T08:04:32+00:00",
+    "ai_summary": "Async Rust에서 스케줄러의 역할과 위치를 분석하며, 동시성 구현에 런타임이 필수적임을 설명합니다.\nRust가 런타임을 크레이트로 분리한 것은 임베디드, no_std 등 특정 목표에 부합하지만, 런타임 간 상호 운용성 문제를 제기합니다.\n이는 Rust 언어의 비동기 프로그래밍 모델에 대한 깊은 이해를 돕는 기술적 심층 분석입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34881",
+    "title": "Photopea 개발자, Photosuite의 코드 무단 복제 문제 제기",
+    "url": "https://news.hada.io/topic?id=34881",
+    "discussion_url": "https://news.hada.io/topic?id=34881",
+    "summary": "웹 이미지 편집기 Photopea의 개발자 Ivan Kutskir가 데스크톱 편집기 Photosuite를 두고, 자신의 코드를 복제하고 AI로 변수명을 바꾼 결과물이라고 문제를 제기함\nPhotosuite 개발자의 이슈 답변에는 비공식 Photopea 오프라인 복제본에서 출발해, 지난 1년간 모...",
+    "score": 0,
+    "published_at": "2026-10-06T07:31:47+00:00",
+    "ai_summary": "Photopea 개발자가 Photosuite가 자신의 코드를 무단 복제하고 AI로 변수명을 변경했다고 문제를 제기했습니다.\nPhotosuite 개발자는 비공식 Photopea 복제본에서 시작했음을 인정했으나 AI 사용은 부인했습니다.\n이는 소프트웨어 개발의 윤리적 문제와 AI 활용에 대한 저작권 논쟁을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34879",
+    "title": "Iroh의 글로벌 콘텐츠 탐색",
+    "url": "https://news.hada.io/topic?id=34879",
+    "discussion_url": "https://news.hada.io/topic?id=34879",
+    "summary": "Iroh가 BitTorrent Mainline DHT와 별도 주소 인덱스를 결합해, BLAKE3 해시로 콘텐츠 제공자를 찾고 데이터를 내려받는 실험적 시스템을 구현함\n콘텐츠 탐색과 전송을 분리하고, iroh-blobs의 BLAKE3 검증 스트리밍으로 데이터를 검증함. DHT가 잘못된 제공자를 반...",
+    "score": 0,
+    "published_at": "2026-10-06T07:04:07+00:00",
+    "ai_summary": "Iroh가 BitTorrent Mainline DHT와 주소 인덱스를 결합하여 콘텐츠 제공자를 찾고 데이터를 전송하는 시스템을 구현했습니다.\n이 시스템은 콘텐츠 탐색과 전송을 분리하고, BLAKE3 검증 스트리밍으로 데이터 무결성을 확보합니다.\n분산 시스템 환경에서 효율적이고 신뢰할 수 있는 콘텐츠 공유 방식에 대한 새로운 접근 방식을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34876",
+    "title": "Common Lisp이 이제 최고의 프로그래밍 언어인 이유",
+    "url": "https://news.hada.io/topic?id=34876",
+    "discussion_url": "https://news.hada.io/topic?id=34876",
+    "summary": "LLM이 코드를 빠르게 작성할수록 실행하고 확인하는 피드백 루프가 중요해짐. Common Lisp은 실행 중 함수를 교체하고 오류를 수정한 뒤 재개할 수 있어 재빌드와 재시작을 줄임\n매크로로 제품에 맞는 도메인 언어를 만들면, LLM이 사용자별 기능을 추가하면서도 제...",
+    "score": 0,
+    "published_at": "2026-10-06T06:38:20+00:00",
+    "ai_summary": "LLM 시대에는 빠른 피드백 루프가 중요하며, Common Lisp은 실행 중 함수 교체 및 오류 수정 후 재개가 가능합니다.\n이는 재빌드와 재시작 없이 개발 생산성을 높이며, 매크로를 통해 도메인 언어 생성을 용이하게 합니다.\n변화하는 개발 환경, 특히 LLM 활용에 최적화된 언어로서 Common Lisp의 장점을 강조합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=34870",
+    "title": "수학의 미래",
+    "url": "https://news.hada.io/topic?id=34870",
+    "discussion_url": "https://news.hada.io/topic?id=34870",
+    "summary": "AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, 문제 해결과 수학적 이해의 증진이 분리되고 있음. 중요한 질문은 수학이 여전히 필요한지가 아니라 AI 시대에 어떻게 이해를 추구할지임\n더 어려운 문제에 도전할 여지는 여전히 큼. 현재 AI는...",
+    "score": 0,
+    "published_at": "2026-10-06T02:46:40+00:00",
+    "ai_summary": "AI의 발전으로 수학적 결과를 쉽게 도출하면서, 문제 해결과 수학적 이해 증진이 분리되는 현상을 다룹니다.\n이 기사는 AI 시대에 수학이 여전히 필요한지보다, AI와 공존하며 어떻게 깊은 이해를 추구할지에 대한 질문을 던집니다.\n이는 AI가 지식 분야에 미치는 광범위한 영향과 인간의 역할 변화에 대한 철학적 성찰을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49984923",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49984923",
+    "summary": "",
+    "score": 441,
+    "published_at": "2026-10-06T22:17:21+00:00",
+    "ai_summary": "이 기사는 수학 분야에서 AI가 이룬 진보와 그 연구 결과를 효과적으로 공유하는 방법에 초점을 맞춥니다.\nAI를 활용하여 수학적 문제 해결 능력을 향상시키고, 연구자들이 새로운 발견을 더 효율적으로 공유할 방안을 모색합니다.\n이는 AI와 수학 분야의 협력이 연구 및 교육 환경을 어떻게 변화시킬 수 있는지에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49981905",
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "discussion_url": "https://news.ycombinator.com/item?id=49981905",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-10-06T18:00:34+00:00",
+    "ai_summary": "Claude Code의 'suggested message' 기능은 사용자가 아닌 모델 자체를 고객으로 보는 독특한 관점을 제시합니다.\n이는 모델이 스스로 더 나은 출력을 생성하도록 학습하는 방식에 대한 통찰을 제공하며,\n개발자는 AI 모델의 내부 작동 방식과 사용자 경험 개선 방안을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49985664",
+    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49985664",
+    "summary": "",
+    "score": 100,
+    "published_at": "2026-10-06T23:28:08+00:00",
+    "ai_summary": "AnyPS5 프로젝트는 에뮬레이션 없이 PS5 바이너리를 PC에서 실행 가능하게 하는 것을 목표로 하며,\n현재 87%의 시스템 라이브러리 매핑을 달성하여 상당한 진전을 보이고 있습니다.\n이는 게임 개발자나 시스템 엔지니어에게 플랫폼 간 호환성 및 저수준 최적화에 대한 깊은 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49985524",
+    "title": "Integer multiplication below n log n",
+    "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49985524",
+    "summary": "",
+    "score": 61,
+    "published_at": "2026-10-06T23:14:52+00:00",
+    "ai_summary": "이 기사는 정수 곱셈 알고리즘의 복잡도를 n log n 미만으로 낮추는 새로운 방법을 탐구합니다.\n이는 이론 컴퓨터 과학의 중요한 진전으로, 더 효율적인 계산 알고리즘 개발의 가능성을 열어줍니다.\n고성능 컴퓨팅 및 암호화 분야 개발자에게 이론적 기반을 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49985292",
+    "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+    "url": "https://arxiv.org/abs/2609.38721",
+    "discussion_url": "https://news.ycombinator.com/item?id=49985292",
+    "summary": "",
+    "score": 11,
+    "published_at": "2026-10-06T22:51:35+00:00",
+    "ai_summary": "UniEvo-VL은 멀티모달 모델의 자체 개선을 위한 자기 증류(Self-Distillation) 훈련 기법을 소개합니다.\n이 방법은 모델이 스스로 학습 능력을 향상시키도록 하여, 외부 데이터 의존도를 줄이는 데 기여합니다.\nAI/ML 연구자와 고급 모델 개발자에게 새로운 훈련 패러다임을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49983404",
+    "title": "When random is not actually random enough",
+    "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+    "discussion_url": "https://news.ycombinator.com/item?id=49983404",
+    "summary": "",
+    "score": 32,
+    "published_at": "2026-10-06T20:12:05+00:00",
+    "ai_summary": "이 기사는 '랜덤'이 충분히 랜덤하지 않을 때 발생할 수 있는 문제점과 그 중요성을 다룹니다.\n특히 보안, 암호화, 시뮬레이션 등 정확하고 예측 불가능한 난수가 필수적인 분야에서 그 의미를 강조합니다.\n개발자들은 난수 생성기의 한계를 이해하고 올바른 사용법을 숙지하는 것이 중요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49981197",
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49981197",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-10-06T17:01:52+00:00",
+    "ai_summary": "유타 주에서 AI가 사람의 감독 없이 환자를 진료하고 약을 처방할 수 있도록 허용하는 법안을 추진 중입니다.\n이는 AI 의료 분야의 중요한 규제 변화로, 기술의 윤리적 사용과 안전성 논의를 촉발할 것입니다.\nAI 개발자들은 이러한 정책 변화가 가져올 사회적, 윤리적 함의를 이해해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49973644",
+    "title": "LLMs may have helped my RSI",
+    "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973644",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-10-06T03:01:04+00:00",
+    "ai_summary": "이 기사는 LLM(대규모 언어 모델)이 반복적인 작업으로 인한 RSI 증상 완화에 도움이 되었다는 개인적인 경험을 공유합니다.\nLLM을 활용하여 코딩 및 문서 작업의 효율성을 높임으로써 신체적 부담을 줄일 수 있었음을 보여줍니다.\n개발자의 건강과 생산성 향상에 LLM이 기여할 수 있는 방안을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49982735",
+    "title": "Berthd",
+    "url": "https://berthd.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49982735",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-10-06T19:14:19+00:00",
+    "ai_summary": "Berthd는 새로운 기술 프로젝트나 소프트웨어 컴포넌트로 추정됩니다.\n개발자들에게는 새로운 도구 학습이나 시스템 통합과 관련될 수 있습니다.\n구체적인 정보가 없어 정확한 기능 파악은 어렵습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49983791",
+    "title": "OpenSSH 10.6",
+    "url": "https://www.openssh.org/releasenotes.html#10.6",
+    "discussion_url": "https://news.ycombinator.com/item?id=49983791",
+    "summary": "",
+    "score": 89,
+    "published_at": "2026-10-06T20:41:39+00:00",
+    "ai_summary": "OpenSSH 10.6 버전이 새로 출시되었습니다.\n보안 강화 및 기능 개선이 포함될 것으로 예상됩니다.\n시스템 관리자와 개발자에게 중요한 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49978595",
+    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+    "url": "https://peterszentkiralyi.eu/darkplug/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49978595",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-10-06T13:58:07+00:00",
+    "ai_summary": "아이폰과 스마트 플러그를 활용하여 f-스톱 타이머를 직접 제작한 프로젝트입니다.\n하드웨어와 소프트웨어의 흥미로운 통합 사례를 보여줍니다.\nDIY 및 임베디드 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49982471",
+    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+    "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49982471",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-10-06T18:52:18+00:00",
+    "ai_summary": "캐나다의 새 합법적 접근 법안으로 인해 토론토 기반 VPN 제공업체가 캐나다 철수를 고려하고 있습니다.\n이는 데이터 프라이버시와 인터넷 자유에 대한 중요한 논의를 촉발합니다.\n개발자들은 보안 및 개인정보보호 관련 법규 변화에 주목할 필요가 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "49979845",
+    "title": "The Early History of Smalltalk (1993)",
+    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49979845",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-10-06T15:19:57+00:00",
+    "ai_summary": "1993년에 작성된 Smalltalk 프로그래밍 언어의 초기 역사에 대한 글입니다.\n객체지향 프로그래밍의 중요한 발전과정을 엿볼 수 있습니다.\n언어 설계 및 역사에 관심 있는 개발자에게 유익합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://reflection.ai/blog/introducing-beam",
+    "title": "Reflection Introduces Beam Model (8 minute read)",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "discussion_url": "https://reflection.ai/blog/introducing-beam",
+    "summary": "Beam is a 501B-parameter sparse Mixture-of-Experts model with 23B active parameters trained for coding, reasoning, and agentic workloads. The model used 23.8T pretraining tokens and more than 100M reinforcement-learning rollouts, with open weights and developer artifacts planned for release later in October.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "Beam은 코딩, 추론, 에이전트 워크로드를 위해 훈련된 501B 파라미터 MoE 모델입니다. 23.8T 토큰과 1억 회 이상의 RL 롤아웃을 사용했으며, 오픈 웨이트 및 개발자 아티팩트가 출시될 예정입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "title": "Two Room-Temperature Antiferromagnetic Semiconductor Candidates (11 minute read)",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "discussion_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "summary": "Ferromagnets' atomic magnets all point the same way, adding their magnetic effects. Antiferromagnets have neighboring atomic magnets that point opposite ways and exactly cancel out magnetically. There is an intense drive in computer memory research to create materials in between these two extremes. This post details how a team of AI agents designed a candidate magnet for next-generation computer memory that has zero net magnetism yet still sorts electrons by spin.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "AI 에이전트가 순자성이 없으면서 전자를 스핀으로 분류하는 차세대 컴퓨터 메모리 후보 자석을 설계했습니다. 이는 컴퓨터 메모리 연구의 활발한 노력을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/WillManidis/status/2107139199463780637",
+    "title": "Asset Light Software (14 minute read)",
+    "url": "https://x.com/WillManidis/status/2107139199463780637",
+    "discussion_url": "https://x.com/WillManidis/status/2107139199463780637",
+    "summary": "Software businesses are shifting from fixed costs toward variable, consumption-based costs as AI automates junior work and commoditizes software creation.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "AI가 주니어 업무를 자동화하고 소프트웨어 제작을 상품화하면서 소프트웨어 비즈니스는 고정비에서 변동비 중심으로 전환하고 있습니다. 이는 소비 기반 비용 모델로의 변화를 의미합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/lennysan/status/2107131339355181240",
+    "title": "10 Takeaways from Tibo Sottiaux (4 minute read)",
+    "url": "https://x.com/lennysan/status/2107131339355181240",
+    "discussion_url": "https://x.com/lennysan/status/2107131339355181240",
+    "summary": "OpenAI's Tibo Sottiaux expects agents to take most internet actions, model pickers to disappear, and models to improve roughly 10x within a year.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "OpenAI의 Tibo Sottiaux는 에이전트가 대부분의 인터넷 작업을 수행할 것으로 예상합니다. 모델 성능이 1년 내에 약 10배 향상될 것으로 예측했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment",
+    "title": "Self-Modeling Interventions Modulate Emergent Misalignment (23 minute read)",
+    "url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment",
+    "discussion_url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment",
+    "summary": "Interventions on AI models' self-models, through self-recognition and self-report, can modulate and mitigate Emergent Misalignment.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "AI 모델의 자기 모델(self-model)에 대한 개입을 통해 신흥 오정렬(Emergent Misalignment)을 조절하고 완화할 수 있습니다. 이는 자기 인식 및 자기 보고를 통한 개입을 의미합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://deepmind.google/models/gemma/gemmaverse/living-models/",
+    "title": "Living Models pairs Gemma 4 with BOTANIC-1 to help decode plant DNA (7 minute read)",
+    "url": "https://deepmind.google/models/gemma/gemmaverse/living-models/",
+    "discussion_url": "https://deepmind.google/models/gemma/gemmaverse/living-models/",
+    "summary": "Living Models pairs Gemma 4 with BOTANIC-1, compressing years of crop genetics into hours.",
+    "score": 0,
+    "published_at": "2026-10-07T02:08:41+00:00",
+    "ai_summary": "Living Models는 Gemma 4와 BOTANIC-1을 결합하여 식물 DNA 해독에 활용합니다. 이로써 수년간 걸리던 작물 유전학 연구를 단 몇 시간으로 단축할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  }
+]
