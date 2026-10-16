@@ -1,0 +1,335 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35448",
+    "title": "마케팅 엔지니어: AI 에이전트로 100배 더 많은 실험하기",
+    "url": "https://news.hada.io/topic?id=35448",
+    "discussion_url": "https://news.hada.io/topic?id=35448",
+    "summary": "마케팅 엔지니어는 고객 조사, 페이지 제작, 광고 생성, 데이터 연결, 실험 실행을 직접 수행하며, 여러 AI 에이전트를 캠페인을 지속적으로 만드는 시스템으로 연결함\n마케팅의 병목은 아이디어보다 실행에 필요한 인력과 조율에 있었음. 아이디어를 내는 사람과 ...",
+    "score": 0,
+    "published_at": "2026-10-16T00:41:49+00:00",
+    "ai_summary": "마케팅 엔지니어는 AI 에이전트를 활용하여 고객 조사, 광고 생성, 실험 실행 등 마케팅 전반을 자동화하는 시스템을 구축합니다.\n여러 AI 에이전트를 연결해 캠페인을 지속적으로 생성함으로써 실행 병목을 해소하고 아이디어를 대규모로 실현합니다.\n개발자 관점에서는 AI 에이전트 시스템 설계 및 통합 기술이 중요해집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35443",
+    "title": "에이전트 기반 검증 - AI가 쓴 코드를 스스로 검사하게 만들기",
+    "url": "https://news.hada.io/topic?id=35443",
+    "discussion_url": "https://news.hada.io/topic?id=35443",
+    "summary": "AI 코딩의 병목이 코드 작성에서 정확성 검증으로 이동함. 에이전트가 스스로 변경하고 검사하고 수정하는 반복 과정을 갖추면, 사람이 매번 오류를 찾아 돌려주는 방식보다 품질을 크게 높일 수 있음\nE2E 테스트는 실제 사용자 흐름을 기준으로 ...",
+    "score": 0,
+    "published_at": "2026-10-16T00:31:02+00:00",
+    "ai_summary": "AI 코딩의 병목이 코드 작성에서 정확성 검증으로 이동함에 따라, 에이전트 기반 검증 방식이 주목받고 있습니다.\n이는 AI 에이전트가 코드를 스스로 변경하고 검사하며 수정하는 반복 과정을 통해 품질을 크게 향상시킵니다.\nE2E 테스트와 유사하게 실제 사용자 흐름을 기준으로 검증하여, 사람이 매번 오류를 찾아 수정하는 비효율을 줄입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35442",
+    "title": "Strands Harness SDK - 모델과 클라우드를 선택하고 에이전트 실행을 직접 제어하는 SDK",
+    "url": "https://news.hada.io/topic?id=35442",
+    "discussion_url": "https://news.hada.io/topic?id=35442",
+    "summary": "자체 앱에 AI 에이전트를 만들고 실행 과정을 직접 제어하려는 개발자를 위한 Python/TypeScript SDK\n모델과 클라우드를 자유롭게 선택하고, 규모가 커져 백엔드를 교체해도 에이전트 코드 유지 가능\n맥락 관리, 실행 제한, 관측 기능을 기본 제공...",
+    "score": 0,
+    "published_at": "2026-10-16T00:30:03+00:00",
+    "ai_summary": "Strands Harness SDK는 개발자가 자체 앱에 AI 에이전트를 만들고 실행 과정을 직접 제어할 수 있도록 돕는 Python/TypeScript SDK입니다.\n사용자는 모델과 클라우드를 자유롭게 선택할 수 있으며, 백엔드 교체 시에도 에이전트 코드를 유지할 수 있는 유연성을 제공합니다.\n맥락 관리, 실행 제한, 관측 기능이 기본 제공되어 AI 에이전트 개발을 용이하게 합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35439",
+    "title": "decomp.dev 운영 축소, 공개 목록과 신규 프로젝트 등록 중단",
+    "url": "https://news.hada.io/topic?id=35439",
+    "discussion_url": "https://news.hada.io/topic?id=35439",
+    "summary": "디컴파일 진행 상황을 모아 보여주던 decomp.dev가 공개 목록과 순위표의 해악이 이익보다 커졌다는 판단 아래 메인 목록과 신규 프로젝트 등록을 중단함\n기존 프로젝트 추적은 계속하며, 개별 프로젝트 페이지와 과거 데이터도 유지함\nAI는 디컴...",
+    "score": 0,
+    "published_at": "2026-10-16T00:07:58+00:00",
+    "ai_summary": "디컴파일 진행 상황을 제공하던 decomp.dev가 공개 목록과 신규 프로젝트 등록을 중단하며 운영을 축소합니다.\n이는 공개 순위표가 가져오는 해악이 이익보다 크다는 판단에 따른 것입니다.\n기존 프로젝트 추적과 개별 프로젝트 페이지는 유지되지만, 서비스의 주요 기능이 변경됨을 알리고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35437",
+    "title": "의사결정 AI Jev, 트롤리 문제를 만나다",
+    "url": "https://news.hada.io/topic?id=35437",
+    "discussion_url": "https://news.hada.io/topic?id=35437",
+    "summary": "문장 대신 선택과 확률을 반환하는 Jev 등 14개 모델에 트롤리 문제를 여러 방식으로 질문. 같은 상황에서도 문구와 설명 순서에 따라 사람을 구할지, 자신의 서버를 보존할지가 달라짐\n사람 20명과 자신의 서버 중 하나를 구하는 조건에서 Jev는 48개 질문 버전 중...",
+    "score": 0,
+    "published_at": "2026-10-15T21:34:09+00:00",
+    "ai_summary": "의사결정 AI Jev를 포함한 14개 모델에 트롤리 문제를 다양한 방식으로 질문한 결과, 문구와 설명 순서에 따라 AI의 선택이 달라지는 것이 확인되었습니다.\n같은 상황에서도 사람을 구하거나 자신의 서버를 보존하는 등의 결정이 일관되지 않았습니다.\n이는 AI 모델의 의사결정 과정이 미묘한 입력 변화에 취약하며, 윤리적 판단에 대한 추가 연구가 필요함을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50106023",
+    "title": "Jev meets the Trolley Problem",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50106023",
+    "summary": "",
+    "score": 291,
+    "published_at": "2026-10-15T16:24:52+00:00",
+    "ai_summary": "AI가 직면하는 윤리적 딜레마인 '트롤리 문제'에 'Jev'라는 개념을 접목하여 탐구합니다.\nAI 시스템의 복잡한 의사결정 과정과 윤리적 판단 기준에 대한 깊이 있는 논의를 제시합니다.\n이는 AI 개발자들이 인공지능 설계 시 고려해야 할 도덕적, 철학적 문제를 다룹니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50101813",
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50101813",
+    "summary": "",
+    "score": 381,
+    "published_at": "2026-10-15T10:43:36+00:00",
+    "ai_summary": "표적 광고 시스템이 제로 클릭 용병 스파이웨어 유포의 통로로 악용될 수 있음을 경고합니다.\n광고 네트워크의 취약점을 이용해 악성 소프트웨어가 사용자 기기에 침투하는 방식을 설명합니다.\n이는 개인 정보 보호 및 사이버 보안에 대한 심각한 위협이며, 개발자들의 주의를 요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50069439",
+    "title": "Major ICQ security hole (1998)",
+    "url": "https://opennet.ru/base/maillist/169.txt.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50069439",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-10-13T10:21:17+00:00",
+    "ai_summary": "1998년에 발생했던 메신저 서비스 ICQ의 심각한 보안 취약점에 대한 분석입니다.\n당시 널리 사용되던 소프트웨어의 보안 결함이 어떻게 악용될 수 있었는지 보여줍니다.\n과거의 취약점 사례는 현대 소프트웨어 보안 설계에 중요한 교훈을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50105648",
+    "title": "Krea 3 – An image model built for editing at scale",
+    "url": "https://www.krea.ai/krea-3",
+    "discussion_url": "https://news.ycombinator.com/item?id=50105648",
+    "summary": "",
+    "score": 240,
+    "published_at": "2026-10-15T16:04:05+00:00",
+    "ai_summary": "Krea 3는 대규모 이미지 편집을 위해 설계된 최신 AI 이미지 모델에 대한 기사입니다.\nAI 기반의 강력한 이미지 생성 및 편집 기능을 제공하여 창작 활동에 새로운 가능성을 제시합니다.\n특히 대량의 이미지 작업을 효율적으로 처리하는 데 초점을 맞춘 기술 혁신을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50104726",
+    "title": "Celebrating 70 Years of Fortran",
+    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50104726",
+    "summary": "",
+    "score": 212,
+    "published_at": "2026-10-15T15:03:17+00:00",
+    "ai_summary": "과학 및 공학 분야에서 오랜 역사를 가진 프로그래밍 언어 포트란(Fortran)의 70주년을 기념합니다.\n포트란이 고성능 컴퓨팅 및 수치 계산 분야에서 어떤 중요한 역할을 해왔는지 조명합니다.\n여전히 활발하게 사용되며 기술 발전에 기여하고 있는 이 언어의 지속적인 영향력을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50084674",
+    "title": "Why I Wrote PGP (1991, revised 1999)",
+    "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50084674",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-10-14T09:17:06+00:00",
+    "ai_summary": "PGP(Pretty Good Privacy) 개발자가 1991년에 PGP를 만들게 된 배경과 동기를 설명한 글입니다.\n개인의 프라이버시와 안전한 통신의 중요성을 강조하며 암호화 소프트웨어 개발의 철학을 제시합니다.\n현대 보안 기술의 근간이 되는 중요한 역사적 문서이자 개발자의 가치관을 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50105635",
+    "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50105635",
+    "summary": "",
+    "score": 282,
+    "published_at": "2026-10-15T16:03:19+00:00",
+    "ai_summary": "스팀 클라이언트가 에픽의 새로운 런처보다 성능이 더 빠르다는 비교 기사입니다.\n'바이브 코딩'으로 인해 비효율적인 에픽 런처의 문제점을 지적하며 최적화의 중요성을 강조합니다.\n클라이언트 애플리케이션 개발자들에게 성능 개선에 대한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50099121",
+    "title": "An Apology",
+    "url": "https://www.elevationlab.com/blogs/news/an-apology",
+    "discussion_url": "https://news.ycombinator.com/item?id=50099121",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-10-15T04:23:27+00:00",
+    "ai_summary": "기술 서비스 중단, 버그 또는 잘못된 의사 결정과 관련된 공식 사과문입니다.\n개발 및 운영 과정에서 발생할 수 있는 문제에 대한 책임감 있는 대처를 다룹니다.\n개발자들에게 투명한 소통과 위기 관리의 중요성을 시사합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50070625",
+    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50070625",
+    "summary": "",
+    "score": 352,
+    "published_at": "2026-10-13T12:30:08+00:00",
+    "ai_summary": "ISO 파일 다운로드 중 우연히 커널 취약점을 발견하고 이를 악용하는 과정을 상세히 다룹니다.\n시스템 깊은 곳의 보안 취약점을 찾아내 익스플로잇을 작성하는 기술적 여정을 설명합니다.\n보안 연구와 시스템 프로그래밍에 관심 있는 개발자들에게 귀중한 통찰을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50099136",
+    "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
+    "url": "https://github.com/andunieee/flipflop",
+    "discussion_url": "https://news.ycombinator.com/item?id=50099136",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-10-15T04:25:28+00:00",
+    "ai_summary": "Iroh 기술을 기반으로 파일 공유를 위한 영구 터널을 제공하는 'Flipflop' 프로젝트를 소개합니다.\n안정적이고 안전한 파일 전송 및 공유를 가능하게 하는 새로운 네트워크 솔루션입니다.\n분산 시스템, 백엔드 개발 및 네트워크 프로그래밍에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50104654",
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50104654",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-10-15T14:58:48+00:00",
+    "ai_summary": "사이먼스 재단이 1,500만 달러를 투자해 수학자들이 AI 시대를 탐색하도록 돕는 계획을 발표했습니다.\nAI가 수학 연구 및 교육에 미치는 영향과 새로운 도전을 다루며, 학문적 변화를 지원합니다.\nAI/ML 개발자들이 인공지능의 학문적 활용과 미래 방향을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50105467",
+    "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+    "url": "https://proa.so/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50105467",
+    "summary": "",
+    "score": 90,
+    "published_at": "2026-10-15T15:52:08+00:00",
+    "ai_summary": "Rust 기반의 새로운 웹 프레임워크 'Proa'를 소개하며, 빠른 SSR(서버 사이드 렌더링)과 다중 타겟 렌더링 기능을 제공합니다.\n성능과 유연성을 강조하여 현대적인 웹 애플리케이션 개발에 적합합니다.\n웹 개발자, 백엔드 개발자 및 Rust 개발자들에게 매우 흥미로운 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50103164",
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50103164",
+    "summary": "",
+    "score": 127,
+    "published_at": "2026-10-15T13:11:26+00:00",
+    "ai_summary": "C++26 표준에 도입될 '컨트랙트' 기능 중 사전 조건(Preconditions)과 사후 조건(Postconditions)에 대해 소개합니다.\n이는 코드의 정확성을 높이고 버그를 줄이는 데 기여하는 중요한 언어 기능입니다.\nC++ 개발자들이 더욱 견고하고 신뢰성 높은 소프트웨어를 작성하는 데 도움이 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50103630",
+    "title": "I know why the mathematicians weep",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "discussion_url": "https://news.ycombinator.com/item?id=50103630",
+    "summary": "",
+    "score": 342,
+    "published_at": "2026-10-15T13:44:32+00:00",
+    "ai_summary": "인공지능 기술의 발전이 수학 분야에 미치는 심층적인 영향을 다루며, 수학자들이 느끼는 복잡한 감정을 탐구합니다.\nAI가 수학적 발견, 연구 방법론 또는 학문 자체에 제기하는 도전을 설명합니다.\nAI/ML 개발자들이 인공지능의 철학적, 학문적 영향을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  }
+]
