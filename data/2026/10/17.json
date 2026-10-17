@@ -1,0 +1,721 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35467",
+    "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
+    "url": "https://news.hada.io/topic?id=35467",
+    "discussion_url": "https://news.hada.io/topic?id=35467",
+    "summary": "Meta는 2026년 10월 30일부터 비즈니스 계정과 연관된 웹사이트의 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 상업용 약관을 변경하며, 뉴스 발행사도 적용 대상임\n약관을 검토한 법률 전문가 3명은 새 문구가 뉴스 콘텐츠의 AI 학습 이용을 정당화하는...",
+    "score": 0,
+    "published_at": "2026-10-16T07:37:19+00:00",
+    "ai_summary": "Meta는 2026년 10월부터 상업용 약관을 변경하여 웹사이트 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 합니다.\n이는 뉴스 발행사를 포함하며, AI 학습에 콘텐츠를 이용하는 것을 정당화할 수 있다는 분석입니다.\n개발자들은 이러한 데이터 수집 및 AI 학습 관련 법적/윤리적 변화에 주목해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35462",
+    "title": "Show GN: Typescript – 한/영 키 누르기 귀찮아서 직접 만든 한·영·일 자동 판별 입력기",
+    "url": "https://news.hada.io/topic?id=35462",
+    "discussion_url": "https://news.hada.io/topic?id=35462",
+    "summary": "안녕하세요. 평소에 코딩하다가 슬랙이나 노션으로 넘어갈 때마다 한/영 키 안 눌러서 ⁠dkssudgktpdy⁠ 치고 백스페이스로 지우는 게 하루에도 수십 번씩 반복되다 보니, &quot;그냥 내가 치는 걸 보고 입력기가 알아서 언어를 바꿔주면 안 되나?&quot; 싶어서 직접 입력기를 하나 만들었습니다.\n이름은 Type",
+    "score": 0,
+    "published_at": "2026-10-16T03:28:08+00:00",
+    "ai_summary": "개발자가 코딩 중 한/영 전환의 불편함을 해소하고자 한/영/일 자동 판별 입력기를 TypeScript로 직접 개발했습니다.\n이 입력기는 사용자가 입력하는 내용을 분석하여 자동으로 언어를 전환해주는 기능을 제공합니다.\n이는 개발자의 생산성을 높이는 유용한 개인 도구 개발 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35461",
+    "title": "Show GN: 여울게임터 - 가입 없이 브라우저에서 바로 하는 1인 개발 게임 공유 사이트",
+    "url": "https://news.hada.io/topic?id=35461",
+    "discussion_url": "https://news.hada.io/topic?id=35461",
+    "summary": "혼자 만든 게임을 올리고, 가입 없이 바로 해 보고, 엄지척·한 줄 평을 남기는 사이트입니다. 어릴 때부터 게임을 만들고 싶었는데 매번 포기했고, AI 도움을 받아 처음으로 끝까지 만들어 본 것이 이 사이트와 게임들입니다.\n한 달 운영한 숫자 그대로\n\n게임 24개: 제가 만든 것 9개, 다른 개발자",
+    "score": 0,
+    "published_at": "2026-10-16T03:28:01+00:00",
+    "ai_summary": "한 개발자가 AI의 도움을 받아 게임을 만들고, 이를 공유하며 다른 개발자들도 게임을 올릴 수 있는 '여울게임터'를 개발했습니다.\n이 사이트는 가입 없이 브라우저에서 바로 게임을 플레이하고 평가할 수 있는 플랫폼을 제공합니다.\n이는 1인 개발자의 성취와 AI를 활용한 개발 사례를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35459",
+    "title": "원격 증명을 용인해서는 안 된다",
+    "url": "https://news.hada.io/topic?id=35459",
+    "discussion_url": "https://news.hada.io/topic?id=35459",
+    "summary": "원격 증명(remote attestation) 은 다른 기기에서 실행 중인 소프트웨어를 검증하는 기술로, 제3자가 사용자 소유 기기에서 무엇을 실행할 수 있는지 통제하는 수단이 됨\nGoogle Play Integrity는 Google이 승인한 Android 시스템인지 판별하며, 이를 요구하는 앱은...",
+    "score": 0,
+    "published_at": "2026-10-16T03:02:48+00:00",
+    "ai_summary": "원격 증명은 다른 기기의 소프트웨어 실행을 검증하는 기술로, 제3자가 사용자 기기를 통제할 수 있는 수단이 될 수 있습니다.\nGoogle Play Integrity와 같은 기술이 Android 시스템의 승인 여부를 판별하는 데 사용되며,\n이는 개발자들에게 플랫폼 종속성 및 자유도에 대한 문제를 제기합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35455",
+    "title": "Microsoft, Xbox Labs 출범 - AI 기반 게임 이식과 재창작 가능성 탐색",
+    "url": "https://news.hada.io/topic?id=35455",
+    "discussion_url": "https://news.hada.io/topic?id=35455",
+    "summary": "Microsoft가 게임 제작자와 엔지니어, 연구자로 구성된 Xbox Labs 출범. 게임을 원래 지원하지 않던 기기에서 실행하고 새롭게 변형하는 기술을 플레이어와 개발자가 경험할 수 있도록 실험\nWindows 게임의 Apple Silicon 이식, WebAssembly/WebGPU 기반 브라우저 실행, 서로...",
+    "score": 0,
+    "published_at": "2026-10-16T02:20:02+00:00",
+    "ai_summary": "Microsoft가 Xbox Labs를 출범하여 AI 기반 게임 이식 및 재창작 가능성을 탐색합니다.\n이 조직은 Windows 게임을 Apple Silicon으로 이식하거나 WebAssembly/WebGPU 기반으로 브라우저에서 실행하는 실험을 진행합니다.\n이는 개발자들이 다양한 플랫폼에서 게임을 경험하고 새로운 기술을 활용할 수 있는 기회를 모색합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50122431",
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122431",
+    "summary": "",
+    "score": 185,
+    "published_at": "2026-10-16T18:32:35+00:00",
+    "ai_summary": "탈옥된 PlayStation 5에서 Llama.cpp를 활용하여 모든 GGUF 모델을 네이티브로 실행하는 기술이 논의됩니다.\n이는 게임 콘솔 하드웨어에서 대규모 언어 모델을 구동하는 새로운 가능성을 보여줍니다.\n개발자들은 임베디드 AI 및 성능 최적화 분야에서 흥미로운 사례로 주목할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50122800",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122800",
+    "summary": "",
+    "score": 654,
+    "published_at": "2026-10-16T18:55:59+00:00",
+    "ai_summary": "Claude AI가 ECDSA 암호화 곡선의 기원에 대한 새로운 통찰력을 공개했습니다.\n이는 보안 및 암호학 분야의 역사적 맥락과 기술적 깊이를 조명합니다.\n개발자들이 암호화 시스템의 기본 원리를 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50123580",
+    "title": "FLUX 3 Image Klein",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123580",
+    "summary": "",
+    "score": 105,
+    "published_at": "2026-10-16T19:47:13+00:00",
+    "ai_summary": "FLUX 3 Image Klein은 이미지 처리 또는 3D 렌더링과 관련된 새로운 기술 또는 도구로 보입니다.\n시각적 콘텐츠 생성 및 조작을 위한 고급 기능을 제공할 수 있습니다.\n그래픽스 및 프론트엔드 개발자에게 유용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50118981",
+    "title": "Waymo in Toronto",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118981",
+    "summary": "",
+    "score": 263,
+    "published_at": "2026-10-16T14:44:17+00:00",
+    "ai_summary": "자율주행 기술 선도 기업인 Waymo가 캐나다 토론토에 진출했습니다.\n이는 자율주행 기술의 확장 및 현지 테스트, 데이터 수집과 관련이 있습니다.\nAI/ML 및 로봇 공학 분야 개발자들에게 중요한 소식입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50122878",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122878",
+    "summary": "",
+    "score": 127,
+    "published_at": "2026-10-16T19:01:17+00:00",
+    "ai_summary": "이 기사는 현대 LLM의 핵심인 트랜스포머(Transformer) 아키텍처의 원리를 설명합니다.\n트랜스포머의 핵심 아이디어가 직관적이며 이해하기 쉽다는 점을 강조합니다.\nAI/ML 및 LLM 분야 개발자들에게 기본 개념을 파악하는 데 큰 도움을 줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50083673",
+    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50083673",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-10-14T07:21:12+00:00",
+    "ai_summary": "무선 자기 밀리로봇이 박동하는 심장 내부로 약물을 전달하는 혁신적인 기술을 소개합니다.\n이는 정밀 의료 및 로봇 공학 분야의 최신 연구 성과입니다.\n의학 및 로봇 공학 관련 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50121939",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "discussion_url": "https://news.ycombinator.com/item?id=50121939",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-10-16T18:00:18+00:00",
+    "ai_summary": "Claude AI를 활용하여 더욱 효율적인 양자 회로를 설계하는 연구가 진행되고 있습니다.\n이는 AI와 양자 컴퓨팅의 융합을 보여주는 중요한 사례입니다.\n양자 컴퓨팅 및 AI/ML 분야 개발자에게 큰 의미가 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50118320",
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118320",
+    "summary": "",
+    "score": 263,
+    "published_at": "2026-10-16T13:43:48+00:00",
+    "ai_summary": "Apple ML 연구팀이 Muse Spark 프로젝트를 MLX 프레임워크와 함께 공개했습니다.\n이는 Mac Studio와 같은 Apple 하드웨어에서 ML 개발을 최적화하는 데 중점을 둡니다.\nApple 생태계에서 AI/ML 개발을 하는 이들에게 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50120224",
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50120224",
+    "summary": "",
+    "score": 195,
+    "published_at": "2026-10-16T16:12:02+00:00",
+    "ai_summary": "웹 이미지 포맷인 JPEG XL과 AVIF의 성능 및 지원 현황을 비교 분석합니다.\n두 포맷 모두 기존 JPEG보다 우수한 압축률과 품질을 제공하여 웹 성능 개선에 기여합니다.\n브라우저 및 생태계 지원 차이가 있어 현재 웹 개발 시 고려해야 할 사항을 제시합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50122736",
+    "title": "C++26: The New Debugging Header",
+    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122736",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-10-16T18:52:39+00:00",
+    "ai_summary": "C++26 표준에 추가될 새로운 디버깅 헤더 `std::debugging`에 대해 소개합니다.\n이 헤더는 C++ 프로그램의 디버깅 기능을 향상시키고 개발자가 코드 내에서 직접 디버그 정보를 활용할 수 있게 돕습니다.\nC++ 개발자들에게 더 효율적인 디버깅 환경을 제공할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50122951",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122951",
+    "summary": "",
+    "score": 227,
+    "published_at": "2026-10-16T19:04:47+00:00",
+    "ai_summary": "AI 모델 개발사인 Claude 팀이 코드 리뷰를 어떻게 수행하는지 상세히 다룹니다.\n효과적인 코드 리뷰 프로세스와 팀 문화에 대한 인사이트를 제공하여 코드 품질과 개발 효율을 높이는 방법을 제시합니다.\n개발 생산성과 코드 품질 향상을 위한 실용적인 조언을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50121179",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50121179",
+    "summary": "",
+    "score": 391,
+    "published_at": "2026-10-16T17:08:38+00:00",
+    "ai_summary": "현재 AI 벤치마크가 다루지 못하는 영역이 미국 근로 시간의 90%를 차지한다는 연구 결과를 제시합니다.\n이는 AI가 실제 업무 환경에서 아직 해결하지 못하는 복잡하고 미묘한 과제가 많음을 시사합니다.\nAI 기술의 발전 방향과 실제 적용 시 고려해야 할 중요한 한계를 지적합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50076089",
+    "title": "Monte-Carlo Simulations",
+    "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076089",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-10-13T18:11:46+00:00",
+    "ai_summary": "몬테카를로 시뮬레이션의 원리와 다양한 응용 분야를 설명합니다.\n무작위 샘플링을 통해 복잡한 문제의 근사 해를 구하는 강력한 통계 기법입니다.\n데이터 분석, 금융 모델링, 과학 계산 등 여러 분야의 개발자에게 유용한 도구입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50088748",
+    "title": "I built the RealWorld app in Lean 4",
+    "url": "https://leangineer.com/blog/realworld-in-lean/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50088748",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-10-14T15:03:14+00:00",
+    "ai_summary": "Lean 4 언어를 사용하여 'RealWorld' 애플리케이션을 구현한 경험을 공유합니다.\n함수형 프로그래밍과 형식 검증에 특화된 Lean 4로 실제 애플리케이션을 구축하는 과정과 도전 과제를 다룹니다.\n새로운 프로그래밍 언어와 패러다임에 관심 있는 개발자에게 흥미로운 내용입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50124251",
+    "title": "I never authorized an integration that scans my secrets",
+    "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+    "discussion_url": "https://news.ycombinator.com/item?id=50124251",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-10-16T20:33:41+00:00",
+    "ai_summary": "사용자가 인지하지 못하는 사이 민감한 정보(secrets)를 스캔하는 통합(integration) 문제에 대해 경고합니다.\n서드파티 도구 및 CI/CD 파이프라인 보안의 중요성을 강조하며, 잠재적 보안 위협을 경각시킵니다.\n개발 환경의 보안 취약점을 점검하고 방어하기 위한 주의사항을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50118977",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118977",
+    "summary": "",
+    "score": 163,
+    "published_at": "2026-10-16T14:44:02+00:00",
+    "ai_summary": "OpenBSD 커널에서 37년 된 취약점이 발견되어 익스플로잇 가능성이 제기되었습니다.\n이 버그는 운영체제 내부 동작과 메모리 관리의 복잡성을 보여줍니다.\n시스템 보안과 커널 개발에 대한 심층적인 이해가 중요함을 일깨워줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50118688",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118688",
+    "summary": "",
+    "score": 184,
+    "published_at": "2026-10-16T14:18:44+00:00",
+    "ai_summary": "Gemini 4 Argon이라는 AI가 실시간 전략 게임인 스타크래프트를 플레이하는 시연 프로젝트입니다.\nAI의 게임 플레이 능력과 전략적 사고를 보여주며, 복잡한 환경에서의 AI 학습 및 적용 가능성을 탐구합니다.\n이는 AI/ML 분야의 발전과 활용 사례를 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50121004",
+    "title": "/dev/null: social network for developers",
+    "url": "https://dev-null.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=50121004",
+    "summary": "",
+    "score": 124,
+    "published_at": "2026-10-16T16:57:49+00:00",
+    "ai_summary": "개발자를 위한 새로운 소셜 네트워크 서비스인 \"/dev/null\"이 소개되었습니다.\n개발자들이 서로 교류하고 정보를 공유하며 커뮤니티를 형성할 수 있는 공간을 제공합니다.\n이는 개발자 생태계와 협업 문화를 촉진하는 데 기여할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50124642",
+    "title": "Why harnesses matter for energy (and token) efficiency",
+    "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+    "discussion_url": "https://news.ycombinator.com/item?id=50124642",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-10-16T21:01:23+00:00",
+    "ai_summary": "에너지 효율성과 토큰 효율성이 AI, 특히 LLM 분야에서 왜 중요한지에 대한 논의입니다.\n\"하네스\"라는 개념을 통해 모델의 효율적인 작동과 최적화 방안을 모색합니다.\n이는 LLM 개발 및 운영 비용 절감에 직접적인 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50090453",
+    "title": "PGO or not PGO this is the dilemma. Step 2",
+    "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50090453",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-10-14T16:33:48+00:00",
+    "ai_summary": "Profile-Guided Optimization (PGO)의 적용 여부에 대한 심층적인 분석의 두 번째 단계입니다.\nPGO를 통해 소프트웨어 성능을 어떻게 향상시킬 수 있는지, 그리고 그 적용 시 고려해야 할 사항들을 다룹니다.\n백엔드 개발자와 성능 최적화 엔지니어에게 유용한 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50117746",
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50117746",
+    "summary": "",
+    "score": 282,
+    "published_at": "2026-10-16T12:52:08+00:00",
+    "ai_summary": "하드웨어 렌더링이 보편화된 시대에 소프트웨어 렌더링에 대한 애정과 그 장점을 역설하는 글입니다.\n소프트웨어 렌더링의 원리, 구현의 즐거움, 그리고 특정 상황에서의 유용성을 탐구합니다.\n그래픽스 프로그래밍과 저수준 시스템 개발에 관심 있는 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50118318",
+    "title": "What was a Token Ring network?",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118318",
+    "summary": "",
+    "score": 92,
+    "published_at": "2026-10-16T13:43:30+00:00",
+    "ai_summary": "토큰 링 네트워크는 IBM이 개발한 근거리 통신망(LAN) 기술로, 데이터 전송을 위한 토큰 기반 접근 제어 방식을 사용했습니다.\n링형 토폴로지에서 토큰을 가진 스테이션만 데이터를 전송할 수 있어 데이터 충돌 없이 안정적인 통신이 가능했습니다.\n현재는 이더넷에 밀려 거의 사용되지 않지만, 네트워크 통신 방식의 중요한 역사적 맥락을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50121601",
+    "title": "GifCities",
+    "url": "https://gifcities.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50121601",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-10-16T17:35:07+00:00",
+    "ai_summary": "GifCities는 인터넷 아카이브가 1990년대 웹사이트 GeoCities에서 수집한 방대한 애니메이션 GIF 이미지 데이터베이스입니다.\n옛 웹 디자인의 향수를 불러일으키는 다양한 움직이는 이미지들을 검색하고 다운로드할 수 있습니다.\n웹 역사 연구, 디지털 아트 프로젝트 또는 단순히 과거 웹의 시각적 요소를 탐험하는 데 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.meta.ai/blog/muse-spark-open",
+    "title": "Muse Spark Open (4 minute read)",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "discussion_url": "https://research.meta.ai/blog/muse-spark-open",
+    "summary": "Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "코딩 및 장기 에이전트 작업에 특화된 816B 매개변수 멀티모달 오픈 모델입니다. 42B 활성 매개변수와 1M 토큰 컨텍스트 창을 가지며, MLX를 사용하여 Apple M5 Ultra Mac Studio에서 로컬 실행 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+    "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
+    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+    "discussion_url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+    "summary": "Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Microsoft는 2.8T 매개변수의 Mixture-of-Experts(MoE) 모델인 MAI-Base-2를 훈련시켜 오픈 모델들을 능가했다고 발표했습니다. 이 기사는 데이터 전략, 컴퓨팅 효율성 및 Foundry를 통한 기업용 AI 모델 제공 계획을 상세히 다룹니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.liquid.ai/blog/d1-ultra",
+    "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
+    "url": "https://www.liquid.ai/blog/d1-ultra",
+    "discussion_url": "https://www.liquid.ai/blog/d1-ultra",
+    "summary": "Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Liquid AI의 d1-ultra는 회로 기판 결함 감지 같은 복잡한 실제 작업을 위한 멀티모달 결정 모델입니다. 텍스트와 이미지를 처리하며, 기존 모델보다 더 정확하고 보정된 답변을 제공하고, Liquid API를 통해 접근 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://already-clean.goodfire.com/",
+    "title": "Neural Networks Are Already Clean (65 minute read)",
+    "url": "https://already-clean.goodfire.com/",
+    "discussion_url": "https://already-clean.goodfire.com/",
+    "summary": "The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "신경망의 다의성(polysemanticity)이 임의적인 개념 압축이 아닌 재귀적 일반화(recursive generalization) 때문임이 밝혀졌습니다. 이는 신경망을 직접 연구할 수 있음을 의미하며, 기계적 해석 가능성(mechanistic interpretability)의 전망을 밝게 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/",
+    "title": "Mo' turns, mo' problems (6 minute read)",
+    "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/",
+    "discussion_url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/",
+    "summary": "Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and co",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "AI 에이전트 사용 사례를 위한 강화 학습은 개념적으로 간단하지만, 실제 구현은 복잡합니다. 에이전트 후처리(agentic post-training)에서는 모델 외에 여러 요소를 고려해야 하며, 에이전트의 서브 에이전트 생성 및 병렬 도구 호출 등이 난이도를 높입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+    "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+    "discussion_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+    "summary": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Nvidia가 새로운 멀티모달 추론 모델인 Nemotron 3.5 Super VL을 출시했습니다. 이 모델은 적은 출력 토큰으로 높은 성능을 달성하며, 더 작은 Nemotron 3.5 Bolt 74B-A9B 모델과 거의 무손실 NVFP4 양자화 가중치도 함께 공개되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.krea.ai/krea-3",
+    "title": "Krea 3 (Website)",
+    "url": "https://www.krea.ai/krea-3",
+    "discussion_url": "https://www.krea.ai/krea-3",
+    "summary": "Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Krea 3는 8초 이내에 이미지 편집을 완료하고 이미지당 0.06달러 비용으로 사용 가능한 프로덕션용 이미지 편집 모델입니다. 기존 모델보다 4배 빠르며, 최대 8개의 참조 이미지를 하나로 결합할 수 있는 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2110797830361436604.html",
+    "title": "GPT-Live-1.1 (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2110797830361436604.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2110797830361436604.html",
+    "summary": "GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "GPT-Live-1.1은 한국어를 포함한 다국어 음성 지원을 강화하며, 개선된 억양과 부드러운 전환이 특징입니다. 이 모델은 ChatGPT, Codex, dots에서 사용 가능하며 API에도 곧 적용될 예정입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "title": "Open weight takes 71.5% of tokens and 23% of spend (7 minute read)",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "discussion_url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "summary": "Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "오픈웨이트 모델이 게이트웨이 토큰의 70% 이상과 지출의 거의 25%를 차지하며, 지출 점유율이 6월 이후 4배 이상 증가했습니다. Jev 모델은 가장 빠르게 채택되었으나 게이트웨이 지출의 0.27%를 차지했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://bfl.ai/blog/flux-3-image-klein",
+    "title": "FLUX 3 Image Klein (4 minute read)",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "discussion_url": "https://bfl.ai/blog/flux-3-image-klein",
+    "summary": "Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Black Forest Labs가 5.6B 파라미터의 오픈웨이트 모델 FLUX 3 Image Klein을 출시했습니다. 이 모델은 텍스트-이미지 생성, 편집, 네이티브 4K 출력 및 최대 10개의 참조 이미지 지원 기능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://every.to/p/how-codex-happened",
+    "title": "How Codex Happened (40 minute read)",
+    "url": "https://every.to/p/how-codex-happened",
+    "discussion_url": "https://every.to/p/how-codex-happened",
+    "summary": "OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "OpenAI의 Codex는 초기 클라우드 출시 실패를 극복하고 OpenAI 제품의 핵심이 되었습니다. 현재 주간 4천만 명 이상의 사용자를 확보하며 성공적인 개발자 도구의 진화를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/_chenglou/status/2110557373651931267",
+    "title": "Introducing Handwired: JavaScript as Neural Networks (1 minute read)",
+    "url": "https://x.com/_chenglou/status/2110557373651931267",
+    "discussion_url": "https://x.com/_chenglou/status/2110557373651931267",
+    "summary": "Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Handwired는 일반 JavaScript 코드를 훈련이나 GPU 없이도 정확한 프로그램 출력을 재현하는 신경망으로 변환하는 새로운 기술을 소개합니다. 이는 새로운 프로그래밍 및 최적화 접근 방식을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+    "title": "Perplexity Open-Sourced Its Agent Sandbox (4 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+    "summary": "Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent.",
+    "score": 0,
+    "published_at": "2026-10-17T01:07:15+00:00",
+    "ai_summary": "Perplexity는 컴퓨터 에이전트의 기반이 되는 샌드박스 인프라 SPACE를 오픈소스화했습니다. 개발자들이 AI 에이전트 개발 및 실험에 활용할 수 있는 직접적인 도구를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  }
+]
