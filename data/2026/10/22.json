@@ -1,0 +1,870 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35787",
+    "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
+    "url": "https://news.hada.io/topic?id=35787",
+    "discussion_url": "https://news.hada.io/topic?id=35787",
+    "summary": "시스템 운영팀을 위해, 운영 절차와 API 설명 옆에 실시간 지표를 표시하고, 문서와 차트 변경을 함께 검토하고 승인 가능\nPrometheus와 PostgreSQL/MySQL/MariaDB 쿼리로 시계열과 막대 차트, 게이지를 문서 안에 표시\nStripe 스타일의 좌우 분할...",
+    "score": 0,
+    "published_at": "2026-10-22T00:30:02+00:00",
+    "ai_summary": "Oxynote는 실시간 지표와 API 문서를 통합 관리하는 기술 위키입니다.\nPrometheus, DB 쿼리를 통해 시계열, 막대 차트 등을 문서 안에 표시할 수 있습니다.\n시스템 운영팀을 위해 문서와 차트 변경을 함께 검토하고 승인하는 기능을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Database"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35785",
+    "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
+    "url": "https://news.hada.io/topic?id=35785",
+    "discussion_url": "https://news.hada.io/topic?id=35785",
+    "summary": "2026년 1~8월 Hugging Face에 공개한 한국 계정들의 신규 언어모델 1,845건 중 49.3%가 중국 모델 기반\n확산을 주도한 것은 알리바바 Qwen으로, 전체의 46.8%인 864건을 차지. Gemma 14.7%, Llama 13.8%, EXAONE 9.3%가 뒤를 이었으며, DeepSeek 기반은 1.0%에 그침...",
+    "score": 0,
+    "published_at": "2026-10-22T00:10:02+00:00",
+    "ai_summary": "2026년 1~8월 Hugging Face에 공개된 한국 신규 언어모델 중 약 절반이 중국 모델 기반입니다.\n특히 알리바바 Qwen이 전체의 46.8%를 차지하며 확산을 주도했습니다.\nGemma, Llama, EXAONE 등이 뒤를 이었으며, AI/ML 개발 트렌드를 보여줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35782",
+    "title": "Firefox Local Mode - 로컬 파일을 맞춤 HTTPS URL로 불러오는 개발 도구 기능",
+    "url": "https://news.hada.io/topic?id=35782",
+    "discussion_url": "https://news.hada.io/topic?id=35782",
+    "summary": "Firefox 153에 도입된 Local Mode는 맞춤 HTTPS URL과 로컬 폴더를 연결해, 별도 HTTP 서버 없이 웹 페이지를 테스트할 수 있게 함\n보안 컨텍스트(Secure Contexts) 로 제한된 API를 포함해 모든 웹 API를 테스트하기 쉽게 함\n실험이나 프로젝트마다",
+    "score": 0,
+    "published_at": "2026-10-22T00:01:35+00:00",
+    "ai_summary": "Firefox 153에 도입된 Local Mode는 로컬 파일을 맞춤 HTTPS URL로 불러오는 개발 도구입니다.\n별도 HTTP 서버 없이 웹 페이지를 테스트하고 보안 컨텍스트 API를 쉽게 활용할 수 있습니다.\nFrontend 개발자들의 로컬 개발 및 테스트 환경을 개선하는 데 도움이 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35778",
+    "title": "Railway 보안 사고 공개",
+    "url": "https://news.hada.io/topic?id=35778",
+    "discussion_url": "https://news.hada.io/topic?id=35778",
+    "summary": "Railway가 고객 환경 변수를 저장하는 시스템에서 이상 활동을 탐지했으며, 조사 결과 비인가 제3자가 암호화된 환경 변수에 접근하고 일부는 복호화된 내용까지 확보했을 가능성이 있음\n환경 변수에는 API 키, 데이터베이스 및 레지스트리 자격 증명 같은 비밀 정...",
+    "score": 0,
+    "published_at": "2026-10-21T23:37:37+00:00",
+    "ai_summary": "Railway에서 고객 환경 변수를 저장하는 시스템의 보안 사고가 발생했습니다.\n비인가 제3자가 암호화된 환경 변수에 접근했고, 일부는 복호화되었을 가능성이 있습니다.\nAPI 키, DB 자격 증명 등 민감한 정보의 보안 중요성을 강조하는 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35775",
+    "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
+    "url": "https://news.hada.io/topic?id=35775",
+    "discussion_url": "https://news.hada.io/topic?id=35775",
+    "summary": "Google Cloud에서 OpenAI 모델과 Codex를 활용할 수 있게 됨. GPT-6 Astra, GPT-6.1 Sol, GPT-6 Luna를 일부 기업 고객 대상 비공개 프리뷰로 제공하기 시작\n로컬 Codex CLI와 데스크톱 앱을 Google Cloud에 연결해 모델 추론을 실행하고, API로 자체 애플리케이션...",
+    "score": 0,
+    "published_at": "2026-10-21T22:46:51+00:00",
+    "ai_summary": "Google Cloud에서 OpenAI의 GPT-6 Astra, Sol, Luna 모델 및 Codex를 활용할 수 있게 됩니다.\n일부 기업 고객 대상 비공개 프리뷰로 제공되며, 로컬 CLI와 데스크톱 앱 연결을 지원합니다.\nGoogle Cloud 사용자들이 OpenAI 모델을 쉽게 통합하고 애플리케이션을 구축할 수 있게 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35773",
+    "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
+    "url": "https://news.hada.io/topic?id=35773",
+    "discussion_url": "https://news.hada.io/topic?id=35773",
+    "summary": "메시지로 업무를 맡기면 클라우드 컴퓨터에서 처리하고, 필요할 때 먼저 연락하는 Anthroipic의 개인 AI 에이전트. 노트북이나 휴대폰을 꺼도 작업을 계속하며, 완료하거나 결정이 필요하면 알림\n매일 아침 이메일과 일정, 연결된 앱에서 중요한 일을 모아...",
+    "score": 0,
+    "published_at": "2026-10-21T22:40:51+00:00",
+    "ai_summary": "Anthropic의 개인 AI 에이전트 Claude Duet은 메시지로 업무를 맡기면 클라우드에서 처리합니다.\n작업이 완료되거나 결정이 필요할 때 먼저 사용자에게 알림을 주는 기능을 제공합니다.\n일상 업무 자동화 및 비서 역할로 AI 에이전트의 활용 가능성을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35771",
+    "title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안",
+    "url": "https://news.hada.io/topic?id=35771",
+    "discussion_url": "https://news.hada.io/topic?id=35771",
+    "summary": "OpenAI가 오픈소스 유지관리자의 보안 대응을 지원하는 ‘Patch the Planet’을 통해 5단계 공조 체계를 제안. AI가 취약점을 빠르게 찾아내는 만큼, 연구자와 보안업체, 인프라 제공자가 패치 개발부터 실제 배포까지 함께 준비하는 방식\nPHP의 심각한 취약점 대응에서는 두...",
+    "score": 0,
+    "published_at": "2026-10-21T20:33:47+00:00",
+    "ai_summary": "OpenAI는 'Patch the Planet' 이니셔티브를 통해 AI가 발견하는 취약점 대응 5단계 공조 체계를 제안했습니다.\nAI가 취약점을 빠르게 찾아냄에 따라 연구자, 보안업체, 인프라 제공자의 협력 강화를 목표합니다.\n패치 개발부터 실제 배포까지 체계적인 보안 대응을 지원하여 오픈소스 생태계를 강화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35767",
+    "title": "LiteLLM 1.107.0 PyPI 패키지에 인증 정보 탈취 악성코드와 백도어 삽입",
+    "url": "https://news.hada.io/topic?id=35767",
+    "discussion_url": "https://news.hada.io/topic?id=35767",
+    "summary": "여러 LLM의 API를 연결하는 LiteLLM의 PyPI 배포본 1.107.0에서 인증 정보 탈취 악성코드와 원격 코드 실행 백도어 발견. Linux/macOS/Windows용 설치 패키지 7개에 악성 파일이 포함됨\n감염된 Python 환경에서는 LiteLLM을 직접 불러오지 않아도 Python 시작 시 악성코드가...",
+    "score": 0,
+    "published_at": "2026-10-21T18:34:51+00:00",
+    "ai_summary": "LiteLLM의 PyPI 패키지 1.107.0 버전에서 인증 정보 탈취 악성코드와 원격 코드 실행 백도어가 발견되었습니다.\nLinux/macOS/Windows용 설치 패키지에 악성 파일이 포함되어, Python 환경 시작 시 악성코드가 실행될 수 있습니다.\n개발자들은 즉시 해당 버전을 삭제하고 최신 버전으로 업데이트하여 보안 위협에 대비해야 합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35761",
+    "title": "PHP2Shell - AI로 PHP의 오래된 취약점을 실제 공격으로 구현",
+    "url": "https://news.hada.io/topic?id=35761",
+    "discussion_url": "https://news.hada.io/topic?id=35761",
+    "summary": "Wiz Research가 AI를 활용해 PHP에 10년 이상 남아 있던 복잡한 취약점을 실제 원격 공격으로 구현. 여러 결함을 연결하고 대상 환경에 맞춰 공격을 조정하는 데 필요한 시간과 전문성의 장벽을 낮춘 사례\n시험 당시 최신 WordPress, Drupal, Joomla 컨테이너에서 인증 없는...",
+    "score": 0,
+    "published_at": "2026-10-21T15:37:45+00:00",
+    "ai_summary": "Wiz Research는 AI를 이용해 PHP의 10년 이상 된 복잡한 취약점을 실제 원격 공격으로 구현하는 데 성공했습니다.\nAI가 여러 결함을 연결하고 공격을 환경에 맞춰 조정하며, 공격 구현에 필요한 전문성 장벽을 낮추는 사례를 보여주었습니다.\n최신 WordPress, Drupal, Joomla 컨테이너에서 인증 없이 원격 코드 실행이 가능함이 시연되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35754",
+    "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
+    "url": "https://news.hada.io/topic?id=35754",
+    "discussion_url": "https://news.hada.io/topic?id=35754",
+    "summary": "Meta의 AI 에이전트 Muse에서 사용자가 공유한 대화를 제3자도 찾아 열람할 수 있는 문제가 발견됨. 링크를 직접 전달받지 않아도 로그인 없이 개인 금융 정보와 기업 내부 자료에 접근 가능했음\n보안업체 Claroc은 과거 DNS 조회 기록을 모은 패시브 DNS 서비스에서 검색 한...",
+    "score": 0,
+    "published_at": "2026-10-21T10:32:34+00:00",
+    "ai_summary": "Meta의 AI 에이전트 Muse에서 사용자가 공유한 대화가 제3자에게 노출될 수 있는 개인정보 유출 문제가 발견되었습니다.\n링크 없이도 개인 금융 정보나 기업 내부 자료에 접근 가능했으며, 패시브 DNS 서비스에서 검색된 링크를 통해 확인되었습니다.\n이에 Meta는 Muse의 대화 공유 기능을 일시 중단했으며, AI 서비스 개발 시 개인정보 보호의 중요성을 다시 한번 상기시킵니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35752",
+    "title": "크래프톤, 자체 개발 30B급 고효율 LLM &#039;Raon-1 mini&#039; 프리뷰 공개",
+    "url": "https://news.hada.io/topic?id=35752",
+    "discussion_url": "https://news.hada.io/topic?id=35752",
+    "summary": "크래프톤이 모델 아키텍처 설계부터 사전학습까지 독자 개발한 30B급 오픈웨이트 LLM 'Raon-1 mini' 프리뷰를 공개. 한국어·영어 대화와 추론, AI 에이전트 작업에 초점을 맞춘 모델\nMoE(Mixture of Experts)와 자체 개발한 선형 어텐션 기술을 결합. 전체 약 300억...",
+    "score": 0,
+    "published_at": "2026-10-21T10:00:19+00:00",
+    "ai_summary": "크래프톤이 모델 아키텍처부터 사전학습까지 독자 개발한 30B급 오픈웨이트 LLM 'Raon-1 mini' 프리뷰를 공개했습니다.\n이 모델은 한국어 및 영어 대화, 추론, AI 에이전트 작업에 특화되어 있으며, MoE와 자체 선형 어텐션 기술을 결합했습니다.\n약 300억 매개변수로 고효율을 목표로 하며, 국내 LLM 기술 발전에 기여할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35745",
+    "title": "2026년 JavaScript 동향",
+    "url": "https://d2.naver.com/helloworld/2675915",
+    "discussion_url": "https://news.hada.io/topic?id=35745",
+    "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유.\n\n1",
+    "score": 0,
+    "published_at": "2026-10-21T07:18:40+00:00",
+    "ai_summary": "네이버 D2가 6년 만에 JavaScript 동향 연재를 재개하며, 2026년 10월 기준의 장문 분석을 공유했습니다.\nECMAScript 표준 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구의 영향까지 다룹니다.\n프론트엔드 및 백엔드 개발자 모두에게 JavaScript 생태계의 미래를 예측하고 대비하는 데 중요한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35741",
+    "title": "학계는 Wikipedia 같은 개방형 지식 체계를 지킬 의무가 있음",
+    "url": "https://news.hada.io/topic?id=35741",
+    "discussion_url": "https://news.hada.io/topic?id=35741",
+    "summary": "생성형 AI의 즉답을 받아들이고 원문 링크를 확인하지 않는 이용 행태는 Wikipedia 독자 감소로 이어질 수 있으며, 독자에서 충원되는 자원봉사 공동체의 존속까지 위협함\nWikipedia는 AI 학습 데이터 이상의 자치적 지식 공동체이며, 학계는 지식 생산 과정에 참여...",
+    "score": 0,
+    "published_at": "2026-10-21T03:33:34+00:00",
+    "ai_summary": "생성형 AI의 즉답 의존과 원문 확인 소홀은 Wikipedia 독자 감소와 자원봉사 공동체 존속을 위협할 수 있습니다.\nWikipedia는 AI 학습 데이터 이상의 자치적 지식 공동체로서, 학계는 지식 생산 과정에 참여하며 이를 지킬 의무가 있습니다.\nAI 시대에 개방형 지식 체계의 가치와 지속 가능성에 대한 인식을 높이는 것이 중요합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35739",
+    "title": "2026년은 Rust 컴파일러에게도, 나에게도 흥미진진한 해",
+    "url": "https://news.hada.io/topic?id=35739",
+    "discussion_url": "https://news.hada.io/topic?id=35739",
+    "summary": "오랫동안 개발해 온 Rust 컴파일러 개선 작업들이 동시에 결실을 맺기 시작. 타입 시스템의 오래된 제약을 풀고, 컴파일 속도와 빌드 산출물 관리를 개선하는 작업이 진행 중\n차세대 트레이트 솔버와 새 빌림 검사기 Polonius는 타입 검사의 오류를 바로잡고, 기존...",
+    "score": 0,
+    "published_at": "2026-10-21T02:33:55+00:00",
+    "ai_summary": "오랫동안 개발되어 온 Rust 컴파일러 개선 작업들이 동시에 결실을 맺기 시작하며, 2026년이 중요한 해가 될 것으로 보입니다.\n타입 시스템의 오래된 제약을 풀고, 컴파일 속도와 빌드 산출물 관리를 개선하는 작업이 진행 중입니다.\n차세대 트레이트 솔버와 새 빌림 검사기 Polonius 도입으로 타입 검사 오류를 줄이고 Rust 개발 경험을 향상할 예정입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50189232",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "discussion_url": "https://news.ycombinator.com/item?id=50189232",
+    "summary": "",
+    "score": 124,
+    "published_at": "2026-10-21T23:51:37+00:00",
+    "ai_summary": "mitmproxy는 개발자들이 네트워크 트래픽을 가로채고 분석하는 데 사용하는 인기 도구입니다.\n이번 업데이트로 --emudhra 옵션이 추가되어 특정 인증서 처리 기능이 향상되었습니다.\n이는 보안 테스트 및 디버깅 작업을 수행하는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50188228",
+    "title": "Railway Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "discussion_url": "https://news.ycombinator.com/item?id=50188228",
+    "summary": "",
+    "score": 291,
+    "published_at": "2026-10-21T21:58:03+00:00",
+    "ai_summary": "클라우드 호스팅 플랫폼인 Railway에서 보안 관련 정보가 공개되었습니다.\n이는 플랫폼 사용자들에게 영향을 미칠 수 있는 취약점이나 보안 사고에 대한 내용일 것입니다.\n개발자들은 자신의 애플리케이션이 배포된 환경의 보안 상태에 주의해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50188948",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50188948",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-10-21T23:13:27+00:00",
+    "ai_summary": "특정 PHP 취약점이 발견되었지만, 이를 악용하기 쉬운 방법은 아직 없는 것으로 보고되었습니다.\n이는 PHP 기반 애플리케이션을 개발하는 백엔드 개발자들에게 중요합니다.\n하지만 잠재적 위협이므로 보안 패치에 계속 관심을 기울여야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50182987",
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50182987",
+    "summary": "",
+    "score": 673,
+    "published_at": "2026-10-21T15:48:56+00:00",
+    "ai_summary": "오늘 PHP의 새로운 보안 릴리스가 배포되었으며, PHP 개발자들이 보안을 강화하기 위한 노력이 발표되었습니다.\n이는 PHP 애플리케이션을 운영하는 모든 백엔드 개발자에게 필수적인 정보입니다.\n최신 보안 패치 적용이 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50185869",
+    "title": "GitLab Critical Patch Release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50185869",
+    "summary": "",
+    "score": 242,
+    "published_at": "2026-10-21T19:01:12+00:00",
+    "ai_summary": "GitLab에서 심각한 취약점을 해결하기 위한 중요 패치 릴리스가 발표되었습니다.\nGitLab을 사용하는 개발자, DevOps 엔지니어 및 시스템 관리자들은 즉시 업데이트해야 합니다.\n이는 코드 저장소 및 CI/CD 파이프라인의 보안에 직결됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50186010",
+    "title": "Google's Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186010",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-10-21T19:11:57+00:00",
+    "ai_summary": "Google이 Rust 언어를 위한 자체 스타일 가이드를 발표했습니다.\n이는 Rust 개발자들이 일관된 코드 스타일을 유지하고 가독성을 높이는 데 도움을 줄 것입니다.\nRust 커뮤니티와 Rust를 사용하는 개발자들에게 중요한 참고 자료가 됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50181114",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50181114",
+    "summary": "",
+    "score": 432,
+    "published_at": "2026-10-21T14:00:26+00:00",
+    "ai_summary": "PyPI에 배포된 LiteLLM 라이브러리 버전 1.107.0이 손상되어 자격 증명 탈취 및 백도어 악성 코드를 설치하는 것으로 밝혀졌습니다.\n이 라이브러리를 사용하는 모든 Python 개발자, 특히 LLM 관련 개발자들은 즉시 확인하고 조치해야 합니다.\n이는 심각한 공급망 보안 공격입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50161346",
+    "title": "No More Icons in Every Menu by Default",
+    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50161346",
+    "summary": "",
+    "score": 162,
+    "published_at": "2026-10-20T04:27:08+00:00",
+    "ai_summary": "기본 메뉴에 아이콘이 너무 많아 사용자 경험을 저해한다는 지적이 있어, 이제 기본값으로 모든 메뉴에 아이콘이 표시되지 않도록 변경됩니다.\n이는 UI/UX 개선을 위한 조치로, 더 깔끔하고 간결한 인터페이스를 제공하려는 목적입니다.\n개발자는 이러한 변화를 고려하여 애플리케이션 디자인을 조정해야 할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50159726",
+    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159726",
+    "summary": "",
+    "score": 130,
+    "published_at": "2026-10-20T00:14:03+00:00",
+    "ai_summary": "윈도우 11에 여전히 윈도우 95 시절의 메모리 관리자가 숨겨져 있는 이유를 파헤칩니다.\n이는 하위 호환성 유지와 레거시 코드의 복잡성을 보여주는 사례입니다.\n운영체제 내부 구조와 소프트웨어 아키텍처에 관심 있는 개발자들에게 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50154100",
+    "title": "Chain of Thought for Humans",
+    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50154100",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-10-19T16:06:22+00:00",
+    "ai_summary": "'인간을 위한 사고의 사슬'은 AI 모델의 추론 방식인 Chain of Thought 개념을 인간의 문제 해결에 적용하는 것을 탐구합니다.\n복잡한 문제를 단계적으로 해결하고, 그 과정을 명확히 하여 더 나은 의사결정을 돕는 방법론을 제시합니다.\n이는 AI와 인지 과학의 교차점에서 개발자들이 배울 점이 많을 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50181136",
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "discussion_url": "https://news.ycombinator.com/item?id=50181136",
+    "summary": "",
+    "score": 359,
+    "published_at": "2026-10-21T14:01:22+00:00",
+    "ai_summary": "임베디드 분석 데이터베이스인 DuckDB의 2.0.0 LTS \"Cinnamon Teal\" 버전이 출시되었습니다.\n성능 개선, 새로운 기능 추가, 안정성 향상이 주요 내용일 것으로 예상됩니다.\n데이터 분석 및 임베디드 데이터베이스를 사용하는 개발자에게 중요한 업데이트 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50180079",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180079",
+    "summary": "",
+    "score": 234,
+    "published_at": "2026-10-21T12:53:11+00:00",
+    "ai_summary": "OpenAI 모델이 구글 클라우드 플랫폼에서 제공될 예정이라는 발표입니다.\n이는 개발자들이 구글 클라우드 환경에서 OpenAI의 강력한 AI 모델을 더 쉽게 활용할 수 있게 됨을 의미합니다.\n클라우드 기반 AI 개발 및 배포 전략에 중요한 변화를 가져올 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50181175",
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50181175",
+    "summary": "",
+    "score": 232,
+    "published_at": "2026-10-21T14:03:43+00:00",
+    "ai_summary": "'Patch the Planet'은 에이전트들이 취약점을 발견하고 글로벌 차원에서 대응을 조율하는 보안 이니셔티브를 다룹니다.\n이는 사이버 보안 위협에 대한 협력적이고 자동화된 방어 전략을 제시합니다.\n보안 및 DevOps 분야 개발자에게 매우 중요한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50184586",
+    "title": "EA is shutting down BioWare",
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "discussion_url": "https://news.ycombinator.com/item?id=50184586",
+    "summary": "",
+    "score": 510,
+    "published_at": "2026-10-21T17:29:33+00:00",
+    "ai_summary": "EA가 유명 게임 개발사 바이오웨어를 폐쇄한다는 소식입니다. 이는 게임 업계에 큰 파장을 일으킬 예정입니다. 수많은 개발자들의 일자리에 영향을 미칠 것으로 예상됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50153531",
+    "title": "Code is clay now",
+    "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "discussion_url": "https://news.ycombinator.com/item?id=50153531",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-10-19T15:19:45+00:00",
+    "ai_summary": "\"코드는 이제 점토와 같다\"는 비유는 코드 작성 방식의 변화를 시사합니다. AI나 새로운 도구들이 코드 생성 및 수정 과정을 유연하게 만들고 있습니다. 개발자들이 코드를 다루는 방식에 대한 새로운 관점을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50176908",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "url": "https://alterauth.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50176908",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-10-21T06:42:12+00:00",
+    "ai_summary": "Alter는 YC S25를 통해 다중 사용자 에이전트를 위한 접근 제어 솔루션을 출시했습니다. 이는 여러 사용자가 AI 에이전트를 안전하고 효율적으로 공유할 수 있도록 돕습니다. 팀 환경에서 AI 에이전트 관리에 중요한 기능을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50189023",
+    "title": "Κ = 0.003 for integer multiplication crossed",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+    "discussion_url": "https://news.ycombinator.com/item?id=50189023",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-10-21T23:22:21+00:00",
+    "ai_summary": "정수 곱셈 알고리즘의 특정 복잡도 상수 Κ가 0.003을 넘었다는 내용입니다. 이는 컴퓨터 과학 분야의 이론적 최적화 또는 성능 개선과 관련이 깊습니다. 저수준 연산 효율성에 대한 중요한 발견일 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50186037",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186037",
+    "summary": "",
+    "score": 310,
+    "published_at": "2026-10-21T19:14:01+00:00",
+    "ai_summary": "Claude Duet은 Anthropic의 LLM인 Claude와 관련된 새로운 서비스 또는 기능으로 보입니다. 이는 LLM 개발자와 사용자에게 새로운 상호작용 방식이나 기능을 제공할 것입니다. AI 및 LLM 기술 발전에 대한 중요한 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50180873",
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180873",
+    "summary": "",
+    "score": 968,
+    "published_at": "2026-10-21T13:45:33+00:00",
+    "ai_summary": "PHP 8.2.35 버전이 출시되었습니다. 이 업데이트는 버그 수정, 보안 패치 및 사소한 개선 사항을 포함할 것입니다. PHP 기반 프로젝트를 운영하는 백엔드 개발자에게 중요한 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50187708",
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187708",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-10-21T21:12:59+00:00",
+    "ai_summary": "PHP 웹 런타임에서 두 가지 심각한 보안 취약점(CVE-2026-109618, CVE-2026-109619)이 발견되었습니다.\n이 취약점들은 시스템 원격 코드 실행 및 정보 유출로 이어질 수 있습니다.\n개발자들은 즉시 패치를 적용하고 보안을 강화해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50188612",
+    "title": "Qpack amplification attacks against HTTP/3 servers",
+    "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50188612",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-10-21T22:32:45+00:00",
+    "ai_summary": "HTTP/3 서버를 대상으로 하는 Qpack 증폭 공격의 새로운 위협이 발견되었습니다.\n이 공격은 서버 리소스를 고갈시키고 서비스 거부(DoS)를 유발할 수 있습니다.\n개발자와 시스템 관리자는 HTTP/3 구현 시 이 취약점을 인지하고 방어책을 마련해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50180752",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180752",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-10-21T13:37:00+00:00",
+    "ai_summary": "수천 개의 AI 에이전트를 활용하여 생물학 데이터에서 새로운 단서를 발견하는 연구가 진행 중입니다.\n이 기술은 복잡한 생체 데이터를 분석하고 새로운 가설을 생성하는 데 도움을 줍니다.\nAI/ML 개발자 및 생명 공학 분야에 중요한 의미를 가집니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50189175",
+    "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+    "url": "https://bloffy.co/en",
+    "discussion_url": "https://news.ycombinator.com/item?id=50189175",
+    "summary": "",
+    "score": 6,
+    "published_at": "2026-10-21T23:41:35+00:00",
+    "ai_summary": "개발자가 마크다운과 순수 HTML을 지원하며 PageSpeed 점수 99점을 달성한 블로그 플랫폼을 직접 구축했습니다.\n이는 웹 성능 최적화와 사용자 경험 개선에 중점을 둔 개발 사례입니다.\nFrontend, Backend 개발자들에게 유용한 인사이트를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/voxtral-3/",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages (7 minute read)",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "discussion_url": "https://mistral.ai/news/voxtral-3/",
+    "summary": "Voxtral 3 offers advanced speech-to-text and text-to-speech capabilities across 50+ languages. Featuring models like Small Transcribe 3 for multilingual transcription and Mini TTS 3 for natural emotional speech, it includes a voice agent SDK combining real-time listening, reasoning, and speaking, enabling seamless interactions and task execution over phone or web.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "Voxtral 3은 50개 이상의 언어를 지원하는 고급 음성-텍스트 및 텍스트-음성 기능을 제공하며, 다국어 변환 및 자연스러운 감정 표현 모델을 포함합니다. 실시간 청취, 추론, 말하기를 결합한 음성 에이전트 SDK를 통해 전화 및 웹에서 원활한 상호작용 및 작업 실행을 가능하게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/introducing-torchtpu/",
+    "title": "Google and Meta Bring Native PyTorch Support to TPUs (17 minute read)",
+    "url": "https://pytorch.org/blog/introducing-torchtpu/",
+    "discussion_url": "https://pytorch.org/blog/introducing-torchtpu/",
+    "summary": "TorchTPU is an open-source PyTorch backend designed to make running and migrating models to Google's TPUs easier. It supports training and inference through optimized eager execution, torch.compile integration, and native hardware acceleration.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "TorchTPU는 PyTorch 모델을 Google TPU에서 더 쉽게 실행하고 마이그레이션할 수 있도록 설계된 오픈소스 백엔드입니다. 최적화된 eager execution, torch.compile 통합 및 네이티브 하드웨어 가속을 통해 학습 및 추론을 지원합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://llm-d.ai/",
+    "title": "llm-d (Website)",
+    "url": "https://llm-d.ai/",
+    "discussion_url": "https://llm-d.ai/",
+    "summary": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywher",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "llm-d는 분산 LLM 추론을 위한 Kubernetes 네이티브 스택으로, vLLM, SGLang 등을 클러스터에서 실행합니다. 싱글 노드 엔진을 프로덕션 등급 서비스로 전환하며, 다양한 하드웨어에서 일관된 성능으로 LLM 추론을 가능하게 합니다. 일반적인 프로덕션 패턴을 위한 검증된 배포 레시피를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://zhuanlan.zhihu.com/p/2095560295930508953",
+    "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment (15 minute read)",
+    "url": "https://zhuanlan.zhihu.com/p/2095560295930508953",
+    "discussion_url": "https://zhuanlan.zhihu.com/p/2095560295930508953",
+    "summary": "DeepInfer combines distributed inference, caching, load balancing, and speculative decoding to improve efficiency. DeepSeek processes 155 trillion tokens daily per cluster and earns $38 in revenue per GPU-hour while open-sourcing much of its inference framework.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "DeepInfer는 분산 추론, 캐싱, 로드 밸런싱, 추측 디코딩을 결합하여 대규모 LLM 추론 효율성을 향상시킵니다. DeepSeek은 클러스터당 일일 155조 토큰을 처리하며, GPU-시간당 $38의 수익을 창출하면서 추론 프레임워크의 상당 부분을 오픈소스화했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/making-every-harness-durable",
+    "title": "Making every harness durable (7 minute read)",
+    "url": "https://vercel.com/blog/making-every-harness-durable",
+    "discussion_url": "https://vercel.com/blog/making-every-harness-durable",
+    "summary": "Vercel's durable-harness allows agent harnesses to run durably in the cloud out-of-the-box. It allows users to run Pi, OpenCode, Codex, and Claude Code durably on Vercel or self-hosted on their own Postgres instance. durable-harness ensures that sessions survive crashes mid-turn and keep running even if the browser disconnects. Turns that lose function partway through continue from the log on a new one without manual retry and without repeating what already finished.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "Vercel의 durable-harness는 에이전트 하네스를 클라우드에서 바로 내구성 있게 실행할 수 있게 합니다. 세션이 중간에 충돌하거나 브라우저 연결이 끊어져도 계속 실행되도록 보장합니다. 부분적으로 실패한 턴은 수동 재시도 없이, 이미 완료된 부분을 반복하지 않고 새 로그에서 계속됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://builders.ramp.com/post/building-laminar",
+    "title": "Building Laminar: Ramp's Managed Agents Platform (14 minute read)",
+    "url": "https://builders.ramp.com/post/building-laminar",
+    "discussion_url": "https://builders.ramp.com/post/building-laminar",
+    "summary": "Laminar is an in-house agent harness for Ramp's agentic products. It features secure conversation history storage, session compaction, standard interfaces for tool calling, message queuing and steering, subagents, multiplayer chat support, observability tooling, and much more. The first version of Laminar was built in six weeks with a small team of obsessive, experienced engineers who worked with and steered the agents. Its code was generated entirely by agents using the most powerful models ava",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "Laminar는 Ramp의 에이전트 제품을 위한 자체 에이전트 하네스 플랫폼으로, 보안 대화 기록 저장, 세션 압축, 표준 도구 호출 인터페이스, 메시지 큐잉 및 관측 가능성 도구 등의 기능을 제공합니다. 소규모 팀이 6주 만에 개발했으며, 코드는 가장 강력한 모델을 사용하는 에이전트에 의해 완전히 생성되었습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.thenewcritic.com/p/coxon-day",
+    "title": "Coxon Day (48 minute read)",
+    "url": "https://www.thenewcritic.com/p/coxon-day",
+    "discussion_url": "https://www.thenewcritic.com/p/coxon-day",
+    "summary": "On September 8, Jacob Coxon, a 27-year-old machine learning researcher who had resigned from Anthropic, warned the world that AI companies were not acting responsibly and that they were gambling with people's lives by racing straight to self-improving superintelligence. Many researchers seriously believe that AI could kill all humans. While Anthropic may be trying its best, it still doesn't have a plan to solve alignment for superintelligence and is not on track to.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "전 Anthropic ML 연구원이 AI 기업들이 초지능을 향한 무책임한 경주로 인류의 삶을 위협한다고 경고했습니다. 많은 연구자들은 AI가 인류를 멸망시킬 수 있다고 우려하며, Anthropic조차 초지능 정렬(alignment) 문제 해결 계획이 부족합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://alignment.openai.com/beyond-gmean-squared/",
+    "title": "Beyond g-mean²: Complementary Metrics for Monitorability (27 minute read)",
+    "url": "https://alignment.openai.com/beyond-gmean-squared/",
+    "discussion_url": "https://alignment.openai.com/beyond-gmean-squared/",
+    "summary": "OpenAI introduces two metrics to address limitations of g-mean² in measuring model monitorability.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "OpenAI는 모델 모니터링 가능성(monitorability) 측정에서 기존 g-mean² 지표의 한계를 해결하기 위해 두 가지 보완적인 새로운 지표를 도입했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://elevenlabs.io/realtime",
+    "title": "Eleven Realtime (Website)",
+    "url": "https://elevenlabs.io/realtime",
+    "discussion_url": "https://elevenlabs.io/realtime",
+    "summary": "Eleven Realtime is a new class of Speech-to-Speech models for building natural voice agents.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "Eleven Realtime은 자연스러운 음성 에이전트를 구축하기 위한 새로운 종류의 Speech-to-Speech 모델입니다. 이는 실시간 음성 상호작용 및 응용 프로그램 개발에 활용될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "title": "Meta's Muse Reaches 10 Million US Downloads in 40 Days (1 minute read)",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "discussion_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "summary": "Meta's AI companion Muse reached 10.2 million US downloads within 40 days, a milestone previously achieved by only 11 other apps.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "Meta의 AI 동반자 앱 Muse가 출시 40일 만에 미국에서 1,020만 다운로드를 달성했습니다. 이는 소수의 앱만이 기록했던 매우 빠른 성장세입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "title": "MemCurrent: Designing Persistent Memory for Production Agents (15 minute read)",
+    "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "discussion_url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "summary": "MemCurrent is a persistent memory architecture for production agents that can triple an agent's pass rate over no memory while also making it faster and cheaper.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "MemCurrent는 프로덕션 에이전트(production agents)를 위한 영구 메모리 아키텍처입니다. 이 아키텍처는 에이전트의 성공률(pass rate)을 3배 높이고, 동시에 더 빠르고 저렴하게 작동하도록 만듭니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+    "title": "Spark-X2.6-4B: Stronger On-Device AI Agents (3 minute read)",
+    "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+    "discussion_url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+    "summary": "SparkLLM released Spark-X2.6-4B, an open-source model with improved coding, reasoning, long-context, and agentic capabilities through post-training.",
+    "score": 0,
+    "published_at": "2026-10-22T01:17:27+00:00",
+    "ai_summary": "SparkLLM이 Spark-X2.6-4B라는 오픈소스 모델을 출시했습니다. 이 모델은 후처리 훈련을 통해 코딩, 추론, 장문 맥락 처리 및 에이전트 기능이 향상되어 온디바이스(On-Device) AI 에이전트에 강력한 성능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
