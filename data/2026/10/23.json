@@ -1,0 +1,809 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35827",
+    "title": "LLM이 매긴 자기 답변의 신뢰도 점수를 믿기 어려운 이유",
+    "url": "https://news.hada.io/topic?id=35827",
+    "discussion_url": "https://news.hada.io/topic?id=35827",
+    "summary": "LLM에 “얼마나 확신하나요?”라고 물어 얻은 ‘0.85’는 내부 확신을 측정한 값이 아니라 생성된 텍스트. 숫자가 정밀해 보인다고 실제 정답률까지 보장되지는 않음\n신뢰도를 확인하려면 예측과 실제 결과를 여러 건 모아 비교해야 함. 70%라고 답한 사례 중 실제...",
+    "score": 0,
+    "published_at": "2026-10-22T17:46:27+00:00",
+    "ai_summary": "LLM이 자체적으로 매긴 신뢰도 점수는 내부 확신이 아닌 생성된 텍스트일 뿐입니다.\n이 숫자가 정밀해 보여도 실제 정답률을 보장하지 않으므로 맹신하기 어렵습니다.\nLLM의 신뢰도를 확인하려면 여러 예측 결과를 실제 데이터와 비교 검증해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35824",
+    "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
+    "url": "https://zzo.kr/url",
+    "discussion_url": "https://news.hada.io/topic?id=35824",
+    "summary": "URL 단축 서비스 zzo.kr 을 소개합니다.\n긴 인터넷 주소를 짧은 링크로 변환하고, 간단히 QR코드로도 공유 할 수 있는 웹 서비스 입니다.\n회원가입 없이 브라우저에서 URL 단축부터, API, MCP까지 사용할 수 있도록 만들었습니다.\n\nURL 단축 서비스",
+    "score": 0,
+    "published_at": "2026-10-22T16:58:02+00:00",
+    "ai_summary": "ZZO는 긴 URL을 짧게 줄여주고 QR 코드 공유도 지원하는 URL 단축 웹 서비스입니다.\n회원가입 없이 브라우저에서 바로 사용 가능하며, API와 MCP도 제공합니다.\n개발자들이 편리하게 이용할 수 있는 웹 기반 도구입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35818",
+    "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
+    "url": "https://news.hada.io/topic?id=35818",
+    "discussion_url": "https://news.hada.io/topic?id=35818",
+    "summary": "별도 애플리케이션을 작성하지 않고 터미널과 셸 스크립트에서 OpenAI API를 호출하는 공식 CLI. 특정 API를 직접 실행하거나 반복 작업을 자동화할 때 사용\n텍스트 응답 생성과 이미지 생성/편집, 파일 업로드/다운로드 지원. 생성한 이미지는 로컬에 저장하고, 지...",
+    "score": 0,
+    "published_at": "2026-10-22T15:45:53+00:00",
+    "ai_summary": "OpenAI CLI는 별도 앱 개발 없이 터미널 및 셸 스크립트에서 OpenAI API를 호출하는 공식 명령줄 도구입니다.\n특정 API 실행 및 반복 작업 자동화에 유용하며, 텍스트/이미지 생성, 파일 업로드/다운로드 등을 지원합니다.\nAI 모델 활용을 위한 개발 생산성 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35809",
+    "title": "WorldTUI - 터미널을 흉내 내는 3억 6천만 파라미터 AI 모델",
+    "url": "https://news.hada.io/topic?id=35809",
+    "discussion_url": "https://news.hada.io/topic?id=35809",
+    "summary": "실제 셸이나 파일시스템 없이, 키 입력에 따라 다음 터미널 화면을 예측하는 AI 모델. 파일을 만들고 vim으로 수정한 뒤 다른 tmux 창에서 읽는 동작까지 흉내 내며, 앞서 입력한 내용도 어느 정도 기억\nQwen2.5-Coder-0.5B를 실제 Docker 터미널 세션으로 미세조정",
+    "score": 0,
+    "published_at": "2026-10-22T10:35:44+00:00",
+    "ai_summary": "WorldTUI는 실제 셸 없이 키 입력에 따라 다음 터미널 화면을 예측하는 3.6억 파라미터 AI 모델입니다.\n파일 생성 및 편집, tmux 창 사용 등 터미널 동작을 흉내 내며 앞선 내용을 기억합니다.\nQwen2.5-Coder-0.5B 모델을 Docker 터미널 세션으로 미세조정했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35807",
+    "title": "Show GN: Rollipop: 현대적인 React Native 빌드 도구",
+    "url": "https://rollipop.dev",
+    "discussion_url": "https://news.hada.io/topic?id=35807",
+    "summary": "React Native에서 Metro를 대체할 수 있는 빌드 도구, Rollipop을 소개합니다.\n문서 보러가기: https://rollipop.dev\nGitHub: https://github.com/rollipop-dev/rollipop\nRollipop이란?\nRu",
+    "score": 0,
+    "published_at": "2026-10-22T09:06:11+00:00",
+    "ai_summary": "Rollipop은 React Native용으로 Metro를 대체할 수 있는 현대적인 빌드 도구입니다.\n공식 문서와 GitHub 링크가 제공되어 자세한 정보를 확인할 수 있습니다.\nReact Native 개발자들에게 빌드 워크플로우를 개선할 새로운 대안을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35805",
+    "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
+    "url": "https://news.hada.io/topic?id=35805",
+    "discussion_url": "https://news.hada.io/topic?id=35805",
+    "summary": "AI API로 서비스를 만들다 보면, 청구서를 보고 나서야 내 돈이 어떻게 쓰였는지 알게 되는 경우가 빈번하다는 생각이 꾸준히 들었습니다. 모델 선택과 캐싱, 프롬프트 구조같은걸 조금이라도 바꾼다면 줄일 수 있는 비용이 꽤 있을 것 같은데, 이걸 한 눈에 확인하고 싶어서 만들었습니다.\n현재는 OpenAI와 A",
+    "score": 0,
+    "published_at": "2026-10-22T08:20:18+00:00",
+    "ai_summary": "Brello Scan은 AI API 사용 시 발생할 수 있는 비용 낭비 요소를 찾아주는 무료 스캐너입니다.\n모델 선택, 캐싱, 프롬프트 구조 개선 등을 통해 AI API 비용을 절감할 수 있도록 돕습니다.\n현재 OpenAI API 비용 분석을 지원하여 개발자들이 효율적으로 자원을 관리하게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35800",
+    "title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램",
+    "url": "https://news.hada.io/topic?id=35800",
+    "discussion_url": "https://news.hada.io/topic?id=35800",
+    "summary": "매일 쏟아지는 AI 뉴스와 아티클을 따로 찾아다닐 필요 없이, 크롬에서 새 탭을 열 때마다 가볍게 받아볼 수 있는 무료 확장 프로그램 '배달의 AI'를 소개합니다.\n바이브 코딩(Vibe Coding)을 이제 막 시작하셨거나 관심 있는 분들께 작은 참고가 되었으면 해서 개발 및 운영 비하인드를 공유합니다.\n[",
+    "score": 0,
+    "published_at": "2026-10-22T05:08:41+00:00",
+    "ai_summary": "새 탭마다 AI 뉴스를 제공하는 크롬 확장 프로그램 '배달의 AI'를 소개합니다.\n개발 및 운영 비하인드 스토리를 공유하여 바이브 코딩 관심자들에게 참고가 됩니다.\n개발자가 직접 만든 AI 관련 도구이며, 개발자들에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35791",
+    "title": "Show GN: php2go - php 를 golang 으로 마이그레이션하는 skills",
+    "url": "https://news.hada.io/topic?id=35791",
+    "discussion_url": "https://news.hada.io/topic?id=35791",
+    "summary": "안녕하세요, 오픈소스 커뮤니티 고수다에서 php 를 go 로 전환하는 skill 모음을 공유드립니다.\n단순히 PHP 문법을 Go로 번역하는 것이 아니라, 기존 애플리케이션의 기능과 데이터를 보존하면서 유지보수 가능한 Go 코드로 전환하는 것이 목표입니다.\n주요 접근 방식은 다음과 같습니다.\n\n<li",
+    "score": 0,
+    "published_at": "2026-10-22T03:17:54+00:00",
+    "ai_summary": "오픈소스 커뮤니티 고수다에서 PHP를 Go로 전환하는 skill 모음을 공유합니다.\n단순 문법 번역을 넘어 기존 기능과 데이터를 보존하며 유지보수 가능한 Go 코드 전환이 목표입니다.\nPHP 및 Go 개발자들에게 유용한 마이그레이션 기술과 접근 방식을 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35789",
+    "title": "Google의 Rust 스타일 가이드",
+    "url": "https://news.hada.io/topic?id=35789",
+    "discussion_url": "https://news.hada.io/topic?id=35789",
+    "summary": "Google은 Rust 코드의 가독성과 유지보수성, 코드베이스 전반의 일관성을 위해 포맷뿐 아니라 API와 구현 설계까지 규정함\n일반적인 Rust 관례를 따르되, 도구를 활용한 대규모 변경(LSC) 이 쉽도록 임포트, 모듈 구성, 매크로 사용 등에 별도 기준을 둠\n...",
+    "score": 0,
+    "published_at": "2026-10-22T01:42:55+00:00",
+    "ai_summary": "Google은 Rust 코드의 가독성, 유지보수성, 일관성을 위해 포맷 및 API 설계를 규정합니다.\n일반적인 Rust 관례를 따르며, 대규모 변경을 위한 임포트, 모듈 구성 등 별도 기준을 둡니다.\nRust 개발자 및 코드 품질에 관심 있는 개발자에게 유용한 스타일 가이드 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=35788",
+    "title": "PingCAP TiDB 데이터 유출",
+    "url": "https://news.hada.io/topic?id=35788",
+    "discussion_url": "https://news.hada.io/topic?id=35788",
+    "summary": "침해를 자처한 FulcrumSec이 TiDB Cloud의 제어 영역, 고객 데이터, 재무 기록, 소스 코드 등 10.6TB를 탈취했다며 1차 공개를 발표함\n저장소에 커밋된 클라우드 자격 증명으로 복제 파이프라인을 구성해, 22일 동안 6시간마다 88차례 운영 제어 ...",
+    "score": 0,
+    "published_at": "2026-10-22T01:39:55+00:00",
+    "ai_summary": "FulcrumSec이 TiDB Cloud에서 10.6TB 규모의 데이터 유출을 발표했습니다.\n고객 데이터, 재무 기록, 소스 코드 등 민감 정보가 포함되었으며, 클라우드 자격 증명이 악용되었습니다.\n데이터베이스, 클라우드, 보안 분야 개발자들에게 중요한 경각심을 주는 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Database",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50202681",
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "discussion_url": "https://news.ycombinator.com/item?id=50202681",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-10-22T23:45:56+00:00",
+    "ai_summary": "Docker의 특이하거나 예상치 못한 동작 및 측면에 대한 내용을 다룰 것으로 보입니다.\n이는 내부 작동 방식, 설정 문제 또는 흔한 어려움에 대한 논의일 수 있습니다.\nDocker를 사용하는 개발자들에게는 문제 해결 및 이해에 도움을 줄 수 있는 정보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50202217",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "discussion_url": "https://news.ycombinator.com/item?id=50202217",
+    "summary": "",
+    "score": 87,
+    "published_at": "2026-10-22T22:54:43+00:00",
+    "ai_summary": "LLM(대규모 언어 모델)이 형식 소프트웨어 검증의 확장성을 크게 향상시키고 있습니다.\n이로 인해 복잡하고 자원 집약적이던 형식 검증이 더 큰 코드베이스에 적용 가능해집니다.\n소프트웨어 품질 및 보안 향상에 기여하며, AI/ML 및 보안 개발자에게 중요합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50198675",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "discussion_url": "https://news.ycombinator.com/item?id=50198675",
+    "summary": "",
+    "score": 291,
+    "published_at": "2026-10-22T17:44:06+00:00",
+    "ai_summary": "자율 AI 에이전트의 안전하고 비공개적인 실행 환경인 OpenShell에 대한 기사입니다.\nAI 에이전트 개발자들이 모델을 효율적으로 배포하고 관리할 수 있는 새로운 런타임을 제공합니다.\n이는 AI 에이전트 시스템 구축에 필요한 보안 및 개인 정보 보호를 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50197313",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "discussion_url": "https://news.ycombinator.com/item?id=50197313",
+    "summary": "",
+    "score": 229,
+    "published_at": "2026-10-22T16:08:00+00:00",
+    "ai_summary": "모든 AI 모델이 인간에 대해 동일한 \"논란의 여지가 있는\" 견해를 보인다는 흥미로운 분석 기사입니다.\n이는 AI 모델 학습 데이터의 편향성과 윤리적 문제, 그리고 AI 시스템의 심층적인 이해를 요구합니다.\nAI 개발자들에게 모델의 사회적 영향력을 고려하도록 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50197404",
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "url": "https://www.taler.net/en/news/2026-13.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50197404",
+    "summary": "",
+    "score": 222,
+    "published_at": "2026-10-22T16:14:31+00:00",
+    "ai_summary": "독일에서 프라이버시를 보호하는 전자 결제 시스템인 GNU Taler의 운영이 준비되고 있다는 기사입니다.\n이는 분산 원장 기술, 보안 결제 시스템 및 오픈 소스 프로젝트의 실제 배포를 다룹니다.\n백엔드 및 보안 개발자에게 관련 기술 스택 및 구현에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50196718",
+    "title": "Run full iOS 16.5 firmware on Android Devices",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "discussion_url": "https://news.ycombinator.com/item?id=50196718",
+    "summary": "",
+    "score": 320,
+    "published_at": "2026-10-22T15:26:22+00:00",
+    "ai_summary": "안드로이드 기기에서 iOS 16.5 펌웨어를 완전히 구동하는 기술적 가능성에 대한 기사입니다.\n이는 저수준 시스템 에뮬레이션, 가상화 및 모바일 OS 해킹과 관련된 고급 기술을 포함합니다.\n시스템 아키텍처 및 임베디드 개발자에게 깊은 기술적 흥미를 유발할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50192536",
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50192536",
+    "summary": "",
+    "score": 713,
+    "published_at": "2026-10-22T08:01:52+00:00",
+    "ai_summary": "닌텐도 스위치 2의 탈옥에 대한 기술적 논의를 다루는 기사입니다.\n기기 보안 취약점 분석, 리버스 엔지니어링 및 커스텀 펌웨어 개발과 같은 전문 분야에 해당합니다.\n임베디드 시스템, 보안 연구 및 하드웨어 해킹에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50199389",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50199389",
+    "summary": "",
+    "score": 129,
+    "published_at": "2026-10-22T18:44:36+00:00",
+    "ai_summary": "한 고등학생이 직접 개발한 3D 오픈월드 게임 \"Hedra\"에 대한 이야기입니다.\n이 기사는 개인의 열정적인 게임 개발 과정과 \"제로에서 시작\"하는 도전을 강조합니다.\n게임 개발에 관심 있는 학생이나 개발자들에게 영감과 실제적인 개발 경험을 간접적으로 전달합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50150163",
+    "title": "What Is Gridifcation",
+    "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150163",
+    "summary": "",
+    "score": 400,
+    "published_at": "2026-10-19T09:13:12+00:00",
+    "ai_summary": "Gridification은 시스템이나 데이터를 격자형으로 구조화하는 개념을 설명하는 기사입니다.\n분산 시스템, 클라우드 아키텍처, 또는 특정 데이터 처리 방식에 적용될 수 있습니다.\n개발자에게는 효율적인 자원 관리 및 확장 가능한 시스템 설계에 대한 통찰을 제공할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50203161",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50203161",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-10-23T00:52:01+00:00",
+    "ai_summary": "1978년 당시 \"자연어 프로그래밍\" 시도의 한계와 비실용성을 지적하는 비판적인 글입니다.\n당시 기술로는 언어의 모호성과 복잡성 때문에 실현 불가능했음을 강조합니다.\n현재의 LLM 기반 코드 생성 기술 발전과 비교하며 흥미로운 역사적 관점을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50195110",
+    "title": "eMudhra to exit global SSL/TLS certificate business",
+    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+    "discussion_url": "https://news.ycombinator.com/item?id=50195110",
+    "summary": "",
+    "score": 923,
+    "published_at": "2026-10-22T13:33:39+00:00",
+    "ai_summary": "eMudhra가 전 세계 SSL/TLS 인증서 사업에서 철수한다는 중요한 업계 소식입니다.\n이는 웹 보안 인증서 시장에 큰 변화를 가져올 수 있으며, 기존 고객들과 개발자들은 새로운 인증서 공급자를 찾아야 할 것입니다.\n웹 서비스 운영 및 보안에 직접적인 영향을 미치는 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50193416",
+    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "url": "https://news.ycombinator.com/item?id=50193416",
+    "discussion_url": "https://news.ycombinator.com/item?id=50193416",
+    "summary": "",
+    "score": 362,
+    "published_at": "2026-10-22T10:11:44+00:00",
+    "ai_summary": "한 개발자가 PHP의 원격 코드 실행(RCE) 취약점에 대한 엠바고를 실수로 위반했음을 밝히는 내용입니다.\n이는 소프트웨어 보안 취약점 공개의 민감성과 절차의 중요성을 상기시킵니다.\nPHP 기반 시스템을 다루는 개발자 및 보안 엔지니어에게 매우 중요한 정보입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50201414",
+    "title": "Railpass",
+    "url": "https://train.samismith.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50201414",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-10-22T21:38:32+00:00",
+    "ai_summary": "\"Railpass\"는 특정 소프트웨어 도구나 시스템을 지칭하는 것으로 보입니다.\n철도 여행 관리, 티켓팅 시스템, 또는 관련 데이터 처리를 위한 애플리케이션일 수 있습니다.\n해당 도구의 기술 스택, 기능, 또는 개발 과정에 대한 정보를 제공할 가능성이 높습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50194009",
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50194009",
+    "summary": "",
+    "score": 196,
+    "published_at": "2026-10-22T11:42:03+00:00",
+    "ai_summary": "Xbox가 구매한 게임을 스트리밍할 때 시간당 추가 요금을 부과하는 정책을 검토 중이라는 소식입니다.\n이는 클라우드 기반 게임 스트리밍 서비스의 운영 비용과 비즈니스 모델에 대한 중요한 논의를 촉발합니다.\n게임 및 클라우드 플랫폼 개발자에게 서비스 경제학적 측면을 고민하게 할 주제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50199230",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "discussion_url": "https://news.ycombinator.com/item?id=50199230",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-10-22T18:28:16+00:00",
+    "ai_summary": "인공지능 기술이 과학적 지식과 연구 결과의 공유를 제한하고 독점을 심화시킬 수 있다는 우려를 제기하는 기사입니다.\nAI가 가져올 수 있는 정보 불평등과 접근성 문제를 심층적으로 다룹니다.\nAI/ML 분야의 개발자와 연구자들에게 중요한 윤리적, 사회적 함의를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50150681",
+    "title": "Speeding up code review with `small-change`",
+    "url": "https://lethain.com/small-changes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150681",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-10-19T10:35:14+00:00",
+    "ai_summary": "`small-change`라는 개념이나 도구를 활용하여 코드 리뷰 과정을 가속화하는 방법을 설명합니다.\n작은 단위의 변경사항을 중심으로 효율적인 리뷰를 수행하여 개발 생산성을 높이는 전략을 제시합니다.\n모든 개발팀과 개발자에게 매우 유용한 실천적 지침입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50154109",
+    "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+    "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50154109",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-10-19T16:06:40+00:00",
+    "ai_summary": "고전 로그라이크 게임 넷핵(NetHack)의 그놈 광산 던전이 어떻게 절차적으로 생성되는지 분석합니다.\n복잡한 게임 레벨 디자인을 위한 알고리즘과 구현 방식에 대한 심층적인 통찰을 제공합니다.\n게임 개발자, 컴퓨터 그래픽스 또는 알고리즘에 관심 있는 개발자에게 흥미롭습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50193170",
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50193170",
+    "summary": "",
+    "score": 201,
+    "published_at": "2026-10-22T09:31:18+00:00",
+    "ai_summary": "기존 `earcut` 라이브러리보다 빠른 성능으로 370만 개의 지도 폴리곤을 489밀리초 만에 삼각분할하는 새로운 기술을 소개합니다.\n대규모 지리 정보 시스템(GIS) 데이터 처리 및 렌더링 성능 최적화에 기여하는 알고리즘을 다룹니다.\n고성능 계산, 그래픽스, 데이터 처리 분야 개발자에게 매우 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50180257",
+    "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+    "url": "https://uberblok.storagebits.workers.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180257",
+    "summary": "",
+    "score": 76,
+    "published_at": "2026-10-21T13:04:25+00:00",
+    "ai_summary": "ZFS 파일 시스템의 복잡한 내부 구조와 작동 방식을 인터랙티브하게 탐험할 수 있는 도구 'Uberblok'을 소개합니다.\nZFS의 다양한 구성 요소와 데이터 흐름을 시각적으로 이해할 수 있도록 돕습니다.\n시스템 엔지니어, 스토리지 관리자, 저수준 백엔드 개발자에게 매우 유용한 학습 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50197601",
+    "title": "A farewell to Arc browser",
+    "url": "https://arc.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50197601",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-10-22T16:27:47+00:00",
+    "ai_summary": "혁신적인 웹 브라우저 Arc에 대한 작별 인사를 담은 글로, 사용 경험과 개발 철학을 분석합니다.\nArc가 웹 브라우징과 생산성에 미친 긍정적, 부정적 영향을 평가합니다.\n프론트엔드 개발자, 웹 기술 동향 및 사용자 경험에 관심 있는 이들에게 흥미로운 시사점을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50195543",
+    "title": "What’s getting pwned right now",
+    "url": "https://pwn.watch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50195543",
+    "summary": "",
+    "score": 339,
+    "published_at": "2026-10-22T14:08:12+00:00",
+    "ai_summary": "현재 전 세계적으로 발생하고 있는 주요 사이버 보안 침해 사례와 취약점 동향을 심층 분석합니다.\n최신 공격 벡터, 해킹 기법, 그리고 기업 및 개인에게 미치는 위협을 상세히 다룹니다.\n보안 전문가와 안전한 시스템 구축에 관심 있는 모든 개발자에게 필수적인 정보입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50157456",
+    "title": "Startup taps underwater volcano as energy source in “proof point” test",
+    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157456",
+    "summary": "",
+    "score": 123,
+    "published_at": "2026-10-19T20:12:49+00:00",
+    "ai_summary": "한 스타트업이 수중 화산을 에너지원으로 활용하는 시험에 성공하여 기술 가능성을 입증했습니다.\n이 혁신적인 친환경 에너지 프로젝트는 데이터 수집, 모니터링 및 제어 시스템 개발이 필요할 수 있습니다.\n백엔드, 데이터 엔지니어링 등 소프트웨어 개발과 간접적인 관련성이 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50194522",
+    "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+    "url": "https://lastmuseum.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50194522",
+    "summary": "",
+    "score": 107,
+    "published_at": "2026-10-22T12:40:04+00:00",
+    "ai_summary": "주요 박물관의 580만 점 예술 작품에 대해 의미론적 검색 시스템을 구축한 프로젝트입니다.\nAI/ML 기술을 활용하여 방대한 컬렉션에서 효율적으로 정보를 검색할 수 있도록 합니다.\nAI/ML, 백엔드, 데이터베이스 개발자에게 매우 높은 관련성이 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Database"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/resources/articles/claude-duet",
+    "title": "Claude Duet (5 minute read)",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "discussion_url": "https://claude.com/resources/articles/claude-duet",
+    "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent powered by Opus 5.5 that monitors connected apps, prioritizes tasks, and works autonomously while requesting approval before certain actions. The research preview initially targeted US Pro and Max subscribers through a waitlist.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Anthropic이 Opus 5.5 기반의 AI 에이전트 'Claude Duet'을 공개했습니다. 이 에이전트는 연결된 앱을 모니터링하고 작업을 자율적으로 수행하며, 특정 작업 전 승인을 요청합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://recursive.com/updates/introducing-recursive-flint",
+    "title": "Introducing Flint (7 minute read)",
+    "url": "https://recursive.com/updates/introducing-recursive-flint",
+    "discussion_url": "https://recursive.com/updates/introducing-recursive-flint",
+    "summary": "Recursive Flint is a mixture-of-experts model built for fast agentic coding on local hardware. It has 40 billion total parameters but activates just 2.5 billion per token. It was built from scratch by a small team of people and agents in under four months. Flint generates more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 tokens per second on a 64GB NVIDIA RTX Spark at short contexts. It can be used as a daily coding model to complete tasks locally without sending data to",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Recursive Flint는 로컬 하드웨어에서 빠른 에이전트 코딩을 위해 설계된 Mixture-of-Experts 모델입니다. 이 모델은 로컬에서 코딩 작업을 완료하여 데이터를 외부로 보내지 않고도 사용할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/openai-models-google-cloud/",
+    "title": "OpenAI models are coming to Google Cloud (2 minute read)",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "discussion_url": "https://openai.com/index/openai-models-google-cloud/",
+    "summary": "OpenAI's frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale. It will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads. OpenAI models will soon be available in Google Antigravity and the Gemini Agent.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "OpenAI의 주요 모델과 에이전트 워크플로우가 Google Cloud의 Model Garden에 통합될 예정입니다. 이를 통해 고객은 OpenAI 모델을 Google Cloud의 인프라와 함께 사용하여 복잡한 에이전트 워크플로우를 구축할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "title": "How does Fable 5.1 hide messages in images? (15 minute read)",
+    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "discussion_url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "summary": "Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "언어 모델은 이미지에 메시지를 인코딩하고 디코딩할 수 있으며, 이 과정은 모델의 툴 호출을 모니터링하면 알 수 있습니다. 인코딩된 메시지는 식별하기 어려워 이미지 스테가노그래피의 전신으로 활용될 가능성이 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.latent.space/p/claude-mods",
+    "title": "Claude Mods: Flipping the Harness Inside Out (11 minute read)",
+    "url": "https://www.latent.space/p/claude-mods",
+    "discussion_url": "https://www.latent.space/p/claude-mods",
+    "summary": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Claude Mods는 Claude AI의 'Attention Interface'를 커스터마이징하여 인간이 AI 에이전트와 상호작용하는 방식을 직접 프로그래밍하게 합니다. Mods는 TypeScript 또는 JavaScript 함수로, Claude Code의 동작을 실시간으로 변경할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2113013247209021918.html",
+    "title": "Claude API version 2026-10-21 is now available (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2113013247209021918.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2113013247209021918.html",
+    "summary": "The Claude API has received its first official version release since 2023. Anthropic plans to release versions more often so developers can handle breaking changes before a new model requires them. 2023-06-10 is not deprecated. New major versions of the Anthropic SDKs and CLI are out today and default to the new API. A migration guide is available.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Claude API의 첫 공식 버전(2026-10-21)이 출시되었으며, Anthropic은 개발자들이 변경 사항에 대응할 수 있도록 API 버전을 더 자주 출시할 계획입니다. 새로운 Anthropic SDK 및 CLI 주요 버전도 출시되어 새로운 API를 기본으로 사용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vllm.ai/blog/2026-10-21-humming",
+    "title": "Announcing Humming: Fast, Flexible Kernels for Quantized Inference (19 minute read)",
+    "url": "https://vllm.ai/blog/2026-10-21-humming",
+    "discussion_url": "https://vllm.ai/blog/2026-10-21-humming",
+    "summary": "Humming is a general-purpose kernel library for quantized inference. It features broad device support, extensive quantization support, and strong execution performance. Humming's unified architecture makes it straightforward to tune execution parameters and collect pipelines for different workloads.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Humming은 양자화된 추론을 위한 범용 커널 라이브러리입니다. 넓은 장치 지원, 광범위한 양자화 지원 및 뛰어난 실행 성능을 제공하며, 통합 아키텍처로 다양한 워크로드에 대한 실행 매개변수 조정이 용이합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "title": "OpenAI's PHP Patcher (11 minute read)",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "discussion_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "summary": "OpenAI coordinated with PHP maintainers and security partners to patch critical vulnerabilities discovered using GPT-5.6 Sol and independently by Wiz. The company also released a PHP vulnerability checker and proposed a framework for coordinating responses to AI-discovered security flaws.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "OpenAI는 GPT-5.6 Sol로 발견된 PHP의 심각한 취약점을 PHP 관리자 및 보안 파트너와 협력하여 패치했습니다. 또한 PHP 취약점 검사기를 출시하고, AI가 발견한 보안 결함에 대한 조율된 대응 프레임워크를 제안했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+    "title": "OpenClaw creator says he spent $10 million in tokens last month (4 minute read)",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+    "discussion_url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+    "summary": "Peter Steinberger, the creator of OpenClaw and now a member of technical staff at OpenAI, estimates that he spent around $10 million in tokens running AI workloads last month, all from out of investors' pockets. Steinberger has a virtually unlimited token budget, allowing him to work differently from others in the industry. This article collects some of his answers during a conversation with Cloudflare's CTO at the Cloudflare Connect 2026 conference.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "OpenClaw 개발자 Peter Steinberger는 지난달 AI 워크로드 실행에 약 1천만 달러 상당의 토큰을 사용했다고 추정했습니다. 그는 사실상 무제한의 토큰 예산으로 다른 개발자들과는 다른 방식으로 작업할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+    "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised (11 minute read)",
+    "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+    "discussion_url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+    "summary": "A malicious LiteLLM package was published to PyPI and was live for approximately 2 hours before it was pulled.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "악성 LiteLLM 패키지가 PyPI에 게시되어 약 2시간 동안 유포된 후 삭제되었습니다. 이는 Python 패키지 생태계의 보안 취약성을 보여주는 사례입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/openai/openai-cli",
+    "title": "OpenAI CLI (GitHub Repo)",
+    "url": "https://github.com/openai/openai-cli",
+    "discussion_url": "https://github.com/openai/openai-cli",
+    "summary": "This repository contains the official CLI for the OpenAI API.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "이 GitHub 저장소는 OpenAI API를 위한 공식 CLI(Command Line Interface) 도구를 포함하고 있습니다. 개발자들이 OpenAI API와 직접 상호작용하는 데 사용되는 유틸리티입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/samdblond/status/2112936538711683315",
+    "title": "Monaco Launches Agent Matrix for Revenue Growth (1 minute read)",
+    "url": "https://x.com/samdblond/status/2112936538711683315",
+    "discussion_url": "https://x.com/samdblond/status/2112936538711683315",
+    "summary": "Agent Matrix is a platform that coordinates multiple AI agents working continuously toward revenue growth.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "Monaco는 수익 성장을 위해 지속적으로 작동하는 여러 AI 에이전트를 조율하는 플랫폼인 Agent Matrix를 출시했습니다. 이는 AI 에이전트를 활용한 비즈니스 성장 전략을 지원합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://getopposable.com/blog/computer-use-on-the-phone",
+    "title": "Computer use on the phone itself: a 2B model that operates Android apps (4 minute read)",
+    "url": "https://getopposable.com/blog/computer-use-on-the-phone",
+    "discussion_url": "https://getopposable.com/blog/computer-use-on-the-phone",
+    "summary": "GUI-Owl 1.5 is a 2-billion-parameter screen model that can read an Android screen through the accessibility service and tap and type in any other app.",
+    "score": 0,
+    "published_at": "2026-10-23T01:16:33+00:00",
+    "ai_summary": "GUI-Owl 1.5는 20억 개 매개변수를 가진 화면 모델로, 접근성 서비스를 통해 안드로이드 화면을 읽고, 모든 앱에서 탭하고 입력할 수 있습니다. 모바일 앱 자동화 및 인터랙션에 활용될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  }
+]
