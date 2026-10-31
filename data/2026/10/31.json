@@ -1,0 +1,341 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36315",
+    "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+    "url": "https://news.hada.io/topic?id=36315",
+    "discussion_url": "https://news.hada.io/topic?id=36315",
+    "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화하고, 간결한 홈 화면을 설치\n루팅이나 펌웨어 교체 없이 ADB로 동작하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
+    "score": 0,
+    "published_at": "2026-10-31T00:30:02+00:00",
+    "ai_summary": "Android TV/Google TV에서 ADB를 활용해 불필요한 제조사 앱과 서비스를 비활성화하고, 간결한 홈 화면을 설치하는 도구입니다.\n루팅 없이 동작하며, 앱을 삭제하는 대신 사용 중지하고 변경 전 복구 스크립트를 제공합니다.\n이는 TV 기기 커스터마이징을 위한 개발자 도구 활용 사례를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36309",
+    "title": "블록체인 분석업체들, 약 8.5조 원 규모 Binance 해킹에 북한 연관성 지목",
+    "url": "https://news.hada.io/topic?id=36309",
+    "discussion_url": "https://news.hada.io/topic?id=36309",
+    "summary": "TRM Labs와 Chainalysis가 Binance 해킹의 배후로 북한 해킹 조직 TraderTraitor를 지목함. Binance는 수사기관과 범인의 신원을 확인 중이라고 밝힘\n공격자는 10개 블록체인의 Binance 지갑에서 약 63억6,000만 달러(약 8.5조 원)를 탈취했으며, 대부분의 자금 이...",
+    "score": 0,
+    "published_at": "2026-10-30T22:39:52+00:00",
+    "ai_summary": "블록체인 분석업체들이 약 8.5조 원 규모의 Binance 해킹 배후로 북한 해킹 조직 TraderTraitor를 지목했습니다.\n공격자는 10개 블록체인에서 Binance 지갑의 자금을 탈취했으며, Binance는 수사기관과 공조 중입니다.\n이는 블록체인 보안 위협과 사이버 범죄 관련 중요 사건입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36307",
+    "title": "Tangled - 자체 호스팅과 협업을 결합한 연합형 코드 포지",
+    "url": "https://news.hada.io/topic?id=36307",
+    "discussion_url": "https://news.hada.io/topic?id=36307",
+    "summary": "Tangled는 코드를 자체 서버에 호스팅하면서도 다른 사용자와 협업할 수 있는 연합형 코드 포지임. Git 호스팅이나 CI 실행기만 운영하거나 API 서버와 UI까지 모두 자체 운영할 수 있음\nAT Protocol을 기반으로 확장 기능, 사용자 정의 Git 호스팅 서버와 CI 구성...",
+    "score": 0,
+    "published_at": "2026-10-30T21:32:19+00:00",
+    "ai_summary": "Tangled는 코드를 자체 서버에 호스팅하면서도 다른 사용자와 협업할 수 있는 연합형 코드 포지입니다.\nGit 호스팅, CI 실행기, 또는 완전한 API 서버와 UI까지 자체 운영 가능하며 AT Protocol 기반입니다.\n이는 분산형 개발 환경 및 코드 관리 시스템을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36302",
+    "title": "Northflank 침해 사고 발생",
+    "url": "https://news.hada.io/topic?id=36302",
+    "discussion_url": "https://news.hada.io/topic?id=36302",
+    "summary": "Northflank가 보안 사고를 공지하고, 모든 사용자에게 환경 변수가 복호화됐다고 가정해 즉시 키를 비활성화하거나 교체하도록 권고함\n교체 대상에는 워크로드의 시크릿, 시크릿 그룹, 전역 시크릿이 포함됨\n여러 사용자가 자신의 AI 키가 사용된...",
+    "score": 0,
+    "published_at": "2026-10-30T18:33:56+00:00",
+    "ai_summary": "Northflank가 보안 사고를 공지하며, 모든 사용자에게 환경 변수가 복호화되었을 가능성을 가정하고 즉시 키를 비활성화하거나 교체하도록 권고했습니다.\n교체 대상에는 워크로드의 시크릿, 시크릿 그룹, 전역 시크릿이 포함되며, 일부 사용자들은 AI 키가 무단 사용된 사례를 보고했습니다.\n이는 클라우드 서비스 보안 침해의 심각성을 보여줍니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36299",
+    "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
+    "url": "https://news.hada.io/topic?id=36299",
+    "discussion_url": "https://news.hada.io/topic?id=36299",
+    "summary": "AI가 일상적인 장애 대응을 맡을수록 SRE는 드물고 복잡한 장애에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듦\n자동화의 역설은 자동화가 실패할 때 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약해...",
+    "score": 0,
+    "published_at": "2026-10-30T17:38:03+00:00",
+    "ai_summary": "AI가 일상적인 장애 대응을 맡을수록 SRE는 복잡한 장애에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듭니다.\n자동화의 역설은 자동화 실패 시 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약화될 수 있음을 지적합니다.\nAI와 SRE의 역할 변화 및 자동화의 부작용에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36298",
+    "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
+    "url": "https://news.hada.io/topic?id=36298",
+    "discussion_url": "https://news.hada.io/topic?id=36298",
+    "summary": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다.\n분야는 대화·이미지·영상·음성·음악·비전·월드·3D·픽셀아트·검색·임베딩·판정으로 나눴습니다.\n\n국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다\n오픈 가중치 모",
+    "score": 0,
+    "published_at": "2026-10-30T17:13:53+00:00",
+    "ai_summary": "전 세계 138개 개발사의 AI 모델 1,100여 개를 공식 발표 기준으로 모아둔 도감 사이트입니다.\n대화, 이미지, 영상, 음성 등 다양한 분야의 모델을 국가, 분야, 로컬 실행 가능 여부로 필터링하여 검색할 수 있습니다.\n오픈 가중치 모델 정보도 포함되어 있으며, AI 개발자와 연구자에게 유용한 리소스입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50300683",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50300683",
+    "summary": "",
+    "score": 784,
+    "published_at": "2026-10-30T07:09:12+00:00",
+    "ai_summary": "VS Code 확장 프로그램 'Claude Code'에서 백도어가 발견되어 사용자 코드 유출 위험이 있습니다.\n해당 백도어는 개발자들이 코딩 보조에 사용하는 AI 관련 도구에서 발생했습니다.\n개발자들은 즉시 확장의 사용을 중단하고 보안에 각별히 주의해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50305025",
+    "title": "Northflank Breached",
+    "url": "https://status.northflank.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50305025",
+    "summary": "",
+    "score": 364,
+    "published_at": "2026-10-30T15:10:31+00:00",
+    "ai_summary": "클라우드 호스팅 서비스 Northflank가 최근 데이터 유출 사고를 겪었습니다.\n이로 인해 사용자 계정 정보와 데이터가 노출되었을 가능성이 있습니다.\n서비스 이용자들은 비밀번호를 변경하고 보안 상태를 확인하는 것이 좋습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50263837",
+    "title": "Breaking the open web won't stop the bad bots",
+    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50263837",
+    "summary": "",
+    "score": 192,
+    "published_at": "2026-10-27T18:42:55+00:00",
+    "ai_summary": "오픈 웹의 개방성을 해치는 방식으로 악성 봇을 차단하려는 시도는 효과적이지 않습니다.\n오히려 웹 생태계를 손상시키고 사용자 경험을 저하시킬 수 있다는 지적입니다.\n봇 문제 해결을 위해 더 정교하고 지속 가능한 접근 방식이 필요합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50303172",
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50303172",
+    "summary": "",
+    "score": 324,
+    "published_at": "2026-10-30T12:50:01+00:00",
+    "ai_summary": "세계 최대 암호화폐 거래소 바이낸스에서 63억 달러 규모의 해킹이 단 20분 만에 발생했습니다.\n이는 블록체인 및 금융 플랫폼의 보안 취약성을 다시 한번 드러냈습니다.\n빠르게 진화하는 사이버 위협에 대한 철저한 방어와 대응 시스템의 중요성을 보여줍니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50306442",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "url": "https://github.com/dbreunig/nesformer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50306442",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-10-30T16:40:22+00:00",
+    "ai_summary": "약 1GB의 Qwen 모델 가중치를 사용하여 닌텐도 에뮬레이터를 구현한 프로젝트가 공개되었습니다.\n이는 대규모 언어 모델(LLM)이 복잡한 시스템 에뮬레이션에도 활용될 수 있음을 보여줍니다.\nAI/ML 분야에서 모델의 기능적 확장 가능성을 탐구하는 흥미로운 사례입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/updated-model-spec/",
+    "title": "OpenAI Updates Its Model Spec Around Five Core Values (7 minute read)",
+    "url": "https://openai.com/index/updated-model-spec/",
+    "discussion_url": "https://openai.com/index/updated-model-spec/",
+    "summary": "OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "OpenAI가 모델 작동 방식을 5가지 핵심 가치(인간 의도 충실, 피해 최소화, 정직성, 투명성, 인간 주체성, 배려)를 중심으로 업데이트했습니다. 이는 OpenAI 모델 개발 및 활용의 기본 지침이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://mistral.ai/news/mistral-large-4-oss/",
+    "title": "Mistral Releases Weights for Its Trillion-Parameter Model (4 minute read)",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "discussion_url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "summary": "Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "Mistral이 자체 호스팅 및 사이버 보안 애플리케이션을 위한 1조 개 파라미터 모델인 Mistral Large 4의 가중치를 공개했습니다. 에이전트 코딩 벤치마크에서 뛰어난 성능을 보이며 GLM-5.3과 유사한 사이버 보안 능력을 갖췄다고 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "title": "AI can turn security fixes into working exploits before users receive an update (16 minute read)",
+    "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "discussion_url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "summary": "GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "AI(GLM 5.3)가 공개되었지만 아직 사용자에게 배포되지 않은 보안 패치를 이용해 Firefox 취약점을 식별하고 악용할 수 있음이 드러났습니다. 오픈소스 프로젝트는 공개된 코드 때문에 특히 취약하며, AI 기반 사이버 보안 기능 향상에 따라 이러한 위협이 심화될 것입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
+    "title": "The surprising leadership dynamics in agent swarms (17 minute read)",
+    "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
+    "discussion_url": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
+    "summary": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor d",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "연구원들이 리더 없는 에이전트 스웜(집단 에이전트)이 스스로 어떻게 조직되는지 이해하기 위한 실험을 진행했습니다. 에이전트의 기본 모델과 프롬프트에 이름이 나열된 순서가 에이전트의 잠재적 리더십에 영향을 미칠 수 있음을 발견했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+    "title": "Leaking Muse's Charter, Meta's model spec (13 minute read)",
+    "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+    "discussion_url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+    "summary": "Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "Meta의 Muse Spark Open 모델이 추론 과정에서 'Charter'를 자주 언급하며, 이 게시물은 모델 출력물을 통해 해당 문서를 재구성합니다. 유출된 문서가 아닌 모델 출력물에서 재구성된 것이므로 정확도가 완전하지 않을 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "title": "How Meta Catches Bugs Before Code Ships (9 minute read)",
+    "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "discussion_url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "summary": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "Meta는 LLM 기반 Just-in-Time 테스트 시스템을 연구 프로토타입에서 프로덕션 인프라로 확장한 방법을 상세히 설명합니다. AI가 생성한 테스트가 코드 배포 전에 버그를 어떻게 찾아내는지, 시스템이 대규모로 작동하는 방식, 그리고 오탐 감소 및 테스트 오버헤드에 대해 배운 점을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "title": "How we're training a Figma-fluent editing model (6 minute read)",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "discussion_url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "summary": "Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "특정 작업(예: Figma 편집)에 대해 후처리(post-trained)된 모델이 최첨단 모델과 경쟁할 수 있음을 보여줍니다. Figma가 Figma 편집에 능숙한 모델을 훈련하는 과정을 설명하며, 특정 문제에 집중하는 것이 제품 업데이트로 이어질 수 있음을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://factory.com/news/frontier-harness",
+    "title": "Droid 1.0: Building a Frontier Harness (15 minute read)",
+    "url": "https://factory.com/news/frontier-harness",
+    "discussion_url": "https://factory.com/news/frontier-harness",
+    "summary": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.",
+    "score": 0,
+    "published_at": "2026-10-31T02:03:26+00:00",
+    "ai_summary": "Droid는 에이전트가 단일 모델 요청에서 수백 개의 도구 호출을 실행할 수 있게 하는 에이전트 하네스입니다. 단일 모델에 맞춰 튜닝하는 대신 여러 모델에 최적화된 하네스를 구축하는 것이 실제 진보를 가져오며, 개선 사항이 특정 모델을 넘어 일반화되도록 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
