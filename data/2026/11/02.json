@@ -1,0 +1,298 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36377",
+    "title": "Anthropic, Claude의 게임 재구현 제한 시작…모딩과 역공학 작업 거절 사례도 보고",
+    "url": "https://news.hada.io/topic?id=36377&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36377&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Claude Code에 특정 기존 게임의 재구현을 제한하는 규칙이 추가됐으며, 사용자들은 모딩과 역공학, 일반적인 게임 개발 작업에서도 거절 사례를 보고함\nAnthropic은 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다고 확인함. 지식재산권 침해 방지가 목적...",
+    "score": 0,
+    "published_at": "2026-11-01T08:31:49+00:00",
+    "ai_summary": "Anthropic의 Claude가 특정 게임의 재구현을 제한하는 새로운 규칙을 도입했습니다.\n사용자들은 모딩, 역공학 등 일반적인 게임 개발 작업에서도 거절 사례를 보고하고 있습니다.\n이는 지식재산권 침해 방지를 목적으로 하며, AI 모델의 정책이 개발 작업에 미치는 영향을 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50326821",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=50326821",
+    "summary": "",
+    "score": 938,
+    "published_at": "2026-11-01T15:58:28+00:00",
+    "ai_summary": "HackerBooks는 Hacker News에서 언급된 책들을 모아 보여주는 새로운 플랫폼입니다.\nHackerTube가 YouTube 비디오를 큐레이션하는 것처럼, 개발자들에게 유용한 도서 정보를 제공합니다.\n기술 서적 발견 및 학습 자료 탐색에 관심 있는 개발자들에게 유용할 것입니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50331402",
+    "title": "OccupySaaS",
+    "url": "https://occupysaas.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331402",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-11-02T00:17:27+00:00",
+    "ai_summary": "\"OccupySaaS\"는 서비스형 소프트웨어(SaaS)에 대한 비판적 시각이나 운동을 다루는 것으로 보입니다.\nSaaS 비즈니스 모델, 오픈 소스 대안, 또는 개발자 자율성과 관련된 이슈를 제기할 수 있습니다.\n클라우드 서비스 및 소프트웨어 개발 환경의 미래 방향에 대한 논의를 담고 있을 가능성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50299811",
+    "title": "Nibnib: Image compression with extreme decompression speed",
+    "url": "https://github.com/raphlinus/nibnib",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299811",
+    "summary": "",
+    "score": 99,
+    "published_at": "2026-10-30T04:17:06+00:00",
+    "ai_summary": "Nibnib은 뛰어난 압축 효율성과 함께 매우 빠른 압축 해제 속도를 제공하는 이미지 압축 기술입니다.\n특히 실시간 처리나 고성능이 요구되는 애플리케이션 개발에 유용할 것으로 예상됩니다.\n데이터 처리 및 프론트엔드 최적화에 관심 있는 개발자들에게 중요한 도구가 될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50312408",
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50312408",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-10-31T01:38:56+00:00",
+    "ai_summary": "PostgreSQL 19 버전 출시가 지연되고 있으며, 그 원인이 인공지능(AI) 때문인 것으로 밝혀졌습니다.\n이는 AI 개발에 따른 인력 및 자원 재배치, 또는 AI 관련 기능 통합의 복잡성 때문일 수 있습니다.\n데이터베이스 개발자들과 백엔드 엔지니어들에게 AI가 프로젝트 로드맵에 미치는 영향을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50271106",
+    "title": "Tips for more effective fuzz testing with AFL++",
+    "url": "https://nullprogram.com/blog/2025/02/05/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271106",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-10-28T09:46:12+00:00",
+    "ai_summary": "이 기사는 AFL++를 활용한 퍼즈 테스팅을 더욱 효과적으로 수행하기 위한 팁들을 제공합니다.\n퍼즈 테스팅은 소프트웨어의 취약점을 찾고 견고성을 높이는 데 중요한 기법입니다.\n품질 보증 및 보안 강화를 목표로 하는 개발자들에게 유용한 실용적인 지침이 될 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50308754",
+    "title": "Copper – A minimal low-level programming language with OOP and generics",
+    "url": "https://tibleiz.net/copper/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50308754",
+    "summary": "",
+    "score": 129,
+    "published_at": "2026-10-30T19:09:33+00:00",
+    "ai_summary": "Copper는 객체 지향 및 제네릭을 지원하는 최소한의 저수준 프로그래밍 언어입니다.\n시스템 프로그래밍과 효율성을 목표로 설계되었으며, 개발자들에게 새로운 대안을 제시합니다.\n언어 설계와 구현에 관심 있는 이들에게 유용할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50325253",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "discussion_url": "https://news.ycombinator.com/item?id=50325253",
+    "summary": "",
+    "score": 164,
+    "published_at": "2026-11-01T13:02:30+00:00",
+    "ai_summary": "OmniDiff는 오픈소스이며 매우 빠르고 콘텐츠 인지 기능을 갖춘 Git 디프 툴입니다.\nRust로 개발되어 기존 툴보다 뛰어난 성능을 제공하며, 개발자의 코드 리뷰 및 변경사항 추적을 돕습니다.\nGit 사용자의 생산성을 향상시킬 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50328251",
+    "title": "Mathematics has changed. Let's act like it",
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50328251",
+    "summary": "",
+    "score": 226,
+    "published_at": "2026-11-01T18:28:42+00:00",
+    "ai_summary": "수학의 본질과 역할이 현대에 들어 크게 변화했음을 주장하며, 이에 맞춰 우리도 변화해야 한다고 강조합니다.\n계산 도구와 컴퓨터를 활용한 새로운 접근 방식이 수학 연구와 교육에 미치는 영향을 다룹니다.\n개발자에게는 컴퓨테이셔널 수학 사고의 중요성을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50330456",
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50330456",
+    "summary": "",
+    "score": 171,
+    "published_at": "2026-11-01T22:10:45+00:00",
+    "ai_summary": "아폴로 이코노미스트에 따르면, 대부분의 기업에서 AI 투자가 재정적 성과로 이어지지 않는다고 합니다.\nAI 프로젝트의 실제 비즈니스 가치 창출에 대한 회의론이 제기되며, 신중한 접근의 필요성을 강조합니다.\nAI 기술 도입을 고려하는 기업과 개발자들에게 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50325454",
+    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "url": "https://arxiv.org/abs/2610.39302",
+    "discussion_url": "https://news.ycombinator.com/item?id=50325454",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-11-01T13:24:49+00:00",
+    "ai_summary": "이 기사는 Platonic Representation 가설을 증명하고 개선하기 위해 JEPAs를 활용한 연구를 다룹니다.\nAI 모델이 세계를 어떻게 표현하고 학습하는지에 대한 근본적인 질문을 탐구합니다.\n인공지능 연구자 및 고급 ML 개발자에게 중요한 이론적 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50326099",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50326099",
+    "summary": "",
+    "score": 400,
+    "published_at": "2026-11-01T14:34:43+00:00",
+    "ai_summary": "레노버의 '암호화된' 지문 인식 USB 드라이브가 실제로는 암호화되지 않은 SD 카드에 불과하다는 사실이 드러났습니다.\n이는 사용자 데이터 보안에 대한 심각한 우려를 제기하며, 제조사의 허위 광고 문제를 부각시킵니다.\n보안에 관심 있는 개발자들에게 중요한 경고 사례입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50323088",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323088",
+    "summary": "",
+    "score": 302,
+    "published_at": "2026-11-01T06:06:19+00:00",
+    "ai_summary": "JavaScript 프레임워크 사용이 AI 개발 및 운영에 미치는 비용적 측면을 분석합니다.\n효율적인 프레임워크 선택이 AI 프로젝트의 경제성에 중요함을 강조합니다.\n개발자들이 AI 시대에 프레임워크 선택 시 고려해야 할 사항을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50290533",
+    "title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "url": "https://outcrop.rocks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50290533",
+    "summary": "",
+    "score": 154,
+    "published_at": "2026-10-29T15:22:41+00:00",
+    "ai_summary": "카메라를 풍경에 비추면 지질학 정보를 제공하는 새로운 애플리케이션을 소개합니다.\n이는 AI/ML, 컴퓨터 비전 기술을 활용하여 사용자에게 인터랙티브한 경험을 제공합니다.\n모바일 개발 및 위치 기반 서비스의 흥미로운 응용 사례를 보여줍니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50314508",
+    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+    "url": "https://kevs3d.co.uk/phoria2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50314508",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-10-31T09:49:42+00:00",
+    "ai_summary": "개발자가 기존의 캔버스 3D 라이브러리를 소형 WebGL 2 라이브러리인 'phoria2'로 재구축했습니다. 이 프로젝트는 웹 기반 3D 그래픽 개발에 유용한 도구이자 기술적 재해석을 보여줍니다. 웹 프론트엔드 개발자들에게 특히 흥미로울 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50324371",
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50324371",
+    "summary": "",
+    "score": 55,
+    "published_at": "2026-11-01T10:44:20+00:00",
+    "ai_summary": "이 기사는 특이한 유니코드 문자를 활용한 도메인 해킹 기법을 다룹니다. 도메인 이름 시스템과 유니코드의 복잡성을 이해하는 데 도움이 됩니다. 잠재적인 보안 취약성 및 피싱 가능성에 대한 인식을 높입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50327266",
+    "title": "Frontier Airlines Likely Breached",
+    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50327266",
+    "summary": "",
+    "score": 177,
+    "published_at": "2026-11-01T16:46:33+00:00",
+    "ai_summary": "프론티어 항공사에서 데이터 유출 가능성이 보도되었습니다. 이는 기업의 데이터 보안 중요성을 다시 한번 상기시키는 사례입니다. 개발자들은 시스템 설계 시 보안을 최우선으로 고려해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  }
+]
