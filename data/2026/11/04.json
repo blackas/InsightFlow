@@ -1,0 +1,786 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36564",
+    "title": "deepseek의 자율형 개발 에이전트 시스템 실험",
+    "url": "https://news.hada.io/topic?id=36564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "GitHub에서 개발 업무를 요청하면 AI가 스스로 작업을 판단하고 코드를 수정한 뒤 Pull Request(PR)까지 만들어주는 자율형 개발 에이전트 시스템이라고 하네요.그 동안 비슷한 시도는 많았는데 deepseek는 어떻게 했는지 가볍게 보기 좋을 것 같습니다.",
+    "score": 0,
+    "published_at": "2026-11-04T01:58:06+00:00",
+    "ai_summary": "deepseek이 AI가 스스로 개발 작업을 판단하고 코드를 수정하는 자율형 개발 에이전트 시스템을 실험합니다.\nGitHub에 요청이 들어오면 AI가 코드를 수정하고 Pull Request를 자동으로 생성합니다.\n개발 생산성 향상과 workflow 자동화에 대한 이전 시도들과 비교해볼 만합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36561",
+    "title": "생성형 AI 기초를 위한 작은 책: 직관적인 수학 입문서",
+    "url": "https://news.hada.io/topic?id=36561&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36561&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "생성형 모델의 주요 계열을 공통 수학 원리로 연결하는 입문서로, 최신 아키텍처를 망라하기보다 잠재변수, 우도, 변분 하한, 확산, 에너지 지형의 기초에 집중함PCA와 오토인코더에서 출발해 확률적 잠재변수 모델과 VAE, 확산 모델로 이어지며, 뒤의 개념이 앞에서 익힌 수학 위에 쌓이도록 구성함선형대수, 확률, 미적분 등 필요한 도구를 별도 사전 학습 장에 모으지 않고 모델을 이해하는 데 필요한 시점에 도입하며, 목적함수를 단계별로 유도함가역변환과 확률의 연쇄법칙으로 우도를 계산하는 모델뿐 아니라, GAN과 에너지 기…",
+    "score": 0,
+    "published_at": "2026-11-04T01:36:53+00:00",
+    "ai_summary": "생성형 AI 모델의 주요 계열을 공통 수학 원리로 연결하는 직관적인 입문서가 소개되었습니다.\n최신 아키텍처보다는 잠재변수, 우도, 확산 등 기초 개념에 집중하여 구성되었습니다.\n선형대수, 확률 등 필요한 수학 도구를 모델 이해 시점에 도입하며 목적 함수를 단계별로 유도합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36551",
+    "title": "Ubuntu 26.04의 Rust sudo는 표준 sudo와 호환되지 않음",
+    "url": "https://news.hada.io/topic?id=36551&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36551&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Ubuntu 26.04의 sudo-rs에서 기존 /etc/sudoers.d 규칙으로 허용했던 Exim 명령의 비밀번호 없는 실행이 동작하지 않는 사례가 확인됨표준 sudo가 -bp[acru]를 네 가지 인자에 대응하는 패턴으로 처리하는 반면, sudo-rs는 이를 문자열 그대로 처리해 허용하는 명령이 달라짐sudo-rs 매뉴얼은 명령행 인자의 와일드카드를 지원하지 않는다고 명시하며, 마지막 인자로 쓰는 *만 예외로 허용함호환성 차이를 매뉴얼의 와일드카드 설명 끝에서만 밝혀, 기존 sudo에 익숙한 관리자가 차이를 빠르게 파악하기 어려움해당 운영 환경은 모든…",
+    "score": 0,
+    "published_at": "2026-11-04T00:08:18+00:00",
+    "ai_summary": "Ubuntu 26.04의 sudo-rs가 기존 sudo와 달리 명령행 인자 처리 방식에서 호환성 문제를 보입니다.\nsudo-rs는 와일드카드 지원에 제약이 있어 기존 sudoers.d 규칙의 비밀번호 없는 실행이 작동하지 않을 수 있습니다.\n매뉴얼에 호환성 차이가 명확히 안내되지 않아 기존 sudo에 익숙한 관리자가 문제 파악에 어려움을 겪을 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36550",
+    "title": "XSLT에 다가오는 죽음",
+    "url": "https://news.hada.io/topic?id=36550&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36550&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google의 브라우저 XSLT 지원 제거를 두고, 기존 웹사이트를 고의로 깨뜨리지 않는다는 하위 호환성 원칙을 저버린다는 비판이 나옴지원 제거를 알리기 위해 만든 XSLT.RIP은 사이트 자체가 XSLT로 구현되어 있어, 지원이 사라지면 함께 작동하지 않게 됨지원 제거 시점은 2026년 11월 17일로 보이며, 일부 Chromium 기반 브라우저는 이미 XSLT 웹사이트에 경고 배너를 삽입하고 있음경고 배너는 페이지가 곧 제대로 표시되지 않을 수 있다며 확장 프로그램 설치 또는 사이트 관리자 문의를 안내함브라우저가 사이트 안에 경고를 삽입…",
+    "score": 0,
+    "published_at": "2026-11-04T00:05:18+00:00",
+    "ai_summary": "Google이 브라우저에서 XSLT 지원 제거를 예고하며 하위 호환성 원칙을 저버린다는 비판이 제기됩니다.\nXSLT로 구현된 XSLT.RIP 사이트조차 지원 종료 시 함께 작동하지 않게 됩니다.\n2026년 11월 17일 지원 제거 예정으로, 일부 Chromium 기반 브라우저는 이미 경고 배너를 표시하고 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36547",
+    "title": "에이전트가 일을 할 때의 비판적 사고",
+    "url": "https://news.hada.io/topic?id=36547&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36547&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "에이전트가 빠르고 매끄러우며 대체로 정확한 답을 내놓을수록, 사람이 다시 살펴볼 계기는 줄어듦. 에이전트 사용을 줄이기보다 비판적 사고를 작업 흐름에 의도적으로 넣어야 함작업을 맡기면서 결과에 대한 주도권을 유지하는 인지적 위임과, AI의 답을 확인 없이 자기 생각으로 받아들이는 인지적 항복은 다름. 에이전트의 도움으로도 결과를 설명할 수 없다면 주도권을 넘긴 상태임검증의 병목은 테스트를 만드는 비용보다 좋은 검증이 무엇인지 판단하는 능력에 있음. 통과 표시만 볼 것이 아니라 무엇을 입증했고 무엇을 확인하지 않았는지 따져야 함…",
+    "score": 0,
+    "published_at": "2026-11-03T22:04:49+00:00",
+    "ai_summary": "AI 에이전트의 빠른 결과에 현혹되지 않고, 비판적 사고를 작업 흐름에 의도적으로 통합해야 합니다.\nAI의 도움을 받더라도 결과를 설명할 수 없다면 인지적 항복 상태이므로 주도권을 유지해야 합니다.\nAI 결과 검증 시 단순히 통과 여부만 볼 것이 아니라, 무엇을 입증하고 확인하지 않았는지 따져야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36540",
+    "title": "OpenAI가 Codex 대화의 모델 학습 사용을 알림 없이 다시 활성화하는 것으로 보임",
+    "url": "https://news.hada.io/topic?id=36540&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36540&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "한 이용자와 동료들이 꺼 두었던 Codex 데이터 공유 설정이 알림 없이 다시 활성화됐다고 보고함이들은 회사 지식재산 유출을 우려해 데이터 공유를 비활성화해 왔으며, 의식적으로 다시 동의한 적이 없다고 밝힘ChatGPT 데이터 제어 설정의 “Improve the model for everyone” 항목에서 설정 상태를 확인할 수 있음일부 이용자만 겪는 문제인지, 더 광범위한 현상인지는 확인되지 않음후속 수정에는 이전 HN 논의와 데이터 공유를 끌 수 있는 별도의 OpenAI 개인정보 관리 페이지가 추가됨데이터 공유 설정 재활성화 보고한 이용…",
+    "score": 0,
+    "published_at": "2026-11-03T18:44:05+00:00",
+    "ai_summary": "일부 OpenAI Codex 이용자들의 데이터 공유 설정이 알림 없이 다시 활성화되었다는 보고가 있습니다.\n이는 회사 지식재산 유출을 우려해 데이터 공유를 비활성화했던 이용자들에게 특히 문제가 됩니다.\n사용자들은 ChatGPT 데이터 제어 설정에서 \"Improve the model for everyone\" 항목을 확인하여 설정 상태를 점검해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36539",
+    "title": "Google, AI를 거부하는 학교의 검색 기능도 차단 예정",
+    "url": "https://news.hada.io/topic?id=36539&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36539&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "구글은 2027년 초부터 학교 관리자가 명시적으로 허용하지 않으면 초중고 학생 계정의 AI 도구를 끌 예정이며, AI를 전면 제한하는 학교는 Google 검색 접근도 잃게 됨검색과 AI가 깊이 통합돼 있다는 이유로, Google 생태계에서 학생의 검색 접근을 유지하려는 학교는 Google AI도 받아들여야 함AI를 허용하는 학교에는 AI 요약과 채팅을 켠 검색, 학생용 Gemini 기능인 Guided Learning을 이용한 검색이라는 두 가지 선택지가 제공될 예정임학부모의 학교 내 AI 사용 반대가 이어지는 가운데, 뉴욕시와 로스앤젤레스 교육구는 이미 …",
+    "score": 0,
+    "published_at": "2026-11-03T18:41:04+00:00",
+    "ai_summary": "구글은 2027년부터 학교에서 AI 사용을 허용하지 않으면 학생들의 Google 검색 접근도 제한할 예정이다.\n이는 검색과 AI의 깊은 통합 때문이며, 학교가 Google 생태계를 유지하려면 AI를 받아들여야 함을 의미한다.\nAI를 허용하는 학교는 AI 요약 검색과 학생용 Gemini 등 AI 기능을 이용할 수 있게 된다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36538",
+    "title": "Postman, 동의 없이 Codex와 Claude Code 플러그인을 자동 설치함",
+    "url": "https://news.hada.io/topic?id=36538&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36538&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "macOS에서 Postman 실행 후 Codex와 Claude Code 플러그인이 자동 설치됐으며, Postman CLI도 추가됐다는 신고가 접수됨Codex 시작 훅에 일반적인 API 작업에서도 Postman 스킬을 먼저 사용하도록 하는 지시문이 포함됨설치 프로그램에는 자신이 설치한 시작 훅을 신뢰하도록 등록하는 코드도 존재함원격 MCP 설정도 추가됐지만 인증에 실패했으며, 데이터 유출이 확인된 사례는 아님신고자는 명시적 동의 없는 설치 중단, 훅 자체 승인 제거와 완전한 제거 절차를 요청함Postman 실행 후 다른 개발 도구의 설정 변경macOS의 Postm…",
+    "score": 0,
+    "published_at": "2026-11-03T18:38:04+00:00",
+    "ai_summary": "Postman이 사용자 동의 없이 macOS에 Codex와 Claude Code 플러그인 및 CLI를 자동 설치했다는 보고가 접수되었다.\n설치된 Codex 훅은 API 작업 시 Postman 스킬을 우선 사용하도록 지시하며, 자체 신뢰 코드를 포함한다.\n이는 개발 도구의 무단 변경 및 보안 문제에 대한 우려를 제기하며, 명시적 동의와 투명한 제거 절차가 요구된다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36536",
+    "title": "Fujifilm, AI 데이터 보관 수요 늘자 &quot;자기 테이프&quot; 생산능력 5배 확대",
+    "url": "https://news.hada.io/topic?id=36536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "약 100억 엔을 투자해 자기 테이프 생산능력을 2025회계연도 대비 출하 저장용량 기준 약 5배로 확대할 계획임2026~2028회계연도에 일본 오다와라 사업장의 제조설비와 인력을 확충하며, LTO Ultrium10 생산에 주력함생성형 AI의 학습과 추론, 클라우드 서비스 확산으로 늘어나는 대용량 데이터의 장기 보관 수요에 대응자기 테이프는 대용량 데이터를 낮은 비용으로 장기간 보관할 수 있어 클라우드와 데이터센터에서 활용이 확대되고 있음네트워크에서 물리적으로 분리하는 에어갭 보관이 가능해 랜섬웨어 등에 대비한 백업 수단으…",
+    "score": 0,
+    "published_at": "2026-11-03T17:38:00+00:00",
+    "ai_summary": "후지필름은 AI 데이터 보관 수요 증가에 대응하여 자기 테이프 생산능력을 2025년 대비 약 5배 확장한다.\n100억 엔을 투자해 LTO Ultrium10 생산에 주력하며, 대용량 데이터의 장기 및 저비용 보관 솔루션을 강화한다.\n이는 생성형 AI 학습, 클라우드 확산과 더불어 랜섬웨어 대비 백업 수단으로 자기 테이프의 중요성이 커지기 때문이다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50358702",
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50358702",
+    "summary": "",
+    "score": 141,
+    "published_at": "2026-11-03T21:51:06+00:00",
+    "ai_summary": "이 기사는 PostgreSQL 데이터베이스의 내부 동작 방식과 구조에 대해 심층적으로 다룬다.\n개발자와 데이터베이스 관리자가 성능 최적화, 문제 해결을 위해 핵심 요소를 이해하는 데 도움이 된다.\n스토리지, 트랜잭션 처리, 쿼리 플래너 등 PostgreSQL의 작동 원리를 상세히 설명한다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50339288",
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50339288",
+    "summary": "",
+    "score": 638,
+    "published_at": "2026-11-02T16:29:19+00:00",
+    "ai_summary": "필자는 자동차 내비게이션 시스템의 시간 설정을 변경하기 위해 시스템을 탈옥(jailbreak)하는 과정을 설명한다.\n이는 제조업체의 제한적인 사용자 인터페이스를 우회하고 기기 제어권을 확보하려는 시도이다.\n임베디드 시스템 해킹, 리버스 엔지니어링 등 비표준적인 개발자 기술이 필요한 사례를 보여준다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50354358",
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "url": "https://neufangled.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50354358",
+    "summary": "",
+    "score": 412,
+    "published_at": "2026-11-03T16:47:29+00:00",
+    "ai_summary": "이 기사는 800달러 가격대의 오픈소스 룸 스케일 그리퍼 로봇인 'Stringman'을 소개한다.\n이는 저렴한 비용으로 개인이나 연구자들이 로봇 기술을 탐구하고 개발할 수 있는 기회를 제공한다.\n하드웨어 설계, 제어 소프트웨어 등 로봇 개발에 관련된 다양한 기술적 측면을 다룰 것으로 예상된다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50346755",
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "url": "https://hackertv.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=50346755",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-11-03T01:18:09+00:00",
+    "ai_summary": "'HackerTV'는 Hacker News에서 가장 추천이 많은 유튜브 영상들을 24시간 스트리밍 채널로 제공하는 프로젝트이다.\n이는 개발자 및 기술 커뮤니티가 선호하는 영상 콘텐츠를 편리하게 접근하고 시청할 수 있는 새로운 방법을 제시한다.\n사용자 선호도 기반의 콘텐츠 큐레이션 및 스트리밍 기술을 활용한 개발자의 사이드 프로젝트로 보인다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50358562",
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50358562",
+    "summary": "",
+    "score": 315,
+    "published_at": "2026-11-03T21:39:05+00:00",
+    "ai_summary": "Safari 27.3 버전에서 적응형 다크 모드를 도입하여 웹사이트의 사용자 경험을 개선합니다.\n이 기능은 웹 콘텐츠에 맞춰 다크 모드 스타일을 자동으로 조정합니다.\n프론트엔드 개발자들은 이 변경 사항을 고려하여 디자인을 최적화해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50351463",
+    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+    "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50351463",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-11-03T12:58:43+00:00",
+    "ai_summary": "마이크로소프트가 PC 매출 감소 속에서 윈도우 11의 사용자 불편 사항을 해결하는 업데이트를 발표했습니다.\n이는 운영체제의 안정성과 사용자 경험 개선에 중점을 둡니다.\n윈도우 환경에서 작업하는 개발자들은 이러한 변화에 유의해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50336918",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50336918",
+    "summary": "",
+    "score": 394,
+    "published_at": "2026-11-02T14:02:42+00:00",
+    "ai_summary": "후지필름이 AI로 인한 데이터 아카이빙 수요 급증에 대응하여 테이프 생산량을 5배 늘릴 계획입니다.\n이는 대규모 AI 모델 학습 및 운영에 필요한 데이터 저장의 중요성을 강조합니다.\n데이터 인프라 및 AI 관련 개발자들에게 의미 있는 동향입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50355251",
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50355251",
+    "summary": "",
+    "score": 505,
+    "published_at": "2026-11-03T17:40:00+00:00",
+    "ai_summary": "Qwen 3.8 27B 모델이 랩톱에서도 모델 가중치를 성공적으로 해석할 수 있음을 보여줍니다.\n이는 LLM의 로컬 환경에서의 효율성과 성능 향상을 시사합니다.\nAI/ML 및 LLM 개발자들에게 온디바이스 AI 가능성을 열어주는 소식입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50358582",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "discussion_url": "https://news.ycombinator.com/item?id=50358582",
+    "summary": "",
+    "score": 252,
+    "published_at": "2026-11-03T21:40:53+00:00",
+    "ai_summary": "생성형 AI의 기초를 다루는 수학적 입문서가 출간되어 개발자들에게 핵심 개념을 쉽게 설명합니다.\n이 책은 생성형 AI의 원리를 직관적으로 이해하는 데 도움을 줍니다.\nAI/ML 분야에 관심 있는 개발자들에게 유용한 학습 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50358314",
+    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+    "url": "https://github.com/finic-ai/kairos",
+    "discussion_url": "https://news.ycombinator.com/item?id=50358314",
+    "summary": "",
+    "score": 64,
+    "published_at": "2026-11-03T21:16:48+00:00",
+    "ai_summary": "카이로스는 오픈소스 기반의 위험 및 사기 의사결정 플랫폼으로, 금융 서비스 등에서 사기 탐지 및 위험 관리를 지원합니다.\n백엔드, 보안, 데이터 관련 개발자들이 시스템 구축에 활용할 수 있습니다.\n클라우드 환경 배포에도 적합합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50354960",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "discussion_url": "https://news.ycombinator.com/item?id=50354960",
+    "summary": "",
+    "score": 1064,
+    "published_at": "2026-11-03T17:22:37+00:00",
+    "ai_summary": "인기 개발 도구인 Postman이 AI 플러그인을 자동 설치하고 사용자 API 데이터를 공유하려 한 사실이 드러났습니다.\n이는 개발 도구의 개인 정보 보호 및 보안에 대한 심각한 우려를 낳습니다.\n개발자들은 API 데이터 보안에 각별히 주의해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50352641",
+    "title": "There is no posttraining data commons",
+    "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50352641",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-11-03T14:45:47+00:00",
+    "ai_summary": "AI 모델 후처리 학습 데이터 공유의 어려움과 부재에 대한 논의입니다.\n데이터셋 구축 및 접근성에 대한 중요성이 강조됩니다.\n공동 데이터 저장소의 필요성과 현재 상황의 한계를 다룹니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50322603",
+    "title": "We're training a Figma-fluent editing model",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50322603",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-11-01T04:05:23+00:00",
+    "ai_summary": "Figma 디자인 작업에 능숙한 AI 편집 모델을 훈련하고 있습니다.\n사용자 인터페이스 디자인 자동화 및 생산성 향상을 목표로 합니다.\nAI와 디자인 도구의 융합을 통한 새로운 개발 방향을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50356913",
+    "title": "Introduction to Programming in ATS",
+    "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50356913",
+    "summary": "",
+    "score": 58,
+    "published_at": "2026-11-03T19:25:18+00:00",
+    "ai_summary": "ATS 언어(또는 시스템) 프로그래밍에 대한 입문 가이드입니다.\n강력한 타입 시스템을 활용한 안전하고 효율적인 코드 작성을 소개합니다.\n함수형 프로그래밍 및 형식 검증의 기본 개념을 배울 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50355767",
+    "title": "How I use AI (Oct 2026)",
+    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50355767",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-11-03T18:11:11+00:00",
+    "ai_summary": "2026년 10월 시점에서 저자가 인공지능을 어떻게 활용하고 있는지에 대한 개인적인 경험을 공유합니다.\nAI 도구를 통한 작업 효율성 향상 및 미래 업무 방식의 변화를 예측합니다.\n개발자 또는 일반 사용자가 AI를 일상에 통합하는 방법을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50349276",
+    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50349276",
+    "summary": "",
+    "score": 455,
+    "published_at": "2026-11-03T07:56:21+00:00",
+    "ai_summary": "1996년 당시 펜티엄 컴퓨터에서 실행되는 현대 체스 엔진이 카스파로프를 이길 수 있었을지에 대한 가설을 탐구합니다.\n최신 AI 알고리즘과 과거 하드웨어 성능의 조합 가능성을 분석합니다.\nAI 발전과 하드웨어 제약 간의 흥미로운 비교를 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50360164",
+    "title": "C++26 Disapproved",
+    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360164",
+    "summary": "",
+    "score": 12,
+    "published_at": "2026-11-04T00:33:22+00:00",
+    "ai_summary": "C++26 표준 제안이 승인되지 않아, 차기 C++ 표준 로드맵에 변화가 예상됩니다.\n개발자들은 표준 위원회의 결정과 향후 방향에 주목하고 있습니다.\nC++ 언어의 발전과 커뮤니티의 논의에 중요한 영향을 미칠 소식입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50351111",
+    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+    "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "discussion_url": "https://news.ycombinator.com/item?id=50351111",
+    "summary": "",
+    "score": 914,
+    "published_at": "2026-11-03T12:21:17+00:00",
+    "ai_summary": "'Astra가 Qwen의 가중치를 읽고 쓸 수 있다'는 주장이 잘못되었음을 밝힙니다.\nAI 모델의 내부 작동 방식 및 개선 가능성에 대한 오해를 바로잡는 내용입니다.\nLLM 기술의 정확한 이해와 정보 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50342931",
+    "title": "Union Types and Option Types (2025)",
+    "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50342931",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-11-02T20:08:33+00:00",
+    "ai_summary": "2025년 도입될 가능성이 있는 유니온 타입과 옵션 타입에 대한 논의를 다룹니다.\n이는 프로그래밍 언어의 타입 시스템을 강화하고 코드의 안전성을 높이는 중요한 기능입니다.\n개발자들은 코드 작성의 유연성과 안정성 향상을 기대할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50357457",
+    "title": "Pratt parsing is a black box",
+    "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50357457",
+    "summary": "",
+    "score": 42,
+    "published_at": "2026-11-03T20:07:41+00:00",
+    "ai_summary": "Pratt 파싱 기법이 이해하기 어렵고 구현하기 복잡할 수 있다는 문제를 제기합니다.\n파서 개발자들이 겪는 어려움과 더 직관적인 파싱 방법의 필요성에 대해 논의합니다.\n컴파일러 및 언어 도구 개발자에게 중요한 기술적 관점을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50337980",
+    "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
+    "url": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50337980",
+    "summary": "",
+    "score": 35,
+    "published_at": "2026-11-02T15:18:49+00:00",
+    "ai_summary": "통제 불가능한 '스파게티 코드' 또는 복잡한 시스템을 제거하는 과정을 다룹니다.\n유지보수하기 어려운 코드베이스를 정리하고 효율적인 시스템 구축을 위한 방안을 제시합니다.\n모든 개발자가 공감할 수 있는 소프트웨어 개발의 난제 해결에 대한 이야기입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50352758",
+    "title": "Mac at any scale",
+    "url": "https://namespace.so/blog/mac-at-any-scale",
+    "discussion_url": "https://news.ycombinator.com/item?id=50352758",
+    "summary": "",
+    "score": 320,
+    "published_at": "2026-11-03T14:53:42+00:00",
+    "ai_summary": "대규모 환경에서 Mac 기기를 관리하는 전략과 솔루션을 소개합니다.\n기업 또는 조직 내에서 Mac 기기의 효율적인 배포, 설정 및 보안 유지 방안을 다룹니다.\nDevOps 및 IT 관리자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/",
+    "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch (3 minute read)",
+    "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/",
+    "discussion_url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/",
+    "summary": "GPT-6.2-Astra has started appearing in Codex usage breakdowns. The requests are likely being quietly routed to the new model as part of an A/B test or a staged rollout. A public launch could be days away. OpenAI reportedly decided to skip GPT-6.1 Astra due to concerns about deception and scope.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "GPT-6.2-Astra가 OpenAI의 Codex 사용량에서 포착되어 새로운 모델의 출시가 임박했음을 시사합니다. 이는 A/B 테스트나 단계적 출시의 일환으로 트래픽이 새 모델로 조용히 라우팅되고 있을 가능성이 큽니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "title": "Anthropic Warns It May Be Close to Self-Improving AI (3 minute read)",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "discussion_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "summary": "Anthropic disclosed in its updated IPO filing that it may soon reach its internal definition of recursive self-improvement (RSI), where AI systems help develop increasingly capable AI models.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Anthropic은 자체 정의한 재귀적 자기 개선(RSI)에 곧 도달할 수 있다고 밝혔습니다. RSI는 AI 시스템이 스스로를 개선하여 더욱 유능한 AI 모델을 개발하는 것을 의미하며, 이는 AI 발전의 중요한 이정표가 될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/resources/articles/message-threads",
+    "title": "Claude Introduces Message Threads (2 minute read)",
+    "url": "https://claude.com/resources/articles/message-threads",
+    "discussion_url": "https://claude.com/resources/articles/message-threads",
+    "summary": "Anthropic released message threads in public beta, allowing agents to send only new messages instead of resending their entire conversation history. The feature reduced median time to first token by approximately 35% for requests with 500K–1M tokens, without changing token usage.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Anthropic이 Claude에 메시지 스레드 기능을 공개 베타로 출시했습니다. 이 기능은 에이전트가 전체 대화 기록 대신 새 메시지만 보내도록 하여 효율성을 높입니다. 이를 통해 500K-1M 토큰 요청에서 첫 토큰 응답 시간을 약 35% 단축했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.gr.inc/blog/how-to-train-a-swarm",
+    "title": "How to Train a Swarm (19 minute read)",
+    "url": "https://www.gr.inc/blog/how-to-train-a-swarm",
+    "discussion_url": "https://www.gr.inc/blog/how-to-train-a-swarm",
+    "summary": "Swarms are AI systems where multiple agents cooperate towards a shared goal. This post discusses a technique called collective inference-time scaling, where agents scale the amount of useful work performed in parallel and the communication needed to achieve it. It also explains how to design incentives for parallel work, and covers the general topic of designing incentives for reinforcement learning.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "이 글은 여러 에이전트가 협력하여 공동 목표를 달성하는 AI 시스템인 '스웜'을 훈련하는 기법을 다룹니다. 특히, 집단 추론 시간 스케일링(collective inference-time scaling)을 통해 병렬 작업량과 필요한 통신을 최적화하는 방법을 설명합니다. 강화 학습의 인센티브 설계에 대한 내용도 포함하고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+    "title": "Lessons from building Copilot Cowork (21 minute read)",
+    "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+    "discussion_url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+    "summary": "Microsoft's Copilot Cowork, an AI-driven agentic execution layer, achieved global availability in four and a half months, switching its runtime from Python to Rust while live. Key practices included writing clear specs before coding, running narrow agents with clear boundaries, and ensuring automated checks genuinely verify code changes. The transition to Rust improved efficiency and highlighted the importance of clear testing, boundary setting, and human oversight in the development process.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Microsoft Copilot Cowork는 4.5개월 만에 전 세계적으로 출시되었으며, 런타임을 Python에서 Rust로 라이브 전환했습니다. 명확한 사양, 명확한 경계를 가진 에이전트, 그리고 자동화된 검증의 중요성을 강조했습니다. Rust 전환은 효율성을 높였고, 개발 과정에서 명확한 테스트 및 인간 감독의 중요성을 재확인시켜 주었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+    "title": "The Hitchhiker's Guide to Training on Compute Islands (18 minute read)",
+    "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+    "discussion_url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+    "summary": "Being able to train reliably on multiple smaller clusters widens the usable training pool for frontier training. A single run could mix accelerator generations and vendors as each island runs on its own schedule. Older generations or less common chips could also participate in a frontier run. One risk with this model is that integrity and safety may become harder when models are trained across providers, as one faulty or compromised site can quietly degrade or tamper with models in ways that are",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "여러 개의 작은 클러스터에서 AI 모델을 안정적으로 훈련하는 것은 프론티어 훈련을 위한 컴퓨팅 자원 풀을 확장합니다. 이 모델에서는 가속기 세대와 공급업체를 혼합하여 사용할 수 있지만, 여러 공급업체에 걸쳐 훈련할 경우 모델 무결성 및 보안 문제가 발생할 위험이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+    "title": "GPU-accelerated Weight Teleportation (17 minute read)",
+    "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+    "discussion_url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+    "summary": "GPU-accelerated Weight Teleportation optimizes RL training by improving weight syncing between trainers and samplers, reducing pause times to under 0.23 seconds. This is achieved using a co-designed compression/decompression pipeline with GPU-accelerated parallel processing, utilizing efficient codecs like LZ4 and Snappy, combined with a Zstd layer.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "GPU 가속 Weight Teleportation은 트레이너와 샘플러 간의 가중치 동기화를 개선하여 강화 학습(RL) 훈련을 최적화합니다. 이 기술은 GPU 가속 병렬 처리와 효율적인 코덱(LZ4, Snappy, Zstd)을 사용한 압축/압축 해제 파이프라인을 통해 일시 정지 시간을 0.23초 미만으로 단축합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://framer.com/blog/harness-2/",
+    "title": "Harness 2: executing agent code as it streams (6 minute read)",
+    "url": "https://framer.com/blog/harness-2/",
+    "discussion_url": "https://framer.com/blog/harness-2/",
+    "summary": "Framer's Harness 2 significantly upgrades the agent's execution process, allowing entire workflows in one program, achieving up to 33% cost reduction and 20% faster execution. This is done by executing JavaScript as it streams in, avoiding multiple model calls and using eager execution and early cancellation to enhance efficiency. The redesign also replaces DSL with method calls for real-time updates, making task execution streamlined for both in-app and external agents, reducing tool steps by 4",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Framer의 Harness 2는 에이전트 실행 프로세스를 대폭 개선하여, JavaScript 코드를 스트리밍하면서 실행하여 전체 워크플로우를 처리합니다. 이를 통해 비용을 최대 33% 절감하고 실행 속도를 20% 향상시켰습니다. DSL을 메서드 호출로 대체하고 선제적 실행 및 조기 취소를 활용하여 효율성을 높였습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+    "title": "NVIDIA's Cosmos Framework (6 minute read)",
+    "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+    "discussion_url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+    "summary": "NVIDIA introduced new Cosmos Framework capabilities for training, fine-tuning, reinforcement learning, and optimizing world models for physical AI. Developers can generate synchronized video and LiDAR simulations for robotics and autonomous vehicles, then deploy models through GPU-accelerated Cosmos NIM microservices.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "NVIDIA는 물리적 AI를 위한 Cosmos Framework의 새로운 기능을 소개했습니다. 개발자들은 로봇 및 자율 주행 차량 시뮬레이션을 생성하고, GPU 가속 Cosmos NIM 마이크로서비스를 통해 모델을 배포할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs (2 minute read)",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "discussion_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "summary": "OpenAI plans to merge the Chat and Work tabs within the ChatGPT experience after an initial testing period with select users. Codex will remain a separate experience in the ChatGPT desktop app. The change will enable users to move from exploring ideas to having the chatbot complete work within the same space. Users can import files and plugins. Both ChatGPT and Codex will soon draw from the same allowance pool.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "OpenAI는 ChatGPT의 채팅 및 작업 탭을 통합할 계획입니다. 이를 통해 사용자는 아이디어 탐색부터 작업 완료까지 같은 공간에서 진행할 수 있으며, 파일 및 플러그인 가져오기 기능도 제공됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "title": "LLMs are not superhuman at reading and writing neural network weights (4 minute read)",
+    "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "discussion_url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "summary": "A recent paper demonstrates GPT-6 Astra's ability to interact with neural network weights directly, surpassing human or conventional algorithm capabilities. Astra significantly improved a 0.8B Qwen LLM's mathematical skills by editing weights natively. While impressive, these capabilities reflect advanced problem-solving akin to skilled human researchers, not radically new AI capabilities.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "GPT-6 Astra가 신경망 가중치를 직접 조작하여 LLM의 수학적 능력을 향상시킬 수 있음을 보여주는 연구가 발표되었습니다. 이는 숙련된 인간 연구원과 유사한 고급 문제 해결 능력으로 평가됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://githubnext.com/posts/enclaves/",
+    "title": "Limit what agents learn about private repos with enclaves (17 minute read)",
+    "url": "https://githubnext.com/posts/enclaves/",
+    "discussion_url": "https://githubnext.com/posts/enclaves/",
+    "summary": "Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows that lets agents work on different repositories while limiting what they say to each other.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Enclave는 GitHub Agentic Workflows를 위한 새로운 보안 기능입니다. 에이전트가 여러 저장소에서 작업할 때 정보 공유를 제한하여 개인 저장소의 보안을 강화합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/lifeval/",
+    "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks (4 minute read)",
+    "url": "https://openai.com/index/lifeval/",
+    "discussion_url": "https://openai.com/index/lifeval/",
+    "summary": "LifeVal is a benchmark designed to evaluate AI performance on practical everyday tasks such as budgeting, finding childcare, and accessing government services.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "OpenAI는 예산 관리, 보육 찾기 등 실제 일상 작업에서 AI 성능을 평가하는 벤치마크인 LifeVal을 도입했습니다. 이는 AI 모델의 실용성을 측정하는 데 사용됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+    "title": "Teaching Qwen Why (47 minute read)",
+    "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+    "discussion_url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+    "summary": "The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with fictional stories and ethical dilemmas.",
+    "score": 0,
+    "published_at": "2026-11-04T02:55:45+00:00",
+    "ai_summary": "Anthropic의 \"Teaching Claude Why\" 방법을 확장하여 에이전트 불일치를 줄이는 연구가 진행되었습니다. 가상 스토리와 윤리적 딜레마를 활용한 합성 문서 및 지도 미세 조정을 통해 LLM의 정렬을 개선합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  }
+]
