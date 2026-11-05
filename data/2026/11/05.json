@@ -1,0 +1,791 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36631",
+    "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
+    "url": "https://news.hada.io/topic?id=36631&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36631&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "macOS 27 Golden Gate 사용 사례에서 CoreStorage 기반 암호화 HFS+ 볼륨의 일반적인 마운트, APFS 변환, 삭제가 모두 실패함부팅 시에는 macOS 28부터 지원이 중단된다는 안내가 나오지만, 해당 환경에서는 이미 macOS 27의 일반적인 접근 도구가 작동하지 않음저수준 명령인 mount_hfs 를 직접 실행하면 읽기 전용 마운트는 가능했으나, 읽기/쓰기 마운트는 계속 Resource busy 오류로 실패함논리 볼륨 그룹 삭제를 시도한 뒤 재부팅하면 볼륨을 지울 수 있었으나, 데이터를 유지한 채 사용하는 해결책은 아님기존 볼륨을 그대로 사…",
+    "score": 0,
+    "published_at": "2026-11-05T02:32:41+00:00",
+    "ai_summary": "macOS 27에서 CoreStorage 기반 암호화 HFS+ 볼륨 마운트 및 변환이 실패하는 문제가 발생했습니다.\nmacOS 28부터 지원 중단이 예고되었지만, 이미 27 버전에서 일반적인 접근 도구가 작동하지 않습니다.\n읽기 전용 마운트만 가능하며, 데이터를 유지한 채 사용할 수 있는 해결책은 없습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36623",
+    "title": "Thoughtworks Technology Radar, Volume 35 공개",
+    "url": "https://news.hada.io/topic?id=36623&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36623&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "테크닉/플랫폼/도구/언어 및 프레임워크 최신 트렌드 117개 항목을 \"도입 권장/시험 사용/평가/주의\"의 4단계로 분류하고 설명하네스 엔지니어링이 개별 에이전트의 설정을 넘어, 조직이 스킬과 가드레일을 배포하고 지속적으로 평가하는 일로 확장됨공개 가중치 모델과 로컬 코딩 모델의 선택지가 늘면서 작업별 품질, 비용, 지연, 데이터 보관 조건에 맞춰 모델을 고르는 일이 중요해짐에이전트 세션을 병렬로 돌리거나 밤새 작업을 맡길 수 있지만, 사람의 리뷰와 배포 파이프라인이 처리할 수 있는 양은 따로 살펴야 함AI를 대규…",
+    "score": 0,
+    "published_at": "2026-11-05T00:50:02+00:00",
+    "ai_summary": "Thoughtworks Technology Radar Volume 35가 공개되어 117개 기술 트렌드를 4단계로 분류합니다.\n엔지니어링 스킬 및 가드레일 배포와 평가의 중요성이 강조됩니다.\nAI 에이전트 작업량과 사람 리뷰를 균형 있게 보고, 공개 가중치 및 로컬 코딩 모델 선택 시 품질, 비용 등을 고려해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36621",
+    "title": "OpenAI, Pierre Computer Company 인수 예정",
+    "url": "https://news.hada.io/topic?id=36621&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36621&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI가 Git 기반 코드 저장 서비스와 오픈소스 코드 리뷰 도구를 만드는 Pierre Computer Company를 인수할 예정임Codex 앱은 이미 Pierre의 Trees로 파일을 탐색하고, Diffs로 코드 변경 사항을 보여줌인수 후 Code Storage의 기능을 Codex에 통합해, 코딩 에이전트와 협업하는 팀의 Git 작업 흐름을 확장할 계획Pierre의 프로젝트는 오픈소스로 유지되며, 기존 고객은 통합 작업 중에도 Code Storage를 계속 이용할 수 있음인수 완료에는 규제 당국 승인 등 통상적인 거래 종결 조건이 남아 있음인수 목적과 Git 워크플로 확장…",
+    "score": 0,
+    "published_at": "2026-11-05T00:31:40+00:00",
+    "ai_summary": "OpenAI가 Git 기반 코드 저장 서비스와 오픈소스 코드 리뷰 도구를 만드는 Pierre Computer Company를 인수할 예정입니다.\n인수 후 Code Storage 기능을 Codex에 통합하여 코딩 에이전트와 Git 작업 흐름을 확장할 계획입니다.\nPierre 프로젝트는 오픈소스로 유지되며, 기존 고객은 통합 작업 중에도 서비스를 계속 이용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36620",
+    "title": "sutura - AI 에이전트가 회사의 지표 정의로 데이터를 조회하게 해주는 쿼리 엔진",
+    "url": "https://news.hada.io/topic?id=36620&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36620&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "대시보드에서 보던 매출을 AI 에이전트에 물어도, 회사가 정해 둔 같은 기준으로 계산할 수 있게 해줌‘지난 분기 지역별 월간 매출’처럼 지표, 분류 기준, 기간, 집계 단위를 지정해 요청함. 임의 SQL이나 필터 표현식은 받지 않음앱과 에이전트는 HTTP 또는 MCP로 연결함. Rust 기반의 sutura가 지표 정의를 바탕으로 SQL을 생성하고 실행함카탈로그는 지표 계산 방식과 조인 관계를 제공하고, 실제 데이터는 기존 데이터베이스나 웨어하우스에서 읽음DataHub, OpenMetadata, Markdown을 카탈로그로 연결할 수 있음. Cube에 정의된…",
+    "score": 0,
+    "published_at": "2026-11-05T00:30:02+00:00",
+    "ai_summary": "Sutura는 AI 에이전트가 회사 지표 정의에 따라 데이터를 조회하도록 돕는 Rust 기반 쿼리 엔진입니다.\n에이전트는 지표, 분류, 기간 등을 지정하여 요청하며, Sutura가 SQL을 생성하고 실행합니다.\n지표 계산 방식은 카탈로그에서 정의되며, 실제 데이터는 기존 데이터베이스나 웨어하우스에서 읽어옵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36619",
+    "title": "AI는 랜섬웨어 암호화를 해독하지 않고 어떻게 파일을 복구했는가?",
+    "url": "https://news.hada.io/topic?id=36619&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36619&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "원문: AI Unlocked My Ransomware-Encrypted Files — Without the Key작성자: Vitalijus Weax주제: Claude AI를 활용한 Scarab 랜섬웨어 피해 파일 복구 사례요약 개요핵심 주장: AI가 랜섬웨어의 암호화 키를 해독하지 않고, 암호화되지 않은 데이터와 파일 구조 분석을 통해 상당수의 파일을 복구했다.사건 배경: 2019년 Scarab 랜섬웨어에 감염되어 약 700개의 파일이 암호화되었으며, 7년간 보관한 파일을 Claude로 복구했다.기술적 원인: 해당 Scarab 변종은 파일 전체가 아닌 앞부분 16KB만 암호화하여 나머지 데이터가 보존…",
+    "score": 0,
+    "published_at": "2026-11-05T00:21:46+00:00",
+    "ai_summary": "AI가 랜섬웨어 암호화 키 없이 파일을 복구한 사례가 공개되었습니다.\nClaude AI는 Scarab 랜섬웨어에 감염된 파일의 암호화되지 않은 데이터와 파일 구조 분석을 통해 상당수를 복구했습니다.\n해당 Scarab 변종이 파일 전체가 아닌 앞부분 16KB만 암호화하여 나머지 데이터가 보존되었기에 가능했습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36617",
+    "title": "Anthropic, AI 응답이 어느 모델에서 나왔는지 검증하는 FlashProve 공개",
+    "url": "https://news.hada.io/topic?id=36617&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36617&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "FlashProve는 가중치를 공개하지 않고도 응답이 사전에 지정한 모델의 계산 결과와 일치하는지 검증하는 오픈소스 연구 프로토타입모델 제공자가 가중치를 암호학적으로 확정해 두고, 사용자는 모델을 직접 실행하지 않고도 모델 바꿔치기나 응답 변조 여부를 확인할 수 있음4비트 Llama 4 Maverick 400B에서 H100 한 장으로 초당 약 110토큰의 증명 처리량을 기록함. GPU 사용 시간은 vLLM 추론의 약 70~95배현재는 최대 1,024토큰 문맥에서 정수 모델이 매번 확률이 가장 높은 토큰을 고르는 방식만 검증함Claude가 증명 시스템 최…",
+    "score": 0,
+    "published_at": "2026-11-04T23:35:24+00:00",
+    "ai_summary": "Anthropic이 AI 응답 모델 출처를 검증하는 오픈소스 연구 프로토타입 FlashProve를 공개했습니다.\n이는 모델 가중치를 공개하지 않고도 응답이 특정 모델의 계산 결과와 일치하는지 암호학적으로 확인할 수 있게 합니다.\n모델 바꿔치기나 응답 변조를 탐지하여 AI 시스템의 신뢰성을 높이는 데 기여할 수 있습니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36616",
+    "title": "Ripple-65B Preview: 에이전트 코딩에서 미국 오픈웨이트 최고 성능 달성",
+    "url": "https://news.hada.io/topic?id=36616&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36616&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Ricursive Intelligence가 AI 칩 설계 플랫폼용 자체 모델의 범용 변형인 Ripple-65B Preview를 공개함. 12조 토큰으로 사전학습했으며 최대 100만 토큰 컨텍스트를 지원함TerminalBench 2.1에서 80.52점을 기록해 미국 오픈웨이트 모델 중 최고 성능을 달성했으며, 매개변수가 훨씬 많은 Reflection Beam, Meta Muse Spark Open 등을 앞섬처음부터 개발하고 학습하는 데 든 전체 연구개발비는 3,200만 달러임. 회사 추산으로는 기존 에이전트 코딩 오픈웨이트 최고 모델 비용의 약 10분의 1에 해당함자체 합성 데이터와 계산 효율 중…",
+    "score": 0,
+    "published_at": "2026-11-04T22:40:03+00:00",
+    "ai_summary": "Ricursive Intelligence가 AI 칩 설계 플랫폼용 Ripple-65B Preview 모델을 공개했습니다.\n12조 토큰으로 사전학습되었고 최대 100만 토큰 컨텍스트를 지원하며, 에이전트 코딩에서 미국 오픈웨이트 최고 성능을 달성했습니다.\n이 모델은 기존 최고 모델 비용의 약 10분의 1로 개발되어 높은 효율성을 보였습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36615",
+    "title": "Go의 새로운 JSON API",
+    "url": "https://news.hada.io/topic?id=36615&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36615&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Go 1.27에서 encoding/json/v2와 encoding/json/jsontext가 안정화되어 정식 제공됨. 기존 JSON 패키지의 동작, API, 성능 문제를 개선하면서 익숙한 사용 방식을 유지함구문 처리와 Go 값 변환을 분리하고, 토큰과 값을 실제 스트리밍 방식으로 처리함. 새 사용자 정의 인터페이스는 전체 JSON 값을 버퍼링하거나 반복 파싱하는 부담을 줄임기본 동작이 더 엄격해져 잘못된 UTF-8과 중복 객체 이름을 거부함. nil 슬라이스/맵, 구조체 필드 이름 매칭, omitempty 등의 동작도 달라지며 대부분 옵션으로 조정 가능함벤치마크에서 Unma…",
+    "score": 0,
+    "published_at": "2026-11-04T22:37:03+00:00",
+    "ai_summary": "Go 1.27에서 새로운 JSON API인 encoding/json/v2와 jsontext가 안정화되어 제공됩니다.\n이는 기존 패키지의 동작, API, 성능 문제를 개선하며, 구문 처리와 값 변환을 분리하고 스트리밍 방식을 지원합니다.\n기본 동작이 더 엄격해지고 일부 기능이 변경되었으나, 대부분 옵션으로 조정 가능하며 성능 향상도 보고되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36613",
+    "title": "Tencent, 오픈소스 최상위권을 목표로 한 멀티모달 AI 모델 Hy4 공개",
+    "url": "https://news.hada.io/topic?id=36613&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36613&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Tencent가 멀티모달 AI 모델 Hy4 정식 버전을 공개함. Tencent Cloud와 OpenRouter에서 먼저 제공하며, 모델 가중치는 추후 공개할 예정임Hy4 계열에 처음으로 시각 인식과 컴퓨터 조작을 도입함. 이미지와 차트를 읽고, CLI와 GUI를 오가며 Blender나 CAD 같은 전문 소프트웨어를 다룰 수 있음게임 개발 벤치마크에서 Hy4 preview 대비 GameDev 19.1%, GameLogic 9.8% 향상됨. 금융 전문가 213명이 참여한 579개 실무 과제에서는 비교 대상 오픈 가중치 모델 중 가장 높은 점수를 받음Hyra 2.0과 결합한 연구에서는 소형 모델의 학습…",
+    "score": 0,
+    "published_at": "2026-11-04T21:36:08+00:00",
+    "ai_summary": "Tencent가 시각 인식 및 컴퓨터 조작을 지원하는 멀티모달 AI 모델 Hy4를 공개했습니다.\nHy4는 게임 개발 및 금융 과제에서 높은 성능을 보였고, OpenRouter 등에서 제공됩니다.\nCLI/GUI를 오가며 Blender, CAD 같은 전문 소프트웨어를 다룰 수 있는 능력을 갖췄습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36609",
+    "title": "LLM은 신경망 가중치를 읽고 쓰는 데 초인적이지 않다",
+    "url": "https://news.hada.io/topic?id=36609&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36609&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "GPT-6 Astra의 신경망 가중치 분석과 수정은 인상적이지만, 유능한 인간 ML 연구자도 수행할 수 있는 작업임작은 게임 신경망은 입력 채널에 격자 위치와 의미가 드러나 있어, 첫 번째 층 가중치의 크기를 분석하면 어떤 게임을 학습했는지 알아낼 단서를 얻을 수 있음0.8B Qwen의 수학 성능 향상은 새로운 수학 능력을 심기보다, 32k 토큰 이후 반복에 빠지는 특정 문제를 고쳐 더 오래 문제를 풀 수 있게 한 결과임Astra는 반복하는 추론과 그렇지 않은 추론을 비교하고 관련 가중치를 줄이는 스티어링 계열 접근법을 사용했으며, 이…",
+    "score": 0,
+    "published_at": "2026-11-04T20:38:00+00:00",
+    "ai_summary": "GPT-6 Astra의 신경망 가중치 분석 및 수정은 인간 ML 연구자도 가능한 작업임을 강조합니다.\n작은 게임 신경망 가중치 분석으로 학습된 게임 정보를 유추할 수 있음을 보여줍니다.\nLLM 성능 향상이 새로운 능력보다 특정 문제 수정을 통해 이루어질 수 있음을 설명합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36607",
+    "title": "Apple의 단어 목록을 덤프해 봤다",
+    "url": "https://news.hada.io/topic?id=36607&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36607&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "macOS 시스템 사전에서 비속어(vulgar), 모욕적 표현(offensive), 민감 표현(sensitive) 으로 추정되는 3단계 플래그와 11개 주제 플래그를 추출함VulgarWordUsage.db 는 앱과 수신자별 비속어 사용을 학습하는 데이터베이스임. 다만 확인한 Mac에서는 비어 있었고, 폴더가 없어 데이터베이스 자체가 생성되지 않는 사례도 있음공개 API는 없지만 비공개 Lexicon.framework 의 C 함수로 플래그를 읽을 수 있으며, 영어 en_US 사전의 199,019개 항목 중 4,271개에 세 단계 중 하나가 설정되어 있음영어 사전에서 Trump 는 민감 단계에 …",
+    "score": 0,
+    "published_at": "2026-11-04T19:45:26+00:00",
+    "ai_summary": "macOS 시스템 사전에서 비속어, 모욕적, 민감 표현을 나타내는 3단계 및 11개 주제 플래그를 추출했습니다.\nVulgarWordUsage.db는 앱별 비속어 사용을 학습하나, 일부 시스템에서는 비활성화되어 있었습니다.\n공개 API는 없지만 비공개 Lexicon.framework의 C 함수로 플래그를 읽을 수 있었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36606",
+    "title": "Synaptics, 법적 위협으로 오픈소스 DisplayLink 드라이버를 차단하는 것으로 보임",
+    "url": "https://news.hada.io/topic?id=36606&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36606&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "최신 DisplayLink 하드웨어용 오픈소스 Linux 드라이버 Vino가 Synaptics의 법적 위협 이후 공개 저장소에서 사라짐Synaptics는 특허 침해를 근거로 커뮤니티가 독립적으로 개발한 드라이버를 막으려 한 것으로 보이며, 개발자에게 중단 요구 통지서를 보냄Vino는 클린룸 역공학으로 개발한 실험적 커널 드라이버로, Rust로 작성됐으며 개발 과정 일부에 AI를 활용함관련 서신은 Linux 커널 메일링 리스트(LKML) 스레드의 첨부 파일에서 확인할 수 있지만, Vino의 GitHub 저장소에는 더 이상 공개적으로 접근할 수 없음초기 USB2 시대…",
+    "score": 0,
+    "published_at": "2026-11-04T19:42:25+00:00",
+    "ai_summary": "Synaptics의 법적 위협으로 최신 DisplayLink 하드웨어용 오픈소스 Linux 드라이버 Vino가 공개 저장소에서 사라졌습니다.\nSynaptics는 특허 침해를 주장하며 커뮤니티 개발 드라이버를 막으려 했으며, 중단 요구 통지서를 보냈습니다.\nVino는 Rust로 작성되고 AI를 활용한 실험적 클린룸 역공학 커널 드라이버였습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50364336",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "discussion_url": "https://news.ycombinator.com/item?id=50364336",
+    "summary": "",
+    "score": 1103,
+    "published_at": "2026-11-04T11:52:17+00:00",
+    "ai_summary": "AI 기술 발전이 기존 시스템의 기술 부채 해결을 강제하고 있습니다. 이는 40년 이상 축적된 복잡성과 비효율성을 개선할 기회이자 도전 과제입니다. 개발자들은 AI 시대에 발맞춰 시스템 아키텍처 재고와 기술 스택 현대화가 필요함을 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50369925",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "url": "https://www.ricursive.com/ripple",
+    "discussion_url": "https://news.ycombinator.com/item?id=50369925",
+    "summary": "",
+    "score": 238,
+    "published_at": "2026-11-04T18:53:29+00:00",
+    "ai_summary": "Ripple-65B 모델이 미국 오픈-웨이트 부문에서 에이전트 코딩 분야의 최신 기술(SOTA)을 달성했습니다. 이 모델은 개발자의 코딩 작업을 돕는 AI 에이전트 성능을 크게 향상시켰습니다. 이를 통해 코드 생성, 디버깅 등 개발 생산성 향상에 기여할 것으로 기대됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50366999",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "discussion_url": "https://news.ycombinator.com/item?id=50366999",
+    "summary": "",
+    "score": 404,
+    "published_at": "2026-11-04T15:30:30+00:00",
+    "ai_summary": "Kimi K3.1 Pro 모델의 가중치가 공개되어 개발자들이 새로운 LLM을 활용할 수 있게 되었습니다. 이는 AI 연구자와 개발자들이 최신 모델을 기반으로 다양한 애플리케이션을 구축하고 실험할 수 있는 기회를 제공합니다. 오픈 소스 커뮤니티의 AI 기술 발전에 기여할 것으로 예상됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50369106",
+    "title": "A new Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50369106",
+    "summary": "",
+    "score": 245,
+    "published_at": "2026-11-04T17:52:11+00:00",
+    "ai_summary": "Go 언어를 위한 새로운 JSON 처리 API가 공개되었습니다. 이 API는 기존 JSON 파싱 및 생성을 더욱 효율적이고 편리하게 만들 것으로 예상됩니다. Go 개발자들은 이를 통해 데이터 처리 성능을 개선하고 코드 복잡성을 줄일 수 있을 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50372164",
+    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "url": "https://icode4.coffee/?p=1746",
+    "discussion_url": "https://news.ycombinator.com/item?id=50372164",
+    "summary": "",
+    "score": 69,
+    "published_at": "2026-11-04T22:01:49+00:00",
+    "ai_summary": "Xbox 360 하이퍼바이저 해킹 시리즈의 세 번째 파트가 '불량 업데이트 개선'에 초점을 맞춥니다. 이 기사는 시스템 보안 취약점을 악용하여 하이퍼바이저에 대한 제어권을 획득하는 복잡한 과정을 분석합니다. 저수준 시스템 보안 및 역공학에 관심 있는 개발자에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50369503",
+    "title": "Conductor is joining Meta",
+    "url": "https://www.conductor.build/announcement",
+    "discussion_url": "https://news.ycombinator.com/item?id=50369503",
+    "summary": "",
+    "score": 132,
+    "published_at": "2026-11-04T18:22:40+00:00",
+    "ai_summary": "분산 시스템 워크플로우 오케스트레이션 엔진인 Conductor가 Meta에 합류합니다. 이는 Conductor의 기술과 팀이 Meta의 인프라 및 서비스 개선에 기여할 것임을 의미합니다. 워크플로우 관리 및 대규모 분산 시스템에 관심 있는 개발자들에게 주목할 만한 소식입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50370654",
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "discussion_url": "https://news.ycombinator.com/item?id=50370654",
+    "summary": "",
+    "score": 109,
+    "published_at": "2026-11-04T19:55:14+00:00",
+    "ai_summary": "퀄컴이 150W 전력을 사용하는 AI 가속기 카드인 클라우드 AI 100 울트라를 출시했습니다.\n128GB 메모리와 548GB/s 대역폭을 갖춰 고성능 AI 추론에 적합합니다.\n클라우드 환경에서 AI 모델 배포 및 실행에 중요한 역할을 할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50368804",
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "discussion_url": "https://news.ycombinator.com/item?id=50368804",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-11-04T17:31:53+00:00",
+    "ai_summary": "YC S23 스타트업 Kino AI가 AI 기반 미디어 관리 및 영상 편집 도구를 출시했습니다.\n이 도구는 AI를 활용하여 영상 콘텐츠를 효율적으로 정리하고 편집 작업을 돕습니다.\n콘텐츠 제작자 및 미디어 개발자들에게 유용한 솔루션이 될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50368626",
+    "title": "Progress on provable inference for large language models",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=50368626",
+    "summary": "",
+    "score": 180,
+    "published_at": "2026-11-04T17:17:46+00:00",
+    "ai_summary": "대규모 언어 모델(LLM)의 '증명 가능한 추론' 기술 발전에 대한 기사입니다.\nLLM의 추론 과정의 신뢰성과 정확성을 수학적으로 검증하는 방법을 다룹니다.\n이는 LLM의 안전성과 예측 가능성을 높이는 중요한 연구 방향입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50369895",
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "url": "https://fireflyk64.github.io/wcmulti/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50369895",
+    "summary": "",
+    "score": 119,
+    "published_at": "2026-11-04T18:51:27+00:00",
+    "ai_summary": "한 개발자가 10년간의 리버스 엔지니어링 끝에 DOS 기반 게임 '윙 커맨더'에 협동 모드를 구현했습니다.\n이는 오래된 게임의 코드와 시스템을 깊이 이해하고 조작하는 기술적 성과를 보여줍니다.\n리버스 엔지니어링과 게임 개발에 관심 있는 이들에게 흥미로운 사례입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50342219",
+    "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
+    "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50342219",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-11-02T19:23:48+00:00",
+    "ai_summary": "KOReader용 PageScribe 기능은 필기 입력과 오프라인 사전 오디오를 제공합니다.\n이는 전자책 리더기에서 사용자 경험을 향상시키는 새로운 기능을 추가합니다.\n임베디드 시스템 및 오픈소스 프로젝트 개발자에게 흥미로운 확장 기능입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50366863",
+    "title": "OpenAI to acquire Pierre Computer Company",
+    "url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50366863",
+    "summary": "",
+    "score": 201,
+    "published_at": "2026-11-04T15:21:21+00:00",
+    "ai_summary": "OpenAI가 Pierre Computer Company를 인수할 예정이라는 소식입니다.\n이는 AI 업계의 주요 기업 간 합병 및 인수를 나타내는 중요한 움직임입니다.\nOpenAI의 기술 스택 확장이나 인재 확보 전략의 일환으로 해석될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50366117",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "url": "https://news.ycombinator.com/item?id=50366117",
+    "discussion_url": "https://news.ycombinator.com/item?id=50366117",
+    "summary": "",
+    "score": 151,
+    "published_at": "2026-11-04T14:37:22+00:00",
+    "ai_summary": "AI 에이전트 구축 관련 기술 질문으로, 개발자들이 현재 사용하는 AI 에이전트 설정, 도구 및 워크플로를 공유하고 토론하는 내용입니다.\n다양한 접근 방식과 유용한 팁을 얻을 수 있으며, AI 개발 트렌드와 실제 적용 사례를 파악할 수 있습니다.\n인공지능 시스템 설계 및 구현에 관심 있는 개발자들에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50365780",
+    "title": "Tencent Hy4",
+    "url": "https://hy.tencent.ai/research/hy4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50365780",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-11-04T14:11:26+00:00",
+    "ai_summary": "텐센트가 새로운 기술 프로젝트 또는 제품인 'Hy4'를 공개했다는 소식입니다.\n이 프로젝트는 인공지능, 클라우드 컴퓨팅 또는 특정 산업 솔루션과 관련될 수 있습니다.\n텐센트의 기술 포트폴리오 확장을 보여주며 잠재적으로 개발자들에게 새로운 플랫폼이나 도구를 제공할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50339183",
+    "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+    "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50339183",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-11-02T16:23:37+00:00",
+    "ai_summary": "전설적인 게임 DOOM의 코드 구조가 44개 이상의 포트에서 어떻게 유지되었는지 분석한 글입니다.\n견고한 코드 설계와 소프트웨어 아키텍처의 중요성을 보여주며, 오랜 시간 동안 코드베이스가 진화하고 적응하는 과정을 심층적으로 다룹니다.\n개발자들에게 코드의 생명주기와 유지보수, 그리고 좋은 아키텍처의 가치를 일깨워 줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50367125",
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "discussion_url": "https://news.ycombinator.com/item?id=50367125",
+    "summary": "",
+    "score": 491,
+    "published_at": "2026-11-04T15:38:34+00:00",
+    "ai_summary": "AMD가 4분기에 사상 처음으로 인텔을 제치고 CPU 판매량에서 앞설 것으로 예상된다는 기사입니다.\n이는 CPU 시장의 지각변동을 의미하며, 하드웨어 생태계와 개발자들의 시스템 선택에 영향을 미칠 수 있습니다.\n반도체 산업의 중요한 전환점을 시사하며, 백엔드 및 클라우드 인프라 선택에도 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50371090",
+    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "url": "https://github.com/gauge-sh/gauge-cli",
+    "discussion_url": "https://news.ycombinator.com/item?id=50371090",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-11-04T20:31:30+00:00",
+    "ai_summary": "문서의 품질을 재귀적으로 개선하는 오픈 소스 CLI 도구인 'Gauge'를 소개하는 기사입니다.\n개발자와 기술 작가가 효과적으로 문서 작업을 관리하고 향상시키는 데 도움을 줍니다.\n코드와 함께 문서 관리를 자동화하고 최적화할 수 있는 유용한 도구입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50347425",
+    "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+    "url": "https://news.ycombinator.com/item?id=50347425",
+    "discussion_url": "https://news.ycombinator.com/item?id=50347425",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-11-03T02:52:50+00:00",
+    "ai_summary": "해당 글은 10세 아동과 함께 읽을 암호화 관련 도서를 추천받는 질문입니다. 개발자들이 암호화의 기초 개념을 쉽고 흥미롭게 이해하고 교육하는 데 도움이 될 만한 자료들을 탐색할 수 있습니다. 보안의 핵심 요소인 암호화 학습에 대한 다양한 관점과 교육적 접근을 엿볼 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50363378",
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50363378",
+    "summary": "",
+    "score": 257,
+    "published_at": "2026-11-04T10:00:06+00:00",
+    "ai_summary": "이 기사는 Pull Request, Git 작업 및 이슈 처리 과정에서 발생한 사고에 대한 내용입니다. 개발 워크플로우의 핵심인 버전 관리 시스템 Git 사용 중 발생할 수 있는 문제점과 대응 방안을 다룹니다. 이러한 사고는 협업과 코드 관리에 미치는 영향을 보여주며, 안정적인 개발 환경 구축의 중요성을 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.apple.com/news/?id=gdk2umrf&amp%3Butm_source=tldrai",
+    "title": "Siri AI is now open to all developers (4 minute read)",
+    "url": "https://developer.apple.com/news/?id=gdk2umrf&amp%3Butm_source=tldrai",
+    "discussion_url": "https://developer.apple.com/news/?id=gdk2umrf&amp%3Butm_source=tldrai",
+    "summary": "Developers can now integrate Siri AI into their apps with the iOS 27.3 beta. This update allows apps to leverage Siri's advanced features, like natural language processing and personal context understanding, enhancing user interaction. Siri AI is currently unavailable in the EU and for users under 13. It supports multiple languages, with more to come.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "iOS 27.3 베타부터 개발자들이 앱에 Siri AI를 통합할 수 있게 되었습니다. Siri의 자연어 처리 및 개인 상황 이해 기능을 활용하여 사용자 상호작용을 개선할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
+    "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops (5 minute read)",
+    "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
+    "discussion_url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
+    "summary": "Baseten announced Grid for model routing and governance, resumable VM-isolated Sandboxes for agent execution, and general availability of Loops for serverless supervised fine-tuning and reinforcement learning. The products connect training, inference, and execution, with customers retaining ownership of trained weights.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "Baseten이 모델 라우팅 및 거버넌스를 위한 Grid와 에이전트 실행을 위한 VM 격리 Sandboxes를 발표했습니다. 서버리스 미세 조정 및 강화 학습을 위한 Loops도 정식 출시되어 훈련, 추론, 실행을 연결합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
+    "title": "Fireworks Launches Faster AI Inference and Enterprise Tools (5 minute read)",
+    "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
+    "discussion_url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
+    "summary": "Fireworks AI unveiled new products at Forge, including Ultra-fast inference reaching up to 1,500 tokens per second, lower-cost background processing, and Nexus for accessing multiple AI models within existing tools. It also introduced capabilities for model evaluation, fine-tuning deployment, and enterprise-controlled infrastructure.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "Fireworks AI는 초고속 추론(초당 1,500 토큰)과 저비용 백그라운드 처리를 발표했습니다. 기존 도구에서 여러 AI 모델에 접근하는 Nexus와 모델 평가, 미세 조정 배포 기능도 도입했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.vals.ai/blogs/reasoning-effort",
+    "title": "How Much Does Reasoning Effort Affect Score and Cost? (8 minute read)",
+    "url": "https://www.vals.ai/blogs/reasoning-effort",
+    "discussion_url": "https://www.vals.ai/blogs/reasoning-effort",
+    "summary": "Lower reasoning effort reduces cost much more than it lowers the quality of results. Tests show that models on low reasoning can match models on high reasoning at lower cost. The impact of reasoning effort depends on the task.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "추론 노력(reasoning effort)을 낮추면 결과 품질 저하보다 비용 절감 효과가 훨씬 큽니다. 낮은 추론 노력 모델도 고비용 모델과 유사한 결과를 저렴하게 낼 수 있음을 보여줍니다. 추론 노력의 영향은 작업에 따라 다릅니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+    "title": "Learnings from Auditing Public Evaluations (8 minute read)",
+    "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+    "discussion_url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+    "summary": "The article outlines issues faced during public evaluations of LLMs and details improvements made to benchmarks such as AUTOMATIONBENCH and OFFICEQA PRO V2. They replaced ambiguous prose descriptions with JSON schemas for better performance evaluations and introduced new grading systems to improve accuracy. A multi-layered monitoring system is suggested to prevent manipulation and ensure accurate measurement of model capabilities.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "LLM 공개 평가 시 발생하는 문제점을 개선하기 위해 벤치마크(AUTOMATIONBENCH, OFFICEQA PRO V2)가 업데이트되었습니다. 모호한 설명을 JSON 스키마로 대체하고 새로운 채점 시스템을 도입하여 정확도를 높였습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.linum.ai/field-notes/pjit-21k",
+    "title": "Training a Text-to-Image Model for $21K (13 minute read)",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "discussion_url": "https://www.linum.ai/field-notes/pjit-21k",
+    "summary": "Linium is a two-person research lab that is trying to train its own generative video models entirely from scratch, aiming to create tools to democratize access to animation. Pyramid-JiT (P-JiT) is a pixel-space architecture that achieves aggressive token reduction through a noise schedule that helps pixel-space models better learn fine-grained detail. This study looks at how models trained on the architecture perform when trained for longer as a pressure test along the way towards larger models ",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "Linium은 애니메이션 접근성을 민주화하기 위해 자체 생성형 비디오 모델을 처음부터 훈련하는 연구소입니다. Pyramid-JiT(P-JiT)는 픽셀 공간 아키텍처로, 노이즈 스케줄을 통해 미세한 디테일 학습을 돕습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.google.com/notebook/docs",
+    "title": "Gemini Notebook API (1 minute read)",
+    "url": "https://developers.google.com/notebook/docs",
+    "discussion_url": "https://developers.google.com/notebook/docs",
+    "summary": "The Gemini Notebook API is a REST interface for programmatically creating and managing notebooks and sources in Gemini Notebook. It can turn web pages, YouTube videos, plain text, and Markdown into persistent notebooks. The API and MCP server are in an early access Public Preview. Only personal Google Accounts are supported during the preview - Google Workspace accounts are not yet supported.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "Gemini Notebook API는 Gemini Notebook에서 노트북과 소스를 프로그래밍 방식으로 생성 및 관리하기 위한 REST 인터페이스입니다. 웹페이지, YouTube 영상, 텍스트 등을 영구적인 노트북으로 전환할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/provable-inference",
+    "title": "Progress on provable inference for large language models (30 minute read)",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "discussion_url": "https://www.anthropic.com/research/provable-inference",
+    "summary": "It is almost impossible to verify which model produced a specific output. Cryptographic proofs of inference allow model providers to prove that preach suppose was produced which a specific model. These proofs could enable new applications and contribute to a toolkit for verifying compliance with AI pacing requirements. This post details the progress made on a powerful type of cryptographic proof uniquely fit for provable inference called zKSNARK.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "특정 모델이 특정 출력을 생성했는지 검증하기 어려운 문제를 다룹니다. 암호화된 추론 증명(cryptographic proofs of inference)은 모델 제공자가 특정 모델이 특정 출력을 생성했음을 증명할 수 있게 하여 AI 규정 준수 검증에 기여할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+    "title": "Accelerating engineering for the physical world (6 minute read)",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+    "discussion_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+    "summary": "OpenAI is leveraging its AI models to enhance mechanical and electrical engineering processes, from design to simulation and production, speeding up internal workflows and improving industry practices. Engineers utilize models like GPT‑6 Astra for tasks such as device design, CAD model creation, and performance simulations, while collaborating with companies like Mazda to explore applications in vehicle aerodynamics.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "OpenAI는 AI 모델을 활용하여 기계 및 전기 공학 프로세스를 설계부터 생산까지 가속화합니다. GPT-6 Astra와 같은 모델은 장치 설계, CAD 모델 생성, 성능 시뮬레이션 등에 사용됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+    "title": "OpenAI: ChatGPT Search Is About 20% of Google's, 250 Million People Speak With ChatGPT, and Chat Is Merging With Work (16 minute read)",
+    "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+    "discussion_url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+    "summary": "ChatGPT's search volume has reached 20% of Google's, with ChatGPT rapidly gaining 200 million users in the past two months, leading to 1.2 billion weekly active users. The voice mode of ChatGPT now engages 250 million weekly active users, emphasizing new interaction methods through GPT Live updates that enable natural bidirectional conversations. Plans to merge Chat and Work modes aim to simplify user interaction, while Dots highlights innovations in AI task management despite high compute costs",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "ChatGPT의 검색 볼륨이 구글의 20%에 달하며, 음성 모드는 매주 2억 5천만 명의 사용자를 확보했습니다. OpenAI는 채팅과 업무 모드를 통합하여 사용자 상호작용을 간소화하고 AI 작업 관리 혁신을 추진할 계획입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next",
+    "title": "DeepSeek Plans to Train Its Next-Generation Model on Huawei Ascend Chips (3 minute read)",
+    "url": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next",
+    "discussion_url": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next",
+    "summary": "DeepSeek plans to use Huawei's Ascend AI chips to pretrain DeepSeek V5. Ascend chips have previously been used primarily for inference rather than pretraining. This will be an important test of whether Chinese AI accelerators can support the full pre-training of a frontier large language model. A successful run could reduce Chinese AI developers' dependence on Nvidia hardware and strengthen Huawei's position as an alternative for advanced AI computing.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "DeepSeek은 차세대 모델 훈련에 화웨이 Ascend AI 칩을 사용할 계획입니다. 이는 중국 AI 가속기가 최첨단 LLM 사전 훈련을 지원할 수 있는지에 대한 중요한 시험대이며, Nvidia 하드웨어 의존도를 줄일 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/tokengremlin/status/2117526651932205552",
+    "title": "ChatGPT is about to start making GIFs (1 minute read)",
+    "url": "https://x.com/tokengremlin/status/2117526651932205552",
+    "discussion_url": "https://x.com/tokengremlin/status/2117526651932205552",
+    "summary": "OpenAI just merged animated GIF output into its image generation, with the animations being generated by OpenAI's Images API, which means it is coming to ChatGPT.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "OpenAI는 이미지 생성에 애니메이션 GIF 출력을 통합했으며, 이는 Images API를 통해 ChatGPT에 적용될 예정입니다. 이를 통해 ChatGPT가 GIF를 만들 수 있게 됩니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/josharosen/status/2117687393213932003",
+    "title": "Agent State Machines: Building Deterministic Scaffolding for Agents (9 minute read)",
+    "url": "https://x.com/josharosen/status/2117687393213932003",
+    "discussion_url": "https://x.com/josharosen/status/2117687393213932003",
+    "summary": "This post explains how state machines enforce agent permissions, approvals, retries, and completion criteria outside model prompts.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "이 게시물은 상태 머신을 사용하여 에이전트 권한, 승인, 재시도 및 완료 기준을 모델 프롬프트 외부에서 적용하는 방법을 설명합니다. 이는 에이전트 시스템을 견고하게 구축하기 위한 결정론적 구조를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost",
+    "title": "How much do tokens really cost? (6 minute read)",
+    "url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost",
+    "discussion_url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost",
+    "summary": "AI tokens' pricing appears sustainable, as competition among providers is driving down costs.",
+    "score": 0,
+    "published_at": "2026-11-05T03:14:16+00:00",
+    "ai_summary": "AI 토큰 가격은 공급자 간 경쟁으로 인해 하락하고 있으며, 이는 장기적으로 지속 가능한 추세로 보입니다. 개발자는 AI 애플리케이션 구축 시 비용 효율성을 기대할 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  }
+]
