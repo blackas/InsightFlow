@@ -1,0 +1,740 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36930",
+    "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
+    "url": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다.공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처럼 rm이 없는데 작업을 날리는 명령도 있었습니다.궁금한 건 세 가지입니다.권한은 어떻게 두시나요? 매번 확인, 일부 명령만 자동 허용…",
+    "score": 0,
+    "published_at": "2026-11-10T03:15:29+00:00",
+    "ai_summary": "AI 코딩 에이전트(Claude Code, Codex, Cursor 등)에게 셸 명령 권한을 어디까지 줄지 개발자들의 고민이 많습니다.\n실수로 홈 폴더나 DB가 날아간 사례가 있으며, 위험해 보이지 않는 명령(스크립트 내 rm, git stash drop 등)도 문제가 됩니다.\n개발자들은 권한 설정(매번 확인, 일부 자동 허용 등)과 위험 관리 방법에 대한 논의가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36925",
+    "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
+    "url": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고, 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.사용 예시 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정 고객 미팅: 고…",
+    "score": 0,
+    "published_at": "2026-11-10T01:56:02+00:00",
+    "ai_summary": "Tacie는 회의 중 과거 결정이나 자료를 바로 찾아주는 Mac용 AI 어시스턴트로, 회의 효율을 높이기 위해 개발되었습니다.\nGitHub, Linear, Notion 등에서 질문에 대한 답과 근거를 찾아 바로 제시하고, 회의 후 결정 사항과 할 일을 자동으로 정리합니다.\n이를 통해 반복적인 확인 작업을 줄이고, 중요한 결정에 필요한 정보를 즉시 제공하여 빠른 의사결정을 돕습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36924",
+    "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
+    "url": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함BF16 모델을 그대로 터너리로 바꾸면 GSM8K·HumanEval 0.00점, IFEval-ko 10.36점on/off-policy di…",
+    "score": 0,
+    "published_at": "2026-11-10T01:53:46+00:00",
+    "ai_summary": "NVIDIA Nemotron 3.5 Lightning 30B 모델을 1.58비트 터너리 양자화하여 약 60GB에서 10GB로 줄여 24GB 이상 맥북에서 실행 가능하게 했습니다.\n사전학습 없이 PTQ 방식으로 양자화했으며, 단순 터너리 변환 시 0점이었던 성능을 89.4%까지 복원했습니다.\n이 기술은 메모리 제약이 있는 기기에서 대규모 LLM을 효율적으로 구동하는 데 중요한 진전을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36923",
+    "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
+    "url": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 고품질 음성 생성부터 해결함연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적으로 연구 격차가 줄어들 가능성에 대비해 제품과 음성 마켓플레이스도 구축함소규모 자율 팀과 제품팀 소속 현장 엔지니어(FDE) 가 고객과 함…",
+    "score": 0,
+    "published_at": "2026-11-10T01:50:02+00:00",
+    "ai_summary": "ElevenLabs는 오디오 모델 연구와 고객의 실제 업무 적용을 통해 영화 더빙에서 음성 AI 플랫폼으로 성공적으로 확장했습니다.\n감정 보존 더빙에서 고품질 음성 생성으로 방향을 전환하며 기술적 한계와 시장의 실제 요구를 충족했습니다.\n오디오 연구에 집중하고 외부 LLM과 결합하며, 장기적으로 제품 및 음성 마켓플레이스 구축을 통해 경쟁력 강화를 목표합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36920",
+    "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
+    "url": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행하는 것이 목표. 활성 파라미터는 약 30억~200억 개이며, 메모리 대역폭은 전작의 3배인 150GB/s로 높임Samsung의 LPDDR5x-PIM으로 GEMV 연산을 넘기면 Llama3.1-8B 처리량이 DX-M2 단독 대비 6.7배가 될 것으로 시뮬레이션에서 예측함. 다만 전체 소비전력도 2.7배로 늘어나며, 동일 전력에서는 약 2배의 성능 향상을 예상함…",
+    "score": 0,
+    "published_at": "2026-11-10T00:44:04+00:00",
+    "ai_summary": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2 테이프아웃을 완료, 로봇/드론 등 저전력 기기에서 생성형 AI 직접 실행을 목표합니다.\n5W 미만에서 200억~1,000억 파라미터 모델을 초당 10~30토큰으로 추론하며, 전작 대비 메모리 대역폭을 3배 높였습니다.\n삼성 LPDDR5x-PIM과 연동 시 Llama3.1-8B 처리량이 6.7배 증가할 것으로 예측되며, 엣지 AI 성능 향상에 기여할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36918",
+    "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
+    "url": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 8세대 TPU에 TPU 8tx와 TPU 8i Max를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄TPU 8tx는 사용 중인 민감 데이터와 모델 가중치까지 하드웨어 수준에서 보호하며, TPU 8t 대비 지연 시간을 최대 절반으로 줄이고 같은 시스템에서 비공개 미세 조정과 에이전트 실행을 지원함TPU 8i…",
+    "score": 0,
+    "published_at": "2026-11-10T00:38:04+00:00",
+    "ai_summary": "Google이 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max를 추가하여 다양한 AI 워크로드를 지원하는 네 가지 시스템을 구성했습니다.\n기존 TPU 칩을 기반으로 패키징, 메모리, 네트워크, 보안 구성을 변경하여 용도별 특화 시스템을 단기간에 구축했습니다.\nTPU 8tx는 민감 데이터 및 모델 가중치 보호를 위한 하드웨어 수준의 기밀 컴퓨팅을 제공하며, 저지연 추론 및 비공개 미세 조정을 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=36917",
+    "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
+    "url": "https://raea.io/",
+    "discussion_url": "https://news.hada.io/topic?id=36917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성하고 GPU로 렌더링영상 및 모션 그래픽은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성3D/게임은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로 실행하거나 독립 실행 프로그램으로 제작에이전트가 특정 프레임을 이미지로 뽑아 확인하고 코드를 고치는 작업까지 할 수 있음잘린 텍스트, 낮은 대비, 화면 멈춤, 음량 문제를 검사하는 명령도 제공Claude Code용 플러그인과 에이전트 스킬 제공Rust/Bevy 기반이며 macOS/Linux/Windows 빌드 제공제작…",
+    "score": 0,
+    "published_at": "2026-11-10T00:30:02+00:00",
+    "ai_summary": "raea는 AI 에이전트가 React/TypeScript 코드로 영상, 3D, 게임을 만들고 GPU로 렌더링하는 엔진입니다.\n영상 및 모션 그래픽은 MP4로, 3D/게임은 Bevy로 실시간 실행 또는 독립 실행 프로그램으로 제작 가능합니다.\nAI 에이전트가 특정 프레임 확인 및 코드 수정, 품질 검사까지 수행하며, Claude Code 플러그인과 스킬을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50434264",
+    "title": "Horible public key tricks",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50434264",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-11-10T00:07:17+00:00",
+    "ai_summary": "공개키 암호화 시스템에서 발생할 수 있는 취약점과 공격 기법을 상세히 분석하는 기사입니다. 개발자가 구현 시 주의해야 할 보안 문제를 조명하고, 안전한 암호화 설계 방안을 제시합니다. 시스템 보안 및 백엔드 개발자에게 매우 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50434310",
+    "title": "Locating the source of a mysterious beep",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50434310",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-11-10T00:10:46+00:00",
+    "ai_summary": "시스템에서 발생하는 알 수 없는 '삑' 소리의 근원을 찾아 해결하는 과정을 추리 소설처럼 다룬 기사입니다. 문제 해결과 체계적인 디버깅 접근 방식에 대한 흥미로운 사례를 제공합니다. 하드웨어 또는 소프트웨어 오류 진단에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50435660",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435660",
+    "summary": "",
+    "score": 43,
+    "published_at": "2026-11-10T03:20:06+00:00",
+    "ai_summary": "AI 클라우드 인프라 제공업체 CoreWeave의 채권 수익률이 16%를 넘어섰다는 소식으로, AI 산업 전반의 신용 스트레스가 증가하고 있음을 보여줍니다. AI 관련 기술 기업들의 자금 조달 및 재정 건전성에 대한 시장의 우려를 반영합니다. AI 개발 환경과 산업 전반의 동향을 간접적으로 파악할 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50433541",
+    "title": "Exact – a new cross platform UI framework",
+    "url": "https://github.com/expo/exact",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433541",
+    "summary": "",
+    "score": 80,
+    "published_at": "2026-11-09T22:59:13+00:00",
+    "ai_summary": "'Exact'이라는 새로운 크로스 플랫폼 UI 프레임워크를 소개하는 기사입니다. 단일 코드베이스로 다양한 운영체제에서 일관된 사용자 인터페이스를 구축할 수 있는 개발 도구입니다. 프론트엔드 개발자와 UI/UX 엔지니어에게 매우 유용한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50386246",
+    "title": "A primer on GPUs and kernel optimization",
+    "url": "https://www.nabo.dev/blogs/kernel-primer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50386246",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-11-05T23:48:04+00:00",
+    "ai_summary": "이 기사는 GPU와 커널 최적화에 대한 기초적인 내용을 다룹니다.\n개발자들이 GPU의 병렬 처리 능력을 활용하여 애플리케이션 성능을 극대화하는 방법을 이해하는 데 도움을 줍니다.\n주로 고성능 컴퓨팅 및 AI/ML 분야에서 중요한 기술적 내용을 포함합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50411106",
+    "title": "Never Gonna Print You Up",
+    "url": "https://dixken.de/blog/never-gonna-print-you-up",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411106",
+    "summary": "",
+    "score": 24,
+    "published_at": "2026-11-08T07:15:32+00:00",
+    "ai_summary": "제목만으로는 정확한 내용을 파악하기 어렵지만, 'Print'라는 단어로 미루어 출력물 관련 기술 주제를 다룰 것으로 추정됩니다.\n보안, 데이터 관리 또는 문서 처리 시스템 개발과 관련될 수 있으며, 정보 유출 방지 등의 맥락일 가능성도 있습니다.\n일반적인 개발자에게는 특정 분야의 중요성이 있을 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50425847",
+    "title": "The Race to Build a \"Find My\" for AI Chips",
+    "url": "https://spectrum.ieee.org/find-my-ai-chip",
+    "discussion_url": "https://news.ycombinator.com/item?id=50425847",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-11-09T14:09:02+00:00",
+    "ai_summary": "이 기사는 AI 칩의 효율적인 관리 및 추적 시스템 개발 경쟁에 대해 다룹니다.\n대규모 AI 인프라의 자원 할당 및 최적화의 중요성을 강조하며, 이는 클라우드 및 AI 서비스 개발자에게 매우 중요합니다.\nAI 칩 자산 관리 및 운영 효율성 개선과 관련된 기술 동향을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50433659",
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433659",
+    "summary": "",
+    "score": 250,
+    "published_at": "2026-11-09T23:08:13+00:00",
+    "ai_summary": "Fable 5.2 버전 업데이트가 개인의 게임 개발 프로젝트에 문제를 일으켰다는 내용입니다.\n이는 개발 도구의 버전 업그레이드 시 발생할 수 있는 호환성 및 마이그레이션 문제를 시사합니다.\n소프트웨어 의존성 관리와 프로젝트 유지보수 관점에서 개발자에게 시사하는 바가 큽니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50428907",
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "url": "https://www.watched.earth",
+    "discussion_url": "https://news.ycombinator.com/item?id=50428907",
+    "summary": "",
+    "score": 264,
+    "published_at": "2026-11-09T17:51:31+00:00",
+    "ai_summary": "이번 주 특정 지역 상공을 통과한 모든 위성과 그 사진을 보여주는 프로젝트를 소개합니다.\n대규모 위성 데이터의 수집, 처리, 분석 및 시각화 기술이 활용되었음을 시사합니다.\n데이터 엔지니어링, 지리 정보 시스템(GIS), 또는 시각화 분야 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50429426",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429426",
+    "summary": "",
+    "score": 479,
+    "published_at": "2026-11-09T18:24:38+00:00",
+    "ai_summary": "구글 Gemini가 개인 드라이브 파일과 이메일을 인간 평가자에게 라우팅한다는 내용의 기사입니다.\nAI 시스템의 개인 정보 처리 방식과 데이터 프라이버시 문제에 대한 심각한 우려를 제기합니다.\n윤리적 AI 개발, 데이터 보안 및 사용자 동의 관련 정책의 중요성을 개발자에게 강조합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50432831",
+    "title": "TPU 8tx and TPU 8i Max",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432831",
+    "summary": "",
+    "score": 228,
+    "published_at": "2026-11-09T21:56:57+00:00",
+    "ai_summary": "이 기사는 Google의 최신 AI 가속기인 TPU 8tx와 TPU 8i Max에 대한 정보를 제공합니다.\n새로운 TPU 하드웨어의 성능, 아키텍처 및 AI 워크로드 최적화에 대한 기술적 세부 사항을 다룹니다.\n대규모 AI 모델 개발 및 고성능 컴퓨팅 인프라를 다루는 개발자에게 중요한 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50429024",
+    "title": "Muse Ember: Our smallest, most efficient model",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429024",
+    "summary": "",
+    "score": 266,
+    "published_at": "2026-11-09T17:58:46+00:00",
+    "ai_summary": "Muse Ember라는 이름의 새로운 AI 모델이 가장 작고 효율적인 모델임을 소개하는 기사입니다.\n모델 경량화 및 효율성 개선 기술과 그 적용 가능성에 초점을 맞춥니다.\n자원 제약이 있는 환경(예: 엣지 디바이스, 모바일)에서의 AI 개발자에게 매우 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50431144",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50431144",
+    "summary": "",
+    "score": 313,
+    "published_at": "2026-11-09T20:04:55+00:00",
+    "ai_summary": "Claude Fable 5.2가 Artificial Analysis 테스트에서 65점을 획득하여 역대 최고 점수를 기록했습니다.\n이는 LLM의 성능 발전과 인공지능 모델 평가 방식의 중요성을 시사합니다.\nLLM 개발 및 응용 분야에 종사하는 개발자들에게 중요한 이정표가 될 것입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50429636",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "url": "https://meowdisplay.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429636",
+    "summary": "",
+    "score": 82,
+    "published_at": "2026-11-09T18:39:22+00:00",
+    "ai_summary": "MeowDisplay는 아이폰 미러링의 역방향 개념을 제시하는 새로운 프로젝트입니다.\n외부 디스플레이가 아이폰 화면을 제어하는 방식을 구현하여 흥미로운 UI/UX 상호작용을 제공합니다.\n모바일 개발자나 새로운 디스플레이 기술 및 독창적인 앱 아이디어에 관심 있는 이들에게 주목할 만합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50426681",
+    "title": "On Being an Engineer in 2026",
+    "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+    "discussion_url": "https://news.ycombinator.com/item?id=50426681",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-11-09T15:07:23+00:00",
+    "ai_summary": "이 글은 2026년 엔지니어의 역할과 미래 직업 전망에 대한 심층적인 고찰을 담고 있습니다.\nAI 발전과 자동화 등 기술 변화가 엔지니어에게 미칠 영향과 필요한 역량을 분석합니다.\n개발자들이 경력 계획을 세우고 미래 기술 트렌드를 이해하는 데 도움을 줄 수 있는 중요한 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50405274",
+    "title": "An ode to livelyness analysis; SSA to registers",
+    "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50405274",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-11-07T15:17:31+00:00",
+    "ai_summary": "이 글은 컴파일러 최적화 기법 중 하나인 '활성 분석(liveness analysis)'의 중요성을 강조합니다.\n정적 단일 할당(SSA) 형태에서 레지스터 할당으로 전환하는 과정을 자세히 설명합니다.\n시스템 프로그래밍, 컴파일러 개발 또는 저수준 성능 최적화에 관심 있는 개발자에게 유용한 자료입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50424157",
+    "title": "What is malloc doing, anyway?",
+    "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+    "discussion_url": "https://news.ycombinator.com/item?id=50424157",
+    "summary": "",
+    "score": 237,
+    "published_at": "2026-11-09T11:31:05+00:00",
+    "ai_summary": "이 글은 `malloc` 함수가 메모리 할당을 위해 내부적으로 어떤 작업을 수행하는지 상세히 탐구합니다.\n운영체제와 메모리 관리, 힙(heap) 영역 동작 방식에 대한 깊이 있는 이해를 제공합니다.\n시스템 프로그래밍, C/C++ 개발자, 그리고 저수준 메모리 관리에 관심 있는 이들에게 필수적입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50429812",
+    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+    "url": "https://someonewashere.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429812",
+    "summary": "",
+    "score": 75,
+    "published_at": "2026-11-09T18:50:56+00:00",
+    "ai_summary": "\"Someone Was Here\"는 사용자가 자리를 비웠을 때 누가 맥을 사용했는지 알려주는 도구입니다.\n이 앱은 보안 및 개인 정보 보호에 대한 경각심을 높이고, 시스템 활동을 추적하는 기능을 제공합니다.\n맥 개발자, 보안 관련 종사자 또는 유틸리티 개발에 관심 있는 이들에게 유용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50430621",
+    "title": "CUI – Native UI components for C",
+    "url": "https://yappologistic.github.io/CUI/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50430621",
+    "summary": "",
+    "score": 166,
+    "published_at": "2026-11-09T19:35:16+00:00",
+    "ai_summary": "CUI는 C 언어 개발자를 위한 네이티브 UI 컴포넌트 라이브러리입니다.\n이를 통해 C 애플리케이션에 현대적이고 효율적인 사용자 인터페이스를 쉽게 통합할 수 있습니다.\n운영체제 고유의 디자인을 따르면서도 개발 생산성을 향상시키는 데 중점을 둡니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "discussion_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "summary": "OpenAI reportedly secured $11 billion in a new funding round at a $1.25 trillion valuation, with the round potentially reaching $20 billion before closing. The amount fell short of its previously reported $30 billion fundraising target, amid growing investor uncertainty around AI valuations.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "OpenAI가 1.25조 달러 가치로 110억 달러의 자금을 조달했으나, 목표액에는 미치지 못했습니다. 이는 AI 가치 평가에 대한 투자자들의 불확실성을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "title": "AI is dramatically accelerating AI research right now (17 minute read)",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "discussion_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "summary": "Anthropic claims it may imminently meet its own threshold of 'dramatically accelerated progress due to AI'. Some researchers believe the company has already crossed that threshold. This may be the biggest AI risk humanity has faced. The industry is not prepared to handle this safely.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Anthropic은 AI로 인해 AI 연구 진전이 극적으로 가속화될 수 있는 문턱에 도달했다고 주장하며, 일부 연구자들은 이미 그 문턱을 넘었다고 봅니다. 이는 인류가 직면한 가장 큰 AI 위험일 수 있으며, 업계는 안전하게 다룰 준비가 되어 있지 않습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/components-of-agent-memory",
+    "title": "How Anthropic Builds Agent Memory (14 minute read)",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "discussion_url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "summary": "Anthropic explored how AI agents can build effective long-term memory by capturing experiences during interactions and reorganizing them during idle periods through a process called “dreaming.” The post examines how different memory components contribute to organizing and retaining useful information.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Anthropic은 AI 에이전트가 상호작용 중 경험을 포착하고 '꿈꾸기' 과정을 통해 재구성하여 효과적인 장기 기억을 구축하는 방법을 탐구했습니다. 이 연구는 유용한 정보 정리 및 유지를 위한 다양한 기억 구성 요소를 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
+    "title": "A year as a Research Engineer working on RSI at Meta (8 minute read)",
+    "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
+    "discussion_url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
+    "summary": "This post details the experience of a research engineer working on RSI at Meta teaching agents to solve the world's hardest problems with tokens and compute. Their role is to teach AI agents how to train the next generation of models and self-evolve. The post details how to get into AI research, what skills matter in research engineering, and more.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Meta의 연구 엔지니어가 RSI(재귀적 자기 개선)를 통해 AI 에이전트가 어려운 문제를 해결하도록 가르치는 경험을 공유했습니다. 이 글은 AI 연구 분야 진입 방법과 연구 엔지니어링에 중요한 기술들을 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2119541238856663473.html",
+    "title": "What the heck is going on with OpenAI internal AI R&D time horizons (7 minute read)",
+    "url": "https://threadreaderapp.com/thread/2119541238856663473.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2119541238856663473.html",
+    "summary": "OpenAI's report on its own research automation shows that models struggle to do its R&D work. Recursive self-improvement is supposed to be one of the most consequential AI developments in the next few years. Agents are increasingly solving more complex tasks for researchers, but reliability is still low. This post looks at some possible explanations for why.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "OpenAI 보고서에 따르면 모델이 자체 R&D 작업을 수행하는 데 어려움을 겪고 있으며, 재귀적 자기 개선(RSI)은 기대와 달리 에이전트의 낮은 신뢰성 문제에 직면해 있습니다. 이 글은 이러한 현상에 대한 가능한 설명들을 제시합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
+    "title": "Introducing the New Auto and Auto Code Routers (11 minute read)",
+    "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
+    "discussion_url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
+    "summary": "OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "OpenRouter가 이전보다 최대 4배 향상된 차세대 Auto Router와 코딩 전문 Auto Code 라우터를 출시했습니다. 이 라우터들은 11가지 요인과 실시간 데이터를 결합하여 효율적으로 모델을 선택하며, 사용자 정책 적용도 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://psi.inc/research/aaronson-ambainis/",
+    "title": "A proof of the Aaronson-Ambainis conjecture (9 minute read)",
+    "url": "https://psi.inc/research/aaronson-ambainis/",
+    "discussion_url": "https://psi.inc/research/aaronson-ambainis/",
+    "summary": "The Aaronson-Ambainis conjecture, a key open problem in quantum complexity theory, has been proven by a research system developed at PSI using an Anthropic model. This proof shows quantum computers are not exponentially faster on random inputs compared to classical ones, resolving a significant question about quantum speedups.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "양자 복잡도 이론의 Aaronson-Ambainis 추측이 Anthropic 모델을 사용한 PSI 연구 시스템에 의해 증명되었습니다. 이 증명은 양자 컴퓨터가 고전 컴퓨터보다 기하급수적으로 빠르지 않음을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://ace.githubnext.com/",
+    "title": "Ace (Website)",
+    "url": "https://ace.githubnext.com/",
+    "discussion_url": "https://ace.githubnext.com/",
+    "summary": "Ace is a tool for building software together, locally. It allows developers to collaborate with agents and their teams, all from their own machine. Agents run with the privileges of the user running the host and can execute shell commands and change files beyond the project. Teams can work together without exposing anything to the public internet.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Ace는 개발자가 로컬 환경에서 에이전트 및 팀과 협업하여 소프트웨어를 구축하는 도구입니다. 에이전트는 사용자의 권한으로 셸 명령 실행 및 파일 변경이 가능하며, 팀은 외부 노출 없이 안전하게 작업할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://hunch.net/?p=13764006&amp%3Butm_source=tldrai",
+    "title": "The End of AI Frontiers (4 minute read)",
+    "url": "https://hunch.net/?p=13764006&amp%3Butm_source=tldrai",
+    "discussion_url": "https://hunch.net/?p=13764006&amp%3Butm_source=tldrai",
+    "summary": "AI Frontiers was a sub-organization within Microsoft Research that actively tried to organize coherent research efforts. It succeeded in pioneering things, with much of the work focused on how to make agents work. AI Frontiers was reorganized into Microsoft AI in early September.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Microsoft Research 내 AI Frontiers 조직이 AI 에이전트 연구를 주도했습니다. 이 조직은 9월 초 Microsoft AI로 재편되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/patrickc/status/2119495828683530519",
+    "title": "What Does a Positive AI Future Look Like? (3 minute read)",
+    "url": "https://x.com/patrickc/status/2119495828683530519",
+    "discussion_url": "https://x.com/patrickc/status/2119495828683530519",
+    "summary": "Patrick Collison questions how work, resource allocation, and human control would function in a positive AI future. He also argues that granting moral worth to vastly numerous AIs could overwhelm human interests under utilitarianism, raising unresolved questions about AI's societal vision and public support.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Patrick Collison은 긍정적인 AI 미래에서 일, 자원 배분, 인간 통제가 어떻게 작동할지 질문합니다. 수많은 AI에 도덕적 가치를 부여할 경우 인간의 이익이 압도될 수 있다는 윤리적 문제를 제기합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+    "title": "Can LLMs redesign themselves as they train? (18 minute read)",
+    "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+    "discussion_url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+    "summary": "LLMs can integrate coding agents into the training loop to redesign their architectures to address limitations like compositionality and generalization.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "LLM은 훈련 루프에 코딩 에이전트를 통합하여 자체 아키텍처를 재설계할 수 있습니다. 이를 통해 구성성 및 일반화와 같은 기존의 한계를 해결할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/",
+    "title": "Warp Sciences raises $215M for AI-powered labs (2 minute read)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/",
+    "discussion_url": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/",
+    "summary": "Warp Sciences raised a $215M Series A led by Lightspeed to accelerate drug discovery with AI and robotics.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Warp Sciences는 AI 및 로봇 공학을 활용한 신약 개발 가속화를 위해 2.15억 달러 규모의 Series A 투자를 유치했습니다. Lightspeed가 투자를 주도했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+    "title": "Project EVE: Claude plays MMORPGs (20 minute read)",
+    "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+    "discussion_url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+    "summary": "Anthropic explored AI participation in MMORPGs, using Claude to test complex decision-making in EVE Online and EVE Frontier.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Anthropic은 Claude를 사용하여 MMORPG (EVE Online, EVE Frontier)에서 AI의 참여를 탐구했습니다. 이를 통해 AI의 복잡한 의사 결정 능력을 테스트했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/johnjnay/status/2118377267495649448",
+    "title": "Symbiotic Firms Built Around Humans and AI (4 minute read)",
+    "url": "https://x.com/johnjnay/status/2118377267495649448",
+    "discussion_url": "https://x.com/johnjnay/status/2118377267495649448",
+    "summary": "Firms should build operations around human experts and AI agents from inception.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "기업들은 처음부터 인간 전문가와 AI 에이전트를 중심으로 운영을 구축해야 합니다. 이는 인간과 AI의 공생적 관계를 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+    "title": "Meta Introduces Custom Spaces in Muse (3 minute read)",
+    "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+    "discussion_url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+    "summary": "Meta introduced Spaces in its Muse app, allowing users to create personalized interactive experiences by describing what they want, such as gift trackers, games, or project planners.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "Meta는 Muse 앱에 'Custom Spaces'를 도입하여 사용자가 맞춤형 인터랙티브 경험을 만들 수 있게 했습니다. 사용자는 설명을 통해 선물 추적기, 게임, 프로젝트 플래너 등을 생성할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "title": "Measuring how AI agents handle everyday wet-lab science (13 minute read)",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "discussion_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "summary": "OpenAI introduced BioBasicsBench, a benchmark to evaluate AI performance in interpreting raw experimental data from 100 routine wet-lab science tasks.",
+    "score": 0,
+    "published_at": "2026-11-10T04:29:52+00:00",
+    "ai_summary": "OpenAI는 BioBasicsBench를 공개하여 AI 에이전트의 성능을 평가합니다. 이 벤치마크는 100가지 일상적인 습식 실험실 과학 작업에서 원시 실험 데이터 해석 능력을 측정합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  }
+]
