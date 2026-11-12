@@ -1,0 +1,808 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37030",
+    "title": "AI와 일할 때 가장 자주 던지는 질문: 지금 관성에 끌려가고 있는가?",
+    "url": "https://news.hada.io/topic?id=37030&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37030&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 에이전트와 1년 넘게 개발하며, 할루시네이션보다 자주 마주한 문제는 각 단계가 합리적으로 보이는데도 처음의 전제를 의심하지 않은 채 계속 나아가는 것이었습니다. 저는 이것을 관성이라고 부릅니다.글에서는 세 가지 경험을 다뤘습니다.5개월 동안 알아채지 못한 설계: 스킬을 정의하는 기준이 문제를 만들었는데, 기준을 다시 보기보다 그 빈자리를 메울 새 시스템을 설계했습니다.하루 만에 멈춘 실험: 설계 문서를 그래프로 변환하는 실험에서 일치율을 더 높일 수는 있어 보였지만, 튜닝을 계속하는 것이 원래 문제를 푸는…",
+    "score": 0,
+    "published_at": "2026-11-12T03:05:46+00:00",
+    "ai_summary": "AI 에이전트와 개발 시, 합리적으로 보여도 처음 전제 의심 없이 진행하는 '관성'에 끌려갈 수 있습니다.\n실제 경험을 통해 설계 문제 방치, 실험 중단 등 관성적 사고의 위험성을 지적하며,\nAI 개발 과정에서 비판적 사고의 중요성을 강조합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37025",
+    "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
+    "url": "https://yogurt.so?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=yogurt",
+    "discussion_url": "https://news.hada.io/topic?id=37025&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Yogurt는 비공개 AI 회의 노트를 위한 무료 오픈소스 앱임회의에 봇을 추가하지 않고 통화를 녹음함회의 요약 화면에서 계획과 담당자별 다음 단계, 개인 알림을 확인할 수 있음Mac, Windows, Linux용 다운로드를 제공함MIT 라이선스로 공개되며, 로컬 빌드와 실행을 위한 문서를 제공함봇 없이 녹음하는 AI 회의 노트Yogurt는 프라이버시를 내세우는 무료 오픈소스 AI 회의 노트 앱임통화를 녹음할 때 회의 봇을 추가하지 않음공개된 회의 요약 화면에는 출시 계획 회의의 계획, 담당자별 다음 단계, 개인 알림이 표시됨지원 환…",
+    "score": 0,
+    "published_at": "2026-11-12T01:37:18+00:00",
+    "ai_summary": "Yogurt는 봇 없이 통화를 녹음하는 비공개 AI 회의 노트 앱으로, 무료 오픈소스이며 프라이버시를 강조합니다.\n회의 요약, 계획, 다음 단계, 개인 알림을 제공하며 Mac, Windows, Linux를 지원하고 로컬 빌드 가능합니다.\nMIT 라이선스로 공개되어 개발자들에게도 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37020",
+    "title": "Show GN: OpenPhoneUse – 화면을 보고 직접 탭하는 모바일용 Computer Use",
+    "url": "https://news.hada.io/topic?id=37020&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37020&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Computer Use가 PC 화면을 보고 마우스와 키보드를 조작하듯, 안드로이드 폰 화면을 보고 직접 조작하는 AI 에이전트입니다.할 일을 말하면 AI가 화면을 읽고 탭, 입력, 스크롤하며 여러 앱을 오가면서 처리합니다. 기존 폰 에이전트는 대부분 PC에 연결해 ADB로 조작해야 해서, 폰 안에서 단독으로 동작하도록 만들었습니다.주요 특징PC, ADB, 루트, Shizuku 없이 접근성 서비스만으로 동작 (Android 11+)접근성 트리 + 스크린샷을 함께 인식해 아이콘 버튼, 지도 화면도 처리ChatGPT 계정 로그인 또는 OpenAI / Claude / Gemini …",
+    "score": 0,
+    "published_at": "2026-11-12T00:51:56+00:00",
+    "ai_summary": "OpenPhoneUse는 안드로이드 폰 화면을 AI가 직접 보고 조작하며 사용자의 지시를 수행하는 모바일 에이전트입니다.\nPC, ADB 없이 접근성 서비스만으로 동작하며, Accessibility Tree와 스크린샷 인식을 통해 다양한 앱을 오가며 작업을 처리합니다.\nChatGPT, OpenAI, Claude, Gemini 등 다양한 LLM 계정을 지원합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37017",
+    "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
+    "url": "https://news.hada.io/topic?id=37017&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37017&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "배우고 싶은 주제를 적거나 자료를 올리면 슬라이드, 퀴즈, 조작해 볼 수 있는 시뮬레이션, 프로젝트 기반 학습(PBL) 을 포함한 수업을 자동 생성AI 교사는 음성으로 설명하고 칠판에 수식이나 그림을 그려 줌. 수업 중 슬라이드나 그림에서 이해가 안 되는 부분을 바로 질문할 수 있음AI 동급생과 토론할 수 있음. 서로 다른 역할을 맡은 에이전트들이 의견을 주고받고, 학습자도 중간에 참여할 수 있음퀴즈는 객관식과 단답형을 지원하며 AI가 답을 채점하고 피드백을 줌. 프로젝트 학습에서는 AI 튜터와 단계별로 결과물을 만들어 …",
+    "score": 0,
+    "published_at": "2026-11-12T00:30:02+00:00",
+    "ai_summary": "OpenMAIC은 주제나 자료를 통해 슬라이드, 퀴즈, 시뮬레이션 등을 포함한 AI 수업을 자동 생성하는 오픈소스 플랫폼입니다.\nAI 교사의 음성 설명과 칠판 활용, AI 동급생과의 토론 기능을 제공하며,\n퀴즈 채점 및 프로젝트 학습을 지원하여 개인 맞춤형 학습을 가능하게 합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37015",
+    "title": "실제로 셀프 호스팅을 안전하게 하려면 어떻게 해야 하나요?",
+    "url": "https://news.hada.io/topic?id=37015&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37015&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "셀프 호스팅 입문자로서 Raspberry Pi에 정적 웹사이트를 호스팅하고, 향후 다른 기능도 추가해 보려 함DDG와 Google로 먼저 검색했지만, 찾은 자료 대부분이 검색 최적화에 치중한 저품질 콘텐츠나 서비스 홍보여서 유용한 시작 지침을 찾는 데 어려움이 있었음보안을 위해 Cloudflare Tunnels 등을 추천받았으나, 이런 제공업체에 의존하면 셀프 호스팅의 취지가 무색해지는 듯해 오픈 소스 도구만으로 안전하게 운영할 수 있는지, 주의할 함정과 조언을 구함…",
+    "score": 0,
+    "published_at": "2026-11-12T00:06:05+00:00",
+    "ai_summary": "Raspberry Pi에 정적 웹사이트를 셀프 호스팅하려는 입문자가 안전한 방법을 문의합니다.\n저품질 검색 결과에 불만을 표하며, Cloudflare Tunnels 같은 외부 의존 없이 오픈소스 도구만으로 보안을 강화하는 실질적인 조언과 함정을 묻습니다.\n안전한 셀프 호스팅을 위한 커뮤니티의 도움을 요청합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37012",
+    "title": "Show GN: TokenPlant - Claude Code·Codex에 쓴 토큰으로 픽셀 식물을 키우는 macOS 메뉴바 앱",
+    "url": "https://news.hada.io/topic?id=37012&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37012&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Claude Code와 Codex에서 나온 토큰 사용량으로 픽셀 식물을 키우는 메뉴바 앱입니다.로컬 세션 로그(~/.claude/projects, ~/.codex/sessions)를 30초마다 읽습니다. 서버도 계정도 없고 밖으로 나가는 데이터도 없습니다. 따로 누를 건 없고, 일하다 메뉴바 보면 자라 있습니다. 다 자라면 정원으로 옮겨심고 새 씨앗이 심깁니다.차별점이라면 가격을 토큰 개수가 아니라 날짜로 쟀다는 점입니다. \"한 그루 = 30억 토큰\" 식으로 박아두면 하루 1억 쓰는 사람은 한 달이지만 500만 쓰는 사람은 1년 반이 걸립니다. 그래서 목표를 2…",
+    "score": 0,
+    "published_at": "2026-11-11T23:30:11+00:00",
+    "ai_summary": "TokenPlant는 Claude Code와 Codex의 토큰 사용량으로 픽셀 식물을 키우는 macOS 메뉴바 앱입니다.\n로컬 세션 로그를 30초마다 읽어 서버나 계정 없이 동작하며, 데이터 유출 우려가 없습니다.\n토큰 개수 대신 날짜 기준으로 성장 목표를 설정하는 독특한 방식을 사용합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37011",
+    "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
+    "url": "https://news.hada.io/topic?id=37011&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37011&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 Gemini Decision 1 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개까지 한 요청으로 보낼 수 있음답변을 토큰별로 생성하지 않고 한 번의 순전파로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간 지연시간은 150~250ms이며, 질문이 1개에서 100개로 늘어도 거의 일정하게 유지됨예/아니요, 객관식, 순서형 평가 기준 점수를 한 요청에 섞어 사용할 수 있음. 모든 답변에 0~1의 신뢰도가 포함돼 모호한 사례를 대체 처리 경로나 사람 검토자에게 보낼 수 있음…",
+    "score": 0,
+    "published_at": "2026-11-11T22:33:12+00:00",
+    "ai_summary": "Google이 Gemini Decision 1 기반의 판단 API를 출시했습니다.\n이 API는 멀티모달 입력을 받아 최대 1,000개의 질문에 대해 한 번의 요청으로 빠르고 효율적인 평가 결과를 반환합니다.\n신뢰도를 포함하여 모호한 사례 처리를 돕고, 개발자가 의사결정 기반 AI 애플리케이션을 구축하는 데 활용됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37010",
+    "title": "공개 연구로 강화하는 개인정보 보호: Firefox 사용자의 핑거프린팅을 더 어렵게 만들기",
+    "url": "https://news.hada.io/topic?id=37010&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37010&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Firefox는 웹사이트에 노출하는 브라우저와 기기의 구별 가능한 정보를 줄여, 쿠키 없이 사용자를 식별하는 핑거프린팅 추적 방어를 강화함약 2,500만 명의 Firefox 사용자 측정값을 분석한 결과, 소수의 브라우저 기능만 보호해도 널리 쓰이는 핑거프린팅 기법을 상당히 약화할 수 있었음화면 해상도 API에서 작업 표시줄이나 독의 크기와 위치를 숨기고, 정확한 프로세서 수 대신 4 또는 8을 보고하는 방식으로 사용자 간 차이를 줄임Firefox 145의 최신 변경을 포함한 보호 기능은 고유한 핑거프린트를 가진 사용자 수를 줄이고 같…",
+    "score": 0,
+    "published_at": "2026-11-11T21:47:21+00:00",
+    "ai_summary": "Firefox는 브라우저 및 기기 정보 노출을 줄여 사용자 핑거프린팅 추적 방어를 강화합니다.\n약 2,500만 사용자 데이터 분석을 통해 소수 기능 보호만으로 핑거프린팅을 약화할 수 있음을 확인했습니다.\n화면 해상도나 프로세서 수 등 정보를 일반화하여 사용자 간 차이를 줄여 고유 핑거프린트를 감소시킵니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37009",
+    "title": "Atuin Threads: 모든 머신의 에이전트 세션을 한곳에",
+    "url": "https://news.hada.io/topic?id=37009&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37009&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "셸 명령 기록을 검색하고 동기화하는 Atuin이 18.24부터 코딩 에이전트 세션도 검색하고 재개할 수 있게 함개발 서버의 Claude Code에서 시작한 작업을 노트북의 Codex에서 이어갈 수 있음. 이전 대화 기록을 바탕으로 새 세션을 열어 작업 맥락을 이어받음세션 수집은 사용자가 켜야 시작함. 기록을 로컬에만 둘 수도 있고, Atuin 호스팅 서버나 자체 서버를 통해 종단 간 암호화로 동기화할 수도 있음MCP를 통해 에이전트가 이전 세션을 직접 검색하고 참조할 수 있어, 과거의 시도와 의사결정 이유, 조사 결과를 후속 작업에 활용할…",
+    "score": 0,
+    "published_at": "2026-11-11T21:44:21+00:00",
+    "ai_summary": "셸 명령 기록 동기화 도구 Atuin이 18.24부터 코딩 에이전트 세션 검색 및 재개를 지원합니다.\n개발자가 여러 머신이나 AI 모델 간에 작업 맥락을 유지하며 코딩 작업을 이어갈 수 있게 합니다.\n세션 기록은 로컬 저장 또는 종단 간 암호화 동기화가 가능하며, 에이전트가 과거 의사결정을 참조하도록 돕습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37006",
+    "title": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
+    "url": "https://news.hada.io/topic?id=37006&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37006&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
+    "score": 0,
+    "published_at": "2026-11-11T20:43:45+00:00",
+    "ai_summary": "이 기사는 100% AI 코딩 의무화 정책 1년 후의 문제점을 다룹니다.\nAI가 작성한 코드가 복잡하고 이해하기 어려워져 유지보수에 심각한 어려움을 초래한다고 지적합니다.\n이는 개발 생산성 향상이라는 본래 목적과 달리 실제 개발 워크플로우에 부정적 영향을 미칠 수 있음을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37005",
+    "title": "Fireworks AI 보안 침해, Notion과 고객에게 영향",
+    "url": "https://news.hada.io/topic?id=37005&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37005&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Notion의 공급업체 Fireworks AI에서 보안 사고가 발생해 전체 Notion 워크스페이스의 1% 미만이 영향을 받음Notion은 확인된 피해 고객에게 연락했으며 조사는 진행 중임. 사용자와 워크스페이스 소유자 모두 연락을 받지 않았다면 현재까지 영향 대상으로 확인되지 않았으며, 당장 필요한 조치는 없음영향을 받은 고객은 워크스페이스에서 해당 데이터를 확인할 수 있으며, 해당 기간 Notion AI에 입력한 비밀번호나 API 키 등 인증 정보는 즉시 교체하도록 권고함Fireworks는 계약상 데이터 무보관(ZDR) 을 약속했지만, 조사 결과 …",
+    "score": 0,
+    "published_at": "2026-11-11T20:40:44+00:00",
+    "ai_summary": "Notion의 공급업체 Fireworks AI에서 보안 침해가 발생하여 Notion 워크스페이스의 1% 미만이 영향을 받았습니다.\n피해 고객은 Notion AI에 입력한 비밀번호나 API 키 등 인증 정보를 즉시 교체해야 합니다.\nFireworks가 약속한 데이터 무보관 원칙이 지켜지지 않아 사고가 발생했으며, 조사는 진행 중입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Cloud",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50450488",
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "discussion_url": "https://news.ycombinator.com/item?id=50450488",
+    "summary": "",
+    "score": 935,
+    "published_at": "2026-11-11T07:03:17+00:00",
+    "ai_summary": "이 기사는 파이썬 커뮤니티의 중요한 인물인 팀 피터스(Tim Peters)의 부고를 전합니다.\n그는 \"파이썬의 선(Zen of Python)\"을 작성하고 효율적인 Timsort 알고리즘을 개발한 것으로 유명합니다.\n그의 업적은 파이썬 언어 발전과 많은 개발자들에게 큰 영감을 주었습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50456631",
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "discussion_url": "https://news.ycombinator.com/item?id=50456631",
+    "summary": "",
+    "score": 730,
+    "published_at": "2026-11-11T18:21:38+00:00",
+    "ai_summary": "이 기사는 AWS 에뮬레이터에 대한 정보를 제공합니다.\nAWS 에뮬레이터는 개발자가 실제 AWS 클라우드에 배포하지 않고도 로컬에서 AWS 서비스를 시뮬레이션하고 테스트할 수 있는 도구입니다.\n이를 통해 개발 비용을 절감하고, 애플리케이션 개발 및 테스트 과정을 가속화하여 클라우드 기반 워크플로우를 효율화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50459703",
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "discussion_url": "https://news.ycombinator.com/item?id=50459703",
+    "summary": "",
+    "score": 641,
+    "published_at": "2026-11-11T22:31:06+00:00",
+    "ai_summary": "엔비디아의 창립자이자 CEO인 젠슨 황의 교체설이 제기되었습니다.\nAI 반도체 시장의 선두주자인 엔비디아의 리더십 변화는 업계 전반에 큰 영향을 미칠 수 있습니다.\n이는 특히 AI/ML 개발자들에게 중요한 산업 동향으로 작용할 것입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50459485",
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50459485",
+    "summary": "",
+    "score": 164,
+    "published_at": "2026-11-11T22:16:41+00:00",
+    "ai_summary": "GitHub Actions 워크플로우의 보안을 강화하는 방법에 대한 내용입니다.\n잠재적인 보안 취약점을 줄이고 안전한 CI/CD 파이프라인을 구축하기 위한 조치를 권고합니다.\n개발자들이 사용하는 자동화 도구의 보안 모범 사례를 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50462177",
+    "title": "Critical RCE Vulnerability in Apache HTTP Server",
+    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "discussion_url": "https://news.ycombinator.com/item?id=50462177",
+    "summary": "",
+    "score": 20,
+    "published_at": "2026-11-12T02:11:11+00:00",
+    "ai_summary": "널리 사용되는 Apache HTTP 서버에서 치명적인 원격 코드 실행(RCE) 취약점이 발견되었습니다.\n이 취약점은 서버를 사용하는 모든 개발자와 시스템 관리자에게 즉각적인 패치와 주의를 요구합니다.\n백엔드 시스템의 보안을 유지하는 데 매우 중요한 내용입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50458900",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50458900",
+    "summary": "",
+    "score": 438,
+    "published_at": "2026-11-11T21:24:35+00:00",
+    "ai_summary": "유나이티드 항공이 여행객을 대신하여 항공편을 예약하는 AI 에이전트의 사용을 금지했습니다.\n이는 기업들이 AI 기술의 상업적 활용에 대해 정책을 수립하는 과정의 일면을 보여줍니다.\nAI 서비스 개발자와 관련 산업에 시사하는 바가 큽니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50455394",
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50455394",
+    "summary": "",
+    "score": 434,
+    "published_at": "2026-11-11T16:38:44+00:00",
+    "ai_summary": "제인 스트리트의 뉴욕 데이터센터가 오작동한 화재 경보로 인해 침수될 뻔한 사건이 발생했습니다.\n이는 데이터센터의 물리적 인프라 안정성과 재해 복구 계획의 중요성을 부각시킵니다.\n시스템 엔지니어 및 DevOps 담당자에게 중요한 교훈을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50456791",
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50456791",
+    "summary": "",
+    "score": 305,
+    "published_at": "2026-11-11T18:32:42+00:00",
+    "ai_summary": "구글의 Gemini 모델을 활용한 'Decisions API'가 출시되었습니다.\n이 API는 개발자들이 애플리케이션에 AI 기반 의사 결정 기능을 쉽게 통합할 수 있도록 돕습니다.\nLLM을 사용하여 복잡한 판단 로직을 구현하려는 개발자들에게 유용할 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50460154",
+    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "url": "https://github.com/tylertms/Stela",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460154",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-11-11T23:02:38+00:00",
+    "ai_summary": "x86-64 기반 PC에서 애플 실리콘(ARM) 소프트웨어를 실행할 수 있는 범용 호환성 레이어에 대한 내용입니다.\n이는 크로스 플랫폼 개발 및 소프트웨어 배포에 새로운 가능성을 열어줍니다.\n개발자들이 다양한 아키텍처 환경에서 애플리케이션을 테스트하고 배포하는 데 유용할 것입니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50462375",
+    "title": "Lean Grimoire",
+    "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50462375",
+    "summary": "",
+    "score": 8,
+    "published_at": "2026-11-12T02:36:48+00:00",
+    "ai_summary": "Lean Grimoire는 Lean 증명 보조기를 활용하여 수학적 개념과 이론을 탐구하는 프로젝트로 보입니다.\n개발자들은 형식 검증, 논리 프로그래밍, 그리고 복잡한 시스템의 정확성 증명에 대한 통찰력을 얻을 수 있습니다.\n수학적 엄밀함과 컴퓨터 과학의 교차점에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50458208",
+    "title": "Emacs in the Age of Magic",
+    "url": "https://commandlinesystems.com/magic.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=50458208",
+    "summary": "",
+    "score": 160,
+    "published_at": "2026-11-11T20:26:32+00:00",
+    "ai_summary": "'마법의 시대'에 Emacs가 어떻게 진화하고 새로운 기술과 조화를 이루는지 다루는 기사로 보입니다.\n최신 개발 환경에서 Emacs의 활용법, 생산성 향상 팁, 또는 새로운 플러그인에 대한 내용일 수 있습니다.\nEmacs 사용자뿐 아니라 개발 생산성 도구에 관심 있는 개발자들에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50457618",
+    "title": "The Utah Teapot",
+    "url": "https://graphics.cs.utah.edu/teapot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50457618",
+    "summary": "",
+    "score": 93,
+    "published_at": "2026-11-11T19:45:10+00:00",
+    "ai_summary": "유타 주전자(Utah Teapot)는 컴퓨터 그래픽스 역사에서 상징적인 3D 모델로, 렌더링 기술 발전의 초석이 되었습니다.\n이 기사는 3D 모델링, 렌더링 파이프라인, 그리고 그래픽스 구현의 기본 원리를 탐구할 것입니다.\n그래픽스 개발자나 컴퓨터 비전 분야에 관심 있는 이들에게 역사적, 기술적 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50412715",
+    "title": "How to make a CNC plasma cutter with high-frequency start",
+    "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412715",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-11-08T12:34:04+00:00",
+    "ai_summary": "고주파 스타트 방식의 CNC 플라즈마 절단기를 제작하는 방법에 대한 기술 가이드입니다.\n이는 하드웨어 설계, 임베디드 시스템 프로그래밍, 그리고 기계 제어에 대한 지식을 필요로 합니다.\nDIY 하드웨어 프로젝트나 산업 자동화 분야에 관심 있는 개발자들에게 실질적인 도움을 줄 것입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50457230",
+    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+    "url": "https://termsheetplease.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50457230",
+    "summary": "",
+    "score": 195,
+    "published_at": "2026-11-11T19:12:16+00:00",
+    "ai_summary": "유명 게임 'Papers Please'의 메커니즘을 활용하여 YC 스타트업 투자 결정을 내리는 게임을 직접 구현한 프로젝트입니다.\n이는 게임 개발, UI/UX 설계, 그리고 의사 결정 시뮬레이션 구현에 대한 통찰을 제공할 것입니다.\n게임 개발자, 스타트업 문화에 관심 있는 개발자, 또는 재미있는 사이드 프로젝트 아이디어를 찾는 이들에게 흥미로울 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50455633",
+    "title": "Faster Retrieval for Better, More Efficient RAG",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "discussion_url": "https://news.ycombinator.com/item?id=50455633",
+    "summary": "",
+    "score": 172,
+    "published_at": "2026-11-11T16:57:45+00:00",
+    "ai_summary": "RAG(Retrieval-Augmented Generation) 시스템의 검색 속도를 향상시켜 효율성을 높이는 방법에 대한 기술 분석입니다.\n이는 LLM 기반 애플리케이션의 성능 최적화, 데이터 검색 전략, 그리고 시스템 아키텍처 개선에 중점을 둡니다.\nLLM을 활용하는 AI/ML 개발자들에게 필수적인 최신 기술 동향과 실질적인 구현 팁을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50452455",
+    "title": "My AI agents found an unmapped Maya site?",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "discussion_url": "https://news.ycombinator.com/item?id=50452455",
+    "summary": "",
+    "score": 941,
+    "published_at": "2026-11-11T12:05:22+00:00",
+    "ai_summary": "AI 에이전트가 이전에 지도화되지 않은 마야 유적지를 발견했다는 흥미로운 연구 또는 프로젝트입니다.\n이는 AI의 이미지 분석 능력, 패턴 인식, 그리고 미개척 분야에서의 잠재적 활용 가능성을 보여줍니다.\nAI/ML 개발자들에게 실제 문제 해결을 위한 AI 적용 사례와 창의적인 활용 아이디어를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50453288",
+    "title": "Hyper-Realistic Sand with WebGL2",
+    "url": "https://av.github.io/safe-sand/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50453288",
+    "summary": "",
+    "score": 328,
+    "published_at": "2026-11-11T13:39:29+00:00",
+    "ai_summary": "WebGL2를 활용하여 웹상에서 초현실적인 모래 효과를 구현하는 기술을 설명합니다.\n셰이더 프로그래밍과 3D 렌더링 기법을 통해 몰입감 있는 시각적 경험을 제공합니다.\n웹 기반 그래픽스 및 인터랙티브 콘텐츠 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50458166",
+    "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=50458166",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-11-11T20:23:57+00:00",
+    "ai_summary": "화웨이가 로컬 AI 추론을 위한 자체 양자화 도구인 MACaQ를 공개했습니다.\n이 도구는 AI 모델의 크기를 줄이고 실행 효율을 높여 온디바이스 환경에 최적화합니다.\nAI/ML 모델 배포 및 성능 최적화에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50454625",
+    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "discussion_url": "https://news.ycombinator.com/item?id=50454625",
+    "summary": "",
+    "score": 190,
+    "published_at": "2026-11-11T15:33:06+00:00",
+    "ai_summary": "\"Show HN\" 프로젝트 'Yogurt'는 기존 서비스 Granola의 무료, 비공개 오픈소스 대안으로 소개됩니다.\n특정 기능을 대체하는 새로운 개발 프로젝트로, 오픈소스 커뮤니티에 기여하거나 새로운 도구를 찾는 개발자에게 흥미롭습니다.\n개발자들이 새로운 솔루션 탐색에 활용할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50452655",
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50452655",
+    "summary": "",
+    "score": 252,
+    "published_at": "2026-11-11T12:30:17+00:00",
+    "ai_summary": "선형 프로그래밍(Linear Program)이 가중치 공간 프로그래밍(Weight-Space Programming)을 수행할 수 있는지 학술적으로 탐구합니다.\n이는 최적화 이론과 머신러닝 알고리즘의 기초 연구와 깊은 연관이 있습니다.\nAI/ML 분야의 고급 연구자와 개발자들에게 중요한 이론적 내용입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50453637",
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50453637",
+    "summary": "",
+    "score": 194,
+    "published_at": "2026-11-11T14:10:46+00:00",
+    "ai_summary": "'Atuin Threads'는 개발자들이 여러 머신에 걸쳐 에이전트 세션을 통합 관리할 수 있는 도구입니다.\n이는 분산된 개발 환경에서 생산성과 워크플로우 효율성을 크게 높여줄 수 있습니다.\n개발자 생산성 도구 및 환경 관리 솔루션에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50455811",
+    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "discussion_url": "https://news.ycombinator.com/item?id=50455811",
+    "summary": "",
+    "score": 51,
+    "published_at": "2026-11-11T17:11:56+00:00",
+    "ai_summary": "AI 에이전트가 웹사이트와 상호작용하도록 돕는 플랫폼 'Pomerado'가 출시되었습니다.\n이 도구는 어떤 웹사이트든 에이전트를 위한 컨트롤 포인트로 변환하여, 복잡한 자동화 및 데이터 수집 작업을 가능하게 합니다.\nAI 에이전트 개발자들이 웹 인터페이스를 활용하는 데 유용할 것입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50460398",
+    "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460398",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-11-11T23:22:29+00:00",
+    "ai_summary": "'Modern Web Guidance 1.0'은 최신 웹 플랫폼 전문 지식을 AI 코딩 에이전트에 제공하는 것을 목표로 합니다.\n이는 AI가 웹 개발 작업을 수행할 때 필요한 심층적인 웹 기술 정보를 보충하여, 에이전트의 코드 품질과 정확도를 향상시킬 수 있도록 돕습니다.\n프론트엔드 및 백엔드 개발자와 AI 기반 개발 도구 사용자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors (5 minute read)",
+    "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "discussion_url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "summary": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Claude Meetings, which will bring Claude into calls to take notes and update documents, is coming soon",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Anthropic은 Claude Sheets, Whiteboards, Data 등 새로운 아티팩트 타입을 출시하여 앱 전환 없이 스프레드시트, 아이디어 정리, 대시보드 생성을 가능하게 했습니다.\nAdobe, Atlassian 같은 파트너 앱을 Claude에 직접 임베드하는 인터랙티브 커넥터와 Salesforce, NetSuite, Workday 플러그인(베타)이 제공됩니다.\n향후 Claude Meetings를 통해 회의록 작성 및 문서 업데이트 기능이 추가될 예정입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "title": "Businesses and Business Agents in ChatGPT (3 minute read)",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "discussion_url": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "summary": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "OpenAI가 ChatGPT 내에 Businesses 기능을 도입하여 기업이 프로필을 관리하고, 제품 피드를 제공하며, 고객 참여를 추적할 수 있도록 했습니다.\n미국 내 적격 전자상거래 및 온라인 서비스 기업은 ChatGPT 내에서 고객 문의에 답하고 상품 탐색을 돕는 Business Agent를 출시할 수 있습니다 (베타).",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "title": "Gemini 4 Carbon is now available (12 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "summary": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon. The release ",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Google의 강력한 모델인 Gemini 4 Carbon이 AI Studio 및 Gemini for business API를 통해 유료 개발자와 기업에게 제공됩니다.\nGoogle AI Ultra 구독자는 Antigravity, Gemini 앱, 검색의 AI 모드에서도 이 모델을 사용할 수 있습니다.\nCarbon은 경쟁 모델 대비 2배 낮은 비용으로 여러 벤치마크에서 1위를 차지했으며, Gemini 4 Argon과 동일한 토큰당 가격으로 제공됩니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/KunhaoZ/status/2120172863734849903",
+    "title": "Suppressing Reward Hacking Through Model Weight Arithmetic (3 minute read)",
+    "url": "https://x.com/KunhaoZ/status/2120172863734849903",
+    "discussion_url": "https://x.com/KunhaoZ/status/2120172863734849903",
+    "summary": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "연구자들이 느슨한 보상과 엄격한 보상으로 훈련된 코드 모델들을 비교하여 비효율적인 해결책을 제어하는 방향을 식별했습니다.\n엄격한 모델을 넘어선 외삽을 통해 추가 훈련 없이 리소스 한계 실패를 14.5%에서 8%로 줄였습니다.\n과도한 외삽은 결과물을 손상시킬 수 있으며, 지나치게 엄격한 보상은 정확성을 해칠 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/nizzyabi/status/2120194267066863738",
+    "title": "Why Instinct Feels Like a Personal Assistant (20 minute read)",
+    "url": "https://x.com/nizzyabi/status/2120194267066863738",
+    "discussion_url": "https://x.com/nizzyabi/status/2120194267066863738",
+    "summary": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Instinct 대화 분석 결과, 짧은 메시지, 빠른 응답, 선제적 후속 조치, 구매 전 승인 확인 등이 개인 비서처럼 느껴지는 비결로 나타났습니다.\n이러한 경험은 조정된 태스크 에이전트와 지속적인 메모리에 기반하지만, 정보 유지 및 전달 검증 실패 사례도 발견되었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+    "title": "Neurons as an Interpretable Basis (15 minute read)",
+    "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+    "discussion_url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+    "summary": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Goodfire는 개별 언어 모델 뉴런이 일반적으로 가정하는 것보다 더 해석 가능하다고 주장합니다.\nNeuron Scientist 에이전트가 뉴런 기능에 대한 설명을 생성하고 테스트하여, 연구자들이 희소 오토인코더 없이도 모델 계산을 직접 연구할 수 있음을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://antigravity.google/docs/swarm/",
+    "title": "Swarm (/swarm) (10 minute read)",
+    "url": "https://antigravity.google/docs/swarm/",
+    "discussion_url": "https://antigravity.google/docs/swarm/",
+    "summary": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and Google AI Ultra plans in the Google Antigravity App and Antigravity CLI. Every worker is its own ag",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Google Antigravity의 '/swarm' 명령은 명명된 에이전트 팀을 실행하여 작업을 분할하고 동시에 처리하며 공유 메시지 보드에서 협업하게 합니다.\n이 기능은 파일, 패키지, 질문 등으로 나눌 수 있는 작업이나 두 번째 에이전트가 변경 사항을 검토하고 테스트할 때 유용합니다.\nGoogle AI Pro 및 Ultra 요금제에서 Antigravity 앱 및 CLI를 통해 사용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+    "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
+    "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+    "discussion_url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+    "summary": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Meta FAIR이 K-평균의 대안인 'e-means'를 공개했습니다. e-means는 더 낮은 손실로 수렴하며, CPU 및 GPU에서 최대 10배 빠른 성능을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.claroc.io/ghostshares-grok-build-apps",
+    "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own (16 minute read)",
+    "url": "https://blog.claroc.io/ghostshares-grok-build-apps",
+    "discussion_url": "https://blog.claroc.io/ghostshares-grok-build-apps",
+    "summary": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "35,000개 이상의 Grok으로 구축된 앱이 링크만 있으면 누구나 접근 가능하도록 공개되었습니다. 여기에는 SpaceXSI 직원 도구 및 ICU 환자 실험 결과 같은 민감한 정보도 포함되어 있었습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "title": "Introducing Gemini for healthcare (13 minute read)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "discussion_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "summary": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Google Cloud가 의료 분야를 위한 'Gemini for healthcare'를 미리 보기로 출시했습니다. 이는 의료 특화 기능, EHR 및 청구 시스템 커넥터, HIPAA를 지원하는 거버넌스를 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser (6 minute read)",
+    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+    "discussion_url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+    "summary": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "ExecuTorch는 PyTorch 모델을 다른 프레임워크로 변환 없이 웹 브라우저의 GPU에서 실행할 수 있게 합니다. 이는 웹 기반 ML 애플리케이션 개발에 중요한 진전입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "title": "Google DeepMind Uses AI to Verify Signal's Security (6 minute read)",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "discussion_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "summary": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
+    "score": 0,
+    "published_at": "2026-11-12T03:38:34+00:00",
+    "ai_summary": "Google DeepMind가 AlphaProof Code를 공개했습니다. 이 다중 에이전트 AI 프레임워크는 Signal 암호화 프로토콜의 주요 보안 속성을 구현 수준에서 수학적으로 검증했습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  }
+]
