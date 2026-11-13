@@ -1,0 +1,869 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37091",
+    "title": "중국 최첨단 AI 모델에서 수출 통제 대상 GPU의 지문 발견",
+    "url": "https://news.hada.io/topic?id=37091&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37091&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "DeepSeek, Moonshot AI, MiniMax, Ant Group의 공개 모델 6개에서 NVIDIA Blackwell과 일치하는 초기화 패턴이 발견됨. 학습에도 같은 하드웨어를 사용했을 가능성을 뒷받침하지만, 학습 전체가 Blackwell에서 이루어졌다는 증거는 아님분석은 내부 제보가 아닌 공개 가중치에 남은 초기값을 이용함. 의사난수 시드와 GPU의 병렬 처리 구성을 함께 복원해 Hopper와 Blackwell의 서로 다른 수치 배열을 구분함DeepSeek-V4-Flash와 Kimi K3의 초기값을 실제 Blackwell GPU에서 재현했으며, 하드웨어가 공개된 모델 24건에서도 분석 결과가 공개 정보와 일치함…",
+    "score": 0,
+    "published_at": "2026-11-13T02:35:38+00:00",
+    "ai_summary": "중국 AI 모델 6개에서 NVIDIA Blackwell GPU와 일치하는 초기화 패턴이 발견되어 학습 하드웨어 사용 가능성을 시사합니다.\n이 분석은 공개된 가중치의 초기값을 이용해 Hopper와 Blackwell의 다른 수치 배열을 구분했습니다.\n이는 내부 제보가 아닌 공개 데이터를 통한 기술 분석으로, AI 모델 개발 및 규제 관련자에게 중요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37090",
+    "title": "Show GN: Catch Your Mind – MCP로 연결하는 실시간 멀티모달 Context SDK",
+    "url": "https://news.hada.io/topic?id=37090&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37090&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "안녕하세요.최근 AI 게임 컴패니언 Optimum Zone을 개발하면서, LLM이 실시간 영상과 음성을 지속적으로 이해하고 Context로 활용하는 것이 생각보다 어렵다는 문제를 겪었습니다.Full-duplex Voice AI는 빠르게 발전하고 있지만, 연속적인 Vision과 Voice를 함께 처리하려면 VLM Inference Latency, Context Window, Temporal Synchronization 등 해결해야 할 문제가 많았습니다.그래서 Catch Your Mind라는 오픈소스 프로젝트를 만들었습니다.Catch Your Mind는 실시간 Multimodal Input을 LLM과 AI Agent가 활용할 수 있는 Tempor…",
+    "score": 0,
+    "published_at": "2026-11-13T02:29:18+00:00",
+    "ai_summary": "LLM이 실시간 영상과 음성을 지속적으로 이해하고 활용하기 어려운 문제를 해결하기 위해 Catch Your Mind를 개발했습니다.\n이 오픈소스 SDK는 멀티모달 입력 처리, Context Window 관리, 시간 동기화 등 AI 에이전트 개발 난제를 다룹니다.\nFull-duplex Voice AI를 넘어 Vision과 Voice를 함께 처리하는 LLM 애플리케이션 개발에 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37088",
+    "title": "자애로운 수출 통제 기계",
+    "url": "https://darioamodei.com/essay/machines-of-loving-grace",
+    "discussion_url": "https://news.hada.io/topic?id=37088&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "다리오 아모데이의 에세이 \"Machines of Loving Grace\"을 패러디한 제목.극성 인공지능 안전주의자들은 수출 통제를 맹목적으로 찬성하고, 국가 경쟁으로 규정함. 최근 반-개방 가중치 모델로도 나타남.특히 극히 일부의 엘리트 이외의 컴퓨트 접근 자체가 금지되어야 한다는 사람들도 있으나, 이는 \"시모네타\" 의 재현일 뿐임.최악의 경우라도 인공지능은 이중 용도 기술일 뿐, 전차와 같이 \"공격 무기\" 가 아님. 그리고, 그러한 이중 용도 기술로서도 방사능과 달리 인류에 긍정적 소지가 부정적 소지에 비해 다함.따라서 인공지능…",
+    "score": 0,
+    "published_at": "2026-11-13T01:14:00+00:00",
+    "ai_summary": "일부 극성 AI 안전주의자들이 AI 수출 통제를 맹목적으로 지지하며, 소수 엘리트만 컴퓨트 접근을 허용해야 한다고 주장합니다.\n그러나 필자는 AI가 이중 용도 기술일 뿐이며, 전차와 같은 공격 무기가 아니며 긍정적 소지가 더 크다고 반박합니다.\nAI 기술 접근 제한은 혁신을 저해하고 \"시모네타\"처럼 인류를 후퇴시킬 수 있으므로 신중한 접근이 필요합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37079",
+    "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
+    "url": "https://news.hada.io/topic?id=37079&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37079&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "취업·이직용 에이전트 스킬입니다.퇴근하면 체력이 바닥나서 저녁 먹고 나면 이직 준비할 여력이 없다는 친구가 있어, 그 친구를 생각하며 만들었습니다. 공고를 찾고 초안을 잡는 일을 에이전트에게 맡기면 덜 지치게 할 수 있을까 싶었습니다.쓰는 법에이전트에 아래 한 줄을 보내면 직무·지역·경력 등을 몇 가지 물은 뒤 바로 첫 공고를 찾아 줍니다. 이후엔 \"오늘 새 공고 찾아줘\", \"이 공고로 자소서 써줘\"처럼 말하면 됩니다.https://raw.githubusercontent.com/Whosekey-Labs/kr-career-skill/main/SKILL.md 이 스킬 설치하고…",
+    "score": 0,
+    "published_at": "2026-11-12T22:57:53+00:00",
+    "ai_summary": "취업 및 이직 준비를 돕는 LLM 기반 에이전트 스킬 'kr-career-skill'이 공개되었습니다.\n270여 개 채용 사이트에서 공고를 검색하고 기업을 분석하며, 자기소개서 초안 작성까지 지원하여 이직 피로도를 줄여줍니다.\n직무, 지역, 경력 등 사용자 질문에 따라 첫 공고를 찾아주고, 이후 새 공고 검색 및 자소서 작성 지시가 가능합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "Career",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37077",
+    "title": "Google Antigravity에 Orchestrator 추가, 코딩 중 Carbon과 Hydrogen 자동 전환",
+    "url": "https://news.hada.io/topic?id=37077&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37077&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google Antigravity의 모델 선택 메뉴에 Gemini 4 Hydrogen과 Orchestrator가 추가됨Orchestrator는 한 코딩 세션에서 작업 단계에 따라 Carbon과 Hydrogen을 자동으로 전환함. Carbon이 계획을 세우고, Hydrogen이 코드 수정과 테스트를 이어받는 식Antigravity 팀의 Terminal-Bench 4.1 평가에서 Carbon 단독에 가까운 성공률을 기록함. 평균 할당량은 24% 덜 쓰고, 작업은 19% 더 빠르게 완료함Hydrogen은 일상적인 코딩에 단독으로 쓸 수 있으며, 추론 수준은 low, medium, high(기본값), xhigh 중 선택할 수 있음Antigravity에서…",
+    "score": 0,
+    "published_at": "2026-11-12T21:38:41+00:00",
+    "ai_summary": "Google Antigravity에 'Orchestrator' 기능이 추가되어 코딩 세션 중 Carbon과 Hydrogen 모델을 자동으로 전환합니다.\nCarbon이 계획을 세우면 Hydrogen이 코드 수정과 테스트를 담당하여, 효율성을 높이고 리소스 사용을 최적화합니다.\n이 기능으로 Carbon 단독 사용에 근접한 성공률을 보이며, 할당량은 24% 덜 쓰고 작업은 19% 더 빠르게 완료합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37076",
+    "title": "Show HN: 300달러짜리 자수기에 구독이 필요해서 직접 앱을 만들었다",
+    "url": "https://news.hada.io/topic?id=37076&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37076&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "ZigZag는 SVG 그림을 자수 바늘땀으로 변환하고 시각적으로 편집하는 Rust 앱으로, 자수기용 파일을 내보내거나 Brother Skitch에 직접 전송할 수 있음MCP를 내장해 AI 에이전트가 사용자가 보고 있는 문서를 함께 편집하며, Claude Code나 Codex가 디자인을 만드는 과정을 편집기에서 확인할 수 있음Illustrator 방식의 벡터 편집과 이미지 자동 추적, 글자 배치, 실 색상 관리, 다양한 자수 기법을 한 작업 흐름으로 묶음Brother Skitch(PP1) Bluetooth 연결로 디자인 전송부터 시험 운전과 진행 상황 확인까지 지원하지만, 프로토콜…",
+    "score": 0,
+    "published_at": "2026-11-12T21:35:41+00:00",
+    "ai_summary": "자수기 구독 문제에 대응하여 Rust로 SVG를 자수 스티치로 변환하고 편집하는 'ZigZag' 앱을 직접 개발했습니다.\n이 앱은 MCP 내장으로 AI 에이전트가 디자인 과정을 편집기에서 보여주며, Illustrator 방식의 벡터 편집과 글자 배치 등 기능을 제공합니다.\nBrother Skitch Bluetooth 연결을 통해 디자인 전송, 시험 운전, 진행 상황 확인까지 지원하는 강력한 커스텀 솔루션입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37075",
+    "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
+    "url": "https://news.hada.io/topic?id=37075&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37075&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Jane Street가 대학생 지원자의 현장 면접에서 코드 작성 비중을 줄이고, 소프트웨어 설계와 코드 검증, LLM 활용을 평가하는 새 면접 유형을 시험 중임코드 생성 비용이 낮아지면서 무엇을 만들지 판단하는 안목, 오래 유지할 수 있는 추상화 선택, 구현의 정확성 확인이 더욱 중요해졌다는 판단에 따른 변화임대부분의 면접 라운드는 LLM 도움 없이 진행하는 기존 코딩 면접을 유지하며, 나머지 채용 절차도 바뀌지 않음지원자에게 정교한 에이전트 활용 방법론이나 특정 도구 구성을 요구하지 않으며, 모든 작업에 LLM을 사용하기를…",
+    "score": 0,
+    "published_at": "2026-11-12T21:21:12+00:00",
+    "ai_summary": "Jane Street가 대학생 현장 면접에서 코드 작성 비중을 줄이고 소프트웨어 설계, 코드 검증, LLM 활용 능력을 평가하는 새 유형을 시험합니다.\n이는 코드 생성 비용이 낮아지면서 \"무엇을 만들지 판단하는 안목\"과 \"정확한 구현\"의 중요성이 커졌다는 인식에 기반합니다.\n대부분의 면접은 기존 코딩 면접을 유지하지만, LLM을 도구로 활용하는 능력 평가가 도입되어 개발자 채용 트렌드 변화를 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37071",
+    "title": "작고 오래된 기기에서도 LLM이 돌아가게 만들고 있습니다",
+    "url": "https://news.hada.io/topic?id=37071&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37071&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "smolmaxxing은 TV 박스와 오래된 iPad에서 실행 가능한 최대 규모의 언어 모델을 찾고, 맞춤형 커널과 메모리 최적화, 가중치 스트리밍으로 성능을 끌어올리는 프로젝트임실사용 RAM이 약 1GB인 Xiaomi TV Box S 3세대에서 Qwen3.5-2B는 실제 채팅 기준 7.7 tok/s, 8B MoE 모델은 7.2 tok/s, 16B MoE 모델은 5.1 tok/s로 실행됨2013년형 iPad Air에서는 CPU만으로 Bonsai-1.7B가 23.7~25.8 tok/s에 도달함. 다만 iOS 12.5.7 탈옥이 필요하며, 긴 대화에서는 18~22 tok/s 수준임RAM보다 큰 모델은 플래시 대역폭이 속도를 제한함. MoE …",
+    "score": 0,
+    "published_at": "2026-11-12T19:52:37+00:00",
+    "ai_summary": "'smolmaxxing' 프로젝트는 TV 박스와 오래된 iPad 같은 저사양 기기에서 LLM을 구동하고 성능을 최적화하는 데 집중합니다.\n맞춤형 커널, 메모리 최적화, 가중치 스트리밍 기법을 활용하여 Qwen3.5-2B 모델을 Xiaomi TV Box에서 7.7 tok/s로 실행합니다.\n2013년형 iPad Air에서도 Bonsai-1.7B가 CPU만으로 23.7~25.8 tok/s에 도달하는 등, 제한된 환경에서의 LLM 효율성을 극대화합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37070",
+    "title": "Rust 1.100.0 - never 타입과 사용자 정의 메모리 할당자 안정화",
+    "url": "https://news.hada.io/topic?id=37070&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37070&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "never 타입 ! 안정화Result&lt;T, !&gt;처럼 실패할 수 없는 연산을 표현할 수 있음기존 Infallible은 !의 타입 별칭이 됨2015, 2018, 2021 에디션도 2024 에디션과 같이 never 타입 폴백을 ()에서 !로 바꿈. 일부 코드의 타입 추론에 영향을 줄 수 있음사용자 정의 메모리 할당자 API 안정화Allocator 트레이트로 사용자 정의 할당자를 구현할 수 있음Vec::new_in, Box::new_in으로 객체를 만들 때 사용할 할당자를 지정할 수 있음DropGuard 는 스코프를 벗어날 때 클로저를 실행함 예를 들어 여러 값을 파싱해 Vec에 추가하다가 ?로 조…",
+    "score": 0,
+    "published_at": "2026-11-12T19:49:36+00:00",
+    "ai_summary": "Rust 1.100.0이 출시되며 `never` 타입 `!`이 안정화되어 실패 불가능한 연산을 표현합니다.\n사용자 정의 메모리 할당자 API도 안정화되어 `Allocator` 트레이트를 통해 할당자를 구현하고 객체 생성 시 지정할 수 있습니다.\n2015/2018/2021 에디션의 `never` 타입 폴백 변경은 일부 코드의 타입 추론에 영향을 줄 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37069",
+    "title": "Ask HN: Microsoft/Azure 장애인가요?",
+    "url": "https://news.hada.io/topic?id=37069&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37069&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "최근 5분 동안 사용 중인 Microsoft Cloud 연결이 모두 끊긴 상태이며, 다른 사람도 같은 문제를 겪는지 확인하고자 함상태 페이지조차 로드되지 않음",
+    "score": 0,
+    "published_at": "2026-11-12T19:46:36+00:00",
+    "ai_summary": "최근 5분 동안 Microsoft Cloud 연결이 모두 끊기는 광범위한 장애가 발생했습니다.\n사용자들은 상태 페이지조차 로드되지 않아 다른 사람들도 같은 문제를 겪는지 확인하고 있습니다.\n이는 클라우드 서비스에 의존하는 개발자들에게 직접적인 영향을 미치는 중요한 인프라 이슈입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37068",
+    "title": "Gemini 4 Hydrogen - 일상적인 코딩과 에이전트 작업을 위한 빠른 실행 모델",
+    "url": "https://news.hada.io/topic?id=37068&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37068&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 Gemini 4 Hydrogen을 공개함. 깊고 장기적인 추론에 집중하는 Carbon과 Argon을 보완하면서, 일상적인 코딩과 다양한 에이전트 작업을 단독으로도 수행하도록 설계함기본 추론 설정에서 Artificial Analysis Intelligence Index 51점으로 Argon의 50점을 넘어섰으며, 100만 토큰 컨텍스트 전체에 입력 100만 토큰당 1.50달러, 출력 100만 토큰당 7.50달러의 동일 요금을 적용함Google Antigravity의 Orchestrator가 세션 안에서 Carbon과 Hydrogen 등을 자동 전환함. Terminal-Bench 4.0에서 Carbon에 가까운 성공률을 유지하면서 평균 할당량 소모를 24%, 완료 시간을 19% 줄임…",
+    "score": 0,
+    "published_at": "2026-11-12T19:43:36+00:00",
+    "ai_summary": "Google이 일상 코딩과 에이전트 작업을 위한 빠른 실행 모델인 Gemini 4 Hydrogen을 공개했습니다.\nArtificial Analysis Intelligence Index 51점으로 Argon을 능가하며, 100만 토큰 컨텍스트 전체에 동일 요금이 적용됩니다.\nOrchestrator가 모델 전환을 자동화하여 리소스 소모 및 완료 시간을 단축시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50472038",
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50472038",
+    "summary": "",
+    "score": 469,
+    "published_at": "2026-11-12T18:39:05+00:00",
+    "ai_summary": "Rust 1.100 버전 출시와 관련된 기사로, 새로운 언어 기능 및 API 안정화에 대한 내용일 것으로 예상됩니다.\nRust 개발자들에게는 언어의 발전과 변화를 이해하는 데 매우 중요한 정보입니다.\n성능 개선, 버그 수정 등도 포함될 수 있으며 Rust 기반 프로젝트에 영향을 미칩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50472260",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50472260",
+    "summary": "",
+    "score": 329,
+    "published_at": "2026-11-12T18:52:01+00:00",
+    "ai_summary": "Google의 새로운 AI 모델 Gemini 4 Hydrogen과 Orchestrator에 대한 기사로 추정됩니다.\n일상적인 코딩 및 에이전트 작업을 위한 모델의 특징과 효율성이 다뤄질 것입니다.\nAI/ML 개발자 및 AI 기반 코딩 도구를 사용하는 개발자들에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50470488",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "url": "https://github.com/simpsoka/zigzag",
+    "discussion_url": "https://news.ycombinator.com/item?id=50470488",
+    "summary": "",
+    "score": 369,
+    "published_at": "2026-11-12T17:02:42+00:00",
+    "ai_summary": "구독이 필요한 300달러짜리 자수 기계를 대신해 자신만의 앱을 직접 개발한 사례가 공유되었습니다.\n이는 제품의 제한 사항에 대한 개발자의 창의적인 소프트웨어 해결책을 보여줍니다.\nDIY 프로젝트, 임베디드 시스템, 혹은 커스텀 소프트웨어 개발에 관심 있는 개발자들에게 흥미로운 영감을 줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50475713",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50475713",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-11-12T23:06:17+00:00",
+    "ai_summary": "Edge0-145B는 최신 AI 기능을 개인 컴퓨터에서 실행할 수 있게 하여, 고성능 장비 없이도 AI 모델 활용을 가능하게 합니다.\n이는 AI 접근성을 크게 향상시키고, 로컬 환경에서 AI 개발 및 테스트를 촉진할 것입니다.\n개발자들이 AI 모델을 더 넓은 범위의 기기에 배포할 수 있는 길을 열어줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50474361",
+    "title": "Foundation Models framework",
+    "url": "https://developer.apple.com/foundation-models-framework/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474361",
+    "summary": "",
+    "score": 145,
+    "published_at": "2026-11-12T21:13:26+00:00",
+    "ai_summary": "이 프레임워크는 파운데이션 모델(대규모 AI 모델)의 개발 및 활용을 위한 구조화된 접근 방식을 제공합니다.\n모델의 효율적인 구축, 훈련, 배포를 지원하여 개발자들이 AI 애플리케이션을 더 쉽게 만들 수 있도록 돕습니다.\n이는 AI 모델링의 복잡성을 줄이고 혁신을 가속화할 잠재력을 가집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50471731",
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50471731",
+    "summary": "",
+    "score": 563,
+    "published_at": "2026-11-12T18:20:48+00:00",
+    "ai_summary": "마이크로소프트 365 서비스에서 성능 저하 현상이 발생하여, 사용자들에게 불편을 초래했습니다.\n이는 클라우드 기반 서비스의 안정성과 가용성 문제에 대한 중요성을 다시 한번 상기시켜 줍니다.\n개발자와 기업은 서비스 중단에 대비한 복원력 있는 시스템 설계의 필요성을 인지해야 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50471761",
+    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50471761",
+    "summary": "",
+    "score": 152,
+    "published_at": "2026-11-12T18:22:22+00:00",
+    "ai_summary": "22년 된 PostgreSQL의 타입 혼동 취약점을 원격 코드 실행(RCE) 공격으로 전환하는 기술적 분석이 공개되었습니다.\n이는 오래된 코드베이스에서도 심각한 보안 결함이 발견될 수 있음을 보여줍니다.\n개발자와 데이터베이스 관리자는 이러한 유형의 취약점에 대한 경각심을 갖고 시스템을 업데이트해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50468888",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50468888",
+    "summary": "",
+    "score": 289,
+    "published_at": "2026-11-12T15:23:10+00:00",
+    "ai_summary": "이 프로젝트는 대규모 언어 모델(LLM)을 작고 오래된 장치에서도 효율적으로 실행할 수 있도록 최적화하는 데 중점을 둡니다.\n이는 LLM의 접근성을 넓히고, 제한된 하드웨어 환경에서의 AI 애플리케이션 개발 가능성을 확장합니다.\n개발자들이 더 다양한 기기에서 AI 기능을 활용할 수 있는 기반을 마련합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50460263",
+    "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+    "url": "https://github.com/jjba23/sift",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460263",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-11-11T23:09:27+00:00",
+    "ai_summary": "Sift는 Lisp, Scheme, Emacs Lisp 언어를 위한 LSP, Lint, 포매팅 기능을 제공하는 도구입니다.\n이 도구는 해당 언어 개발자들의 생산성과 코드 품질 향상에 크게 기여할 것입니다.\n언어별 개발 환경 개선 및 특정 언어 생태계에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50466410",
+    "title": "Adapting CPython for Yk",
+    "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50466410",
+    "summary": "",
+    "score": 53,
+    "published_at": "2026-11-12T12:51:38+00:00",
+    "ai_summary": "CPython을 'Yk'라는 특정 환경에 맞게 조정하는 과정에 대한 심층 분석 기사입니다.\n이는 파이썬 인터프리터의 내부 동작 및 시스템 수준의 최적화에 대한 이해를 요구합니다.\n언어 구현 및 시스템 프로그래밍에 관심 있는 개발자에게 심층적인 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50458849",
+    "title": "Relax: JIT compiler for Rust to reduce build times",
+    "url": "https://makepad.github.io/relax/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50458849",
+    "summary": "",
+    "score": 125,
+    "published_at": "2026-11-11T21:20:01+00:00",
+    "ai_summary": "Relax는 Rust의 빌드 시간을 획기적으로 줄이기 위해 설계된 JIT(Just-In-Time) 컴파일러입니다.\n이는 Rust 개발자들이 겪는 긴 빌드 시간 문제를 해결하여 개발 생산성을 크게 향상시킬 수 있습니다.\n컴파일러 기술과 개발 생산성 향상에 관심 있는 Rust 개발자에게 매우 유용한 도구입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50474311",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474311",
+    "summary": "",
+    "score": 116,
+    "published_at": "2026-11-12T21:09:49+00:00",
+    "ai_summary": "애플의 앱 심사 과정에 AI가 도입되면서 신디사이저 개발자들이 예상치 못한 난관에 부딪히고 있습니다.\nAI 기반의 심사는 기존 방식과 다른 문제들을 일으켜 개발자들의 앱 출시를 지연시키고 있습니다.\n이는 AI 기술 도입이 개발자 워크플로우와 플랫폼 정책에 미치는 영향에 대한 중요한 시사점을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50471431",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50471431",
+    "summary": "",
+    "score": 478,
+    "published_at": "2026-11-12T18:01:48+00:00",
+    "ai_summary": "Google의 대규모 언어 모델인 Gemini의 새로운 버전 또는 관련 프로젝트인 'Gemini 4 Hydrogen'에 대한 소식입니다.\n이는 최신 AI/ML 기술 동향과 대규모 언어 모델(LLM)의 발전 방향을 보여줍니다.\nAI 및 LLM 연구 및 개발에 종사하는 개발자들에게 매우 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50467460",
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "discussion_url": "https://news.ycombinator.com/item?id=50467460",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-11-12T14:12:37+00:00",
+    "ai_summary": "AMD의 차세대 CPU 아키텍처인 Zen 6에 대해 Mike Clark와 심도 깊은 대화를 나눈 기사입니다.\n이는 하드웨어 설계의 방향과 미래 CPU 기술 트렌드를 탐구합니다.\n시스템 프로그래밍, 성능 최적화, 그리고 하드웨어에 대한 이해가 필요한 개발자에게 유익합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50473888",
+    "title": "Announcement: Conductor Is Back",
+    "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+    "discussion_url": "https://news.ycombinator.com/item?id=50473888",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-11-12T20:37:55+00:00",
+    "ai_summary": "넷플릭스의 오픈소스 워크플로우 오케스트레이션 엔진인 'Conductor'가 다시 활발하게 개발되거나 지원이 재개된다는 발표입니다.\n이는 마이크로서비스 아키텍처와 분산 시스템을 구축하는 개발자들에게 중요한 소식입니다.\nDevOps 및 백엔드 개발자들에게 유용한 도구이자 생태계의 긍정적인 변화를 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50465829",
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50465829",
+    "summary": "",
+    "score": 842,
+    "published_at": "2026-11-12T11:46:41+00:00",
+    "ai_summary": "AI 스타트업 Anthropic의 기업공개(IPO)는 AI 산업의 중요한 이정표가 될 것입니다.\n이는 AI 기술 개발 및 투자의 흐름에 큰 영향을 미칠 수 있습니다.\n개발자들은 Anthropic의 성장과 시장 동향을 주시할 필요가 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50474883",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474883",
+    "summary": "",
+    "score": 192,
+    "published_at": "2026-11-12T21:56:11+00:00",
+    "ai_summary": "중국의 최첨단 AI 모델들이 수출 통제 대상 GPU의 흔적을 가지고 있다는 분석입니다.\n이는 AI 개발에 필수적인 하드웨어 공급망과 국제 기술 규제의 영향을 보여줍니다.\n개발자들은 AI 모델의 성능과 접근성에 미치는 하드웨어 제한의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50476069",
+    "title": "Adding RSA Support to swift-nio-ssh",
+    "url": "https://lograker.app/blog/swift-nio-ssh-rsa-support",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476069",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-11-12T23:44:19+00:00",
+    "ai_summary": "Swift-NIO-SSH 라이브러리에 RSA 알고리즘 지원이 추가되었습니다.\n이 업데이트는 Swift 기반 애플리케이션의 SSH 통신 보안을 강화합니다.\nSwift 개발자들은 더욱 안전한 원격 연결 기능을 활용할 수 있게 됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50471281",
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "url": "https://news.ycombinator.com/item?id=50471281",
+    "discussion_url": "https://news.ycombinator.com/item?id=50471281",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-11-12T17:51:23+00:00",
+    "ai_summary": "Kapso는 기업 데이터를 활용한 반복 학습을 돕는 새로운 도구입니다.\n이 플랫폼은 엔터프라이즈 환경에서 데이터 기반의 의사결정과 자동화를 지원합니다.\n데이터 과학자 및 ML 엔지니어에게 유용한 솔루션을 제공할 것으로 기대됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50467297",
+    "title": "Our software engineering interviews are changing a little",
+    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50467297",
+    "summary": "",
+    "score": 177,
+    "published_at": "2026-11-12T14:05:28+00:00",
+    "ai_summary": "우리 회사의 소프트웨어 엔지니어링 면접 방식에 약간의 변화가 생겼습니다.\n이는 채용 프로세스를 개선하고 더 적합한 인재를 찾기 위함입니다.\n구직 중인 개발자들은 변경 사항을 파악하고 면접 준비에 참고해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50471650",
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=50471650",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-11-12T18:15:48+00:00",
+    "ai_summary": "AgentRun은 오픈소스 기반의 자가 개선형 관리 에이전트 프로젝트입니다.\n이는 AI 에이전트의 개발 및 관리를 간소화하고, 지속적인 성능 향상을 목표로 합니다.\n개발자들은 이를 활용하여 다양한 자동화 및 지능형 애플리케이션을 구축할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "summary": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Google의 Gemini Decisions API는 이미지, 텍스트 등 다양한 입력 모드를 분석하여 빠르고 정확한 의사 결정을 지원합니다. 시나리오를 평가하고 유출 심각도 판단 및 청소 조치 권고와 같은 실행 가능한 통찰력을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://flaviocopes.com/grok-bot-1-0/",
+    "title": "What's new in Grok Bot 1.0 (11 minute read)",
+    "url": "https://flaviocopes.com/grok-bot-1-0/",
+    "discussion_url": "https://flaviocopes.com/grok-bot-1-0/",
+    "summary": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Grok Bot 1.0은 공유 가능한 팀 봇, Slack/Microsoft Teams/Meet/Zoom 연동 기능을 추가하여 팀 전체가 소통할 수 있는 개인 비서가 되었습니다. 팀 봇 생성 및 게시, 다양한 플랫폼에 봇을 추가하는 방법 등이 주요 내용입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://runway.com/news/company-news/praxis-1-is-now-available",
+    "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
+    "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+    "discussion_url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+    "summary": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Runway의 27B 파라미터 오픈소스 로봇 공학 모델 Praxis-1이 Apache 2.0으로 출시되었습니다. 이 모델은 비디오 및 동작 예측에서 뛰어난 성능을 보이며, GitHub와 Hugging Face에서 미세 조정 및 NVIDIA 하드웨어 호환이 가능합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+    "title": "Escaping SPACE: Part II (28 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+    "summary": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Perplexity는 SPACE 에이전트 샌드박스에서 12개 모델을 테스트했으며, VM-호스트 격리는 유지되었지만, 일부 모델은 DNS 스푸핑 등을 통해 네트워크 제어를 우회했습니다. CTF 프롬프트가 에이전트의 보안 경계 테스트 집중을 방해한다는 점도 발견했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+    "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+    "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+    "discussion_url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+    "summary": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "MCP 서버는 CLI나 스킬 방식보다 훨씬 많은 토큰을 사용하여 LLM 비용을 크게 증가시킵니다. Tool Search를 구현하여 도구 정의를 지연시키면 토큰 비용을 600개 미만으로 줄여 효율성을 최적화할 수 있습니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+    "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+    "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+    "discussion_url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+    "summary": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "연구자들은 LLM이 가시적인 CoT 대신 필러 토큰만으로 다단계 추론 작업을 수행하도록 훈련시켰으며, 일부 작업에서 기존 모델을 능가했습니다. 이 연구는 LLM의 추론 능력과 한계를 이해하는 데 기여합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://muni.works/research/tang",
+    "title": "Don't Write Kernels, Derive Them (63 minute read)",
+    "url": "https://muni.works/research/tang",
+    "discussion_url": "https://muni.works/research/tang",
+    "summary": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "기존 모델은 수동 작성된 특정 커널에 의존하여 유연성이 제한되지만, Tang의 IR은 뷰와 컴프리헨션을 통해 커널을 즉석에서 파생시켜 사전 정의된 커널 없이도 유연성을 높입니다. 이는 머신러닝 및 고성능 컴퓨팅에서 성능과 이식성에 중요한 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://threadreaderapp.com/thread/2120556423474028576.html",
+    "title": "Browser use has been rolling out in Antigravity (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2120556423474028576.html",
+    "discussion_url": "https://threadreaderapp.com/thread/2120556423474028576.html",
+    "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Antigravity에 브라우저 사용 기능이 추가되어 코드 연구, 작성, 실시간 검증 과정을 통합합니다. 이 기능으로 에이전트가 여러 작업을 동시에 실행할 수 있으며, 사용자 인증 및 다운로드 승인 제어가 가능합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease (9 minute read)",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "discussion_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "summary": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "AlphaGenome 2는 DNA 변이 효과 예측을 개선하여 질병 연구를 돕는 도구입니다. 재훈련 없이 새로운 세포 상태 분석이 가능하며, 기존 버전 대비 변이 식별 능력이 두 배 향상되었습니다. 유전학 및 세포 생물학 분야에서 질병 관련 유전자 돌연변이를 찾아내는 데 활용됩니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://github.com/openai/mcp-extensions",
+    "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins (1 minute read)",
+    "url": "https://github.com/openai/mcp-extensions",
+    "discussion_url": "https://github.com/openai/mcp-extensions",
+    "summary": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits & Bolts demo plugin and a written spec.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "OpenAI가 ChatGPT-native 플러그인을 위한 MCP 확장 기능을 오픈 소스로 공개했습니다. TypeScript 및 Python 패키지는 사이드바 진입점, 파일 뷰어 등 ChatGPT 특정 기능을 추가합니다. 개발자들은 SDK를 사용하여 MCP 서버 및 앱에 플러그인을 구축할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences (11 minute read)",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "discussion_url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "summary": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "A2UI는 에이전트가 대화형 화면으로 응답할 수 있게 하는 생성형 UI를 위한 오픈 프로토콜입니다. 웹, Android, iOS용 렌더러 SDK와 Python, TypeScript, Dart용 에이전트 SDK가 오픈 소스로 제공됩니다. 이 기술은 앱이 안전하게 네이티브 컴포넌트로 UI를 그릴 수 있도록 하여 사용자에게 높은 신뢰도를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://shopify.engineering/generative-discovery",
+    "title": "Shopify's generative discovery model (14 minute read)",
+    "url": "https://shopify.engineering/generative-discovery",
+    "discussion_url": "https://shopify.engineering/generative-discovery",
+    "summary": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "Shopify는 검색 및 추천을 위한 생성형 탐색 모델을 배포했으며, 시맨틱-ID 토큰을 활용하여 제품 개인화 및 관련성을 향상시켰습니다. 이 모델은 온라인 전환율 9.85% 상승 및 검색 관련성 향상 등 긍정적인 성과를 보였습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+    "title": "Why Connections Matter More in AI (5 minute read)",
+    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+    "discussion_url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+    "summary": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "AI 시대에는 코딩 에이전트가 기술 실행을 상품화하고, 최첨단 연구가 더 많은 컴퓨팅 자원을 요구하며, 폐쇄형 개발로 인해 개인 기여 평가가 어려워지면서 전문적인 관계의 중요성이 커지고 있습니다. 이는 AI 분야에서 인적 네트워크와 협력이 더욱 중요해지고 있음을 시사합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Career",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://elevenlabs.io/elevenai",
+    "title": "ElevenAI (Website)",
+    "url": "https://elevenlabs.io/elevenai",
+    "discussion_url": "https://elevenlabs.io/elevenai",
+    "summary": "ElevenAI is a desktop app that helps amplify work using agents.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "ElevenAI는 에이전트를 활용하여 업무 효율을 높이는 데 도움을 주는 데스크톱 앱입니다. 에이전트 기술을 적용한 생산성 향상 도구입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://joost.blog/agents-sharing-user-signals/",
+    "title": "OpenAI wants agents to tell websites where you are (5 minute read)",
+    "url": "https://joost.blog/agents-sharing-user-signals/",
+    "discussion_url": "https://joost.blog/agents-sharing-user-signals/",
+    "summary": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "OpenAI 엔지니어들이 에이전트가 웹사이트에 사용자 정보를 전달하여 봇이 아닌 일반 방문자로 보이게 하는 방안을 제안했습니다. 이는 AI 에이전트의 웹 상호작용 방식과 잠재적 개인정보 보호에 중요한 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+    "title": "Airbnb's AI assistant cut support cost per booking 17% (1 minute read)",
+    "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+    "discussion_url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+    "summary": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "에어비앤비의 AI 비서가 예약당 지원 비용을 17% 이상 절감했습니다. 이 AI는 3분기 문제의 약 40%를 사람 상담원 개입 없이 해결했습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+    "title": "Databricks Genie Agents (13 minute read)",
+    "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+    "discussion_url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+    "summary": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
+    "score": 0,
+    "published_at": "2026-11-13T03:11:30+00:00",
+    "ai_summary": "데이터브릭스 지니 에이전트가 이제 데이터베이스 테이블과 함께 비정형 문서도 분석할 수 있습니다. 엔터프라이즈 도구와 연결하고, 거버넌스 제어 하에 외부와 인사이트를 공유하는 기능도 추가되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Database",
+      "Cloud"
+    ]
+  }
+]
