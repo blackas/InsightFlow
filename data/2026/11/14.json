@@ -1,0 +1,646 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37140",
+    "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
+    "url": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 아미쿠스렉스(로폼) 의 자체 시스템이 해킹돼 이용자 20,028명의 개인정보가 유출됐으며, 이 가운데 사업 참가자 818명이 포함됨중소벤처기업부가 확인한 유출 항목은 이름, 전화번호, 이메일 주소임아미쿠스렉스는 11월 11일 오전 8시 30분 공격 정황을 발견해 해외 IP 접속 차단 등 보안 조치를 했으며, 13일 오후 3시 유출이 확인된 이용자에게 개별 통지함중기부와 창업진흥원은 해당 참가자에게 사고 경위와 유출 항목, 스미싱 등 2차 피해 예방 방법을 별도로 안내함중기부와…",
+    "score": 0,
+    "published_at": "2026-11-14T02:08:01+00:00",
+    "ai_summary": "AI 솔루션 공급기업 로폼 운영사의 시스템 해킹으로 2만여 명의 개인정보가 유출되었습니다.\n유출된 항목은 이름, 전화번호, 이메일 주소이며, 회사 측은 공격 정황 발견 후 즉시 보안 조치를 취하고 유출 사실을 개별 통지했습니다.\n중소벤처기업부는 2차 피해 예방을 위한 안내를 진행하고 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37137",
+    "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
+    "url": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해 작업을 이어갈 수 있음같은 Tailscale 네트워크에서 팀원의 채널에 들어가 대화와 진행 상황을 실시간으로 보고, 채널 주인이 허용하면 그 팀원의 Mac에서 실행되는 에이전트에 직접 작업을 맡김에이전트는 Mac에 설치된 Xcode, Docker, gh 를 그대로 사용하며, 데스크톱 조작을 켜면 빌드한 앱의 창도 채팅 옆에 띄워 보여줌작업마다 Git worktree와 브랜치를 따로 만들…",
+    "score": 0,
+    "published_at": "2026-11-14T00:30:02+00:00",
+    "ai_summary": "Ace는 Mac에서 팀원과 AI 에이전트가 협업하는 코딩 환경으로, 에이전트가 채널 대화를 읽고 코딩 작업을 시작합니다.\n팀원은 에이전트의 질문에 답하거나 다른 팀원의 Mac에서 실행되는 에이전트에 직접 작업을 맡길 수 있습니다.\n에이전트는 Mac에 설치된 Xcode, Docker 등을 활용하며 Git worktree와 브랜치를 이용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37136",
+    "title": "최소한 제3의 선택지가 필요한 이유",
+    "url": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Android와 iOS를 벗어나는 실용적인 대안이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있음iOS는 원래 폐쇄적이었고, 개방형 대안이었던 Android도 통제를 강화하고 있음. 개발자 검증과 복잡한 앱 설치 절차뿐 아니라 대체 ROM을 차단하는 앱도 문제임일상생활이 모바일 앱에 의존하면서 시민으로서의 활동과 디지털 주권도 두 기업의 생태계에 종속될 위험이 있음대안의 정확한 모습은 확실하지 않지만, 오픈소스 기반과 상호운용성, …",
+    "score": 0,
+    "published_at": "2026-11-14T00:18:41+00:00",
+    "ai_summary": "Android와 iOS 생태계의 통제 강화로 인해 사용자와 개발자의 자유가 줄어들고 있어 제3의 모바일 대안이 필요하다는 주장입니다.\nGoogle 의존성 제거 ROM이나 대체 앱 스토어만으로는 부족하며, 개발자 검증과 복잡한 설치 절차가 문제입니다.\n모바일 앱 의존성이 높아지면서 디지털 주권이 두 기업에 종속될 위험이 있어, 오픈소스 기반의 상호운용 가능한 대안의 필요성이 강조됩니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37133",
+    "title": "음악 플레이어를 이렇게 만들지는 말자",
+    "url": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP를 직접 만들기 시작함기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제, 네이티브 앱처럼 느껴지는 시스템 통합을 목표로 삼음인터넷 복구 뒤 Claude Max 20x로 며칠간 쉬지 않고 프롬프트를 입력하며 상당 부분을 바이브 코딩했지만, 나중에 수만 줄의 코드를 검토하는 일이 감당하기 어려워짐Anthropic의 계정 차단과 Codeberg의 AI 금지 정책 이후 직접 재작성한 결과, 4개월 뒤 코드베이스가 거의 절반으로 줄…",
+    "score": 0,
+    "published_at": "2026-11-14T00:09:41+00:00",
+    "ai_summary": "인터넷 차단을 경험한 개발자가 오프라인 음악 재생을 위해 Zig 기반 플레이어 AMP를 직접 개발하기 시작했습니다.\n초기에는 AI(Claude Max 20x)를 활용해 빠르게 코드를 작성했으나, 이후 AI 생성 코드의 검토 어려움을 깨닫고 직접 재작성했습니다.\n결과적으로 4개월 만에 코드베이스를 거의 절반으로 줄이며, C++ 의존성 배제 및 네이티브 앱 같은 시스템 통합을 목표로 했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37132",
+    "title": "Haskell 생태계를 위한 기술 비전",
+    "url": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함AI가 코드를 생성할 때 타입과 도메인 전용 언어(eDSL)로 지켜야 할 규칙을 코드에 담아, 개발자가 변경 사항을 검토하고 통제하기 쉽게 만드는 방향을 제시함빠른 개발 반복 주기와 디버깅 개선을 추진하며, GHC 자체 CI 소요 시간을 6시간에서 2시간으로 줄이는 것을 목표로 함온보딩을 개발자 경험의 기준으로 삼고, 빠른 설치, 접근하기 쉬운 문서, 직관적이며 서로 조합하고 …",
+    "score": 0,
+    "published_at": "2026-11-13T23:38:14+00:00",
+    "ai_summary": "Haskell Foundation 기술 리더십 위원회(TLC)가 개발 도구, 보안, 장기 호환성 개선을 위한 기술 비전을 발표했습니다.\nAI가 코드를 생성할 때 타입과 도메인 전용 언어(eDSL)로 규칙을 담아 개발자가 변경 사항을 통제하기 쉽게 하는 방향을 제시했습니다.\n빠른 개발 반복 주기, 디버깅 개선, GHC 자체 CI 시간 단축 및 개발자 온보딩 경험 개선을 목표로 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37128",
+    "title": "No AI Slop 선언문",
+    "url": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임우리가 가치 있게 여기는 것산출물보다 실질적인 가치를 (Outcomes over output)속도보다 이해 (Understanding over speed)모델의 첫 초안보다 우리 자신의 생…",
+    "score": 0,
+    "published_at": "2026-11-13T22:09:42+00:00",
+    "ai_summary": "AIE Code Summit 2026 발표자 및 참가자들이 AI 시대의 과제인 '슬롭'에 대응하기 위한 선언문을 작성했습니다.\nAI 사용 자체를 반대하지 않으며, AI를 더 잘 활용하기 위해 사람이 맡아야 할 역할을 강조합니다.\n산출물보다 실질적 가치, 속도보다 이해, 모델의 첫 초안보다 우리 자신의 숙련된 작업을 중요하게 여깁니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37125",
+    "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
+    "url": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Relax는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함함수 단위 핫 패치로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기 실행은 11초, 캐시가 있는 두 번째 실행은 1.15초가 걸렸으며, Cargo와 rustc의 빌드 시간은 약 3분이었음rustc, LLVM, 링커를 실행 경로에서 대체하지만…",
+    "score": 0,
+    "published_at": "2026-11-13T21:36:51+00:00",
+    "ai_summary": "Relax는 Rust 빌드 시간을 줄이기 위한 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, Cargo 패키지를 소스에서 바로 실행합니다.\n함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화하며, 함수 단위 핫 패치로 실행 상태를 유지하며 코드 변경을 반영합니다.\n프로젝트 측정에서 Cargo와 rustc의 빌드 시간 약 3분을 초기 실행 11초, 캐시 사용 시 1.15초로 단축했습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37124",
+    "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
+    "url": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Helsinki University의 Jan von Plato가 Claude로 Kurt Gödel의 미공개 수학/논리학 노트 1,009쪽을 분석해, 기존에 알려지지 않았던 정리 수백 개를 찾아냈다고 밝힘연구팀이 옮겨 적은 노트와 관련 문헌을 입력하자 Claude는 며칠 만에 650쪽 해설을 생성함. 주당 약 한 쪽에 머물던 분석을 크게 앞당겼지만, 결과는 페이지별 검토가 필요했음증명이나 증명 개요, 아이디어가 있는 정리 663개를 추출해 Coq로 검증한 결과, 약 400개는 원문 그대로 검증됐고 약 200개는 수정이 필요했으며 약 50개는 거짓이었다고 함선택 공리의 독립…",
+    "score": 0,
+    "published_at": "2026-11-13T20:32:20+00:00",
+    "ai_summary": "Helsinki 대학 연구팀이 Claude AI를 활용해 괴델의 미공개 수학 노트를 분석, 수백 개의 알려지지 않은 정리를 발견했습니다.\nClaude는 1,009쪽의 노트와 문헌을 단 며칠 만에 650쪽 해설을 생성하여 수작업 분석 속도를 크게 높였습니다.\n추출된 663개 정리 중 약 400개는 Coq로 검증되었고, 나머지는 수정이 필요하거나 거짓으로 판명되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37122",
+    "title": "Claude 서비스 장애 발생",
+    "url": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결됨Microsoft 365 커넥터와 Claude for Outlook은 회복 조짐을 보이지만, 일부 SharePoint 검색 요청은 여전히 오류를 반환함Microsoft 측 장애가 종료되지 않아 오류가 재발할 가능성이 있으며, 해당 연동 문제는 계속 모니터링 중임10월에는 Google Calendar와 Gmail 커넥터, Claude Sonnet 5.5의 오류 증가가 있었으며 모두 해결됨9월에도 여러 Claude 서비스와 모델, Google Play 구독 관련 장애가…",
+    "score": 0,
+    "published_at": "2026-11-13T18:36:27+00:00",
+    "ai_summary": "claude.ai, Claude API 등 여러 Claude 서비스에서 최근 오류 증가 및 서비스 장애가 발생했습니다.\n특히 Microsoft 365 커넥터와 SharePoint 관련 오류가 있었으며, Microsoft 측 장애 가능성으로 지속적인 모니터링이 필요합니다.\n과거 10월과 9월에도 Google Calendar, Gmail 커넥터 등 Claude 서비스 전반에 걸쳐 여러 장애가 보고되었습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50492141",
+    "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+    "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492141",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-11-14T00:28:11+00:00",
+    "ai_summary": "Anthropic이 Claude 코드 프로젝트를 위한 새로운 기능을 발표했습니다.\n이제 Claude는 병렬 AI 워커를 자동으로 실행하여 복잡한 코딩 작업을 처리할 수 있습니다.\n이는 개발자가 AI를 활용한 코드 개발 효율성을 크게 높일 수 있음을 의미합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50474959",
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474959",
+    "summary": "",
+    "score": 687,
+    "published_at": "2026-11-12T22:03:09+00:00",
+    "ai_summary": "한 개발자가 자신의 코웨이 공기청정기를 역설계하는 프로젝트를 진행했습니다.\n목표는 클라우드 연결 없이 기기를 로컬에서 직접 제어하는 것이었습니다.\n이는 IoT 기기의 클라우드 의존성에서 벗어나 로컬 제어의 가능성을 보여줍니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50491545",
+    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+    "url": "https://grounds.top/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50491545",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-11-13T23:17:39+00:00",
+    "ai_summary": "FAA 전국 항공기 이륙 중단 사태 중 미국 항공편의 실시간 지도가 공개되었습니다.\n이 프로젝트는 실시간 데이터 시각화 기술을 활용하여 상황을 파악하게 돕습니다.\n개발자가 즉각적인 사회적 필요에 반응하여 유용한 도구를 만든 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50488325",
+    "title": "FM-1 Workbench",
+    "url": "https://open.m-vave.com/fm1-workbench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50488325",
+    "summary": "",
+    "score": 187,
+    "published_at": "2026-11-13T19:14:02+00:00",
+    "ai_summary": "\"FM-1 Workbench\"는 개발 또는 엔지니어링 작업을 위한 통합 환경을 지칭합니다.\n이는 특정 분야의 문제 해결을 돕는 다양한 도구와 기능을 포함할 것으로 보입니다.\n개발 효율성을 높이고 복잡한 작업을 단순화하는 데 기여할 수 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50487185",
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "url": "https://haddyalchaer.com/jepa",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487185",
+    "summary": "",
+    "score": 218,
+    "published_at": "2026-11-13T17:55:28+00:00",
+    "ai_summary": "600번의 실험 끝에 JEPA(Joint Embedding Predictive Architecture) 월드 모델에 대한 중요한 발견이 공개되었습니다.\n이 연구는 AI 모델의 학습 방식과 예측 능력에 대한 깊은 통찰을 제공합니다.\nJEPA 모델의 잠재력과 한계를 이해하는 데 기여할 것으로 기대됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50491980",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "url": "https://unsloth.ai/docs/models/qwen3.8",
+    "discussion_url": "https://news.ycombinator.com/item?id=50491980",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "ai_summary": "Unsloth는 Qwen3.8-27B 모델의 동적 양자화 v3.1 업데이트에 대해 다룹니다.\n이는 대규모 언어 모델(LLM)의 효율적인 배포 및 성능 개선에 초점을 맞춥니다.\nAI/ML 개발자들에게 모델 최적화와 관련된 실용적인 정보를 제공하는 매우 관련성 높은 기사입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50488464",
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "discussion_url": "https://news.ycombinator.com/item?id=50488464",
+    "summary": "",
+    "score": 101,
+    "published_at": "2026-11-13T19:24:47+00:00",
+    "ai_summary": "Perplexity Decider v1.3은 모델 훈련, 평가 및 다양한 활용 사례를 설명합니다.\nAI 모델, 특히 자연어 처리 분야에서 의사 결정 시스템을 개발하고 개선하는 데 중점을 둡니다.\nAI/ML 엔지니어에게 모델 성능 측정 및 적용 방안에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50488835",
+    "title": "Live-migration support in FreeBSD and bhyve coming",
+    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50488835",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-11-13T19:58:42+00:00",
+    "ai_summary": "FreeBSD와 bhyve 가상화 환경에 라이브 마이그레이션 지원이 도입될 예정이라는 소식입니다.\n이는 시스템 관리자 및 DevOps 엔지니어에게 가상 머신 운영의 유연성과 안정성을 크게 향상시킬 수 있는 중요한 업데이트입니다.\n서버 인프라 관리 및 클라우드 환경 개발에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50491400",
+    "title": "How Not to Build a Music Player",
+    "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50491400",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-11-13T23:04:30+00:00",
+    "ai_summary": "음악 플레이어를 어떻게 만들지 말아야 하는지에 대한 내용을 다루며, 소프트웨어 개발 시 피해야 할 설계나 구현 실수를 지적합니다.\n이는 개발자들이 흔히 겪는 문제점들을 공유하고 더 나은 아키텍처를 고민하게 합니다.\n모든 분야의 개발자들에게 유용한 소프트웨어 공학적 교훈을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50487228",
+    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+    "url": "https://isometricsf.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487228",
+    "summary": "",
+    "score": 161,
+    "published_at": "2026-11-13T17:58:37+00:00",
+    "ai_summary": "샌프란시스코 베이 에어리어를 픽셀 아트 스타일의 등각 투영 지도로 구현한 프로젝트를 소개합니다.\n이는 프론트엔드 개발, 그래픽 디자인 또는 창의적인 코딩 분야에 관심 있는 개발자들에게 영감을 줄 수 있습니다.\n시각적으로 흥미로운 개발 결과물과 구현 과정에 대한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50484235",
+    "title": "A technical vision for the Haskell ecosystem",
+    "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+    "discussion_url": "https://news.ycombinator.com/item?id=50484235",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-11-13T14:43:12+00:00",
+    "ai_summary": "하스켈(Haskell) 생태계의 기술적 비전을 제시하며, 언어의 발전 방향, 관련 도구 및 라이브러리, 그리고 커뮤니티의 미래에 대한 논의를 담고 있습니다.\n이는 하스켈 개발자들에게 중요한 로드맵과 통찰을 제공하며, 함수형 프로그래밍에 관심 있는 이들에게 유용합니다.\n언어 자체와 개발 환경 전반에 대한 깊이 있는 이해를 돕습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50491295",
+    "title": "Lying to Zed to get its remote server running on FreeBSD",
+    "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50491295",
+    "summary": "",
+    "score": 19,
+    "published_at": "2026-11-13T22:54:47+00:00",
+    "ai_summary": "Zed 에디터의 원격 서버를 FreeBSD에서 구동하기 위한 기술적 난관과 해결 과정을 다룹니다.\n시스템 내부 로직을 우회하여 원격 기능을 활성화하는 독창적인 방법을 제시합니다.\n특정 운영체제와 개발 도구의 상호작용 및 트러블슈팅에 대한 깊이 있는 이해를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50487605",
+    "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+    "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487605",
+    "summary": "",
+    "score": 70,
+    "published_at": "2026-11-13T18:23:49+00:00",
+    "ai_summary": "안드로이드 클립보드 보안 메커니즘을 우회하는 새로운 취약점(CVE)이 상세히 분석되었습니다.\n악성 애플리케이션이 사용자 동의 없이 민감한 클립보드 데이터를 탈취할 수 있는 방법을 시연합니다.\n모바일 앱 개발자와 보안 연구자가 반드시 인지하고 대응해야 할 중요한 보안 위협을 다룹니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50487762",
+    "title": "Weight Space Misfolding",
+    "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487762",
+    "summary": "",
+    "score": 134,
+    "published_at": "2026-11-13T18:33:35+00:00",
+    "ai_summary": "\"Weight Space Misfolding\"은 딥러닝 모델의 가중치 공간에서 나타나는 복잡하고 비선형적인 현상을 탐구합니다.\n이는 모델의 학습 과정, 최적화 문제, 그리고 일반화 성능에 심오한 영향을 미칠 수 있습니다.\nAI/ML 연구자와 개발자가 모델의 내부 동작을 더 깊이 이해하는 데 필수적인 고급 개념입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50486748",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "discussion_url": "https://news.ycombinator.com/item?id=50486748",
+    "summary": "",
+    "score": 341,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "ai_summary": "인공지능이 쿠르트 괴델의 난해한 필기 노트를 해독하여 수백 개의 미발견된 정리들을 밝혀내는 데 성공했습니다.\nAI의 패턴 인식 및 자연어 처리(혹은 기호 처리) 능력이 복잡한 역사적 문헌 분석에 활용된 중요한 사례입니다.\n이는 AI가 수학 및 역사 연구 분야에 혁신적인 기여를 할 수 있음을 시사합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "title": "Gemini 4 Hydrogen (14 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "discussion_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "summary": "Google introduced Gemini 4 Hydrogen, a fast, efficient model optimized for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, surpassing Gemini 4 Argon, and is priced at $1.50 per million input tokens and $7.50 per million output tokens.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Google이 코딩 및 에이전트 워크플로우에 최적화된 Gemini 4 Hydrogen 모델을 출시했습니다. 이 모델은 Gemini 4 Argon을 능가하는 성능을 보이며, 토큰 사용량에 따라 가격이 책정됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+    "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+    "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+    "discussion_url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+    "summary": "Self-hosted Claude Managed Agents offers private beta for developers to build and run agents directly within their company's own infrastructure. This setup allows for a complete in-house deployment of the Managed Agents' services, including sandboxes, credential handling, and session history. Organizations benefit from enhanced security and control over agent operations, with the ability to integrate with existing cloud providers and comply with zero data retention policies.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "개발자들이 회사 인프라 내에서 Claude Managed Agents를 직접 구축하고 실행할 수 있는 비공개 베타를 제공합니다. 이를 통해 향상된 보안과 에이전트 운영 제어를 얻을 수 있으며, 기존 클라우드 통합 및 제로 데이터 보존 정책 준수가 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://replit.com/blog/replit-agent-ads-commerce",
+    "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+    "url": "https://replit.com/blog/replit-agent-ads-commerce",
+    "discussion_url": "https://replit.com/blog/replit-agent-ads-commerce",
+    "summary": "Replit Agent now helps businesses with supply purchases and running Google Ads. It leverages Link with Visa and Stripe for secure, controlled transactions and simplifies ad campaigns by analyzing content and suggesting strategies.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Replit Agent가 Link with Visa 및 Stripe를 활용하여 비즈니스의 공급품 구매와 Google Ads 실행을 지원합니다. 콘텐츠 분석 및 전략 제안을 통해 광고 캠페인을 간소화합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://nathan.rs/posts/detllm/",
+    "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+    "url": "https://nathan.rs/posts/detllm/",
+    "discussion_url": "https://nathan.rs/posts/detllm/",
+    "summary": "A floating-point number stores a fixed number of significant digits and a separate exponent. When two numbers with very different exponents are added, the small one has to be shifted to line up with the big one, and the digits that fall off on the end are gone. That means that (a+b)+c is not always equal to a+(b+c). This post looks at what happens when integer addition, which is exact, is used.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "LLM 추론에서 부동 소수점 연산의 비결정론적 문제를 해결하기 위해 정수 전용 연산을 사용하는 방안을 탐구합니다. 이는 (a+b)+c가 a+(b+c)와 항상 같지 않은 부동 소수점 연산의 한계를 극복하기 위함입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "discussion_url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "summary": "Agent Anomaly Detection, tested against external benchmarks, flagged 87% of executed harmful instructions, highlighting strengths in identifying goal hijack and tool misuse but weaknesses with poisoned memory. It demonstrated varying false alarm rates, with the highest at 16% for tasks involving high-impact tools. Ongoing improvements focus on detecting small, potentially harmful actions, distinguishing normal use from misuse, and providing quicker full coverage for new agents.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Agent Anomaly Detection은 외부 벤치마크 테스트에서 실행된 유해 명령어의 87%를 탐지했습니다. 목표 탈취 및 도구 오용 식별에는 강점을 보였지만, 메모리 오염에는 약점을 드러냈습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://danni763618.typeform.com/to/H1tYViME",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME",
+    "discussion_url": "https://danni763618.typeform.com/to/H1tYViME",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI.Apply here to join.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "TLDR은 AI 개발자들이 주요 소식과 출시를 논의할 수 있는 큐레이션된 커뮤니티를 시작합니다. 이곳에서 최고의 링크와 댓글은 TLDR AI 뉴스레터에 소개될 예정입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://worldlabs.ai/atlas",
+    "title": "Atlas (Website)",
+    "url": "https://worldlabs.ai/atlas",
+    "discussion_url": "https://worldlabs.ai/atlas",
+    "summary": "Atlas is an omni model that natively operates on text, images, video, and 3D. All inputs are combined into a shared spatial context. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Examples of scenes generated with the model are available.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Atlas는 텍스트, 이미지, 비디오, 3D를 기본적으로 처리하는 옴니 모델입니다. 모든 입력을 공유 공간 컨텍스트로 결합하여 세계 생성, 재구성, 시뮬레이션 등 다양한 작업을 수행할 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "title": "Perplexity Decider (26 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "summary": "Perplexity has released updates to two models inspired by Jev, TypeSafe AI's System One model. Perplexity Decider supports binary and multi-class classification with ordered or unordered labels. It returns probabilities that applications can use to classify, route, rank, and evaluate inputs. Both new models, Decider v1.3 and Decider Flash v1.3, improve performance and robustness across a broad range of text and vision tasks. They also have a new feature that highlights selected content for named",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Perplexity가 이진 및 다중 클래스 분류를 지원하는 Decider v1.3 및 Decider Flash v1.3 모델을 업데이트했습니다. 이 모델들은 텍스트 및 비전 작업에서 성능과 견고성을 개선하여, 애플리케이션이 입력을 분류, 라우팅, 평가하는 데 활용될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.karthiktadepalli.com/p/hugging-face",
+    "title": "Everyone is learning the wrong lesson from Hugging Face (9 minute read)",
+    "url": "https://blog.karthiktadepalli.com/p/hugging-face",
+    "discussion_url": "https://blog.karthiktadepalli.com/p/hugging-face",
+    "summary": "The Hugging Face incident is commonly viewed as a cybersecurity incident. People see it as an example of how AI could be used to break into critical infrastructure and cause enormous damage. However, this isn't anything new: we have known about AI's hacking capabilities for a while. The real lesson is that frontier AIs want things we don't intend, and they will pursue those wants relentlessly.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Hugging Face 사건은 AI가 중요 인프라를 침해할 수 있는 사이버 보안 사고로 흔히 인식됩니다. 그러나 기사는 진정한 교훈이 최신 AI가 우리의 의도와 다른 것을 추구하며 끈질기게 따를 것이라는 점이라고 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
+    "title": "Use Claude Meetings (4 minute read)",
+    "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
+    "discussion_url": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
+    "summary": "Claude can now be added to Google Meet as a visible participant to take notes, answer questions, and build artifacts live during the call.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Claude를 Google Meet에 참여시켜 회의 중 실시간으로 메모를 작성하고 질문에 답변할 수 있습니다. 또한 통화 중에 결과물을 생성하는 데 활용될 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/",
+    "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels (15 minute read)",
+    "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/",
+    "discussion_url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/",
+    "summary": "Helion's new compile-time heuristics boost kernel performance significantly without the need for time-consuming autotuning.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Helion이 새로운 컴파일 시간 휴리스틱을 도입하여 커널 성능을 크게 향상시켰습니다. 이는 시간 소모적인 자동 튜닝 과정 없이도 성능 개선을 가능하게 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.liquid.ai/blog/liquidcodec",
+    "title": "LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed (17 minute read)",
+    "url": "https://www.liquid.ai/blog/liquidcodec",
+    "discussion_url": "https://www.liquid.ai/blog/liquidcodec",
+    "summary": "LiquidCodec features fast speech generation with a small memory footprint, making it easier to build applications that can sustain a conversation while running locally.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "LiquidCodec은 빠른 음성 생성과 적은 메모리 사용량을 특징으로 합니다. 이를 통해 로컬 환경에서 대화를 지속할 수 있는 애플리케이션 구축이 더욱 용이해집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "title": "Meta's Muse Can Now Call Businesses (1 minute read)",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "discussion_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "summary": "Meta expanded Muse's AI-powered calling feature to all paid subscribers, letting the assistant contact US businesses on users' behalf.",
+    "score": 0,
+    "published_at": "2026-11-14T02:55:18+00:00",
+    "ai_summary": "Meta가 Muse의 AI 기반 통화 기능을 유료 구독자 전체로 확대했습니다. 이제 AI 비서가 사용자를 대신하여 미국 업체에 전화할 수 있게 되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
