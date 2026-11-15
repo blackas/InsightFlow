@@ -1,0 +1,469 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37185",
+    "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
+    "url": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI와 웹 인프라 서비스의 결합은 인터넷의 중심을 바꾸고 있다. 개인도 이제 블로그나 SNS 같은 기존 플랫폼에 의존하지 않고, 자신만의 웹앱과 온라인 공간을 쉽게 만들고 운영할 수 있다. 각자의 필요에 맞게 만든 공간들이 서로 연결된다면, 새로운 형태의 인터넷과 SNS가 등장할 수 있다.",
+    "score": 0,
+    "published_at": "2026-11-15T01:24:24+00:00",
+    "ai_summary": "AI와 웹 인프라 서비스의 결합으로 인터넷 패러다임이 변화하고 있습니다.\n개인이 기존 플랫폼 의존 없이 자신만의 웹앱과 온라인 공간을 쉽게 구축, 운영할 수 있게 됩니다.\n이는 새로운 형태의 인터넷과 SNS를 탄생시킬 잠재력을 가집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37183",
+    "title": "ChatGPT 내 비즈니스 기능 소개",
+    "url": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI가 기업이 ChatGPT에서 비즈니스 소유권을 등록하고 정보를 관리하며 고객과 소통할 수 있는 새로운 비즈니스 기능을 베타로 공개함. 매주 ChatGPT를 사용하는 12억 명의 사용자와 기업을 연결하는 것이 목표기업은 비즈니스 허브(Business Hub) 에서 소유권을 인증하고 주요 정보와 제품 피드를 직접 관리할 수 있음. 제품 피드에는 가격과 판매 가능 여부를 포함할 수 있으며, Shopify 판매자는 기존 스토어를 연결해 인증을 간소화할 수 있음기업은 ChatGPT에서 자사가 언급된 횟수, 웹사이트 클릭 수, 자사 웹사이트가 인용된 대화의 주요 주제 등을 집계된 인사이트로 확인할 수 있음. 개별 사용자 대화는 공유되지 않으며 충분한 상호작용이 쌓인 경우에만 통계가 제공됨…",
+    "score": 0,
+    "published_at": "2026-11-15T00:50:01+00:00",
+    "ai_summary": "OpenAI가 기업을 위한 ChatGPT 비즈니스 기능을 베타로 출시했습니다.\n기업은 비즈니스 허브에서 소유권 인증, 정보 및 제품 피드를 관리할 수 있습니다.\nChatGPT 내 언급 횟수, 웹사이트 클릭 등 집계된 인사이트도 제공됩니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37181",
+    "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
+    "url": "https://news.hada.io/topic?id=37181&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37181&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "React 컴포넌트와 훅으로 텍스트 UI와 키 입력을 정의하면, Text.js가 브라우저 개발자 도구의 Console 탭에 앱을 렌더링Box와 Text로 레이아웃을 잡고 표, 차트, 폼, 명령 팔레트를 조합해 키보드로 조작하는 대시보드나 도구를 제작React 상태가 바뀌면 Yoga로 화면을 문자 격자에 배치하고, 변경된 프레임만 console.log() 한 번으로 출력파일 기반 라우팅으로 app/ 아래에 페이지와 공통 레이아웃을 정의하고, route.ts로 같은 프로젝트에 API를 추가DB 조회가 필요한 페이지는 서버에서 렌더링해 화면을 콘솔로 스트리밍하며, 브…",
+    "score": 0,
+    "published_at": "2026-11-15T00:30:02+00:00",
+    "ai_summary": "Text.js는 React 기반으로 브라우저 개발자 도구의 콘솔 탭에서 동작하는 앱을 만듭니다.\nReact 컴포넌트와 훅으로 텍스트 UI, 키 입력을 정의하여 대시보드나 도구를 제작합니다.\n파일 기반 라우팅과 서버 렌더링 지원으로 콘솔 앱 개발을 효율화합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37180",
+    "title": "OpenAI, 범용 모델이 로봇을 제어하기 시작하면서 로보틱스 팀 해체",
+    "url": "https://news.hada.io/topic?id=37180&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37180&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI가 독립 로보틱스 팀을 해체하고 인력을 기존 연구 및 응용 조직으로 재배치함. 회사는 로봇 개발 철수가 아니라 범용 로봇 개발을 가속하기 위한 개편이라고 밝힘개편의 계기는 GPT-6 Astra 등 범용 모델을 로봇에 직접 적용할 수 있다는 발견임. 로봇 전용 모델을 별도로 개발하기보다 언어, 코드, 시각 모델의 역량을 활용하는 방식에 무게를 둠Nvidia 연구에서 Astra 기반 에이전트는 시뮬레이션 조작 벤치마크 성공률 74.8% 를 기록해 최고 로봇 특화 모델의 51.0%를 웃돌았음. 실제 로봇이 아닌 디지털 환경의 결과임전문…",
+    "score": 0,
+    "published_at": "2026-11-14T23:34:39+00:00",
+    "ai_summary": "OpenAI는 로보틱스 팀을 해체하고 인력을 기존 연구 조직으로 재배치했습니다.\n이는 GPT-6 Astra 같은 범용 모델이 로봇 제어에 직접 적용될 수 있음을 발견했기 때문입니다.\n로봇 전용 모델 대신 범용 모델의 역량을 활용해 개발을 가속하려는 전략입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37175",
+    "title": "Microsoft 장애, 고객들에게 Microsoft 의존도를 뼈저리게 깨닫게 하다",
+    "url": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Microsoft 365의 장시간 장애로 이메일, Teams 메시징, 파일 접근, Copilot 등 여러 업무 서비스가 영향을 받으면서, 기업들이 Microsoft 생태계에 얼마나 깊이 의존하는지 드러남Microsoft는 11월 12일 18:26 GMT에 장애가 시작됐다고 밝혔으며, Exchange Online, Microsoft 365 Education 등에서 문제가 발생함. 13일 14:01 GMT에는 서비스 가용성이 개선되고 있다고 발표함Nextcloud 공동 창업자 Jos Poortvliet은 단일 공급업체에 모든 시스템을 의존하면 장애 발생 시 다른 서비스로 신속하게 전환하거나, 예비 시스템을 가동하거나, 외부 연결을 끊고 업무를 지속하기 어렵다고 지적함…",
+    "score": 0,
+    "published_at": "2026-11-14T21:33:00+00:00",
+    "ai_summary": "Microsoft 365 장시간 장애로 이메일, Teams 등 업무 서비스가 마비되었습니다.\n이는 기업들의 Microsoft 생태계에 대한 깊은 의존도를 여실히 드러냈습니다.\n단일 공급업체 의존이 장애 시 비즈니스 연속성에 큰 위험을 초래함을 보여주었습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50499017",
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499017",
+    "summary": "",
+    "score": 662,
+    "published_at": "2026-11-14T17:43:10+00:00",
+    "ai_summary": "Lovable 앱에서 여권 정보와 20만 개 이상의 비공개 메시지가 노출되는 심각한 보안 취약점이 발견되었습니다.\n이는 사용자 개인 정보 보호에 대한 중대한 위협이며, 개발자들이 보안을 강화해야 할 필요성을 시사합니다.\n앱 개발 시 보안 설계 및 구현의 중요성을 강조합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50501594",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "discussion_url": "https://news.ycombinator.com/item?id=50501594",
+    "summary": "",
+    "score": 98,
+    "published_at": "2026-11-14T22:22:49+00:00",
+    "ai_summary": "이 기사는 스티브 워즈니악이 애플 1 컴퓨터를 제작하기 전에 어떻게 BASIC 인터프리터를 개발했는지에 대한 질문을 던집니다.\n이는 하드웨어 제약이 심했던 초기 컴퓨터 시대에 소프트웨어 개발자들이 직면했던 도전을 보여줍니다.\n워즈니악의 혁신적인 접근 방식과 초기 프로그래밍 언어의 탄생 비화를 조명합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50499038",
+    "title": "A family tree of software job titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499038",
+    "summary": "",
+    "score": 216,
+    "published_at": "2026-11-14T17:45:19+00:00",
+    "ai_summary": "이 기사는 소프트웨어 산업 내 다양한 직무 타이틀의 계보와 진화를 탐구합니다.\n시대에 따라 변화하고 분화된 개발자 및 관련 직업들의 명칭을 체계적으로 정리합니다.\n이는 개발자들이 자신의 경력 경로를 이해하고 미래 직업 선택에 도움을 줄 수 있는 유용한 정보를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50496976",
+    "title": "KDE: The documentary [video]",
+    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496976",
+    "summary": "",
+    "score": 391,
+    "published_at": "2026-11-14T13:43:28+00:00",
+    "ai_summary": "KDE에 대한 다큐멘터리 영상으로, 오픈소스 데스크톱 환경인 KDE의 역사와 개발 과정을 조명합니다.\n이 영상은 KDE 프로젝트의 탄생부터 현재까지의 여정, 그리고 개발자 커뮤니티의 노력과 기여를 담고 있습니다.\n오픈소스 소프트웨어 개발과 커뮤니티의 중요성을 이해하는 데 도움이 됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50497892",
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497892",
+    "summary": "",
+    "score": 209,
+    "published_at": "2026-11-14T15:40:52+00:00",
+    "ai_summary": "파이썬 패키지 인덱스(PyPI)의 프로젝트 페이지가 보안 신호를 더욱 명확하게 표시하도록 재설계되어 공개되었습니다.\n이제 개발자들은 패키지의 보안 상태를 더 쉽게 파악하고 안전한 라이브러리를 선택할 수 있게 됩니다.\n이는 파이썬 생태계의 보안 강화와 개발자들의 안전한 패키지 사용을 돕기 위한 중요한 업데이트입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50483431",
+    "title": "500 Lines or Less A 3D Modeller",
+    "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50483431",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-11-13T13:47:42+00:00",
+    "ai_summary": "'500줄 이하' 시리즈의 일환으로, 3D 모델러를 500줄 미만의 코드로 구현하는 방법을 다룹니다.\n이 기사는 복잡한 기능을 최소한의 코드로 구현하는 설계 및 개발 기법을 보여줍니다.\n간결하면서도 효율적인 소프트웨어 구현에 관심 있는 개발자들에게 유용한 학습 자료가 될 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50440709",
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50440709",
+    "summary": "",
+    "score": 515,
+    "published_at": "2026-11-10T14:16:05+00:00",
+    "ai_summary": "이 기사는 비싼 라즈베리 파이 대신 오래된 스마트폰을 활용하여 프로젝트를 구현하는 아이디어를 제시합니다.\n구형 스마트폰의 재활용 가능성을 탐구하며, 저렴한 비용으로 컴퓨팅 자원을 확보하는 방법을 다룹니다.\n임베디드 시스템이나 IoT 프로젝트를 시작하려는 개발자들에게 실용적인 대안을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50497589",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497589",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-11-14T15:04:15+00:00",
+    "ai_summary": "DeepSeek V3는 대규모 언어 모델이며, 이를 Jax 라이브러리를 사용하여 약 200줄의 코드로 구현한 프로젝트입니다.\n이는 모델의 핵심 구조를 간결하게 이해하고 실험하는 데 유용하며, AI/ML 개발자들에게 실용적인 인사이트를 제공합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50496811",
+    "title": "Advancing science and engineering with Antigravity's /teamwork",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496811",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-11-14T13:20:43+00:00",
+    "ai_summary": "Antigravity의 '/teamwork' 솔루션은 과학 및 공학 분야에서 협업을 촉진하고 프로젝트 관리를 개선하는 데 중점을 둡니다.\n이는 팀이 복잡한 연구 및 개발 작업을 효율적으로 수행하고, 지식을 공유하며, 생산성을 높일 수 있도록 돕습니다.\n과학 기술 분야의 개발자들에게 유용한 도구 또는 방법론에 대한 인사이트를 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50453901",
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50453901",
+    "summary": "",
+    "score": 73,
+    "published_at": "2026-11-11T14:32:09+00:00",
+    "ai_summary": "시게이트의 새로운 하이브리드 드라이브 출시는 SSD와 HDD의 장점을 결합하려 하지만, 과거 하이브리드 기술이 겪었던 성능 및 복잡성 문제에 대한 의문을 다시 불러일으킵니다.\n데이터 저장 장치의 효율성과 비용 간 균형에 대한 논의를 촉발하며, 스토리지 솔루션 선택에 대한 고려 사항을 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50441444",
+    "title": "Generative AI uses more energy on non-English text",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50441444",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-11-10T15:07:28+00:00",
+    "ai_summary": "생성형 AI, 특히 LLM이 영어 이외의 언어 텍스트를 처리할 때 더 많은 에너지를 소비한다는 연구 결과입니다.\n이는 다국어 AI 모델의 환경적 지속 가능성과 효율성 최적화에 중요한 고려사항을 제시하며,\nAI 개발에 있어 언어적 편향과 자원 소모 문제를 다룹니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50416011",
+    "title": "Reverse engineering a vintage diode-transistor logic chip",
+    "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50416011",
+    "summary": "",
+    "score": 96,
+    "published_at": "2026-11-08T19:03:48+00:00",
+    "ai_summary": "오래된 다이오드-트랜지스터 로직(DTL) 칩을 역설계하는 과정에 대한 기사입니다.\n이는 컴퓨터 하드웨어의 초기 설계 원리와 작동 방식을 깊이 있게 이해하는 데 도움을 줍니다.\n임베디드 시스템, 저수준 프로그래밍, 하드웨어 보안 분야의 개발자들에게 유용한 기술적 통찰력을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50467278",
+    "title": "Testing a trash can Faraday cage",
+    "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+    "discussion_url": "https://news.ycombinator.com/item?id=50467278",
+    "summary": "",
+    "score": 67,
+    "published_at": "2026-11-12T14:04:27+00:00",
+    "ai_summary": "이 기사는 쓰레기통을 활용하여 패러데이 케이지를 만들고 그 성능을 테스트한 실험에 관한 내용입니다.\n전자기파 차단 효과를 직접 확인하며, 물리적 보안 및 데이터 보호에 대한 실용적인 접근법을 탐구합니다.\nIoT 기기 보안이나 민감한 전자 장비 보호에 관심 있는 개발자들에게 유용한 정보를 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50496051",
+    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496051",
+    "summary": "",
+    "score": 168,
+    "published_at": "2026-11-14T11:13:17+00:00",
+    "ai_summary": "Google의 Project Zero 팀은 보고된 취약점에 대해 90일 후 공개 정책을 발표했습니다.\n이는 소프트웨어 공급업체가 패치 개발에 필요한 시간을 제공하면서도, 보안 결함 공개의 투명성을 유지하기 위함입니다.\n개발자들은 이 정책을 통해 보안 패치 및 업데이트의 중요성을 인지해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50497132",
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497132",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-11-14T14:05:54+00:00",
+    "ai_summary": "Rust와 ratatui 라이브러리를 사용하여 개발된 터미널 기반의 유휴 공장 게임이 공개되었습니다.\n이 프로젝트는 Rust 언어의 활용과 터미널 UI 개발 기술을 선보이며, 오픈소스 개발에 대한 영감을 제공합니다.\nRust 개발자와 터미널 애플리케이션에 관심 있는 이들에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50499723",
+    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+    "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499723",
+    "summary": "",
+    "score": 198,
+    "published_at": "2026-11-14T18:56:47+00:00",
+    "ai_summary": "CBC 조사 후 LinkedIn과 Monster에서 1,000개 이상의 가짜 채용 공고가 삭제되었습니다.\n이는 온라인 채용 플랫폼의 신뢰성과 구직자들의 보안에 대한 경각심을 높입니다.\n개발자를 포함한 구직자들은 채용 정보의 진위 여부를 신중하게 확인해야 합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50497416",
+    "title": "Demystifying phone unlocking tools: A technical overview",
+    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497416",
+    "summary": "",
+    "score": 84,
+    "published_at": "2026-11-14T14:44:28+00:00",
+    "ai_summary": "이 기사는 휴대폰 잠금 해제 도구의 기술적 작동 방식에 대한 심층 분석을 제공합니다.\n다양한 잠금 해제 방법과 그 과정에서 사용되는 기술적 취약점을 설명합니다.\n모바일 보안, 포렌식, 그리고 장치 해킹 기술에 관심 있는 개발자에게 유용한 정보입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50496885",
+    "title": "A visual explanation of reinforcement learning",
+    "url": "https://aatishb.com/myriad/how-brains-learn/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496885",
+    "summary": "",
+    "score": 126,
+    "published_at": "2026-11-14T13:31:06+00:00",
+    "ai_summary": "강화 학습의 복잡한 개념을 시각적인 설명을 통해 쉽게 이해할 수 있도록 돕습니다.\n에이전트, 환경, 보상 등 핵심 구성 요소를 명확하게 보여주며 학습 과정을 직관적으로 파악하게 합니다.\nAI/ML 분야에 입문하거나 심화 학습을 원하는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50496602",
+    "title": "Tech companies are trying to shift the concept of privacy again",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496602",
+    "summary": "",
+    "score": 471,
+    "published_at": "2026-11-14T12:45:45+00:00",
+    "ai_summary": "기술 기업들이 개인 정보 보호 개념을 재정의하려는 시도에 대해 분석합니다.\n이는 사용자 데이터 처리 방식과 개인 정보 보호 정책의 변화를 초래할 수 있습니다.\n개발자들은 이러한 변화가 소프트웨어 설계 및 데이터 관리 책임에 미칠 영향에 주목해야 합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50503255",
+    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "discussion_url": "https://news.ycombinator.com/item?id=50503255",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-11-15T02:00:54+00:00",
+    "ai_summary": "항소 법원에 ALPR(자동 번호판 인식) 검색에 대한 영장 요구를 촉구하는 내용입니다.\n이는 감시 기술의 오용과 시민의 사생활 침해 가능성에 대한 우려를 제기합니다.\n개발자들은 이러한 기술의 윤리적, 법적 함의를 인지해야 합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50478632",
+    "title": "Let's Write a PostScript Interpreter",
+    "url": "https://beyondloom.com/blog/postscript.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50478632",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-11-13T05:12:56+00:00",
+    "ai_summary": "PostScript 인터프리터를 직접 개발하는 과정을 상세히 다룹니다.\n언어 설계, 구문 분석, 실행 환경 구축 등 핵심 프로그래밍 개념을 탐구합니다.\n컴파일러 및 시스템 프로그래밍에 관심 있는 개발자에게 매우 유익한 내용입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50498295",
+    "title": "Creating a self booting ZIP archive",
+    "url": "https://goliath32.com/blog/ziphead.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498295",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-11-14T16:29:05+00:00",
+    "ai_summary": "스스로 부팅 가능한 ZIP 아카이브를 생성하는 기술적인 방법을 설명합니다.\n파일 시스템, 부팅 프로세스, 시스템 유틸리티 개발과 관련된 심도 있는 내용을 포함합니다.\n저수준 시스템 개발이나 커스텀 툴링에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "Tool"
+    ]
+  }
+]
