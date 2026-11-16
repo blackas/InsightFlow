@@ -1,0 +1,523 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37245",
+    "title": "X.com을 처음부터 다시 구축하기 - 서버 3개를 하나로",
+    "url": "https://news.hada.io/topic?id=37245&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37245&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "X가 기존 웹 애플리케이션을 5명의 엔지니어와 AI 코딩 에이전트를 활용해 6개월 이내에 재구축함. 기존의 사용자·검색 크롤러·링크 미리보기용 서버 3개를 하나로 통합했으며, 비로그인 서비스 전환을 완료하고 로그인 서비스도 국가별로 순차 전환 중임기존 React 기반 클라이언트 렌더링은 HTML 셸과 JavaScript를 다운로드·실행한 뒤 GraphQL 데이터를 요청해야 했음. 새 구조는 스트리밍 서버 렌더링(SSR) 으로 첫 응답부터 실제 콘텐츠를 전달하고, 서버에서 가져온 데이터를 브라우저가 재사용하도록 변경함느린 네트워크의 로그인 프로필 테스트에서 첫 게시물 표시 시간이 23.9초에서 2.7초로 단축됨. 별도 벤치마크에서는 프로필·게시물이 8~13배 빨리 표시됐으며, 페이지 전체의 압축 JavaScript 다운로드량도 4.1~4.8MB에서 1.3~2.3MB로 감소함…",
+    "score": 0,
+    "published_at": "2026-11-16T01:20:02+00:00",
+    "ai_summary": "X(트위터)는 5명의 엔지니어와 AI 코딩 에이전트로 웹 앱을 6개월 내 재구축, 기존 3개 서버를 통합함.\n스트리밍 SSR 도입으로 첫 콘텐츠 전달을 가속하고 브라우저 데이터 재사용률을 높여 성능을 크게 개선함.\n느린 네트워크에서 첫 게시물 표시 시간이 23.9초에서 2.7초로 단축되고, JS 다운로드량도 감소함.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37244",
+    "title": "새로운 풀스택 디자이너 - Figma 스케치에서 작동하는 데모까지",
+    "url": "https://news.hada.io/topic?id=37244&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37244&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI가 구현을 가속하면서 디자이너의 역할은 직접 만들고 시험하며 선별하는 쪽으로 확장되고 있음. Shopify의 제품 디자인 스튜디오는 Figma의 정적인 화면에서 Codex와 Claude Code로 만든 작동하는 데모로 빠르게 이동함최종 품질과 판단은 여전히 사람의 책임임. AI에 복잡한 작업을 한꺼번에 맡기기보다 구성 요소로 나누고, 결과를 반복적으로 검토하며 원하는 시각적 품질과 상호작용으로 이끌어야 함Shopify는 관리자 화면을 새롭게 다듬는 동시에 Sidekick과의 대화로 스토어를 조작하는 경험을 탐색함. 디자이너가 직접 만드는 프로토타입은 아이디어를 공유하고 조직의 합의를 얻는 수단이지만, 프로덕션 코드는 아님…",
+    "score": 0,
+    "published_at": "2026-11-16T01:00:02+00:00",
+    "ai_summary": "AI 가속으로 디자이너 역할이 Figma 스케치에서 작동하는 데모 구현까지 확장됨.\nShopify는 Codex와 Claude Code를 활용해 프로토타입 제작을 가속하지만, 최종 품질 판단은 인간의 책임임을 강조함.\nAI를 활용해 복잡한 작업을 구성 요소로 나누고 반복적으로 검토하며 원하는 결과물을 얻어야 함.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37243",
+    "title": "AI 시대, 새로운 게임 개발자는 어떻게 탄생할까",
+    "url": "https://news.hada.io/topic?id=37243&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37243&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI는 인디 개발자, 도구 제작자, 세계를 구축하는 스튜디오를 대체하기보다 세 유형 모두의 작업을 가속할 수 있음AI 에이전트는 Blender로 에셋을 만들고, 게임 엔진에서 장면을 구성하고, 스크린샷을 보며 수정하는 작업을 오갈 수 있음. 1인 개발자도 부족한 기술을 보완해 아이디어가 실제로 재미있는지 플레이 가능한 프로토타입으로 일찍 확인할 수 있음AI의 활용 범위는 새 게임 제작뿐 아니라 기존 게임의 확장과 복원까지 넓어지고 있으며, 소스 코드가 사라진 옛 게임도 남아 있는 기획 문서와 실행 파일로 되살릴 수 있음대…",
+    "score": 0,
+    "published_at": "2026-11-16T00:50:02+00:00",
+    "ai_summary": "AI는 인디 개발자, 도구 제작자, 스튜디오 등 모든 게임 개발자의 작업을 가속할 수 있음.\nAI 에이전트가 에셋 제작, 장면 구성, 프로토타입 수정 등을 오가며 1인 개발자의 부족한 기술을 보완함.\nAI의 활용 범위는 새 게임 제작뿐 아니라 기존 게임의 확장과 복원까지 넓어짐.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37237",
+    "title": "이제 거의 무엇이든 만들 수 있다. 무엇을 만들 가치가 있을까?",
+    "url": "https://news.hada.io/topic?id=37237&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37237&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI로 더 많은 아이디어를 구현할 수 있게 됐지만, 만들 수 있다는 즐거움과 계속 운영할 책임은 서로 다른 선택임프로젝트가 학습, 개인용 도구, 사업 중 무엇을 위한 것인지 먼저 구분해야 함. 실험을 사업으로 바꾸거나 사업의 수요 검증을 창작 활동으로 미루면 목적이 흐려짐상업용 프로젝트는 완성된 제품보다 지금 이것을 원하는 실제 사용자와 작은 결과물로 먼저 검증할 수 있음. 칭찬보다 실제 업무에 쓰거나 다시 요청하는 행동이 더 유용한 정보임성공 가능성뿐 아니라 성공한 뒤의 일도 원하는지 따져야 함. AI가 유지보수…",
+    "score": 0,
+    "published_at": "2026-11-16T00:31:02+00:00",
+    "ai_summary": "AI로 많은 아이디어를 구현할 수 있지만, 만들 수 있다는 즐거움과 운영 책임은 서로 다른 선택임.\n프로젝트 목적(학습, 개인용, 사업)을 명확히 구분하고, 상업용은 실제 사용자 검증과 작은 결과물로 시작해야 함.\n성공 가능성뿐 아니라 성공 후의 일까지 고려해야 하며, 칭찬보다 실제 사용 행동이 더 유용한 정보임.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37236",
+    "title": "DBDelve - Rust와 GPUI로 만든 가벼운 오픈소스 데이터베이스 클라이언트",
+    "url": "https://news.hada.io/topic?id=37236&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37236&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Zed 에디터의 GPU 가속 UI 프레임워크인 GPUI로 만든 Rust 데이터베이스 클라이언트로, 같은 UI 코드로 맥/윈도우/리눅스에서 네이티브 실행PostgreSQL, MySQL, SQLite, DuckDB, SQL Server, Snowflake, ClickHouse, MongoDB, Redis 등을 지원하며, Oracle이나 BigQuery는 ODBC 드라이버로 연결앱을 다시 열면 마지막 탭과 쿼리 결과를 스냅샷에서 복원해, DB에 같은 쿼리를 다시 보내지 않고 작업을 이어감SQL 편집기가 테이블과 열 이름을 자동 완성하고, JOIN을 작성할 때 외래 키를 바탕으로 조인 조건까지 채워줌EXPLAIN 결과를…",
+    "score": 0,
+    "published_at": "2026-11-16T00:30:02+00:00",
+    "ai_summary": "DBDelve는 Rust와 GPU 가속 UI 프레임워크 GPUI로 만든 가벼운 오픈소스 DB 클라이언트로, 맥/윈도우/리눅스에서 네이티브 실행됨.\nPostgreSQL 등 다양한 DB를 지원하며, 마지막 탭과 쿼리 결과를 복원함.\n테이블/열 이름 자동 완성, JOIN 조건 추천 등 지능형 SQL 편집기를 제공함.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Language"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37234",
+    "title": "주요 C 프로젝트 40개의 메모리 관리 방식 조사",
+    "url": "https://news.hada.io/topic?id=37234&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37234&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "주요 C 프로젝트 40개 중 malloc/free 방식만 사용하는 프로젝트는 8개였으며, 다수는 영역 기반 할당, 참조 카운팅, 가비지 컬렉션 등 고수준 메모리 관리 방식을 함께 사용함영역 기반 할당(region) 을 일부라도 사용하는 프로젝트는 15개, 주된 할당 방식으로 사용하는 프로젝트는 7개였음가비지 컬렉션을 주로 사용하는 프로젝트는 5개, 참조 카운팅을 주로 사용하는 프로젝트는 3개로, C로 구현한 프로젝트에서도 다양한 자동화 수준의 메모리 관리가 쓰임정확성으로 유명한 SQLite도 100% 수동 관리를 사용하며, curl과 Redis 역…",
+    "score": 0,
+    "published_at": "2026-11-16T00:02:28+00:00",
+    "ai_summary": "주요 C 프로젝트 40개 중 8개만이 malloc/free만 사용했으며, 대부분은 영역 기반 할당, 참조 카운팅, 가비지 컬렉션 등 고수준 메모리 관리 방식을 병행함.\n영역 기반 할당이 15개, 가비지 컬렉션이 5개, 참조 카운팅이 3개 프로젝트에서 주로 사용됨.\n이는 C에서도 다양한 자동화된 메모리 관리가 쓰임을 보여주며, SQLite는 수동 관리를 사용함.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37232",
+    "title": "실전파 컴퓨터 과학자를 위한 도서 목록",
+    "url": "https://news.hada.io/topic?id=37232&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37232&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "2025년판 추천 목록으로, 코드 작성 관행을 다루는 일반적인 프로그래머 추천서 대신 언어, 운영체제, 네트워크, 알고리듬, 계산 이론을 깊이 익히는 책에 초점을 맞춤입문 목록은 C/C++와 Rust를 중심으로 구성됨. C/C++로 직접 개발할 필요는 대체로 없지만, 주요 운영체제의 네이티브 API를 표현하는 공통 언어라는 점을 중시함본격적인 실전 목록은 시스템 프로그래밍과 컴퓨터 과학의 기초를 폭넓게 다루며, 일부 도서는 특정 권이나 판본을 권장함고급 목록은 계산 복잡도, 타입, 함수형 자료구조, 람다 계산으로 이어지며, 조합…",
+    "score": 0,
+    "published_at": "2026-11-15T23:37:43+00:00",
+    "ai_summary": "2025년판 '실전파 컴퓨터 과학자'를 위한 도서 목록은 일반 코딩 대신 언어, OS, 네트워크, 알고리즘, 계산 이론 등 깊은 지식 습득에 초점을 맞춤.\nC/C++와 Rust를 중심으로 입문 목록을 구성하며, 이 언어들이 주요 OS의 네이티브 API를 표현하는 공통 언어임을 강조함.\n본격적인 목록은 시스템 프로그래밍과 컴퓨터 과학의 기초를 폭넓게 다룸.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37228",
+    "title": "“Duffy는 거짓말했다”: 항공 관제사들, 교통부 장관의 이륙 중단 설명 반박",
+    "url": "https://news.hada.io/topic?id=37228&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37228&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "미국 전역의 항공기 이륙 중단으로 약 150만 명이 영향을 받은 가운데, 항공 관제사들이 Sean Duffy 교통부 장관의 장애 원인 설명에 의문을 제기함기자가 취재한 관제사 60명 중 누구도 장관의 설명을 납득하지 않았으며, 장비 변경 작업은 혼잡한 금요일 오후가 아니라 주중 심야에 진행한다고 반박함Duffy는 처음에는 스위치와 라우터 과부하를 원인으로 들었고, 다음 날에는 L3Harris Technologies의 구리선 교체 작업 중 과부하가 발생했다고 밝힘8억 7,500만 달러 규모의 AI 시스템 SMART와의 연관성은 부인했으나, 시스템이 연…",
+    "score": 0,
+    "published_at": "2026-11-15T22:40:41+00:00",
+    "ai_summary": "미국 항공 이륙 중단 사태 원인에 대해 항공 관제사들이 교통부 장관의 설명을 반박했습니다.\n장관은 스위치 및 라우터 과부하, 구리선 교체 작업을 언급했으나, 관제사들은 장비 변경이 심야에 진행된다고 주장합니다.\n8억 7,500만 달러 규모의 AI 시스템 SMART 연관성은 부인됐으나, 여전히 논란의 중심입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50511395",
+    "title": "Old Bitly links are being hijacked",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50511395",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-11-15T22:11:43+00:00",
+    "ai_summary": "Bitly와 같은 URL 단축 서비스의 오래된 링크들이 악의적으로 재활용되고 있습니다.\n공격자들은 만료된 단축 URL을 등록하여 사용자를 피싱이나 멀웨어 사이트로 리디렉션합니다.\n이는 심각한 보안 위협을 초래하므로, 사용자들은 링크 클릭에 주의가 필요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50512824",
+    "title": "Coles hit by a cybersecurity incident",
+    "url": "https://www.colesgroup.com.au/updates/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50512824",
+    "summary": "",
+    "score": 40,
+    "published_at": "2026-11-16T01:14:35+00:00",
+    "ai_summary": "호주의 주요 슈퍼마켓 체인 Coles가 최근 사이버 보안 사고의 표적이 되었습니다.\n이 사고로 인해 고객 데이터 및 회사 운영 시스템이 잠재적으로 영향을 받았을 가능성이 있습니다.\nColes는 현재 사고를 조사 중이며, 고객들에게 보안 강화를 권고하고 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50513160",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50513160",
+    "summary": "",
+    "score": 17,
+    "published_at": "2026-11-16T02:04:48+00:00",
+    "ai_summary": "인기 광고 차단 확장 프로그램 uBlock Origin에서 Universal XSS 취약점이 발견되었습니다.\n이 취약점은 웹사이트가 제어하는 요소 선택기를 통해 악성 스크립트 실행을 가능하게 합니다.\n심각한 보안 위험을 초래하므로, 사용자들은 확장 프로그램 업데이트가 시급합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50511806",
+    "title": "Preserving 30 years of Salon journalism",
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50511806",
+    "summary": "",
+    "score": 79,
+    "published_at": "2026-11-15T23:00:11+00:00",
+    "ai_summary": "온라인 저널 Salon이 30년간 축적된 방대한 저널리즘 콘텐츠 보존 프로젝트를 진행합니다.\n과거 기사, 사진, 멀티미디어 자료 등 아카이브를 디지털 방식으로 영구히 보관하는 것이 목표입니다.\n이는 디지털 아카이빙의 중요성과 레거시 콘텐츠 처리의 기술적 과제를 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50509837",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509837",
+    "summary": "",
+    "score": 181,
+    "published_at": "2026-11-15T19:26:22+00:00",
+    "ai_summary": "Protomaps 프로젝트를 통해 지도 타일을 직접 호스팅하는 것이 저렴하고 쉬워졌습니다.\n이는 OpenStreetMap 데이터 등을 활용하여 맞춤형 지도 서비스를 효율적으로 구축할 수 있게 합니다.\n클라우드 비용 절감 및 데이터 주권을 확보하려는 개발자에게 유용한 솔루션입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50512441",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "discussion_url": "https://news.ycombinator.com/item?id=50512441",
+    "summary": "",
+    "score": 34,
+    "published_at": "2026-11-16T00:21:54+00:00",
+    "ai_summary": "Tor 프로젝트가 지속적인 DDoS 공격에 직면하여 신속한 방어 패치를 배포했습니다.\n이 패치는 Tor 네트워크의 안정성을 유지하고 공격 트래픽을 완화하는 것을 목표로 합니다.\n익명 네트워크의 보안과 복원력을 강화하기 위한 중요한 조치입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50506719",
+    "title": "The MacBook Pro's OLED PWM problem",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50506719",
+    "summary": "",
+    "score": 429,
+    "published_at": "2026-11-15T13:15:22+00:00",
+    "ai_summary": "최신 MacBook Pro의 OLED 디스플레이에서 PWM(펄스 폭 변조)으로 인한 깜빡임 문제가 제기됩니다.\n일부 사용자에게 눈의 피로와 두통을 유발할 수 있는 잠재적 건강 문제를 다룹니다.\n하드웨어 설계와 사용자 경험의 중요성을 강조합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50512231",
+    "title": "Mini.nvim Is Now on Tangled",
+    "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+    "discussion_url": "https://news.ycombinator.com/item?id=50512231",
+    "summary": "",
+    "score": 37,
+    "published_at": "2026-11-15T23:55:41+00:00",
+    "ai_summary": "Neovim 플러그인 모음인 Mini.nvim이 Tangled 플랫폼에 공개되었습니다.\n개발자들이 Neovim 환경을 더욱 효율적으로 구성하고 확장하는 데 도움을 줍니다.\n다양한 유틸리티와 기능을 제공하여 개발 생산성을 향상시킵니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50510296",
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50510296",
+    "summary": "",
+    "score": 95,
+    "published_at": "2026-11-15T20:20:05+00:00",
+    "ai_summary": "WebGL을 사용하여 시드 기반으로 지형을 생성하는 비행 시뮬레이터 프로젝트입니다.\n프론트엔드 웹 기술과 3D 그래픽 프로그래밍을 활용하여 인터랙티브한 경험을 제공합니다.\n게임 개발, 그래픽스, 웹 기술에 관심 있는 개발자에게 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50509972",
+    "title": "Handwriting, as a Font",
+    "url": "https://ductus.sorenblank.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509972",
+    "summary": "",
+    "score": 139,
+    "published_at": "2026-11-15T19:42:13+00:00",
+    "ai_summary": "자신의 필체를 디지털 폰트로 변환하는 기술이나 서비스에 대한 기사입니다.\n개인화된 디자인 요소를 웹 및 애플리케이션에 적용하는 방법을 제시합니다.\n프론트엔드 및 UI/UX 디자이너에게 유용한 커스터마이징 옵션을 제공합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50463399",
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463399",
+    "summary": "",
+    "score": 350,
+    "published_at": "2026-11-12T05:29:24+00:00",
+    "ai_summary": "AI 모델인 Claude Code와 Codex를 활용하여 1994년형 지프의 ECU를 3달러짜리 아두이노로 리버스 엔지니어링하는 실험입니다.\nAI의 코드 생성 및 분석 능력을 임베디드 시스템 해킹에 적용한 사례를 보여줍니다.\nAI와 하드웨어 제어의 교차점에 대한 깊이 있는 통찰을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50512235",
+    "title": "What's Next for Nvidia?",
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50512235",
+    "summary": "",
+    "score": 77,
+    "published_at": "2026-11-15T23:55:55+00:00",
+    "ai_summary": "엔비디아의 향후 전략과 신기술 개발 방향에 대한 분석 기사입니다.\nAI, 데이터 센터, 그래픽 처리 장치(GPU) 시장에서의 리더십 유지 방안을 다룹니다.\n인공지능 및 고성능 컴퓨팅 개발자들에게 중요한 산업 동향 정보를 제공합니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50484998",
+    "title": "Do we still have to denormalize? Have your schema and search it too",
+    "url": "https://www.paradedb.com/blog/joins",
+    "discussion_url": "https://news.ycombinator.com/item?id=50484998",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-11-13T15:31:50+00:00",
+    "ai_summary": "데이터베이스 정규화 및 비정규화 전략에 대한 논의와 최신 접근 방식을 제시합니다.\n스키마 설계와 검색 효율성 간의 균형을 맞추는 방법에 대한 통찰을 제공합니다.\n백엔드 및 데이터베이스 설계자에게 실질적인 성능 최적화 가이드를 제공합니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50512950",
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "url": "https://www.hntrends.com/2026/november.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50512950",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-11-16T01:31:30+00:00",
+    "ai_summary": "AI 기술 발전으로 개발자 채용 시장이 12년 만에 최저 수준에 머물며, 전체 직업의 절반에 AI가 영향을 미치고 있습니다.\n이는 개발자들에게 AI 시대에 필요한 새로운 역량 습득의 중요성을 강조합니다.\n미래 커리어 전략 수립에 필수적인 정보를 제공하는 기사입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50509411",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509411",
+    "summary": "",
+    "score": 410,
+    "published_at": "2026-11-15T18:36:10+00:00",
+    "ai_summary": "마이크로소프트 365 서비스 중단이 호텔 시스템 마비를 유발, 염소가스 중독 사고로 이어졌습니다.\n클라우드 서비스의 안정성 문제와 IT 인프라 장애가 물리적 안전에 미치는 심각한 영향을 보여줍니다.\n개발자와 운영자에게 시스템 가용성과 견고한 설계의 중요성을 강력히 경고하는 사례입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50511718",
+    "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+    "url": "https://lastcomplication.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50511718",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-11-15T22:48:52+00:00",
+    "ai_summary": "Zachtronics 스타일의 시계 제작 퍼즐 게임 \"The Last Complication\"이 해커 뉴스에 소개되었습니다.\n복잡한 시스템 설계와 문제 해결 능력을 요구하는 게임 개발 프로젝트의 사례입니다.\n게임 개발자 또는 논리 퍼즐 게임에 관심 있는 개발자들에게 흥미로운 영감을 줄 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50509416",
+    "title": "Eclipse Mosquitto – An open source MQTT broker",
+    "url": "https://github.com/eclipse-mosquitto/mosquitto",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509416",
+    "summary": "",
+    "score": 68,
+    "published_at": "2026-11-15T18:36:40+00:00",
+    "ai_summary": "Eclipse Mosquitto는 경량 메시징 프로토콜 MQTT를 위한 강력한 오픈 소스 브로커입니다.\n사물 인터넷(IoT) 및 M2M 통신에서 효율적인 데이터 전송을 가능하게 하는 핵심 인프라 도구입니다.\n백엔드 시스템 및 임베디드 개발에 필수적이며, 메시지 큐와 실시간 통신에 관심 있는 개발자에게 중요합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50506376",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "discussion_url": "https://news.ycombinator.com/item?id=50506376",
+    "summary": "",
+    "score": 210,
+    "published_at": "2026-11-15T12:14:06+00:00",
+    "ai_summary": "이 기사는 최신 대규모 언어 모델(LLM)에서 핵심적인 위치 임베딩(Positional Embeddings)의 개념을 심층적으로 설명합니다.\nLLM이 단어의 상대적 위치 정보를 이해하고 문맥을 파악하는 방식에 대한 기술적 통찰을 제공합니다.\nAI/ML 엔지니어 및 LLM 연구 개발자에게 필수적인 고급 주제를 다루는 중요한 자료입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50507553",
+    "title": "Emacs Is My Browser",
+    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50507553",
+    "summary": "",
+    "score": 183,
+    "published_at": "2026-11-15T15:21:21+00:00",
+    "ai_summary": "Emacs를 웹 브라우저처럼 활용하는 방법을 탐구하는 글입니다.\n개발자들이 선호하는 강력한 텍스트 편집기인 Emacs의 다재다능함을 보여줍니다.\n생산성 향상과 작업 흐름 통합에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50465522",
+    "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+    "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
+    "discussion_url": "https://news.ycombinator.com/item?id=50465522",
+    "summary": "",
+    "score": 30,
+    "published_at": "2026-11-12T10:58:00+00:00",
+    "ai_summary": "영국 전시 중 사용된 라디오 송신기 '아스피디스트라'에 대한 설명입니다.\n이 장비는 적군의 통신을 가로채기 위한 MitM(Man-in-the-Middle) 공격에 활용되었습니다.\n초기 통신 보안 및 전쟁 기술의 교훈을 제공합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50508715",
+    "title": "Clice v1.0 Released: Welcome to Modern C++",
+    "url": "https://ykiko.me/en/articles/2105384023094834022/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508715",
+    "summary": "",
+    "score": 108,
+    "published_at": "2026-11-15T17:22:32+00:00",
+    "ai_summary": "Clice v1.0 출시 소식으로, 현대 C++ 개발자를 위한 새로운 도구입니다.\n이 라이브러리는 C++ 언어의 최신 기능을 활용하여 개발 생산성을 높이는 데 기여합니다.\n특히 명령줄 인터페이스(CLI) 개발에 유용할 것으로 예상됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50465676",
+    "title": "Eval Awareness vs. Eval Paranoia",
+    "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+    "discussion_url": "https://news.ycombinator.com/item?id=50465676",
+    "summary": "",
+    "score": 50,
+    "published_at": "2026-11-12T11:23:02+00:00",
+    "ai_summary": "eval 함수의 사용에 대한 '인식'과 '과도한 우려' 사이의 균형점을 논합니다.\n동적 코드 평가 기능이 가져올 수 있는 잠재적 보안 위험과 유용성을 분석합니다.\n개발자들이 eval을 현명하게 활용하고 위험을 관리하는 방법에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security"
+    ]
+  }
+]
