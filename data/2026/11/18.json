@@ -1,0 +1,692 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37372",
+    "title": "jQuery 4.1.0 - 폼 연결 커스텀 요소 지원과 선택자 ReDoS 수정",
+    "url": "https://news.hada.io/topic?id=37372&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37372&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "jQuery 4.1.0은 직렬화 모듈에 폼 연결 커스텀 요소 지원을 추가하고, Ajax API와 선택자 처리를 개선함jqXHR에 responseURL 필드를 추가하고, Ajax 전송 구현을 위한 대체 completeCallback API를 지원함선택자의 식별자 매칭에서 ReDoS를 수정하고, Safari 27의 정규식 인터프리터 버그를 우회함CSS 처리에 createElementNS 를 사용해 XML 문서를 지원하며, 코어에서는 기존 요소 조회 메서드 대신 querySelectorAll을 사용함jQuery.uniqueSort의 중복 제거를 최적화하고, 잘못된 이스케이프 코드 포인트를 U+FFFD로 디코딩하도록 …",
+    "score": 0,
+    "published_at": "2026-11-17T22:40:23+00:00",
+    "ai_summary": "jQuery 4.1.0은 폼 연결 커스텀 요소 지원과 Ajax API를 개선했다.\n선택자 ReDoS 취약점을 수정하고, Safari 정규식 버그를 우회하는 패치도 포함한다.\nCSS 처리 및 코어 성능 최적화로 전반적인 안정성과 효율성이 향상되었다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37371",
+    "title": "Phrack 73호 공개, 보안 연구와 해킹 문화를 다루는 매거진",
+    "url": "https://news.hada.io/topic?id=37371&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37371&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "새 운영진이 편집한 세 번째 발행물인 Phrack 73호가 공개됨. 지난해보다 규모를 늘려 주요 논문 23편과 Line Noise 추가 글 8편을 담음취약점 악용과 리버스 엔지니어링부터 머신러닝, 하드웨어까지 다루며, vDSO를 통한 컨테이너 탈출과 Skia를 통한 Chromium 렌더러 샌드박스 탈출 연구 등을 수록함머신러닝 백도어와 AI 신뢰를 검토하는 연구와, PhrackCTF에서 WinFSP 제로데이 2건 발견으로 이어진 사례도 실림Phrack World History에는 SSH1 CRC32 취약점, 블루박싱, 2003년 Linux 커널 백도어 시도, 대여형 봇넷의 초기 발견을…",
+    "score": 0,
+    "published_at": "2026-11-17T22:37:23+00:00",
+    "ai_summary": "Phrack 73호는 23편의 심층 논문과 8편의 추가 글을 포함해 공개되었다.\n취약점 악용, 리버스 엔지니어링, AI/ML 보안 연구 등 광범위한 주제를 다룬다.\n컨테이너 탈출 및 샌드박스 우회 등 실제적인 보안 연구 사례를 수록하고 있다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37368",
+    "title": "MAI Code 2와 Code 2 Flash - 일상적인 기업 코딩의 가격 대비 성능에 초점을 맞춘 모델",
+    "url": "https://news.hada.io/topic?id=37368&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37368&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Microsoft AI가 MAI Code 2와 Code 2 Flash를 공개함. Code 2는 심층 디버깅과 여러 파일에 걸친 구현에, Flash는 코드 설명과 간단한 수정 등 대량 반복 작업에 초점을 둠Microsoft 평가에서 Code 2는 4개 코딩 벤치마크 평균으로 GPT-6.1 Sol 성능의 98%를 비용 40%로 제공함. 비용 계산에는 50% 프로모션 가격이 적용됨Code 2 Flash는 3개 코딩 벤치마크 평균 통과율 61.0% 로, GPT-6 Luna의 55.1%, Claude Haiku 5.5의 53.9%를 웃돌았음. 작업당 비용은 0.052달러UI와 대시보드, 시각화 구현에도 최적화됨. 258명이 참여한 블라인…",
+    "score": 0,
+    "published_at": "2026-11-17T21:41:05+00:00",
+    "ai_summary": "Microsoft AI가 기업 코딩에 특화된 MAI Code 2와 Code 2 Flash를 출시했다.\nCode 2는 디버깅에, Flash는 간단한 수정에 강하며 높은 가성비를 제공한다.\n이 모델들은 GPT-6 Sol/Luna 모델에 필적하는 성능으로 경쟁력을 갖추고 있다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50538240",
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50538240",
+    "summary": "",
+    "score": 626,
+    "published_at": "2026-11-17T21:11:28+00:00",
+    "ai_summary": "OpenJDK에서 Base64 처리 중 원격 코드 실행(RCE) 취약점이 발견되었다.\n이는 Java 애플리케이션의 백엔드 보안에 심각한 위협이 될 수 있다.\nJava 개발자와 시스템 관리자에게 즉각적인 패치 및 대응이 요구된다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50540178",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50540178",
+    "summary": "",
+    "score": 170,
+    "published_at": "2026-11-18T00:17:58+00:00",
+    "ai_summary": "구글의 AI 답변 기능 도입 후 검색 트래픽이 최대 40% 감소하는 현상이 나타났다.\n이는 정보 소비 방식의 변화로 웹사이트 유입에 큰 영향을 미치고 있다.\n콘텐츠 개발자와 SEO 전문가는 새로운 검색 환경에 맞춰 전략을 조정해야 한다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535230",
+    "title": "GPT‑6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535230",
+    "summary": "",
+    "score": 1143,
+    "published_at": "2026-11-17T17:46:43+00:00",
+    "ai_summary": "차세대 대규모 언어 모델인 GPT-6.2 Astra와 Sol이 새롭게 공개되었다.\n이들은 LLM 기술의 최신 발전을 대표하며 향상된 성능을 제공할 것으로 기대된다.\nAI 개발자들은 다양한 애플리케이션에 이 모델들을 활용할 기회를 얻게 될 것이다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50539747",
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "discussion_url": "https://news.ycombinator.com/item?id=50539747",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-11-17T23:32:58+00:00",
+    "ai_summary": "Apple 지원 커뮤니티가 2026년 11월에 종료됨에 따라 Archive Team이 해당 자료를 보존하고 있습니다.\n개발자들은 과거의 기술 문제 해결 기록 및 정보 아카이빙의 중요성을 인지할 수 있습니다.\n이는 지식 보존 노력의 일환으로, 커뮤니티 기반 정보의 가치를 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50539610",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "discussion_url": "https://news.ycombinator.com/item?id=50539610",
+    "summary": "",
+    "score": 174,
+    "published_at": "2026-11-17T23:18:49+00:00",
+    "ai_summary": "Microsoft의 ONNX 런타임 프로젝트가 GitHub에서 갑자기 사라져 개발 커뮤니티에 혼란을 주고 있습니다.\n이는 ONNX 기반 AI/ML 모델을 배포하고 실행하는 개발자들에게 직접적인 영향을 미칠 수 있습니다.\n프로젝트의 갑작스러운 중단 또는 비공개 전환 가능성에 대한 우려가 제기됩니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50534631",
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50534631",
+    "summary": "",
+    "score": 428,
+    "published_at": "2026-11-17T17:12:06+00:00",
+    "ai_summary": "엔비디아가 총 수익 1040억 달러를 기록한 가운데 싱가포르 매출 공개를 중단했습니다.\n이는 엔비디아의 사업 전략과 AI 하드웨어 시장의 투명성에 대한 의문을 제기합니다.\n개발자들에게는 AI 인프라 및 관련 기술 투자의 흐름을 간접적으로 파악하는 데 참고가 될 수 있습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50537156",
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=50537156",
+    "summary": "",
+    "score": 269,
+    "published_at": "2026-11-17T19:50:40+00:00",
+    "ai_summary": "프론트엔드 개발자들이 사용하는 JavaScript 라이브러리인 jQuery의 4.1.0 버전이 출시되었습니다.\n이 업데이트는 이전 버전에 대한 개선 사항과 버그 수정을 포함하며, 여전히 jQuery를 사용하는 프로젝트에 중요합니다.\n새로운 기능이나 호환성 변경 사항을 확인해야 할 프론트엔드 개발자들에게 관련성이 높습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535885",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535885",
+    "summary": "",
+    "score": 308,
+    "published_at": "2026-11-17T18:25:13+00:00",
+    "ai_summary": "MAI Code 2와 Code 2 Flash라는 새로운 AI 모델이 발표되었습니다.\n이들은 개발자들의 코딩 작업 생산성을 향상시키는 데 초점을 맞춘 AI 기반 코드 생성 및 분석 도구로 보입니다.\n개발자들은 이 모델들을 활용하여 코드 작성, 디버깅, 최적화 등의 작업을 지원받을 수 있을 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535992",
+    "title": "Phrack 73 Released",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535992",
+    "summary": "",
+    "score": 306,
+    "published_at": "2026-11-17T18:31:25+00:00",
+    "ai_summary": "유명 해킹 및 보안 이진(e-zine)인 Phrack 73호가 발행되었습니다.\n이 호에는 새로운 보안 취약점, 익스플로잇 기술 및 시스템 내부 작동 방식에 대한 깊이 있는 분석이 담겨 있습니다.\n보안에 관심 있는 개발자나 연구자들에게 최신 공격 및 방어 기술 동향을 파악하는 데 유용한 자료입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50538303",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50538303",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-11-17T21:16:12+00:00",
+    "ai_summary": "AI 코딩 에이전트의 도입이 코드 작성 속도를 높였지만, 하버드 연구진에 따르면 코드 리뷰가 새로운 병목 지점이 되었습니다.\n개발자들은 AI의 도움으로 더 많은 코드를 생성하게 되면서, 생성된 코드의 품질 검토 및 유지보수 부담이 커졌습니다.\n이는 AI가 실제 소프트웨어 개발 과정에 미치는 영향과 새로운 역할 분담에 대한 고민을 시사합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50540472",
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=50540472",
+    "summary": "",
+    "score": 41,
+    "published_at": "2026-11-18T00:56:23+00:00",
+    "ai_summary": "Cerebras는 대규모 AI 모델 추론을 위한 '분산형 추론(Disaggregated Inference)' 기술을 발표했습니다.\n이 기술은 고성능 하드웨어와 소프트웨어 최적화를 통해 AI 모델의 배포 및 실행 효율성을 극대화합니다.\n특히 LLM과 같은 복잡한 AI 워크로드를 위한 고도의 컴퓨팅 자원 활용 방안을 제시합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50536387",
+    "title": "Solid 2.0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536387",
+    "summary": "",
+    "score": 251,
+    "published_at": "2026-11-17T18:56:17+00:00",
+    "ai_summary": "Solid 2.0은 SolidJS 프레임워크의 차세대 버전으로, 리액티브 UI 개발의 성능과 개발자 경험을 향상시킵니다.\n기존 SolidJS의 세분화된 반응성을 유지하며 번들 크기 감소 및 렌더링 효율 개선을 목표로 합니다.\n이를 통해 웹 애플리케이션 개발에서 더욱 빠르고 효율적인 UI 구축을 가능하게 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50503492",
+    "title": "Fun with Constrained Programming",
+    "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50503492",
+    "summary": "",
+    "score": 26,
+    "published_at": "2026-11-15T02:45:57+00:00",
+    "ai_summary": "제약 프로그래밍(Constrained Programming)은 변수와 제약 조건을 사용하여 문제를 모델링하고 해결하는 프로그래밍 패러다임입니다.\n스케줄링, 자원 할당, 최적화 문제 등 복잡한 실제 시나리오를 효과적으로 해결하는 데 유용하게 활용됩니다.\n개발자들은 이 기법을 통해 특정 조건을 만족하는 해답을 탐색하며, 효율적인 알고리즘 설계에 대한 통찰을 얻을 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50532191",
+    "title": "What is the best harness for each model?",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50532191",
+    "summary": "",
+    "score": 344,
+    "published_at": "2026-11-17T14:53:43+00:00",
+    "ai_summary": "각 AI 모델에 가장 적합한 '하네스(harness)'를 선택하는 것은 모델의 성능과 배포 효율성에 매우 중요합니다.\n'하네스'는 모델 테스트, 통합, 배포 및 모니터링을 위한 프레임워크나 도구를 의미합니다.\n이 기사는 다양한 모델 유형과 사용 사례에 맞춰 최적의 하네스를 평가하고 선택하는 기준과 방법에 대해 탐구합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50538184",
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "discussion_url": "https://news.ycombinator.com/item?id=50538184",
+    "summary": "",
+    "score": 78,
+    "published_at": "2026-11-17T21:06:08+00:00",
+    "ai_summary": "텐센트 Hy4 Flash는 고성능 컴퓨팅 및 데이터 스토리지를 위한 텐센트의 새로운 기술 또는 제품으로 보입니다.\n'Flash'라는 이름에서 유추컨대, NVMe SSD와 같은 고속 플래시 스토리지를 활용하여 I/O 성능을 극대화하는 솔루션일 가능성이 높습니다.\n이는 클라우드 환경에서 대용량 데이터를 빠르게 처리해야 하는 백엔드 및 시스템 개발자에게 중요할 것입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Cloud",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50536468",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536468",
+    "summary": "",
+    "score": 62,
+    "published_at": "2026-11-17T19:01:43+00:00",
+    "ai_summary": "StarSling은 Y Combinator 스타트업으로, '자율 개선형 CI(Continuous Integration)' 시스템을 개발했습니다.\n이 시스템은 에이전트 활동이 많은 저장소(agent-volume repos)에 특화되어 CI/CD 파이프라인의 효율성을 스스로 학습하고 최적화합니다.\n개발팀은 이를 통해 복잡하고 반복적인 테스트 및 배포 과정을 자동화하고, 개발 속도를 획기적으로 향상시킬 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50537290",
+    "title": "Web Browser Engineering (2021)",
+    "url": "https://browser.engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50537290",
+    "summary": "",
+    "score": 135,
+    "published_at": "2026-11-17T20:01:35+00:00",
+    "ai_summary": "'웹 브라우저 엔지니어링'은 웹 브라우저가 내부적으로 어떻게 작동하는지에 대한 심층적인 분석을 제공합니다.\n렌더링 엔진, JavaScript 엔진, 네트워크 스택, 보안 모델 등 브라우저를 구성하는 핵심 요소들을 다룹니다.\n프론트엔드 개발자와 웹 플랫폼에 관심 있는 개발자들이 웹 성능 최적화 및 복잡한 문제 해결에 대한 깊은 이해를 얻는 데 도움을 줍니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535238",
+    "title": "Apple Services Down",
+    "url": "https://developer.apple.com/system-status/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535238",
+    "summary": "",
+    "score": 649,
+    "published_at": "2026-11-17T17:47:14+00:00",
+    "ai_summary": "Apple 서비스 장애는 사용자에게 광범위한 영향을 미치며, 개발자들은 자신의 앱과 서비스가 영향을 받는지 확인해야 합니다.\n이번 장애는 시스템 안정성과 의존성에 대한 중요한 질문을 던지며, 비상 계획의 필요성을 강조합니다.\n개발자들은 서비스 중단 시 사용자 경험에 미치는 영향을 최소화하기 위한 대비책을 마련해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50497903",
+    "title": "Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help",
+    "url": "https://namegarage.com/blog/python-3-15-lazy-imports",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497903",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-11-14T15:41:51+00:00",
+    "ai_summary": "Python 3.15의 지연 임포트(lazy imports) 기능이 CLI 애플리케이션의 시작 시간을 4배 빠르게 만들 수 있음을 보여줍니다.\n이 기능은 특정 모듈을 필요할 때까지 로드하지 않아 초기 부하를 줄이지만, 모든 상황에서 효과적인 것은 아닙니다.\n개발자들은 성능 최적화를 위해 새로운 파이썬 기능을 어떻게 활용할 수 있는지 이해하고 적용하는 데 도움이 됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535740",
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535740",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-11-17T18:16:18+00:00",
+    "ai_summary": "모든 문제에 대규모 언어 모델(LLM)이 필요한 것은 아니라는 점을 지적하며, 적절한 기술 선택의 중요성을 강조합니다.\n단순한 작업이나 규칙 기반 시스템으로 충분한 경우, LLM 도입은 불필요한 복잡성과 비용을 초래할 수 있습니다.\n개발자들은 문제 해결을 위해 기술 스택을 선택할 때 실용적인 관점에서 접근해야 함을 조언합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50539039",
+    "title": "Latent Lattice Language Models",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50539039",
+    "summary": "",
+    "score": 33,
+    "published_at": "2026-11-17T22:17:18+00:00",
+    "ai_summary": "잠재 격자 언어 모델(Latent Lattice Language Models)에 대한 새로운 연구를 소개하며, LLM 기술의 최신 발전을 다룹니다.\n이 모델은 언어 처리 방식에 대한 새로운 접근을 제안하며, 기존 LLM의 한계를 극복하려는 시도로 보입니다.\nAI/ML 연구자와 개발자들에게 차세대 언어 모델 설계에 대한 깊이 있는 통찰을 제공합니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50535208",
+    "title": "Who Builds the Machines That Build the Machines?",
+    "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535208",
+    "summary": "",
+    "score": 111,
+    "published_at": "2026-11-17T17:45:39+00:00",
+    "ai_summary": "기계를 만드는 기계를 누가 만드는지에 대한 질문을 던지며, 기술 산업의 근간을 이루는 인프라와 도구의 중요성을 탐구합니다.\n이 질문은 하드웨어, 소프트웨어, 그리고 그 둘을 연결하는 복잡한 생태계의 숨겨진 노력에 초점을 맞춥니다.\n개발자들에게는 자신의 작업 환경을 가능하게 하는 보이지 않는 노력과 그 가치에 대해 성찰할 기회를 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50529612",
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50529612",
+    "summary": "",
+    "score": 275,
+    "published_at": "2026-11-17T10:20:40+00:00",
+    "ai_summary": "Claude 개발팀이 소프트웨어 검증(verification)에 대해 어떻게 접근하고 고민하는지 그들의 철학과 방법을 다룹니다.\n특히 대규모 AI 모델과 복잡한 시스템의 신뢰성과 안전성을 보장하기 위한 검증 전략의 중요성을 강조합니다.\n개발자들이 코드 품질, 테스트, 그리고 시스템 신뢰성을 높이기 위한 실질적인 통찰과 모범 사례를 제공합니다.",
+    "relevance_score": 0.92,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blogs.nvidia.com/blog/rubin-hpc/",
+    "title": "NVIDIA's Rubin HPC (2 minute read)",
+    "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+    "discussion_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+    "summary": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "NVIDIA의 새 GPU 'Rubin HPC'는 AI 에이전트 시뮬레이션 가속화를 위해 설계되었습니다. 5만 개 이상의 코어를 탑재하여 단일 GPU로는 기록적이며, 2028년 출시 예정입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+    "title": "Tencent Launches Hy4 flash (4 minute read)",
+    "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+    "discussion_url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+    "summary": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "텐센트가 일상적인 워크플로우를 위한 빠르고 저렴한 AI 모델 'Hy4 flash'를 출시했습니다. 내부 사용자 블라인드 테스트에서 Claude Haiku 5.5에 근접하는 만족도를 보였습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "title": "Claude was trained on protein sequences at scale (26 minute read)",
+    "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "discussion_url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "summary": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "최신 Claude 모델은 단백질 서열로 훈련되어, 세균성 단백질의 다음 아미노산을 예측할 수 있습니다. 다른 테스트된 모델들은 이를 수행하지 못하며, Fable 5.2는 오픈 단백질 언어 모델들을 능가합니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+    "title": "Measuring alignment eval tells (16 minute read)",
+    "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+    "discussion_url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+    "summary": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "조사 에이전트가 AI 정렬 평가와 능력 평가를 구분하여, 인위적인 행동 테스트 환경임을 식별할 수 있습니다. Opus 5.5 및 Astra 에이전트가 비현실적인 시나리오와 특정 작업 신호를 통해 이를 파악합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.liquid.ai/blog/d1-2",
+    "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
+    "url": "https://www.liquid.ai/blog/d1-2",
+    "discussion_url": "https://www.liquid.ai/blog/d1-2",
+    "summary": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "d1.2 및 d1.2-ultra는 오디오 입력 및 다양한 인지 작업을 지원하는 옴니모달 의사결정 모델입니다. d1.2-ultra는 Artificial Analysis Decision Index v2.1에서 1위를 차지했으며, Liquid API를 통해 저렴하게 이용 가능합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/openrouter",
+    "title": "Hugging Face and OpenRouter Join Forces (6 minute read)",
+    "url": "https://huggingface.co/blog/openrouter",
+    "discussion_url": "https://huggingface.co/blog/openrouter",
+    "summary": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "Hugging Face는 Inference Providers 서비스를 통해 OpenRouter로 언어 모델 요청을 라우팅합니다. OpenRouter는 각 호출에 최적의 공급자를 선택하며, 단일 Hugging Face 접근 토큰으로 모든 오픈 가중치 모델에 접근 가능합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch (7 minute read)",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+    "discussion_url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+    "summary": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "Google의 ZERO-TIM 구현은 64개 TPU v5p 칩에서 샘플러와 트레이너 간 비트 단위로 동일한 로그 확률을 달성합니다. 이를 통해 RL 훈련에서 온-정책 안정성을 보장하며, 부동 소수점 오류 문제를 해결합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Backend",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+    "title": "OpenAI's first phase of embedded assessments (11 minute read)",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+    "discussion_url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+    "summary": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assess",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "OpenAI는 독립 전문가들이 내부 모델과 시스템에 접근하여 모델 정렬 및 안전장치 효과를 평가하는 '임베디드 평가'를 시작했습니다. 이 평가는 AI 랩의 위험 관리 방식을 투명하게 공개하는 데 목적이 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.perplexity.ai/",
+    "title": "The frontier is still open (16 minute read)",
+    "url": "https://research.perplexity.ai/",
+    "discussion_url": "https://research.perplexity.ai/",
+    "summary": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "Perplexity Frontier Research는 새로운 알고리즘, 모델, 평가 방식을 공개적으로 개발하여 '자동화된 과학자'를 만드는 것을 목표로 합니다. 10,000개의 GPU 지원을 받으며, 현재 참여 지원을 받고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "title": "California state AG sues OpenAI over rogue agent incidents (5 minute read)",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "discussion_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "캘리포니아 주 법무장관이 '로그 에이전트' 사건으로 OpenAI를 고소했습니다. 소송은 Hugging Face 사건을 중심으로 유사한 에이전트 행동이 지속되고 있음을 증거로 제시합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "title": "How the Claude Code team thinks about verification (14 minute read)",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "discussion_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "summary": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "Claude Code 팀은 코딩 에이전트의 검증에 중점을 두며, 강력한 자동화된 검사가 수많은 에이전트를 병렬로 실행할 수 있게 한다고 강조합니다. 이는 AI 기반 코드 생성 및 분석 도구 개발에 중요한 인사이트를 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "title": "Gemini Notebook Turns Sources Into Interactive Sites (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "discussion_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "summary": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "Gemini Notebook에 업로드된 소스를 공유 가능한 인터랙티브 사이트로 변환하는 새로운 기능이 추가되었습니다. 이는 사용자들에게 자료를 보다 동적으로 제시할 수 있는 방법을 제공합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "Advancing computer-use agents for healthcare teams (8 minute read)",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "discussion_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.",
+    "score": 0,
+    "published_at": "2026-11-18T04:01:43+00:00",
+    "ai_summary": "OpenAI의 컴퓨터 활용 에이전트들이 의료 분야에서 MRI 승인이나 행정 처리 같은 반복적인 작업을 자동화하여 워크플로우를 간소화하고 있습니다. 이는 의료팀의 효율성을 크게 향상시킵니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Other"
+    ]
+  }
+]

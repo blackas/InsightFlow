@@ -1,0 +1,92 @@
+[
+  {
+    "name": "elementalsouls/Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "language": "Python",
+    "stars": 9598,
+    "today_stars": 1005,
+    "forks": 1381
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars": 69232,
+    "today_stars": 696,
+    "forks": 6158
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 53853,
+    "today_stars": 763,
+    "forks": 4436
+  },
+  {
+    "name": "Tencent/LoopForge",
+    "url": "https://github.com/Tencent/LoopForge",
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "language": "Go",
+    "stars": 3388,
+    "today_stars": 591,
+    "forks": 458
+  },
+  {
+    "name": "dream-num/univer",
+    "url": "https://github.com/dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "stars": 28988,
+    "today_stars": 1774,
+    "forks": 2622
+  },
+  {
+    "name": "getarcaneapp/arcane",
+    "url": "https://github.com/getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "language": "Go",
+    "stars": 9404,
+    "today_stars": 618,
+    "forks": 516
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 10159,
+    "today_stars": 350,
+    "forks": 1334
+  },
+  {
+    "name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 16944,
+    "today_stars": 201,
+    "forks": 1833
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 319449,
+    "today_stars": 1917,
+    "forks": 28484
+  },
+  {
+    "name": "ag-ui-protocol/ag-ui",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "stars": 20083,
+    "today_stars": 1445,
+    "forks": 2071
+  }
+]
