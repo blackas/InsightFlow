@@ -1,0 +1,536 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37448",
+    "title": "Show GN: AirStats - 24시간 기록을 보여주는 가벼운 오픈소스 맥 메뉴 막대 시스템 모니터",
+    "url": "https://news.hada.io/topic?id=37448&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37448&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AirStats는 무료 오픈 소스(MIT) Mac 메뉴 막대 시스템 모니터CPU, 메모리, GPU, 네트워크, 디스크, 배터리, 온도와 주요 프로세스를 메뉴 막대, 패널, 데스크톱 위젯에 표시각 패널 모듈과 위젯에서 지난 24시간 기록 그래프 확인 가능이번 1.7 버전에서 Intel Mac 지원(유니버설 바이너리) 추가주요 프로세스를 CPU, 디스크, 에너지 기준으로 정렬하고 프로세스별 전력을 와트로 표시문제가 있을 때만 패널 상단에 원인 프로세스를 알려 주는 요약 줄 표시앱 크기 7.8 MB, 다운로드 2.4 MB, 프로세스 하나만 실행하며 도우미, 실…",
+    "score": 0,
+    "published_at": "2026-11-19T01:44:11+00:00",
+    "ai_summary": "AirStats는 CPU, 메모리, GPU 등 24시간 기록을 메뉴 막대와 위젯에 표시하는 가벼운 오픈소스 Mac 시스템 모니터입니다.\nIntel Mac 지원이 추가되었으며, 주요 프로세스를 기준으로 정렬하고 전력 소비를 와트로 표시합니다.\n문제가 발생할 경우 원인 프로세스를 요약 줄로 알려주며, 매우 가벼운 앱입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37447",
+    "title": "Show HN: ExitPath - Slack, Notion, Microsoft 365에서 벗어나는 오픈소스 대안",
+    "url": "https://news.hada.io/topic?id=37447&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37447&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "ExitPath는 대형 플랫폼을 대체할 오픈소스 도구와 이전 난이도를 모아 보여주는 서비스임문서, 파일 공유, 이메일, 팀 채팅, 개발 도구 등 16개 도구에 대한 대안 30개와 이전 경로 45개를 제공함난이도는 개인 사용과 자체 호스팅 조건에서 가장 쉬운 이전 경로를 기준으로 매기며, 100점 척도로 표시함Slack의 대안은 Mattermost, Zulip, Element (Matrix)이며, Notion의 대안은 AppFlowy, Outline, Logseq임Google Workspace와 Microsoft 365에서 벗어나기 위한 묶음 안내도 있으며, 각각 5개 구성 요소를 다룸대안 목록과 이전…",
+    "score": 0,
+    "published_at": "2026-11-19T01:37:56+00:00",
+    "ai_summary": "ExitPath는 Slack, Notion 등 대형 플랫폼의 오픈소스 대안과 쉬운 이전 방법을 제공하는 서비스입니다.\n문서, 파일 공유, 채팅 등 16개 도구에 대한 30개 대안과 45개 이전 경로를 난이도와 함께 제시합니다.\n개인 사용 및 자체 호스팅 기준의 난이도를 제공하며, Google Workspace 및 MS 365 묶음 안내도 포함합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37446",
+    "title": "우리에겐 진심으로 신경 쓰는 똑똑한 사람들이 필요하다",
+    "url": "https://news.hada.io/topic?id=37446&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37446&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "복잡하고 취약한 시스템을 실제로 지탱하는 것은 시스템을 깊이 이해하고 끝까지 신경 쓰는 사람들임오래되고 결함이 많은 ACH가 실무에서는 안전하고 저렴하며 신뢰할 만한 시스템으로 통하는 데에는, 문제를 수정하거나 우회하고 수동으로 처리하는 사람들의 역할이 있음최근 여러 서비스와 인프라 장애의 공통 원인은 이런 사람들의 부족일 수 있음. 다만 내부 정보가 아니라 복잡한 시스템을 다뤄온 경험에 근거한 추정임경영진이 사람의 작업과 생성형 AI를 단순한 산출물로 비교하면, 이상 징후 감지와 예외 처리처럼 시스템을 …",
+    "score": 0,
+    "published_at": "2026-11-19T01:34:56+00:00",
+    "ai_summary": "복잡하고 취약한 시스템은 깊이 이해하고 진심으로 신경 쓰는 사람들에 의해 유지됩니다.\nACH 시스템처럼 오래된 인프라도 문제를 수정하고 예외를 처리하는 사람들의 역할로 안정성을 확보합니다.\n최근 서비스 장애는 이런 '똑똑한 사람들'의 부족과 경영진의 인적 작업 경시 때문일 수 있다고 추정합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career",
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37441",
+    "title": "OpenAI 모델로 칩 설계 발전시키기",
+    "url": "https://news.hada.io/topic?id=37441&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37441&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI는 AI 모델을 활용해 자체 추론 칩 Jalapeño와 AMD 칩의 회로를 개선했으며, 실제 제품 설계에서 전력/성능/면적(PPA) 개선을 확인함Jalapeño에서는 모델이 제안한 변경으로 표준 셀 면적이 벡터 유닛 약 13%, 행렬 유닛 약 10% 줄어든 것으로 추산하며, 실제 실리콘 초기 구동 과정에서도 최적화를 검증함AMD의 주력 GPU IP에서는 고도로 최적화된 기준 설계 대비 최대 14%의 PPA 개선을 달성했으며, 일부 변경은 제조에 넘긴 설계에 이미 반영됨두 개의 오픈소스 RISC-V 코어 평가에서 GPT‑6.2 Astra가 가장 높은 평균 점수를…",
+    "score": 0,
+    "published_at": "2026-11-19T00:34:30+00:00",
+    "ai_summary": "OpenAI는 AI 모델을 활용해 자체 칩 Jalapeño와 AMD 칩의 회로 설계를 개선하여 PPA(전력/성능/면적)를 향상시켰습니다.\nJalapeño에서는 표준 셀 면적을 10~13% 줄였으며, AMD GPU IP에서는 최대 14%의 PPA 개선을 달성했습니다.\n일부 변경사항은 이미 제조 설계에 반영되었고, RISC-V 코어 평가에서도 GPT-6.2 Astra가 높은 점수를 받았습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37440",
+    "title": "Reticle - AI 코딩 에이전트가 웹/데스크톱 앱을 직접 조작해 검증하는 도구",
+    "url": "https://news.hada.io/topic?id=37440&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37440&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "코딩 에이전트가 기능을 수정한 뒤 실제 앱에서 버튼을 누르고 값을 입력해 로그인이나 결제가 의도대로 동작하는지 확인클릭에 이어 발생한 API 요청과 응답, 콘솔 오류, 화면 변화, 등록한 앱 상태를 함께 확인 결제 버튼을 한 번 눌렀을 때 주문 요청이 두 번 나가는 문제 같은 것도 잡을 수 있음각 검증 항목에 통과/실패/판단 불가를 반환하고, 실패한 요청이나 조건을 근거로 남김. 소스 위치가 연결된 경우 파일과 줄 번호까지 표시검증한 작업을 플로우로 저장해 AI 모델 없이 재실행하고, CI에서 코드 변경 후 같은 기능이 …",
+    "score": 0,
+    "published_at": "2026-11-19T00:30:02+00:00",
+    "ai_summary": "Reticle은 AI 코딩 에이전트가 수정된 앱 기능을 실제 조작하여 검증하는 도구입니다.\n에이전트는 버튼 클릭, 값 입력 등으로 로그인, 결제 같은 기능이 의도대로 작동하는지 확인하고, API 요청, 콘솔 오류 등을 함께 검토합니다.\n검증 플로우를 저장하여 AI 없이 재실행 가능하며, CI에서 코드 변경 후 기능 회귀를 검증할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37438",
+    "title": "nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 취약점",
+    "url": "https://news.hada.io/topic?id=37438&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37438&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Xint가 서로 다른 설정에 영향을 주는 nginx 비인증 원격 코드 실행 취약점 5개와 별도의 Linux SCTP 취약점을 발견함. nginx 취약점은 각각 독립적으로 워커 권한의 명령 실행으로 이어짐가장 광범위한 CVE-2026-123007은 HTTP/2가 활성화된 미패치 서버에 영향을 주며, nginx 1.9.5부터 1.31.8까지 취약 코드가 포함됨nginx 취약점을 SCTP 커널 취약점과 연결해 호스트 root 권한을 확보하고 Docker 컨테이너 탈출에도 성공함. SCTP 접근 가능 여부는 커널, 모듈, 컨테이너 제한에 따라 달라짐수정 릴리스 1.31.9가 공개되면 업데이…",
+    "score": 0,
+    "published_at": "2026-11-19T00:08:42+00:00",
+    "ai_summary": "Xint는 nginx에서 5개의 원격 코드 실행 취약점과 별도의 Linux SCTP 커널 권한 상승 취약점을 발견했습니다.\nCVE-2026-123007은 HTTP/2 활성화 서버의 넓은 범위에 영향을 미치며, 이 취약점들을 연결하여 호스트 root 권한 확보 및 Docker 컨테이너 탈출에 성공했습니다.\n수정 릴리스 1.31.9 업데이트가 권장됩니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37436",
+    "title": "Claude는 대규모 단백질 서열로 학습됐다",
+    "url": "https://news.hada.io/topic?id=37436&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37436&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "연구가 거의 없는 단백질의 다음 아미노산을 예측하는 실험에서, 비교한 LLM 중 최신 Claude 모델만 뚜렷한 서열 예측 능력을 보임. 이는 상당한 규모의 단백질 서열 학습을 뒷받침하는 근거임Claude Fable 5.2의 정답률은 실제 단백질에서 54%, 순서를 섞은 대조군에서 9%였음. GPT, Gemini와 시험한 오픈웨이트 모델 7종은 실제 서열과 대조군의 정답률 차이가 거의 없었음동일한 앞부분만 제공한 비교에서 Fable 5.2는 시험한 모든 공개 단백질 언어 모델을 앞섰음. Opus 5.5는 실제 서열과 대조군의 정답률 차이를 기준으로 ProtGPT3-10B와 비슷했고, ProGen3-3B보다는 낮았음…",
+    "score": 0,
+    "published_at": "2026-11-18T23:34:03+00:00",
+    "ai_summary": "최신 Claude 모델은 대규모 단백질 서열 학습을 통해 단백질의 다음 아미노산을 뚜렷하게 예측하는 능력을 보였습니다.\nClaude Fable 5.2는 실제 단백질 서열 예측에서 54%의 정답률을 기록했으며, 다른 LLM 및 공개 단백질 언어 모델보다 뛰어난 성능을 보였습니다.\n이는 Claude가 생물학적 서열 데이터를 활용했음을 시사합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37434",
+    "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
+    "url": "https://news.hada.io/topic?id=37434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Tencent가 Hy4 flash를 공개함. 약 2,200억 파라미터 중 토큰당 120억 개를 활성화하며, 네이티브 멀티모달과 100만 토큰 컨텍스트를 지원함API 요금은 100만 토큰당 입력 0.070달러, 출력 0.281달러로, Hy4보다 크게 낮음하이브리드 어텐션, LatentMoE, Engram으로 KV 캐시를 Hy4의 1/6로 줄이고, 강화학습으로 평균 종단 간 출력 토큰 수를 50% 줄임Tencent 내부 WorkIndex 평가에서 전반적인 작업 성능은 Hy4 preview를 소폭 웃돌았으며, 작업당 평균 비용은 Hy4의 1/20을 기록함가중치를 공개했으며, 일상 생산성 작업에 권장함.…",
+    "score": 0,
+    "published_at": "2026-11-18T22:33:07+00:00",
+    "ai_summary": "Tencent가 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델 Hy4 flash를 공개했습니다.\n약 2,200억 파라미터 중 120억 개만 활성화하며, 기존 Hy4 대비 API 요금이 크게 저렴합니다.\n하이브리드 어텐션 등으로 KV 캐시와 출력 토큰 수를 줄여 효율성을 높였고, 내부 평가에서 Hy4보다 성능은 소폭 우수하고 비용은 1/20 수준입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37433",
+    "title": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공",
+    "url": "https://news.hada.io/topic?id=37433&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37433&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Tasks가 미국, 일본, 한국, 캐나다, 호주, 인도에서 수억 명을 대상으로 무료 배포되기 시작함. 새 Gemini 4 Hydrogen 모델을 사용하며, 고급 기능 일부는 미국부터 출시함이메일, 캘린더, 비밀번호, 결제 수단과 연결해 전화 예약, 청구서 분석, 쇼핑을 수행함. Google 서비스에 이미 있는 개인 정보를 활용해 작업을 이어갈 수 있음구매에는 Agent Payments Protocol(AP2) 을 사용하며, 사전 지출 한도를 설정할 수 있음. 지원 카드의 디지털 토큰으로 결제를 보호하고 기존 카드 포인트와 구매 보호 혜택도 유지함작업 도중 추가 지…",
+    "score": 0,
+    "published_at": "2026-11-18T22:24:26+00:00",
+    "ai_summary": "Google Gemini의 개인 비서 기능 'Tasks'가 미국, 한국 등 수억 명에게 무료로 배포되기 시작했습니다. Gemini 4 Hydrogen 모델을 사용하여 이메일, 캘린더 등과 연결해 전화 예약, 청구서 분석 등을 수행합니다.\n구매에는 Agent Payments Protocol(AP2)을 사용하며, 사전 지출 한도 설정과 디지털 토큰으로 결제를 보호하고 기존 카드 혜택도 유지합니다.\n이 기능은 사용자의 기존 Google 서비스 개인 정보를 활용하여 작업을 원활하게 이어갈 수 있도록 지원합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37432",
+    "title": "Gemini 4 Neon - 복잡한 코딩과 분석에 추론 성능과 효율을 갖춘 AI 모델",
+    "url": "https://news.hada.io/topic?id=37432&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37432&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 복잡한 코딩과 분석을 빠르고 비용 효율적으로 처리하는 Gemini 4 Neon을 공개함. 가장 어려운 장기 프로젝트용 Carbon과 빠른 일상 작업용 Hydrogen 사이에서 추론 깊이와 효율의 균형을 맡음Artificial Analysis Intelligence Index에서 xhigh 추론 수준 기준 61점으로 전체 3위, Vals Index에서 2위를 기록했으며, 코딩 에이전트 지수에서는 전체 1위에 오름장시간 도구를 사용하는 에이전트 작업을 지원하며, Google Antigravity에서는 Hydrogen 하위 에이전트들을 병렬로 지휘하고 여러 파일의 디버깅과 리팩터링을 수행함…",
+    "score": 0,
+    "published_at": "2026-11-18T22:22:19+00:00",
+    "ai_summary": "Google이 복잡한 코딩과 분석을 빠르고 비용 효율적으로 처리하는 AI 모델, Gemini 4 Neon을 공개했습니다.\n이 모델은 가장 어려운 프로젝트용 Carbon과 빠른 일상 작업용 Hydrogen 사이에서 추론 깊이와 효율의 균형을 담당합니다.\n코딩 에이전트 지수에서 전체 1위를 기록했으며, 장시간 에이전트 작업 지원, 여러 파일의 디버깅 및 리팩터링 수행 능력을 갖추고 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37431",
+    "title": "Genie 4, Project Genie에서 이용 가능 - 실시간 세계 수정과 오디오 생성 지원",
+    "url": "https://news.hada.io/topic?id=37431&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37431&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 AI Ultra 구독자 중 이용 대상자에게 Genie 4를 제공하기 시작함. Project Genie에서 브라우저로 가상 세계를 만들고 직접 돌아다니며, 탐색 도중에도 프롬프트로 수정할 수 있음Genie 4는 탐색 도중 입력한 프롬프트로 날씨, 캐릭터, 행동을 바꾸며, 장면에 맞춰 주변 소리부터 캐릭터 대사까지 실시간 네이티브 오디오를 생성함Genie 3도 계속 제공하며, 생성당 탐색 시간이 60초에서 최대 3분으로 늘어남. 여러 세계 연결, 360도 파노라마 기반 생성, 자연어를 통한 실시간 환경 변경도 지원함Project Genie 에이전트는 자…",
+    "score": 0,
+    "published_at": "2026-11-18T22:18:39+00:00",
+    "ai_summary": "Google이 AI Ultra 구독자에게 Project Genie에서 Genie 4를 제공하기 시작했습니다. 브라우저로 가상 세계를 만들고 탐색하며 프롬프트로 실시간 수정이 가능합니다.\nGenie 4는 탐색 중 입력된 프롬프트로 날씨, 캐릭터, 행동을 바꾸고, 장면에 맞춰 실시간 네이티브 오디오를 생성합니다.\nGenie 3도 계속 제공되며, 생성당 탐색 시간이 3분으로 늘어났고, 여러 세계 연결 및 자연어 환경 변경 등을 지원합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37430",
+    "title": "Redict 공식 지원 종료",
+    "url": "https://news.hada.io/topic?id=37430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Redict가 공식적으로 지원 종료되며, 7.3.6이 마지막 릴리스임Redis에서 이탈한 커뮤니티를 카피레프트 프로젝트로 모으려 했지만, valkey의 성공과 Redis의 카피레프트 라이선스 복귀 속에서 지속 가능한 커뮤니티를 구축하지 못함기존 사용자에게는 valkey로 전환할 것을 권장하며, 허용적 라이선스를 사용하지만 장기 전망이 더 낫다고 봄Redis로의 복귀는 권장하지 않음. 다시 오픈 소스이자 카피레프트가 됐지만, 기여자 라이선스 계약이 향후 또다시 일방적인 라이선스 변경을 쉽게 만들 수 있다는 우려 때문임valkey 전환 절차…",
+    "score": 0,
+    "published_at": "2026-11-18T22:01:00+00:00",
+    "ai_summary": "Redis에서 분리되었던 Redict가 공식적으로 지원 종료되며, 7.3.6이 마지막 릴리스입니다. Valkey의 성공과 Redis의 라이선스 복귀 속에서 지속 가능한 커뮤니티 구축에 실패했습니다.\n기존 사용자에게는 허용적 라이선스를 사용하는 Valkey로 전환할 것을 권장하며, Redis 복귀는 기여자 라이선스 계약 문제를 우려하여 권장하지 않습니다.\n이 결정은 데이터베이스 생태계의 중요한 변화로, 관련 프로젝트를 사용하는 개발자들에게 직접적인 영향을 미칠 것입니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37429",
+    "title": "AI 에이전트, 감사 실험에서 KPMG 회계사보다 더 나은 질문 던져",
+    "url": "https://news.hada.io/topic?id=37429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "KPMG UK가 100개 이상의 AI 에이전트로 영국 상장사의 재무제표를 검토한 실험에서, 에이전트들이 일부 사안을 기존 감사팀보다 깊이 조사하고 사람이 묻지 않았던 질문을 던짐Project Exponential은 단순 행정 보조를 넘어 감사 전반에 에이전트를 투입했으며, 정보 수집부터 분석, 문서화, 결론 초안 작성과 후속 조치 제안까지 수행함이번 실험은 정식 법정감사가 아니며, 결과도 회사 재무제표의 공식 승인 근거로 사용되지 않음KPMG는 최대 20건의 더 큰 규모 감사로 실험을 확대할 계획이지만, 수천 건의 감사에 적용할 만큼 기…",
+    "score": 0,
+    "published_at": "2026-11-18T21:32:41+00:00",
+    "ai_summary": "KPMG UK의 감사 실험에서 AI 에이전트 100여 개가 회계사보다 더 깊이 있는 질문을 던지고 일부 사안을 심층 조사했습니다.\nProject Exponential은 정보 수집부터 분석, 문서화, 결론 초안 작성까지 감사 전반에 에이전트를 투입하여 업무 효율성을 입증했습니다.\n이번 실험은 정식 법정감사가 아니지만, KPMG는 더 큰 규모의 감사로 실험을 확대할 계획이며 AI의 적용 가능성을 탐색하고 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50552424",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50552424",
+    "summary": "",
+    "score": 550,
+    "published_at": "2026-11-18T21:34:07+00:00",
+    "ai_summary": "이 기사는 복잡한 코딩과 분석에 최적화된 Google의 AI 모델인 Gemini 4 Neon을 다룹니다. (제목만 제공되었으며, 내용은 동일 제목의 다른 기사를 참조합니다.)\n이 모델은 추론 성능과 효율의 균형을 이뤄 코딩 에이전트 및 디버깅 작업을 위한 강력한 지원을 제공하는 것으로 알려져 있습니다.\n개발자들에게는 AI를 활용한 코드 작업의 효율성을 크게 높일 수 있는 중요한 도구가 될 것입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50547374",
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "discussion_url": "https://news.ycombinator.com/item?id=50547374",
+    "summary": "",
+    "score": 1202,
+    "published_at": "2026-11-18T15:19:55+00:00",
+    "ai_summary": "Nginx에서 인증되지 않은 원격 코드 실행(RCE) 취약점이 발견되어 심각한 보안 위험이 발생했습니다. 이 취약점은 공격자가 인증 없이도 서버에서 임의 코드를 실행할 수 있게 합니다.\n이는 웹 서버를 사용하는 모든 백엔드 시스템과 애플리케이션에 대한 직접적인 위협이므로, 즉각적인 보안 패치와 조치가 필수적입니다.\nDevOps 및 보안 팀은 해당 Nginx 버전을 확인하고 신속하게 업데이트하여 잠재적인 공격에 대비해야 합니다.",
+    "relevance_score": 0.99,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50554038",
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554038",
+    "summary": "",
+    "score": 128,
+    "published_at": "2026-11-18T23:52:50+00:00",
+    "ai_summary": "Regexp 및 문자열 케이스 변환 기능에서 여러 취약점이 발견되어 개발자들에게 주의가 요구됩니다. 이 취약점들은 애플리케이션의 안정성과 데이터 무결성에 영향을 미칠 수 있습니다.\n예상치 못한 동작이나 잠재적인 보안 문제(예: 서비스 거부 공격, 데이터 손상)로 이어질 수 있으므로 신속한 대응이 필요합니다.\n개발자들은 사용 중인 프로그래밍 언어나 라이브러리의 해당 버전을 확인하고, 최신 패치 또는 업데이트를 적용하여 취약점을 해결해야 합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50549188",
+    "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+    "url": "https://news.ycombinator.com/item?id=50549188",
+    "discussion_url": "https://news.ycombinator.com/item?id=50549188",
+    "summary": "",
+    "score": 45,
+    "published_at": "2026-11-18T17:26:28+00:00",
+    "ai_summary": "Maritime는 AI 에이전트 개발자들이 프로덕션 환경에서 모델을 쉽게 배포하고 관리할 수 있도록 돕는 클라우드 플랫폼입니다.\n복잡한 인프라 설정 없이 AI 에이전트의 안정적인 운영과 확장을 지원하여 개발 생산성을 높입니다.\n특히 MLOps와 관련된 어려움을 해결하고자 하는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50554641",
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554641",
+    "summary": "",
+    "score": 54,
+    "published_at": "2026-11-19T00:57:20+00:00",
+    "ai_summary": "AI 감시 시스템이 도리토스 봉지를 총으로 오인하여 흑인 고등학생들이 소송을 제기한 사건입니다.\n이 사건은 AI 모델의 편향성과 오작동이 심각한 사회적, 법적 문제를 초래할 수 있음을 보여줍니다.\nAI 개발 시 윤리적 고려와 모델의 공정성, 정확성 검증의 중요성을 강조합니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "title": "Introducing GPT-6.2 Astra and Sol (14 minute read)",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "discussion_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "summary": "OpenAI released GPT-6.2 Astra, a frontier model for the hardest projects, and GPT-6.2 Sol, an efficient everyday model. Both are available now in ChatGPT Work, Codex, and the API.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "OpenAI가 고난도 프로젝트용 GPT-6.2 Astra와 효율적인 일상용 GPT-6.2 Sol 모델을 출시했습니다. 이 모델들은 ChatGPT Work, Codex 및 API에서 즉시 사용 가능합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "title": "Microsoft's Seven New Models (4 minute read)",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "discussion_url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "summary": "Microsoft AI released seven new models built for strong performance at low prices. Its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price. The lineup also covers cybersecurity, image editing, and real-time voice.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Microsoft AI가 저렴한 가격에 고성능을 제공하는 7가지 새로운 모델을 공개했습니다. 특히 MAI Code 2는 GPT-6.1 Sol 코딩 품질의 98%에 도달하며 비용은 약 40% 수준입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://replit.com/blog/introducing-replit-missions",
+    "title": "Introducing Replit Missions (8 minute read)",
+    "url": "https://replit.com/blog/introducing-replit-missions",
+    "discussion_url": "https://replit.com/blog/introducing-replit-missions",
+    "summary": "Replit launched Missions, a tool for coordinating swarms of AI agents to tackle complex projects like winning enterprise clients or developing software, within specified budgets. Their mission-built DataCat, an application monitoring platform that achieved faster performance benchmarks and surpassed a competing platform in API compatibility tests. This system enables small teams to pursue ambitious projects by defining goals and constraints, while agents execute tasks, providing businesses with ",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Replit이 AI 에이전트 무리를 조정하여 복잡한 프로젝트를 수행하는 'Missions'를 출시했습니다. 이 도구를 통해 작은 팀도 정해진 예산 내에서 소프트웨어 개발과 같은 야심찬 프로젝트를 추진할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://horizon-labs.ai/",
+    "title": "Horizon Labs (12 minute read)",
+    "url": "https://horizon-labs.ai/",
+    "discussion_url": "https://horizon-labs.ai/",
+    "summary": "Horizon is an agent based on Opus 5.5. Researchers gave it full access to a blank Hugging Face account and compute with the main goal of enabling real adoption on Hugging Face. Horizon used over 600 GPU hours and autonomously created 38 models. These models are now housed in over 100 GitHub repositories and have been downloaded more than 50,000 times.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Horizon은 Hugging Face 계정과 컴퓨팅 자원에 완전 접근하여 38개의 모델을 자율적으로 생성한 에이전트입니다. 이 모델들은 100개 이상의 GitHub 저장소에 보관되어 있으며 50,000회 이상 다운로드되었습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://notesbylex.com/weight-space-programming-1990s.html",
+    "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
+    "url": "https://notesbylex.com/weight-space-programming-1990s.html",
+    "discussion_url": "https://notesbylex.com/weight-space-programming-1990s.html",
+    "summary": "Frontier models can read, write, and edit the weights of neural networks. This could present new ways to train networks. This researcher ran a weight-writing experiment with Claude Fable 5.2 on a familiar image classification problem. The way the model worked resembled the work of researchers from the 1990s, who used hand-crafted, pre-deep-learning techniques.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "최신 모델들이 신경망의 가중치를 읽고 쓰고 편집할 수 있게 되면서 새로운 네트워크 훈련 방식이 가능해졌습니다. 이는 1990년대 연구자들이 사용했던 수작업 기술과 유사한 방식으로 작동합니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/eve-is-now-generally-available",
+    "title": "Vercel's eve 1.0 (10 minute read)",
+    "url": "https://vercel.com/blog/eve-is-now-generally-available",
+    "discussion_url": "https://vercel.com/blog/eve-is-now-generally-available",
+    "summary": "Vercel released eve 1.0, its open-source framework for building production-ready AI agents. It manages the loop that calls models and runs tools, along with memory, approvals, and monitoring.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Vercel이 프로덕션 준비가 된 AI 에이전트 구축을 위한 오픈소스 프레임워크 eve 1.0을 출시했습니다. eve 1.0은 모델 호출 및 도구 실행 루프, 메모리, 승인 및 모니터링을 관리합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+    "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)",
+    "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+    "discussion_url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+    "summary": "NVIDIA's sparse attention technique reduces compute and memory costs for transformers, solving bottlenecks in long-context inference by focusing on selective attention. Indexers in sparse attention score a subset of keys efficiently, aided by techniques like speculative decoding, cross-head reduction, and block-level selection to optimize performance on NVIDIA GPUs.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "NVIDIA의 희소 어텐션(sparse attention) 기술은 트랜스포머의 계산 및 메모리 비용을 줄여 긴 컨텍스트 추론의 병목 현상을 해결합니다. 이 기술은 NVIDIA GPU에서 성능을 최적화하는 데 기여합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "title": "FrontierHarness Eval v1.1 (14 minute read)",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "discussion_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "summary": "The best coding-agent harness, the software that runs a model on a task, depends on the model. Harness choice alone can change cost per task by up to five times.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "최고의 코딩 에이전트 하네스(모델을 작업에 실행시키는 소프트웨어)는 사용하는 모델에 따라 달라집니다. 하네스 선택만으로도 작업당 비용이 최대 5배까지 변동될 수 있습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "title": "Cerebras launches disaggregated inference (6 minute read)",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "discussion_url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "summary": "Cerebras' disaggregated inference service lets GPUs handle prompt processing while the company's systems handle output generation. The solution delivers five times more tokens per megawatt at the same ultrafast speeds. It allows Cerebras and partners to serve many more ultrafast tokens. Disaggregated inference is now in early access, and access is being expanded.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Cerebras의 분리형 추론 서비스는 GPU가 프롬프트 처리를, Cerebras 시스템이 출력 생성을 담당한다. 이 솔루션은 동일한 속도로 5배 더 많은 토큰을 처리하며, 초고속 토큰 처리량을 크게 늘린다. 분리형 추론은 현재 얼리 액세스 중이다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://commandline.microsoft.com/microsoft-decision-model-ga/",
+    "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making (34 minute read)",
+    "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/",
+    "discussion_url": "https://commandline.microsoft.com/microsoft-decision-model-ga/",
+    "summary": "Microsoft's decision models are designed to make calibrated decisions in the face of uncertainty across a wide range of real-world software use cases.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Microsoft-Decision-1.1 모델이 빠르고 저렴한 의사결정을 위해 정식 출시되었다. 이 모델은 불확실한 상황에서 보정된 의사결정을 내리도록 설계되었다. 다양한 실제 소프트웨어 사용 사례에 적용 가능하다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
+    "title": "Introducing Computer's Multiagent effort level (4 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
+    "summary": "Computer's Multiagent, a new effort level, enhances complex problem-solving by using multiple agents working in parallel.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "Computer's Multiagent에 새로운 '노력 수준(effort level)'이 도입되었다. 이 기능은 여러 에이전트가 병렬로 작동하여 복잡한 문제 해결 능력을 향상시킨다. AI 시스템의 효율성과 문제 해결 역량을 강화한다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/",
+    "title": "Experiments in Weight-Space Programming (15 minute read)",
+    "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/",
+    "discussion_url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/",
+    "summary": "GPT-6 Astra can look at an AI model, identify what task the network was built for just by looking at its raw weights, write the weights of a game-playing policy network from scratch, and improve models by editing model weights directly.",
+    "score": 0,
+    "published_at": "2026-11-19T03:59:20+00:00",
+    "ai_summary": "GPT-6 Astra는 AI 모델의 원시 가중치만으로 모델의 목적을 식별할 수 있다. 게임 플레이 정책 네트워크 가중치를 처음부터 작성하고, 모델 가중치를 직접 편집하여 모델을 개선하는 것이 가능하다. 이는 가중치 공간 프로그래밍이라는 새로운 접근 방식이다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  }
+]
