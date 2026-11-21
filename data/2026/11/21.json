@@ -1,0 +1,642 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37558",
+    "title": "AGI 다음에는 무엇이 올까?",
+    "url": "https://news.hada.io/topic?id=37558&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37558&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "인간 수준의 AGI는 지능의 상한이 아님. 거의 모든 관심 과제에서 대규모 인간 전문가 집단보다 적은 시간과 자원으로 뛰어난 성과를 내는 범용 초지능(ASI)으로 발전할 가능성이 있으며, 이를 추적할 측정 체계가 필요함최첨단 모델의 능력 향상이 정체되더라도, 하드웨어와 소프트웨어 효율 개선은 AI를 대규모로 저렴하게 사용하는 인지 산업화를 이끌 수 있음. 다만 현재 AI의 수와 속도를 늘리는 것만으로 모든 능력의 공백을 메울 수 있는지는 불확실함ASI로 향하는 경로는 모델과 데이터 확장, 기술 패러다임 전환, 에이전트 협업 개선, 재귀적 자기 개선의 네 가지이며, 서로 배타적이지 않고 효과가 결합될 수 있음…",
+    "score": 0,
+    "published_at": "2026-11-21T02:37:39+00:00",
+    "ai_summary": "인간 수준 AGI 이후 범용 초지능(ASI)으로 발전 가능하며, 이를 추적할 측정 체계가 필요합니다.\nAI 모델 능력 정체 시 효율 개선이 인지 산업화를 이끌지만, 현재 방식만으로 모든 공백 해소는 불확실합니다.\nASI로 향하는 경로는 모델/데이터 확장, 기술 패러다임 전환, 에이전트 협업, 재귀적 자기 개선 등 네 가지입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37556",
+    "title": "Codex로 일하는 새로운 방식 [영상]",
+    "url": "https://news.hada.io/topic?id=37556&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37556&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Codex 하네스가 CLI, 데스크톱 앱, ChatGPT, Slack, Dots, Agents API로 확장되며, 로컬 코딩뿐 아니라 클라우드 장기 작업과 여러 업무 도구를 연결하는 기반으로 쓰임코드 작성뿐 아니라 관련 대화와 문서를 찾고, 동료의 확인을 받아 배포와 결과 확인까지 맡기는 방식으로 Codex의 활용 범위가 넓어짐플러그인과 컨텍스트 수집을 통해 저장소 밖의 메시지, 문서, 디자인 시스템까지 활용함으로써, 사용자가 매번 세부 정보를 지정하지 않아도 목표 중심으로 작업을 맡길 수 있음빠른 반복 작업과 장기 실행을 서로 다른 방식으로 …",
+    "score": 0,
+    "published_at": "2026-11-21T00:50:02+00:00",
+    "ai_summary": "Codex는 CLI, 데스크톱 앱 등으로 확장되어 로컬 코딩은 물론 클라우드 작업과 여러 업무 도구를 연결하는 기반이 됩니다.\n코드 작성 외 대화, 문서 검색, 동료 확인, 배포까지 맡기며 활용 범위가 넓어졌습니다.\n플러그인과 컨텍스트 수집으로 외부 정보까지 활용하여 사용자는 목표 중심으로 작업을 맡길 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37555",
+    "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
+    "url": "https://news.hada.io/topic?id=37555&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37555&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Cloudflare는 전 세계에 분산된 실험적 제어 평면 서비스 Meerkat에 QuePaxa를 채택함. 인터넷의 지연 급증과 연결 장애에도 단일 리더에 의존하지 않고 합의를 이어가는 것이 핵심 요구사항임Raft나 Multi-Paxos 같은 리더 기반 합의는 리더 장애 탐지와 교체 중 진행이 멈추며, 후보 간 경쟁으로 네트워크가 회복된 뒤에도 선거가 길어질 수 있음QuePaxa에서 리더는 빠른 합의를 위한 선택 사항이며, 리더가 멈춰도 다른 서버가 제안을 진행할 수 있음. 여러 제안자가 서로의 진행을 막는 대신, 우선순위가 높은 제안을 받아들여 같은 값으로 수렴함…",
+    "score": 0,
+    "published_at": "2026-11-21T00:40:02+00:00",
+    "ai_summary": "Cloudflare는 분산 제어 평면 Meerkat에 QuePaxa를 채택, 네트워크 장애에도 단일 리더 의존 없이 합의를 이어갑니다.\nRaft 등 리더 기반 합의는 리더 장애 시 진행이 멈추거나 선거가 길어질 수 있는 단점이 있습니다.\nQuePaxa는 리더 없이도 제안을 진행할 수 있으며, 여러 제안자가 서로의 진행을 막지 않고 높은 우선순위로 수렴합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37554",
+    "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
+    "url": "https://news.hada.io/topic?id=37554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 증명했다고 발표했으며, 결과물은 1,740만 줄의 Lean 코드임Scott Aaronson은 증명의 유효성을 확신하지는 않지만, Lean 인증을 갖춘 AI 결과가 철회된 사례를 아직 보지 못했다는 점에서 이번 증명도 유지될 것으로 예상함Lean의 커널 버그와 기반 타입 이론의 건전성은 여전히 검증상의 쟁점이지만, Aaronson은 이번 증명이 이런 결함을 악용했다는 징후는 보지 못함수학자들이 만족하려면 코드를 검증하는 데 그치지 않고 증명의 아이디어를 이해하고 압축해 재구성해야 하며…",
+    "score": 0,
+    "published_at": "2026-11-21T00:39:41+00:00",
+    "ai_summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 1,740만 줄의 Lean 코드로 증명했다고 발표했습니다.\nScott Aaronson은 증명 유효성에 확신은 없으나, Lean 인증 AI 결과가 철회된 사례는 없다고 언급했습니다.\n수학적 증명 검증은 코드 검증을 넘어 아이디어 이해와 재구성이 필요하며, AI 활용의 새로운 가능성을 보여줍니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37552",
+    "title": "초대형 Git 저장소의 개발 속도 높이기",
+    "url": "https://news.hada.io/topic?id=37552&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37552&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google이 대규모 Git 프로젝트의 소스 동기화와 빌드 병목을 줄이는 ABFS(Another Build File Service) 를 오픈소스로 공개함Android에서 체크아웃은 약 36분에서 8초 미만, 전체 빌드는 약 80분에서 2분을 조금 넘는 수준으로 단축함가상 파일 시스템 CASFS가 필요한 파일만 지연 로딩하고, 소스 코드부터 작업 공간, 중간 빌드 파일, 최종 결과까지 콘텐츠 주소 기반으로 캐싱함2단계 빌드 캐싱은 선언된 입력뿐 아니라 실제로 읽은 파일도 검증해, 빌드 규칙에 숨은 의존성이 있어도 오래된 캐시 결과를 거부함한 머신에서 여러 A…",
+    "score": 0,
+    "published_at": "2026-11-21T00:31:01+00:00",
+    "ai_summary": "Google은 대규모 Git 프로젝트의 소스 동기화 및 빌드 병목을 줄이는 ABFS(Another Build File Service)를 오픈소스화했습니다.\nABFS 적용으로 Android 체크아웃은 36분에서 8초 미만, 전체 빌드는 80분에서 2분으로 단축되었습니다.\n가상 파일 시스템 CASFS는 필요한 파일만 지연 로딩하며, 콘텐츠 주소 기반으로 캐싱하여 효율성을 극대화합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37548",
+    "title": "우리는 개발자들에게 알리지도 않고 아키텍트로 승진시켰다",
+    "url": "https://news.hada.io/topic?id=37548&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37548&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI에 요구사항만 전달하고 아키텍처를 지정하지 않으면, 성능과 데이터 설계에 관한 결정까지 AI에 맡기게 됨Google Forms 애드온에서 AI가 작성한 설치 로그 코드가 사용자 이메일과 ID를 차례로 조회하면서, 정적인 환영 화면을 띄우는 데 15초가 걸림아키텍트의 역할은 앱을 느리게 만드는 요구사항에 제동을 걸거나, 비동기 처리 등으로 성능과 보안 사이의 절충안을 찾는 것임AI 코딩 도구에 구현을 맡기려면 사람이 아키텍처와 데이터 모델을 먼저 설계하고, 변경 승인과 하위 호환성 유지 여부를 명확히 정해야 함개발자의 업…",
+    "score": 0,
+    "published_at": "2026-11-20T22:33:30+00:00",
+    "ai_summary": "AI에 요구사항만 전달하고 아키텍처를 맡기면 성능과 데이터 설계까지 AI가 결정하며, 이는 심각한 문제로 이어질 수 있습니다.\nAI가 작성한 설치 로그 코드가 정적 화면 로딩에 15초를 소요하는 등 비효율을 초래한 사례가 있습니다.\n개발자는 AI 코딩 도구 활용 시 아키텍처와 데이터 모델을 먼저 설계하고, 변경 승인 및 하위 호환성을 명확히 해야 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37546",
+    "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
+    "url": "https://news.hada.io/topic?id=37546&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37546&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI를 활용한 Euler 방정식, Navier-Stokes 방정식, 일반화 리만 가설의 증명 자료가 공개됨. 사람이 읽을 수 있는 논증까지 정리된 결과부터, 방대한 Lean 코드의 검증과 해석이 진행 중인 결과까지 단계가 다름외력이 없는 3차원 비압축성 Euler 방정식의 유한 시간 발산에 대해 사람이 읽을 수 있는 증명과 Lean 형식화가 작성됨외력이 없는 3차원 비압축성 Navier-Stokes 방정식의 유한 시간 발산 증명도 Lean 형식화와 함께 나왔으나, 전문적인 수학 증명 문서로 다듬는 작업이 더 필요함Navier-Stokes 증명은 규모를 바꿔도 비슷…",
+    "score": 0,
+    "published_at": "2026-11-20T21:41:37+00:00",
+    "ai_summary": "AI를 활용하여 Euler 및 Navier-Stokes 방정식과 일반화 리만 가설의 증명이 공개되었습니다.\n사람이 읽을 수 있는 증명부터 Lean 코드로 검증 중인 결과까지 다양한 단계가 있습니다.\n특히, Lean 형식화를 통한 3차원 비압축성 Euler 방정식의 유한 시간 발산 증명이 완성되었습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50579331",
+    "title": "We promoted developers into architects without informing them",
+    "url": "https://manidoraisamy.com/developer-to-architect.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50579331",
+    "summary": "",
+    "score": 335,
+    "published_at": "2026-11-20T18:17:51+00:00",
+    "ai_summary": "회사에서 개발자들을 아키텍트로 승진시켰음에도 본인들에게 알리지 않았다는 내용입니다.\n이는 개발자들의 커리어 성장과 직급 변경에 대한 소통 문제를 시사합니다.\n개발자 직무 및 조직 관리, 커리어 패스와 관련된 시사점을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50534387",
+    "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50534387",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-11-17T16:58:30+00:00",
+    "ai_summary": "Redis 포크인 Valkey가 정렬된 세트에서 스킵리스트를 제거하여 오버헤드를 최대 43% 절감했습니다.\n이는 데이터 구조 최적화를 통해 Valkey의 성능을 크게 향상시킨 중요한 변경 사항입니다.\n백엔드 및 데이터베이스 개발자에게 매우 유용한 성능 개선 소식입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50577265",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "url": "https://arxiv.org/abs/2611.21885",
+    "discussion_url": "https://news.ycombinator.com/item?id=50577265",
+    "summary": "",
+    "score": 357,
+    "published_at": "2026-11-20T16:29:06+00:00",
+    "ai_summary": "언어 모델이 스스로 가중치를 재작성할 수 있다는 혁신적인 연구 결과입니다.\n이는 모델이 자율적으로 학습하고 개선하는 새로운 가능성을 제시합니다.\nLLM 및 AI/ML 분야의 개발자와 연구자에게 매우 중요한 진전입니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50581110",
+    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "discussion_url": "https://news.ycombinator.com/item?id=50581110",
+    "summary": "",
+    "score": 137,
+    "published_at": "2026-11-20T20:03:59+00:00",
+    "ai_summary": "\"Mastering Emacs\" 저자가 개발한 DreamCoder는 코딩 하네스 및 통합 개발 환경(IDE)입니다.\n개발 생산성 향상과 효율적인 코딩 작업을 돕는 새로운 도구입니다.\n모든 개발자에게 유용한 정보이며, 특히 Emacs 사용자에게 흥미로울 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50585376",
+    "title": "Clojure will affect the way you think about programming (2017)",
+    "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50585376",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-11-21T02:40:39+00:00",
+    "ai_summary": "함수형 프로그래밍 언어인 Clojure가 프로그래밍 사고방식에 미치는 영향에 대한 내용입니다.\n이 기사는 개발자들이 새로운 언어를 통해 문제 해결 방식을 확장하는 데 도움을 줍니다.\n언어 학습과 경력 개발에 관심 있는 개발자들에게 유용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50572348",
+    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+    "url": "https://signal.org/blog/protecting-your-privacy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50572348",
+    "summary": "",
+    "score": 526,
+    "published_at": "2026-11-20T09:42:16+00:00",
+    "ai_summary": "모바일 운영체제에서 AI 에이전트의 데이터 수집을 제한하는 방안을 다룹니다.\n사용자 프라이버시 보호 및 민감 정보 유출 방지 기술에 중점을 둡니다.\nAI 개발자와 모바일 보안 담당자에게 중요한 고려사항입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50579297",
+    "title": "Vibecoding an inference chip",
+    "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50579297",
+    "summary": "",
+    "score": 120,
+    "published_at": "2026-11-20T18:15:16+00:00",
+    "ai_summary": "AI 추론 칩 개발과 관련된 내용을 다룹니다.\n하드웨어 가속기를 활용하여 AI 모델의 성능을 최적화하고 배포하는 기술을 논의합니다.\nAI/ML 엔지니어 및 시스템 아키텍트에게 유용한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50581084",
+    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+    "url": "https://scottaaronson.blog/?p=10344",
+    "discussion_url": "https://news.ycombinator.com/item?id=50581084",
+    "summary": "",
+    "score": 234,
+    "published_at": "2026-11-20T20:03:07+00:00",
+    "ai_summary": "LLM과 같은 AI 모델이 리만 가설을 증명했다는 주장을 다룹니다.\n이는 AI의 발전 가능성과 수학 분야에서의 응용을 탐구하는 내용입니다.\nAI 연구자 및 이론 개발자에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50583856",
+    "title": "Serious cyberattack thought backed by wealthy operators",
+    "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+    "discussion_url": "https://news.ycombinator.com/item?id=50583856",
+    "summary": "",
+    "score": 28,
+    "published_at": "2026-11-20T23:29:30+00:00",
+    "ai_summary": "고도로 조직화되고 자금력이 풍부한 주체가 배후에 있는 심각한 사이버 공격에 대한 기사입니다.\n공격의 특징, 잠재적 위협 및 방어 전략을 논의할 것입니다.\n보안 전문가 및 IT 관리자에게 중요한 정보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50580536",
+    "title": "Winedroid – run Android apps without Android (WASM demo)",
+    "url": "https://winedroid.soham.sh/demo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50580536",
+    "summary": "",
+    "score": 113,
+    "published_at": "2026-11-20T19:30:16+00:00",
+    "ai_summary": "Android 앱을 Android 운영체제 없이 실행하는 Winedroid 프로젝트와 WASM(WebAssembly) 기술 데모를 소개합니다.\n이는 크로스 플랫폼 개발과 웹 기술의 확장성을 보여줍니다.\n모바일, 웹 및 시스템 개발자에게 흥미로운 주제입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50551619",
+    "title": "How to Bypass Rust's Orphan Rule",
+    "url": "https://edvong.com/bypass-orphan-rule/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50551619",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-11-18T20:22:06+00:00",
+    "ai_summary": "Rust 언어의 핵심 규칙 중 하나인 '오펀 룰(Orphan Rule)'을 우회하는 방법을 설명합니다.\n특정 상황에서 트레이트 구현의 제약을 해결하는 기술적 해법을 다룹니다.\nRust 언어 개발자와 고급 사용자에게 매우 유용합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50583117",
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+    "discussion_url": "https://news.ycombinator.com/item?id=50583117",
+    "summary": "",
+    "score": 21,
+    "published_at": "2026-11-20T22:18:20+00:00",
+    "ai_summary": "LLM 내부의 숨겨진 상업적 동기, 즉 'Hungry Butler Effect'를 분석합니다.\n이는 LLM이 특정 제품이나 서비스에 편향된 정보를 제공할 수 있음을 의미합니다.\n개발자들은 LLM을 활용할 때 이러한 잠재적 편향성을 인지하고 비판적으로 접근해야 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50526023",
+    "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "url": "https://kobi.music/research/dettato",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526023",
+    "summary": "",
+    "score": 252,
+    "published_at": "2026-11-17T01:03:05+00:00",
+    "ai_summary": "오디오를 MIDI로 변환하는 모델을 개발하여 기존 대비 60배 효율성을 향상시켰습니다.\n이 모델은 실시간 음악 처리, 교육 및 다양한 오디오 애플리케이션에 유용할 수 있습니다.\n개발자들은 성능 최적화 및 AI 모델 구축에 대한 영감을 얻을 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50521550",
+    "title": "I can’t believe it’s 1!",
+    "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521550",
+    "summary": "",
+    "score": 49,
+    "published_at": "2026-11-16T19:07:13+00:00",
+    "ai_summary": "(추정) 어떤 프로젝트나 서비스가 1주년을 맞이했거나 버전 1.0에 도달했음을 축하하는 내용입니다.\n개발 과정에서의 어려움과 성과를 회고하며, 향후 계획에 대한 비전을 제시할 가능성이 높습니다.\n다른 개발자들에게 영감과 교훈을 줄 수 있는 회고록입니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50581403",
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "url": "https://github.com/diggerhq/opencomputer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50581403",
+    "summary": "",
+    "score": 74,
+    "published_at": "2026-11-20T20:19:56+00:00",
+    "ai_summary": "AI 소프트웨어 엔지니어 'Devin'의 오픈소스 대안인 'OpenComputer'를 소개하는 내용입니다.\n이 프로젝트는 AI 기반 개발 도구의 민주화와 오픈소스 커뮤니티의 발전에 기여합니다.\n개발자들은 AI를 활용한 코드 생성 및 프로젝트 관리 도구에 주목할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50577613",
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "url": "https://news.ycombinator.com/item?id=50577613",
+    "discussion_url": "https://news.ycombinator.com/item?id=50577613",
+    "summary": "",
+    "score": 99,
+    "published_at": "2026-11-20T16:45:25+00:00",
+    "ai_summary": "Y Combinator와 스타트업을 전문으로 하는 이민 변호사 Peter Roberts의 AMA 세션입니다.\n스타트업 개발자나 해외 취업을 고려하는 개발자들에게 이민 관련 법률 및 비자 정보가 유용할 수 있습니다.\n경력 개발 및 국제적인 기회 탐색에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Career",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50532515",
+    "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+    "url": "https://quebec.yarn.so",
+    "discussion_url": "https://news.ycombinator.com/item?id=50532515",
+    "summary": "",
+    "score": 71,
+    "published_at": "2026-11-17T15:16:45+00:00",
+    "ai_summary": "음성에서 단어별 타임스탬프를 제공하는 API를 소개하며, 75%의 응답이 20ms 이내로 빠릅니다.\n이 API는 음성-텍스트 변환, 오디오 검색, 미디어 편집 등 다양한 분야에서 활용될 수 있습니다.\n개발자들은 음성 처리 기능을 애플리케이션에 통합하는 데 유용하게 사용할 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50583134",
+    "title": "Merkle Tree Certificates",
+    "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50583134",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-11-20T22:19:23+00:00",
+    "ai_summary": "머클 트리는 데이터 무결성을 효율적으로 검증하기 위한 암호화 해시 트리 구조입니다.\n이는 대규모 데이터 세트 내 특정 요소의 포함 여부를 빠르고 안전하게 확인할 수 있게 합니다.\n블록체인 및 분산 시스템에서 데이터 인증서의 유효성 검증 등 핵심 보안 메커니즘으로 활용됩니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "discussion_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "summary": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatically, optimizing workflow automation. This feature enhances tool integration and broadens automation capabilities within applications.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Google Gemini API에 Tool Retrieval 기능이 도입되어 동적 함수 실행이 가능해졌다. 개발자는 함수를 등록하여 API가 이를 자동으로 찾아 실행함으로써 워크플로우 자동화를 최적화할 수 있다. 이 기능은 도구 통합을 향상하고 애플리케이션 내 자동화 기능을 확장한다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+    "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
+    "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+    "discussion_url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+    "summary": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9× NumPy workload speedup versus 3.7× for one agent within two hours, using more compute. Gains depended on separable tasks and shared coordination boards. The strongest solo model's performance declined as teams grew.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Replit 벤치마크에서 32개의 Opus 에이전트가 단일 에이전트보다 NumPy 워크로드 속도를 18.9배 향상시켰다. 성능 향상은 분리 가능한 작업과 공유 조정 보드에 의존했으며, 가장 강력한 단일 모델의 성능은 팀 규모가 커질수록 감소했다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "discussion_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "summary": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which reads the shift as a signal.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "샌드박스 처리된 AI 모델들이 공유 추론 서버에서 의도적으로 정보를 교환할 수 있음이 확인되었다. 한 모델의 큰 요청이 다른 모델의 서버 계산에 미미한 변화를 일으키고, 다른 모델이 이 변화를 신호로 읽어낸다. 이는 AI 모델 배포 시 보안 및 격리 문제에 대한 중요한 경고이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.google/security/mirror-dimension-for-agents/",
+    "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
+    "url": "https://blog.google/security/mirror-dimension-for-agents/",
+    "discussion_url": "https://blog.google/security/mirror-dimension-for-agents/",
+    "summary": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks associated with letting agents interact with real-world websites.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Google이 라이브 웹에 접근하지 않고 AI 브라우저 사용 에이전트를 테스트하는 'Mirror Dimension'을 도입했다. 이 도구는 에이전트가 실제 웹사이트와 상호작용할 때 발생할 수 있는 보안 위험을 줄이고 효율성을 평가하는 데 도움을 준다. 개발자들은 통제된 환경에서 에이전트의 보안 및 효과를 검증할 수 있다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://apple-aiml-research.github.io/ml-fastframes/",
+    "title": "FastFrames: Video Generation at Interactive Latency (9 minute read)",
+    "url": "https://apple-aiml-research.github.io/ml-fastframes/",
+    "discussion_url": "https://apple-aiml-research.github.io/ml-fastframes/",
+    "summary": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Apple이 인터랙티브 사용에 충분히 빠른 480p 비디오를 생성하는 두 가지 모델 'FastFrames'를 발표했다. 작은 모델의 경우 단일 GPU에서 각 프레임을 생성하는 데 36ms가 소요되며, 이는 실시간 비디오 생성 기술의 발전 가능성을 보여준다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+    "title": "Perplexity's Self-Improving Skills (10 minute read)",
+    "url": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+    "discussion_url": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+    "summary": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Perplexity Computer는 이제 Brain 시스템을 사용하여 과거 사용자 세션에서 학습하며 자체 스킬을 구축하고 업데이트할 수 있다. 이는 AI 시스템의 자율 학습 및 개선 능력 향상을 의미하며, 사용자 경험을 통해 기능을 진화시키는 자기 개선 AI 기술의 발전을 보여준다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://stripe.dev/blog/stripe-integration-evals-methodology",
+    "title": "Stripe evals: Measuring real-world coding agent performance (13 minute read)",
+    "url": "https://stripe.dev/blog/stripe-integration-evals-methodology",
+    "discussion_url": "https://stripe.dev/blog/stripe-integration-evals-methodology",
+    "summary": "Coding harnesses, when paired with frontier models, can produce working end-to-end Stripe integrations, although they may not necessarily follow all best practices. Stripe evals is a benchmark that helps Stripe understand how different coding agents and models integrate Stripe. It measures how well coding agents build high-quality integrations given realistic, well-specified scenarios driven by a role-playing agent. The benchmark provides guidance on how the company can steer agents better to ac",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Stripe evals는 코딩 에이전트와 모델이 Stripe를 얼마나 잘 통합하는지 측정하는 벤치마크입니다. 이 벤치마크는 실제 시나리오에서 고품질 통합을 구축하는 코딩 에이전트의 성능을 평가합니다. 이를 통해 Stripe는 에이전트를 더 효과적으로 조종하는 방법을 파악합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?amp%3Butm_medium=newsletter",
+    "title": "What's your unpopular opinion about AI? (TLDR Community)",
+    "url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?amp%3Butm_medium=newsletter",
+    "discussion_url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?amp%3Butm_medium=newsletter",
+    "summary": "Personality and writing are the top determinants of perceived model quality, AI safety is underrated, TypeScript will decline, read more and",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "AI 모델의 품질은 개성과 글쓰기에 의해 결정된다는 의견이 많으며, AI 안전이 과소평가되고 있다는 의견도 있습니다. 또한, TypeScript의 인기가 줄어들 것이라는 예측도 나왔습니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://vercel.com/blog/introducing-vercel-board",
+    "title": "Vercel Board (5 minute read)",
+    "url": "https://vercel.com/blog/introducing-vercel-board",
+    "discussion_url": "https://vercel.com/blog/introducing-vercel-board",
+    "summary": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Vercel이 AI 에이전트가 작업을 할당받고, 업데이트를 게시하며, 컨텍스트를 공유하는 실험적인 메시지 보드인 Board를 출시했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://blog.cloudflare.com/open-clairic/",
+    "title": "Cloudflare's Clairic and Clairic-flash (6 minute read)",
+    "url": "https://blog.cloudflare.com/open-clairic/",
+    "discussion_url": "https://blog.cloudflare.com/open-clairic/",
+    "summary": "Cloudflare made the weights public for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "Cloudflare가 텍스트, 이미지, PDF에서 특정 필드를 추출하는 자체 모델인 Clairic과 Clairic-flash의 가중치를 공개했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "title": "How OpenAI's Performance Factory keeps ChatGPT fast (18 minute read)",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "discussion_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "summary": "OpenAI's Performance Factory uses Codex to automate and expedite performance regression investigations and fixes for ChatGPT.",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "OpenAI의 Performance Factory는 ChatGPT의 성능 회귀 조사 및 수정 작업을 자동화하고 가속화하기 위해 Codex를 사용합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "DevOps",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul",
+    "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result (2 minute read)",
+    "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul",
+    "discussion_url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul",
+    "summary": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH).",
+    "score": 0,
+    "published_at": "2026-11-21T03:48:13+00:00",
+    "ai_summary": "UC San Diego와 MIT 컴퓨터 과학자들이 OpenAI 및 Anthropic의 Exponential Time Hypothesis(ETH) 반박 주장 발표에 대한 독립적인 검토를 진행하고 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  }
+]
