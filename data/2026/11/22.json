@@ -1,0 +1,496 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37602",
+    "title": "Astra 6.2와 Sol 6.2, SimpleBench에서 부진",
+    "url": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "일상적 추론을 평가하는 SimpleBench에서 GPT-6.2 Astra는 77.3%, GPT-6.2 Sol은 69.9% 를 기록해 각각 17위와 30위에 머무름SimpleBench는 전문 지식 없이 풀 수 있는 200개 이상의 객관식 문제로, 시간과 공간 관계, 사회적 상황, 함정이 있는 질문을 이해하는 추론 능력을 평가함인간 기준 점수는 83.7% 로 두 모델보다 높지만, 이 기준은 참가자 9명의 소규모 표본에 기반함이전 버전보다 점수가 하락함. Astra Pro는 86.5%에서 79.2%, Sol은 6.1의 82.9%에서 6.2의 69.9% 로 낮아짐선두인 Claude Fable 5.2는 94.9%, Gemini 4 N…",
+    "score": 0,
+    "published_at": "2026-11-22T01:32:10+00:00",
+    "ai_summary": "GPT-6.2 Astra와 Sol 모델이 일상적 추론 평가인 SimpleBench에서 부진한 성적을 기록하며 이전 버전보다 점수가 하락했습니다.\n이들 모델은 인간 기준 점수(83.7%)보다 낮았고, 선두 모델인 Claude Fable 5.2(94.9%)에 크게 못 미쳤습니다.\nSimpleBench는 전문 지식 없이 시간/공간 관계, 사회적 상황 등을 이해하는 추론 능력을 평가하는 객관식 문제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37600",
+    "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+    "url": "https://news.hada.io/topic?id=37600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 에이전트가 UI의 기본 동작을 조합해 맞춤형 컴포넌트를 만드는 라이브러리팝업 열기, 항목 선택, 입력한 글자로 항목 찾기를 재사용해 Select부터 자동완성, 콤보박스, 사용자 선택기까지 제작50개 이상의 동작 제공. 키보드 탐색, 포커스 관리, 드래그 앤 드롭, 크기 조절, 화면 확대와 축소 등을 처리직접 구현하기 까다로운 키보드 조작과 스크린 리더 지원을 재사용하고, 완성한 컴포넌트의 접근성을 검사하는 테스트 도구도 제공React, Vue, Svelte, Solid, Web Components 지원. 같은 동작 정의를 각 프레임워크에서 렌더링…",
+    "score": 0,
+    "published_at": "2026-11-22T00:30:02+00:00",
+    "ai_summary": "AI 에이전트가 팝업, 선택, 검색 등 50개 이상의 기본 UI 동작을 조합하여 맞춤형 컴포넌트를 생성하는 라이브러리가 소개되었습니다.\n이 SDK는 키보드 탐색, 포커스 관리 등 구현하기 까다로운 기능을 재사용하며, 완성된 컴포넌트의 접근성 검사 도구도 제공합니다.\nReact, Vue, Svelte 등 다양한 프레임워크를 지원하여, 동일한 동작 정의로 각 프레임워크에서 렌더링할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37594",
+    "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
+    "url": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨. 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함Google 내부 보안팀은 Binder를 운영체제에서 코드 줄 수 대비 CVE가 가장 많은 구성 요소로 평가함. C 구현에 새 기능을 추가할 때마다 취약점이 계속 생겨, 새 기능은 Rust 구현에만 추가하도록 정책을 바꿈성능 측면에서 전환의 관건은 처리량보다 꼬리 지연 시간이었음. 화면 렌더링 경로에 Binder가 들어가므로, 잠금 경합으로 드물게 발생하는 20밀리초 지연도 사용자가 체감할 수 있음…",
+    "score": 0,
+    "published_at": "2026-11-21T20:02:02+00:00",
+    "ai_summary": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거되고 Rust로 대체되는 5년 간의 전환이 완료되었습니다.\nC 구현은 CVE가 가장 많은 구성 요소로 평가되어 보안 취약점 문제를 해결하기 위해 Rust 전환이 이루어졌습니다.\n성능 측면에서는 처리량보다 꼬리 지연 시간을 줄이는 것이 중요했으며, Rust 구현은 화면 렌더링 경로의 잠금 경합으로 인한 지연을 개선합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Security",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37589",
+    "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
+    "url": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "알고리즘을 NS 차트(Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개NS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면은 훨씬 적게 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음저장 형식 .ns.svg는 NS 차트의 다이어그램 구조를 메타에 포함하고있는 .svg 파일 README 등 Markdown 문서에 삽입하면 그림으로 보임AriadenNSD 편집기에서 열면 다이어그램 편집 가능Claude 스킬 제공: \"이 함수 NS 차트로 그려 줘\"라고 하면 .svg 파일과 AriadenNSD에서 바로 편집 가…",
+    "score": 0,
+    "published_at": "2026-11-21T17:56:31+00:00",
+    "ai_summary": "알고리즘을 Nassi-Shneiderman 다이어그램(NS 차트)으로 그리는 웹 편집기 'AriadneNSD'가 베타로 공개되었습니다.\nNS 차트는 플로우차트보다 지면을 적게 차지하며 로직을 표현하고, .ns.svg 형식으로 저장하여 Markdown 문서에 삽입 및 편집 가능합니다.\nClaude AI 스킬을 통해 함수를 NS 차트로 자동 생성할 수 있는 기능도 제공하여 알고리즘 시각화를 돕습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37583",
+    "title": "차고 문 알림에 끼어든 스팸",
+    "url": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "차고 문 개폐 알림을 믿고 myQ를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, ratgdo32로 전환함제조사 Chamberlain은 2023년 말 myQ를 통한 타사 API 접근을 차단했으며, 이용자는 이에 대응해 로컬 제어 보드 두 개를 구매함ratgdo32는 약 62달러의 오픈소스 펌웨어 기반 Wi-Fi 보드로, 기존 차고 문 개폐기 단자에 연결해 Security+ 2.0 프로토콜로 로컬 통신함HomeKit과 Siri로 문을 제어하고, JSON 상태 엔드포인트를 활용해 밤에 문이 열려 있는지 확인하는 Slack 알림을 구현함차고 문 제어는 클라우드 없이 로컬…",
+    "score": 0,
+    "published_at": "2026-11-21T15:01:15+00:00",
+    "ai_summary": "myQ 차고 문 개폐 알림 서비스의 타사 API 접근 차단 및 스팸 문제로 사용자가 오픈소스 ratgdo32 보드로 전환했습니다.\nratgdo32는 약 62달러의 Wi-Fi 보드로, 기존 개폐기에 연결해 Security+ 2.0 프로토콜로 로컬 통신하며 HomeKit/Siri 연동을 지원합니다.\n이 전환을 통해 사용자는 클라우드 의존 없이 로컬에서 차고 문을 제어하고, JSON 엔드포인트를 활용한 맞춤형 Slack 알림까지 구현했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Backend",
+      "Security"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37582",
+    "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
+    "url": "https://news.hada.io/topic?id=37582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다. macOS는 NTFS를 읽기만 지원해서, Windows와 외장 디스크를 같이 쓸 때 불편했던 것이 계기입니다.커널 확장(kext)이나 macFUSE 없이 Apple의 FSKit 확장으로 동작 복구 모드에서 보안 설정을 낮추거나 재시동할 필요 없음꽂으면 Finder와 모든 앱에서 일반 디스크처럼 읽고 씀NTFS 엔진은 Rust로 직접 구현 기존 오픈소스 드라이버의 코드를 쓰지 않고 포맷 문서를 보고 작성코어는 unsafe 없이 작성, 디스크에서 읽은 값은 전부 범위를 검사데이터 안전을 속…",
+    "score": 0,
+    "published_at": "2026-11-21T14:55:03+00:00",
+    "ai_summary": "macOS에서 NTFS 디스크를 읽고 쓸 수 있게 해주는 앱 'BerthNTFS'가 커널 확장 없이 Apple FSKit을 활용하여 개발되었습니다.\n이 앱은 기존 macOS의 NTFS 읽기 전용 제한을 해결하며, 복구 모드에서의 보안 설정 변경이나 재시동 없이 작동합니다.\nNTFS 엔진은 Rust로 직접 구현되었고, 안전한 코딩과 디스크 값 검증에 중점을 두어 데이터 안전성을 확보했습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37581",
+    "title": "추론 칩을 바이브 코딩하기",
+    "url": "https://news.hada.io/topic?id=37581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "FPGA 개발 경험이 없는 상태에서 회로 구성을 바꿀 수 있는 AWS FPGA에 코딩 에이전트로 LLM 추론을 구현함. 기준 출력과 비트 단위로 일치하는 최초 구현보다 약 33배 빠른 초당 213토큰에 도달Conductor에서 며칠간 실행한 에이전트는 수백 차례 실험하며 누적 약 300만 줄의 코드를 작성하고 3,000만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 1만 달러를 사용함성능 향상은 한두 번의 큰 변화보다 메모리 접근, 병렬화, 파이프라인, 추측 디코딩의 점진적 개선이 누적된 결과이며, 최종 속도는 213.13토큰/초에 도달함동일한…",
+    "score": 0,
+    "published_at": "2026-11-21T14:38:47+00:00",
+    "ai_summary": "FPGA 개발 경험 없는 상태에서 AWS FPGA에 코딩 에이전트로 LLM 추론을 구현하여 최초 구현보다 33배 빠른 초당 213토큰 속도에 도달했습니다.\n에이전트는 수백 차례 실험하며 약 300만 줄의 코드를 작성하고 3천만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 1만 달러를 사용했습니다.\n성능 향상은 메모리 접근, 병렬화, 파이프라인, 추측 디코딩 등 점진적 개선의 누적 결과로, LLM 기반 하드웨어 프로그래밍의 잠재력을 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37580",
+    "title": "Winedroid - Android 없이 Android 앱 실행하기, WASM 데모",
+    "url": "https://news.hada.io/topic?id=37580&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37580&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Winedroid는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함런타임은 Rust로 전부 작성됐으며, 다양한 환경에서 작동하도록 Android를 재현함브라우저에서 불러오는 런타임 크기는 현재 12MB임아직 초기 단계이며, JIT가 웹에서 작동하지 않아 브라우저보다 네이티브로 실행할 때 더 원활하게 이용할 수 있음앱 호환성은 개선 중이며, 지원되지 않는 앱은 GitHub 이슈로 지원을 요청할 수 있음실제 APK를 실행하는 WinedroidWinedroid는 Android를 실행…",
+    "score": 0,
+    "published_at": "2026-11-21T14:35:47+00:00",
+    "ai_summary": "Winedroid는 Android 자체를 실행하지 않고 Rust로 Android 런타임을 재구현하여 Android 앱을 실행하는 프로젝트로, WASM 데모를 공개했습니다.\n현재 브라우저에서 불러오는 런타임 크기는 12MB이며, 실제 APK 파일을 다운로드하여 실행하는 것을 시연했습니다.\n아직 초기 단계로 앱 호환성은 개선 중이며, JIT 부재로 브라우저보다는 네이티브 환경에서 더 원활한 성능을 보입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50589618",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50589618",
+    "summary": "",
+    "score": 861,
+    "published_at": "2026-11-21T14:36:45+00:00",
+    "ai_summary": "리만 가설의 간결한 검증에 대한 기사로, 형식 검증 도구 'Lean'을 활용합니다.\n컴퓨터 과학과 수학의 교차점에서 정형화된 증명 방식을 다루며,\n특히 형식 방법론이나 증명 보조기에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50591853",
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591853",
+    "summary": "",
+    "score": 371,
+    "published_at": "2026-11-21T18:02:19+00:00",
+    "ai_summary": "Inkling-2-Mini 모델을 5.4GB 메모리 환경에서 구동하는 것에 대한 내용입니다.\n이는 소규모 장치나 제한된 리소스에서 AI/ML 모델을 효율적으로 실행하는 기술을 다룹니다.\nAI/ML 모델 최적화 및 배포에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50595554",
+    "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50595554",
+    "summary": "",
+    "score": 10,
+    "published_at": "2026-11-22T02:14:14+00:00",
+    "ai_summary": "OpenRouter가 3개 공급자를 제외하고 125개 엔드포인트를 제로 데이터 보존 정책에서 철회했습니다.\n이는 LLM API 사용자들에게 서비스 변경 및 데이터 처리 정책에 대한 중요한 정보를 제공합니다.\nLLM을 활용하는 개발자들은 데이터 보안 및 서비스 연속성 관점에서 이러한 변화에 주의해야 합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "Cloud",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50594132",
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50594132",
+    "summary": "",
+    "score": 72,
+    "published_at": "2026-11-21T22:09:58+00:00",
+    "ai_summary": "PcapAnalyzer는 27가지 문제 탐지 기능을 갖춘 자체 호스팅 가능한 pcap 분석 도구입니다.\n네트워크 트래픽을 분석하여 문제를 진단하고 보안 위협을 탐지하는 데 사용될 수 있습니다.\n백엔드, DevOps, 보안 엔지니어에게 특히 유용하며, 네트워크 모니터링에 큰 도움을 줍니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50595168",
+    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "discussion_url": "https://news.ycombinator.com/item?id=50595168",
+    "summary": "",
+    "score": 18,
+    "published_at": "2026-11-22T00:57:26+00:00",
+    "ai_summary": "Leonida는 Xbox 버전의 GTA 6를 PC에서 재컴파일하는 프로젝트입니다.\n리버스 엔지니어링, 에뮬레이션, 게임 포팅 등 낮은 수준의 시스템 프로그래밍 기술을 포함합니다.\n게임 개발, 시스템 해킹, 또는 로우레벨 개발에 관심 있는 개발자에게 매우 흥미로운 주제입니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Other",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50594911",
+    "title": "Sandwich Simulator",
+    "url": "https://stulle.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50594911",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-11-22T00:07:59+00:00",
+    "ai_summary": "샌드위치를 만드는 과정을 시뮬레이션하는 소프트웨어 또는 게임 프로젝트입니다.\n사용자 경험 디자인, 그래픽 렌더링, 물리 엔진 구현 등이 핵심 개발 과제일 수 있습니다.\n재미있는 사이드 프로젝트나 특정 기술 데모 용도로 개발될 가능성이 있습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50587875",
+    "title": "My monitor was cutting my download speed by 75%",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50587875",
+    "summary": "",
+    "score": 506,
+    "published_at": "2026-11-21T10:36:32+00:00",
+    "ai_summary": "모니터가 시스템의 다운로드 속도를 75%나 저하시키는 특이한 하드웨어/소프트웨어 상호작용 문제를 다룹니다.\n드라이버 충돌, 대역폭 점유 또는 기타 시스템 설정 오류가 원인일 수 있습니다.\n복잡한 시스템 디버깅 사례로서 개발자와 시스템 관리자에게 중요한 교훈을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50592097",
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell",
+    "discussion_url": "https://news.ycombinator.com/item?id=50592097",
+    "summary": "",
+    "score": 81,
+    "published_at": "2026-11-21T18:29:29+00:00",
+    "ai_summary": "'Upload2Shell'이라는 이름의 심각한 파일 업로드 취약점(CVE-2026-125396)에 대한 기술 분석입니다.\n공격자가 악성 파일을 업로드하여 서버에서 원격 코드 실행을 할 수 있는 방법을 설명합니다.\n개발자와 보안 전문가는 이 취약점을 이해하고 방어 전략을 마련해야 합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50553223",
+    "title": "Shaping the Loops, Closing the Loops",
+    "url": "https://revyl.com/blog/pattern-engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50553223",
+    "summary": "",
+    "score": 9,
+    "published_at": "2026-11-18T22:29:04+00:00",
+    "ai_summary": "시스템 또는 프로세스의 '루프'를 설계하고 완료하는 방법에 대한 포괄적인 고찰입니다.\n피드백 루프, 제어 시스템, 또는 지속적인 개발 및 배포(CI/CD) 파이프라인과 관련될 수 있습니다.\n효율적인 시스템 아키텍처 및 운영 전략 수립에 대한 통찰을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50591260",
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591260",
+    "summary": "",
+    "score": 122,
+    "published_at": "2026-11-21T17:08:04+00:00",
+    "ai_summary": "Go 언어를 사용하여 PostgreSQL 데이터베이스의 기능을 확장하는 방법에 대한 기술 기사입니다.\nGo의 강력한 동시성 모델과 효율성을 활용하여 커스텀 데이터 타입, 함수 등을 구현하는 방법을 탐구합니다.\n데이터베이스 성능 최적화 및 시스템 통합 개발에 관심 있는 개발자에게 매우 유용합니다.",
+    "relevance_score": 1.0,
+    "notable": true,
+    "tags": [
+      "Database",
+      "Language",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50593481",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=50593481",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-11-21T20:47:41+00:00",
+    "ai_summary": "유럽 연합이 제정한 AI 에이전트 관련 법규인 'Pandex'와 'MCP' 기술의 연관성을 분석합니다.\nAI 시스템 개발 시 준수해야 할 윤리적 기준, 책임 소재 및 규제 프레임워크를 다룹니다.\nAI 기술의 개발 및 상용화에 있어 법적, 정책적 고려사항을 이해하는 데 필수적인 정보입니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50559295",
+    "title": "Unit-testing in the Ü programming language",
+    "url": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50559295",
+    "summary": "",
+    "score": 4,
+    "published_at": "2026-11-19T12:34:54+00:00",
+    "ai_summary": "가상의 'Ü' 프로그래밍 언어에서 단위 테스트를 작성하고 실행하는 방법에 대한 자세한 안내서입니다.\nÜ 언어의 테스트 프레임워크와 모범 사례를 소개하며, 견고하고 유지보수 가능한 코드 작성의 중요성을 강조합니다.\n모든 개발자에게 유용한 테스트 방법론과 언어 활용 지식을 제공합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50590279",
+    "title": "Show HN: Zero C# – C# without a runtime or GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50590279",
+    "summary": "",
+    "score": 133,
+    "published_at": "2026-11-21T15:39:09+00:00",
+    "ai_summary": "C#를 런타임이나 가비지 컬렉터 없이 사용하는 새로운 접근 방식인 'Zero C#' 프로젝트입니다.\n이를 통해 C# 애플리케이션의 성능을 향상시키고 더 낮은 수준의 제어를 가능하게 합니다.\n특히 임베디드 시스템이나 고성능 컴퓨팅 환경에 유용할 수 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50590441",
+    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+    "url": "https://math.mit.edu/~drew/grh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50590441",
+    "summary": "",
+    "score": 104,
+    "published_at": "2026-11-21T15:54:34+00:00",
+    "ai_summary": "리만 가설의 린(Lean) 언어 기반 형식 증명에 사용된 검증 파일에 대한 내용입니다.\n이는 복잡한 수학적 가설을 컴퓨터로 엄밀하게 증명하는 형식 검증 분야의 중요성을 보여줍니다.\n개발자들에게는 형식 언어 및 증명 보조 도구 사용에 대한 통찰을 제공할 수 있습니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Language",
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50575644",
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50575644",
+    "summary": "",
+    "score": 498,
+    "published_at": "2026-11-20T15:03:31+00:00",
+    "ai_summary": "iOS 플랫폼에서 웹킷(WebKit) 이외의 다른 브라우저 엔진이 허용되지 않는 이유를 설명합니다.\n이는 애플의 정책 및 기술적 제한 사항에 따른 것으로, 사용자 선택권과 개발 생태계에 영향을 미칩니다.\n경쟁 및 독점 금지 측면에서 지속적인 논쟁의 대상이 되고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50587208",
+    "title": "RCE in Gnupg",
+    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50587208",
+    "summary": "",
+    "score": 235,
+    "published_at": "2026-11-21T08:32:58+00:00",
+    "ai_summary": "널리 사용되는 암호화 도구인 GnuPG에서 원격 코드 실행(RCE) 취약점이 발견되었습니다.\n이 취약점은 공격자가 시스템에 임의 코드를 실행할 수 있게 하여 심각한 보안 위험을 초래합니다.\n사용자들은 최신 버전으로 업데이트하여 신속하게 패치할 것을 권장합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50593737",
+    "title": "Advice for the next 100 Rust GUIs",
+    "url": "https://linebender.org/blog/next-100-guis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50593737",
+    "summary": "",
+    "score": 103,
+    "published_at": "2026-11-21T21:17:53+00:00",
+    "ai_summary": "러스트(Rust) 기반 GUI 개발의 미래와 다음 단계에 대한 조언을 제공합니다.\n러스트의 GUI 생태계가 아직 성숙 단계는 아니지만, 잠재력과 발전 방향에 대해 논의합니다.\n개발자들이 직면할 수 있는 과제와 솔루션에 대한 실용적인 가이드를 포함합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50546587",
+    "title": "LLMs can read and write executables byte by byte from a hex dump",
+    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50546587",
+    "summary": "",
+    "score": 197,
+    "published_at": "2026-11-18T14:15:58+00:00",
+    "ai_summary": "LLM(대규모 언어 모델)이 헥스 덤프(hex dump)를 통해 실행 파일을 바이트 단위로 읽고 쓸 수 있다는 연구 결과입니다.\n이는 LLM이 저수준의 바이너리 코드까지 이해하고 조작할 수 있는 능력을 보여줍니다.\n잠재적으로 악성 코드 생성이나 분석에 활용될 수 있어 보안 및 AI 윤리적 함의가 큽니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "LLM",
+      "AI/ML",
+      "Security"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50583761",
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "url": "https://news.ycombinator.com/item?id=50583761",
+    "discussion_url": "https://news.ycombinator.com/item?id=50583761",
+    "summary": "",
+    "score": 625,
+    "published_at": "2026-11-20T23:18:32+00:00",
+    "ai_summary": "15년 경력의 미국 개발자가 2년간의 실직 상황에 대해 조언을 구하는 내용입니다.\n경험 많은 개발자도 현 취업 시장에서 겪는 어려움과 도전을 조명합니다.\n커뮤니티의 다양한 직업 관련 조언과 지원을 모색하는 사례를 보여줍니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Career"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50577991",
+    "title": "I'm quite pleased by the tech architecture of my art website",
+    "url": "https://klauria.tech/klauria-art/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50577991",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-11-20T17:03:39+00:00",
+    "ai_summary": "한 개발자가 자신의 아트 웹사이트 기술 아키텍처에 대해 만족감을 표현하고 공유합니다.\n개인 프로젝트의 기술 스택 선택, 설계 및 구현 과정에 대한 통찰을 제공합니다.\n프런트엔드, 백엔드, 클라우드 등 웹 개발 전반의 기술적 고민을 다룰 수 있습니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Cloud"
+    ]
+  }
+]
