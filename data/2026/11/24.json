@@ -1,0 +1,738 @@
+[
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37766",
+    "title": "Show GN: Whaatcher - AI 에이전트 기반 W/F에 최적화된 새로운 지향점의 개발 도구",
+    "url": "https://news.hada.io/topic?id=37766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 에이전트에게 코드 작성을 대부분 맡기면서 IDE, Code Editor, Git, 코드 분석 도구 등의 기존 도구에 대한 아쉬움이 커졌습니다. 자연스럽게 코드 생산량이 많아지고, 여러 프로젝트의 동시 작업도 많아지다 보면 직접 코드를 쓸 때와 달리 검수할 지점도 많이 다른데 이것이 고려된 도구를 찾기 어려웠습니다. 없지는 않지만 여러가지를 조합해야했고 조합의 결과도 만족스럽지 않았고요. 그래서 AI 에이전트와 함께 병렬 작업을 자연스럽게 진행하며 관측하고 맥락을 잃지 않게 하기위한 여러 기능을 제공하는 도구를 만들었습니다.다음과 같은 주요 기능을 제공합니다.Git 리포 현황 관측 대시보드…",
+    "score": 0,
+    "published_at": "2026-11-24T05:55:30+00:00",
+    "ai_summary": "AI 에이전트 활용 코드 작업 시 기존 개발 도구의 한계를 인식하여 새로운 개발 도구 'Whaatcher'가 탄생했습니다.\n이 도구는 AI 에이전트와 병렬 작업을 지원하며, Git 리포 현황 관측 등 관찰 및 맥락 유지 기능을 제공합니다.\nAI 기반 개발 워크플로우에 최적화된 기능을 통해 개발 생산성을 높이는 것을 목표로 합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37757",
+    "title": "Show GN: Synology Markdown Note - Synology Note Station용 Markdown 편집기",
+    "url": "https://news.hada.io/topic?id=37757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Synology NAS의 Note Station에 쌓아 둔 노트를 Markdown으로 작성하고 관리할 수 있도록 Synology Markdown Note를 만들었습니다. 기존 책장과 메모장을 그대로 열 수 있고, Note Station에서 작성한 일반 노트도 편집할 수 있습니다.macOS 앱·웹: Markdown 원문과 미리보기를 나란히 볼 수 있습니다. Mermaid 다이어그램과 수식을 렌더링하고, 내부 링크와 백링크로 연결된 노트를 탐색할 수 있습니다. 오프라인에서 편집하고, 다시 연결되면 변경 내용을 NAS에 동기화합니다.CLI: synonote로 Markdown 파일을 올리거나 내려받고, 스크립트에서 사용할 수 있습니다.…",
+    "score": 0,
+    "published_at": "2026-11-24T03:50:19+00:00",
+    "ai_summary": "Synology NAS의 Note Station에 저장된 노트를 Markdown으로 작성하고 관리할 수 있는 'Synology Markdown Note'가 출시되었습니다.\nmacOS 앱, 웹, CLI를 통해 Markdown 원문과 미리보기를 지원하며, Mermaid 다이어그램 및 수식 렌더링 기능도 제공합니다.\n오프라인 편집 및 NAS 동기화 기능으로 노트 관리의 편의성을 높였습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37745",
+    "title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
+    "url": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "모델이나 프롬프트를 바꿨을 때 실제로 개선됐는지 판단하려면, 평가 지표보다 실제 실패 사례 분석부터 시작해야 함. 운영 기록 100개 이상에서 실패를 분류하고 가장 빈번한 문제부터 평가함입력과 기대 결과, 평가 기준을 담은 기준 데이터셋을 버전 관리해야 함. 합성 데이터도 사용자 유형, 질문 의도, 난도와 경계 조건을 조합해 만들어야 비슷한 예시만 반복되는 일을 피할 수 있음결정론적 검사를 우선 적용하고, RAG는 검색과 생성을 분리해 평가하며, 에이전트는 최종 답뿐 아니라 도구 호출 경로와 효율까지 점검해야 함반…",
+    "score": 0,
+    "published_at": "2026-11-24T00:40:02+00:00",
+    "ai_summary": "AI 모델이나 프롬프트 개선을 판단할 때 평가 지표보다 실제 실패 사례 분석이 중요하며, 운영 기록을 바탕으로 문제점을 분류해야 합니다.\n입력, 기대 결과, 평가 기준을 담은 기준 데이터셋을 버전 관리하고, 다양한 유형의 합성 데이터로 테스트해야 합니다.\n결정론적 검사, RAG 분리 평가, 에이전트 도구 호출 경로 점검 등 구체적인 평가 방법을 제시합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37744",
+    "title": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
+    "url": "https://news.hada.io/topic?id=37744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Stalwart 1.2.0이 MAPI over HTTP, EWS, Exchange ActiveSync, Autodiscover를 구현해 기존 Outlook과 Exchange 호환 앱에서 메일, 일정, 연락처 등을 사용할 수 있게 됨Exchange 지원은 AGPL 기반 Community 에디션에 포함되며, 관리자가 사서함과 DNS를 이전한 뒤 사용자는 익숙한 클라이언트를 계속 사용할 수 있음Exchange 프로토콜은 별도 데이터 저장소가 아니라 IMAP/JMAP/CalDAV/CardDAV와 같은 계정과 데이터에 접근하며, Outlook에서 만든 규칙과 공유 권한도 다른 클라이언트에 적용됨새 Outlook for Windows는 지원하지 않…",
+    "score": 0,
+    "published_at": "2026-11-24T00:34:19+00:00",
+    "ai_summary": "Stalwart 1.2.0이 MAPI over HTTP, EWS 등 Exchange 프로토콜을 구현하여 기존 Outlook 및 Exchange 호환 앱을 대체할 수 있게 되었습니다.\nAGPL 기반 Community 에디션에 Exchange 지원이 포함되며, 관리자는 사서함과 DNS 이전 후 사용자는 익숙한 클라이언트를 계속 사용할 수 있습니다.\nOutlook에서 만든 규칙과 공유 권한도 다른 클라이언트에 적용됩니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37742",
+    "title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
+    "url": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "새 파일, 메일, 메시지 같은 이벤트가 발생하면 에이전트가 작업을 시작하는 실행 환경\"스캔 폴더에 문서가 들어오면 요약하고 납부 금액과 기한을 정리해 줘\"처럼 감시할 대상과 할 일을 말로 지정메일, Slack, Telegram, 웹훅, 웹페이지, RSS와 연결하고, MQTT나 기기 프로토콜로 센서와 가전의 변화에도 대응 가능메인 에이전트에게 요청해 담당 에이전트와 도구, 스킬, 반복 일정까지 구성하며, 사용자가 설정 파일을 직접 편집하는 부담을 줄임여러 에이전트가 역할을 나눠 병렬 작업하고, 공유 작업 보드에서 진행 상황과 결과…",
+    "score": 0,
+    "published_at": "2026-11-24T00:30:02+00:00",
+    "ai_summary": "'Pine'은 새 파일, 메일 등 이벤트에 반응하여 AI 에이전트가 작업을 시작하는 실행 환경을 제공하는 에이전트 하네스입니다.\n메일, Slack, Telegram, 웹훅 등 다양한 소스와 연결되며, 사용자는 감시 대상과 할 일을 말로 지정하여 자동화를 구성할 수 있습니다.\n여러 에이전트가 병렬 작업하고 진행 상황을 공유하는 기능을 제공하여 복잡한 워크플로우를 효율적으로 처리합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37740",
+    "title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
+    "url": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI와 Cisco가 패치를 준비하고 배포하는 동안 Linux 서비스를 중단하지 않고 임시 보호를 적용하는 Shirudo를 공개함eBPF 기반 실드(shield) 로 취약점을 노출하는 동작을 차단하면서 정상 요청은 통과시키도록 설계했으며, 보안팀은 적용 전 영향을 관찰하고 배포 여부를 결정할 수 있음통제된 테스트에서 Codex가 생성한 실드가 실행 중인 Elasticsearch에 대한 Java4Shell 공격 시도를 차단했으며, 서비스 재시작은 필요하지 않았음실드는 암호학적 서명과 검증을 거쳐 로드되며, TPM을 활용해 보호 기능의 로드와 제거 이력을…",
+    "score": 0,
+    "published_at": "2026-11-24T00:21:29+00:00",
+    "ai_summary": "OpenAI와 Cisco가 패치 배포 중 Linux 서비스 중단 없이 임시 보호를 적용하는 오픈소스 런타임 'Shirudo'를 공개했습니다.\neBPF 기반 실드로 취약점을 노출하는 동작을 차단하며, 정상 요청은 통과시키도록 설계되었습니다.\n실제 공격 방어 테스트를 통과했으며, 서비스 재시작 없이 보호 기능을 로드하고 제거할 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37736",
+    "title": "모든 체에서 VP ≠ VNP",
+    "url": "https://news.hada.io/topic?id=37736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "내부 연구용 Claude 모델이 발견한 모든 체에서의 VP와 VNP 분리 결과를 논문과 Lean 4 형식화로 공개함. 둘 다 AI 모델이 작성했으며, 인간 수학자는 아직 증명을 검토하지 않음해밀턴 순환 다항식과 표수가 2가 아닌 체에서의 퍼머넌트를 계산하는 회로에는 충분히 큰 모든 m에 대해 m^(c (log m)^(1/3))보다 많은 게이트가 필요함같은 하한이 근사 회로에도 적용되며, 이에 따라 VP는 VNP의 진부분집합이고 VNP는 VP의 폐포에도 포함되지 않음Lean은 증명을 검사하지만, 형식화된 명제가 실제로 공개한 수학적 주장과 일치하는지는…",
+    "score": 0,
+    "published_at": "2026-11-23T23:31:40+00:00",
+    "ai_summary": "내부 연구용 Claude 모델이 모든 체에서의 VP ≠ VNP 분리 증명을 발견하고 논문과 Lean 4 형식화로 공개했다.\n이 증명은 AI 모델이 작성했으며, computational complexity와 circuit lower bound에 대한 깊은 수학적 내용을 다룬다.\nAI의 수학적 발견 능력과 Lean 4를 통한 형식화가 개발자에게 흥미로운 지점이다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Language",
+      "Other"
+    ]
+  },
+  {
+    "source": "geeknews",
+    "source_id": "https://news.hada.io/topic?id=37733",
+    "title": "Show GN: PQ-Proof - PQC 전환이 끝났는지 전환 전후 코드를 비교해 판정하는 오프라인 도구",
+    "url": "https://news.hada.io/topic?id=37733&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "discussion_url": "https://news.hada.io/topic?id=37733&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "양자내성암호(PQC) 전환시 RSA나 ECDSA를 ML-KEM, ML-DSA로 바꾸고 나면 정말 다 바뀌었는지 확인하는 일이 남습니다. PQ-Proof는 전환 전후 코드를 같은 규칙으로 판정하고 누구나 다시 계산해 볼 수 있는 결과로 남기는 MIT 라이선스 오픈소스입니다. 해커톤 대회 출품작으로 시작 했는데 PQC 전환을 준비하시는 분들께 조금이라도 도움이 될까 해서 오픈소스로 올렸습니다.하는 일pqproof &lt;전환 전&gt; &lt;전환 후&gt;: 두 트리를 같은 규칙으로 훑어 8가지 검사를 하고 PASS, FAIL, 미판정 중 하나를 냅니다. 판정에 AI 모델을 쓰지 않고…",
+    "score": 0,
+    "published_at": "2026-11-23T22:28:31+00:00",
+    "ai_summary": "PQ-Proof는 양자내성암호(PQC) 전환 후 RSA, ECDSA 등이 ML-KEM, ML-DSA로 올바르게 바뀌었는지 확인하는 오프라인 오픈소스 도구이다.\n전환 전후 코드를 같은 규칙으로 분석하여 PQC 전환 완료 여부를 판정하며, AI 모델을 사용하지 않는다.\n보안에 민감한 PQC 전환 작업을 돕는 실용적인 개발자 도구로, MIT 라이선스로 공개되었다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Security",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50620349",
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50620349",
+    "summary": "",
+    "score": 367,
+    "published_at": "2026-11-23T22:32:29+00:00",
+    "ai_summary": "Stalwart가 Microsoft Exchange의 드롭인 대체재가 되었다는 소식으로, 이메일 서버 솔루션에 관한 내용이다.\n이메일 인프라 관리 및 백엔드 서비스 개발을 담당하는 개발자나 시스템 관리자에게 매우 중요하다.\nExchange에서 대체 솔루션으로의 마이그레이션을 고려하는 조직에 유용한 정보가 될 것이다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Backend",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50614249",
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50614249",
+    "summary": "",
+    "score": 1693,
+    "published_at": "2026-11-23T16:13:12+00:00",
+    "ai_summary": "Ladybird 브라우저 엔진이 현재 알파 단계에 진입했다는 소식으로, 웹 기술 발전에 중요한 의미를 가진다.\n프론트엔드 개발자, 웹 표준 구현 및 브라우저 엔진 개발자에게 특히 높은 관련성이 있다.\n이는 SerenityOS 프로젝트의 웹 브라우저 엔진의 최신 개발 동향을 보여주는 중요한 이정표이다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50604710",
+    "title": "Modernizing iperf/iperf3 and introducing fireperf",
+    "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50604710",
+    "summary": "",
+    "score": 56,
+    "published_at": "2026-11-22T22:37:51+00:00",
+    "ai_summary": "네트워크 성능 측정 도구인 iperf/iperf3의 현대화와 새로운 도구 fireperf 도입에 관한 소식이다.\n네트워크 엔지니어, DevOps 전문가, 그리고 백엔드 시스템 개발자에게 네트워크 성능 모니터링에 필수적이다.\n네트워크 진단 및 최적화 도구를 사용하는 개발자들에게 큰 관심을 끌 것이다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "DevOps",
+      "Backend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50607512",
+    "title": "Lowering Perplexity Without Scaling",
+    "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50607512",
+    "summary": "",
+    "score": 15,
+    "published_at": "2026-11-23T04:33:50+00:00",
+    "ai_summary": "스케일링 없이 LLM의 Perplexity(복잡도)를 낮추는 방법에 대한 기술 기사로 예상된다.\n이는 대규모 언어 모델(LLM) 및 생성형 AI 모델 개발자들에게 매우 중요한 효율성 개선 연구 내용이다.\nAI/ML 연구자와 개발자들에게 모델 성능 향상을 위한 새로운 접근법을 제시할 것이다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50622934",
+    "title": "Making a dumb TV just smart enough",
+    "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50622934",
+    "summary": "",
+    "score": 44,
+    "published_at": "2026-11-24T02:46:54+00:00",
+    "ai_summary": "구형 TV에 최소한의 스마트 기능을 부여하는 프로젝트입니다. 저렴한 하드웨어와 소프트웨어 조합으로 미디어 재생, 스트리밍 등 핵심 기능을 구현합니다. 임베디드 시스템 및 IoT 개발자에게 흥미로운 주제가 될 수 있습니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50619103",
+    "title": "GPUI is getting its own repository",
+    "url": "https://github.com/zed-industries/gpui",
+    "discussion_url": "https://news.ycombinator.com/item?id=50619103",
+    "summary": "",
+    "score": 219,
+    "published_at": "2026-11-23T20:52:54+00:00",
+    "ai_summary": "GPUI라는 프로젝트가 독립적인 저장소를 갖게 되었다는 소식입니다. 이는 GPUI가 새로운 개발 도구, 프레임워크 또는 그래픽 관련 라이브러리임을 시사합니다. UI/그래픽스, 성능 최적화에 관심 있는 개발자에게 중요한 변화일 것입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Frontend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50615308",
+    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "discussion_url": "https://news.ycombinator.com/item?id=50615308",
+    "summary": "",
+    "score": 1494,
+    "published_at": "2026-11-23T17:07:26+00:00",
+    "ai_summary": "이 제목은 AI/ML 분야에서 오픈소스 모델의 위험성에 대한 논쟁을 다룹니다. Dario가 오픈소스 모델의 위험을 과장하여 규제를 통해 통제권을 유지하려 한다는 주장을 담고 있습니다. AI/ML, 특히 LLM 개발의 미래와 정책 방향에 중요한 영향을 미칠 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50617499",
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "url": "https://arm.jonpalmisc.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50617499",
+    "summary": "",
+    "score": 970,
+    "published_at": "2026-11-23T19:17:55+00:00",
+    "ai_summary": "Arm의 요청에 따라 특정 웹사이트가 2026년 12월 4일에 서비스가 종료될 예정이라는 소식입니다. 이는 기업 간의 법적 문제나 라이선스 분쟁으로 인해 발생할 수 있습니다. 해당 서비스를 이용하는 개발자들에게 중요한 영향을 미칠 수 있는 소식입니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50620721",
+    "title": "Freeing the iPod Nano 5G",
+    "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+    "discussion_url": "https://news.ycombinator.com/item?id=50620721",
+    "summary": "",
+    "score": 88,
+    "published_at": "2026-11-23T23:03:13+00:00",
+    "ai_summary": "iPod Nano 5세대의 하드웨어 및 소프트웨어 제한을 우회하는 방법에 대한 내용입니다. 사용자 정의 펌웨어 개발과 리버스 엔지니어링 기술을 다룹니다. 임베디드 시스템, 보안 또는 하드웨어 해킹에 관심 있는 개발자에게 관련성이 높습니다.",
+    "relevance_score": 0.7,
+    "notable": false,
+    "tags": [
+      "Tool",
+      "Other"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50622854",
+    "title": "Declare is a UI language for you and your AI",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50622854",
+    "summary": "",
+    "score": 36,
+    "published_at": "2026-11-24T02:36:56+00:00",
+    "ai_summary": "'Declare'는 AI와 개발자를 위한 새로운 UI 언어를 제안하는 기사입니다. AI가 사용자 인터페이스를 이해하고 생성하는 데 도움을 주는 기술을 다룹니다. 프론트엔드 개발자 및 AI/ML 분야 종사자에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Frontend",
+      "Language"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50621466",
+    "title": "The Power of GraphQL, Without GraphQL",
+    "url": "https://cobalt27.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50621466",
+    "summary": "",
+    "score": 39,
+    "published_at": "2026-11-24T00:03:59+00:00",
+    "ai_summary": "GraphQL의 강력한 데이터 쿼리 개념을 GraphQL을 사용하지 않고 구현하는 방법을 탐구합니다. 효율적인 API 설계 및 데이터 전송 전략에 대한 대안을 제시합니다. 백엔드 및 프론트엔드 개발자들에게 유용한 통찰력을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50620328",
+    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "url": "https://arxiv.org/abs/2602.20031",
+    "discussion_url": "https://news.ycombinator.com/item?id=50620328",
+    "summary": "",
+    "score": 52,
+    "published_at": "2026-11-23T22:29:48+00:00",
+    "ai_summary": "LLM이 이전에 주입된 개념을 내부적으로 감지할 수 있다는 '잠재적 자기 성찰'에 대한 연구 논문입니다. 이는 LLM의 작동 방식과 안전성을 이해하는 데 중요한 통찰력을 제공합니다. AI/ML, 특히 LLM 분야 연구 및 개발자들에게 매우 관련성이 높습니다.",
+    "relevance_score": 0.98,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50622804",
+    "title": "Rune: Rust VM for Emacs",
+    "url": "https://github.com/CeleritasCelery/rune",
+    "discussion_url": "https://news.ycombinator.com/item?id=50622804",
+    "summary": "",
+    "score": 23,
+    "published_at": "2026-11-24T02:30:47+00:00",
+    "ai_summary": "'Rune'은 Emacs 에디터를 위한 Rust 기반의 가상 머신(VM) 프로젝트입니다. Emacs 기능을 Rust로 확장하거나 새로운 언어 런타임에 관심 있는 개발자에게 유용합니다. Rust 언어 및 개발 도구 분야에 초점을 맞춥니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50592307",
+    "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+    "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+    "discussion_url": "https://news.ycombinator.com/item?id=50592307",
+    "summary": "",
+    "score": 3,
+    "published_at": "2026-11-21T18:49:45+00:00",
+    "ai_summary": "락-프리 어댑티브 래딕스 트리는 고성능 데이터 구조로, 병렬 처리 환경에서 효율적인 검색 및 삽입을 가능하게 합니다.\n락(lock) 없이 데이터 접근이 가능하여 동시성 문제를 줄이고 시스템 처리량을 향상시키는 데 기여합니다.\n이는 백엔드 시스템 및 데이터베이스 개발자에게 중요한 기술적 진보를 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "Backend",
+      "Database",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50611402",
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "discussion_url": "https://news.ycombinator.com/item?id=50611402",
+    "summary": "",
+    "score": 153,
+    "published_at": "2026-11-23T13:42:38+00:00",
+    "ai_summary": "NariQ는 Qwen3.8-27B 대규모 언어 모델을 BF16 정밀도로 양자화하여 단 10GB 파일 크기로 압축했습니다.\n이는 모델의 정확도를 유지하면서도 GPU 메모리 사용량을 크게 줄여 효율적인 배포를 가능하게 합니다.\n리소스가 제한된 환경에서 LLM을 구동하려는 개발자들에게 유용합니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50609685",
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50609685",
+    "summary": "",
+    "score": 1099,
+    "published_at": "2026-11-23T10:06:43+00:00",
+    "ai_summary": "GLM-5.4는 코드 생성 및 이해를 위한 새로운 AI 모델로, 첫 번째 루프 트랜스포머를 도입하여 일반화된 코딩 능력을 목표로 합니다.\n복잡한 코드 패턴과 반복 구조를 더 잘 처리함으로써 개발자의 생산성을 향상시킬 수 있습니다.\nAI 기반 코딩 도구 및 자동화에 큰 진전을 가져올 잠재력이 있습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50623965",
+    "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+    "url": "https://github.com/GenesisAgentInfra/genesis",
+    "discussion_url": "https://news.ycombinator.com/item?id=50623965",
+    "summary": "",
+    "score": 5,
+    "published_at": "2026-11-24T05:04:41+00:00",
+    "ai_summary": "Genesis Map은 AI 에이전트의 작업 흐름과 변경 사항을 시각화하여 잠재적인 오류 지점을 파악하도록 돕는 도구입니다.\n에이전트의 행동을 명확하게 이해하고 디버깅하는 데 필수적인 기능을 제공합니다.\n복잡한 AI 에이전트 시스템을 개발하고 관리하는 개발자들에게 매우 유용합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Tool",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50600838",
+    "title": "C++26 is done (again): ISO C++ meeting trip report",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50600838",
+    "summary": "",
+    "score": 112,
+    "published_at": "2026-11-22T15:59:59+00:00",
+    "ai_summary": "ISO C++ 회의 보고서를 통해 C++26 표준의 개발이 완료되었음이 발표되었습니다.\n새로운 언어 기능, 라이브러리 개선 및 성능 최적화가 포함되어 C++ 생태계에 중요한 변화를 가져올 예정입니다.\nC++ 개발자들은 향후 프로젝트에 적용될 새로운 표준에 대한 정보를 얻을 수 있습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Backend",
+      "Tool"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "source_id": "50619630",
+    "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50619630",
+    "summary": "",
+    "score": 63,
+    "published_at": "2026-11-23T21:30:41+00:00",
+    "ai_summary": "Shirudo는 OpenAI와 Cisco가 공동 개발한 오픈 소스 런타임으로, 패치되지 않은 리눅스 시스템을 보호하기 위해 설계되었습니다.\n잠재적인 취약점으로부터 시스템을 격리하고 방어하는 추가 보안 계층을 제공합니다.\n이는 시스템 보안 강화 및 공격 표면 감소에 기여하는 중요한 도구입니다.",
+    "relevance_score": 0.87,
+    "notable": true,
+    "tags": [
+      "Security",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/perplexity-and-intelligence/",
+    "title": "Perplexity and Intelligence (9 minute read)",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "discussion_url": "https://openai.com/index/perplexity-and-intelligence/",
+    "summary": "Perplexity measures how well a model predicts the next token on average. Lower perplexity means better predictions. Perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing. It will likely play an important role in standardizing how AI progress is discussed as it continues to deliver consistent gains in general intelligence.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "퍼플렉시티는 모델이 다음 토큰을 얼마나 잘 예측하는지 측정하는 지표입니다. 낮은 퍼플렉시티는 더 나은 예측을 의미하며, AI 모델의 발전을 평가하는 데 중요합니다. 이는 AI 모델의 일반 지능 향상에 있어 일관된 기준을 제공합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "title": "Inkling 2 Mini (9 minute read)",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "discussion_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that does extra internal computation to reason more before it answers. It leads every open-weight model under 100B parameters on the DeepSWE coding benchmark.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "Thinking Machines가 26.4B 매개변수의 오픈웨이트 모델인 Inkling 2 Mini를 출시했습니다. 이 모델은 답변 전 추가 내부 연산을 통해 추론 능력을 향상시켰습니다. 100B 미만 오픈웨이트 모델 중 DeepSWE 코딩 벤치마크에서 최고 성능을 보입니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly (29 minute read)",
+    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "discussion_url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "summary": "Frontier AI models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. METR says public evidence can't rule out a drastic speedup in AI research within the next couple of years.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "최첨단 AI 모델들이 코딩 및 최적화 작업에서 숙련된 인간과 필적하거나 능가합니다. AI가 완료할 수 있는 작업의 길이가 약 3.6개월마다 두 배씩 증가합니다. 가까운 미래에 AI 연구 속도가 급격히 빨라질 가능성을 배제할 수 없습니다.",
+    "relevance_score": 0.88,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+    "title": "The Most Important Charts in AI are Wrong (35 minute read)",
+    "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+    "discussion_url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+    "summary": "AI capabilities are starting to become impressive. However, they are still dramatically inferior to what influential AI forecasts and benchmarks have predicted. These forecasts and benchmarks say that we are imminently close to reaching super-intelligence, but the gap between the real world and forecasts keeps growing larger. Now that real-world data exists, it's time to shift from being AI theorists to becoming AI empiricists.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "AI 능력은 인상적이지만, 초지능을 예측한 기존 영향력 있는 예측치에 비하면 아직 부족합니다. 실제 AI 성능과 예측치 사이의 격차가 커지고 있습니다. 이제 AI 이론가에서 AI 경험주의자로 전환하여 실제 데이터에 집중할 때입니다.",
+    "relevance_score": 0.75,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+    "title": "Why Post-Training Could Teach Models to Evade Monitoring (3 minute read)",
+    "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+    "discussion_url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+    "summary": "Penalizing detected reward hacking during post-training could select for behavior that evades monitors. The industry needs stronger training sandboxes, better-audited tasks and graders, and empirical research into whether interventions improve alignment or merely conceal undesirable behavior.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "후학습 과정에서 보상 해킹을 처벌하면 모델이 모니터링을 회피하도록 학습될 수 있습니다. 산업계는 더 강력한 훈련 샌드박스와 잘 감사된 태스크/평가 도구가 필요합니다. 개입이 AI 정렬을 개선하는지, 아니면 단지 바람직하지 않은 행동을 숨기는 것인지에 대한 실증적 연구가 필요합니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Security"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/tencent/Hy4",
+    "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
+    "url": "https://huggingface.co/tencent/Hy4",
+    "discussion_url": "https://huggingface.co/tencent/Hy4",
+    "summary": "Tencent's open-weight Hy4 supports text, image, and video understanding with a 770-billion-parameter backbone activating 49 billion parameters per token. It combines million-token context, sparse attention, and a speculative-decoding drafter, targeting coding, computer use, finance, research, and long-running assistant workflows.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "텐센트가 텍스트, 이미지, 비디오 이해를 지원하는 오픈웨이트 멀티모달 모델 Hy4를 출시했습니다. 7700억 매개변수 백본과 백만 토큰 컨텍스트, 스파스 어텐션 기술을 결합했습니다. 코딩, 컴퓨터 사용, 금융, 연구 등 다양한 장기 어시스턴트 워크플로우를 목표로 합니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Language"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://research.nvidia.com/labs/genair/sigma/",
+    "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
+    "url": "https://research.nvidia.com/labs/genair/sigma/",
+    "discussion_url": "https://research.nvidia.com/labs/genair/sigma/",
+    "summary": "Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step generation and self-speculative decoding, reaching a 3.46x average throughput speedup over autoregressive decoding on a GB200.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "NVIDIA가 Nemotron-Labs-Sigma라는 연속 확산 언어 모델 시리즈를 공개했습니다. 이 모델들은 토큰 임베딩의 노이즈 제거를 통해 텍스트를 생성하며, 14개의 오픈 체크포인트를 포함합니다. 8B 모델은 자기 추측 디코딩으로 기존 방식 대비 3.46배 처리량 속도 향상을 달성했습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "discussion_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "summary": "Hugging Face has introduced harness adapters, allowing models like Qwen3.8-27B to optimize performance in specific harness-task combinations. By incorporating RL-trained LoRA adapters, the models achieve higher accuracy and efficiency, reducing token usage significantly.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "Hugging Face가 하네스 어댑터를 도입하여 모델 성능 및 비용 최적화를 가능하게 했습니다. 이를 통해 Qwen3.8-27B 같은 모델이 특정 하네스-태스크 조합에서 성능을 향상시킬 수 있습니다. RL 훈련된 LoRA 어댑터를 통합하여 정확도와 효율성을 높이고 토큰 사용량을 크게 줄였습니다.",
+    "relevance_score": 0.95,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://community.tldr.tech/t/what-s-your-ai-prediction-for-2027",
+    "title": "What's your AI prediction for 2027? (TLDR Community)",
+    "url": "https://community.tldr.tech/t/what-s-your-ai-prediction-for-2027",
+    "discussion_url": "https://community.tldr.tech/t/what-s-your-ai-prediction-for-2027",
+    "summary": "By the end of 2027, office work will no longer use frontier models, and picking a model yourself could feel as archaic as tweaking its temperature.What are your predictions for 2027? →",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "2027년까지 사무 자동화에 최신 AI 모델 사용이 줄어들고, 직접 모델을 선택하는 방식이 구식이 될 수 있다는 예측입니다. 이는 AI 발전 방향과 개발자의 역할 변화에 대한 질문을 던집니다.",
+    "relevance_score": 0.85,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
+    "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird (15 minute read)",
+    "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
+    "discussion_url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
+    "summary": "Anthropic embraces being atypical because it believes the artificial intelligence future will be anything but normal. Dario Amodei, 43, the company's chief executive, is Anthropic's ideological leader. He has one direct report, his chief of staff and sister, Daniela Amodei, 29. The company has made some unusual choices, and it screens out new hires with culture interviews. This article looks at the Amodeis and how they created a company culture in their likeness.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "Anthropic은 특이한 회사 문화를 추구하며, CEO 다리오 아모데이와 그의 여동생 다니엘라 아모데이가 주도합니다. 이 기사는 그들의 리더십과 독특한 인재 채용 방식에 대해 다룹니다.",
+    "relevance_score": 0.6,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Career"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "title": "Lean verification of the Riemann Hypothesis (3 minute read)",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "discussion_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "summary": "Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code on November 20. The Lean and Mathlib communities have full confidence that Alpöge's proof of the Riemann Hypothesis is correct. Alpöge's library compiles correctly, and the code proves the correct statement. It is expected that the mathematical community will help explain the ideas in the proof in the coming weeks.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "르만 가설에 대한 증명이 Levent Alpöge에 의해 Lean 라이브러리로 발표되었으며, 1,700만 줄의 코드로 구성됩니다. Lean 및 Mathlib 커뮤니티는 이 증명의 정확성을 확신하고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "Language",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://x.com/geminiapp/status/2123813017855103449",
+    "title": "Say hello to GIFs in Gemini (1 minute read)",
+    "url": "https://x.com/geminiapp/status/2123813017855103449",
+    "discussion_url": "https://x.com/geminiapp/status/2123813017855103449",
+    "summary": "Gemini Omni 1.2 Flash can create GIFs with smooth motion and consistent quality across every frame.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "Gemini Omni 1.2 Flash가 이제 부드러운 움직임과 일관된 품질의 GIF를 생성할 수 있는 기능을 제공합니다.",
+    "relevance_score": 0.8,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM",
+      "Tool"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+    "title": "Amazon Nearing $7.5 Billion Purchase of Decart (2 minute read)",
+    "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+    "discussion_url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+    "summary": "Amazon is reportedly nearing a $7.5 billion deal to buy Decart, a three-year-old AI startup.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "아마존이 3년 된 AI 스타트업 Decart를 75억 달러에 인수하는 계약에 근접했다고 보도되었습니다.",
+    "relevance_score": 0.65,
+    "notable": false,
+    "tags": [
+      "AI/ML",
+      "Other"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+    "title": "Meet bison-1 and groundhog-1, frontier American decision models (5 minute read)",
+    "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+    "discussion_url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+    "summary": "bison-1 and groundhog-1 are built on Google's Gemma 4 and are designed for teams that want an American base model.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "bison-1과 groundhog-1은 Google의 Gemma 4를 기반으로 구축된 최첨단 미국 결정 모델이며, 미국 기반 모델을 원하는 팀을 위해 설계되었습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "LLM"
+    ]
+  },
+  {
+    "source": "tldrai",
+    "source_id": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation (13 minute read)",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "discussion_url": "https://openai.com/index/combatting-adversarial-distillation",
+    "summary": "OpenAI is stepping up defenses against adversarial distillation, where outsiders train models on its outputs to copy its capabilities.",
+    "score": 0,
+    "published_at": "2026-11-24T06:47:38+00:00",
+    "ai_summary": "OpenAI는 외부에서 자사 모델 출력을 이용해 기능을 복제하는 '적대적 증류'에 대한 방어책을 강화하고 있습니다.",
+    "relevance_score": 0.9,
+    "notable": true,
+    "tags": [
+      "AI/ML",
+      "Security",
+      "LLM"
+    ]
+  }
+]
